@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高山病","p":true}],"r_ele":[{"r":"こうざんびょう","p":true}],"sense":[{"gloss":"altitude sickness, mountain sickness","pos":["n"]}]},"sdata":[]}

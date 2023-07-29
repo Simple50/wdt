@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"優遇","p":true}],"r_ele":[{"r":"ゆうぐう","p":true}],"sense":[{"gloss":"favorable treatment, favourable treatment, hospitality, warm reception, good treatment, hearty welcome","pos":["n","vs","vt","adj-no"]}]},"sdata":[]}

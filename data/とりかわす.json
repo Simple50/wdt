@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り交わす","p":true},{"e":"取交わす"}],"r_ele":[{"r":"とりかわす","p":true}],"sense":[{"gloss":"to exchange, to interchange","pos":["v5s","vt"]}]},"sdata":[]}

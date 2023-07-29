@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寄宿舎","p":true}],"r_ele":[{"r":"きしゅくしゃ","p":true}],"sense":[{"gloss":"boarding house, residence hall, dormitory","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はまもなく↑寄宿舎↑↓|きしゅくしゃ|↓の↑生活↑↓せいかつ↓にも↑慣↑↓な↓れ、↑友人↑↓ゆうじん↓も２・３↑人↑↓にん↓できました。","e":"He soon got accustomed to dormitory life and made two or three friends."}]}

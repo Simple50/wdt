@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち止め","p":true},{"e":"打ち留め"},{"e":"打止め"},{"e":"打留め"}],"r_ele":[{"r":"うちどめ","p":true}],"sense":[{"gloss":"end (of play, match, etc.), closing","pos":["n"]},{"gloss":"closing a pachinko machine (after it has paid out its designated maximum)","pos":["n"]}]},"sdata":[]}

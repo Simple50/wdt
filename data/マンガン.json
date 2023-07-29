@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"満俺","i":["ateji","rK"]}],"r_ele":[{"r":"マンガン","p":true}],"sense":[{"gloss":"manganese (Mn)","pos":["n"],"l":"ger: Mangan"}],"m":["uk"]},"sdata":[]}

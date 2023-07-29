@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貴ぶ","p":true},{"e":"尊ぶ","p":true}],"r_ele":[{"r":"とうとぶ","p":true},{"r":"たっとぶ","p":true}],"sense":[{"gloss":"to value, to prize, to esteem, to respect","pos":["v5b","vt"]}]},"sdata":[]}

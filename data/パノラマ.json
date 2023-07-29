@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パノラマ","p":true}],"sense":[{"gloss":"panorama","pos":["n"]},{"gloss":"panoramic painting","pos":["n"]}]},"sdata":[]}

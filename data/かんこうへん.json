@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肝硬変","p":true}],"r_ele":[{"r":"かんこうへん","p":true}],"sense":[{"gloss":"cirrhosis (of the liver)","pos":["n"],"f":["med"]}]},"sdata":[]}

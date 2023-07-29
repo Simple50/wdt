@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"帝王切開","p":true}],"r_ele":[{"r":"ていおうせっかい","p":true}],"sense":[{"gloss":"Caesarean section, Cesarean section, C-section","pos":["n"],"f":["med"]}]},"sdata":[{"j":"↑帝王切開↑↓|ていおうせっかい|↓にしてください。","e":"I'd like to have a Caesarian operation."},{"j":"↑半年↑↓はんとし↓↑前↑↓まえ↓に↑帝王切開↑↓|ていおうせっかい|↓しました。","e":"I had a Caesarian section six months ago."}]}

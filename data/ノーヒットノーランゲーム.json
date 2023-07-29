@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノーヒットノーランゲーム","p":true}],"sense":[{"gloss":"no-hit no-run game","pos":["n"],"f":["baseb"]}]},"sdata":[]}

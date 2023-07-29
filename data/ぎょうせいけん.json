@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行政権","p":true}],"r_ele":[{"r":"ぎょうせいけん","p":true}],"sense":[{"gloss":"executive power, authority","pos":["n"]}]},"sdata":[]}

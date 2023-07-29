@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縫いぐるみ","p":true},{"e":"縫い包み"}],"r_ele":[{"r":"ぬいぐるみ","p":true},{"r":"ヌイグルミ"}],"sense":[{"gloss":"stuffed toy, stuffed animal, plush toy, soft toy, cuddly toy","pos":["n"]}],"m":["uk"]},"kdata":{"縫":{"on":["ホウ"],"kun":["ぬ.う"],"jlpt":1,"meanings":["sew","stitch","embroider"],"freq":1723,"comp":[["糸","逢"]],"t":2131}},"sdata":[]}

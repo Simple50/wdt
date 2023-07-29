@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生い茂る","p":true},{"e":"生茂る"},{"e":"おい茂る"},{"e":"生いしげる"}],"r_ele":[{"r":"おいしげる","p":true}],"sense":[{"gloss":"to grow thickly, to be overgrown, to thrive, to grow in abundance","pos":["v5r","vi"]}]},"sdata":[]}

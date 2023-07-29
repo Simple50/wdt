@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パラドックス","p":true},{"r":"パラドクス"}],"sense":[{"gloss":"paradox","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"演者","p":true}],"r_ele":[{"r":"えんじゃ","p":true}],"sense":[{"gloss":"presenter, speaker","pos":["n"]},{"gloss":"performer, actor, participant (in a TV show or TV panel)","pos":["n"]}]},"sdata":[{"j":"↑百↑↓ひゃく↓↑円↑↓|えん↓じゃ|なくて、↑王冠↑↓おうかん↓でした。","e":"It wasn't a 100 yen coin, it was a bottle cap."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"樹脂加工","p":true}],"r_ele":[{"r":"じゅしかこう","p":true}],"sense":[{"gloss":"resin treatment","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファンデーション","p":true},{"r":"ファウンデーション"}],"sense":[{"gloss":"foundation (garment, cream, etc.)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"推奨環境","p":true}],"r_ele":[{"r":"すいしょうかんきょう","p":true}],"sense":[{"gloss":"system requirements (i.e. recommended hardware and software to run a package)","pos":["n"],"f":["comp"]}]},"sdata":[]}

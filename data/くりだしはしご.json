@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"繰り出し梯子","p":true},{"e":"繰出し梯子"},{"e":"繰り出しはしご"},{"e":"繰り出しばしご"}],"r_ele":[{"r":"くりだしはしご","p":true},{"r":"くりだしばしご"}],"sense":[{"gloss":"extension ladder, aerial ladder","pos":["n"]}]},"sdata":[]}

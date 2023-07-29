@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"表看板","p":true}],"r_ele":[{"r":"おもてかんばん","p":true}],"sense":[{"gloss":"sign out in front, front (for someone)","pos":["n"]}]},"sdata":[]}

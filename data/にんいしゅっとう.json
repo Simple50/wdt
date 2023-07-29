@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"任意出頭","p":true}],"r_ele":[{"r":"にんいしゅっとう","p":true}],"sense":[{"gloss":"voluntarily appearing for police questioning","pos":["n","adj-no","vs","vi"]}]},"sdata":[]}

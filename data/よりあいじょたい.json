@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寄り合い所帯","p":true},{"e":"寄合所帯"}],"r_ele":[{"r":"よりあいじょたい","p":true}],"sense":[{"gloss":"congeries of many households, scratch (combined) team, hodge podge of parties","pos":["n"]}]},"sdata":[]}

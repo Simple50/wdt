@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恥さらし","p":true},{"e":"恥晒し"},{"e":"恥曝し","i":["rK"]}],"r_ele":[{"r":"はじさらし","p":true}],"sense":[{"gloss":"disgrace, shame","pos":["n","adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上下動","p":true}],"r_ele":[{"r":"じょうげどう","p":true}],"sense":[{"gloss":"vertical motion (in earthquakes)","pos":["n"]}]},"sdata":[]}

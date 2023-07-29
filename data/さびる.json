@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"錆びる","p":true}],"r_ele":[{"r":"さびる","p":true}],"sense":[{"gloss":"to rust, to become rusty","pos":["v1","vi"]}]},"sdata":[{"j":"↑休↑↓やす↓みすぎは↑錆↑↓|さ↓びる|。","e":"Too much rest is rust."},{"j":"↑雨↑↓あめ↓の↑中↑↓なか↓に↑放置↑↓ほうち↓しておくと↑自転車↑↓じてんしゃ↓は|さびる|でしょう。","e":"A bicycle will rust if you leave it in the rain."}]}

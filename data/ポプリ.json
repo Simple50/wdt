@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポプリ","p":true}],"sense":[{"gloss":"potpourri","pos":["n"],"l":"fre"}]},"sdata":[]}

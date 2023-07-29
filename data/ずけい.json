@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"図形","p":true}],"r_ele":[{"r":"ずけい","p":true}],"sense":[{"gloss":"figure, shape, graphic","pos":["n"]}]},"sdata":[{"j":"やむを↑得↑↓え↓|ず↑契約↑↓けい|やく↓に↑署名↑↓しょめい↓させられた。","e":"He was compelled to sign the contract."}]}

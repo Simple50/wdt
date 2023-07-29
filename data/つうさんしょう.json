@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通産省","p":true}],"r_ele":[{"r":"つうさんしょう","p":true}],"sense":[{"gloss":"(former) Ministry of International Trade and Industry (now Ministry of Economy, Trade and Industry), MITI","pos":["n"]}]},"sdata":[{"j":"その↑件↑↓けん↓は↑通産省↑↓|つうさんしょう|↓の↑管轄↑↓かんかつ↓↑下↑↓か↓にある。","e":"The matter comes under MITI."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"尿酸","p":true}],"r_ele":[{"r":"にょうさん","p":true}],"sense":[{"gloss":"uric acid","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スケープゴート","p":true}],"sense":[{"gloss":"scapegoat","pos":["n"]}]},"sdata":[{"j":"なんで↑俺↑↓おれ↓だけが↑文句↑↓もんく↓↑言↑↓い↓われるのかな。↑一↑↓いち↓↑罰↑↓ばっ↓↑百↑↓ひゃく↓戒のつもりで|スケープゴート|にされたんじゃかなわないよ。","e":"Why am I the only one they complain about? They're just making an example out of me and using me as a scapegoat."}]}

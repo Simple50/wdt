@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目減り","p":true}],"r_ele":[{"r":"めべり","p":true}],"sense":[{"gloss":"loss (of weight or volume, e.g. in transit), ullage, outage","pos":["n","vs","vi"]},{"gloss":"decrease (in value), reduction","pos":["n","vs","vi"]}]},"sdata":[]}

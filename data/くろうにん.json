@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"苦労人","p":true}],"r_ele":[{"r":"くろうにん","p":true}],"sense":[{"gloss":"worldly-wise man","pos":["n"]}]},"sdata":[]}

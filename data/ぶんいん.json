@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分院","p":true}],"r_ele":[{"r":"ぶんいん","p":true}],"sense":[{"gloss":"branch (of an institution), branch hospital, branch temple","pos":["n"]}]},"sdata":[]}

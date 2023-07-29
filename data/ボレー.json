@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボレー","p":true}],"sense":[{"gloss":"volley","pos":["n"]}]},"sdata":[{"j":"↑二↑↓に↓↑人↑↓にん↓の↑選手↑↓せんしゅ↓を↑相手↑↓あいて↓に|ボレー|の↑練習↑↓れんしゅう↓をする。","e":"Practice volleying against two players."},{"j":"スポーツブランドとアニメのコラ|ボレー|ションが↑発表↑↓はっぴょう↓された。","e":"A sports brand and anime collab has been announced."}]}

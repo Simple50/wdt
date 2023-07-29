@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミッドナイト","p":true}],"sense":[{"gloss":"midnight","pos":["n"]}]},"sdata":[{"j":"その↑色↑↓いろ↓は「|ミッドナイト|・ブルー」と↑言↑↓い↓います。","e":"We call that color \"midnight blue\"."}]}

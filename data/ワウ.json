@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワウ","p":true}],"sense":[{"gloss":"wow (audio)","pos":["n"],"x":["ワウフラッター"]}]},"sdata":[]}

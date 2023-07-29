@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豚カツ","p":true},{"e":"豚かつ"}],"r_ele":[{"r":"とんカツ","p":true},{"r":"とんかつ"},{"r":"トンカツ"}],"sense":[{"gloss":"tonkatsu, breaded pork cutlet","pos":["n"],"f":["food"]}],"m":["uk"]},"sdata":[]}

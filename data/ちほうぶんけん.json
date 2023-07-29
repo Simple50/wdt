@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地方分権","p":true}],"r_ele":[{"r":"ちほうぶんけん","p":true}],"sense":[{"gloss":"decentralization of power, decentralisation of power","pos":["n"]}]},"sdata":[]}

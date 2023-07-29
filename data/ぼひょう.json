@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"墓標","p":true},{"e":"墓表"}],"r_ele":[{"r":"ぼひょう","p":true},{"r":"はかじるし"}],"sense":[{"gloss":"grave marker, gravestone, headstone","pos":["n"]},{"gloss":"writing on a headstone (name, date of death, etc.)","pos":["n"]}]},"sdata":[]}

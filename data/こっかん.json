@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酷寒","p":true}],"r_ele":[{"r":"こっかん","p":true},{"r":"こくかん"}],"sense":[{"gloss":"severe cold, intense cold, bitter cold","pos":["n"],"ant":["酷暑"]}]},"sdata":[{"j":"↑救援↑↓きゅうえん↓↑機↑↓き↓は↑強風↑↓きょうふう↓と↑酷寒↑↓|こっかん|↓に↑対処↑↓たいしょ↓しなければならなかった。","e":"The rescue flight had to reckon with strong winds and freezing temperatures."}]}

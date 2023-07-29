@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナトリウム","p":true},{"r":"ソジウム"}],"sense":[{"gloss":"sodium (Na)","pos":["n"],"l":"ger: Natrium"}]},"sdata":[]}

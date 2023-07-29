@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝返る","p":true}],"r_ele":[{"r":"ねがえる","p":true}],"sense":[{"gloss":"to change sides, to double-cross, to betray","pos":["v5r","vi"]},{"gloss":"to roll over (in bed), to turn over","pos":["v5r","vi"]}]},"sdata":[]}

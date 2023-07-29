@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペースメーカー","p":true},{"r":"ペースメーカ"}],"sense":[{"gloss":"pacemaker","pos":["n"]},{"gloss":"pacesetter","pos":["n"]}]},"sdata":[]}

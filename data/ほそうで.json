@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細腕","p":true}],"r_ele":[{"r":"ほそうで","p":true}],"sense":[{"gloss":"thin arm, slender arm","pos":["n"]},{"gloss":"slender means, meager ability to earn a living","pos":["n"]}]},"sdata":[{"j":"この↑道路↑↓どうろ↓は↑未↑↓み↓↑舗装↑↓|ほそう↓で|↑凸凹↑↓でこぼこ↓している。","e":"This road is unpaved and uneven."}]}

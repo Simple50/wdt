@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"環太平洋","p":true}],"r_ele":[{"r":"かんたいへいよう","p":true}],"sense":[{"gloss":"Pacific Rim","pos":["n"]}]},"sdata":[]}

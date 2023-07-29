@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入幕","p":true}],"r_ele":[{"r":"にゅうまく","p":true}],"sense":[{"gloss":"advancing to the first grade","pos":["n","vs","vi"]}]},"sdata":[]}

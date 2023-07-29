@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遷宮","p":true}],"r_ele":[{"r":"せんぐう","p":true}],"sense":[{"gloss":"installation of a deity in a new shrine, transfer of a shrine","pos":["n","vs","vi"]}]},"sdata":[]}

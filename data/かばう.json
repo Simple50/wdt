@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"庇う","p":true}],"r_ele":[{"r":"かばう","p":true}],"sense":[{"gloss":"to protect (someone), to look after (e.g. an injured leg), to defend, to cover for, to stand up for, to stick up for","pos":["v5u","vt"]}],"m":["uk"]},"sdata":[{"j":"↑始↑↓はじ↓まりがうまければ↑半↑↓な|か↓ばう|まくいったもおなじ。","e":"Well begun is half done."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"被覆","p":true}],"r_ele":[{"r":"ひふく","p":true}],"sense":[{"gloss":"coating, covering","pos":["n","vs"]},{"gloss":"cover","pos":["n","vs"],"f":["math"]}]},"sdata":[]}

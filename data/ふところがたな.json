@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"懐刀","p":true}],"r_ele":[{"r":"ふところがたな","p":true}],"sense":[{"gloss":"dagger, stiletto","pos":["n"]},{"gloss":"confidant, right-hand man","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横車","p":true}],"r_ele":[{"r":"よこぐるま","p":true}],"sense":[{"gloss":"perverseness, obstinacy, something unreasonable (like pushing a cart from the side (instead of from behind))","pos":["exp","n"],"x":["横車を押す"]},{"gloss":"side wheel throw (judo)","pos":["n"]}]},"sdata":[]}

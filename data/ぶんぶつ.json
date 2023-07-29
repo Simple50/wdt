@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文物","p":true}],"r_ele":[{"r":"ぶんぶつ","p":true}],"sense":[{"gloss":"(the products of) culture or civilization (civilisation)","pos":["n"]}]},"sdata":[]}

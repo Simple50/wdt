@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二十世紀","p":true},{"e":"２０世紀"}],"r_ele":[{"r":"にじっせいき","p":true},{"r":"にじゅっせいき"}],"sense":[{"gloss":"twentieth century","pos":["n"]}]},"sdata":[]}

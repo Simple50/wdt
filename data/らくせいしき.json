@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落成式","p":true}],"r_ele":[{"r":"らくせいしき","p":true}],"sense":[{"gloss":"ceremony to celebrate the completion of a building, inauguration ceremony","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓↑達↑↓たち↓はそのビルの↑落成↑↓|らくせい↓↑式↑↓しき|↓に↑出席↑↓しゅっせき↓しました。","e":"We were present at the dedication ceremony of the building."}]}

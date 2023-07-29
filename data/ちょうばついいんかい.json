@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"懲罰委員会","p":true}],"r_ele":[{"r":"ちょうばついいんかい","p":true}],"sense":[{"gloss":"disciplinary committee","pos":["n"]}]},"sdata":[]}

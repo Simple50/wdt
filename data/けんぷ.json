@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絹布","p":true}],"r_ele":[{"r":"けんぷ","p":true}],"sense":[{"gloss":"silk, silk cloth","pos":["n"]}]},"sdata":[]}

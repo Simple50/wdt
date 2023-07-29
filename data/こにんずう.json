@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小人数","p":true}],"r_ele":[{"r":"こにんずう","p":true},{"r":"こにんず"}],"sense":[{"gloss":"small number of people","pos":["n"]}]},"sdata":[]}

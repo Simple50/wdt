@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砂防","p":true}],"r_ele":[{"r":"さぼう","p":true}],"sense":[{"gloss":"erosion control","pos":["n"]}]},"kdata":{"砂":{"on":["サ","シャ"],"kun":["すな"],"jlpt":2,"meanings":["sand"],"freq":1146,"comp":[["少","石"]],"t":929},"防":{"on":["ボウ"],"kun":["ふせ.ぐ"],"jlpt":2,"meanings":["resist","ward off","defend","protect"],"freq":331,"comp":[["阝","方"]],"t":567}},"sdata":[]}

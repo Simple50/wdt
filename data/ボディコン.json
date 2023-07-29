@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボディコン","p":true}],"sense":[{"gloss":"body-conscious (look), tight-fitting (clothing)","pos":["adj-no","n"],"x":["ボディーコンシャス"]}],"m":["abbr"]},"sdata":[]}

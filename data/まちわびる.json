@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待ちわびる","p":true},{"e":"待ち侘びる"},{"e":"待ち詫びる"},{"e":"待ち佗びる","i":["iK"]}],"r_ele":[{"r":"まちわびる","p":true}],"sense":[{"gloss":"to be tired of waiting, to wait impatiently","pos":["v1","vt"]}]},"sdata":[]}

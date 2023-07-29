@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"何人","p":true},{"e":"何びと"}],"r_ele":[{"r":"なにびと","p":true},{"r":"なんびと"},{"r":"なんぴと"}],"sense":[{"gloss":"anyone, any person, whoever","pos":["pn"]}]},"sdata":[{"j":"ところで、↑何人↑↓|なにびと|↓の↑子↑↓こ↓どもが↑行↑↓い↓くのですか。","e":"By the way, how many kids are going?"}]}

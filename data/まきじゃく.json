@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巻尺","p":true},{"e":"巻き尺"},{"e":"巻きじゃく"}],"r_ele":[{"r":"まきじゃく","p":true}],"sense":[{"gloss":"tape measure","pos":["n"]}]},"sdata":[{"j":"↑時々↑↓ときどき↓、↑仕事↑↓しごと↓がら↑簡易↑↓かんい↓に↑巻↑↓|ま↓き↑尺↑↓じゃく|↓などで↑面積↑↓めんせき↓を↑測定↑↓そくてい↓することがあります。","e":"In my work, I sometimes simply determine an area with a tape measure."}]}

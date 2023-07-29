@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"映写機","p":true}],"r_ele":[{"r":"えいしゃき","p":true}],"sense":[{"gloss":"movie projector, film projector, cine projector","pos":["n"],"x":["プロジェクター"]}]},"sdata":[]}

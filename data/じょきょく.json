@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"序曲","p":true}],"r_ele":[{"r":"じょきょく","p":true}],"sense":[{"gloss":"overture, prelude","pos":["n"]}]},"sdata":[]}

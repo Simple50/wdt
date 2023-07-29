@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニッカーズ","p":true}],"sense":[{"gloss":"knickers","pos":["n"]}]},"sdata":[]}

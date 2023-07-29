@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イーブンパー","p":true},{"r":"イーブン・パー"}],"sense":[{"gloss":"even par","pos":["n"],"f":["golf"]}]},"sdata":[]}

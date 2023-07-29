@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"慣用句","p":true}],"r_ele":[{"r":"かんようく","p":true}],"sense":[{"gloss":"idiom, set phrase, idiomatic phrase","pos":["n"]}]},"sdata":[{"j":"どうして↑英語↑↓えいご↓って、↑慣用↑↓|かんよう↓↑句↑↓く|↓や↑句↑↓く↓↑動詞↑↓どうし↓がこんなに↑多↑↓おお↓いの？","e":"Why does English have so many idioms and phrasal verbs?"}]}

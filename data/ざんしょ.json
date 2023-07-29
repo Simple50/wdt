@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"残暑","p":true}],"r_ele":[{"r":"ざんしょ","p":true}],"sense":[{"gloss":"late summer heat, lingering summer heat","pos":["n"],"x":["立秋"]}]},"sdata":[{"j":"そこは↑高山↑↓こう|ざん↓↑植物↑↓しょ|くぶつ↓が↑豊富↑↓ほうふ↓だ。","e":"Alpine flowers are abundant there."},{"j":"↑残暑↑↓|ざんしょ|↓↑厳↑↓きび↓しい↑折↑↓おり↓いかがお↑過↑↓す↓ごしでしょうか。","e":"How are you doing in this scorching late summer heat?"}]}

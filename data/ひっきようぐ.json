@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"筆記用具","p":true}],"r_ele":[{"r":"ひっきようぐ","p":true}],"sense":[{"gloss":"writing implement, writing tool","pos":["n"]}]},"sdata":[{"j":"ペンや↑鉛筆↑↓えんぴつ↓は↑筆記用具↑↓|ひっきようぐ|↓である。","e":"Pens and pencils are examples of writing tools."},{"j":"↑筆記用具↑↓|ひっきようぐ|↓を↑持↑↓も↓って↑来↑↓く↓るのを↑忘↑↓わす↓れた。","e":"I have forgotten to bring something to write with."}]}

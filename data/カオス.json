@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カオス","p":true}],"sense":[{"gloss":"chaos","pos":["n"],"l":"gre: khaos"}]},"sdata":[{"j":"↑私↑↓わたし↓がいなかったら、この↑事務所↑↓じむしょ↓は３↑日↑↓にち↓で|カオス|ですよ。","e":"If I wasn't here, this office would be in chaos in three days."}]}

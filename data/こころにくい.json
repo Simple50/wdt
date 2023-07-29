@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心憎い","p":true}],"r_ele":[{"r":"こころにくい","p":true}],"sense":[{"gloss":"refined, admirable, superb","pos":["adj-i"]}]},"sdata":[{"j":"↑君↑↓きみ↓はなかなか↑心憎↑↓|こころにく↓い|ことをいうね。","e":"You say the nicest things, don't you?"}]}

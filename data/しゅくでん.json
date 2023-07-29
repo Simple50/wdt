@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"祝電","p":true}],"r_ele":[{"r":"しゅくでん","p":true}],"sense":[{"gloss":"congratulatory telegram","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓に↑祝電↑↓|しゅくでん|↓を↑打↑↓う↓ってきた。","e":"He telegraphed me his congratulations."},{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓に↑祝電↑↓|しゅくでん|↓を↑打↑↓う↓ってよこした。","e":"He sent me his congratulations by wire."}]}

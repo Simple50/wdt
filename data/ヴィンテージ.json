@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヴィンテージ","p":true},{"r":"ビンテージ"}],"sense":[{"gloss":"vintage","pos":["adj-f","n"]}]},"sdata":[]}

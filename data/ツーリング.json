@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ツーリング","p":true}],"sense":[{"gloss":"touring (by car, bike, etc.)","pos":["n","vs"]}]},"sdata":[{"j":"ハーレーダビッドソンでの|ツーリング|を↑体験↑↓たいけん↓したいです。","e":"I'd like to experience a tour on a Harley Davidson."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"今日的","p":true}],"r_ele":[{"r":"こんにちてき","p":true}],"sense":[{"gloss":"modern, up-to-date","pos":["adj-na"]}]},"sdata":[]}

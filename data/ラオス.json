@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"羅宇","i":["ateji","rK"]}],"r_ele":[{"r":"ラオス","p":true}],"sense":[{"gloss":"Laos","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"ヴィエンチャンは|ラオス|の↑首都↑↓しゅと↓。","e":"Vientiane is the capital of Laos."}]}

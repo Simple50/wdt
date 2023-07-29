@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空位","p":true}],"r_ele":[{"r":"くうい","p":true}],"sense":[{"gloss":"vacant post, vacancy","pos":["n"]},{"gloss":"post in name only","pos":["n"]}]},"sdata":[]}

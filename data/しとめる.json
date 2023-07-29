@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仕留める","p":true},{"e":"為留める"}],"r_ele":[{"r":"しとめる","p":true}],"sense":[{"gloss":"to bring down (an animal, opponent, etc.), to kill, to shoot dead, to shoot down","pos":["v1","vt"]}]},"sdata":[]}

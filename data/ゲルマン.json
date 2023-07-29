@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日耳曼","i":["ateji","rK"]}],"r_ele":[{"r":"ゲルマン","p":true}],"sense":[{"gloss":"Germanic (people, language, culture, etc.)","pos":["adj-f"],"l":"ger: Germane"}],"m":["uk"]},"sdata":[]}

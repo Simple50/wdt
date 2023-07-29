@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"檄","p":true}],"r_ele":[{"r":"げき","p":true}],"sense":[{"gloss":"(written) appeal, circular, manifesto","pos":["n"]},{"gloss":"encouragement, encouraging words, letter of encouragement","pos":["n"],"m":["col"]}]},"kdata":{"檄":{"on":["ケキ"],"kun":["げき.する","ふれぶみ"],"meanings":["appeal","written appeal","manifesto"],"freq":2432,"comp":[["木","敫"]]}},"sdata":[]}

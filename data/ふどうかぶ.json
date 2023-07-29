@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浮動株","p":true}],"r_ele":[{"r":"ふどうかぶ","p":true}],"sense":[{"gloss":"floating stock","pos":["n"]}]},"sdata":[]}

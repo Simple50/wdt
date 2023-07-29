@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボレロ","p":true}],"sense":[{"gloss":"bolero (dance)","pos":["n"],"f":["music"],"l":"spa"},{"gloss":"bolero (clothing), shrug","pos":["n"],"l":"spa"}]},"sdata":[]}

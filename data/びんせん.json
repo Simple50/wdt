@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"便箋","p":true},{"e":"便せん"}],"r_ele":[{"r":"びんせん","p":true}],"sense":[{"gloss":"writing paper, stationery, notepaper","pos":["n"]}]},"sdata":[{"j":"その↑便↑↓|びん↓せん|には↑校章↑↓こうしょう↓が↑打↑↓う↓ち↑出↑↓だ↓しにされている。","e":"The note is embossed with the school emblem."},{"j":"↑便箋↑↓|びんせん|↓をください。","e":"I need some writing paper."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重箱","p":true}],"r_ele":[{"r":"じゅうばこ","p":true}],"sense":[{"gloss":"jūbako, multi-tiered food box","pos":["n"]}]},"sdata":[]}

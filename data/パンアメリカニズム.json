@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パンアメリカニズム","p":true}],"sense":[{"gloss":"Pan-Americanism","pos":["n"]}]},"sdata":[]}

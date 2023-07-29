@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トロイカ","p":true}],"sense":[{"gloss":"troika","pos":["n"],"l":"rus: troyka"}]},"sdata":[]}

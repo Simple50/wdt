@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"政局","p":true}],"r_ele":[{"r":"せいきょく","p":true}],"sense":[{"gloss":"political situation","pos":["n"]}]},"sdata":[{"j":"↑新↑↓あたら↓しい↑政党↑↓せいとう↓の↑名前↑↓なまえ↓は「↑政局↑↓|せいきょく|↓より↑政策↑↓せいさく↓」と↑決↑↓き↓まった。","e":"It was decided that the new political party's name would be \"Policy over Politics\"."}]}

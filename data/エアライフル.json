@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エアライフル","p":true},{"r":"エア・ライフル"}],"sense":[{"gloss":"air rifle","pos":["n"]}]},"sdata":[]}

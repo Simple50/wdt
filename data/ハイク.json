@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイク","p":true}],"sense":[{"gloss":"hike","pos":["n"]}]},"sdata":[{"j":"ヒッチ|ハイク|はオーストラリアでは↑禁止↑↓きんし↓なんですか？","e":"Is hitchhiking prohibited in Australia?"},{"j":"ヒッチ|ハイク|は↑好↑↓す↓きじゃないんだ。","e":"I don't like hitchhiking."},{"j":"ヒッチ|ハイク|は↑嫌↑↓いや↓だな。","e":"I don't like hitchhiking."},{"j":"ヒッチ|ハイク|って、したことある？","e":"Have you ever hitchhiked?"}]}

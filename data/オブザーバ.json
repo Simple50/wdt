@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オブザーバー","p":true},{"r":"オブザーバ","p":true}],"sense":[{"gloss":"observer","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売り主","p":true},{"e":"売主"}],"r_ele":[{"r":"うりぬし","p":true}],"sense":[{"gloss":"seller, vendor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コニーデ","p":true}],"sense":[{"gloss":"composite volcano, stratovolcano","pos":["n"],"x":["成層火山・せいそうかざん"],"l":"ger: Konide"}]},"sdata":[]}

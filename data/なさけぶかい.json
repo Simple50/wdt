@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"情け深い","p":true},{"e":"情深い"}],"r_ele":[{"r":"なさけぶかい","p":true}],"sense":[{"gloss":"tender-hearted, compassionate, charitable, good-hearted","pos":["adj-i"]}]},"sdata":[]}

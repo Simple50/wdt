@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"模擬店","p":true}],"r_ele":[{"r":"もぎてん","p":true}],"sense":[{"gloss":"refreshment booth, refreshment stand, snack bar","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"渡り合う","p":true}],"r_ele":[{"r":"わたりあう","p":true}],"sense":[{"gloss":"to fight (with), to cross swords, to compete (with)","pos":["v5u","vi"]},{"gloss":"to argue (with), to have an argument, to have a dispute, to debate","pos":["v5u","vi"]}]},"sdata":[]}

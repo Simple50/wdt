@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"革靴","p":true},{"e":"皮靴"},{"e":"革沓"}],"r_ele":[{"r":"かわぐつ","p":true}],"sense":[{"gloss":"leather shoes, leather boots","pos":["n"]}]},"sdata":[{"j":"↑革靴↑↓|かわぐつ|↓を↑買↑↓か↓ったんだ。","e":"I bought a pair of leather shoes."}]}

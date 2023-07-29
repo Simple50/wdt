@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"猫舌","p":true}],"r_ele":[{"r":"ねこじた","p":true}],"sense":[{"gloss":"dislike of very hot food or drink, inability to take hot food, cat tongue","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓はとても↑猫舌↑↓|ねこじた|↓なんです。","e":"I can't eat or drink very hot things."}]}

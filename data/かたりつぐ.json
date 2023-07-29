@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"語り継ぐ","p":true},{"e":"語りつぐ"}],"r_ele":[{"r":"かたりつぐ","p":true}],"sense":[{"gloss":"to pass down (a story) from generation to generation, to hand down","pos":["v5g","vt"]}]},"sdata":[]}

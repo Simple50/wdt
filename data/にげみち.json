@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逃げ道","p":true},{"e":"逃道"},{"e":"逃げ路","i":["iK"]}],"r_ele":[{"r":"にげみち","p":true}],"sense":[{"gloss":"way out, means to escape, escape route","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓に↑逃↑↓|に↓げ↑道↑↓みち|↓はない。","e":"There's no escape for her."},{"j":"↑逃↑↓|に↓げ↑道↑↓みち|↓がない。","e":"There's nowhere to run."}]}

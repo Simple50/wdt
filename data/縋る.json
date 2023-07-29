@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縋る","p":true}],"r_ele":[{"r":"すがる","p":true}],"sense":[{"gloss":"to cling to, to hang onto","pos":["v5r","vi"]},{"gloss":"to rely on, to depend on","pos":["v5r","vi"]},{"gloss":"to implore, to entreat","pos":["v5r"]}],"m":["uk"]},"kdata":{"縋":{"on":["ツイ"],"kun":["すが.る"],"meanings":["cling","hang on","depend"],"comp":[["糸","追"]],"freq":4459}},"sdata":[]}

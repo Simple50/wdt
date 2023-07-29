@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中華人民共和国","p":true}],"r_ele":[{"r":"ちゅうかじんみんきょうわこく","p":true}],"sense":[{"gloss":"People's Republic of China","pos":["n"]}]},"sdata":[]}

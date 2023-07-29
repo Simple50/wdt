@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極彩色","p":true}],"r_ele":[{"r":"ごくさいしき","p":true},{"r":"ごくさいしょく","i":["ik"]}],"sense":[{"gloss":"richly colored, richly coloured","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱脈","p":true}],"r_ele":[{"r":"らんみゃく","p":true}],"sense":[{"gloss":"disorder, confusion, chaos","pos":["adj-na","n"]}]},"sdata":[]}

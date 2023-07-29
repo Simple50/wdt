@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上等兵","p":true}],"r_ele":[{"r":"じょうとうへい","p":true}],"sense":[{"gloss":"private first-class (army), airman first class (air force), lance corporal (US Marines; Commonwealth military), seaman (navy)","pos":["n"],"f":["mil"]}]},"sdata":[]}

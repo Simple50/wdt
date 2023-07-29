@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"襲名","p":true}],"r_ele":[{"r":"しゅうめい","p":true}],"sense":[{"gloss":"succession to another's professional name","pos":["n","vs","vt"]}]},"sdata":[]}

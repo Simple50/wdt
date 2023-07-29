@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バックハンド","p":true}],"sense":[{"gloss":"backhand","pos":["n"],"f":["sports"],"x":["フォアハンド"]}]},"sdata":[{"j":"テニスやピンポンの|バックハンド|では↑手↑↓て↓は↑球↑↓たま↓を↑打↑↓う↓つ↑際↑↓さい↓↑逆↑↓ぎゃく↓↑向↑↓む↓きになる。","e":"In tennis and ping-pong backhand the hand is turned backwards in making the stroke."}]}

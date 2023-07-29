@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"就活","p":true}],"r_ele":[{"r":"しゅうかつ","p":true}],"sense":[{"gloss":"job hunting, job searching","pos":["n"],"x":["就職活動"]}],"m":["abbr"]},"sdata":[{"j":"↑就活↑↓|しゅうかつ|↓どんな↑感↑↓かん↓じ？","e":"How's the job hunt?"}]}

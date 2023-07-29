@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無尽蔵","p":true}],"r_ele":[{"r":"むじんぞう","p":true}],"sense":[{"gloss":"inexhaustible supply","pos":["n","adj-no","adj-na"]}]},"sdata":[{"j":"↑私↑↓わたし↓↑達↑↓たち↓は、↑地球↑↓ちきゅう↓のエネルギー↑資源↑↓しげん↓をまるで↑無尽蔵↑↓|むじんぞう|↓であるかのように↑使↑↓つか↓ってきた。","e":"We have used earth's energy resources as if they were limitless."}]}

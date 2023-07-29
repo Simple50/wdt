@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リクード","p":true}],"sense":[{"gloss":"Likud (Israeli political party)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パープル","p":true}],"sense":[{"gloss":"purple","pos":["n"]}]},"sdata":[{"j":"|パープル|のセーターよりグレーの↑方↑↓ほう↓が↑好↑↓す↓きです。","e":"I like the gray sweater more than the purple one."},{"j":"↑紅茶↑↓こうちゃ↓は、|パープル|のカップで↑飲↑↓の↓むのが↑好↑↓す↓きだな。","e":"I like to drink my tea in a purple cup."},{"j":"ブルーっていうより、|パープル|ね。","e":"It's more purple than blue."}]}

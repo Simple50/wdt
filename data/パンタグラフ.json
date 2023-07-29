@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パンタグラフ","p":true},{"r":"パントグラフ"}],"sense":[{"gloss":"pantograph","pos":["n"]}]},"sdata":[]}

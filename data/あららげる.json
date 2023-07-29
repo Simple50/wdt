@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒らげる","p":true}],"r_ele":[{"r":"あららげる","p":true}],"sense":[{"gloss":"to roughen (e.g. one's attitude), to raise (one's voice)","pos":["v1","vt"]}]},"sdata":[]}

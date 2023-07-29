@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二通り","p":true}],"r_ele":[{"r":"ふたとおり","p":true}],"sense":[{"gloss":"pair, two kinds, two ways","pos":["n"]}]},"sdata":[{"j":"この↑文↑↓ぶん↓は↑二↑↓|ふた↓↑通↑↓とお↓り|に↑解釈↑↓かいしゃく↓することができる。","e":"This sentence can be interpreted in two ways."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き落とす","p":true},{"e":"突き落す"},{"e":"突落す"},{"e":"突落とす"}],"r_ele":[{"r":"つきおとす","p":true}],"sense":[{"gloss":"to thrust down, to push off","pos":["v5s","vt"]}]},"sdata":[]}

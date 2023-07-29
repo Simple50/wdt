@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三回忌","p":true}],"r_ele":[{"r":"さんかいき","p":true}],"sense":[{"gloss":"second anniversary of a death","pos":["n"]}]},"sdata":[]}

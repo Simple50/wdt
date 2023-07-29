@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旅券","p":true}],"r_ele":[{"r":"りょけん","p":true}],"sense":[{"gloss":"passport","pos":["n"],"x":["パスポート"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は、↑旅券↑↓|りょけん|↓を↑余↑↓あま↓そうとした。","e":"He tried to save something from his travel expenses."},{"j":"↑旅券↑↓|りょけん|↓をどこかに↑置↑↓お↓き↑忘↑↓わす↓れました。","e":"I left my passport somewhere."}]}

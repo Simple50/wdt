@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陸上自衛隊","p":true}],"r_ele":[{"r":"りくじょうじえいたい","p":true}],"sense":[{"gloss":"Japan Ground Self-Defense Force, JGSDF","pos":["n"]}]},"sdata":[]}

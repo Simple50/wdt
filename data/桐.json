@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"桐","p":true}],"r_ele":[{"r":"きり","p":true},{"r":"キリ"}],"sense":[{"gloss":"paulownia (Paulownia tomentosa), empress tree, foxglove tree","pos":["n"]}]},"kdata":{"桐":{"on":["トウ","ドウ"],"kun":["きり"],"meanings":["paulownia"],"freq":1668,"comp":[["同","木"]],"jlpt":0,"t":1207}},"sdata":[]}

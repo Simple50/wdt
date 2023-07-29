@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆逐艦","p":true}],"r_ele":[{"r":"くちくかん","p":true}],"sense":[{"gloss":"destroyer (ship)","pos":["n"]}]},"sdata":[]}

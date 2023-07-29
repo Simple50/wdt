@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"労働委員会","p":true}],"r_ele":[{"r":"ろうどういいんかい","p":true}],"sense":[{"gloss":"labor-relations board, labour-relations board","pos":["n"]}]},"sdata":[]}

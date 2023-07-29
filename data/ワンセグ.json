@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワンセグ","p":true}],"sense":[{"gloss":"1seg (Japanese terrestrial digital broadcasting service for mobile devices)","pos":["n"]}]},"sdata":[]}

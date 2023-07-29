@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通信衛星","p":true}],"r_ele":[{"r":"つうしんえいせい","p":true}],"sense":[{"gloss":"communication satellite, Broadcast Satellite, BS","pos":["n"]}]},"sdata":[{"j":"ロケットは↑通信↑↓|つうしん↓↑衛星↑↓えいせい|↓を↑軌道↑↓きどう↓に↑乗↑↓の↓せた。","e":"The rocket put a communications satellite into orbit."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"量刑","p":true}],"r_ele":[{"r":"りょうけい","p":true}],"sense":[{"gloss":"judge's sentence, assessment of a case","pos":["n","vs","vi"]}]},"sdata":[]}

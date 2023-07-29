@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"張り紙","p":true},{"e":"貼り紙"},{"e":"はり紙"},{"e":"張紙"},{"e":"貼紙","i":["io"]}],"r_ele":[{"r":"はりがみ","p":true}],"sense":[{"gloss":"paper patch, paper backing, poster, sticker, label","pos":["n"]}]},"sdata":[{"j":"↑張↑↓|は↓り↑紙↑↓がみ|↓お↑断↑↓ことわ↓り。","e":"Post No Bills."},{"j":"↑張↑↓|は↓り↑紙↑↓がみ|↓を↑出↑↓だ↓した。","e":"I put up a notice."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"急ピッチ","p":true}],"r_ele":[{"r":"きゅうピッチ","p":true}],"sense":[{"gloss":"quick pace","pos":["adj-na","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北九州","p":true}],"r_ele":[{"r":"きたきゅうしゅう","p":true}],"sense":[{"gloss":"Kitakyushu (city)","pos":["n"]}]},"sdata":[]}

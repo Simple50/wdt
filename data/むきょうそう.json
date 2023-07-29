@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無競争","p":true}],"r_ele":[{"r":"むきょうそう","p":true}],"sense":[{"gloss":"lacking opposition or competition","pos":["n"]}]},"sdata":[]}

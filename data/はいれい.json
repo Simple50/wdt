@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"拝礼","p":true}],"r_ele":[{"r":"はいれい","p":true}],"sense":[{"gloss":"worship","pos":["n","vs","vi"]}]},"sdata":[]}

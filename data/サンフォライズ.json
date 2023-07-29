@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンフォライズ","p":true}],"sense":[{"gloss":"Sanforized, Sanforised","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"車代","p":true}],"r_ele":[{"r":"くるまだい","p":true}],"sense":[{"gloss":"carfare, cartage fee, honorarium","pos":["n"]}]},"sdata":[]}

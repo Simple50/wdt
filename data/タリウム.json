@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タリウム","p":true}],"sense":[{"gloss":"thallium (Tl)","pos":["n","adj-no"]}]},"sdata":[]}

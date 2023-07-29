@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国家公務員","p":true}],"r_ele":[{"r":"こっかこうむいん","p":true}],"sense":[{"gloss":"government official","pos":["n"]}]},"sdata":[]}

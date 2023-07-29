@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敬老","p":true}],"r_ele":[{"r":"けいろう","p":true}],"sense":[{"gloss":"respect for the aged","pos":["n"]}]},"sdata":[{"j":"↑敬老↑↓|けいろう|↓の↑日↑↓ひ↓には↑祖父母↑↓そふぼ↓を↑訪↑↓たず↓ねて↑孝行↑↓こうこう↓します。","e":"On the Respect-for-Senior-Citizens Day, we visit our grandparents and do nice things for them."}]}

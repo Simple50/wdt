@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"川魚","p":true}],"r_ele":[{"r":"かわうお"},{"r":"かわざかな","p":true}],"sense":[{"gloss":"river fish, freshwater fish","pos":["n"]}]},"sdata":[]}

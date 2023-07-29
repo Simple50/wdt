@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"親玉","p":true}],"r_ele":[{"r":"おやだま","p":true}],"sense":[{"gloss":"boss, chief, head","pos":["n"]}]},"sdata":[]}

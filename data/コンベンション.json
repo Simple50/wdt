@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンベンション","p":true}],"sense":[{"gloss":"convention","pos":["n"]}]},"sdata":[]}

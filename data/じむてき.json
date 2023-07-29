@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事務的","p":true}],"r_ele":[{"r":"じむてき","p":true}],"sense":[{"gloss":"administrative, businesslike, practical","pos":["adj-na"]},{"gloss":"impersonal, perfunctory, robot-like","pos":["adj-na"]}]},"sdata":[]}

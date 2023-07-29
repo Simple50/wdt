@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クロニクル","p":true}],"sense":[{"gloss":"chronicle","pos":["n"]}]},"sdata":[]}

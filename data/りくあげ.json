@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陸揚げ","p":true}],"r_ele":[{"r":"りくあげ","p":true}],"sense":[{"gloss":"unloading (a ship), landing","pos":["n","vs","vt"]}]},"sdata":[]}

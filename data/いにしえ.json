@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"古","p":true},{"e":"古え"}],"r_ele":[{"r":"いにしえ","p":true}],"sense":[{"gloss":"antiquity, ancient times","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑衣服↑↓いふく↓は↑着↑↓き↓↑古↑↓|いにしえ|↓されている。","e":"His clothes are worn out."}]}

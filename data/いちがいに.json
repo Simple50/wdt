@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一概に","p":true}],"r_ele":[{"r":"いちがいに","p":true}],"sense":[{"gloss":"unconditionally, as a rule","pos":["adv"]}]},"sdata":[{"j":"そうですね。↑一概↑↓|いちがい↓に|は↑言↑↓い↓えませんね。","e":"Yes, well, that depends."},{"j":"↑昼↑↓ひる↓と↑夜↑↓よる↓は↑互↑↓たが↓|い↑違↑↓ちが↓いに|やってくる。","e":"Day and night come alternately."}]}

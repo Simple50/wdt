@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サラブレッド","p":true},{"r":"サラブレット","i":["ik"]}],"sense":[{"gloss":"thoroughbred (horse)","pos":["n"]},{"gloss":"person of lineage, blue-blood","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は|サラブレッド|だ。","e":"He's a blue blood."}]}

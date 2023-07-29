@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奪い合い","p":true}],"r_ele":[{"r":"うばいあい","p":true}],"sense":[{"gloss":"scramble (for)","pos":["n"]}]},"sdata":[]}

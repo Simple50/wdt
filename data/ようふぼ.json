@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"養父母","p":true}],"r_ele":[{"r":"ようふぼ","p":true}],"sense":[{"gloss":"adoptive parents","pos":["n"]}]},"sdata":[]}

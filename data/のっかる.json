@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗っかる","p":true},{"e":"載っかる"}],"r_ele":[{"r":"のっかる","p":true}],"sense":[{"gloss":"to get on, to climb on","pos":["v5r","vi"]}],"m":["col"]},"sdata":[]}

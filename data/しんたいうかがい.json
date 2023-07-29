@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"進退伺い","p":true},{"e":"進退伺"}],"r_ele":[{"r":"しんたいうかがい","p":true}],"sense":[{"gloss":"informal resignation, unofficial resignation","pos":["n"]}]},"sdata":[]}

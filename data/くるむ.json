@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"包む","p":true}],"r_ele":[{"r":"くるむ","p":true}],"sense":[{"gloss":"to wrap up, to pack, to do up, to cover with, to dress in","pos":["v5m","vt"],"x":["包む・つつむ・1"]}],"m":["uk"]},"sdata":[]}

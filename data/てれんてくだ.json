@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手練手管","p":true}],"r_ele":[{"r":"てれんてくだ","p":true}],"sense":[{"gloss":"wiles, art of coaxing","pos":["n"]}],"m":["yoji"]},"sdata":[]}

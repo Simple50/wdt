@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"香港","p":true}],"r_ele":[{"r":"ホンコン","p":true}],"sense":[{"gloss":"Hong Kong, Hongkong","pos":["n"]}]},"sdata":[{"j":"この↑金↑↓きん↓で|ホンコン|までは↑十↑↓じゅう↓↑分↑↓ふん↓いけるだろう。","e":"The money will be enough to carry me to Hong Kong."}]}

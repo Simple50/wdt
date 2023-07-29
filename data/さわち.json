@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"沢地","p":true}],"r_ele":[{"r":"さわち","p":true}],"sense":[{"gloss":"marshy land","pos":["n"]}]},"sdata":[]}

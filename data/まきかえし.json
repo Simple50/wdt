@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巻き返し","p":true},{"e":"巻返し"}],"r_ele":[{"r":"まきかえし","p":true}],"sense":[{"gloss":"rally, recovery, comeback, rollback","pos":["n"]},{"gloss":"winding (thread, etc.)","pos":["n"]}]},"sdata":[]}

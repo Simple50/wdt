@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドラフト","p":true}],"sense":[{"gloss":"draft (esp. in baseball)","pos":["n"],"f":["sports"]},{"gloss":"draft, rough copy, rough sketch","pos":["n"]},{"gloss":"draught (beer), draft","pos":["n"]},{"gloss":"draft (air current), draught","pos":["n"]}]},"sdata":[{"j":"↑契約↑↓けいやく↓↑書↑↓しょ↓の|ドラフト|をありがとうございました。","e":"Thank you for the draft of the Agreement."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"攻め立てる","p":true},{"e":"攻立てる"}],"r_ele":[{"r":"せめたてる","p":true}],"sense":[{"gloss":"to make an incessant onslaught, to attack incessantly","pos":["v1","vt"]}]},"sdata":[]}

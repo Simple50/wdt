@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内法","p":true}],"r_ele":[{"r":"うちのり","p":true}],"sense":[{"gloss":"inside measure","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らの↑両親↑↓りょうしん↓は|うちの↑両親↑↓り|ょうしん↓より↑年↑↓とし↓をとっています。","e":"Their parents are older than ours."}]}

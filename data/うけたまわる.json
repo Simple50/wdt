@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"承る","p":true},{"e":"受け賜る","i":["iK"]}],"r_ele":[{"r":"うけたまわる","p":true}],"sense":[{"gloss":"to hear, to be told, to know","pos":["v5r","vt"],"m":["hum"]},{"gloss":"to receive (order), to undertake, to comply, to take (a reservation, etc.)","pos":["v5r","vt"]}]},"sdata":[]}

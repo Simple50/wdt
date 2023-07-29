@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恵まれる","p":true}],"r_ele":[{"r":"めぐまれる","p":true}],"sense":[{"gloss":"to be blessed with, to be rich in, to abound in","pos":["v1","vi"]}]},"sdata":[]}

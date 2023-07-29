@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"序盤","p":true}],"r_ele":[{"r":"じょばん","p":true}],"sense":[{"gloss":"opening (in a game of go, chess, etc.)","pos":["n"]},{"gloss":"early stages, initial phase, outset","pos":["n"]}]},"sdata":[]}

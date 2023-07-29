@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新陳代謝","p":true}],"r_ele":[{"r":"しんちんたいしゃ","p":true}],"sense":[{"gloss":"renewal, replacement, regeneration, rejuvenation","pos":["n","vs","vi"],"m":["yoji"]},{"gloss":"metabolism","pos":["n"]}]},"sdata":[]}

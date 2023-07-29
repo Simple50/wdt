@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪循環","p":true}],"r_ele":[{"r":"あくじゅんかん","p":true}],"sense":[{"gloss":"vicious circle, vicious cycle","pos":["n"],"ant":["好循環"]}]},"sdata":[{"j":"↑賃金↑↓ちんぎん↓と↑物価↑↓ぶっか↓の↑悪循環↑↓|あくじゅんかん|↓を↑断↑↓た↓ち↑切↑↓き↓ることは↑困難↑↓こんなん↓だ。","e":"It is difficult to break the vicious circle of wages and prices."}]}

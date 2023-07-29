@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウィークエンド","p":true},{"r":"ウイークエンド","p":true}],"sense":[{"gloss":"weekend","pos":["n"],"x":["週末"]}]},"sdata":[]}

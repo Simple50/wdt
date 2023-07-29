@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブリスベン","p":true}],"sense":[{"gloss":"Brisbane","pos":["n"]}]},"sdata":[]}

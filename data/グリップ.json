@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グリップ","p":true}],"sense":[{"gloss":"grip","pos":["n"]}]},"sdata":[]}

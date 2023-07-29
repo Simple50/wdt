@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"甘辛","p":true}],"r_ele":[{"r":"あまから","p":true}],"sense":[{"gloss":"sweetness and saltiness, salted and sweetened taste","pos":["n","adj-no"]}]},"sdata":[]}

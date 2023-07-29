@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漆塗り","p":true}],"r_ele":[{"r":"うるしぬり","p":true}],"sense":[{"gloss":"lacquering, lacquer ware","pos":["n"]}]},"sdata":[]}

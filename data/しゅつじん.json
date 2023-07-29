@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出陣","p":true}],"r_ele":[{"r":"しゅつじん","p":true}],"sense":[{"gloss":"going into battle, departure for the front","pos":["n","vs","vi"]},{"gloss":"appearing (in a match)","pos":["n","vs","vi"]},{"gloss":"starting an election campaign","pos":["n","vs","vi"]}]},"sdata":[]}

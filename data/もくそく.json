@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目測","p":true}],"r_ele":[{"r":"もくそく","p":true}],"sense":[{"gloss":"eye measurement, measure with eye","pos":["n","vs","vt"]}]},"sdata":[]}

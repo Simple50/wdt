@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夜ご飯","p":true},{"e":"夜ごはん"},{"e":"夜御飯"}],"r_ele":[{"r":"よるごはん","p":true}],"sense":[{"gloss":"dinner, evening meal","pos":["n"],"x":["晩御飯"]}],"m":["col"]},"sdata":[{"j":"↑夜↑↓|よる↓ご↑飯↑↓はん|↓にステーキはどうですか？","e":"Would you like to have steak for dinner?"},{"j":"↑夜↑↓|よる↓ご↑飯↑↓はん|↓、↑食↑↓た↓べに↑行↑↓い↓かない？","e":"How about going out for dinner?"}]}

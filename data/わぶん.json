@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和文","p":true}],"r_ele":[{"r":"わぶん","p":true}],"sense":[{"gloss":"Japanese text, sentence in Japanese","pos":["n"]}]},"sdata":[{"j":"この↑和文↑↓|わぶん|↓をフランス↑語↑↓ご↓に↑訳↑↓やく↓してください。","e":"Please translate this Japanese text into French."}]}

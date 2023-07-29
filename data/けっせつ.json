@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"結節","p":true}],"r_ele":[{"r":"けっせつ","p":true}],"sense":[{"gloss":"knot, nodule, tubercule, node","pos":["n","vs","adj-no"]}]},"sdata":[]}

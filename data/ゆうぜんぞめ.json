@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"友禅染"},{"e":"友禅染め","p":true}],"r_ele":[{"r":"ゆうぜんぞめ","p":true}],"sense":[{"gloss":"type of dyeing method or pattern, silk printed by the Yuzen process","pos":["n"]}]},"sdata":[]}

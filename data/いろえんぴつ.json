@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"色鉛筆","p":true},{"e":"色えんぴつ"}],"r_ele":[{"r":"いろえんぴつ","p":true}],"sense":[{"gloss":"colored pencil, coloured pencil","pos":["n"]}]},"sdata":[{"j":"↑色鉛筆↑↓|いろえんぴつ|↓が↑要↑↓い↓ります。","e":"I need colored pencils."},{"j":"↑色鉛筆↑↓|いろえんぴつ|↓が↑要↑↓い↓ります。","e":"I need coloured pencils."}]}

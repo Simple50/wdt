@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黄金時代","p":true}],"r_ele":[{"r":"おうごんじだい","p":true}],"sense":[{"gloss":"golden age","pos":["n"]}],"m":["yoji"]},"sdata":[]}

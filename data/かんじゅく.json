@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"完熟","p":true}],"r_ele":[{"r":"かんじゅく","p":true}],"sense":[{"gloss":"full ripeness, full maturity","pos":["n","vs","vi","adj-no"]}]},"sdata":[]}

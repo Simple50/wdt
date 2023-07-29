@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"掛け声","p":true},{"e":"かけ声"},{"e":"掛声"}],"r_ele":[{"r":"かけごえ","p":true}],"sense":[{"gloss":"shout (of encouragement, etc.), yell (used to time or encourage activity, e.g. \"Heave ho!\")","pos":["n","vs"]}]},"sdata":[]}

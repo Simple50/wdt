@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"洗い直す","p":true},{"e":"洗いなおす"}],"r_ele":[{"r":"あらいなおす","p":true}],"sense":[{"gloss":"to wash again","pos":["v5s","vt"]},{"gloss":"to reconsider","pos":["v5s","vt"]}]},"sdata":[]}

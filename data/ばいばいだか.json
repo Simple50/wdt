@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売買高","p":true}],"r_ele":[{"r":"ばいばいだか","p":true}],"sense":[{"gloss":"sales amount, sales volume","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気管支炎","p":true}],"r_ele":[{"r":"きかんしえん","p":true}],"sense":[{"gloss":"bronchitis","pos":["n","adj-no"]}]},"sdata":[{"j":"↑風邪↑↓かぜ↓をひくとよく↑気管支炎↑↓|きかんしえん|↓になります。","e":"When she catches a cold, she often develops bronchitis."}]}

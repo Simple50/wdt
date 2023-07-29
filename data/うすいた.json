@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄板","p":true}],"r_ele":[{"r":"うすいた","p":true}],"sense":[{"gloss":"laminate, veneer","pos":["n"]}]},"sdata":[]}

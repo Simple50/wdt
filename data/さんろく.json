@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山麓","p":true},{"e":"山ろく"}],"r_ele":[{"r":"さんろく","p":true}],"sense":[{"gloss":"foot of a mountain, base of a mountain","pos":["n"]}]},"sdata":[]}

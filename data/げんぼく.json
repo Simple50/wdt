@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原木","p":true}],"r_ele":[{"r":"げんぼく","p":true}],"sense":[{"gloss":"pulpwood, raw timber, unprocessed timber, logs","pos":["n"]},{"gloss":"original (or ancestor) of a tree cultivar","pos":["n"]}]},"sdata":[{"j":"↑木↑↓き↓を↑叩↑↓たた↓いて↑壊↑↓こわ↓すと↑原木↑↓|げんぼく|↓が↑手↑↓て↓に↑入↑↓はい↓る。","e":"Punching trees gives me wood."}]}

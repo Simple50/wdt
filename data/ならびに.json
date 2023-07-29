@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"並びに","p":true},{"e":"並に","i":["io"]}],"r_ele":[{"r":"ならびに","p":true}],"sense":[{"gloss":"and (also), both ... and, as well as","pos":["conj"]}]},"sdata":[]}

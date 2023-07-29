@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"禁治産","p":true}],"r_ele":[{"r":"きんちさん","p":true},{"r":"きんじさん"}],"sense":[{"gloss":"incompetency","pos":["n"],"f":["law"]}]},"sdata":[]}

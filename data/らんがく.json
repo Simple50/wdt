@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蘭学","p":true}],"r_ele":[{"r":"らんがく","p":true}],"sense":[{"gloss":"rangaku, study of Western knowledge through the Dutch language during the Edo period","pos":["n"]}],"m":["hist"]},"sdata":[]}

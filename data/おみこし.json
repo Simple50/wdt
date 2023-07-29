@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お神輿","p":true},{"e":"お御輿"},{"e":"御神輿"},{"e":"お神興","i":["iK"]}],"r_ele":[{"r":"おみこし","p":true}],"sense":[{"gloss":"portable shrine (carried in festivals)","pos":["n"],"m":["pol"],"x":["御輿・1"]},{"gloss":"buttocks, lower back, waist, hips","pos":["n"],"m":["uk"],"x":["腰・こし・1"]}]},"sdata":[]}

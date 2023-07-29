@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"移動平均","p":true}],"r_ele":[{"r":"いどうへいきん","p":true}],"sense":[{"gloss":"moving average","pos":["n"]}]},"sdata":[]}

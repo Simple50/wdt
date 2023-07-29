@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敬具","p":true}],"r_ele":[{"r":"けいぐ","p":true}],"sense":[{"gloss":"yours sincerely, sincerely yours, yours truly","pos":["n"],"x":["拝啓"]}]},"sdata":[{"j":"↑敬具↑↓|けいぐ|↓","e":"My best regards."}]}

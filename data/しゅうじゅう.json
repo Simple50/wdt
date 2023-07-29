@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主従","p":true}],"r_ele":[{"r":"しゅうじゅう","p":true},{"r":"しゅじゅう"}],"sense":[{"gloss":"master and servant, lord and retainer, employer and employee","pos":["n"]}]},"sdata":[{"j":"ウェストハンプトン↑州↑↓|しゅう↓↑住民↑↓じゅう|みん↓によって、↑議会↑↓ぎかい↓の↑構成↑↓こうせい↓↑員↑↓いん↓として↑選出↑↓せんしゅつ↓されるのです。","e":"We're chosen by the people of Westhamptonshire County to be members of the council."}]}

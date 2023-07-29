@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トレンディー","p":true},{"r":"トレンディ"}],"sense":[{"gloss":"trendy","pos":["adj-na","n"]}]},"sdata":[]}

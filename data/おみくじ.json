@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"御神籤","p":true},{"e":"お神籤"},{"e":"お御籤"},{"e":"御御籤"},{"e":"おみ籤"}],"r_ele":[{"r":"おみくじ","p":true}],"sense":[{"gloss":"fortune slip (usu. bought at a shrine)","pos":["n"]}],"m":["uk"]},"sdata":[]}

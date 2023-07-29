@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パラグライダー","p":true}],"sense":[{"gloss":"paraglider","pos":["n"]}]},"sdata":[]}

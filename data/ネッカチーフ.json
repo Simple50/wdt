@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ネッカチーフ","p":true}],"sense":[{"gloss":"neckerchief","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンチェルト","p":true}],"sense":[{"gloss":"concerto","pos":["n"],"f":["music"],"x":["協奏曲"],"l":"ita"}]},"sdata":[]}

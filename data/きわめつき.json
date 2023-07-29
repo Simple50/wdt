@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極め付き","p":true},{"e":"極めつき"}],"r_ele":[{"r":"きわめつき","p":true}],"sense":[{"gloss":"certified (as genuine, valuable, etc.), guaranteed (article)","pos":["adj-no"],"x":["極め付きの品"]},{"gloss":"of established reputation, acknowledged, recognized, acclaimed, notorious","pos":["adj-no"]},{"gloss":"pièce de résistance","pos":["n"],"m":["col"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エコノミックアニマル","p":true},{"r":"エコノミック・アニマル"}],"sense":[{"gloss":"economic animal, person or people who only strive for profit","pos":["n"]}],"m":["derog"]},"sdata":[]}

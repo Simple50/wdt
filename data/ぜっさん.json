@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絶賛","p":true},{"e":"絶讃","i":["rK"]}],"r_ele":[{"r":"ぜっさん","p":true}],"sense":[{"gloss":"high praise, great admiration, acclaim","pos":["n","vs","vt"]}]},"sdata":[]}

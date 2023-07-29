@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"理工学部","p":true}],"r_ele":[{"r":"りこうがくぶ","p":true}],"sense":[{"gloss":"department of science and engineering","pos":["n"]}]},"sdata":[]}

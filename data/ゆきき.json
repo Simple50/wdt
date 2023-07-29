@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行き来","p":true},{"e":"往き来"},{"e":"行来"}],"r_ele":[{"r":"ゆきき","p":true},{"r":"いきき","p":true}],"sense":[{"gloss":"coming and going, keeping in touch, visiting each other","pos":["n","vs","vi"]},{"gloss":"street traffic, highway","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"家庭内暴力","p":true}],"r_ele":[{"r":"かていないぼうりょく","p":true}],"sense":[{"gloss":"household violence (esp. adolescent children towards parents), domestic violence","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"似つかわしい","p":true},{"e":"似付かわしい"}],"r_ele":[{"r":"につかわしい","p":true}],"sense":[{"gloss":"suitable, appropriate, becoming, fitting","pos":["adj-i"]}]},"sdata":[{"j":"↑若↑↓わか↓い↑娘↑↓むすめ↓には↑慎↑↓つつし↓みが↑似↑↓|に↓つかわしい|。","e":"Modesty is befitting to a young girl."}]}

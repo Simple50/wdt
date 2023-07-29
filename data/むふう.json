@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無風","p":true}],"r_ele":[{"r":"むふう","p":true}],"sense":[{"gloss":"windless, calm, no-wind","pos":["adj-no","n"]},{"gloss":"quiet (state of affairs), peaceful, stable, safe (electoral seat)","pos":["adj-no","n"]}]},"sdata":[]}

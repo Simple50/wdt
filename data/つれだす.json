@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連れ出す","p":true},{"e":"連出す"}],"r_ele":[{"r":"つれだす","p":true}],"sense":[{"gloss":"to take (someone) out (for a walk, to lunch, etc.)","pos":["v5s","vt"]},{"gloss":"to entice out, to lure away","pos":["v5s","vt"]}]},"sdata":[]}

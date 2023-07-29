@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"読本","p":true}],"r_ele":[{"r":"とくほん","p":true},{"r":"どくほん"}],"sense":[{"gloss":"reading-book, reader, guidebook, manual","pos":["n"],"x":["入門書"]},{"gloss":"textbook (esp. a pre-war elementary school Japanese language textbook)","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓はクリスマスに↑電子↑↓でんし↓↑読本↑↓|とくほん|↓をもらいました。","e":"I received an eReader for Christmas."}]}

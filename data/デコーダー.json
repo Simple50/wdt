@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デコーダ","p":true},{"r":"デコーダー","p":true},{"r":"ディコーダー"}],"sense":[{"gloss":"decoder","pos":["n"]}]},"sdata":[]}

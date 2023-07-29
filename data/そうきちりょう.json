@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早期治療","p":true}],"r_ele":[{"r":"そうきちりょう","p":true}],"sense":[{"gloss":"early treatment","pos":["n"]}]},"sdata":[]}

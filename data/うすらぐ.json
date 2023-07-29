@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄らぐ","p":true}],"r_ele":[{"r":"うすらぐ","p":true}],"sense":[{"gloss":"to become thin, to fade, to grow pale","pos":["v5g","vi"]}]},"sdata":[{"j":"↑時↑↓とき↓が↑経↑↓た↓つにつれて、↑悲↑↓かな↓しみは↑薄↑↓|うす↓らぐ|。","e":"As time goes on, grief fades away."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紛糾","p":true}],"r_ele":[{"r":"ふんきゅう","p":true}],"sense":[{"gloss":"complication, confusion, disorder, chaos, dispute, conflict, trouble, quarrel","pos":["n","vs","vi"]}]},"sdata":[{"j":"１０↑分↑↓|ふん↓↑休憩↑↓きゅう|けい↓してからまたリハーサルを↑続↑↓つづ↓けました。","e":"After a ten-minute break, we resumed our rehearsal."}]}

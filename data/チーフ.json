@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チーフ","p":true}],"sense":[{"gloss":"chief, head","pos":["adj-f","n"]}]},"sdata":[]}

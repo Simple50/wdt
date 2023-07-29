@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ムービー","p":true}],"sense":[{"gloss":"movie","pos":["n"]},{"gloss":"video","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑Ｘ↑↓えっくす↓—ファイルザ|ムービー|を↑見↑↓み↓ました。","e":"I watched X-files the movie."},{"j":"サイレント|ムービー|は↑嫌↑↓きら↓いです。","e":"I hate silent movies."},{"j":"サイレント|ムービー|は↑嫌↑↓きら↓いなんです。","e":"I hate silent movies."}]}

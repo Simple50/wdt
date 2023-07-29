@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勝負師","p":true}],"r_ele":[{"r":"しょうぶし","p":true}],"sense":[{"gloss":"gambler","pos":["n"]},{"gloss":"risk taker","pos":["n"]}]},"sdata":[{"j":"トムと↑勝負↑↓|しょうぶ↓し|てるの？","e":"Are you competing with Tom?"}]}

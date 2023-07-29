@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"造幣","p":true}],"r_ele":[{"r":"ぞうへい","p":true}],"sense":[{"gloss":"coinage, mintage","pos":["n"]}]},"sdata":[{"j":"ジョンは↑造幣局↑↓|ぞうへい|きょく↓で↑働↑↓はたら↓いています。","e":"John works at the mint."}]}

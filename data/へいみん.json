@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平民","p":true}],"r_ele":[{"r":"へいみん","p":true}],"sense":[{"gloss":"commoner, plebeian","pos":["n"]},{"gloss":"commoner (in Japan between 1869 and 1947; the lowest of the three classes)","pos":["n"],"m":["hist"],"x":["族称"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"働き口","p":true}],"r_ele":[{"r":"はたらきぐち","p":true}],"sense":[{"gloss":"position, job, employment, opening","pos":["n"]}]},"sdata":[]}

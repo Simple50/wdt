@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後々","p":true},{"e":"後後"}],"r_ele":[{"r":"のちのち","p":true}],"sense":[{"gloss":"future, distant future","pos":["n","adv"]}]},"sdata":[]}

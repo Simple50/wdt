@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドゥーイットユアセルフ","p":true},{"r":"ドゥイットユアセルフ"}],"sense":[{"gloss":"do-it-yourself","pos":["n"]}]},"sdata":[]}

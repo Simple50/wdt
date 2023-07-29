@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"壮絶","p":true}],"r_ele":[{"r":"そうぜつ","p":true}],"sense":[{"gloss":"heroic, fierce, grand, sublime, magnificent","pos":["adj-na","n"]}]},"sdata":[]}

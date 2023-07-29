@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逐次","p":true}],"r_ele":[{"r":"ちくじ","p":true}],"sense":[{"gloss":"successively, one after another, sequentially, one by one","pos":["adv"]}]},"sdata":[]}

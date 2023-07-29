@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アニーリング","p":true}],"sense":[{"gloss":"annealing","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飲み薬","p":true},{"e":"飲薬"}],"r_ele":[{"r":"のみぐすり","p":true}],"sense":[{"gloss":"oral medicine, internal medicine","pos":["n"]}]},"sdata":[]}

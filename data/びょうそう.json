@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病巣","p":true}],"r_ele":[{"r":"びょうそう","p":true}],"sense":[{"gloss":"focus, nidus, lesion","pos":["n","adj-no"],"f":["med"]}]},"sdata":[]}

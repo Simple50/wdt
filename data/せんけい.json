@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"線形","p":true},{"e":"線型"}],"r_ele":[{"r":"せんけい","p":true}],"sense":[{"gloss":"linear","pos":["adj-no","adj-na","n"],"f":["math","physics","comp"]}]},"sdata":[{"j":"システムのこの↑予測↑↓よそく↓されなかった↑機能↑↓きのう↓↑不全↑↓ふぜん↓は↑不適切↑↓ふてきせつ↓な↑配線↑↓はい|せん↓↑系統↑↓けい|とう↓によって↑引↑↓ひ↓き↑起↑↓お↓こされた。","e":"This unexpected malfunctioning of the system was caused by improper wiring."}]}

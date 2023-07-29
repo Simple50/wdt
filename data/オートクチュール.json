@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オートクチュール","p":true},{"r":"オート・クチュール"}],"sense":[{"gloss":"haute couture","pos":["n"],"l":"fre"}]},"sdata":[{"j":"いつか|オートクチュール|に↑身↑↓み↓を↑包↑↓つつ↓むんだという↑彼女↑↓かのじょ↓の↑夢↑↓ゆめ↓が↑意外↑↓いがい↓な↑形↑↓かたち↓で↑実現↑↓じつげん↓した。","e":"One day, her dream to be dressed in haute couture came true in an unexpected way."}]}

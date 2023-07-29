@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"微動","p":true}],"r_ele":[{"r":"びどう","p":true}],"sense":[{"gloss":"slight movement, slight tremor, quiver","pos":["n","vs","vi"]}]},"sdata":[{"j":"このドア、↑微動↑↓|びどう|↓だにしないよ。","e":"This door won't budge."}]}

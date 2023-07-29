@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宥める","p":true}],"r_ele":[{"r":"なだめる","p":true}],"sense":[{"gloss":"to soothe, to calm, to pacify","pos":["v1","vt"]}],"m":["uk"]},"kdata":{"宥":{"on":["ユウ"],"kun":["なだ.める","ゆる.す"],"meanings":["soothe","calm","pacify"],"comp":[["有","宀"]],"jlpt":0,"freq":3046}},"sdata":[]}

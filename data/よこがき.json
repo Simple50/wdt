@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横書き","p":true},{"e":"横書"}],"r_ele":[{"r":"よこがき","p":true}],"sense":[{"gloss":"writing horizontally, horizontal writing","pos":["n"],"x":["縦書き"]}]},"sdata":[]}

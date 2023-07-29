@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミニディスク","p":true}],"sense":[{"gloss":"minidisc, MD","pos":["n"]}]},"sdata":[{"j":"|ミニディスク|を↑売↑↓う↓っていますか。","e":"Do you sell mini disks?"}]}

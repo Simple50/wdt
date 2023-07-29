@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"随一","p":true}],"r_ele":[{"r":"ずいいち","p":true},{"r":"ずいいつ","i":["ik"]}],"sense":[{"gloss":"best, greatest, first","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓が↑当代↑↓とうだい↓↑随一↑↓|ずいいち|↓の↑作家↑↓さっか↓のひとりであるのは↑言↑↓い↓うまでもない。","e":"Needless to say he is one of the best writers of the present generation."}]}

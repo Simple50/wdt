@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"円卓","p":true}],"r_ele":[{"r":"えんたく","p":true}],"sense":[{"gloss":"round table","pos":["n","adj-no"]}]},"sdata":[{"j":"↑必要↑↓ひつよう↓なのは↑四角↑↓しかく↓いテーブルで、↑円卓↑↓|えんたく|↓ではない。","e":"We need a square table, not a round one."}]}

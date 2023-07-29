@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北京","p":true}],"r_ele":[{"r":"ペキン","p":true},{"r":"ペイチン"}],"sense":[{"gloss":"Beijing (China), Peking","pos":["n"]}]},"sdata":[]}

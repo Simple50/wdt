@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地方裁判所","p":true}],"r_ele":[{"r":"ちほうさいばんしょ","p":true}],"sense":[{"gloss":"district court, local court","pos":["n"],"x":["地裁"]}]},"sdata":[]}

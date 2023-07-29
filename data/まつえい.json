@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"末裔","p":true},{"e":"末えい"}],"r_ele":[{"r":"まつえい","p":true},{"r":"ばつえい"}],"sense":[{"gloss":"descendant","pos":["n"]}]},"sdata":[]}

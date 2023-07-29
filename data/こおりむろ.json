@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"氷室","p":true}],"r_ele":[{"r":"こおりむろ","p":true},{"r":"ひむろ"},{"r":"ひょうしつ"}],"sense":[{"gloss":"ice house, ice room, cold room","pos":["n"]}]},"sdata":[]}

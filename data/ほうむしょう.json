@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"法務省","p":true}],"r_ele":[{"r":"ほうむしょう","p":true}],"sense":[{"gloss":"Ministry of Justice","pos":["n"]}]},"sdata":[]}

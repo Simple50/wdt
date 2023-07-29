@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヨガ","p":true},{"r":"ヨーガ","p":true}],"sense":[{"gloss":"yoga","pos":["n"],"l":"san"}]},"sdata":[]}

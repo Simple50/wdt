@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"真心","p":true}],"r_ele":[{"r":"まごころ","p":true},{"r":"まこころ","i":["ok"]}],"sense":[{"gloss":"sincerity, true heart, devotion","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑彼↑↓かれ↓に↑真心↑↓|まごころ|↓こめて↑感謝↑↓かんしゃ↓しました。","e":"She thanked him with all her heart."}]}

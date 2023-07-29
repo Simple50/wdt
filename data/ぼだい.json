@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"菩提","p":true}],"r_ele":[{"r":"ぼだい","p":true}],"sense":[{"gloss":"bodhi, enlightenment","pos":["n"],"f":["Buddh"]},{"gloss":"happiness in the next world","pos":["n"],"f":["Buddh"]}]},"sdata":[{"j":"↑釈迦↑↓しゃか↓はブッダガヤの↑菩提樹↑↓|ぼだい|じゅ↓の↑下↑↓した↓で↑悟↑↓さと↓りを↑開↑↓ひら↓いた。","e":"The Buddha became enlightened under a Bo tree in Bodh Gaya."}]}

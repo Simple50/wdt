@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"進軍","p":true}],"r_ele":[{"r":"しんぐん","p":true}],"sense":[{"gloss":"march, advance","pos":["n","vs","vi"]}]},"sdata":[{"j":"ナポレオンの↑軍隊↑↓ぐんたい↓はモスクワに↑進軍↑↓|しんぐん|↓した。","e":"Napoleon's army has advanced to Moscow."}]}

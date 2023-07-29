@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍国","p":true}],"r_ele":[{"r":"ぐんこく","p":true}],"sense":[{"gloss":"nation at war, militant nation","pos":["n"]}]},"sdata":[]}

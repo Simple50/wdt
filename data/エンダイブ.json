@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンダイブ","p":true}],"sense":[{"gloss":"endive","pos":["n"]}]},"sdata":[]}

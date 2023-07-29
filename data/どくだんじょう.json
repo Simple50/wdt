@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独壇場","p":true}],"r_ele":[{"r":"どくだんじょう","p":true}],"sense":[{"gloss":"field in which one acts unchallenged, unrivaled sphere of activity (unrivalled), one's monopoly","pos":["n"],"x":["独擅場"]}]},"sdata":[]}

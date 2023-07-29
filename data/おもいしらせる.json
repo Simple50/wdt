@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い知らせる","p":true},{"e":"思いしらせる","i":["sK"]}],"r_ele":[{"r":"おもいしらせる","p":true}],"sense":[{"gloss":"to make (someone) realize (e.g. their mistake), to bring (something) home (to someone), to teach (someone) a lesson","pos":["v1","vt"]}]},"sdata":[]}

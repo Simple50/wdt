@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"清々しい","p":true},{"e":"清清しい"}],"r_ele":[{"r":"すがすがしい","p":true}],"sense":[{"gloss":"refreshing (e.g. feeling, scene, wind, morning air), brisk, bracing, fresh, refreshed","pos":["adj-i"]}]},"sdata":[{"j":"↑今日↑↓きょう↓は|すがすがしい|お↑天気↑↓てんき↓ですね。","e":"It's a nice day, isn't it?"}]}

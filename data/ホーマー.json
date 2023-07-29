@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホーマー","p":true}],"sense":[{"gloss":"homer, home run","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"|ホーマー|も↑時↑↓とき↓には↑居眠↑↓いねむ↓りをする。","e":"Even the worthy Homer sometimes nods."},{"j":"|ホーマー|も↑時↑↓とき↓には↑居眠↑↓いねむ↓りをする。","e":"Even Homer sometimes nods."}]}

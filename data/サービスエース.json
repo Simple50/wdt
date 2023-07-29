@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サービスエース","p":true},{"r":"サービス・エース"}],"sense":[{"gloss":"ace (serve; in tennis, volleyball, etc.)","pos":["n"],"f":["sports"],"l":"eng: service ace"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パネリスト","p":true}],"sense":[{"gloss":"panelist","pos":["n"]}]},"sdata":[]}

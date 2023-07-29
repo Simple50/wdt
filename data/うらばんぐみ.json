@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"裏番組","p":true}],"r_ele":[{"r":"うらばんぐみ","p":true}],"sense":[{"gloss":"program competing with another in the same timeslot (programme), counterprogram (television)","pos":["n"]}]},"sdata":[]}

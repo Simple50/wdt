@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"略称","p":true}],"r_ele":[{"r":"りゃくしょう","p":true}],"sense":[{"gloss":"abbreviation","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑ＵＳＡ↑↓ゆーえすえー↓はアメリカ↑合衆国↑↓がっしゅうこく↓の↑略称↑↓|りゃくしょう|↓です。","e":"USA stands for the United States of America."}]}

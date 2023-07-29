@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"精神衛生","p":true}],"r_ele":[{"r":"せいしんえいせい","p":true}],"sense":[{"gloss":"mental health, mental hygiene","pos":["n"]}]},"sdata":[]}

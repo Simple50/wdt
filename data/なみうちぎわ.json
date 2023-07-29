@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"波打ち際","p":true},{"e":"波打際"},{"e":"波うちぎわ"},{"e":"浪打際"},{"e":"浪打ち際"}],"r_ele":[{"r":"なみうちぎわ","p":true}],"sense":[{"gloss":"water's edge, beach, foreshore","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"栄養失調","p":true}],"r_ele":[{"r":"えいようしっちょう","p":true}],"sense":[{"gloss":"malnutrition","pos":["n","adj-no"]}]},"sdata":[{"j":"ニジェールでは50↑万↑↓まん↓↑人↑↓にん↓もの↑子供↑↓こども↓たちが↑未↑↓いま↓だ↑栄養失調↑↓|えいようしっちょう|↓に↑直面↑↓ちょくめん↓している。","e":"Half a million children still face malnutrition in Niger."}]}

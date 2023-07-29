@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チェルノブイリ","p":true}],"sense":[{"gloss":"Chernobyl (Ukraine)","pos":["n"]}]},"sdata":[{"j":"ウクライナといえば|チェルノブイリ|くらいしか↑知↑↓し↓らないな。あ、ブブカもウクライナだっけ？","e":"Only Chernobyl comes to mind whenever I think about Ukraine. Oh, and wasn't Serhiy Nazarovych Bubka Ukrainian, too?"}]}

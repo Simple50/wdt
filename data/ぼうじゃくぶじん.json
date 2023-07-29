@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"傍若無人","p":true},{"e":"旁若無人","i":["rK"]}],"r_ele":[{"r":"ぼうじゃくぶじん","p":true}],"sense":[{"gloss":"behaving outrageously as though there were no one around, acting without consideration for others, arrogance, audacity, insolence","pos":["n","adj-na","adj-no"]}],"m":["yoji"]},"sdata":[{"j":"↑傍若無人↑↓|ぼうじゃくぶじん|↓の↑振↑↓ふ↓る↑舞↑↓ま↓いだね。","e":"They are cutting loose."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"意気込む","p":true},{"e":"意気ごむ","i":["sK"]}],"r_ele":[{"r":"いきごむ","p":true}],"sense":[{"gloss":"to be enthusiastic (about), to be eager (to do), to be keen, to be intent (on), to be determined","pos":["v5m","vi"]}]},"sdata":[]}

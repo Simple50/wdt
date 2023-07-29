@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"質量","p":true}],"r_ele":[{"r":"しつりょう","p":true}],"sense":[{"gloss":"mass","pos":["n"],"f":["physics"]}]},"sdata":[{"j":"↑室↑↓|しつ↓↑料↑↓りょう|↓はいくらですか。","e":"What's the room rate?"}]}

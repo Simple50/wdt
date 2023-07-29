@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"包摂","p":true}],"r_ele":[{"r":"ほうせつ","p":true}],"sense":[{"gloss":"inclusion, encompassing, connotation","pos":["n","vs","vt"]},{"gloss":"subsumption","pos":["n","vs","vt"],"f":["logic"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豊胸","p":true}],"r_ele":[{"r":"ほうきょう","p":true}],"sense":[{"gloss":"full breasts, ample breasts","pos":["n"]},{"gloss":"breast enlargement","pos":["n"],"x":["豊胸手術"]}]},"sdata":[]}

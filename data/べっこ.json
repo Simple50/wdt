@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別個","p":true},{"e":"別箇"}],"r_ele":[{"r":"べっこ","p":true}],"sense":[{"gloss":"another, different, separate, discrete","pos":["adj-na","adj-no"]}]},"sdata":[{"j":"その↑二↑↓ふた↓つの↑考↑↓かんが↓えはまったく↑別個↑↓|べっこ|↓のものだ。","e":"Those two ideas are quite distinct."}]}

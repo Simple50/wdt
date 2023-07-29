@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民主国","p":true}],"r_ele":[{"r":"みんしゅこく","p":true}],"sense":[{"gloss":"democratic state","pos":["n"]}]},"sdata":[]}

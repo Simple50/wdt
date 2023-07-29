@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"濁す","p":true}],"r_ele":[{"r":"にごす","p":true}],"sense":[{"gloss":"to make muddy (of a liquid), to make cloudy, to make turbid, to roil","pos":["v5s","vt"]},{"gloss":"to make ambiguous, to evade (e.g. the point), to be noncommittal about","pos":["v5s","vt"],"x":["言葉を濁す"]}]},"sdata":[]}

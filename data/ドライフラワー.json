@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドライフラワー","p":true},{"r":"ドライ・フラワー"}],"sense":[{"gloss":"dried flower, dried flowers","pos":["n"],"l":"eng: dry flower"}]},"sdata":[]}

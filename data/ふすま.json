@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"襖","p":true}],"r_ele":[{"r":"ふすま","p":true}],"sense":[{"gloss":"fusuma, Japanese sliding screen","pos":["n"]}]},"sdata":[]}

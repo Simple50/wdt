@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハンドメイド","p":true},{"r":"ハンドメード"}],"sense":[{"gloss":"handmade","pos":["adj-no","n"]}]},"sdata":[{"j":"それは|ハンドメイド|でした。","e":"It was handmade."},{"j":"このラグは|ハンドメイド|です。","e":"This rug is handmade."}]}

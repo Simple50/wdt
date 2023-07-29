@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冷や飯","p":true},{"e":"冷飯"}],"r_ele":[{"r":"ひやめし","p":true},{"r":"れいはん"},{"r":"ひえめし"},{"r":"つめためし"}],"sense":[{"gloss":"cold rice","pos":["n"]},{"gloss":"hanger-on, dependent","pos":["n"],"m":["abbr"],"x":["冷や飯食い・ひやめしくい・1"]},{"gloss":"disgraced former actor","pos":["n"]}]},"sdata":[]}

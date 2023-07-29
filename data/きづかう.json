@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気遣う","p":true},{"e":"気づかう"}],"r_ele":[{"r":"きづかう","p":true}],"sense":[{"gloss":"to worry about (someone's welfare or comfort), to feel anxious about, to have apprehensions of","pos":["v5u","vt"]}]},"sdata":[]}

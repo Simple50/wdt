@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウォールナット","p":true},{"r":"ウォルナット","p":true},{"r":"ウオルナット"}],"sense":[{"gloss":"walnut","pos":["n"]}]},"sdata":[]}

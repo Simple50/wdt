@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"骨壷","p":true},{"e":"骨壺"},{"e":"骨つぼ"}],"r_ele":[{"r":"こつつぼ","p":true}],"sense":[{"gloss":"funerary urn, cinerary urn, burial urn, cremation urn","pos":["n"]}]},"sdata":[{"j":"↑祖母↑↓そぼ↓の↑遺↑↓のこ↓↑灰↑↓はい↓は↑寺院↑↓じいん↓に↑置↑↓お↓かれた↑骨壷↑↓|こつつぼ|↓に↑入↑↓はい↓っている。","e":"Grandmother's ashes are in an urn at the temple."}]}

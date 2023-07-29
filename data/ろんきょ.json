@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"論拠","p":true}],"r_ele":[{"r":"ろんきょ","p":true}],"sense":[{"gloss":"grounds of an argument","pos":["n"]}]},"sdata":[{"j":"これは↑当面↑↓とうめん↓の↑問題↑↓もんだい↓にとって↑大事↑↓だいじ↓な↑論拠↑↓|ろんきょ|↓だ。","e":"This is an argument material to the question in hand."}]}

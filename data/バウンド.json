@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バウンド","p":true}],"sense":[{"gloss":"bounce, bound","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑球↑↓たま↓は|バウンド|して↑塀↑↓へい↓を↑越↑↓こ↓えた。","e":"The ball bounced over the wall."},{"j":"ボールが|バウンド|して↑上↑↓あ↓がってくるところを↑打↑↓う↓つ。","e":"Hit the ball after the bounce."}]}

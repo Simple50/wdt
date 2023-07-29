@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聴聞会","p":true}],"r_ele":[{"r":"ちょうもんかい","p":true}],"sense":[{"gloss":"hearing (by a government agency)","pos":["n"]}]},"sdata":[{"j":"↑聴聞↑↓|ちょうもん↓↑会↑↓かい|↓は↑報道↑↓ほうどう↓↑関係↑↓かんけい↓↑者↑↓しゃ↓を↑閉↑↓し↓め↑出↑↓だ↓して↑行↑↓おこな↓われました。","e":"The hearing were made off-limits to the press."}]}

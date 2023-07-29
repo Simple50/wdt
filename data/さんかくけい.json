@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三角形","p":true},{"e":"３角形"}],"r_ele":[{"r":"さんかくけい","p":true},{"r":"さんかっけい"}],"sense":[{"gloss":"triangle","pos":["n","adj-no"]}]},"sdata":[]}

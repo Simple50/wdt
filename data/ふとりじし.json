@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"太り肉","p":true}],"r_ele":[{"r":"ふとりじし","p":true}],"sense":[{"gloss":"corpulent, fat, chubby","pos":["adj-no","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンダーバード","p":true}],"sense":[{"gloss":"thunderbird (North-American indigenous mythical spirit bird)","pos":["n"]}]},"sdata":[]}

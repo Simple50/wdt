@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"固有名詞","p":true}],"r_ele":[{"r":"こゆうめいし","p":true}],"sense":[{"gloss":"proper noun","pos":["n","adj-no"],"f":["gramm"]}]},"sdata":[]}

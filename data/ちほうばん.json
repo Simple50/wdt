@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地方版","p":true}],"r_ele":[{"r":"ちほうばん","p":true}],"sense":[{"gloss":"local edition","pos":["n"]}]},"sdata":[]}

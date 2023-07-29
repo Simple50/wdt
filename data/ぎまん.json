@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"欺瞞","p":true},{"e":"欺まん","i":["sK"]}],"r_ele":[{"r":"ぎまん","p":true}],"sense":[{"gloss":"deception, deceit","pos":["n","vs","vt"]}]},"sdata":[]}

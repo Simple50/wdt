@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"是か非か","p":true}],"r_ele":[{"r":"ぜかひか","p":true}],"sense":[{"gloss":"right or wrong","pos":["exp"]}]},"sdata":[]}

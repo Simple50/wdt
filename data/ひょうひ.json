@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"表皮","p":true}],"r_ele":[{"r":"ひょうひ","p":true}],"sense":[{"gloss":"epidermis, cuticle","pos":["n"],"f":["anat","zool"]},{"gloss":"bark, epidermis","pos":["n"],"f":["bot"]},{"gloss":"facade","pos":["n"],"f":["archit"]}]},"sdata":[{"j":"↑何↑↓なに↓か↑飄々↑↓|ひょうひ|ょう↓とはぐらかされてる↑気↑↓き↓がするわ。","e":"I get the feeling I'm being given the runaround."}]}

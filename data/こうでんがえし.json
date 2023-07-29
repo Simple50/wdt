@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"香典返し","p":true}],"r_ele":[{"r":"こうでんがえし","p":true}],"sense":[{"gloss":"present given in return for funeral offering","pos":["n"],"x":["香典"]}]},"sdata":[]}

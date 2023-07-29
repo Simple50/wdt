@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゲイリブ","p":true},{"r":"ゲイ・リブ"}],"sense":[{"gloss":"gay lib(eration)","pos":["n"]}]},"sdata":[]}

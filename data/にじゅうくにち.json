@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"２９日","p":true},{"e":"二十九日","p":true},{"e":"二九日"}],"r_ele":[{"r":"にじゅうくにち","p":true},{"r":"にじゅうきゅうにち"}],"sense":[{"gloss":"29th day of the month","pos":["n"]},{"gloss":"29 days","pos":["n"]}]},"sdata":[{"j":"そのチケットは↑4月↑↓しがつ↓↑29↑↓|にじゅうく↓↑日↑↓にち|↓まで↑有効↑↓ゆうこう↓です。","e":"That ticket is good until April 29th."}]}

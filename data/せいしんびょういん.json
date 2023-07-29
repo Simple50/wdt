@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"精神病院","p":true}],"r_ele":[{"r":"せいしんびょういん","p":true}],"sense":[{"gloss":"mental hospital","pos":["n"],"x":["精神科病院"]}],"m":["obs"]},"sdata":[{"j":"↑社会↑↓しゃかい↓は↑患者↑↓かんじゃ↓によって↑運営↑↓うんえい↓されている↑精神↑↓|せいしん↓↑病院↑↓びょういん|↓です。","e":"Society is an insane asylum run by the inmates."}]}

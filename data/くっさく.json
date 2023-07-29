@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"掘削","p":true},{"e":"掘鑿"}],"r_ele":[{"r":"くっさく","p":true}],"sense":[{"gloss":"digging out, excavation","pos":["n","vs","vt"]}]},"sdata":[]}

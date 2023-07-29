@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和牛","p":true}],"r_ele":[{"r":"わぎゅう","p":true}],"sense":[{"gloss":"Wagyu beef, Japanese beef","pos":["n"]}]},"sdata":[{"j":"きのうは↑和牛↑↓|わぎゅう|↓が↑特売↑↓とくばい↓だった。","e":"Japanese beef was on sale yesterday."}]}

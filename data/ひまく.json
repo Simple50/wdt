@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"被膜","p":true}],"r_ele":[{"r":"ひまく","p":true}],"sense":[{"gloss":"coating, film, membrane","pos":["n","adj-no"]},{"gloss":"tunic (plants), capsule","pos":["n","adj-no"]}]},"sdata":[]}

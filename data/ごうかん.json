@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強姦","p":true}],"r_ele":[{"r":"ごうかん","p":true}],"sense":[{"gloss":"rape, sexual assault","pos":["n","vs","vt"]}]},"sdata":[{"j":"わが↑連合↑↓れん|ごう↓↑艦隊↑↓かん|たい↓は↑敵↑↓てき↓の↑防衛↑↓ぼうえい↓↑海域↑↓かいいき↓を↑突破↑↓とっぱ↓した。","e":"Our combined fleet broke through the enemy's defense zone."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陸海","p":true}],"r_ele":[{"r":"りくかい","p":true}],"sense":[{"gloss":"land and sea","pos":["n"]},{"gloss":"army and navy","pos":["n"],"x":["陸軍","海軍"]}]},"sdata":[]}

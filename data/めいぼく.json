@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名木","p":true},{"e":"銘木"}],"r_ele":[{"r":"めいぼく","p":true}],"sense":[{"gloss":"old tree of historical interest","pos":["n"]},{"gloss":"excellent wood, precious woods, choice wood","pos":["n"]}]},"sdata":[]}

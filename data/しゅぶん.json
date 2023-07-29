@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主文","p":true}],"r_ele":[{"r":"しゅぶん","p":true}],"sense":[{"gloss":"the text, the main clause, the main part of a document","pos":["n"],"f":["ling"]}]},"sdata":[{"j":"↑最高裁↑↓さいこうさい↓が↑人種↑↓じん|しゅ↓↑分離↑↓ぶん|り↓↑教育↑↓きょういく↓を↑攻撃↑↓こうげき↓。","e":"The Supreme Court attacks school segregation."}]}

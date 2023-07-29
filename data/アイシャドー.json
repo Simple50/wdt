@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アイシャドウ","p":true},{"r":"アイシャドー","p":true}],"sense":[{"gloss":"eyeshadow","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は|アイシャドー|をつけている。","e":"She's wearing eye shadow."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビフィズス","p":true}],"sense":[{"gloss":"Lactobacillus bifidus","pos":["n"],"x":["ビフィズス菌・ビフィズスきん"]}],"m":["abbr"]},"sdata":[]}

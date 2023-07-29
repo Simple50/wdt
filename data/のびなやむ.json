@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伸び悩む","p":true}],"r_ele":[{"r":"のびなやむ","p":true}],"sense":[{"gloss":"to be sluggish, to make little progress, to show little growth, to fail to improve, to level off, to not grow as much as expected","pos":["v5m","vi"]}]},"sdata":[]}

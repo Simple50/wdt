@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盆栽","p":true}],"r_ele":[{"r":"ぼんさい","p":true}],"sense":[{"gloss":"bonsai, miniature potted plant","pos":["n"]}]},"sdata":[{"j":"↑大雨↑↓おおあめ↓で↑盆栽↑↓|ぼんさい|↓がめちゃくちゃになった。","e":"The heavy rain made a mess of the bonsai."},{"j":"↑私↑↓わたし↓のね、↑桜↑↓さくら↓の↑盆栽↑↓|ぼんさい|↓が↑咲↑↓さ↓き↑始↑↓はじ↓めたんだ。","e":"My bonsai, which is the cherry tree, is starting to bloom."}]}

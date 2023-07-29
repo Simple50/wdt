@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"緑地","p":true}],"r_ele":[{"r":"りょくち","p":true}],"sense":[{"gloss":"green tract of land, green space","pos":["n"]}]},"kdata":{"緑":{"on":["リョク","ロク"],"kun":["みどり"],"jlpt":2,"meanings":["green"],"freq":1180,"comp":[["糸","录"]],"s":"縁,録","t":1914},"地":{"on":["チ","ジ"],"jlpt":4,"meanings":["ground","earth"],"freq":40,"comp":[["土","也"]],"t":335}},"sdata":[]}

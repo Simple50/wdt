@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サディスティック","p":true}],"sense":[{"gloss":"sadistic","pos":["adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドローイング","p":true}],"sense":[{"gloss":"drawing","pos":["n"]}]},"sdata":[]}

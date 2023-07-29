@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クリスマスイブ","p":true},{"r":"クリスマスイヴ","p":true},{"r":"クリスマス・イブ"},{"r":"クリスマス・イヴ"}],"sense":[{"gloss":"Christmas Eve","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは|クリスマスイヴ|に↑結婚↑↓けっこん↓した。","e":"They married on Christmas Eve."},{"j":"↑彼↑↓かれ↓らは|クリスマスイヴ|に↑結婚↑↓けっこん↓した。","e":"They got married on Christmas Eve."}]}

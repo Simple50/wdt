@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下積み","p":true}],"r_ele":[{"r":"したづみ","p":true}],"sense":[{"gloss":"goods piled beneath, lower layer","pos":["n","adj-no"]},{"gloss":"lowest social strata, bottom (of the ladder), low rank, obscurity","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑一生↑↓いっしょう↓は↑社会↑↓しゃかい↓の↑下積↑↓|したづ↓み|で↑終↑↓お↓わった。","e":"He lived and died in obscurity."}]}

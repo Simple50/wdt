@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原動機","p":true}],"r_ele":[{"r":"げんどうき","p":true}],"sense":[{"gloss":"motor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"化粧水","p":true}],"r_ele":[{"r":"けしょうすい","p":true}],"sense":[{"gloss":"skin lotion, face lotion","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑化粧↑↓|けしょう↓↑水↑↓すい|↓をつけている。","e":"She is putting on some face lotion."}]}

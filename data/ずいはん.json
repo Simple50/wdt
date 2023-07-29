@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"随伴","p":true}],"r_ele":[{"r":"ずいはん","p":true}],"sense":[{"gloss":"attendance, accompanying, following","pos":["n","vs"]},{"gloss":"adjoint","pos":["n","vs"],"f":["math"]}]},"sdata":[]}

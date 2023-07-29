@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インペリアル","p":true}],"sense":[{"gloss":"imperial","pos":["adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイスクール","p":true},{"r":"ハイ・スクール"}],"sense":[{"gloss":"high school","pos":["n"]}]},"sdata":[]}

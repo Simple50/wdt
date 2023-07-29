@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"美食","p":true}],"r_ele":[{"r":"びしょく","p":true}],"sense":[{"gloss":"gourmet food, delicious food","pos":["n"]},{"gloss":"dining on gourmet food, following a lavish diet, living as an epicure","pos":["n","vs"]}]},"sdata":[]}

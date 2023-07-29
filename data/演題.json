@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"演題","p":true}],"r_ele":[{"r":"えんだい","p":true}],"sense":[{"gloss":"subject of an address","pos":["n"]}]},"kdata":{"演":{"on":["エン"],"jlpt":3,"meanings":["act","performance","play","render","stage"],"freq":267,"comp":[["寅","氵"]],"t":1891},"題":{"on":["ダイ"],"jlpt":4,"meanings":["topic","subject"],"freq":96,"comp":[["是","頁"]],"t":2249}},"sdata":[]}

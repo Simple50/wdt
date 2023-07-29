@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"管財","p":true}],"r_ele":[{"r":"かんざい","p":true}],"sense":[{"gloss":"administration of property, custodianship, receivership","pos":["n"]}]},"sdata":[]}

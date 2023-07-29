@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ムーディー","p":true},{"r":"ムーディ"}],"sense":[{"gloss":"atmospheric, having a good atmosphere, romantic","pos":["adj-na"],"l":"eng: moody"}]},"sdata":[{"j":"ヘレン・|ムーディー|はテニスの↑選手↑↓せんしゅ↓として、↑職業↑↓しょくぎょう↓↑上↑↓じょう↓↑感情↑↓かんじょう↓を↑表↑↓あらわ↓さない↑人↑↓ひと↓として↑有名↑↓ゆうめい↓だった。","e":"Helen Moody was noted as a tennis player for not showing any expression on the court."}]}

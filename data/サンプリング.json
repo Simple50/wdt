@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンプリング","p":true}],"sense":[{"gloss":"sampling","pos":["n","vs"]}]},"sdata":[{"j":"このソフトウエアはギブス|サンプリング|のアルゴリズムによりマルコフ↑連鎖↑↓れんさ↓モンテカルロ↑法↑↓ほう↓の↑計算↑↓けいさん↓を↑行↑↓おこな↓います。","e":"This software carries out Markov Chain Monte Carlo calculations by the use of Gibbs Sampling."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新成人","p":true}],"r_ele":[{"r":"しんせいじん","p":true}],"sense":[{"gloss":"new adult (in Japan, a person who reaches adulthood that year)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コメディー","p":true},{"r":"コメディ"}],"sense":[{"gloss":"comedy","pos":["n"]}]},"sdata":[{"j":"|コメディー|はドラマよりも↑現実↑↓げんじつ↓↑生活↑↓せいかつ↓に↑近↑↓ちか↓い。","e":"Comedy is much closer to real life than drama."}]}

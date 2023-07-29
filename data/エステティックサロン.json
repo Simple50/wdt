@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エステティックサロン","p":true},{"r":"エステティック・サロン"}],"sense":[{"gloss":"beauty salon, beauty-treatment clinic","pos":["n"],"l":"eng: esthetic salon"}]},"sdata":[{"j":"この↑街↑↓まち↓には|エステティックサロン|が３↑軒↑↓けん↓ある。","e":"There are three beauty salons on this street."}]}

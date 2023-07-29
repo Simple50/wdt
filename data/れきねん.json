@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暦年","p":true},{"e":"歴年"}],"r_ele":[{"r":"れきねん","p":true}],"sense":[{"gloss":"calendar year, civil year, time, year after year","pos":["n"]}]},"sdata":[]}

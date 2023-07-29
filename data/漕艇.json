@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漕艇","p":true}],"r_ele":[{"r":"そうてい","p":true}],"sense":[{"gloss":"rowing, boating","pos":["n","adj-f"]}]},"kdata":{"漕":{"on":["ソウ"],"kun":["こ.ぐ","はこ.ぶ"],"meanings":["rowing","scull","paddle"],"freq":2354,"comp":[["曹","氵"]],"jlpt":0},"艇":{"on":["テイ"],"jlpt":1,"meanings":["rowboat","small boat"],"freq":1433,"comp":[["廷","舟"]],"t":1772}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"能役者","p":true}],"r_ele":[{"r":"のうやくしゃ","p":true}],"sense":[{"gloss":"noh actor","pos":["n"]}]},"sdata":[]}

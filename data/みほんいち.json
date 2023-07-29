@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見本市","p":true}],"r_ele":[{"r":"みほんいち","p":true}],"sense":[{"gloss":"trade fair","pos":["n"]}]},"sdata":[{"j":"その↑見本市↑↓|みほんいち|↓には↑注目↑↓ちゅうもく↓に↑値↑↓あたい↓するものはなにもなかった。","e":"There was nothing worthy of remark at the fair."},{"j":"↑今月↑↓こんげつ↓は↑国際↑↓こくさい↓↑貿易↑↓ぼうえき↓↑見本市↑↓|みほんいち|↓が↑開↑↓ひら↓かれている。","e":"We are having an international trade fair this month."}]}

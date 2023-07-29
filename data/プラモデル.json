@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プラモデル","p":true},{"r":"プラモ"}],"sense":[{"gloss":"plastic model","pos":["n"],"x":["プラ・1"]}],"m":["abbr"]},"sdata":[{"j":"↑静岡↑↓しずおか↓には|プラモデル|メーカーがたくさんある。","e":"There are many plastic model manufacturers in Shizuoka."}]}

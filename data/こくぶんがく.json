@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国文学","p":true}],"r_ele":[{"r":"こくぶんがく","p":true}],"sense":[{"gloss":"Japanese literature","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑大学↑↓だいがく↓で↑国文学↑↓|こくぶんがく|↓を↑専攻↑↓せんこう↓をした。","e":"He majored in Japanese literature at the university."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒海","p":true}],"r_ele":[{"r":"あらうみ","p":true}],"sense":[{"gloss":"rough sea, stormy sea","pos":["n"]}]},"sdata":[]}

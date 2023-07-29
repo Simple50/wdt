@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不毛","p":true}],"r_ele":[{"r":"ふもう","p":true}],"sense":[{"gloss":"barren, sterile, infertile","pos":["adj-no","adj-na","n"]},{"gloss":"unproductive (e.g. discussion), fruitless","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

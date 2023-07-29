@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"八幡宮","p":true}],"r_ele":[{"r":"はちまんぐう","p":true}],"sense":[{"gloss":"Shrine of the God of War","pos":["n"]}]},"sdata":[]}

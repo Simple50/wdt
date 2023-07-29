@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後書き","p":true},{"e":"後書","p":true}],"r_ele":[{"r":"あとがき","p":true}],"sense":[{"gloss":"afterword, postscript","pos":["n"]}]},"sdata":[]}

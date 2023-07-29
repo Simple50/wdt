@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"川下","p":true}],"r_ele":[{"r":"かわしも","p":true}],"sense":[{"gloss":"downstream","pos":["n","adj-no"],"x":["川上"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは↑川下↑↓|かわしも|↓にある↑橋↑↓はし↓を↑渡↑↓わた↓って↑回↑↓まわ↓り↑道↑↓みち↓をしなければならなかった。","e":"We had to make a detour across a bridge down the river from here."}]}

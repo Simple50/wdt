@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重工業","p":true}],"r_ele":[{"r":"じゅうこうぎょう","p":true}],"sense":[{"gloss":"heavy industry","pos":["n"]}]},"sdata":[{"j":"↑重工業↑↓|じゅうこうぎょう|↓はいつも↑戦争↑↓せんそう↓で↑利益↑↓りえき↓を↑得↑↓え↓る。","e":"Heavy industry always benefits from war."}]}

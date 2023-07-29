@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"カスピ海","p":true}],"r_ele":[{"r":"カスピかい","p":true}],"sense":[{"gloss":"Caspian Sea","pos":["n"]}]},"kdata":{"海":{"on":["カイ"],"kun":["うみ"],"jlpt":4,"meanings":["sea","ocean"],"freq":200,"comp":[["每","氵"]],"d":["塰"],"t":907}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オアシス","p":true}],"sense":[{"gloss":"oasis","pos":["n"]},{"gloss":"OASYS (Fujitsu WP system)","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは↑砂漠↑↓さばく↓で|オアシス|とおぼしきものを↑見↑↓み↓た。","e":"We saw what looked like an oasis in the desert."}]}

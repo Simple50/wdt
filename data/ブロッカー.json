@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブロッカー","p":true}],"sense":[{"gloss":"blocker","pos":["n"]}]},"sdata":[]}

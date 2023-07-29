@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ギガ","p":true}],"sense":[{"gloss":"giga-, 10^9","pos":["n","pref"]},{"gloss":"gigabyte, GB","pos":["n"],"f":["comp"],"m":["abbr"],"x":["ギガバイト"]},{"gloss":"data traffic (esp. on mobile phone)","pos":["n"],"f":["comp"],"m":["col"]}]},"sdata":[{"j":"８|ギガ|バイトのハードディスクがあれば↑十分↑↓じゅうぶん↓だと↑思↑↓おも↓います。","e":"I suppose then an 8-Gigabyte hard drive will be adequate."}]}

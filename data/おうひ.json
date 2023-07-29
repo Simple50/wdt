@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"王妃","p":true}],"r_ele":[{"r":"おうひ","p":true}],"sense":[{"gloss":"queen, empress","pos":["n"]}]},"sdata":[{"j":"↑宮殿↑↓きゅうでん↓には↑国王↑↓こくおう↓と↑王妃↑↓|おうひ|↓が↑住↑↓す↓んでいる。","e":"In the palace live the king and the queen."},{"j":"↑王妃↑↓|おうひ|↓は↑王↑↓おう↓のかたわらに↑立↑↓た↓っていた。","e":"The queen stood beside the king."}]}

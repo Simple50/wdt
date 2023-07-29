@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"携帯ストラップ","p":true}],"r_ele":[{"r":"けいたいストラップ","p":true}],"sense":[{"gloss":"straps for mobile phone","pos":["n"]}]},"sdata":[]}

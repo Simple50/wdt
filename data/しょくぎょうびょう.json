@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"職業病","p":true}],"r_ele":[{"r":"しょくぎょうびょう","p":true}],"sense":[{"gloss":"occupational disease","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファミリア","p":true},{"r":"ファミリアー"}],"sense":[{"gloss":"familiar","pos":["n"]}]},"sdata":[]}

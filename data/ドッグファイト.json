@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドッグファイト","p":true},{"r":"ドッグ・ファイト"}],"sense":[{"gloss":"dogfight (aircraft), dog fight","pos":["n"]}]},"sdata":[]}

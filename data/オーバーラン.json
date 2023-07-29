@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オーバーラン","p":true}],"sense":[{"gloss":"overrunning (the base)","pos":["n","vs","vi"],"f":["baseb"]},{"gloss":"overrun (e.g. on a runway), overshoot","pos":["n","vs","vi"]}]},"sdata":[]}

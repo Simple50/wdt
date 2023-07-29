@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"氏神","p":true}],"r_ele":[{"r":"うじがみ","p":true}],"sense":[{"gloss":"patron god, tutelar deity, guardian deity, local deity","pos":["n"],"f":["Shinto"]}]},"sdata":[]}

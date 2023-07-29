@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水滸伝","p":true}],"r_ele":[{"r":"すいこでん","p":true}],"sense":[{"gloss":"The Water Margin (classic of Chinese literature), Outlaws of the Marsh, All Men are Brothers","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デッサン","p":true}],"sense":[{"gloss":"rough sketch","pos":["n","vs","vt"],"l":"fre: dessin"}]},"sdata":[{"j":"↑私↑↓わたし↓たちはその↑少年↑↓しょうねん↓の|デッサン|のすばらしさに↑驚嘆↑↓きょうたん↓した。","e":"We were amazed at the excellence of the boy's drawings."}]}

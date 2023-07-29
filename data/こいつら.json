@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"こいつ等"},{"e":"此奴ら","i":["rK"]},{"e":"此奴等","i":["rK"]}],"r_ele":[{"r":"こいつら","p":true}],"sense":[{"gloss":"these guys, these fellows","pos":["pn"]}],"m":["derog","fam","uk"]},"sdata":[]}

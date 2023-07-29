@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北山","p":true}],"r_ele":[{"r":"きたやま","p":true}],"sense":[{"gloss":"northern mountains, mountains to the north","pos":["n"]}]},"sdata":[]}

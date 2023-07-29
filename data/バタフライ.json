@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バタフライ","p":true}],"sense":[{"gloss":"butterfly (swimming stroke)","pos":["n"],"f":["sports"]},{"gloss":"G-string, gee-string","pos":["n"]}]},"sdata":[{"j":"|バタフライ|ノットは、↑上手↑↓じょうず↓にできる？","e":"Can you tie a good butterfly knot?"},{"j":"|バタフライ|ノットは、↑上手↑↓じょうず↓にできる？","e":"Are you good at tying butterfly knots?"}]}

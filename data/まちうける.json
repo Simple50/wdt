@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待ち受ける","p":true},{"e":"待受ける"}],"r_ele":[{"r":"まちうける","p":true}],"sense":[{"gloss":"to await, to wait for, to expect","pos":["v1","vt"]}]},"sdata":[]}

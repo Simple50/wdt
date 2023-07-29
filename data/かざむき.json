@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風向き","p":true}],"r_ele":[{"r":"かざむき","p":true},{"r":"かぜむき"}],"sense":[{"gloss":"wind direction","pos":["n"]},{"gloss":"situation, way things are going","pos":["n"]},{"gloss":"mood, temper","pos":["n"]}]},"sdata":[{"j":"↑風向↑↓|かざむ↓き|が↑悪↑↓わる↓くなってきた。","e":"The situation in now getting unfavorable."}]}

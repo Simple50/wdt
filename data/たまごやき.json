@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卵焼き","p":true},{"e":"玉子焼き"},{"e":"たまご焼き"},{"e":"卵焼"},{"e":"玉子焼"}],"r_ele":[{"r":"たまごやき","p":true}],"sense":[{"gloss":"rolled egg, rolled omelette (omelet)","pos":["n"],"f":["food"]},{"gloss":"fried egg","pos":["n"],"f":["food"]},{"gloss":"frying pan for making rolled eggs","pos":["n"]}]},"sdata":[]}

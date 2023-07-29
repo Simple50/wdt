@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アスパラガス","p":true}],"sense":[{"gloss":"asparagus","pos":["n"]}]},"sdata":[{"j":"この↑冷凍↑↓れいとう↓|アスパラガス|は↑何分↑↓なにぶん↓ゆでましょうか。","e":"How many minutes shall I boil this frozen asparagus?"},{"j":"↑冬↑↓ふゆ↓でもなお|アスパラガス|が↑食↑↓た↓べられる。","e":"You can still get asparagus in the winter."}]}

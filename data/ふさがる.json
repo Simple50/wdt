@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"塞がる","p":true}],"r_ele":[{"r":"ふさがる","p":true},{"r":"ふたがる","i":["ok"]}],"sense":[{"gloss":"to be closed, to be blocked, to be healed (e.g. wound), to be shut up","pos":["v5r","vi"]},{"gloss":"to be clogged, to be plugged up","pos":["v5r","vi"]},{"gloss":"to be occupied, to be taken (e.g. accommodation)","pos":["v5r","vi"]}],"m":["uk"]},"sdata":[]}

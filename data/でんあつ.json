@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電圧","p":true}],"r_ele":[{"r":"でんあつ","p":true}],"sense":[{"gloss":"voltage","pos":["n"]}]},"sdata":[{"j":"バッテリーの↑電圧↑↓|でんあつ|↓が↑低↑↓ひく↓くなってきた。","e":"The battery voltage is low."}]}

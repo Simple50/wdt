@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"所行"},{"e":"所業","p":true}],"r_ele":[{"r":"しょぎょう","p":true}],"sense":[{"gloss":"deed, act","pos":["n"]}]},"sdata":[]}

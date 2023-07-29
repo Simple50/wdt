@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"廃材","p":true}],"r_ele":[{"r":"はいざい","p":true}],"sense":[{"gloss":"scrap wood, waste wood","pos":["n"]},{"gloss":"waste, waste material, scrap material","pos":["n"]}]},"sdata":[]}

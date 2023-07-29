@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒土","p":true}],"r_ele":[{"r":"こくど"},{"r":"くろつち","p":true}],"sense":[{"gloss":"black terracotta, black soil","pos":["n"]}]},"sdata":[]}

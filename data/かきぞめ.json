@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書き初め","p":true},{"e":"書初め"},{"e":"書初"}],"r_ele":[{"r":"かきぞめ","p":true}],"sense":[{"gloss":"first calligraphy of the year","pos":["n"]}]},"sdata":[]}

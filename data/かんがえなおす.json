@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"考え直す","p":true},{"e":"考えなおす"}],"r_ele":[{"r":"かんがえなおす","p":true}],"sense":[{"gloss":"to reconsider, to rethink, to reassess","pos":["v5s","vt"]}]},"sdata":[]}

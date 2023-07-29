@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仕様書","p":true}],"r_ele":[{"r":"しようしょ","p":true}],"sense":[{"gloss":"specification document","pos":["n"]}]},"sdata":[]}

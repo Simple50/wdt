@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブリュッセル","p":true}],"sense":[{"gloss":"Brussels (Belgium)","pos":["n"],"l":"fre: Bruxelles,dut: Brussel"}]},"sdata":[{"j":"↑小便↑↓しょうべん↓↑小僧↑↓こぞう↓の↑本家↑↓ほんけ↓↑本元↑↓ほんもと↓は、ベルギー・|ブリュッセル|にあるジュリアン↑君↑↓くん↓です。","e":"The original for Manneken Pis was a boy named Julian from Brussels, Belgium."}]}

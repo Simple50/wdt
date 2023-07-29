@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鐘楼","p":true}],"r_ele":[{"r":"しょうろう","p":true},{"r":"しゅろう"}],"sense":[{"gloss":"belfry, bell tower","pos":["n"]}]},"sdata":[]}

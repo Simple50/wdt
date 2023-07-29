@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外圧","p":true}],"r_ele":[{"r":"がいあつ","p":true}],"sense":[{"gloss":"external pressure, outside pressure, foreign pressure","pos":["n"]}]},"sdata":[]}

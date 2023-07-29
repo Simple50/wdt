@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連山","p":true}],"r_ele":[{"r":"れんざん","p":true}],"sense":[{"gloss":"mountain range","pos":["n"]},{"gloss":"Lian Shan (Xia-period method of Chinese divination)","pos":["n"],"m":["hist"]}]},"sdata":[]}

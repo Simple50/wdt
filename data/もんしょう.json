@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紋章","p":true}],"r_ele":[{"r":"もんしょう","p":true}],"sense":[{"gloss":"crest, coat of arms","pos":["n"]}]},"sdata":[{"j":"ランカスター↑家↑↓か↓の↑紋章↑↓|もんしょう|↓が↑赤↑↓あか↓バラだったか、↑白↑↓しろ↓バラだったか↑忘↑↓わす↓れてしまった。","e":"I've forgotten. Was House Lancaster's family crest a red rose, or a white rose?"}]}

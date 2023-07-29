@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雑学","p":true}],"r_ele":[{"r":"ざつがく","p":true}],"sense":[{"gloss":"miscellaneous knowledge","pos":["n"]}]},"sdata":[]}

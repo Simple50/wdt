@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"萎れる","p":true},{"e":"凋れる"},{"e":"悄れる"}],"r_ele":[{"r":"しおれる","p":true}],"sense":[{"gloss":"to wither, to wilt, to droop, to fade","pos":["v1","vi"]},{"gloss":"to be dejected, to be disheartened, to be depressed, to be crestfallen","pos":["v1","vi"]}],"m":["uk"]},"sdata":[{"j":"↑美↑↓うつく↓しいバラもいつかは↑萎↑↓|しお↓れる|。","e":"The fairest rose is at last withered."}]}

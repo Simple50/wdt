@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吸水性","p":true}],"r_ele":[{"r":"きゅうすいせい","p":true}],"sense":[{"gloss":"water absorbency","pos":["n"]}]},"sdata":[]}

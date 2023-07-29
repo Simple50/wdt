@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クライミング","p":true}],"sense":[{"gloss":"climbing","pos":["n"]}]},"sdata":[{"j":"ロック|クライミング|も、↑海↑↓うみ↓で↑深↑↓ふか↓く↑潜↑↓くぐ↓ることもしたし、インドネシアの↑熱帯↑↓ねったい↓↑雨林↑↓うりん↓で↑眠↑↓ねむ↓ったこともある。","e":"I've done rock climbing and deep-sea diving and slept in an Indonesian jungle."},{"j":"↑先週↑↓せんしゅう↓さ、トムとロック|クライミング|に↑行↑↓い↓ったんだ。","e":"I went rock climbing with Tom last weekend."}]}

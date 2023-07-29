@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"湯のみ","p":true},{"e":"湯呑み"},{"e":"湯飲み","p":true},{"e":"湯呑"},{"e":"湯飲"}],"r_ele":[{"r":"ゆのみ","p":true}],"sense":[{"gloss":"teacup","pos":["n"],"x":["湯呑み茶碗"]}],"m":["abbr"]},"sdata":[{"j":"↑壊↑↓こわ↓れた↑湯飲↑↓|ゆの↓み|の↑補充↑↓ほじゅう↓をした。","e":"I replaced the broken cups with new ones."}]}

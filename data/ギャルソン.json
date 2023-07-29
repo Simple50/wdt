@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ギャルソン","p":true},{"r":"ガルソン"}],"sense":[{"gloss":"(male) waiter","pos":["n"],"l":"fre: garçon"},{"gloss":"bellboy","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"筋書き","p":true},{"e":"筋書"}],"r_ele":[{"r":"すじがき","p":true}],"sense":[{"gloss":"synopsis, outline, plot","pos":["n"]}]},"sdata":[{"j":"↑筋書↑↓|すじが↓き|は↑別↑↓べつ↓として、その↑本↑↓ほん↓は↑私↑↓わたし↓をひきつけた。","e":"Apart from the plot, the book interested me."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"買い入れ","p":true},{"e":"買入れ"},{"e":"買入","i":["io"]}],"r_ele":[{"r":"かいいれ","p":true}],"sense":[{"gloss":"buying, purchasing, laying in","pos":["n"]}]},"sdata":[]}

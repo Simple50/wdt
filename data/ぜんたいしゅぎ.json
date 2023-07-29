@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"全体主義","p":true}],"r_ele":[{"r":"ぜんたいしゅぎ","p":true}],"sense":[{"gloss":"totalitarianism","pos":["n","adj-no"]}]},"sdata":[]}

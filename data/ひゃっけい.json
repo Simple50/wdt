@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"百景","p":true}],"r_ele":[{"r":"ひゃっけい","p":true}],"sense":[{"gloss":"100 famous views","pos":["n"]}]},"sdata":[]}

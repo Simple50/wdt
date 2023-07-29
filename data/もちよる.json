@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持ち寄る","p":true}],"r_ele":[{"r":"もちよる","p":true}],"sense":[{"gloss":"to gather (bringing something), to gather (to exchange something)","pos":["v5r","vi"]}]},"sdata":[]}

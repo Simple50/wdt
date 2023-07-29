@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歩み寄る","p":true},{"e":"歩みよる"}],"r_ele":[{"r":"あゆみよる","p":true}],"sense":[{"gloss":"to compromise, to meet halfway","pos":["v5r","vi"]},{"gloss":"to step up to, to walk up to, to approach","pos":["v5r","vi"]}]},"sdata":[]}

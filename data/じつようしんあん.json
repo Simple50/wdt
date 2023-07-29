@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実用新案","p":true}],"r_ele":[{"r":"じつようしんあん","p":true}],"sense":[{"gloss":"practical model, utility model, new design for practical use","pos":["n"]}]},"sdata":[]}

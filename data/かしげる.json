@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"傾げる","p":true}],"r_ele":[{"r":"かしげる","p":true},{"r":"かたげる"}],"sense":[{"gloss":"to tilt (esp. head), to lean, to incline, to slant","pos":["v1","vt"]}]},"sdata":[]}

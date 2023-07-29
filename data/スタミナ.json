@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スタミナ","p":true}],"sense":[{"gloss":"stamina, energy","pos":["n"]},{"gloss":"stamina-boosting (esp. of meat dishes containing raw egg yolks, garlic, Chinese chives, etc.)","pos":["adj-f"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遮断機","p":true}],"r_ele":[{"r":"しゃだんき","p":true}],"sense":[{"gloss":"(railway) crossing gate, barrier (at a toll booth, parking lot, etc.)","pos":["n"]}]},"sdata":[]}

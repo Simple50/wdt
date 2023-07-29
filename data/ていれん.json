@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低廉","p":true}],"r_ele":[{"r":"ていれん","p":true}],"sense":[{"gloss":"cheap, inexpensive","pos":["adj-na","n"]}]},"sdata":[]}

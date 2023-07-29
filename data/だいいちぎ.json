@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"第一義","p":true}],"r_ele":[{"r":"だいいちぎ","p":true}],"sense":[{"gloss":"primary significance, primary importance, first principle","pos":["n"]},{"gloss":"absolute truth, ultimate truth","pos":["n"],"f":["Buddh"]}]},"sdata":[]}

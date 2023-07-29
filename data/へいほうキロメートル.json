@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平方キロメートル","p":true}],"r_ele":[{"r":"へいほうキロメートル","p":true}],"sense":[{"gloss":"square kilometer, square kilometre","pos":["n"]}]},"sdata":[]}

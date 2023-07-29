@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブレード","p":true},{"r":"ブレイド"}],"sense":[{"gloss":"blade","pos":["n"]},{"gloss":"braid","pos":["n"]}]},"sdata":[{"j":"スケートボードはたいていローラー|ブレード|より↑安↑↓やす↓いと↑思↑↓おも↓う。","e":"I think skateboards are usually cheaper than rollerblades."}]}

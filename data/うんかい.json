@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雲海","p":true}],"r_ele":[{"r":"うんかい","p":true}],"sense":[{"gloss":"sea of clouds","pos":["n"]}]},"sdata":[{"j":"↑海運↑↓かい|うん↓↑会社↑↓かい|しゃ↓に↑勤↑↓つと↓めています。","e":"I work for a shipping company."}]}

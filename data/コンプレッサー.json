@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンプレッサー","p":true},{"r":"コンプレッサ"}],"sense":[{"gloss":"compressor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"納涼","p":true}],"r_ele":[{"r":"のうりょう","p":true}],"sense":[{"gloss":"escaping the heat to enjoy the cool breeze (by the river, etc.)","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは↑昨日↑↓き|のう↓↑両親↑↓りょう|しん↓を↑訪↑↓おとず↓れた。","e":"They visited their parents yesterday."}]}

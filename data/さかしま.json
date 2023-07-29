@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逆しま","p":true},{"e":"倒"}],"r_ele":[{"r":"さかしま","p":true}],"sense":[{"gloss":"reverse, inversion, upside down","pos":["n","adj-na"]},{"gloss":"unreasonable, absurd, wrong","pos":["n","adj-na"]}]},"sdata":[]}

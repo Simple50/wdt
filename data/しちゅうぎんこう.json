@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"市中銀行","p":true}],"r_ele":[{"r":"しちゅうぎんこう","p":true}],"sense":[{"gloss":"commercial bank, city bank, private bank, high street bank","pos":["n"]}]},"sdata":[]}

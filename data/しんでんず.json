@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心電図","p":true}],"r_ele":[{"r":"しんでんず","p":true}],"sense":[{"gloss":"electrocardiogram, ECG, EKG","pos":["n"],"f":["med"]}]},"sdata":[{"j":"↑心電図↑↓|しんでんず|↓をとりましょう。","e":"I'll take your ECG."}]}

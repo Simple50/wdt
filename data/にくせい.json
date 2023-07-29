@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肉声","p":true}],"r_ele":[{"r":"にくせい","p":true}],"sense":[{"gloss":"natural voice (without a microphone)","pos":["n"]}]},"sdata":[]}

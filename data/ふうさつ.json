@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"封殺","p":true}],"r_ele":[{"r":"ふうさつ","p":true}],"sense":[{"gloss":"suppression (e.g. of free speech)","pos":["n","vs","vt"]},{"gloss":"force-out","pos":["n","vs","vt"],"f":["baseb"],"x":["フォースアウト"]}]},"sdata":[]}

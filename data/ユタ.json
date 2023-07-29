@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ユタ","p":true}],"sense":[{"gloss":"Utah","pos":["n"]}]},"sdata":[{"j":"ネッドは|ユタ|↑州↑↓しゅう↓の↑出身↑↓しゅっしん↓。","e":"Ned comes from the state of Utah."}]}

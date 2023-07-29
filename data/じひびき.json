@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地響き","p":true},{"e":"地ひびき","i":["sK"]}],"r_ele":[{"r":"じひびき","p":true}],"sense":[{"gloss":"subterranean rumbling, earth tremor","pos":["n"]}]},"sdata":[]}

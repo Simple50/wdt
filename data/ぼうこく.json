@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"亡国","p":true}],"r_ele":[{"r":"ぼうこく","p":true}],"sense":[{"gloss":"ruining a country","pos":["n"]},{"gloss":"ruined country","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑死亡↑↓し|ぼう↓↑告知↑↓こく|ち↓が↑新聞↑↓しんぶん↓に↑出↑↓で↓た。","e":"An announcement of his death appeared in the newspapers."}]}

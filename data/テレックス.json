@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テレックス","p":true}],"sense":[{"gloss":"telex, teletypewriter exchange","pos":["n"]}],"m":["abbr"]},"sdata":[{"j":"|テレックス|でご↑返事↑↓へんじ↓ください。","e":"Please answer by telex."},{"j":"|テレックス|でご↑返事↑↓へんじ↓ください。","e":"Please reply by telex."}]}

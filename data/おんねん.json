@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"怨念","p":true}],"r_ele":[{"r":"おんねん","p":true}],"sense":[{"gloss":"deep-seated grudge, hatred","pos":["n"]}]},"sdata":[]}

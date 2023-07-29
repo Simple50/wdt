@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漁獲","p":true}],"r_ele":[{"r":"ぎょかく","p":true}],"sense":[{"gloss":"fishing, catch, haul","pos":["n","vs"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓はこの↑湾内↑↓わんない↓で↑漁獲↑↓|ぎょかく|↓する↑特権↑↓とっけん↓を↑与↑↓あた↓えられた。","e":"We were granted the privilege of fishing in this bay."},{"j":"マグロの↑漁獲↑↓|ぎょかく|↓↑量↑↓りょう↓は↑減↑↓へ↓ってきている。","e":"The tuna catch is declining."}]}

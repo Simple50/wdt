@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別種","p":true}],"r_ele":[{"r":"べっしゅ","p":true}],"sense":[{"gloss":"another kind, distinct species, variety","pos":["n","adj-no"]}]},"sdata":[]}

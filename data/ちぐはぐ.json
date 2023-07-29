@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ちぐはぐ","p":true}],"sense":[{"gloss":"mismatched, odd, irregular","pos":["adj-na","n"]},{"gloss":"inconsistent, incoherent, confused","pos":["adj-na","n"]}],"m":["on-mim"]},"sdata":[{"j":"この↑靴下↑↓くつした↓は|ちぐはぐ|だ。","e":"These socks do not match."},{"j":"↑何↑↓なに↓、その|ちぐはぐ|な↑格好↑↓かっこう↓。","e":"What's with that mismatched dress?"}]}

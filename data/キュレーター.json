@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キュレーター","p":true}],"sense":[{"gloss":"curator","pos":["n"]}]},"sdata":[{"j":"↑机↑↓つくえ↓の↑上↑↓うえ↓のカル|キュレーター|は↑私↑↓わたし↓のです。","e":"The calculator on the table is mine."}]}

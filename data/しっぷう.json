@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"疾風","p":true},{"e":"早手"}],"r_ele":[{"r":"しっぷう","p":true},{"r":"はやて"}],"sense":[{"gloss":"gale, strong wind, swift wind, fresh breeze (Beaufort scale)","pos":["n"]}]},"sdata":[]}

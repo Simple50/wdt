@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グランプリ","p":true},{"r":"グラン・プリ"}],"sense":[{"gloss":"Grand Prix, grand prize","pos":["n"],"l":"fre"}]},"sdata":[{"j":"|グランプリ|に↑勝↑↓か↓つことは↑有名↑↓ゆうめい↓なレーサーにとっては↑名誉↑↓めいよ↓であった。","e":"Winning the Grand Prix was a feather in the cap of the famous drivers."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国風","p":true},{"e":"国振り"},{"e":"国ぶり"}],"r_ele":[{"r":"こくふう"},{"r":"くにぶり","p":true}],"sense":[{"gloss":"national customs and manners","pos":["n"]},{"gloss":"provincial song or ballad","pos":["n"]},{"gloss":"waka (classical Japanese poetry, as opposed to Chinese poetry)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"随所","p":true},{"e":"随処","i":["rK"]}],"r_ele":[{"r":"ずいしょ","p":true}],"sense":[{"gloss":"everywhere, all over the place, here and there, at every turn","pos":["n"]}]},"sdata":[]}

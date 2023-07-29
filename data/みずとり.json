@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水鳥","p":true}],"r_ele":[{"r":"みずとり","p":true},{"r":"みずどり"},{"r":"すいちょう"}],"sense":[{"gloss":"waterfowl, water bird, shorebird","pos":["n"]}]},"sdata":[{"j":"ガチョウは↑水鳥↑↓|みずとり|↓である。","e":"A goose is a water bird."},{"j":"↑妹↑↓いもうと↓は↑水鳥↑↓|みずとり|↓を↑見↑↓み↓て↑興奮↑↓こうふん↓した。","e":"My little sister was excited to see the waterfowl."}]}

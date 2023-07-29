@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り返し","p":true}],"r_ele":[{"r":"きりかえし","p":true}],"sense":[{"gloss":"counterattack, slashing back","pos":["n"]},{"gloss":"railway switchback","pos":["n"]},{"gloss":"twisting backward knee trip","pos":["n"],"f":["sumo"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上海","p":true}],"r_ele":[{"r":"シャンハイ","p":true}],"sense":[{"gloss":"Shanghai (China)","pos":["n"]}]},"sdata":[]}

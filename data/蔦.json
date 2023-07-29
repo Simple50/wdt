@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蔦","p":true}],"r_ele":[{"r":"つた","p":true},{"r":"ツタ"}],"sense":[{"gloss":"ivy (esp. Boston ivy, Parthenocissus tricuspidata)","pos":["n"]}],"m":["uk"]},"kdata":{"蔦":{"on":["チョウ"],"kun":["つた"],"meanings":["vine","ivy"],"freq":2215,"comp":[["鳥","艹"]],"jlpt":0}},"sdata":[]}

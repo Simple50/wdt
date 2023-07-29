@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同根","p":true}],"r_ele":[{"r":"どうこん","p":true}],"sense":[{"gloss":"same root, same origin","pos":["n"]}]},"sdata":[]}

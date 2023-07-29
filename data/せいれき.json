@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"西暦","p":true}],"r_ele":[{"r":"せいれき","p":true}],"sense":[{"gloss":"Common Era, CE, Christian Era, anno domini, AD","pos":["n"]},{"gloss":"Western (Gregorian) calendar","pos":["n"]}]},"sdata":[{"j":"↑昭和↑↓しょうわ↓１０↑年↑↓ねん↓は↑西暦↑↓|せいれき|↓１９３５↑年↑↓ねん↓です。","e":"The 10th year of Showa is 1935 in the Western calendar."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中央集権","p":true}],"r_ele":[{"r":"ちゅうおうしゅうけん","p":true}],"sense":[{"gloss":"centralized authoritarian rule, centralised authoritarian rule","pos":["n"]}]},"sdata":[]}

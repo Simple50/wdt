@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天女","p":true}],"r_ele":[{"r":"てんにょ","p":true}],"sense":[{"gloss":"heavenly nymph, celestial maiden","pos":["n"]},{"gloss":"beautiful and kind woman","pos":["n"]}]},"sdata":[]}

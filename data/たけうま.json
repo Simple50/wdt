@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"竹馬","p":true}],"r_ele":[{"r":"たけうま","p":true},{"r":"ちくば"}],"sense":[{"gloss":"stilts (for walking)","pos":["n"]},{"gloss":"hobby horse","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓と↑私↑↓わたし↓は↑竹馬↑↓|たけうま|↓の↑友↑↓とも↓。","e":"He and I are bosom friends."},{"j":"↑彼↑↓かれ↓と↑私↑↓わたし↓は↑竹馬↑↓|たけうま|↓の↑友↑↓とも↓。","e":"He and I are childhood friends."}]}

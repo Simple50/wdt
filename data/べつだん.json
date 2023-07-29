@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別段","p":true}],"r_ele":[{"r":"べつだん","p":true},{"r":"べちだん","i":["ok"]}],"sense":[{"gloss":"particular, special","pos":["adj-no","n"]},{"gloss":"(not) particularly, (not) especially","pos":["adv"]}]},"sdata":[{"j":"↑彼↑↓かれ↓が↑失敗↑↓しっぱい↓したことは、|べつだん|↑驚↑↓おどろ↓くにはあたらない。","e":"It is no wonder that he failed."}]}

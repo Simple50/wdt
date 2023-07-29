@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天皇誕生日","p":true}],"r_ele":[{"r":"てんのうたんじょうび","p":true}],"sense":[{"gloss":"Emperor's Birthday (national holiday; February 23)","pos":["n"]}]},"sdata":[{"j":"↑天皇誕生日↑↓|てんのうたんじょうび|↓が↑日曜日↑↓にちようび↓と↑重↑↓かさ↓なった。","e":"The Emperor's Birthday fell on Sunday."}]}

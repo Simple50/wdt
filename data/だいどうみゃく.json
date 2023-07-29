@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大動脈","p":true}],"r_ele":[{"r":"だいどうみゃく","p":true}],"sense":[{"gloss":"aorta","pos":["n"],"f":["anat"]},{"gloss":"important traffic route","pos":["n"]}]},"sdata":[]}

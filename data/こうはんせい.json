@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後半生","p":true}],"r_ele":[{"r":"こうはんせい","p":true}],"sense":[{"gloss":"latter half of one's life","pos":["n"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓は↑後半↑↓|こうはん↓↑生↑↓せい|↓に↑豊↑↓ゆた↓かな↑報酬↑↓ほうしゅう↓を↑手↑↓て↓にするだろう。","e":"We will reap rich rewards later on in life."}]}

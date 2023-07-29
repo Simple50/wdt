@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"球菌","p":true}],"r_ele":[{"r":"きゅうきん","p":true}],"sense":[{"gloss":"coccus","pos":["n","adj-no"]}]},"sdata":[{"j":"↑子宮↑↓し|きゅう↓↑筋腫↑↓きん|しゅ↓があります。↑大↑↓おお↓きくならないようにする↑方法↑↓ほうほう↓はありますか？","e":"I have fibroid tumours. Is there a way to stop them getting large?"}]}

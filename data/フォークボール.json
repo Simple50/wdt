@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フォークボール","p":true}],"sense":[{"gloss":"forkball","pos":["n"],"f":["baseb"]}]},"sdata":[]}

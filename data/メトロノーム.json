@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メトロノーム","p":true}],"sense":[{"gloss":"metronome","pos":["n"],"l":"ger: Metronom"}]},"sdata":[]}

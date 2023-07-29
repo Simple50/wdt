@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"存じる","p":true}],"r_ele":[{"r":"ぞんじる","p":true}],"sense":[{"gloss":"to know, to be aware (of), to be acquainted (with)","pos":["v1","vt"]},{"gloss":"to think, to consider, to believe, to feel","pos":["v1","vt"]}],"m":["hum"]},"sdata":[]}

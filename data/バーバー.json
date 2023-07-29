@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バーバー","p":true}],"sense":[{"gloss":"barber, barbershop, barber shop","pos":["n"]}]},"sdata":[]}

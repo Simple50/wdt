@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"決勝点","p":true}],"r_ele":[{"r":"けっしょうてん","p":true}],"sense":[{"gloss":"winning point, winning goal, game point (tennis, etc.), finishing line","pos":["n"]}]},"sdata":[]}

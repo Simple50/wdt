@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増員","p":true}],"r_ele":[{"r":"ぞういん","p":true}],"sense":[{"gloss":"increasing the number of staff, hiring more people","pos":["n","vs","vt","vi"]}]},"sdata":[]}

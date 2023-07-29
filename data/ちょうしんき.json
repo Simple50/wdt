@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聴診器","p":true}],"r_ele":[{"r":"ちょうしんき","p":true}],"sense":[{"gloss":"stethoscope","pos":["n"]}]},"sdata":[{"j":"↑医者↑↓いしゃ↓は↑患者↑↓かんじゃ↓の↑胸↑↓むね↓に↑聴診↑↓|ちょうしん↓↑器↑↓き|↓を↑当↑↓あ↓てた。","e":"The doctor placed a stethoscope on the patient's chest."}]}

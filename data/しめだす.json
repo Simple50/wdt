@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"締め出す","p":true},{"e":"閉め出す"}],"r_ele":[{"r":"しめだす","p":true}],"sense":[{"gloss":"to shut out, to bar, to lock out, to exclude","pos":["v5s","vt"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓は↑経験↑↓けいけん↓から↑感情↑↓かんじょう↓を↑閉↑↓|し↓め↑出↑↓だ↓す|ことはない。","e":"We cannot exclude feeling from our experience."}]}

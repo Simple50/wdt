@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き当て"},{"e":"引当て"},{"e":"引当","p":true}],"r_ele":[{"r":"ひきあて","p":true}],"sense":[{"gloss":"mortgage, security","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"私鉄","p":true}],"r_ele":[{"r":"してつ","p":true}],"sense":[{"gloss":"private railway","pos":["n"]}]},"kdata":{"私":{"on":["シ"],"kun":["わたくし","わたし"],"jlpt":4,"meanings":["myself","private","I","me"],"freq":242,"comp":[["厶","禾"]],"s":"仏,払","t":540},"鉄":{"on":["テツ"],"kun":["くろがね"],"jlpt":2,"meanings":["iron"],"freq":672,"comp":[["金","失"]],"t":1809}},"sdata":[]}

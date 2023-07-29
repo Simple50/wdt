@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小町","p":true}],"r_ele":[{"r":"こまち","p":true}],"sense":[{"gloss":"belle, (town) beauty","pos":["n"]}]},"sdata":[{"j":"↑浅草↑↓あさくさ↓↑小町↑↓|こまち|↓と↑呼↑↓よ↓ばれたものだ。","e":"She used to be called the Belle of Asakusa."},{"j":"えっ。↑普通↑↓ふつう↓、そ|こ↑間違↑↓まち|が↓える？","e":"Huh. Do you usually make a mistake there?"}]}

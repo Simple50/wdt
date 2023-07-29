@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"据え付け","p":true},{"e":"据付"}],"r_ele":[{"r":"すえつけ","p":true}],"sense":[{"gloss":"installation, setting, fitting, mounting","pos":["n"]}]},"sdata":[]}

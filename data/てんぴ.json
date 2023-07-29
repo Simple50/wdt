@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天日","p":true}],"r_ele":[{"r":"てんぴ","p":true}],"sense":[{"gloss":"the sun, sunlight, heat of the sun","pos":["n"]}]},"sdata":[]}

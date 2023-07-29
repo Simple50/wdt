@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"痛み分け","p":true},{"e":"痛みわけ"},{"e":"傷み分け","i":["rK"]},{"e":"痛分","i":["sK"]}],"r_ele":[{"r":"いたみわけ","p":true}],"sense":[{"gloss":"match declared drawn due to injury","pos":["n"],"f":["sumo"]},{"gloss":"ending with both sides suffering damage (of a dispute, etc.)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貸し倒れ","p":true},{"e":"貸倒れ"},{"e":"貸倒"}],"r_ele":[{"r":"かしだおれ","p":true}],"sense":[{"gloss":"bad debt, irrecoverable debt","pos":["n"]}]},"sdata":[]}

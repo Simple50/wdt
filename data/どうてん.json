@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同点","p":true}],"r_ele":[{"r":"どうてん","p":true}],"sense":[{"gloss":"same score, deadlock, tie, draw","pos":["n","adj-no"]}]},"sdata":[{"j":"その↑出来事↑↓できごと↓が↑彼↑↓かれ↓を↑動転↑↓|どうてん|↓させた。","e":"The incident upset him."},{"j":"↑悲↑↓かな↓しみのあまり↑気↑↓き↓が↑動転↑↓|どうてん|↓していた。","e":"She was beside herself with grief."}]}

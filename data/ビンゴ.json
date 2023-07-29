@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビンゴ","p":true}],"sense":[{"gloss":"bingo","pos":["n"]}]},"sdata":[]}

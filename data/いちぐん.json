@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一群","p":true}],"r_ele":[{"r":"いちぐん","p":true}],"sense":[{"gloss":"group, flock, crowd, herd","pos":["n"]},{"gloss":"wide expanse (of flowers)","pos":["n"]}]},"sdata":[{"j":"↑空↑↓そら↓↑高↑↓たか↓く↑一群↑↓|いちぐん|↓の↑鳥↑↓とり↓が↑飛↑↓と↓んでいるのを↑見↑↓み↓た。","e":"I saw a flock of birds flying aloft."}]}

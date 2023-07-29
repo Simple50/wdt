@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滑り止め","p":true},{"e":"すべり止め"},{"e":"スベリ止め"}],"r_ele":[{"r":"すべりどめ","p":true}],"sense":[{"gloss":"non-slip device (material, tread, etc.), non-skid, anti-slip, anti-skid","pos":["n","adj-no"]},{"gloss":"back-up option (esp. with regard to university admissions), back-up choice, insurance choice, contingency option","pos":["n"]}]},"sdata":[]}

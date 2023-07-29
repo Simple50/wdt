@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見届ける","p":true}],"r_ele":[{"r":"みとどける","p":true}],"sense":[{"gloss":"to make sure of, to assure oneself of, to see with one's own eyes, to ascertain","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"産油国","p":true}],"r_ele":[{"r":"さんゆこく","p":true}],"sense":[{"gloss":"oil-producing country","pos":["n"]}]},"sdata":[]}

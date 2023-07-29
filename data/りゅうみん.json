@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流民","p":true}],"r_ele":[{"r":"るみん"},{"r":"りゅうみん","p":true}],"sense":[{"gloss":"refugees","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファイティングスピリット","p":true},{"r":"ファイティング・スピリット"}],"sense":[{"gloss":"fighting spirit","pos":["n"]}]},"sdata":[]}

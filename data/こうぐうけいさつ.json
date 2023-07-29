@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"皇宮警察","p":true}],"r_ele":[{"r":"こうぐうけいさつ","p":true}],"sense":[{"gloss":"the Imperial Guards","pos":["n"]}]},"sdata":[]}

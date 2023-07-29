@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"存立","p":true}],"r_ele":[{"r":"そんりつ","p":true}],"sense":[{"gloss":"existence, subsistence","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横穴","p":true}],"r_ele":[{"r":"よこあな","p":true},{"r":"おうけつ"}],"sense":[{"gloss":"cave, tunnel","pos":["n"]},{"gloss":"tunnel tomb (Kofun period)","pos":["n"]}]},"sdata":[]}

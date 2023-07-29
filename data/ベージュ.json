@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベージュ","p":true}],"sense":[{"gloss":"beige","pos":["n","adj-no"],"l":"fre"}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑壁↑↓かべ↓を|ベージュ|↑色↑↓しょく↓にした。","e":"She stained the wall beige."}]}

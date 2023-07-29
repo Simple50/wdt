@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"長柄","p":true}],"r_ele":[{"r":"ながえ","p":true}],"sense":[{"gloss":"long handle, long-handled spear, long shaft","pos":["n"]}]},"sdata":[]}

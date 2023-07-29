@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"写植","p":true}],"r_ele":[{"r":"しゃしょく","p":true},{"r":"しゃちょく"}],"sense":[{"gloss":"phototypesetting","pos":["n"],"x":["写真植字・しゃしんしょくじ"]}],"m":["abbr"]},"sdata":[]}

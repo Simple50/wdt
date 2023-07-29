@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紹介者","p":true}],"r_ele":[{"r":"しょうかいしゃ","p":true}],"sense":[{"gloss":"person who introduces someone, introducer","pos":["n"]}]},"sdata":[{"j":"↑紹介↑↓|しょうかい↓↑者↑↓しゃ|↓のお↑名前↑↓なまえ↓は？","e":"What's the name of the person who recommended us to you?"},{"j":"↑紹介↑↓|しょうかい↓↑者↑↓しゃ|↓はいらっしゃいますか。","e":"Did anybody recommend us to you?"}]}

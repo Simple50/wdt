@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浮世絵","p":true}],"r_ele":[{"r":"うきよえ","p":true}],"sense":[{"gloss":"ukiyo-e, ukiyoe, Edo-period woodblock print","pos":["n"],"f":["art"]}],"m":["hist"]},"sdata":[]}

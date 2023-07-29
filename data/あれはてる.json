@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒れ果てる","p":true},{"e":"荒れはてる","i":["sK"]},{"e":"荒果てる","i":["sK"]}],"r_ele":[{"r":"あれはてる","p":true}],"sense":[{"gloss":"to fall into ruin, to become dilapidated, to become run-down, to become desolate, to be badly neglected","pos":["v1","vi"]}]},"sdata":[]}

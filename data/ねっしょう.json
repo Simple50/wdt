@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱唱","p":true}],"r_ele":[{"r":"ねっしょう","p":true}],"sense":[{"gloss":"singing enthusiastically","pos":["n","vs","vt"]}]},"sdata":[]}

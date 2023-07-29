@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"命ずる","p":true}],"r_ele":[{"r":"めいずる","p":true}],"sense":[{"gloss":"to order, to command","pos":["vz","vt"]},{"gloss":"to appoint","pos":["vz","vt"]}]},"kdata":{"命":{"on":["メイ","ミョウ"],"kun":["いのち"],"jlpt":3,"meanings":["fate","command","decree","destiny","life","appoint"],"freq":465,"comp":[["亼","叩"]],"d":["掵"],"t":624}},"sdata":[]}

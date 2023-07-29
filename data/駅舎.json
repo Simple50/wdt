@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駅舎","p":true}],"r_ele":[{"r":"えきしゃ","p":true}],"sense":[{"gloss":"station building","pos":["n"]}]},"kdata":{"駅":{"on":["エキ"],"jlpt":4,"meanings":["station"],"freq":724,"comp":[["馬","尺"]],"t":1955},"舎":{"on":["シャ","セキ"],"kun":["やど.る"],"jlpt":1,"meanings":["cottage","inn","hut","house","mansion"],"freq":1170,"comp":[["𠆢","𠮷"]],"d":["舗"],"t":752}},"sdata":[]}

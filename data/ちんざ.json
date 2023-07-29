@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鎮座","p":true}],"r_ele":[{"r":"ちんざ","p":true}],"sense":[{"gloss":"enshrinement","pos":["n","vs","vi"]}]},"sdata":[]}

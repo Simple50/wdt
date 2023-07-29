@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トーラス","p":true}],"sense":[{"gloss":"Taurus","pos":["n"]},{"gloss":"torus","pos":["n"]}]},"sdata":[]}

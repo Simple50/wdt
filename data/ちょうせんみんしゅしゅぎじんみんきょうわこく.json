@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"朝鮮民主主義人民共和国","p":true}],"r_ele":[{"r":"ちょうせんみんしゅしゅぎじんみんきょうわこく","p":true}],"sense":[{"gloss":"Democratic People's Republic of Korea (North Korea), DPRK","pos":["n"]}]},"sdata":[]}

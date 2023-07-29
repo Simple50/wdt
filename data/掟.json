@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"掟","p":true}],"r_ele":[{"r":"おきて","p":true}],"sense":[{"gloss":"law, regulation, rule, code, agreement, arrangement, compact","pos":["n"]}]},"kdata":{"掟":{"on":["トウ","チョウ","ジョウ","テイ"],"kun":["おきて"],"meanings":["law","commandments","regulations"],"comp":[["定","扌"]],"jlpt":-1,"freq":2766}},"sdata":[]}

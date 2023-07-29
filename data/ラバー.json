@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラバー","p":true}],"sense":[{"gloss":"lover","pos":["n"]},{"gloss":"rubber","pos":["n"]}]},"sdata":[{"j":"グラノー|ラバー|を↑１↑↓いっ↓↑本↑↓ぽん↓↑食↑↓た↓べただけなんだ。","e":"I only ate one granola bar."}]}

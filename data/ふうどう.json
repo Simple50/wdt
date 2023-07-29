@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風洞","p":true}],"r_ele":[{"r":"ふうどう","p":true}],"sense":[{"gloss":"wind tunnel","pos":["n"]}]},"sdata":[]}

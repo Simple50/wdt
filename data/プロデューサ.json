@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロデューサー","p":true},{"r":"プロデューサ","p":true},{"r":"プロデュサー"}],"sense":[{"gloss":"producer (film, TV, etc.)","pos":["n"]}]},"sdata":[]}

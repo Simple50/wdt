@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本件","p":true}],"r_ele":[{"r":"ほんけん","p":true}],"sense":[{"gloss":"this matter, this case","pos":["n"]}]},"sdata":[{"j":"↑本件↑↓|ほんけん|↓についての↑率直↑↓そっちょく↓なご↑意見↑↓いけん↓をお↑聞↑↓き↓かせください。","e":"Could you share your honest opinion on this issue?"}]}

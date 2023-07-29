@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マンパワー","p":true}],"sense":[{"gloss":"manpower, labor force, workers","pos":["n"]}]},"sdata":[{"j":"|マンパワー|は↑世界↑↓せかい↓で↑一番↑↓いちばん↓↑大↑↓おお↓きな↑人材↑↓じんざい↓↑派遣↑↓はけん↓↑会社↑↓かいしゃ↓です。","e":"Manpower is the world's largest temp agency."}]}

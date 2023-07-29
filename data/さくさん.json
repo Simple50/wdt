@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酢酸","p":true},{"e":"醋酸"}],"r_ele":[{"r":"さくさん","p":true}],"sense":[{"gloss":"acetic acid","pos":["n","adj-no"]}]},"sdata":[]}

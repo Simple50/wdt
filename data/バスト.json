@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バスト","p":true}],"sense":[{"gloss":"bust (measurement)","pos":["n"]},{"gloss":"breasts, bosom","pos":["n"]},{"gloss":"bust (sculpture), half-length portrait","pos":["n"],"x":["胸像","半身像"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"笑い話","p":true}],"r_ele":[{"r":"わらいばなし","p":true}],"sense":[{"gloss":"funny story, funny anecdote","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はおもしろい↑笑↑↓|わら↓い↑話↑↓ばなし|↓を↑無限↑↓むげん↓に↑知↑↓し↓っている。","e":"He has an endless store of good jokes."},{"j":"↑高校生↑↓こうこうせい↓の↑頃↑↓ころ↓、たくさんの↑笑↑↓|わら↓い↑話↑↓ばなし|↓を↑覚↑↓おぼ↓えたものだ。","e":"When I was at high school, I knew a lot of jokes."}]}

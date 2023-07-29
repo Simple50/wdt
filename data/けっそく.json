@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"結束","p":true}],"r_ele":[{"r":"けっそく","p":true}],"sense":[{"gloss":"union, unity, solidarity","pos":["n","vs","vt","vi"]},{"gloss":"bundling, binding, tying","pos":["n","vs","vt","vi"]},{"gloss":"putting on (clothes, armour, etc.)","pos":["n","vs","vt","vi"],"m":["arch"]}]},"sdata":[]}

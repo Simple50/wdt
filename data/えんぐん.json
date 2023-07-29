@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"援軍","p":true}],"r_ele":[{"r":"えんぐん","p":true}],"sense":[{"gloss":"reinforcement","pos":["n"]}]},"sdata":[]}

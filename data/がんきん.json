@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"元金","p":true}],"r_ele":[{"r":"がんきん","p":true},{"r":"もときん"}],"sense":[{"gloss":"capital, principal","pos":["n","adj-no"]}]},"sdata":[]}

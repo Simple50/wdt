@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"所存","p":true}],"r_ele":[{"r":"しょぞん","p":true}],"sense":[{"gloss":"opinion, intention, thought","pos":["n"]}]},"sdata":[{"j":"↑乗↑↓の↓りかかった↑船↑↓ふね↓ということでやっていく↑所存↑↓|しょぞん|↓です。","e":"I've come this far, so I'll keep going."}]}

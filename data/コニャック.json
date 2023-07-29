@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コニャック","p":true}],"sense":[{"gloss":"cognac","pos":["n"],"l":"fre"}]},"sdata":[{"j":"↑彼↑↓かれ↓に|コニャック|を↑持↑↓も↓っていったの？","e":"You brought him some cognac?"},{"j":"|コニャック|は↑飲↑↓の↓まないんだ。","e":"I don't drink cognac."}]}

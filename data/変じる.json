@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変じる","p":true}],"r_ele":[{"r":"へんじる","p":true}],"sense":[{"gloss":"to change into, to be transformed, to be transfigured, to transform, to alter, to convert","pos":["v1","vi"]}]},"kdata":{"変":{"on":["ヘン"],"kun":["か.わる","か.わり","か.える"],"jlpt":3,"meanings":["unusual","change","strange"],"freq":238,"comp":[["亦","夂"]],"s":"恋","t":837}},"sdata":[]}

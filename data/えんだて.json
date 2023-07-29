@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"円建て","p":true}],"r_ele":[{"r":"えんだて","p":true}],"sense":[{"gloss":"yen basis (for trade, exchange, etc.)","pos":["n"]},{"gloss":"yen-denominated, yen-based","pos":["adj-no"]}]},"sdata":[]}

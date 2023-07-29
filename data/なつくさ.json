@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夏草","p":true}],"r_ele":[{"r":"なつくさ","p":true},{"r":"なつぐさ"}],"sense":[{"gloss":"summer grass","pos":["n"]}]},"sdata":[{"j":"↑夏↑↓|なつ↓↑草↑↓くさ|↓や↑兵↑↓つわもの↓どもが↑夢↑↓ゆめ↓の↑跡↑↓あと↓。","e":"Summer grasses, all that remain of warriors' dreams."}]}

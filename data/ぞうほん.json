@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蔵本","p":true}],"r_ele":[{"r":"ぞうほん","p":true}],"sense":[{"gloss":"one's library","pos":["n"]}]},"sdata":[]}

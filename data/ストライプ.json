@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ストライプ","p":true}],"sense":[{"gloss":"stripe","pos":["n"]}]},"sdata":[{"j":"この|ストライプ|のシャツ、↑気↑↓き↓に↑入↑↓い↓ってるんだ。","e":"I like this striped shirt."},{"j":"この|ストライプ|のシャツ、↑好↑↓す↓きだな。","e":"I like this striped shirt."}]}

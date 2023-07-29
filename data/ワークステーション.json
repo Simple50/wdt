@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワークステーション","p":true}],"sense":[{"gloss":"workstation","pos":["n"],"f":["comp"]}]},"sdata":[]}

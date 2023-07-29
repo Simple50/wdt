@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱戦","p":true}],"r_ele":[{"r":"ねっせん","p":true}],"sense":[{"gloss":"fierce fight, close contest","pos":["n"]}]},"sdata":[]}

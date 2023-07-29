@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打算的","p":true}],"r_ele":[{"r":"ださんてき","p":true}],"sense":[{"gloss":"calculating, mercenary, selfish, self-interested","pos":["adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はとても↑打算↑↓|ださん↓↑的↑↓てき|↓だ。","e":"He is very mercenary."},{"j":"あいつはとても↑打算↑↓|ださん↓↑的↑↓てき|↓だ。","e":"He is very mercenary."}]}

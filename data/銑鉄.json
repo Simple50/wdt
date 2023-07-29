@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銑鉄","p":true}],"r_ele":[{"r":"せんてつ","p":true},{"r":"ずくてつ"}],"sense":[{"gloss":"pig iron","pos":["n"]}]},"kdata":{"銑":{"on":["セン"],"meanings":["pig iron"],"comp":[["金","先"]],"jlpt":0,"freq":3430},"鉄":{"on":["テツ"],"kun":["くろがね"],"jlpt":2,"meanings":["iron"],"freq":672,"comp":[["金","失"]],"t":1809}},"sdata":[]}

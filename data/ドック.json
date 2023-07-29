@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドック","p":true}],"sense":[{"gloss":"dock","pos":["n"]},{"gloss":"thorough physical examination","pos":["n"],"m":["abbr"],"x":["人間ドック"]}]},"sdata":[{"j":"↑船↑↓ふね↓は↑改装↑↓かいそう↓のため↑目下↑↓もっか↓|ドック|↑入↑↓い↓りしている。","e":"The ship is now in dock for a refit."}]}

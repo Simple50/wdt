@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"毎月","p":true}],"r_ele":[{"r":"まいつき","p":true},{"r":"まいげつ","p":true}],"sense":[{"gloss":"every month, each month, monthly","pos":["adv","n"]}]},"sdata":[]}

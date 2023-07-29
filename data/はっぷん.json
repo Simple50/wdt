@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発奮","p":true},{"e":"発憤"}],"r_ele":[{"r":"はっぷん","p":true}],"sense":[{"gloss":"being roused, being stimulated, being inspired, being spurred on","pos":["n","vs","vi"]}]},"sdata":[]}

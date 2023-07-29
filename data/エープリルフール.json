@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エイプリルフール","p":true},{"r":"エープリルフール","p":true},{"r":"エイプリル・フール"},{"r":"エープリル・フール"}],"sense":[{"gloss":"April Fools' Day","pos":["n"]},{"gloss":"April fool","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アルミニウム","p":true},{"r":"アルミニューム"}],"sense":[{"gloss":"aluminum (Al), aluminium","pos":["n","adj-no"]}]},"sdata":[{"j":"|アルミニウム|、マグネシウム、シリコンなどの↑粉末↑↓ふんまつ↓が↑爆発↑↓ばくはつ↓する。","e":"Powders of aluminium, magnesium, silicon, etc. explode."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"決定版","p":true},{"e":"決定盤"}],"r_ele":[{"r":"けっていばん","p":true}],"sense":[{"gloss":"definitive edition, authoritative edition, definitive piece","pos":["n"]},{"gloss":"best item of its kind on the market","pos":["n"]}]},"sdata":[]}

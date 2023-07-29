@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"村有","p":true}],"r_ele":[{"r":"そんゆう","p":true}],"sense":[{"gloss":"village-owned, village property","pos":["n"]}]},"sdata":[]}

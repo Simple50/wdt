@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名残惜しい","p":true},{"e":"名残り惜しい"}],"r_ele":[{"r":"なごりおしい","p":true}],"sense":[{"gloss":"reluctant (to part)","pos":["adj-i"]}]},"sdata":[]}

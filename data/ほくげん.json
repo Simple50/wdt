@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北限","p":true}],"r_ele":[{"r":"ほくげん","p":true}],"sense":[{"gloss":"northern limit","pos":["n"]}]},"sdata":[]}

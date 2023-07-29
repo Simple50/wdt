@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軽金属","p":true}],"r_ele":[{"r":"けいきんぞく","p":true}],"sense":[{"gloss":"light metal","pos":["n"]}]},"sdata":[{"j":"↑扉↑↓とびら↓の↑傍↑↓はた↓に、↑精巧↑↓せいこう↓な、↑軽金属↑↓|けいきんぞく|↓↑製↑↓せい↓のロボット——↑侵入↑↓しんにゅう↓↑者↑↓しゃ↓を↑防↑↓ふせ↓ぐためのロボットが、↑冷↑↓れい↓かに↑立↑↓た↓っていた。","e":"Near the door, an elaborate metal robot -- a robot designed to keep away intruders, was standing coldly."}]}

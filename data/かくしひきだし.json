@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隠し引き出し","p":true}],"r_ele":[{"r":"かくしひきだし","p":true}],"sense":[{"gloss":"secret drawer, hidden drawer","pos":["n"]}]},"sdata":[]}

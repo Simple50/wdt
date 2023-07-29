@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不審火","p":true}],"r_ele":[{"r":"ふしんび","p":true}],"sense":[{"gloss":"fire under suspicious circumstances, arson","pos":["n"]}]},"sdata":[]}

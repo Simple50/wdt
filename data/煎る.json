@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"炒る"},{"e":"煎る","p":true},{"e":"熬る"}],"r_ele":[{"r":"いる","p":true}],"sense":[{"gloss":"to roast, to parch, to toast, to boil down","pos":["v5r","vt"]}]},"kdata":{"煎":{"on":["セン"],"kun":["せん.じる","い.る","に.る"],"meanings":["broil","parch","roast","boil"],"freq":2458,"comp":[["灬","前"]],"jlpt":1,"t":1838}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"門前払い","p":true}],"r_ele":[{"r":"もんぜんばらい","p":true}],"sense":[{"gloss":"turning another away at the gate or front door, refusing to receive a caller","pos":["n"]}]},"sdata":[]}

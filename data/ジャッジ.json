@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャッジ","p":true}],"sense":[{"gloss":"judge","pos":["n"]},{"gloss":"judging, judgement","pos":["n","vs","vi"]}]},"sdata":[]}

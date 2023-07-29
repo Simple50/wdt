@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち消す","p":true},{"e":"打消す","p":true}],"r_ele":[{"r":"うちけす","p":true}],"sense":[{"gloss":"to deny, to contradict","pos":["v5s","vt"]},{"gloss":"to negate (esp. a sound), to drown out","pos":["v5s","vt"]}]},"sdata":[]}

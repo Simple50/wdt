@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大台","p":true}],"r_ele":[{"r":"おおだい","p":true}],"sense":[{"gloss":"(major) mark, level, barrier","pos":["n"]},{"gloss":"100-yen unit (stock market)","pos":["n"],"f":["finc"]}]},"sdata":[]}

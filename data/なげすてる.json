@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"投げ捨てる","p":true},{"e":"投げ棄てる"},{"e":"投捨てる"}],"r_ele":[{"r":"なげすてる","p":true}],"sense":[{"gloss":"to throw away","pos":["v1","vt"]}]},"sdata":[{"j":"トムに↑金↑↓きん↓を↑貸↑↓か↓すのは↑海↑↓うみ↓に↑金↑↓きん↓を↑投↑↓|な↓げ↑捨↑↓す↓てる|ようなものだ。","e":"I might as well throw my money into the sea as lend it to Tom."}]}

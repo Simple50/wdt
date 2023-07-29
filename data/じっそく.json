@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実測","p":true}],"r_ele":[{"r":"じっそく","p":true}],"sense":[{"gloss":"survey, actual measurements","pos":["n","vs","vt"]}]},"sdata":[]}

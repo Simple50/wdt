@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マークシート","p":true},{"r":"マーク・シート"}],"sense":[{"gloss":"bubble sheet, computer-scored answer sheet, optical answer sheet, scantron","pos":["n"],"l":"eng: mark sheet"}]},"sdata":[{"j":"あの↑大学↑↓だいがく↓は|マークシート|↑方式↑↓ほうしき↓で↑入学↑↓にゅうがく↓↑試験↑↓しけん↓を↑行↑↓おこな↓っている。","e":"That university conducts its entrance examinations using a computer scored answer sheet."}]}

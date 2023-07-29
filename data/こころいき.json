@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心意気","p":true}],"r_ele":[{"r":"こころいき","p":true}],"sense":[{"gloss":"spirit, determination, pluck, mettle","pos":["n"]}]},"sdata":[]}

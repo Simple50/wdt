@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"品性","p":true}],"r_ele":[{"r":"ひんせい","p":true}],"sense":[{"gloss":"character","pos":["n"]}]},"sdata":[]}

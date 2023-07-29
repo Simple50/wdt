@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"振り落とす","p":true},{"e":"振り落す"}],"r_ele":[{"r":"ふりおとす","p":true}],"sense":[{"gloss":"to shake off, to throw off","pos":["v5s","vt"]}]},"sdata":[]}

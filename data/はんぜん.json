@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"判然","p":true}],"r_ele":[{"r":"はんぜん","p":true}],"sense":[{"gloss":"clear, distinct, evident, definite","pos":["adj-t","adv-to"]}]},"sdata":[{"j":"どちらが↑望↑↓のぞ↓んだのか↑判然↑↓|はんぜん|↓とはしない。","e":"It isn't clear which of them wanted that."},{"j":"どちらが↑望↑↓のぞ↓んだのか↑判然↑↓|はんぜん|↓とはしない。","e":"It's not clear which of them wanted that."}]}

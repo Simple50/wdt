@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレンザー","p":true}],"sense":[{"gloss":"cleanser","pos":["n"]}]},"sdata":[{"j":"|クレンザー|でオーブンの↑汚↑↓よご↓れが↑落↑↓お↓ちた。","e":"The cleanser removed the dirt from the oven."}]}

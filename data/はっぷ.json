@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発布","p":true}],"r_ele":[{"r":"はっぷ","p":true}],"sense":[{"gloss":"proclamation, promulgation","pos":["n","vs","vt"]}]},"sdata":[]}

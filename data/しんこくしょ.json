@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"申告書","p":true}],"r_ele":[{"r":"しんこくしょ","p":true}],"sense":[{"gloss":"report, declaration","pos":["n"]}]},"sdata":[{"j":"↑関税↑↓かんぜい↓↑申告↑↓|しんこく↓↑書↑↓しょ|↓が↑必要↑↓ひつよう↓になります。","e":"A customs declaration is required."},{"j":"↑税関↑↓ぜいかん↓↑申告↑↓|しんこく↓↑書↑↓しょ|↓に↑記入↑↓きにゅう↓してください。","e":"Please fill out the Customs Declaration Form."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テクニシャン","p":true}],"sense":[{"gloss":"technician","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書記局","p":true}],"r_ele":[{"r":"しょききょく","p":true}],"sense":[{"gloss":"secretariat","pos":["n"]}]},"sdata":[]}

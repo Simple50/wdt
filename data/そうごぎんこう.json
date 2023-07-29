@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相互銀行","p":true}],"r_ele":[{"r":"そうごぎんこう","p":true}],"sense":[{"gloss":"mutual savings bank","pos":["n"]}]},"sdata":[]}

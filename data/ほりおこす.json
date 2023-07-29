@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"掘り起こす","p":true},{"e":"掘り起す"},{"e":"掘起す"}],"r_ele":[{"r":"ほりおこす","p":true}],"sense":[{"gloss":"to dig up, to unearth, to uncover","pos":["v5s","vt"]}]},"sdata":[]}

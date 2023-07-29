@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き払う","p":true},{"e":"引きはらう"},{"e":"引払う","i":["io"]}],"r_ele":[{"r":"ひきはらう","p":true}],"sense":[{"gloss":"to vacate, to move out","pos":["v5u","vt"]}]},"sdata":[]}

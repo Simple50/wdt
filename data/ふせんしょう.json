@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不戦勝","p":true}],"r_ele":[{"r":"ふせんしょう","p":true}],"sense":[{"gloss":"win by default, walkover","pos":["n"]}]},"sdata":[]}

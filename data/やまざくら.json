@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山桜","p":true}],"r_ele":[{"r":"やまざくら","p":true},{"r":"ヤマザクラ"}],"sense":[{"gloss":"mountain cherry (Cerasus jamasakura)","pos":["n"]}]},"sdata":[]}

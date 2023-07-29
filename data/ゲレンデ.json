@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゲレンデ","p":true}],"sense":[{"gloss":"ski slope","pos":["n"],"l":"ger: Gelände"}]},"sdata":[]}

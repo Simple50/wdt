@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国力","p":true}],"r_ele":[{"r":"こくりょく","p":true}],"sense":[{"gloss":"national power","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓の↑国力↑↓|こくりょく|↓はまだ↑発展↑↓はってん↓している。","e":"The Japanese national power is still developing."}]}

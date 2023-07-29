@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最小限度","p":true}],"r_ele":[{"r":"さいしょうげんど","p":true}],"sense":[{"gloss":"minimum","pos":["n"]}]},"sdata":[{"j":"↑最小限↑↓|さいしょうげん↓ど|の↑世話↑↓ぜわ↓だ↑立派↑↓りっぱ↓に↑育↑↓そだ↓つ↑植物↑↓しょくぶつ↓もある。","e":"Some plants grow well with a minimum of care."}]}

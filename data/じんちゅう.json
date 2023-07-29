@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陣中","p":true}],"r_ele":[{"r":"じんちゅう","p":true}],"sense":[{"gloss":"in camp, at the front","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立方","p":true},{"e":"立ち方"}],"r_ele":[{"r":"たちかた","p":true}],"sense":[{"gloss":"way of standing","pos":["n"]},{"gloss":"dancer (in a Japanese dance performance)","pos":["n"],"x":["地方・じかた・1"]}]},"sdata":[]}

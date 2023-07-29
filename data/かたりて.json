@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"語り手","p":true}],"r_ele":[{"r":"かたりて","p":true}],"sense":[{"gloss":"narrator, storyteller, reciter","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ディミヌエンド","p":true}],"sense":[{"gloss":"diminuendo","pos":["n"],"f":["music"],"l":"ita"}]},"sdata":[]}

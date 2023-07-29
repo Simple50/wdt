@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"茶褐色","p":true}],"r_ele":[{"r":"ちゃかっしょく","p":true}],"sense":[{"gloss":"dark reddish-brown, liver color","pos":["n","adj-no"]}]},"sdata":[]}

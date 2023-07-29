@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"選評","p":true}],"r_ele":[{"r":"せんぴょう","p":true}],"sense":[{"gloss":"selection and commentary (on literary texts or poems)","pos":["n","vs","vt"]}]},"sdata":[]}

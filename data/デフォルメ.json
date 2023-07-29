@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デフォルメ","p":true},{"r":"ディフォルメ"}],"sense":[{"gloss":"deformation, distortion (often used for caricature in manga, etc.)","pos":["n","vs","vt"],"l":"fre: déformer"}]},"sdata":[]}

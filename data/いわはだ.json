@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"岩肌","p":true}],"r_ele":[{"r":"いわはだ","p":true}],"sense":[{"gloss":"bare rock, rock surface, rock face","pos":["n"]}]},"sdata":[{"j":"その↑岩↑↓|いわ↓はダ|イナマイトで↑動↑↓うご↓かした。","e":"The rock was moved by dynamite."}]}

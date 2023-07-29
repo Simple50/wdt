@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スニーカー","p":true}],"sense":[{"gloss":"sneaker, sneakers, trainers","pos":["n"]}]},"sdata":[{"j":"その|スニーカー|はダサいよ。","e":"Those sneakers are ugly."},{"j":"「やらかしたー！」「どうしたの？」「↑白↑↓しろ↓い|スニーカー|↑洗↑↓あら↓ったら↑洗↑↓あら↓う↑前↑↓まえ↓より↑汚↑↓きたな↓くなった」","e":"Oh no! \"What's wrong?\" \"I washed these white sneakers I had, but they came out looking dirtier than they were before.\""}]}

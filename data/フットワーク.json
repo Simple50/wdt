@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フットワーク","p":true}],"sense":[{"gloss":"footwork","pos":["n"],"f":["sports"]},{"gloss":"mobility, flexibility, adaptability","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は|フットワーク|がいいね。","e":"She has good footwork."}]}

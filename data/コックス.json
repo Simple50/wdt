@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コックス","p":true}],"sense":[{"gloss":"cox, coxswain","pos":["n"],"f":["sports"]}]},"sdata":[]}

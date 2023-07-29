@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国防会議","p":true}],"r_ele":[{"r":"こくぼうかいぎ","p":true}],"sense":[{"gloss":"(Japanese) National Defense Council (1956-86) (Defence)","pos":["n"]},{"gloss":"National Security Council (USA)","pos":["n"]}]},"sdata":[]}

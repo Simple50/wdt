@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遅咲き","p":true},{"e":"遅咲"}],"r_ele":[{"r":"おそざき","p":true}],"sense":[{"gloss":"late blooming (flower, talent), late flowering","pos":["adj-no","n"]}]},"sdata":[]}

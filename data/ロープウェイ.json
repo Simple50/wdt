@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロープウェイ","p":true},{"r":"ロープウェー"},{"r":"ロープウエイ"},{"r":"ロープウエー","p":true}],"sense":[{"gloss":"ropeway, cableway, aerial lift, cable car","pos":["n"]}]},"sdata":[]}

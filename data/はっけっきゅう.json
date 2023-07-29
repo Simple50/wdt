@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白血球","p":true}],"r_ele":[{"r":"はっけっきゅう","p":true}],"sense":[{"gloss":"white blood cell, leukocyte, leucocyte","pos":["n"],"f":["physiol"]}]},"sdata":[]}

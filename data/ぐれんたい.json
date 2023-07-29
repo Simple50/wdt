@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"愚連隊","p":true,"i":["ateji"]},{"e":"ぐれん隊"}],"r_ele":[{"r":"ぐれんたい","p":true}],"sense":[{"gloss":"gang of young toughs, hooligans, hoodlums, hoods, yobbos","pos":["n"],"x":["グレる"]}]},"sdata":[{"j":"↑昨夜↑↓さくや↓、この↑自動↑↓じどう↓↑販売↑↓はんばい↓↑機↑↓き↓は↑愚連隊↑↓|ぐれんたい|↓によって↑壊↑↓こわ↓されました。","e":"This vending machine was destroyed by hoodlums last night."}]}

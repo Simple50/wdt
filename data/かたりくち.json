@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"語り口","p":true}],"r_ele":[{"r":"かたりくち","p":true}],"sense":[{"gloss":"way of reciting, way of telling a story","pos":["n"]}]},"sdata":[{"j":"スミスさんはソフトな↑語↑↓|かた↓り↑口↑↓くち|↓の↑人物↑↓じんぶつ↓です。","e":"Mr Smith is a softly-spoken person."}]}

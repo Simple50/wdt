@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンパニオン","p":true}],"sense":[{"gloss":"promotional model (at a trade show, etc.), female guide (at a convention), booth babe","pos":["n"]},{"gloss":"hostess (of a party, banquet, etc.)","pos":["n"]},{"gloss":"companion","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑博覧↑↓はくらん↓↑会↑↓かい↓の|コンパニオン|に↑応募↑↓おうぼ↓した。","e":"I applied to be an attendant at the exposition."}]}

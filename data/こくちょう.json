@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒鳥","p":true}],"r_ele":[{"r":"こくちょう","p":true},{"r":"コクチョウ"}],"sense":[{"gloss":"black swan (Cygnus atratus)","pos":["n"]}],"m":["uk"]},"sdata":[]}

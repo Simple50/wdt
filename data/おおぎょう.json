@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大仰","p":true},{"e":"大形","i":["rK"]}],"r_ele":[{"r":"おおぎょう","p":true}],"sense":[{"gloss":"exaggerated, overblown, overdone","pos":["adj-na"]}]},"sdata":[{"j":"↑大形↑↓|おおぎょう|↓↑航空機↑↓こうくうき↓は↑大↑↓おお↓きな↑騒音↑↓そうおん↓↑公害↑↓こうがい↓をもたらした。","e":"Large planes brought about large amounts of sound pollution."}]}

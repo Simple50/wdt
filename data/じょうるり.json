@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浄瑠璃","p":true}],"r_ele":[{"r":"じょうるり","p":true}],"sense":[{"gloss":"jōruri, type of dramatic recitation accompanied by a shamisen (associated with Japanese puppet theater)","pos":["n"]}]},"sdata":[]}

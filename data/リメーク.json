@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リメイク","p":true},{"r":"リメーク","p":true}],"sense":[{"gloss":"remake","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名付ける","p":true},{"e":"名づける"}],"r_ele":[{"r":"なづける","p":true}],"sense":[{"gloss":"to name, to call, to christen, to term","pos":["v1","vt"]}]},"sdata":[{"j":"この↑船↑↓ふね↓をクイーンエリザベスと↑名↑↓|な↓づける|。","e":"I name this ship the Queen Elizabeth."}]}

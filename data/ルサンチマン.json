@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ルサンチマン","p":true}],"sense":[{"gloss":"resentment","pos":["n"],"l":"fre: ressentiment"}]},"sdata":[]}

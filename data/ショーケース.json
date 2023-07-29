@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ショーケース","p":true}],"sense":[{"gloss":"showcase, display case, vitrine","pos":["n"],"x":["陳列棚"]}]},"sdata":[]}

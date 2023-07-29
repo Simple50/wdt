@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仏典","p":true}],"r_ele":[{"r":"ぶってん","p":true}],"sense":[{"gloss":"Buddhist scriptures, sutras","pos":["n"]}]},"sdata":[{"j":"↑何↑↓なに↓カマトト|ぶってん|だアホ！","e":"Why are you feigning innocence?!"}]}

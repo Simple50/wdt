@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"慣例","p":true}],"r_ele":[{"r":"かんれい","p":true}],"sense":[{"gloss":"custom, practice, convention, precedent","pos":["n"]}]},"sdata":[{"j":"カナダの↑気候↑↓きこう↓は↑日本↑↓にほん↓よりも↑寒冷↑↓|かんれい|↓である。","e":"The climate of Canada is cooler than that of Japan."}]}

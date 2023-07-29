@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流用","p":true}],"r_ele":[{"r":"りゅうよう","p":true}],"sense":[{"gloss":"diversion, appropriation (e.g. of funds), misappropriation","pos":["n","vs","vt","adj-no"]},{"gloss":"re-use (e.g. old computer parts), recycling","pos":["n","vs","vt"]}]},"sdata":[]}

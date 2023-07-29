@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"女官","p":true}],"r_ele":[{"r":"じょかん"},{"r":"にょかん"},{"r":"にょうかん","p":true}],"sense":[{"gloss":"court lady, lady-in-waiting","pos":["n"]}]},"sdata":[{"j":"↑残↑↓ざん↓↑尿↑↓|にょう↓↑感↑↓かん|↓があります。","e":"Following urination I feel as though I still have to go more."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"棒状","p":true}],"r_ele":[{"r":"ぼうじょう","p":true}],"sense":[{"gloss":"cylinder or rod-shaped","pos":["n","adj-no"]}]},"sdata":[{"j":"↑体温↑↓たいおん↓↑上昇↑↓じょうしょう↓、↑脈拍↑↓みゃくはく↓↑上昇↑↓じょうしょう↓・・・↑酸素↑↓さんそ↓↑欠乏↑↓けつ|ぼう↓↑状態↑↓じょう|たい↓です。","e":"Body temperature rising, pulse rising ... he's in a state of oxygen deficiency."}]}

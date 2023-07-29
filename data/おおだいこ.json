@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大太鼓","p":true}],"r_ele":[{"r":"おおだいこ","p":true}],"sense":[{"gloss":"large drum, bass drum","pos":["n"]}]},"sdata":[]}

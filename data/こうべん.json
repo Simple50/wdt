@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抗弁","p":true},{"e":"抗辯","i":["rK"]}],"r_ele":[{"r":"こうべん","p":true}],"sense":[{"gloss":"protest, refutation, pleading","pos":["n","vs","vi"]}]},"sdata":[]}

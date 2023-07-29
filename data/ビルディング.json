@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビルディング","p":true},{"r":"ビルヂング"}],"sense":[{"gloss":"multi-floor building, multi-storey building, tall building","pos":["n"]}]},"sdata":[]}

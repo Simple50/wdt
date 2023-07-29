@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"洋室","p":true}],"r_ele":[{"r":"ようしつ","p":true}],"sense":[{"gloss":"Western-style room","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑美容↑↓び|よう↓↑室↑↓しつ|↓に↑行↑↓い↓った。","e":"She went to the hairdresser's."},{"j":"ホテルに↑理容↑↓り|よう↓↑室↑↓しつ|↓はありますか？","e":"Is there a barber shop in the hotel?"}]}

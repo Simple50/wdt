@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"着目","p":true}],"r_ele":[{"r":"ちゃくもく","p":true}],"sense":[{"gloss":"attention, giving one's attention, focusing","pos":["n","vs","vi"]}]},"sdata":[]}

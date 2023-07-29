@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"懇親","p":true}],"r_ele":[{"r":"こんしん","p":true}],"sense":[{"gloss":"friendship, intimacy","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑渾身↑↓|こんしん|↓の↑力↑↓ちから↓をこめてその↑戸↑↓と↓を↑開↑↓あ↓けようとした。","e":"I tried to open the door with all my force."},{"j":"↑彼女↑↓かのじょ↓には↑離婚↑↓り|こん↓↑申請↑↓しん|せい↓をする↑十分↑↓じゅうぶん↓な↑根拠↑↓こんきょ↓があった。","e":"She had good reason to file for a divorce."}]}

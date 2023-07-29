@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"揉める","p":true}],"r_ele":[{"r":"もめる","p":true},{"r":"モメる"}],"sense":[{"gloss":"to disagree, to dispute, to fight (over)","pos":["v1","vi"]}],"m":["uk"]},"kdata":{"揉":{"on":["ジュウ"],"kun":["も.む","も.める"],"meanings":["rub","massage","shampoo","debate vigorously","train","coach","worry","get in trouble"],"comp":[["柔","扌"]],"jlpt":-1,"freq":2806}},"sdata":[]}

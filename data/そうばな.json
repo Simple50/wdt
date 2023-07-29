@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総花","p":true}],"r_ele":[{"r":"そうばな","p":true}],"sense":[{"gloss":"all-around, across-the-board","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"送り付ける","p":true},{"e":"送りつける"}],"r_ele":[{"r":"おくりつける","p":true}],"sense":[{"gloss":"to send (something unsolicited), to send without the receiver's request","pos":["v1","vt"]}]},"sdata":[]}

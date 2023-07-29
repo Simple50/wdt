@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"惨敗","p":true}],"r_ele":[{"r":"ざんぱい","p":true},{"r":"さんぱい"}],"sense":[{"gloss":"ignominious defeat, crushing failure, utterly beaten, overwhelming defeat","pos":["n","vs","vi"]}]},"sdata":[]}

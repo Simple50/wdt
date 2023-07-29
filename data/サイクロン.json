@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サイクロン","p":true}],"sense":[{"gloss":"cyclone","pos":["n"]}]},"sdata":[]}

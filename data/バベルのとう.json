@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"バベルの塔","p":true}],"r_ele":[{"r":"バベルのとう","p":true}],"sense":[{"gloss":"Tower of Babel","pos":["n"]}]},"sdata":[]}

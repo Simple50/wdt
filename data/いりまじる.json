@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入り混じる"},{"e":"入り交じる","p":true},{"e":"入りまじる"}],"r_ele":[{"r":"いりまじる","p":true}],"sense":[{"gloss":"to mix (with), to be mixed (together), to be mingled","pos":["v5r","vi"]}]},"sdata":[]}

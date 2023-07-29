@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軽々しい","p":true},{"e":"軽軽しい"}],"r_ele":[{"r":"かるがるしい","p":true},{"r":"かろがろしい"}],"sense":[{"gloss":"rash, thoughtless, imprudent, careless, frivolous","pos":["adj-i"]}]},"kdata":{"軽":{"on":["ケイ","キョウ","キン"],"kun":["かる.い","かろ.やか","かろ.んじる"],"jlpt":2,"meanings":["lightly","trifling","unimportant"],"freq":790,"comp":[["圣","車"]],"t":1623}},"sdata":[]}

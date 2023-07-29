@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コックピット","p":true},{"r":"コクピット","p":true}],"sense":[{"gloss":"cockpit","pos":["n"]}]},"sdata":[]}

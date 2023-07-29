@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"法務委員会","p":true}],"r_ele":[{"r":"ほうむいいんかい","p":true}],"sense":[{"gloss":"Committee on Judicial Affairs","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シャトー","p":true}],"sense":[{"gloss":"castle, château","pos":["n"],"l":"fre"}]},"sdata":[]}

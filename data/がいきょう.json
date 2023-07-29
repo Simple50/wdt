@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"概況","p":true}],"r_ele":[{"r":"がいきょう","p":true}],"sense":[{"gloss":"outlook, general situation","pos":["n"]}]},"sdata":[{"j":"ラグビーは↑屋外↑↓おく|がい↓↑競技↑↓きょう|ぎ↓である。","e":"Rugby is an outdoor game."},{"j":"↑生涯↑↓しょう|がい↓↑教育↑↓きょう|いく↓は↑絶↑↓た↓え↑間↑↓ま↓ない↑再↑↓さい↓↑訓練↑↓くんれん↓を↑意味↑↓いみ↓する。","e":"Lifelong education means perpetual retraining."}]}

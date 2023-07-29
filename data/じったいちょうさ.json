@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実態調査","p":true}],"r_ele":[{"r":"じったいちょうさ","p":true}],"sense":[{"gloss":"fact-finding investigation, investigation into actual conditions, fact-finding survey","pos":["n"]}]},"sdata":[]}

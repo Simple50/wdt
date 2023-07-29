@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"責任転嫁","p":true}],"r_ele":[{"r":"せきにんてんか","p":true}],"sense":[{"gloss":"shifting the responsibility (for something) on to (someone), passing the buck","pos":["n"]}],"m":["yoji"]},"sdata":[]}

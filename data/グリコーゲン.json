@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グリコーゲン","p":true}],"sense":[{"gloss":"glycogen","pos":["n"]}]},"sdata":[]}

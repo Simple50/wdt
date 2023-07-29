@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"転がり込む","p":true}],"r_ele":[{"r":"ころがりこむ","p":true}],"sense":[{"gloss":"to roll in, to tumble into, to visit (esp. to stay overnight as an unwanted guest), to come to live with","pos":["v5m","vi"]},{"gloss":"to fall in one's way, to fall into one's lap","pos":["v5m","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ルポルタージュ","p":true}],"sense":[{"gloss":"report, reportage, reporting","pos":["n"],"l":"fre"},{"gloss":"documentary, documentary literature","pos":["n"]}]},"sdata":[]}

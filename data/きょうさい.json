@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"共済","p":true}],"r_ele":[{"r":"きょうさい","p":true}],"sense":[{"gloss":"mutual aid","pos":["n"]}]},"sdata":[{"j":"↑従業↑↓じゅうぎょう↓↑員↑↓いん↓は↑共済↑↓|きょうさい|↓↑手当↑↓てあて↓を↑守↑↓まも↓るために、ストライキのおどしをかけました。","e":"Employees threatened a strike to protect worker benefits."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戯れ","p":true}],"r_ele":[{"r":"たわむれ","p":true}],"sense":[{"gloss":"play, sport, fun, caprice, joke, jest, flirtation","pos":["n"]}]},"sdata":[]}

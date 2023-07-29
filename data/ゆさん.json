@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遊山","p":true}],"r_ele":[{"r":"ゆさん","p":true}],"sense":[{"gloss":"excursion, outing, picnic","pos":["n"]}]},"sdata":[{"j":"もっとしっかり↑仕事↑↓しごと↓をしてよ。↑今回↑↓こんかい↓は↑物見↑↓ものみ↓↑遊山↑↓|ゆさん|↓の↑旅↑↓たび↓じゃないんだから。","e":"Buckle down and get to work. Do you think we're on a Sunday picnic here?"}]}

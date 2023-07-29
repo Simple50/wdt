@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内勤","p":true}],"r_ele":[{"r":"ないきん","p":true}],"sense":[{"gloss":"office work, desk work, indoor work","pos":["n","vs","vi"],"x":["外勤"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑私↑↓わたし↓に↑途方↑↓とほう↓も|ない↑金額↑↓きん|がく↓を↑要求↑↓ようきゅう↓してきた。","e":"She asked me for an unreasonable sum of money."},{"j":"↑劇場↑↓げきじょう↓↑内↑↓|ない↓↑禁煙↑↓きん|えん↓。","e":"No smoking in the theater."}]}

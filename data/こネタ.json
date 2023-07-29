@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小ネタ","p":true}],"r_ele":[{"r":"こネタ","p":true}],"sense":[{"gloss":"small material (for a story, article, etc.)","pos":["n"]},{"gloss":"small joke","pos":["n"]}]},"sdata":[]}

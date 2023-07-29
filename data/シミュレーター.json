@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シミュレーター","p":true},{"r":"シミュレータ"}],"sense":[{"gloss":"simulator","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"左辺","p":true}],"r_ele":[{"r":"さへん","p":true}],"sense":[{"gloss":"left side (of an equation, expression, etc.), LHS","pos":["n"],"f":["math"],"x":["右辺・1"]},{"gloss":"left side (go, chess, othello board)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄壁","p":true}],"r_ele":[{"r":"てっぺき","p":true}],"sense":[{"gloss":"iron wall, impregnable fortress","pos":["n"]},{"gloss":"impregnable, invulnerable, unassailable, cast-iron","pos":["adj-no"]}]},"sdata":[]}

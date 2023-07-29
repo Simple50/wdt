@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"芸名","p":true}],"r_ele":[{"r":"げいめい","p":true}],"sense":[{"gloss":"stage name","pos":["n"]}]},"sdata":[]}

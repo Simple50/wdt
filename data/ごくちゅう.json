@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"獄中","p":true}],"r_ele":[{"r":"ごくちゅう","p":true}],"sense":[{"gloss":"during imprisonment, while in jail","pos":["n","adj-no"]}]},"sdata":[]}

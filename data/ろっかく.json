@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"六角","p":true}],"r_ele":[{"r":"ろっかく","p":true}],"sense":[{"gloss":"hexagon","pos":["n","adj-no"]}]},"sdata":[]}

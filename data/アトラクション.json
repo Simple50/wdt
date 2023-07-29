@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アトラクション","p":true}],"sense":[{"gloss":"attraction","pos":["n"]}]},"sdata":[{"j":"↑今度↑↓こんど↓のイベントの|アトラクション|には↑Ｋ↑↓けい↓↑先生↑↓せんせい↓が↑出↑↓で↓るんでしょ？↑楽↑↓たの↓しみだなあ↑実↑↓じつ↓に。","e":"Prof. K is going to be a major attraction at this event, right? I can hardly wait."}]}

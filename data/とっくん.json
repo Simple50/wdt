@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特訓","p":true}],"r_ele":[{"r":"とっくん","p":true}],"sense":[{"gloss":"special training, intensive training, crash course","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑５↑↓いつ↓↑日間↑↓かかん↓で↑地獄↑↓じごく↓の↑特訓↑↓|とっくん|↓だ！","e":"For 5 days we will train like hell!"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"顔を潰す","p":true},{"e":"顔をつぶす"}],"r_ele":[{"r":"かおをつぶす","p":true}],"sense":[{"gloss":"to make someone lose face, to embarrass someone, to make someone look foolish","pos":["exp","v5s"]}]},"sdata":[]}

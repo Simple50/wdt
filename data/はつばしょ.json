@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初場所","p":true}],"r_ele":[{"r":"はつばしょ","p":true}],"sense":[{"gloss":"New Year's Tournament (held in Tokyo in January)","pos":["n"],"f":["sumo"]}]},"sdata":[]}

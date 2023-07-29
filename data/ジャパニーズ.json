@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャパニーズ","p":true}],"sense":[{"gloss":"Japanese (people, language, style)","pos":["n","adj-f"]}]},"sdata":[]}

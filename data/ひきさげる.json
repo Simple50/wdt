@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き下げる","p":true},{"e":"引下げる","p":true}],"r_ele":[{"r":"ひきさげる","p":true}],"sense":[{"gloss":"to pull down, to lower, to reduce, to withdraw","pos":["v1","vt"]}]},"sdata":[]}

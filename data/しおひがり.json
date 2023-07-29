@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"潮干狩り","p":true},{"e":"潮干狩","i":["io"]},{"e":"汐干狩り"},{"e":"汐干狩","i":["io"]}],"r_ele":[{"r":"しおひがり","p":true}],"sense":[{"gloss":"shell gathering (at low tide), clamming","pos":["n"]}]},"sdata":[]}

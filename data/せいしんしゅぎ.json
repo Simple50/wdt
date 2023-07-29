@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"精神主義","p":true}],"r_ele":[{"r":"せいしんしゅぎ","p":true}],"sense":[{"gloss":"spiritualism, idealism","pos":["n"]}]},"sdata":[{"j":"↑頑張↑↓がんば↓れさえすれば↑体力↑↓たいりょく↓や↑知力↑↓ちりょく↓がなくても↑何↑↓なに↓でもできるという↑一種↑↓いっしゅ↓の↑精神↑↓|せいしん↓↑主義↑↓しゅぎ|↓もある。","e":"There is also one type of idealism that says even without strength or intelligence you can do anything if you can merely persist."}]}

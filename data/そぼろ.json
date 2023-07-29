@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"そぼろ","p":true}],"sense":[{"gloss":"minced meat or fish that is seasoned and fried (usu. served on top of rice)","pos":["n"],"f":["food"]},{"gloss":"tattered, ragged, tangled","pos":["adj-na"]},{"gloss":"fine, small","pos":["adj-na"]}]},"sdata":[]}

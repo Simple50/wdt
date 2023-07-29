@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"評議員","p":true}],"r_ele":[{"r":"ひょうぎいん","p":true}],"sense":[{"gloss":"trustee, councillor (councilor)","pos":["n"]}]},"sdata":[]}

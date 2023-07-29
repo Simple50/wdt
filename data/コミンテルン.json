@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コミンテルン","p":true}],"sense":[{"gloss":"Comintern, Communist International, Third International","pos":["n"],"l":"rus: Komintern"}],"m":["hist"]},"sdata":[]}

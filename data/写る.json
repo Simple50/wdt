@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"写る","p":true}],"r_ele":[{"r":"うつる","p":true}],"sense":[{"gloss":"to be photographed, to be projected","pos":["v5r","vi"]}]},"kdata":{"写":{"on":["シャ","ジャ"],"kun":["うつ.す","うつ.る","うつ-","うつ.し"],"jlpt":4,"meanings":["copy","be photographed","describe"],"freq":453,"comp":[["冖","与"]],"d":["泻"],"t":271}},"sdata":[]}

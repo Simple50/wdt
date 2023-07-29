@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"借り入れる","p":true},{"e":"借入れる"}],"r_ele":[{"r":"かりいれる","p":true}],"sense":[{"gloss":"to borrow, to rent, to lease, to charter","pos":["v1","vt"]}]},"sdata":[{"j":"↑種↑↓たね↓をまくように↑刈↑↓|か↓り↑入↑↓い↓れる|ことになる。","e":"As you sow, so will you reap."}]}

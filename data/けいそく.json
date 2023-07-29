@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"計測","p":true}],"r_ele":[{"r":"けいそく","p":true}],"sense":[{"gloss":"measuring, measurement","pos":["n","vs","vt"]}]},"sdata":[]}

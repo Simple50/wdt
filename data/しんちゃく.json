@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新着","p":true}],"r_ele":[{"r":"しんちゃく","p":true}],"sense":[{"gloss":"new arrivals, new acquisitions","pos":["n","adj-no","vs","vi"]}]},"sdata":[]}

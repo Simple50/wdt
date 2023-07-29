@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"法学部","p":true}],"r_ele":[{"r":"ほうがくぶ","p":true}],"sense":[{"gloss":"law department, law school","pos":["n"]}]},"sdata":[{"j":"↑法学部↑↓|ほうがくぶ|↓の↑図書館↑↓としょかん↓で↑仕事↑↓しごと↓を↑見↑↓み↓つけた。","e":"He got a job at the Law Library."}]}

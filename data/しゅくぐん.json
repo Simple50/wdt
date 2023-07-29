@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粛軍","p":true}],"r_ele":[{"r":"しゅくぐん","p":true}],"sense":[{"gloss":"army purge","pos":["n"]}]},"sdata":[]}

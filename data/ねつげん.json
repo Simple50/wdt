@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱源","p":true}],"r_ele":[{"r":"ねつげん","p":true}],"sense":[{"gloss":"heat source","pos":["n"]}]},"sdata":[]}

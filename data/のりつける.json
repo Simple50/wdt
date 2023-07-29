@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗り付ける","p":true},{"e":"乗りつける"}],"r_ele":[{"r":"のりつける","p":true}],"sense":[{"gloss":"to ride up to, to drive up to","pos":["v1","vi"]},{"gloss":"to get used to riding, to get used to driving","pos":["v1","vi"]}]},"sdata":[]}

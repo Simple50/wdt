@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一木","p":true}],"r_ele":[{"r":"いちぼく","p":true}],"sense":[{"gloss":"one tree","pos":["n"]}]},"sdata":[{"j":"↑万↑↓まん↓↑一↑↓|いち↓↑僕↑↓ぼく|↓が↑失敗↑↓しっぱい↓すれば、↑両親↑↓りょうしん↓がどんなにがっかりすることだろう。","e":"How disappointed my parents would be, if I should fail!"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実力行使","p":true}],"r_ele":[{"r":"じつりょくこうし","p":true}],"sense":[{"gloss":"use of force","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心神耗弱","p":true}],"r_ele":[{"r":"しんしんこうじゃく","p":true}],"sense":[{"gloss":"diminished capacity, diminished responsibility, legally unaccountable (e.g. due to mental illness, drugs, alcohol, etc.)","pos":["n"]}],"m":["yoji"]},"sdata":[]}

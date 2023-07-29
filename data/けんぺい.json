@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"憲兵","p":true}],"r_ele":[{"r":"けんぺい","p":true}],"sense":[{"gloss":"military police","pos":["n"]}]},"sdata":[]}

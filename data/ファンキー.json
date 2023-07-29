@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファンキー","p":true}],"sense":[{"gloss":"funky","pos":["adj-na","n"]}]},"sdata":[]}

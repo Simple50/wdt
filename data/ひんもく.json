@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"品目","p":true}],"r_ele":[{"r":"ひんもく","p":true},{"r":"しなめ"}],"sense":[{"gloss":"item, commodity, list of articles","pos":["n"]}]},"sdata":[{"j":"これらの↑品目↑↓|ひんもく|↓は↑入手↑↓にゅうしゅ↓がかなり↑困難↑↓こんなん↓だ。","e":"These items are rather hard to obtain."}]}

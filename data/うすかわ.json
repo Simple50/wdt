@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄皮","p":true}],"r_ele":[{"r":"うすかわ","p":true}],"sense":[{"gloss":"thin skin","pos":["n","adj-no"]}]},"sdata":[]}

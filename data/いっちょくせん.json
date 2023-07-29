@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一直線","p":true}],"r_ele":[{"r":"いっちょくせん","p":true}],"sense":[{"gloss":"straight line","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑仕事↑↓しごと↓が↑終↑↓お↓わるとすぐ↑一直線↑↓|いっちょくせん|↓にパブへ↑向↑↓む↓かう。","e":"As soon as work is over, he makes a beeline for the pub."}]}

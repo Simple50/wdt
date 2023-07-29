@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マカロニ","p":true}],"sense":[{"gloss":"macaroni","pos":["n"]}]},"sdata":[]}

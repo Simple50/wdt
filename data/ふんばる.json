@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"踏ん張る","p":true},{"e":"踏んばる"}],"r_ele":[{"r":"ふんばる","p":true}],"sense":[{"gloss":"to brace one's legs, to stand firm, to plant one's feet (firmly on the ground)","pos":["v5r","vi"]},{"gloss":"to hold out, to persist, to make an effort, to exert oneself","pos":["v5r","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い出す","p":true}],"r_ele":[{"r":"おいだす","p":true}],"sense":[{"gloss":"to expel, to drive out","pos":["v5s","vt"]}]},"sdata":[{"j":"↑黙↑↓だま↓ってて、じゃなきゃ↑追↑↓|お↓い↑出↑↓だ↓す|わよ。","e":"Shut up, or I'll kick you out."}]}

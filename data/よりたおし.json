@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寄り倒し","p":true}],"r_ele":[{"r":"よりたおし","p":true}],"sense":[{"gloss":"knocking an opponent over while holding his belt","pos":["n"],"f":["sumo"]}]},"sdata":[]}

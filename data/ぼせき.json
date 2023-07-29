@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"墓石","p":true}],"r_ele":[{"r":"ぼせき","p":true},{"r":"はかいし"}],"sense":[{"gloss":"tombstone, gravestone","pos":["n"]}]},"sdata":[{"j":"ほ|ぼ↑赤道↑↓せき|どう↓↑直下↑↓ちょっか↓にあるシンガポールでは、↑雨季↑↓うき↓・↑乾季↑↓かんき↓があまり↑明瞭↑↓めいりょう↓ではない。","e":"In Singapore, practically right on the equator, the rainy and dry seasons aren't very clear cut."}]}

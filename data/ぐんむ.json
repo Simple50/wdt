@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍務","p":true}],"r_ele":[{"r":"ぐんむ","p":true}],"sense":[{"gloss":"military affairs, military service","pos":["n"]}]},"sdata":[]}

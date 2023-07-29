@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"膨らみ","p":true},{"e":"脹らみ"}],"r_ele":[{"r":"ふくらみ","p":true}],"sense":[{"gloss":"swelling, bulge, puff","pos":["n"]}]},"kdata":{"膨":{"on":["ボウ"],"kun":["ふく.らむ","ふく.れる"],"jlpt":1,"meanings":["swell","get fat","thick"],"freq":1293,"comp":[["月","彭"]],"t":2133}},"sdata":[]}

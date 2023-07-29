@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝苦しい","p":true}],"r_ele":[{"r":"ねぐるしい","p":true}],"sense":[{"gloss":"unable to sleep well","pos":["adj-i"]}]},"sdata":[{"j":"↑夏↑↓なつ↓の↑夜↑↓よる↓は↑寝苦↑↓|ねぐる↓しい|。","e":"We cannot sleep well on summer nights."}]}

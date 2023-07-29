@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"練達","p":true}],"r_ele":[{"r":"れんたつ","p":true}],"sense":[{"gloss":"expert(ise), skill, dexterity","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はその↑分野↑↓ぶんや↓で↑練達↑↓|れんたつ|↓の↑芸術↑↓げいじゅつ↓↑家↑↓か↓として↑知↑↓し↓られている。","e":"He is known as a proficient artist in his field."}]}

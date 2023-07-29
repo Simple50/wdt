@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不退転","p":true}],"r_ele":[{"r":"ふたいてん","p":true}],"sense":[{"gloss":"determination, conviction","pos":["n"]}]},"sdata":[]}

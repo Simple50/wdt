@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鎖骨","p":true}],"r_ele":[{"r":"さこつ","p":true}],"sense":[{"gloss":"collarbone, clavicle","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"精米","p":true}],"r_ele":[{"r":"せいまい","p":true}],"sense":[{"gloss":"rice polishing, polished rice","pos":["n","vs","vt","vi"]}]},"sdata":[]}

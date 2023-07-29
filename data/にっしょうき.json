@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日章旗","p":true}],"r_ele":[{"r":"にっしょうき","p":true}],"sense":[{"gloss":"the Japanese (rising sun) flag","pos":["n"]}]},"sdata":[]}

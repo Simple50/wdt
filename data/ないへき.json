@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内壁","p":true}],"r_ele":[{"r":"ないへき","p":true}],"sense":[{"gloss":"inner wall","pos":["n","adj-no"]}]},"sdata":[]}

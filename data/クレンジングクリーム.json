@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレンジングクリーム","p":true},{"r":"クレンジング・クリーム"}],"sense":[{"gloss":"cleansing cream","pos":["n"]}]},"sdata":[]}

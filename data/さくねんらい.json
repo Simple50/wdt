@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"昨年来","p":true}],"r_ele":[{"r":"さくねんらい","p":true}],"sense":[{"gloss":"since last year","pos":["n","adv"]}]},"sdata":[]}

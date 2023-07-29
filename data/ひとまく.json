@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一幕","p":true}],"r_ele":[{"r":"ひとまく","p":true}],"sense":[{"gloss":"one act (play, etc.)","pos":["n"]},{"gloss":"scene, event","pos":["n"]}]},"sdata":[]}

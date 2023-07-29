@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本文","p":true}],"r_ele":[{"r":"ほんぶん","p":true},{"r":"ほんもん","p":true}],"sense":[{"gloss":"text (of a book, document, etc.), body (of a letter)","pos":["n"]},{"gloss":"this passage, this sentence","pos":["n"]}]},"sdata":[]}

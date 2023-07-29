@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公共放送","p":true}],"r_ele":[{"r":"こうきょうほうそう","p":true}],"sense":[{"gloss":"public broadcasting (e.g. NHK, BBC)","pos":["n"]}]},"sdata":[{"j":"↑ＮＨＫ↑↓えぬえいちけい↓は↑公共↑↓|こうきょう↓↑放送↑↓ほうそう|↓です。","e":"NHK is a public broadcaster."}]}

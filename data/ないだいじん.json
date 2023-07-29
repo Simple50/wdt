@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内大臣","p":true}],"r_ele":[{"r":"ないだいじん","p":true},{"r":"うちのおとど","i":["ok"]},{"r":"うちのおおまえつぎみ","i":["ok"]},{"r":"うちのおおおみ","i":["ok"]}],"sense":[{"gloss":"Lord Keeper of the Privy Seal (1885-1945)","pos":["n"]},{"gloss":"Minister of the Interior (669-1868)","pos":["n"]}],"m":["hist"]},"sdata":[]}

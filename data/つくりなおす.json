@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"作り直す","p":true},{"e":"つくり直す"},{"e":"作りなおす"}],"r_ele":[{"r":"つくりなおす","p":true}],"sense":[{"gloss":"to remake, to rebuild","pos":["v5s","vt"]}]},"sdata":[]}

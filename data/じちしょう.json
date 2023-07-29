@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自治省","p":true}],"r_ele":[{"r":"じちしょう","p":true}],"sense":[{"gloss":"Ministry of Home Affairs (1960-2001)","pos":["n"],"x":["総務省"]}]},"sdata":[]}

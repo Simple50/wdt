@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オールドガード","p":true},{"r":"オールド・ガード"}],"sense":[{"gloss":"old guard","pos":["n"]}]},"sdata":[]}

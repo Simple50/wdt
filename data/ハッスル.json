@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハッスル","p":true}],"sense":[{"gloss":"hustle, working hard, doing with enthusiasm, showing eagerness, being full of vigour","pos":["n","vs","vi"]}]},"sdata":[]}

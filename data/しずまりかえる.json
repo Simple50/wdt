@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"静まり返る","p":true},{"e":"静まりかえる"}],"r_ele":[{"r":"しずまりかえる","p":true}],"sense":[{"gloss":"to fall completely silent, to become still as death","pos":["v5r","vi"]}]},"sdata":[]}

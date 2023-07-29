@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"片田舎","p":true}],"r_ele":[{"r":"かたいなか","p":true}],"sense":[{"gloss":"back country, remote countryside","pos":["n"]}]},"sdata":[]}

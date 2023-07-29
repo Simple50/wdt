@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豪商","p":true}],"r_ele":[{"r":"ごうしょう","p":true}],"sense":[{"gloss":"wealthy merchant","pos":["n"]}]},"sdata":[]}

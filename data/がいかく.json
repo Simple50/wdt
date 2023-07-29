@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外郭","p":true},{"e":"外廓","i":["rK"]}],"r_ele":[{"r":"がいかく","p":true}],"sense":[{"gloss":"outer fence, outer enclosure, outer block","pos":["n"]},{"gloss":"outline, contour","pos":["n"]}]},"sdata":[]}

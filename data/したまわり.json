@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下回り","p":true},{"e":"下廻り","i":["rK"]}],"r_ele":[{"r":"したまわり","p":true}],"sense":[{"gloss":"subordinate work, menial service, subordinate, underling, servant, maid","pos":["n"]},{"gloss":"actor with a minor part (in kabuki, etc.)","pos":["n"]},{"gloss":"underside (of a car)","pos":["n"]}]},"sdata":[]}

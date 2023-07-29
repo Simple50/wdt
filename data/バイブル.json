@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バイブル","p":true}],"sense":[{"gloss":"Bible","pos":["n"],"x":["聖書"]},{"gloss":"bible (authoritative book in a particular sphere)","pos":["n"]}]},"sdata":[{"j":"↑数↑↓すう↓↑回↑↓かい↓|バイブル|に↑言及↑↓げんきゅう↓する。","e":"I make several allusions to the Bible."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本脳炎","p":true}],"r_ele":[{"r":"にほんのうえん","p":true}],"sense":[{"gloss":"Japanese encephalitis","pos":["n"]}]},"sdata":[]}

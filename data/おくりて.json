@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"送り手","p":true}],"r_ele":[{"r":"おくりて","p":true}],"sense":[{"gloss":"sender","pos":["n"]}]},"sdata":[]}

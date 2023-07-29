@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"坊ちゃん","p":true},{"e":"坊っちゃん","p":true}],"r_ele":[{"r":"ぼっちゃん","p":true}],"sense":[{"gloss":"(another's) son, boy, young master","pos":["n"],"m":["hon"]},{"gloss":"green young man from a well-to-do family, young man innocent of the ways of the world","pos":["n"]}]},"sdata":[]}

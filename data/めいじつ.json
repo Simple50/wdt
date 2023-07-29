@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名実","p":true}],"r_ele":[{"r":"めいじつ","p":true}],"sense":[{"gloss":"in name and in reality, nominally and virtually, form and contents","pos":["n"]}]},"sdata":[]}

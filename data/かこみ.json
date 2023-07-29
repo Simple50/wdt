@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"囲み","p":true}],"r_ele":[{"r":"かこみ","p":true}],"sense":[{"gloss":"enclosure, box","pos":["n"]},{"gloss":"siege","pos":["n"],"x":["囲みを破る"]}]},"sdata":[{"j":"↑正解↑↓せいかい↓をまるで↑囲↑↓|かこ↓み|なさい。","e":"Please circle the right answer."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"面々","p":true},{"e":"面面"}],"r_ele":[{"r":"めんめん","p":true}],"sense":[{"gloss":"every person, each one, everybody","pos":["n"]}]},"sdata":[]}

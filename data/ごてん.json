@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"御殿","p":true},{"e":"ご殿"}],"r_ele":[{"r":"ごてん","p":true}],"sense":[{"gloss":"palace, court","pos":["n"]}]},"sdata":[{"j":"セミナーのご↑案内↑↓あんない↓と↑共↑↓とも↓に、この↑情報↑↓じょうほう↓を↑貴社↑↓きしゃ↓↑内↑↓ない↓の↑担当↑↓たんとう↓の↑管理↑↓かんり↓↑職↑↓しょく↓に|ご↑転送↑↓てん|そう↓ください。","e":"Please forward this message along with the seminar information to the appropriate managers in your firm."}]}

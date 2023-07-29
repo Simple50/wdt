@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レガース","p":true},{"r":"レガーズ"}],"sense":[{"gloss":"leg guards, shin guards, shin pads","pos":["n"],"l":"eng"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受益","p":true}],"r_ele":[{"r":"じゅえき","p":true}],"sense":[{"gloss":"benefitting by, benefiting by","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓はガット↑自由↑↓じゆう↓↑貿易↑↓ぼうえき↓↑体制↑↓たいせい↓における↑最大↑↓さいだい↓の↑受益↑↓|じゅえき|↓↑者↑↓しゃ↓の↑一↑↓ひと↓つだったということができる。","e":"Japan has been one of the greatest beneficiaries of the free trade system under the GATT regime."}]}

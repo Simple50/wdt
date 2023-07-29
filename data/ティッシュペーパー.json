@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ティッシュペーパー","p":true},{"r":"ティッシュ・ペーパー"}],"sense":[{"gloss":"tissue paper, tissue, facial tissue","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名人芸","p":true}],"r_ele":[{"r":"めいじんげい","p":true}],"sense":[{"gloss":"masterful performance, virtuosity","pos":["n"]}]},"sdata":[]}

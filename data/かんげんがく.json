@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"管弦楽","p":true},{"e":"管絃楽"}],"r_ele":[{"r":"かんげんがく","p":true}],"sense":[{"gloss":"orchestral music","pos":["n"]}]},"sdata":[{"j":"↑管弦楽↑↓|かんげんがく|↓↑団↑↓だん↓は↑郷愁↑↓きょうしゅう↓に↑満↑↓み↓ちた↑音楽↑↓おんがく↓を↑演奏↑↓えんそう↓し↑始↑↓はじ↓めた。","e":"The orchestra struck up nostalgic music."}]}

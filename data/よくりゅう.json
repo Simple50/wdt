@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抑留","p":true}],"r_ele":[{"r":"よくりゅう","p":true}],"sense":[{"gloss":"internment, detainment, detention","pos":["n","vs","vt"]}]},"sdata":[]}

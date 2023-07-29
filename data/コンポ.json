@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンポ","p":true}],"sense":[{"gloss":"component, component stereo","pos":["n"]}],"m":["abbr"]},"sdata":[]}

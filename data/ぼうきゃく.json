@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"忘却","p":true}],"r_ele":[{"r":"ぼうきゃく","p":true}],"sense":[{"gloss":"lapse of memory, forgetting completely, (consigning to) oblivion","pos":["n","vs","vt"]}]},"sdata":[]}

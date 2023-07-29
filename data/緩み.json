@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"緩み","p":true},{"e":"弛み"}],"r_ele":[{"r":"ゆるみ","p":true}],"sense":[{"gloss":"slack, looseness, play","pos":["n"],"x":["弛み・たるみ・1"]}]},"kdata":{"緩":{"on":["カン"],"kun":["ゆる.い","ゆる.やか","ゆる.む","ゆる.める"],"jlpt":1,"meanings":["slacken","loosen","relax","lessen","be moderate","ease"],"freq":933,"comp":[["糸","爰"]],"t":2036}},"sdata":[]}

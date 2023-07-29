@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"じゃん拳","p":true},{"e":"ジャン拳"}],"r_ele":[{"r":"じゃんけん","p":true},{"r":"ジャンけん"},{"r":"ジャンケン","p":true}],"sense":[{"gloss":"rock-paper-scissors (game), janken","pos":["n","vs","vi"]}],"m":["uk"]},"sdata":[]}

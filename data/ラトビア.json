@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラトビア","p":true},{"r":"ラトヴィア"}],"sense":[{"gloss":"Latvia","pos":["n"]}]},"sdata":[{"j":"|ラトビア|の↑首都↑↓しゅと↓はリガです。","e":"The capital of Latvia is Riga."}]}

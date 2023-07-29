@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"経済封鎖","p":true}],"r_ele":[{"r":"けいざいふうさ","p":true}],"sense":[{"gloss":"economic blockade, embargo","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ターボ","p":true}],"sense":[{"gloss":"turbo","pos":["n"]}]},"sdata":[{"j":"モー|ターボ|ートを↑買↑↓か↓ったんだって？","e":"I heard you bought a motorboat."}]}

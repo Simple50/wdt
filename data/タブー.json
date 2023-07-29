@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タブー","p":true}],"sense":[{"gloss":"taboo","pos":["n"]}]},"sdata":[{"j":"テレビでは|タブー|↑語↑↓ご↓を↑言↑↓い↓っちゃいけないんだ。","e":"You can't say four-letter words on TV."},{"j":"その↑話↑↓はなし↓はここでは|タブー|です。","e":"The topic is taboo here."},{"j":"かつて↑女性↑↓じょせい↓の↑喫煙↑↓きつえん↓は|タブー|↑視↑↓し↓されていた。","e":"It used to be taboo for women to smoke."}]}

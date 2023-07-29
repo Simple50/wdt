@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"射程","p":true}],"r_ele":[{"r":"しゃてい","p":true}],"sense":[{"gloss":"range (of a rifle, missile, etc.)","pos":["n"]}]},"sdata":[{"j":"この↑銃↑↓じゅう↓は３００メートルの↑射程↑↓|しゃてい|↓がある。","e":"This gun has a range of 300 meters."}]}

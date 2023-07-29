@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"校風","p":true}],"r_ele":[{"r":"こうふう","p":true}],"sense":[{"gloss":"school tradition, school customs, school spirit","pos":["n"],"x":["社風"]}]},"sdata":[]}

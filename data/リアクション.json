@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リアクション","p":true}],"sense":[{"gloss":"reaction, response","pos":["n"]},{"gloss":"reaction","pos":["n"],"f":["physics"]}]},"sdata":[{"j":"↑薫↑↓かおる↓、↑今↑↓いま↓のところおまえが↑一番↑↓いちばん↓の|リアクション|、↑大賞↑↓たいしょう↓だよ。","e":"Kaoru, yours is the best reaction so far - you win the grand prize."}]}

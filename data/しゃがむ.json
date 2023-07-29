@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"しゃがむ","p":true}],"sense":[{"gloss":"to squat, to crouch","pos":["v5m","vi"]}]},"sdata":[]}

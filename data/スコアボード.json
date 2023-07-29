@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スコアボード","p":true}],"sense":[{"gloss":"scoreboard","pos":["n"]}]},"sdata":[]}

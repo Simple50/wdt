@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三塁","p":true},{"e":"３塁"}],"r_ele":[{"r":"さんるい","p":true}],"sense":[{"gloss":"third base","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"トムは↑三塁打↑↓|さんるい|だ↓を↑打↑↓う↓った。","e":"Tom hit a triple."},{"j":"トムは↑３↑↓|さん↓↑塁打↑↓るい|だ↓を↑打↑↓う↓った。","e":"Tom hit a triple."},{"j":"↑走者↑↓そうしゃ↓は↑三塁↑↓|さんるい|↓でアウトになった。","e":"The runner was called out at third."}]}

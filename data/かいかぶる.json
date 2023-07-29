@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"買いかぶる","p":true},{"e":"買い被る"}],"r_ele":[{"r":"かいかぶる","p":true}],"sense":[{"gloss":"to overestimate (someone), to overrate, to think too highly of, to make too much of, to give (someone) too much credit","pos":["v5r","vt"]}]},"sdata":[]}

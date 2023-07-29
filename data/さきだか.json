@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先高","p":true}],"r_ele":[{"r":"さきだか","p":true}],"sense":[{"gloss":"higher future quotations","pos":["n"]}]},"sdata":[{"j":"↑春先↑↓はる|さき↓だか|ら↑客↑↓きゃく↓もあまりいませんでした。","e":"It was early spring, so there weren't many customers."}]}

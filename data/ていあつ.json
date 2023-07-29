@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低圧","p":true}],"r_ele":[{"r":"ていあつ","p":true}],"sense":[{"gloss":"low pressure, low voltage","pos":["n","adj-no"]}]},"sdata":[{"j":"↑私↑↓わたし↓はホットコーヒーに↑氷↑↓こおり↓を↑入↑↓い↓れるのが↑好↑↓す↓きです。↑大抵↑↓たい|てい↓↑熱↑↓あつ|↓すぎるので。","e":"I like to put an ice cube into my coffee, because it's usually too hot."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"続伸","p":true}],"r_ele":[{"r":"ぞくしん","p":true}],"sense":[{"gloss":"continuous rise (in market price)","pos":["n","vs","vi"]}]},"sdata":[]}

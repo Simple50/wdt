@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"専売特許","p":true}],"r_ele":[{"r":"せんばいとっきょ","p":true}],"sense":[{"gloss":"patent","pos":["n"],"m":["dated"],"x":["特許・1"]},{"gloss":"one's specialty (party piece, etc.)","pos":["n"],"m":["col"]}]},"sdata":[]}

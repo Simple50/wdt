@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パインジュース","p":true},{"r":"パイン・ジュース"}],"sense":[{"gloss":"pineapple juice","pos":["n"]}]},"sdata":[]}

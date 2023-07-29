@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼き物","p":true},{"e":"焼物"},{"e":"焼きもの"}],"r_ele":[{"r":"やきもの","p":true}],"sense":[{"gloss":"earthenware, pottery, porcelain, china","pos":["n"]},{"gloss":"yakimono, flame-broiled food (esp. fish)","pos":["n"]},{"gloss":"tempered blade","pos":["n"]}]},"sdata":[]}

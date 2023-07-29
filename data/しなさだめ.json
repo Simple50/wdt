@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"品定め","p":true}],"r_ele":[{"r":"しなさだめ","p":true}],"sense":[{"gloss":"evaluation, criticism, commenting on, assessment, estimation","pos":["n","vs"]}]},"sdata":[{"j":"↑次↑↓つぎ↓には、↑主賓↑↓しゅひん↓がそれらを↑開↑↓ひら↓き、↑品定↑↓|しなさだ↓め|をするのである。","e":"Then the guest of honor opens them and expresses his or her appreciation."}]}

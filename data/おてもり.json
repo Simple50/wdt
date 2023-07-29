@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お手盛り","p":true},{"e":"御手盛り"}],"r_ele":[{"r":"おてもり","p":true}],"sense":[{"gloss":"making arbitrary decisions which benefit oneself, self-approved plan","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"剥がれる","p":true},{"e":"剝がれる"}],"r_ele":[{"r":"はがれる","p":true}],"sense":[{"gloss":"to come unstuck from, to peel off, to come off","pos":["v1","vi"]}]},"sdata":[{"j":"↑俺↑↓おれ↓は、↑彼↑↓かれ↓の↑化↑↓ば↓けの↑皮↑↓かわ↓が↑剥↑↓|は↓がれる|と↑確信↑↓かくしん↓してるよ。","e":"I'm sure he will reveal his true nature."}]}

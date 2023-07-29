@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国粋","p":true}],"r_ele":[{"r":"こくすい","p":true}],"sense":[{"gloss":"national characteristics","pos":["n"]}]},"sdata":[]}

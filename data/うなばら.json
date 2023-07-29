@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海原","p":true}],"r_ele":[{"r":"うなばら","p":true}],"sense":[{"gloss":"ocean, sea, the deep","pos":["n"]}]},"sdata":[{"j":"↑目↑↓め↓が↑覚↑↓さ↓めてみると↑我々↑↓われわれ↓は↑大↑↓だい↓↑海原↑↓|うなばら|↓を↑漂流↑↓ひょうりゅう↓していた。","e":"When we awoke, we were adrift on the open sea."},{"j":"↑船↑↓ふね↓は↑大↑↓おお↓↑海原↑↓|うなばら|↓の↑真↑↓ま↓ん↑中↑↓なか↓で↑転覆↑↓てんぷく↓した。","e":"The ship capsized in the middle of the ocean."}]}

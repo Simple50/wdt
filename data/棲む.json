@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"棲む","p":true},{"e":"栖む","i":["rK"]}],"r_ele":[{"r":"すむ","p":true}],"sense":[{"gloss":"to live (of animals), to inhabit, to nest","pos":["v5m","vi"],"x":["住む"]}]},"kdata":{"棲":{"on":["セイ"],"kun":["す.む"],"meanings":["live","dwell"],"comp":[["木","妻"]],"jlpt":0,"freq":2539}},"sdata":[]}

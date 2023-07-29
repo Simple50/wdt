@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"命綱","p":true}],"r_ele":[{"r":"いのちづな","p":true}],"sense":[{"gloss":"lifeline, safety rope, safety tether","pos":["n"]}]},"sdata":[]}

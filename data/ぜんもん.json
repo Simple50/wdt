@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前門","p":true}],"r_ele":[{"r":"ぜんもん","p":true}],"sense":[{"gloss":"front gate","pos":["n"]}]},"sdata":[{"j":"↑全然↑↓ぜん|ぜん↓↑問題↑↓もん|だい↓ないよ！","e":"No problem at all!"},{"j":"↑全↑↓|ぜん↓↑問↑↓もん|↓↑回答↑↓かいとう↓できました。","e":"I could answer all the questions."}]}

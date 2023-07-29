@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"正念場","p":true}],"r_ele":[{"r":"しょうねんば","p":true}],"sense":[{"gloss":"critical moment, do-or-die situation, critical juncture","pos":["n"]}]},"sdata":[{"j":"ボブは↑自力↑↓じりき↓でこの↑正念場↑↓|しょうねんば|↓を↑切↑↓き↓り↑抜↑↓ぬ↓けなくてはならない。","e":"Bob has to get through this ordeal on his own."}]}

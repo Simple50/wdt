@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"割り引き券"},{"e":"割引券","p":true}],"r_ele":[{"r":"わりびきけん","p":true}],"sense":[{"gloss":"discount coupon or ticket","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓、↑先週↑↓せんしゅう↓↑貰↑↓もら↓った↑割引↑↓|わりびき↓↑券↑↓けん|↓があるの。","e":"I have some coupons I got last week."}]}

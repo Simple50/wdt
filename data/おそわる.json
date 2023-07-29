@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"教わる","p":true}],"r_ele":[{"r":"おそわる","p":true}],"sense":[{"gloss":"to be taught, to learn, to take lessons in","pos":["v5r","vt"]}]},"sdata":[]}

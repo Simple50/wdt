@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"問い合わせる","p":true},{"e":"問合わせる"},{"e":"問合せる"},{"e":"問い合せる"}],"r_ele":[{"r":"といあわせる","p":true}],"sense":[{"gloss":"to enquire, to inquire, to seek information","pos":["v1","vt"]}]},"sdata":[]}

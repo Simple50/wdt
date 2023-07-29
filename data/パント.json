@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パント","p":true}],"sense":[{"gloss":"punt kick (rugby)","pos":["n"]}],"m":["abbr"]},"sdata":[{"j":"↑彼↑↓かれ↓はパーティーで|パント|マイムをやってみせた。","e":"He acted out a pantomime at the party."}]}

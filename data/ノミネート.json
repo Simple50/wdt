@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノミネート","p":true}],"sense":[{"gloss":"nomination","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はアカデミー↑賞↑↓しょう↓の↑最優秀↑↓さいゆうしゅう↓↑助演↑↓じょえん↓↑女優↑↓じょゆう↓に|ノミネート|された。","e":"She won an Oscar nomination for best supporting actress."}]}

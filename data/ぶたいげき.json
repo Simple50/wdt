@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"舞台劇","p":true}],"r_ele":[{"r":"ぶたいげき","p":true}],"sense":[{"gloss":"stage play","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秀でる","p":true}],"r_ele":[{"r":"ひいでる","p":true}],"sense":[{"gloss":"to excel, to surpass, to be superior, to be better (than others at something)","pos":["v1","vi"]},{"gloss":"to be conspicuous (esp. forehead and eyebrows), to be prominent, to stand out","pos":["v1","vi"]}]},"sdata":[]}

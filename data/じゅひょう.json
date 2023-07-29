@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"樹氷","p":true}],"r_ele":[{"r":"じゅひょう","p":true}],"sense":[{"gloss":"frost on trees, hoarfrost (on trees)","pos":["n"]},{"gloss":"frost-covered trees","pos":["n"]}]},"sdata":[{"j":"きれいな↑樹氷↑↓|じゅひょう|↓を↑見↑↓み↓せてあげたいものです。","e":"I wish I could show you the pretty ice on the trees."}]}

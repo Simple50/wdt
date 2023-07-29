@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"杉戸","p":true}],"r_ele":[{"r":"すぎど","p":true}],"sense":[{"gloss":"door made of cedar","pos":["n"]}]},"sdata":[]}

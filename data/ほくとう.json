@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北東","p":true}],"r_ele":[{"r":"ほくとう","p":true},{"r":"きたひがし"}],"sense":[{"gloss":"northeast","pos":["n","adj-no"]}]},"sdata":[{"j":"↑北東↑↓|ほくとう|↓↑方向↑↓ほうこう↓に↑土地↑↓とち↓が↑低↑↓ひく↓く↑横↑↓よこ↓たわっていた。","e":"The land to the northeast was low-lying."}]}

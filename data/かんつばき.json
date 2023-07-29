@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寒椿","p":true}],"r_ele":[{"r":"かんつばき","p":true}],"sense":[{"gloss":"camellia-like plant native to China","pos":["n"]}]},"sdata":[]}

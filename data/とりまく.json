@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り巻く","p":true},{"e":"取巻く"},{"e":"取りまく"}],"r_ele":[{"r":"とりまく","p":true}],"sense":[{"gloss":"to surround, to encircle, to enclose","pos":["v5k","vt"]}]},"sdata":[{"j":"↑繊維↑↓せんい↓↑産業↑↓さんぎょう↓を|とりまく|↑状況↑↓じょうきょう↓は↑変化↑↓へんか↓した。","e":"Circumstances surrounding the textile industry have changed."}]}

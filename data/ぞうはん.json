@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"造反","p":true}],"r_ele":[{"r":"ぞうはん","p":true}],"sense":[{"gloss":"rebellion","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑爆薬↑↓ばくやく↓↑製造↑↓せい|ぞう↓↑犯↑↓はん|↓はしばしば↑世間↑↓せけん↓の↑注目↑↓ちゅうもく↓を↑集↑↓あつ↓めたいという↑動機↑↓どうき↓を↑持↑↓も↓っている。","e":"Bomb-making criminals frequently have the motive of wanting public attention."}]}

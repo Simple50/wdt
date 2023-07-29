@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バスク","p":true}],"sense":[{"gloss":"Basque","pos":["n"]},{"gloss":"bask","pos":["n"]}]},"sdata":[{"j":"↑Java↑↓ジャバ↓と↑JavaScript↑↓ジャ|バスク|リプト↓はインドとインドネシアくらい↑違↑↓ちが↓うものです。","e":"Java and Javascript are like India and Indonesia, they aren't the same thing."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出土品","p":true}],"r_ele":[{"r":"しゅつどひん","p":true}],"sense":[{"gloss":"artifact, artefact, excavated article, archaeological find","pos":["n"],"f":["archeol"]}]},"sdata":[]}

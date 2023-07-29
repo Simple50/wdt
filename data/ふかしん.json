@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不可侵","p":true}],"r_ele":[{"r":"ふかしん","p":true}],"sense":[{"gloss":"inviolability, nonaggression, sacredness","pos":["n","adj-no"]}]},"sdata":[]}

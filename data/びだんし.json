@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"美男子","p":true}],"r_ele":[{"r":"びだんし","p":true},{"r":"びなんし"}],"sense":[{"gloss":"handsome man","pos":["n"]}]},"sdata":[{"j":"トムって、なかなかの↑美男↑↓|びだん↓↑子↑↓し|↓よ。","e":"Tom is a rather handsome man."},{"j":"トムって、ほんと↑美男↑↓|びだん↓↑子↑↓し|↓よ。","e":"Tom is a really good-looking man."}]}

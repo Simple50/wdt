@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持ち家","p":true},{"e":"持家"}],"r_ele":[{"r":"もちいえ","p":true},{"r":"もちや"}],"sense":[{"gloss":"one's (own) house","pos":["n"]}]},"sdata":[{"j":"↑自分↑↓じぶん↓たちの↑持↑↓|も↓ち↑家↑↓いえ|↓が↑欲↑↓ほ↓しい。","e":"We want a house of our own."}]}

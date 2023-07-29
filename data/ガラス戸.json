@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ガラス戸","p":true},{"e":"硝子戸"}],"r_ele":[{"r":"ガラスど","p":true}],"sense":[{"gloss":"glass door","pos":["n"]}]},"kdata":{"戸":{"on":["コ"],"kun":["と"],"jlpt":2,"meanings":["door","counter for houses","door radical (no. 63)"],"freq":575,"comp":[["一","尸"]],"d":["啓"],"v":"戶","t":135}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"邦訳","p":true}],"r_ele":[{"r":"ほうやく","p":true}],"sense":[{"gloss":"translation into Japanese","pos":["n","vs","vt"]}]},"sdata":[{"j":"すみませんがここではその↑処方↑↓しょ|ほう↓↑薬↑↓やく|↓は↑調合↑↓ちょうごう↓できません。","e":"Sorry, we can't fill this prescription here."}]}

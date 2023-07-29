@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最重点","p":true}],"r_ele":[{"r":"さいじゅうてん","p":true}],"sense":[{"gloss":"very important point","pos":["n"]}]},"sdata":[]}

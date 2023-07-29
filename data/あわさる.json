@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合わさる","p":true},{"e":"合さる"},{"e":"併さる","i":["iK"]}],"r_ele":[{"r":"あわさる","p":true}],"sense":[{"gloss":"to join, to be put together, to combine, to unite, to fit, to close (e.g. of a wound)","pos":["v5r","vi"]}]},"sdata":[]}

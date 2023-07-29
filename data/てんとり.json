@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"点取り","p":true}],"r_ele":[{"r":"てんとり","p":true}],"sense":[{"gloss":"competition for school marks, keeping score, score","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロペラ","p":true}],"sense":[{"gloss":"propeller","pos":["n"]}]},"sdata":[{"j":"ジェット↑機↑↓き↓は|プロペラ|↑機↑↓き↓よりもずっと↑速↑↓はや↓い。","e":"Jet planes fly much faster than propeller planes."}]}

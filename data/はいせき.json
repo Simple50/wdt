@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"排斥","p":true}],"r_ele":[{"r":"はいせき","p":true}],"sense":[{"gloss":"rejection, expulsion, boycott, ostracism","pos":["n","vs","vt"]}]},"sdata":[{"j":"その↑国↑↓くに↓では↑日本↑↓にっぽん↓↑製品↑↓せいひん↓を↑排斥↑↓|はいせき|↓する↑運動↑↓うんどう↓が↑起↑↓お↓こっていた。","e":"There is a movement against Japanese goods in that country."}]}

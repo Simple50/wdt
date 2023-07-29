@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジェネレーション","p":true},{"r":"ゼネレーション"}],"sense":[{"gloss":"generation","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大僧正","p":true}],"r_ele":[{"r":"だいそうじょう","p":true}],"sense":[{"gloss":"high priest","pos":["n"]}]},"sdata":[]}

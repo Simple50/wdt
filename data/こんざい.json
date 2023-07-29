@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"混在","p":true}],"r_ele":[{"r":"こんざい","p":true}],"sense":[{"gloss":"existing alongside (each other), mixture, intermingling","pos":["n","vs","vi"]}]},"sdata":[{"j":"ベルギーにはフラマン↑語↑↓ご↓とフランス↑語↑↓ご↓を↑話↑↓はな↓す↑人↑↓ひと↓が↑混在↑↓|こんざい|↓しています。","e":"In Belgium, here is a mix between people who speak Flemish and French."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"簡易保険","p":true}],"r_ele":[{"r":"かんいほけん","p":true}],"sense":[{"gloss":"postal life insurance","pos":["n"]}]},"sdata":[]}

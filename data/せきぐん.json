@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"赤軍","p":true}],"r_ele":[{"r":"せきぐん","p":true}],"sense":[{"gloss":"Red Army (Soviet Union, 1918-1946), Workers' and Peasants' Red Army","pos":["n"],"m":["hist"]},{"gloss":"Japanese Red Army, JRA","pos":["n"],"m":["abbr"],"x":["日本赤軍"]}]},"sdata":[]}

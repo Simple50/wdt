@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"活劇","p":true}],"r_ele":[{"r":"かつげき","p":true}],"sense":[{"gloss":"action film, action movie, action drama","pos":["n"],"x":["アクションドラマ"]},{"gloss":"riotous scene, fight scene","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロータリー","p":true}],"sense":[{"gloss":"rotary, roundabout, traffic circle","pos":["n"]},{"gloss":"rotary, rotating","pos":["adj-f"]}]},"sdata":[]}

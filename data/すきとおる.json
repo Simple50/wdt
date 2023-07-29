@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"透き通る","p":true},{"e":"透きとおる"},{"e":"透き徹る"}],"r_ele":[{"r":"すきとおる","p":true}],"sense":[{"gloss":"to be transparent, to be see-through, to be clear","pos":["v5r","vi"]},{"gloss":"to be clear (voice, sound)","pos":["v5r","vi"]}]},"sdata":[]}

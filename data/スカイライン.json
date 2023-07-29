@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スカイライン","p":true}],"sense":[{"gloss":"skyline","pos":["n"]},{"gloss":"scenic mountain road","pos":["n"]}]},"sdata":[]}

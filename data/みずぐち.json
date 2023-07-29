@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水口","p":true}],"r_ele":[{"r":"みずぐち","p":true}],"sense":[{"gloss":"spout","pos":["n"]}]},"sdata":[]}

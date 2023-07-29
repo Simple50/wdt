@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虐め","p":true},{"e":"苛め","p":true}],"r_ele":[{"r":"いじめ","p":true},{"r":"イジメ"}],"sense":[{"gloss":"bullying, teasing","pos":["n"]}],"m":["uk"]},"kdata":{"苛":{"on":["カ"],"kun":["いじ.める","さいな.む","いらだ.つ","からい","こまかい"],"meanings":["torment","scold","chastise"],"comp":[["艹","可"]],"d":["渮"],"jlpt":1,"t":1436,"freq":2698}},"sdata":[]}

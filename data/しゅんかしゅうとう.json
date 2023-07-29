@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"春夏秋冬","p":true}],"r_ele":[{"r":"しゅんかしゅうとう","p":true}],"sense":[{"gloss":"spring, summer, autumn (fall) and winter, the four seasons","pos":["n","adv"]}],"m":["yoji"]},"sdata":[]}

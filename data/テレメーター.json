@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テレメーター","p":true}],"sense":[{"gloss":"telemeter","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"茣蓙","p":true},{"e":"蓙"},{"e":"呉蓙","i":["iK"]}],"r_ele":[{"r":"ござ","p":true}],"sense":[{"gloss":"rush mat, matting, mat","pos":["n"]}],"m":["uk"]},"kdata":{"茣":{"on":["ゴ"],"meanings":["mat","matting"],"comp":[["艹","吴"]]},"蓙":{"on":["ザ"],"kun":["ござ"],"meanings":["mat","matting","(kokuji)"],"comp":[["艹","座"]]}},"sdata":[]}

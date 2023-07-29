@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"全容","p":true}],"r_ele":[{"r":"ぜんよう","p":true}],"sense":[{"gloss":"full portrait, whole aspect, full story","pos":["n"]}]},"sdata":[]}

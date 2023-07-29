@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アスコットタイ","p":true}],"sense":[{"gloss":"Ascot tie","pos":["n"]}]},"sdata":[]}

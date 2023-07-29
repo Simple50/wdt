@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クイーンズイングリッシュ","p":true},{"r":"クイーンズ・イングリッシュ"}],"sense":[{"gloss":"Queen's English","pos":["n"]}]},"sdata":[]}

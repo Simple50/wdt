@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"古び衰える","p":true}],"r_ele":[{"r":"ふるびおとろえる","p":true}],"sense":[{"gloss":"to waste away","pos":["v1"]}]},"sdata":[]}

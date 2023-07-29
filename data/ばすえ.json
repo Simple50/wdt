@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"場末","p":true}],"r_ele":[{"r":"ばすえ","p":true}],"sense":[{"gloss":"outskirts (of a town), run-down district","pos":["n","adj-no"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑場末↑↓|ばすえ|↓のジャズクラブに↑行↑↓い↓って、ライブミュージックを↑楽↑↓たの↓しみます。","e":"I like to go to a local jazz club where I can enjoy live music."}]}

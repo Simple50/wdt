@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メモリアルホール","p":true},{"r":"メモリアル・ホール"}],"sense":[{"gloss":"memorial hall","pos":["n"]}]},"sdata":[]}

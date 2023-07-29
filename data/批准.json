@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"批准","p":true}],"r_ele":[{"r":"ひじゅん","p":true}],"sense":[{"gloss":"ratification","pos":["n","vs","vt"]}]},"kdata":{"批":{"on":["ヒ"],"jlpt":1,"meanings":["criticism","strike"],"freq":568,"comp":[["扌","比"]],"t":507},"准":{"on":["ジュン"],"jlpt":1,"meanings":["semi-","quasi-","associate"],"freq":1441,"comp":[["冫","隹"]],"d":["凖"],"t":1021}},"sdata":[]}

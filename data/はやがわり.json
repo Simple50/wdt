@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早変わり","p":true},{"e":"早替わり"},{"e":"早がわり"},{"e":"早変り"},{"e":"早替り"}],"r_ele":[{"r":"はやがわり","p":true}],"sense":[{"gloss":"quick change (of costume)","pos":["n","vs","vi"],"f":["kabuki"]},{"gloss":"quick transformation, turning suddenly into, (sudden) metamorphosis","pos":["n","vs","vi"]}]},"sdata":[]}

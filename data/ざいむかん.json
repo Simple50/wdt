@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"財務官","p":true}],"r_ele":[{"r":"ざいむかん","p":true}],"sense":[{"gloss":"finance official","pos":["n"]}]},"sdata":[]}

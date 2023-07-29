@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"除籍","p":true}],"r_ele":[{"r":"じょせき","p":true}],"sense":[{"gloss":"removing a name","pos":["n","vs"]},{"gloss":"expelling (e.g. from school), decommissioning","pos":["n","vs"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑公認↑↓こうにん↓↑会計士↑↓かいけいし↓の↑団体↑↓だんたい↓を↑除籍↑↓|じょせき|↓になった。","e":"He was expelled from the CPA association."}]}

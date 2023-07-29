@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"反作用","p":true}],"r_ele":[{"r":"はんさよう","p":true}],"sense":[{"gloss":"reaction","pos":["n"]}]},"sdata":[]}

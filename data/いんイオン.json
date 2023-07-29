@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陰イオン","p":true}],"r_ele":[{"r":"いんイオン","p":true}],"sense":[{"gloss":"anion","pos":["n","adj-no"]}]},"sdata":[]}

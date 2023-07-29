@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アパッチ","p":true}],"sense":[{"gloss":"Apache (people)","pos":["n"]}]},"sdata":[]}

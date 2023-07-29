@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軟禁","p":true}],"r_ele":[{"r":"なんきん","p":true}],"sense":[{"gloss":"house arrest","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑何↑↓なに↓しろ↑朝↑↓あさ↓から↑夕方↑↓ゆうがた↓まで、↑校舎↑↓こうしゃ↓の↑中↑↓なか↓で↑軟禁↑↓|なんきん|↓↑状態↑↓じょうたい↓だからな。↑釈放↑↓しゃくほう↓されれば↑元気↑↓げんき↓にもなるってもんだ。","e":"Anyhow, having been held in school from morning to evening ... anybody'd be happy on getting released."}]}

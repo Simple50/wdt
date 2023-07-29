@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"知能指数","p":true}],"r_ele":[{"r":"ちのうしすう","p":true}],"sense":[{"gloss":"intelligence quotient, IQ","pos":["n"]}]},"sdata":[{"j":"ココの↑知能指数↑↓|ちのうしすう|↓を↑調↑↓しら↓べるのは↑容易↑↓ようい↓ではない。","e":"Testing Koko's IQ is not easy."},{"j":"↑心理↑↓しんり↓↑学者↑↓がくしゃ↓のパターソン↑博士↑↓はかせ↓はココの↑知能指数↑↓|ちのうしすう|↓をテストした。","e":"Dr. Patterson, a psychologist, has tested Koko's IQ."}]}

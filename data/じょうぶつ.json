@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"成仏","p":true}],"r_ele":[{"r":"じょうぶつ","p":true}],"sense":[{"gloss":"attaining Buddhahood, becoming a Buddha, entering Nirvana","pos":["n","vs","vi"]},{"gloss":"going to heaven, resting in peace, dying (peacefully)","pos":["n","vs","vi"]}]},"sdata":[]}

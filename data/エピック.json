@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エピック","p":true}],"sense":[{"gloss":"epic","pos":["n"]}]},"sdata":[]}

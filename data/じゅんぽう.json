@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旬報","p":true}],"r_ele":[{"r":"じゅんぽう","p":true}],"sense":[{"gloss":"ten-day report","pos":["n"]}]},"sdata":[]}

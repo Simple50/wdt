@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"溶接","p":true},{"e":"熔接","i":["rK"]},{"e":"鎔接","i":["sK"]}],"r_ele":[{"r":"ようせつ","p":true}],"sense":[{"gloss":"welding","pos":["n","vs","vt"]}]},"sdata":[]}

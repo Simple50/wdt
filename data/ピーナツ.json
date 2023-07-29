@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピーナッツ","p":true},{"r":"ピーナツ","p":true}],"sense":[{"gloss":"peanut","pos":["n"]}]},"sdata":[{"j":"|ピーナツ|バターとゼリーのをください。","e":"Peanut butter and jelly, please."},{"j":"トムが↑本当↑↓ほんとう↓に↑食↑↓た↓べたかったのは、|ピーナツ|バターサンドだったんだ。","e":"What Tom really wanted was a peanut butter sandwich."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"デボン紀","p":true}],"r_ele":[{"r":"デボンき","p":true}],"sense":[{"gloss":"Devonian period","pos":["n"]}]},"kdata":{"紀":{"on":["キ"],"jlpt":1,"meanings":["chronicle","account","narrative","history","annals","geologic period"],"freq":780,"comp":[["糸","己"]],"t":940}},"sdata":[]}

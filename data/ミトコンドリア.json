@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミトコンドリア","p":true}],"sense":[{"gloss":"mitochondria","pos":["n"]}]},"sdata":[]}

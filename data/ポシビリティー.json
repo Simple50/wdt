@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポシビリティー","p":true}],"sense":[{"gloss":"possibility","pos":["n"]}]},"sdata":[]}

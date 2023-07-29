@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パラボラアンテナ","p":true},{"r":"パラボラ・アンテナ"}],"sense":[{"gloss":"parabolic antenna","pos":["n"],"l":"eng: parabola antenna"}]},"sdata":[]}

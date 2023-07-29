@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"着火","p":true}],"r_ele":[{"r":"ちゃっか","p":true}],"sense":[{"gloss":"ignition, catching fire, setting on fire","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は|ちゃっか|りしている。","e":"He is shrewd and calculating."}]}

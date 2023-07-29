@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハムスター","p":true}],"sense":[{"gloss":"hamster","pos":["n"]}]},"sdata":[{"j":"この|ハムスター|はポケットに↑入↑↓い↓れて↑持↑↓も↓ち↑運↑↓はこ↓べるぐらい↑小↑↓ちい↓さい。","e":"This hamster is small enough to carry in your pocket."},{"j":"|ハムスター|の↑金玉↑↓きんたま↓が↑片方↑↓かたほう↓↑肥大↑↓ひだい↓しています。","e":"My hamster has a swollen testicle on one side."},{"j":"|ハムスター|って↑可愛↑↓かわい↓いです。","e":"Hamsters are cute."}]}

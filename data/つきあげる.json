@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き上げる","p":true},{"e":"突上げる"},{"e":"衝き上げる"}],"r_ele":[{"r":"つきあげる","p":true}],"sense":[{"gloss":"to push up, to force up, to toss","pos":["v1","vt"]},{"gloss":"to pressure one's superiors","pos":["v1","vt"]},{"gloss":"to burst out (of emotions, etc.), to fill one's heart","pos":["v1","vt"]}]},"sdata":[]}

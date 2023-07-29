@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"必殺","p":true}],"r_ele":[{"r":"ひっさつ","p":true}],"sense":[{"gloss":"bringing certain death, deadly, knockout (blow)","pos":["n","adj-no"]}]},"sdata":[]}

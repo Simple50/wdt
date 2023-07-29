@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"副題","p":true}],"r_ele":[{"r":"ふくだい","p":true}],"sense":[{"gloss":"subtitle, subheading","pos":["n"]}]},"kdata":{"副":{"on":["フク"],"jlpt":2,"meanings":["vice-","assistant","aide","duplicate","copy"],"freq":360,"comp":[["畐","刂"]],"t":1238},"題":{"on":["ダイ"],"jlpt":4,"meanings":["topic","subject"],"freq":96,"comp":[["是","頁"]],"t":2249}},"sdata":[]}

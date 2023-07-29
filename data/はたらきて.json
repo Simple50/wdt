@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"働き手","p":true}],"r_ele":[{"r":"はたらきて","p":true}],"sense":[{"gloss":"worker, breadwinner, supporter","pos":["n"]},{"gloss":"able person, able man, productive worker","pos":["n"]}]},"sdata":[{"j":"↑企業↑↓きぎょう↓は↑率先↑↓そっせん↓して↑事↑↓こと↓にあたる↑働↑↓|はたら↓き↑手↑↓て|↓を↑歓迎↑↓かんげい↓する。","e":"Companies welcome workers who take initiative."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"跳び上がる","p":true},{"e":"飛び上がる","p":true},{"e":"跳上がる"},{"e":"飛上がる"}],"r_ele":[{"r":"とびあがる","p":true}],"sense":[{"gloss":"to spring, to jump up, to fly up, to skip","pos":["v5r","vi"]}]},"sdata":[{"j":"できるだけ↑高↑↓たか↓く↑飛↑↓|と↓び↑上↑↓あ↓がる|ようにしなさい。","e":"Try to jump as high as possible."},{"j":"ぎょっとして↑飛↑↓|と↓び↑上↑↓あ↓がる|。","e":"I spring with a start."}]}

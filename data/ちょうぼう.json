@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"眺望","p":true}],"r_ele":[{"r":"ちょうぼう","p":true}],"sense":[{"gloss":"prospect, view, outlook","pos":["n","vs","vt"]}]},"sdata":[]}

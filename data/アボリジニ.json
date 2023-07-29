@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アボリジニ","p":true},{"r":"アボリジニー"},{"r":"アボリジン"}],"sense":[{"gloss":"(Australian) Aborigine, Aboriginal Australian","pos":["n"]}]},"sdata":[]}

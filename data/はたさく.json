@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"畑作","p":true}],"r_ele":[{"r":"はたさく","p":true}],"sense":[{"gloss":"dry field farming, dry field crop","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"跪く","p":true}],"r_ele":[{"r":"ひざまずく","p":true},{"r":"ひざまづく"}],"sense":[{"gloss":"to kneel","pos":["v5k","vi"]}],"m":["uk"]},"sdata":[]}

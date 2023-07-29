@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電通大","p":true}],"r_ele":[{"r":"でんつうだい","p":true}],"sense":[{"gloss":"University of Electro-Communications","pos":["n"]}],"m":["abbr"]},"sdata":[]}

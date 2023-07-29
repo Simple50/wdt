@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バプテスト","p":true}],"sense":[{"gloss":"Baptist, baptist","pos":["n"]}]},"sdata":[]}

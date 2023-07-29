@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"当て込む","p":true},{"e":"当てこむ"}],"r_ele":[{"r":"あてこむ","p":true}],"sense":[{"gloss":"to count on, to anticipate, to expect","pos":["v5m","vt"]}]},"sdata":[]}

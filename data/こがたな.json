@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小刀","p":true}],"r_ele":[{"r":"こがたな","p":true},{"r":"しょうとう"}],"sense":[{"gloss":"(small) knife","pos":["n"]},{"gloss":"short sword, small sword","pos":["n"]}]},"sdata":[]}

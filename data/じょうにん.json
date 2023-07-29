@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"常任","p":true}],"r_ele":[{"r":"じょうにん","p":true}],"sense":[{"gloss":"standing, regular, permanent","pos":["n","vs","vi","adj-no"]}]},"sdata":[]}

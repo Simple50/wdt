@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入交","p":true}],"r_ele":[{"r":"いりまじり","p":true}],"sense":[{"gloss":"mixing with, being mixed","pos":["n","vs"]}]},"sdata":[]}

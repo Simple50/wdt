@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秘策","p":true}],"r_ele":[{"r":"ひさく","p":true}],"sense":[{"gloss":"secret plan, secret scheme, secret stratagem, secret method","pos":["n"]}]},"sdata":[{"j":"↑何↑↓なに↓か↑秘策↑↓|ひさく|↓があるの？","e":"Is there some secret plan?"}]}

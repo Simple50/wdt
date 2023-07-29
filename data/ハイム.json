@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイム","p":true}],"sense":[{"gloss":"home","pos":["n"],"l":"ger: Heim"}]},"sdata":[]}

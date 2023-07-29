@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サドル","p":true}],"sense":[{"gloss":"saddle","pos":["n"]}]},"sdata":[{"j":"|サドル|なしで↑乗↑↓の↓れるの？","e":"Can you ride without a saddle?"}]}

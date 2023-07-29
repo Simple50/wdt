@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"筆頭","p":true}],"r_ele":[{"r":"ひっとう","p":true},{"r":"ふでがしら"}],"sense":[{"gloss":"brush tip","pos":["n","adj-no"]},{"gloss":"first on a list","pos":["n","adj-no"]},{"gloss":"head, chief","pos":["n","adj-no"]}]},"sdata":[]}

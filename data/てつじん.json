@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄人","p":true}],"r_ele":[{"r":"てつじん","p":true}],"sense":[{"gloss":"iron man, strong man","pos":["n"]},{"gloss":"(steel-clad) robot","pos":["n"]}]},"sdata":[{"j":"↑寸鉄↑↓すん|てつ↓↑人↑↓じん|↓を↑殺↑↓ころ↓す。","e":"The tongue stings."}]}

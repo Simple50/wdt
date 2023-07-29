@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミニチュア","p":true},{"r":"ミニアチュール"},{"r":"ミニアチュア"}],"sense":[{"gloss":"miniature","pos":["n"]}]},"sdata":[]}

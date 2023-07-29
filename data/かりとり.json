@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刈り取り","p":true}],"r_ele":[{"r":"かりとり","p":true}],"sense":[{"gloss":"harvesting, reaping","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑昨夜↑↓さくや↓↑宿題↑↓しゅくだい↓のおくれをすっ|かり↑取↑↓と↓り|↑戻↑↓もど↓した。","e":"I caught up on all my homework last night."},{"j":"↑彼女↑↓かのじょ↓の↑美↑↓うつく↓しさは↑彼↑↓かれ↓をすっ|かり↑虜↑↓とり|こ↓にした。","e":"Her beauty cast a spell over him."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハードボイルド","p":true}],"sense":[{"gloss":"hard-boiled (person, style, etc.), tough","pos":["adj-na","n"]},{"gloss":"hard-boiled fiction","pos":["n"]}]},"sdata":[{"j":"あいつは|ハードボイルド|なやつだ。","e":"He is a hard boiled egg."}]}

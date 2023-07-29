@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セレモニー","p":true}],"sense":[{"gloss":"ceremony","pos":["n"]}]},"sdata":[{"j":"ボーリング↑店↑↓てん↓のオープニング|セレモニー|は↑退屈↑↓たいくつ↓だった。","e":"The bowling shop's opening ceremony was boring."},{"j":"|セレモニー|には↑出席↑↓しゅっせき↓できませんでした。","e":"I couldn't attend the ceremony."},{"j":"|セレモニー|には↑出席↑↓しゅっせき↓できませんでした。","e":"I could not attend the ceremony."}]}

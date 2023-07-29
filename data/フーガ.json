@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フーガ","p":true}],"sense":[{"gloss":"fugue","pos":["n"],"f":["music"],"l":"ita: fuga"}]},"sdata":[]}

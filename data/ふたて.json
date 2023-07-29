@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二手","p":true},{"e":"ふた手"}],"r_ele":[{"r":"ふたて","p":true}],"sense":[{"gloss":"two groups, two bands","pos":["n","adj-no"]}]},"sdata":[{"j":"↑決↑↓き↓めること↑決↑↓き↓めちゃって、その↑後↑↓あと↓は↑二↑↓|ふた↓↑手↑↓て|↓に↑分↑↓わ↓かれるよ？","e":"Let's decide what needs to be decided, then let's split into two teams, OK?"}]}

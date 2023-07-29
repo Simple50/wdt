@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポートレート","p":true},{"r":"ポートレイト"}],"sense":[{"gloss":"portrait","pos":["n"]}]},"sdata":[{"j":"↑今日↑↓きょう↓、↑朝↑↓あさ↓↑一↑↓いち↓で|ポートレート|の↑予約↑↓よやく↓が↑入↑↓はい↓っているんだが・・・どうだ？↑試↑↓ため↓しにやってみるか？","e":"First thing today there's an appointment for a portrait ... what do you say? Will you try doing it as a test?"}]}

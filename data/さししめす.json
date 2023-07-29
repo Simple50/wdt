@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"指し示す","p":true},{"e":"指示す"}],"r_ele":[{"r":"さししめす","p":true}],"sense":[{"gloss":"to indicate, to show, to point to","pos":["v5s","vt"]}]},"sdata":[]}

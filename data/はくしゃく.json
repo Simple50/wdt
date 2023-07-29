@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伯爵","p":true}],"r_ele":[{"r":"はくしゃく","p":true}],"sense":[{"gloss":"count, earl","pos":["n"],"x":["五等爵"]}]},"sdata":[]}

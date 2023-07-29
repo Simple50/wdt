@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仏具","p":true}],"r_ele":[{"r":"ぶつぐ","p":true},{"r":"ぶぐ"}],"sense":[{"gloss":"Buddhist ritual implements (esp. altar fittings)","pos":["n"]}]},"sdata":[]}

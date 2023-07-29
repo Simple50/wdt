@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"塩尻","p":true}],"r_ele":[{"r":"しおじり","p":true}],"sense":[{"gloss":"cone-shaped","pos":["n"]}]},"sdata":[]}

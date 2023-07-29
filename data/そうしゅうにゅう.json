@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総収入","p":true}],"r_ele":[{"r":"そうしゅうにゅう","p":true}],"sense":[{"gloss":"total income","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑総↑↓|そう↓↑収入↑↓しゅうにゅう|↓は↑臨時↑↓りんじ↓↑収入↑↓しゅうにゅう↓を↑入↑↓い↓れても↑月↑↓つき↓３０↑万↑↓まん↓↑円↑↓えん↓にはるか↑及↑↓およ↓ばない。","e":"My total income is far short of 300,000 yen a month, inclusive of extra earnings."}]}

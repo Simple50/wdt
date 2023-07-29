@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"情実","p":true}],"r_ele":[{"r":"じょうじつ","p":true}],"sense":[{"gloss":"real situations, personal consideration, private circumstances, favoritism, favouritism","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"選挙公報","p":true}],"r_ele":[{"r":"せんきょこうほう","p":true}],"sense":[{"gloss":"official gazette for elections","pos":["n"]}]},"sdata":[]}

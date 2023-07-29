@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"託宣","p":true}],"r_ele":[{"r":"たくせん","p":true}],"sense":[{"gloss":"oracle, revelation, divine message","pos":["n","vs"]}]},"sdata":[]}

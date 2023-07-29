@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取次","p":true},{"e":"取次ぎ","p":true},{"e":"取り次ぎ","p":true}],"r_ele":[{"r":"とりつぎ","p":true}],"sense":[{"gloss":"agency, commission, distributor, intermediation","pos":["n"],"x":["取り次ぐ・とりつぐ・1"]},{"gloss":"reception (of guests)","pos":["n"],"x":["取り次ぐ・2"]},{"gloss":"conveyance (of messages)","pos":["n"],"x":["取り次ぐ・3"]}]},"sdata":[]}

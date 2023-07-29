@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"成人病","p":true}],"r_ele":[{"r":"せいじんびょう","p":true}],"sense":[{"gloss":"adult diseases","pos":["n"]}]},"sdata":[]}

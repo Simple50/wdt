@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"創価学会","p":true}],"r_ele":[{"r":"そうかがっかい","p":true}],"sense":[{"gloss":"Soka Gakkai (lay organization based on Nichiren Buddhism)","pos":["n"]}]},"sdata":[]}

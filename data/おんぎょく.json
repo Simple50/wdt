@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"音曲","p":true}],"r_ele":[{"r":"おんぎょく","p":true}],"sense":[{"gloss":"songs with samisen accompaniment, musical performance","pos":["n"]}]},"sdata":[]}

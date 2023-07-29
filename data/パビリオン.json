@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パビリオン","p":true}],"sense":[{"gloss":"pavilion","pos":["n"]}]},"sdata":[]}

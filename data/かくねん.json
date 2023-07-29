@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隔年","p":true}],"r_ele":[{"r":"かくねん","p":true}],"sense":[{"gloss":"biennially, every second year, every other year","pos":["n","adv"]}]},"sdata":[]}

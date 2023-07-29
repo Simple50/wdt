@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"閉幕","p":true}],"r_ele":[{"r":"へいまく","p":true}],"sense":[{"gloss":"falling of the curtain","pos":["n","vs","vi"],"ant":["開幕・1"]},{"gloss":"(coming to an) end, close","pos":["n","vs","vi"],"ant":["開幕・2"]}]},"sdata":[]}

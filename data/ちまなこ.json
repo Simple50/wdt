@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"血眼","p":true},{"e":"血まなこ"},{"e":"血目"}],"r_ele":[{"r":"ちまなこ","p":true},{"r":"ちめ"}],"sense":[{"gloss":"bloodshot eyes","pos":["n"]},{"gloss":"(doing something in a) frenzy","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"崩れ去る","p":true}],"r_ele":[{"r":"くずれさる","p":true}],"sense":[{"gloss":"to crumble away, to collapse","pos":["v5r"]}]},"sdata":[]}

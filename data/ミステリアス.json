@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミステリアス","p":true}],"sense":[{"gloss":"mysterious","pos":["adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"関西人","p":true}],"r_ele":[{"r":"かんさいじん","p":true}],"sense":[{"gloss":"person from the Kansai region, Kansai native","pos":["n"],"x":["関西・1"]}]},"sdata":[]}

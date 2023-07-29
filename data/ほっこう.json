@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北郊","p":true}],"r_ele":[{"r":"ほっこう","p":true}],"sense":[{"gloss":"northern suburbs","pos":["n"]}]},"sdata":[]}

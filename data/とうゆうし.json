@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"投融資","p":true}],"r_ele":[{"r":"とうゆうし","p":true}],"sense":[{"gloss":"investment and lending","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"油圧","p":true}],"r_ele":[{"r":"ゆあつ","p":true}],"sense":[{"gloss":"oil pressure, hydraulics","pos":["n","adj-no"]}]},"sdata":[]}

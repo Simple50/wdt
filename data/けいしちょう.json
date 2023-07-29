@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"警視庁","p":true}],"r_ele":[{"r":"けいしちょう","p":true}],"sense":[{"gloss":"Metropolitan Police Department","pos":["n"]}]},"sdata":[]}

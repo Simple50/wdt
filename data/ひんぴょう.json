@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"品評","p":true}],"r_ele":[{"r":"ひんぴょう","p":true}],"sense":[{"gloss":"estimation, criticism, comment","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑自分↑↓じぶん↓のテリア↑犬↑↓けん↓を↑犬↑↓いぬ↓↑品評↑↓|ひんぴょう|↓↑会↑↓かい↓に↑出↑↓だ↓した。","e":"She entered her terrier in a dog show."}]}

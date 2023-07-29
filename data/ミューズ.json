@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミューズ","p":true},{"r":"ムーサ","p":true}],"sense":[{"gloss":"Muse, one's muse","pos":["n"]}]},"sdata":[{"j":"「↑小説↑↓しょうせつ↓？　あたし↑小説↑↓しょうせつ↓は↑嫌↑↓きら↓いですの」 　おお、|ミューズ|よ、↑彼女↑↓かのじょ↓の↑冒涜↑↓ぼうとく↓を↑赦↑↓ゆる↓せ。","e":"Novels? I hate novels. Oh muse, forgive her blasphemy."}]}

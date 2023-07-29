@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブライダル","p":true}],"sense":[{"gloss":"bridal, nuptial","pos":["adj-f"]},{"gloss":"wedding, wedding planning","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は|ブライダル|↑関係↑↓かんけい↓の↑仕事↑↓しごと↓をしている。","e":"She does bridal work."}]}

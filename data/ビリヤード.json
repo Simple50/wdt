@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビリヤード","p":true},{"r":"ビリアード"}],"sense":[{"gloss":"billiards, pool, snooker, cue sports","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑父↑↓ちち↓は|ビリヤード|の↑玉↑↓たま↓のように↑頭↑↓あたま↓がつるつるだ。","e":"My father is as bald as a billiard ball."},{"j":"トムは|ビリヤード|をやりたがらないんだよ。","e":"Tom doesn't want to play billiards."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アダプター","p":true},{"r":"アダプタ"}],"sense":[{"gloss":"adapter","pos":["n"]}]},"sdata":[]}

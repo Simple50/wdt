@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"占う","p":true},{"e":"卜う"}],"r_ele":[{"r":"うらなう","p":true}],"sense":[{"gloss":"to tell someone's fortune, to forecast, to predict, to divine","pos":["v5u","vt"]}]},"sdata":[]}

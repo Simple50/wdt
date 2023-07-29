@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒療治","p":true}],"r_ele":[{"r":"あらりょうじ","p":true}],"sense":[{"gloss":"rough-and-ready (medical) treatment, drastic remedy, drastic treatment","pos":["n","vs","vt"]},{"gloss":"drastic measures, drastic steps","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑情勢↑↓じょうせい↓は↑荒療治↑↓|あらりょうじ|↓を↑必要↑↓ひつよう↓とする。","e":"The situation calls for drastic measures."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秘める","p":true}],"r_ele":[{"r":"ひめる","p":true}],"sense":[{"gloss":"to hide, to keep to oneself","pos":["v1","vt"]}]},"kdata":{"秘":{"on":["ヒ"],"kun":["ひ.める","ひそ.か","かく.す"],"jlpt":1,"meanings":["secret","conceal"],"freq":862,"comp":[["必","禾"]],"t":1134}},"sdata":[]}

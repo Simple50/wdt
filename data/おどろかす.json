@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"驚かす","p":true}],"r_ele":[{"r":"おどろかす","p":true}],"sense":[{"gloss":"to surprise, to frighten, to create a stir","pos":["v5s","vt"]}]},"sdata":[]}

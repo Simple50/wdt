@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"副題","p":true}],"r_ele":[{"r":"ふくだい","p":true}],"sense":[{"gloss":"subtitle, subheading","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はドレスメーカーに↑洋服↑↓よう|ふく↓↑代↑↓だい|↓を↑支払↑↓しはら↓った。","e":"She paid the dressmaker for her dress."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人頭税","p":true}],"r_ele":[{"r":"じんとうぜい","p":true},{"r":"にんとうぜい"}],"sense":[{"gloss":"poll tax","pos":["n"]}]},"sdata":[]}

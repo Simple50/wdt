@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大衆文学","p":true}],"r_ele":[{"r":"たいしゅうぶんがく","p":true}],"sense":[{"gloss":"popular literature","pos":["n"]}]},"sdata":[]}

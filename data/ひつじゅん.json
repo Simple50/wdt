@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"筆順","p":true}],"r_ele":[{"r":"ひつじゅん","p":true}],"sense":[{"gloss":"stroke order (esp. of a Chinese character)","pos":["n"]}]},"sdata":[]}

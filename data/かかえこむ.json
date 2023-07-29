@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抱え込む","p":true},{"e":"かかえ込む"},{"e":"抱えこむ"}],"r_ele":[{"r":"かかえこむ","p":true}],"sense":[{"gloss":"to hold a thing in one's arms, to carry in one's arms, to embrace (e.g. a baby)","pos":["v5m","vt"]},{"gloss":"to take upon oneself, to be saddled with","pos":["v5m","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総当たり","p":true},{"e":"総当り"}],"r_ele":[{"r":"そうあたり","p":true}],"sense":[{"gloss":"round robin","pos":["n","adj-no"],"x":["総当たり戦"]},{"gloss":"having no losing tickets (of a lottery)","pos":["n"]},{"gloss":"brute force (in cryptography), using all combinations","pos":["n","adj-no"],"f":["comp"]}]},"sdata":[]}

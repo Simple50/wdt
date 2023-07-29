@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北陸","p":true}],"r_ele":[{"r":"ほくりく","p":true}],"sense":[{"gloss":"Hokuriku region (of Honshu; incl. Niigata, Toyama, Ishikawa and Fukui prefectures)","pos":["n"]}]},"sdata":[]}

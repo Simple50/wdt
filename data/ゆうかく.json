@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遊郭","p":true},{"e":"遊廓"}],"r_ele":[{"r":"ゆうかく","p":true}],"sense":[{"gloss":"(licensed) red light district","pos":["n"]}]},"sdata":[{"j":"↑関係↑↓かんけい↓↑代名詞↑↓だいめいし↓のthatは、↑主格↑↓しゅかく↓、↑目的↑↓もくてき↓↑格↑↓かく↓の2つであり、↑所有↑↓しょ|ゆう↓↑格↑↓かく|↓はありません。","e":"The relative pronoun 'that' has two states, a nominative case and objective case, but there is no possessive case."}]}

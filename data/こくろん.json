@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国論","p":true}],"r_ele":[{"r":"こくろん","p":true}],"sense":[{"gloss":"public opinion","pos":["n"]}]},"sdata":[]}

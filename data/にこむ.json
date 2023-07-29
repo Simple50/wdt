@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煮込む","p":true}],"r_ele":[{"r":"にこむ","p":true}],"sense":[{"gloss":"to boil well, to stew, to simmer (for a long time)","pos":["v5m","vt"]},{"gloss":"to cook (various ingredients) together","pos":["v5m","vt"]}]},"sdata":[{"j":"↑最近↑↓さいきん↓↑寝↑↓ね↓てるとき|にこむ|らがえりを↑起↑↓お↓こします。","e":"Recently I get leg cramps when I sleep."}]}

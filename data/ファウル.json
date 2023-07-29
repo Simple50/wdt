@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファウル","p":true},{"r":"ファール"}],"sense":[{"gloss":"foul","pos":["n","vs"],"f":["sports"]}]},"sdata":[{"j":"↑審判↑↓しんぱん↓はそのボールを|ファウル|と↑判定↑↓はんてい↓した。","e":"The umpire called the ball foul."},{"j":"↑彼↑↓かれ↓はボールを|ファウル|と↑判定↑↓はんてい↓した。","e":"He called the ball foul."},{"j":"|ファウル|ボールにご↑注意↑↓ちゅうい↓ください。","e":"Please watch out for foul balls."}]}

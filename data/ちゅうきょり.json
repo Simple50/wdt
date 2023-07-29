@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中距離","p":true}],"r_ele":[{"r":"ちゅうきょり","p":true}],"sense":[{"gloss":"middle-distance (races)","pos":["n"]},{"gloss":"intermediate-range (missile)","pos":["n"]}]},"sdata":[]}

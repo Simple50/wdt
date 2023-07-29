@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生殖器","p":true}],"r_ele":[{"r":"せいしょくき","p":true}],"sense":[{"gloss":"genital organ, genitalia, sexual organ, reproductive organ","pos":["n"]}]},"sdata":[{"j":"↑陰茎↑↓いんけい↓は↑雄↑↓ゆう↓の↑生殖↑↓|せいしょく↓↑器↑↓き|↓のひとつ。","e":"The penis is one of the male reproductive organs."}]}

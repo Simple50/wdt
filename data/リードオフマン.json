@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リードオフマン","p":true},{"r":"リード・オフ・マン"}],"sense":[{"gloss":"lead-off man","pos":["n"],"f":["baseb"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歳出","p":true}],"r_ele":[{"r":"さいしゅつ","p":true}],"sense":[{"gloss":"annual expenditure","pos":["n"]}]},"sdata":[]}

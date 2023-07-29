@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝転ぶ","p":true},{"e":"寝ころぶ"}],"r_ele":[{"r":"ねころぶ","p":true}],"sense":[{"gloss":"to lie down, to throw oneself down","pos":["v5b","vi"],"x":["寝転がる・ねころがる"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地唄","p":true},{"e":"地歌"}],"r_ele":[{"r":"じうた","p":true}],"sense":[{"gloss":"(style of) folk song","pos":["n"]}]},"sdata":[]}

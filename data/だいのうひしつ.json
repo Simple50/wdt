@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大脳皮質","p":true}],"r_ele":[{"r":"だいのうひしつ","p":true}],"sense":[{"gloss":"cerebral cortex","pos":["n"]}]},"sdata":[]}

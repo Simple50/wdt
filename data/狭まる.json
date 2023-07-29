@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"狭まる","p":true}],"r_ele":[{"r":"せばまる","p":true}],"sense":[{"gloss":"to narrow, to contract","pos":["v5r","vi"]}]},"kdata":{"狭":{"on":["キョウ","コウ"],"kun":["せま.い","せば.める","せば.まる","さ"],"jlpt":1,"meanings":["cramped","narrow","contract","tight"],"freq":1346,"comp":[["夹","犭"]],"s":"挟","t":914}},"sdata":[]}

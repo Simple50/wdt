@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インフレーション","p":true}],"sense":[{"gloss":"inflation","pos":["n"]}]},"sdata":[]}

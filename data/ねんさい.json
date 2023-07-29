@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"年祭","p":true}],"r_ele":[{"r":"ねんさい","p":true}],"sense":[{"gloss":"anniversary","pos":["n"]}]},"sdata":[]}

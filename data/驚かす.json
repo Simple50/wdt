@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"驚かす","p":true}],"r_ele":[{"r":"おどろかす","p":true}],"sense":[{"gloss":"to surprise, to frighten, to create a stir","pos":["v5s","vt"]}]},"kdata":{"驚":{"on":["キョウ"],"kun":["おどろ.く","おどろ.かす"],"jlpt":1,"meanings":["wonder","be surprised","frightened","amazed"],"freq":1141,"comp":[["敬","馬"]],"t":2305}},"sdata":[]}

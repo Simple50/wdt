@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プランニング","p":true}],"sense":[{"gloss":"planning","pos":["n"]}]},"sdata":[]}

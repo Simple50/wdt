@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本銀行","p":true}],"r_ele":[{"r":"にっぽんぎんこう","p":true},{"r":"にほんぎんこう"}],"sense":[{"gloss":"Bank of Japan, BOJ, BoJ","pos":["n"]}]},"sdata":[]}

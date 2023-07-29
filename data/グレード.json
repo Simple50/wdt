@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グレード","p":true},{"r":"グレイド"}],"sense":[{"gloss":"grade","pos":["n"]}]},"sdata":[{"j":"↑現在↑↓げんざい↓のバージョンは、アップ|グレード|↑版↑↓ばん↓で↑置↑↓お↓き↑換↑↓か↓えます。","e":"We will replace the current version with the upgrade."}]}

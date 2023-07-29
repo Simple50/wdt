@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フラッシュ","p":true}],"sense":[{"gloss":"flash (esp. of a camera), flashlight, flashbulb","pos":["n"]},{"gloss":"very short scene in a film or TV show","pos":["n"]},{"gloss":"newsflash","pos":["n"],"x":["ニュースフラッシュ"]}]},"sdata":[{"j":"|フラッシュ|を↑使↑↓つか↓ってもいいですか。","e":"Is it all right to use a flash here?"}]}

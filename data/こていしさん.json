@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"固定資産","p":true}],"r_ele":[{"r":"こていしさん","p":true}],"sense":[{"gloss":"fixed assets","pos":["n"]}]},"sdata":[]}

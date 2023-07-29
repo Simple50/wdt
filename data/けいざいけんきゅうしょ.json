@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"経済研究所","p":true}],"r_ele":[{"r":"けいざいけんきゅうしょ","p":true}],"sense":[{"gloss":"economics research centre, economics research center","pos":["n"]}]},"sdata":[]}

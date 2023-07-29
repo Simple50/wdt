@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枯渇","p":true},{"e":"涸渇","i":["rK"]}],"r_ele":[{"r":"こかつ","p":true}],"sense":[{"gloss":"drying up, running dry","pos":["n","vs","vi"]},{"gloss":"running out, being exhausted, being drained","pos":["n","vs","vi"]}]},"sdata":[]}

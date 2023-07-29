@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カーチェイス","p":true},{"r":"カー・チェイス"}],"sense":[{"gloss":"car chase","pos":["n"]}]},"sdata":[]}

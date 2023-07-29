@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"湧出","p":true},{"e":"涌出"}],"r_ele":[{"r":"ゆうしゅつ","p":true},{"r":"ようしゅつ"}],"sense":[{"gloss":"gushing out, welling up, springing up","pos":["n","vs","vi"]}]},"sdata":[]}

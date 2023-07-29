@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"差し止め","p":true},{"e":"差止め"},{"e":"差止"}],"r_ele":[{"r":"さしとめ","p":true}],"sense":[{"gloss":"prohibition, ban, suspension, injunction","pos":["n"]}]},"sdata":[]}

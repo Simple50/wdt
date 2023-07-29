@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鍋物","p":true},{"e":"なべ物"}],"r_ele":[{"r":"なべもの","p":true}],"sense":[{"gloss":"stew, food cooked in a pot","pos":["n"]}]},"sdata":[{"j":"|なべ↑物↑↓もの|↓にはほかにどんなものがありますか。","e":"What are some other nabemono?"},{"j":"|なべ↑物↑↓もの|↓とはどんなものですか。","e":"What are nabemono like?"},{"j":"この↑鍋物↑↓|なべもの|↓はえぐいよ。","e":"This stew tastes acrid."}]}

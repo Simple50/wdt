@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"贈り物","p":true},{"e":"贈りもの","p":true},{"e":"贈物","p":true}],"r_ele":[{"r":"おくりもの","p":true}],"sense":[{"gloss":"present, gift","pos":["n"]}]},"kdata":{"贈":{"on":["ゾウ","ソウ"],"kun":["おく.る"],"jlpt":2,"meanings":["presents","send","give to","award to","confer on","presenting something"],"freq":1001,"comp":[["曾","貝"]],"d":["囎"],"t":2243}},"sdata":[]}

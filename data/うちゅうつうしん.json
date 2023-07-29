@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宇宙通信","p":true}],"r_ele":[{"r":"うちゅうつうしん","p":true}],"sense":[{"gloss":"space communication","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"丸め込む","p":true},{"e":"丸めこむ","i":["sK"]}],"r_ele":[{"r":"まるめこむ","p":true}],"sense":[{"gloss":"to coax, to cajole, to wheedle, to win over, to seduce","pos":["v5m","vt"],"x":["丸める・2"]},{"gloss":"to roll up and put into (something), to bundle up","pos":["v5m","vt"]}]},"sdata":[]}

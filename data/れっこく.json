@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"列国","p":true}],"r_ele":[{"r":"れっこく","p":true}],"sense":[{"gloss":"nations, states","pos":["n"]}]},"sdata":[]}

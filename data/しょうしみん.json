@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小市民","p":true}],"r_ele":[{"r":"しょうしみん","p":true}],"sense":[{"gloss":"petty bourgeois, lower middle class","pos":["n"]}]},"sdata":[]}

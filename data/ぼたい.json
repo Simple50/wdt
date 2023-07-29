@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"母体","p":true}],"r_ele":[{"r":"ぼたい","p":true}],"sense":[{"gloss":"mother's body (esp. when pregnant or after giving birth)","pos":["n"]},{"gloss":"parent body, parent organization, base, basis, nucleus","pos":["n"]}]},"sdata":[{"j":"フランス↑語↑↓ご↓はラテン↑語↑↓ご↓を↑母体↑↓|ぼたい|↓として↑発達↑↓はったつ↓した。","e":"French developed from Latin."}]}

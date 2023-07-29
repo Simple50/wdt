@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り立てる","p":true},{"e":"取立てる"},{"e":"取りたてる"}],"r_ele":[{"r":"とりたてる","p":true}],"sense":[{"gloss":"to collect (debts), to dun, to exact, to extort","pos":["v1","vt"]},{"gloss":"to appoint, to promote, to give patronage","pos":["v1","vt"]},{"gloss":"to emphasize, to focus on, to call attention to","pos":["v1","vt"],"x":["取り立てて"]}]},"sdata":[]}

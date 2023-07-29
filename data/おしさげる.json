@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し下げる","p":true},{"e":"押下げる"}],"r_ele":[{"r":"おしさげる","p":true}],"sense":[{"gloss":"to push down, to press down, to force down, to depress","pos":["v1","vt"]}]},"sdata":[]}

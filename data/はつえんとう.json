@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発煙筒","p":true}],"r_ele":[{"r":"はつえんとう","p":true}],"sense":[{"gloss":"smoke bomb, smoke candle","pos":["n"]}]},"sdata":[]}

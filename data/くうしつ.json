@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空室","p":true}],"r_ele":[{"r":"くうしつ","p":true}],"sense":[{"gloss":"vacant room, vacancy, unoccupied room, empty room","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早出","p":true}],"r_ele":[{"r":"はやで","p":true},{"r":"そうしゅつ"}],"sense":[{"gloss":"leaving early (for work)","pos":["n","vs","vi"],"ant":["遅出・1"]},{"gloss":"(taking the) early shift","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑今日↑↓きょう↓の↑出勤↑↓しゅっきん↓は↑早出↑↓|はやで|↓なんだよ。","e":"I must go to work early today."}]}

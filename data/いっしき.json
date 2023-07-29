@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一式","p":true}],"r_ele":[{"r":"いっしき","p":true}],"sense":[{"gloss":"complete set, all, everything","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑紅茶↑↓こうちゃ↓↑道具↑↓どうぐ↓↑一式↑↓|いっしき|↓を↑買↑↓か↓った。","e":"She bought a tea set."},{"j":"↑用具↑↓ようぐ↓を↑一式↑↓|いっしき|↓↑貸↑↓か↓してください。","e":"Lend me a tool set please."}]}

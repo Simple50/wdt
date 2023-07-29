@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"義塾","p":true}],"r_ele":[{"r":"ぎじゅく","p":true}],"sense":[{"gloss":"private school","pos":["n"]}]},"sdata":[]}

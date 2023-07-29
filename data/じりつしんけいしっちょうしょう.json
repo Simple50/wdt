@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自律神経失調症","p":true}],"r_ele":[{"r":"じりつしんけいしっちょうしょう","p":true}],"sense":[{"gloss":"autonomic ataxia","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベレー","p":true}],"sense":[{"gloss":"beret","pos":["n"],"l":"fre: béret"}]},"sdata":[]}

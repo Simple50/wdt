@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一人称","p":true}],"r_ele":[{"r":"いちにんしょう","p":true}],"sense":[{"gloss":"first person","pos":["n"],"f":["gramm"]}]},"sdata":[{"j":"↑日本語↑↓にほんご↓の↑一人称↑↓|いちにんしょう|↓の↑多↑↓おお↓さに↑日本人↑↓にほんじん↓↑自身↑↓じしん↓も↑選択↑↓せんたく↓を↑戸惑↑↓とまど↓います。","e":"The many first person pronouns in the Japanese language causes even Japanese people some confusion."}]}

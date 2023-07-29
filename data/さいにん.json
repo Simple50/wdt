@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再任","p":true}],"r_ele":[{"r":"さいにん","p":true}],"sense":[{"gloss":"reappointment","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"その↑老人↑↓ろうじん↓は↑彼女↑↓かのじょ↓に↑小↑↓ちい↓|さい↑人形↑↓にん|ぎょう↓をあげました。","e":"The old man gave her a small doll."}]}

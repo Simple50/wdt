@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口頭弁論","p":true}],"r_ele":[{"r":"こうとうべんろん","p":true}],"sense":[{"gloss":"oral proceedings, oral pleadings","pos":["n"]}]},"sdata":[]}

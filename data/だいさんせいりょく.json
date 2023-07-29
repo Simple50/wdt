@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"第三勢力","p":true}],"r_ele":[{"r":"だいさんせいりょく","p":true}],"sense":[{"gloss":"a third force","pos":["n"]}]},"sdata":[]}

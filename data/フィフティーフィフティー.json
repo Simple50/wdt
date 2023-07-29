@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィフティーフィフティー","p":true}],"sense":[{"gloss":"fifty-fifty","pos":["n"]}]},"sdata":[]}

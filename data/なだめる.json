@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宥める","p":true}],"r_ele":[{"r":"なだめる","p":true}],"sense":[{"gloss":"to soothe, to calm, to pacify","pos":["v1","vt"]}],"m":["uk"]},"sdata":[{"j":"↑議会↑↓ぎかい↓を|なだめる|ための↑餌↑↓えさ↓ですよ。","e":"It's a sop to Congress."}]}

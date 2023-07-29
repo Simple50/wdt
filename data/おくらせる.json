@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遅らせる","p":true},{"e":"後らせる"}],"r_ele":[{"r":"おくらせる","p":true}],"sense":[{"gloss":"to delay, to postpone, to put off, to slow down, to hold up, to retard, to put back (a clock)","pos":["v1","vt"]}]},"sdata":[]}

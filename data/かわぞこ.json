@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"川底","p":true},{"e":"河底"}],"r_ele":[{"r":"かわぞこ","p":true},{"r":"かてい"}],"sense":[{"gloss":"riverbed","pos":["n"]}]},"sdata":[{"j":"それは↑川底↑↓|かわぞこ|↓で↑見↑↓み↓つかった。","e":"It was found at the bottom of the river."}]}

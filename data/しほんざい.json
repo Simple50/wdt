@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"資本財","p":true}],"r_ele":[{"r":"しほんざい","p":true}],"sense":[{"gloss":"capital goods","pos":["n"]}]},"sdata":[]}

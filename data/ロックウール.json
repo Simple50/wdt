@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロックウール","p":true},{"r":"ロック・ウール"}],"sense":[{"gloss":"rock wool, mineral wool","pos":["n"],"x":["岩綿・がんめん"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後ろ髪","p":true},{"e":"後髪","i":["io"]}],"r_ele":[{"r":"うしろがみ","p":true}],"sense":[{"gloss":"hair on the back of one's head","pos":["n"],"x":["後ろ髪を引かれる"]}]},"sdata":[]}

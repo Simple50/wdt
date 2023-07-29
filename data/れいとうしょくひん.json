@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冷凍食品","p":true}],"r_ele":[{"r":"れいとうしょくひん","p":true}],"sense":[{"gloss":"frozen food","pos":["n"]}]},"sdata":[{"j":"この↑冷凍↑↓|れいとう↓↑食品↑↓しょくひん|↓はどのくらい↑保存↑↓ほぞん↓できますか。","e":"How long can we keep this frozen food?"},{"j":"↑冷凍↑↓|れいとう↓↑食品↑↓しょくひん|↓をじょうずに↑利用↑↓りよう↓している↑主婦↑↓しゅふ↓が↑多↑↓おお↓い。","e":"Many housewives make good use of frozen food."}]}

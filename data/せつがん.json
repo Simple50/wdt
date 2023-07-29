@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"接岸","p":true}],"r_ele":[{"r":"せつがん","p":true}],"sense":[{"gloss":"coming alongside a pier, quay, etc., reaching land (of a boat)","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑世界中↑↓せかいじゅう↓の↑人々↑↓ひとびと↓が↑平和↑↓へいわ↓を↑切願↑↓|せつがん|↓している。","e":"People all over the world are anxious for peace."}]}

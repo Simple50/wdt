@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分別","p":true}],"r_ele":[{"r":"ぶんべつ","p":true}],"sense":[{"gloss":"separation (e.g. of rubbish when recycling), classification, discrimination, division, distinction","pos":["n","vs","vt"]}]},"sdata":[]}

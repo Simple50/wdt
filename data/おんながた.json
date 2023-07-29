@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"女形","p":true},{"e":"女方"}],"r_ele":[{"r":"おんながた","p":true,"i":["gikun"]},{"r":"おやま"}],"sense":[{"gloss":"onnagata, male actor in female kabuki roles","pos":["n"]},{"gloss":"female partner (in a relationship)","pos":["n"],"x":["男方・2"]}]},"sdata":[]}

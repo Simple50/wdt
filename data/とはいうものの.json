@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"とは言うものの","p":true}],"r_ele":[{"r":"とはいうものの","p":true}],"sense":[{"gloss":"having said that, be that as it may","pos":["exp"]}],"m":["uk"]},"sdata":[{"j":"↑流言飛語↑↓りゅうげんひご↓に↑惑↑↓まど↓わされるべからず、|とはいうものの|、↑言↑↓い↓うは↑易↑↓やす↓く↑行↑↓おこな↓うは↑難↑↓かた↓し、と↑思↑↓おも↓わない？","e":"They say you shouldn't take rumors seriously, but that's easier said than done."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駅頭","p":true}],"r_ele":[{"r":"えきとう","p":true}],"sense":[{"gloss":"station area, in front of a station, (at a) station","pos":["n"]}]},"sdata":[]}

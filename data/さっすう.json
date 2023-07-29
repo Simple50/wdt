@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冊数","p":true}],"r_ele":[{"r":"さっすう","p":true}],"sense":[{"gloss":"number of books","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑君↑↓きみ↓の３↑倍↑↓ばい↓の↑冊数↑↓|さっすう|↓の↑辞書↑↓じしょ↓を↑持↑↓も↓っています。","e":"She has three times as many dictionaries as you do."}]}

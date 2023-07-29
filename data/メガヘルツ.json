@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メガヘルツ","p":true}],"sense":[{"gloss":"megahertz, MHz","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旅行券","p":true}],"r_ele":[{"r":"りょこうけん","p":true}],"sense":[{"gloss":"travel voucher, travel coupon","pos":["n"]}]},"sdata":[]}

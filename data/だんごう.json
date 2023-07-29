@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"談合","p":true}],"r_ele":[{"r":"だんごう","p":true},{"r":"だんこう","i":["ok"]}],"sense":[{"gloss":"bid rigging, collusion (on contract bidding), (illegal) price-fixing agreement","pos":["n","vs","vi"]},{"gloss":"consultation, discussion, conference","pos":["n","vs","vi"],"m":["dated"]}]},"sdata":[]}

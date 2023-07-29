@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘザー","p":true}],"sense":[{"gloss":"heather (color, colour)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自由労働者","p":true}],"r_ele":[{"r":"じゆうろうどうしゃ","p":true}],"sense":[{"gloss":"casual laborer (labourer), day laborer (labourer)","pos":["n"]}]},"sdata":[]}

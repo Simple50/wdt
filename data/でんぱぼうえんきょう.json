@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電波望遠鏡","p":true}],"r_ele":[{"r":"でんぱぼうえんきょう","p":true}],"sense":[{"gloss":"radio telescope","pos":["n"]}]},"sdata":[]}

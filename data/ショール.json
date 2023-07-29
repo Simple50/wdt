@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ショール","p":true}],"sense":[{"gloss":"shawl","pos":["n"]}]},"sdata":[{"j":"↑我↑↓わ↓が↑社↑↓しゃ↓の|ショール|ームは↑若↑↓わか↓い↑女性↑↓じょせい↓に↑大人気↑↓おとなげ↓だった。","e":"Our showroom made a hit with young ladies."}]}

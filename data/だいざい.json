@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"題材","p":true}],"r_ele":[{"r":"だいざい","p":true}],"sense":[{"gloss":"subject, theme","pos":["n"]}]},"sdata":[{"j":"↑殺↑↓ころ↓し↑屋↑↓や↓というのはテレビ↑映画↑↓えいが↓では↑人気↑↓にんき↓のある↑題材↑↓|だいざい|↓だ。","e":"Hit men are a popular subject for TV movies."},{"j":"↑彼↑↓かれ↓は↑死↑↓し↓ぬ↑前↑↓まえ↓に↑大↑↓|だい↓↑財産↑↓ざい|さん↓を↑蓄↑↓たくわ↓えた。","e":"He amassed a large fortune before he died."}]}

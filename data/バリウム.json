@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バリウム","p":true}],"sense":[{"gloss":"barium (Ba)","pos":["n"]},{"gloss":"barium sulfate suspension","pos":["n"]}]},"sdata":[{"j":"|バリウム|をまず↑一↑↓いち↓↑口↑↓くち↓↑飲↑↓の↓んでください。","e":"First, swallow one dose of barium."}]}

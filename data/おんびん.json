@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"穏便","p":true}],"r_ele":[{"r":"おんびん","p":true}],"sense":[{"gloss":"gentle, peaceable, amicable, quiet","pos":["adj-na","n"]},{"gloss":"without fuss, simply","pos":["adj-na","n"]}]},"sdata":[]}

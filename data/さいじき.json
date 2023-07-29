@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歳時記","p":true}],"r_ele":[{"r":"さいじき","p":true}],"sense":[{"gloss":"almanac of seasonal words (for haiku poets)","pos":["n"]}]},"sdata":[]}

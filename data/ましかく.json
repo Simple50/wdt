@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"真四角","p":true},{"e":"ま四角"}],"r_ele":[{"r":"ましかく","p":true}],"sense":[{"gloss":"square","pos":["adj-no","adj-na","n"]}]},"sdata":[]}

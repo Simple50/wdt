@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分水嶺","p":true}],"r_ele":[{"r":"ぶんすいれい","p":true}],"sense":[{"gloss":"watershed, divide","pos":["n"]}]},"sdata":[]}

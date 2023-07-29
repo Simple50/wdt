@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"忌まわしい","p":true}],"r_ele":[{"r":"いまわしい","p":true}],"sense":[{"gloss":"unpleasant, disagreeable, abominable, disgusting, unsavory","pos":["adj-i"]},{"gloss":"unlucky, inauspicious, ominous","pos":["adj-i"]}]},"sdata":[{"j":"↑考↑↓かんが↓えるだけでも↑忌↑↓|い↓まわしい|。","e":"The very thought is abhorrent to me."}]}

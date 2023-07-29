@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヒロイズム","p":true}],"sense":[{"gloss":"heroism","pos":["n"]}]},"sdata":[]}

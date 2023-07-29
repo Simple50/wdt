@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"渾然","p":true},{"e":"混然"}],"r_ele":[{"r":"こんぜん","p":true}],"sense":[{"gloss":"whole, entire, harmonious, well-rounded","pos":["adj-t","adv-to"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑結婚↑↓けっ|こん↓↑前↑↓ぜん|↓スミス↑姓↑↓せい↓だった。","e":"She was a Smith before her marriage."},{"j":"↑彼女↑↓かのじょ↓は↑結婚↑↓けっ|こん↓↑前↑↓ぜん|↓スミス↑姓↑↓せい↓だった。","e":"She was a Smith before she got married."}]}

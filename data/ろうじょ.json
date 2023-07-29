@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老女","p":true}],"r_ele":[{"r":"ろうじょ","p":true}],"sense":[{"gloss":"elderly woman, senior lady-in-waiting","pos":["n"]}]},"sdata":[{"j":"あの↑老女↑↓|ろうじょ|↓は↑誰↑↓だれ↓ですか？","e":"Who is that old woman?"},{"j":"↑老女↑↓|ろうじょ|↓は↑御↑↓ご↓↑客↑↓きゃく↓をじろじろ↑見↑↓み↓た。","e":"The old woman studied the visitor carefully."}]}

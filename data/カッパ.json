@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合羽","i":["ateji"]}],"r_ele":[{"r":"カッパ","p":true},{"r":"かっぱ"}],"sense":[{"gloss":"raincoat","pos":["n"],"l":"por: capa"}],"m":["uk"]},"sdata":[{"j":"なんで|カッパ|↑着↑↓き↓てんの？ ↑雨↑↓あめ↓↑降↑↓ふ↓ってないじゃん。","e":"Why are you wearing a raincoat? It's not raining, is it?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恫喝","p":true},{"e":"どう喝"},{"e":"恫愒","i":["rK"]}],"r_ele":[{"r":"どうかつ","p":true}],"sense":[{"gloss":"intimidation, threat, bluster","pos":["n","vs","vt"]}]},"sdata":[]}

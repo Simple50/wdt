@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三曲","p":true}],"r_ele":[{"r":"さんきょく","p":true}],"sense":[{"gloss":"instrumental trio","pos":["n"]}]},"sdata":[{"j":"この↑地区↑↓ちく↓では↑三↑↓|さん↓↑局↑↓きょく|↓↑受信↑↓じゅしん↓できます。","e":"We can get three stations in this area."}]}

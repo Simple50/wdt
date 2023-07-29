@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"物証","p":true}],"r_ele":[{"r":"ぶっしょう","p":true}],"sense":[{"gloss":"physical evidence, real evidence, material evidence","pos":["n"],"x":["物的証拠"]}],"m":["abbr"]},"sdata":[]}

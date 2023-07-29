@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"川風","p":true},{"e":"河風"}],"r_ele":[{"r":"かわかぜ","p":true}],"sense":[{"gloss":"breeze off a river","pos":["n"]}]},"sdata":[]}

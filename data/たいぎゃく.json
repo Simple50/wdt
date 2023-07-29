@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大逆","p":true}],"r_ele":[{"r":"たいぎゃく","p":true},{"r":"だいぎゃく"}],"sense":[{"gloss":"high treason","pos":["n"]}]},"sdata":[]}

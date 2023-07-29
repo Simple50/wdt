@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミクロン","p":true}],"sense":[{"gloss":"micron","pos":["n"],"l":"fre"}]},"sdata":[]}

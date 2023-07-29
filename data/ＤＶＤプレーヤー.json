@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＤＶＤプレーヤー","p":true}],"r_ele":[{"r":"ディーブイディープレーヤー","p":true}],"sense":[{"gloss":"DVD player","pos":["n"]}]},"sdata":[]}

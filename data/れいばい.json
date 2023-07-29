@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冷媒","p":true}],"r_ele":[{"r":"れいばい","p":true}],"sense":[{"gloss":"refrigerant, coolant","pos":["n"]}]},"sdata":[]}

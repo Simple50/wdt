@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い余る","p":true},{"e":"思いあまる"}],"r_ele":[{"r":"おもいあまる","p":true}],"sense":[{"gloss":"to not know how to act or what to do, to be at a loss","pos":["v5r","vi"]}]},"sdata":[]}

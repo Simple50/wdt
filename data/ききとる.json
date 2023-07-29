@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聞き取る","p":true},{"e":"聴き取る"},{"e":"聞きとる"},{"e":"聞取る"},{"e":"聴取る"}],"r_ele":[{"r":"ききとる","p":true}],"sense":[{"gloss":"to catch (someone's words), to make out, to follow, to understand","pos":["v5r","vt"]},{"gloss":"to ask about (a situation, circumstances, etc.), to inquire","pos":["v5r","vt"]}]},"sdata":[]}

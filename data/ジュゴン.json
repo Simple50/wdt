@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"儒艮","i":["ateji","rK"]},{"e":"儒良","i":["ateji","iK"]}],"r_ele":[{"r":"じゅごん"},{"r":"ジュゴン","p":true}],"sense":[{"gloss":"dugong (Dugong dugon), sea pig","pos":["n"]}],"m":["uk"]},"sdata":[]}

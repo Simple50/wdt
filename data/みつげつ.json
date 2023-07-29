@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蜜月","p":true}],"r_ele":[{"r":"みつげつ","p":true}],"sense":[{"gloss":"honeymoon","pos":["n"],"x":["ハネムーン"]},{"gloss":"being in an intimate relationship, honeymoon (period)","pos":["n"]}]},"sdata":[]}

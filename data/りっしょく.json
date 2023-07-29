@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立食","p":true}],"r_ele":[{"r":"りっしょく","p":true}],"sense":[{"gloss":"stand-up meal, buffet","pos":["n"]}]},"sdata":[{"j":"↑人数↑↓にんずう↓が↑多↑↓おお↓いですから、↑今日↑↓きょう↓は↑立食↑↓|りっしょく|↓↑形式↑↓けいしき↓にしたんです。","e":"There are a lot of people so today we've gone for buffet style."}]}

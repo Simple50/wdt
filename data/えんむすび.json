@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縁結び","p":true},{"e":"縁むすび"}],"r_ele":[{"r":"えんむすび","p":true}],"sense":[{"gloss":"marriage, marriage tie, love knot","pos":["n"]}]},"sdata":[]}

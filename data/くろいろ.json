@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒色","p":true}],"r_ele":[{"r":"くろいろ","p":true},{"r":"こくしょく"}],"sense":[{"gloss":"black (colour, color)","pos":["n","adj-no"]}]},"sdata":[]}

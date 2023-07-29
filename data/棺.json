@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"棺","p":true},{"e":"柩"}],"r_ele":[{"r":"かん","p":true},{"r":"ひつぎ"},{"r":"きゅう"}],"sense":[{"gloss":"coffin, casket","pos":["n"]}]},"kdata":{"棺":{"on":["カン"],"jlpt":1,"meanings":["coffin","casket"],"freq":2161,"comp":[["木","官"]],"t":1535}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モーターショー","p":true},{"r":"モーター・ショー"}],"sense":[{"gloss":"motor show","pos":["n"]}]},"sdata":[{"j":"どのようにして|モーターショー|の↑入場↑↓にゅうじょう↓↑券↑↓けん↓を↑無料↑↓むりょう↓で↑手↑↓て↓に↑入↑↓い↓れたのですか。","e":"How did you come by an admission ticket for the auto show free of charge?"}]}

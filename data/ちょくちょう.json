@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直腸","p":true}],"r_ele":[{"r":"ちょくちょう","p":true}],"sense":[{"gloss":"rectum","pos":["n"],"f":["anat"]}]},"sdata":[]}

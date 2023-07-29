@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"有機的","p":true}],"r_ele":[{"r":"ゆうきてき","p":true}],"sense":[{"gloss":"organic","pos":["adj-na"]},{"gloss":"coordinated, working in a coordinated fashion","pos":["adj-na"]}]},"sdata":[]}

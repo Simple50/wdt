@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"作付け","p":true},{"e":"作付"}],"r_ele":[{"r":"さくづけ","p":true},{"r":"さくつけ"}],"sense":[{"gloss":"planting","pos":["n","vs","vt"]}]},"sdata":[{"j":"その↑土地↑↓とち↓は↑今年↑↓ことし↓は↑作付↑↓|さくづ↓け|していない。","e":"The land is out of crop this year."}]}

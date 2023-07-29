@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カラード","p":true}],"sense":[{"gloss":"colored (person), coloured","pos":["n"]},{"gloss":"Coloureds (South African ethnic group)","pos":["n"]}]},"sdata":[]}

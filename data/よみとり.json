@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"読み取り","p":true},{"e":"読取り"},{"e":"読取","i":["io"]},{"e":"読み取","i":["io"]}],"r_ele":[{"r":"よみとり","p":true}],"sense":[{"gloss":"reading (e.g. by a scanner)","pos":["n","vs"]}]},"sdata":[]}

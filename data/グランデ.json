@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グランデ","p":true}],"sense":[{"gloss":"grand","pos":["n"],"l":"ita: grande"}]},"sdata":[]}

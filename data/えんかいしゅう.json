@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"沿海州","p":true}],"r_ele":[{"r":"えんかいしゅう","p":true}],"sense":[{"gloss":"(Russian) maritime provinces","pos":["n"]}]},"sdata":[]}

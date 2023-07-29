@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軒先","p":true}],"r_ele":[{"r":"のきさき","p":true}],"sense":[{"gloss":"edge of the eaves, house frontage","pos":["n"]}]},"sdata":[{"j":"↑家々↑↓いえいえ↓の↑軒先↑↓|のきさき|↓には↑旗↑↓はた↓が↑掲↑↓かか↓げられていた。","e":"The fronts of the houses were hung with flags."},{"j":"↑家々↑↓いえいえ↓の↑軒先↑↓|のきさき|↓には↑旗↑↓はた↓が↑掲↑↓かか↓げられていた。","e":"Flags had been hoisted on the eaves of houses."}]}

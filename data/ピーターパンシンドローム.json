@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピーターパンシンドローム","p":true},{"r":"ピーター・パン・シンドローム"}],"sense":[{"gloss":"Peter Pan syndrome","pos":["n"]}]},"sdata":[]}

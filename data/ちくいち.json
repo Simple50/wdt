@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逐一","p":true}],"r_ele":[{"r":"ちくいち","p":true},{"r":"ちくいつ"}],"sense":[{"gloss":"one by one, in detail, minutely","pos":["adv"]}]},"sdata":[{"j":"その↑事件↑↓じけん↓の↑進展↑↓しんてん↓について↑逐一↑↓|ちくいち|↓↑知↑↓し↓らせてください。","e":"Please keep me informed of the development of the case."}]}

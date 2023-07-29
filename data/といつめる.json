@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"問い詰める","p":true},{"e":"問いつめる"}],"r_ele":[{"r":"といつめる","p":true}],"sense":[{"gloss":"to press a question, to cross-examine","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"親分","p":true}],"r_ele":[{"r":"おやぶん","p":true}],"sense":[{"gloss":"boss, leader, kingpin, chief, head (e.g. of a crime syndicate)","pos":["n"]}]},"sdata":[{"j":"そのヤクザ↑達↑↓たち↓は↑対立↑↓たいりつ↓するヤクザの↑親分↑↓|おやぶん|↓を↑暗殺↑↓あんさつ↓する↑計画↑↓けいかく↓の↑仲間↑↓なかま↓に↑彼↑↓かれ↓を↑入↑↓い↓れた。","e":"The gangsters let him in on their plan to knock off a rival gang leader."}]}

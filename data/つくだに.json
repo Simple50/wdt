@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"佃煮","p":true}],"r_ele":[{"r":"つくだに","p":true}],"sense":[{"gloss":"preserved food boiled in soy","pos":["n"]}]},"sdata":[]}

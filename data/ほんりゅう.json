@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本流","p":true}],"r_ele":[{"r":"ほんりゅう","p":true}],"sense":[{"gloss":"main course (of a river)","pos":["n"]},{"gloss":"mainstream, main current (e.g. of thought)","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主筆","p":true}],"r_ele":[{"r":"しゅひつ","p":true}],"sense":[{"gloss":"editor-in-chief","pos":["n"]}]},"sdata":[{"j":"その↑新聞↑↓しんぶん↓は↑新↑↓あたら↓しい↑主筆↑↓|しゅひつ|↓のプロフィールを↑載↑↓の↓せた。","e":"The paper published a profile of its new editor."}]}

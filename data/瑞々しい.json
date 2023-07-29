@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瑞々しい","p":true},{"e":"瑞瑞しい"},{"e":"水々しい"},{"e":"水水しい"}],"r_ele":[{"r":"みずみずしい","p":true}],"sense":[{"gloss":"fresh and youthful, lively, vibrant, vivacious, juicy (e.g. fruit)","pos":["adj-i"]}],"m":["uk"]},"kdata":{"瑞":{"on":["ズイ","スイ"],"kun":["みず-","しるし"],"meanings":["congratulations"],"freq":1873,"comp":[["耑","王"]],"jlpt":0,"t":1851}},"sdata":[]}

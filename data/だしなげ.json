@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出し投げ","p":true}],"r_ele":[{"r":"だしなげ","p":true}],"sense":[{"gloss":"winning techniques where the opponent is thrown without close bodily contact","pos":["n"],"f":["sumo"]}]},"sdata":[]}

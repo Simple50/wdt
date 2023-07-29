@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アウトバーン","p":true}],"sense":[{"gloss":"autobahn (highway in Germany, Austria and Switzerland)","pos":["n"],"l":"ger: Autobahn"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"封印","p":true}],"r_ele":[{"r":"ふういん","p":true}],"sense":[{"gloss":"seal","pos":["n"]},{"gloss":"to seal (e.g. a letter), to affix a seal, to seal up","pos":["vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"武者修行","p":true}],"r_ele":[{"r":"むしゃしゅぎょう","p":true}],"sense":[{"gloss":"traveling about to gain skill in combat (travelling)","pos":["n","vs"]}],"m":["yoji"]},"sdata":[]}

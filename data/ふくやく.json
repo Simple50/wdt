@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"服薬","p":true}],"r_ele":[{"r":"ふくやく","p":true}],"sense":[{"gloss":"taking medicine","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑愛↑↓あい↓の↑原則↑↓げんそく↓においては、↑早々↑↓そうそう↓と↑失望↑↓しつぼう↓することが、↑通常↑↓つうじょう↓、↑回復↑↓かい|ふく↓↑薬↑↓やく|↓として↑描↑↓えが↓かれる。","e":"In the principles of love, quick disappointments are usually described as remedies."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"定まる","p":true}],"r_ele":[{"r":"さだまる","p":true}],"sense":[{"gloss":"to become settled, to be fixed","pos":["v5r","vi"]}]},"sdata":[{"j":"↑金利↑↓きんり↓は、↑債務↑↓さいむ↓↑者↑↓しゃ↓が↑負担↑↓ふたん↓する↑事業↑↓じぎょう↓リスクに↑応↑↓おう↓じて↑定↑↓|さだ↓まる|ものと↑存↑↓ぞん↓じます。","e":"I know that interest rates are fixed in accordance to the borrower's business risk."}]}

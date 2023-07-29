@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘッダー","p":true},{"r":"ヘッダ"}],"sense":[{"gloss":"header (on a document, email, etc.)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"副葬品","p":true}],"r_ele":[{"r":"ふくそうひん","p":true}],"sense":[{"gloss":"grave goods, burial accessories","pos":["n"]}]},"sdata":[]}

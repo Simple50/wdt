@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"買い占め","p":true},{"e":"買占め"}],"r_ele":[{"r":"かいしめ","p":true}],"sense":[{"gloss":"buying up of goods, cornering (market)","pos":["n"]}]},"sdata":[{"j":"↑大↑↓だい↓↑投資↑↓とうし↓かは↑株↑↓かぶ↓を↑買↑↓|か↓い↑占↑↓し↓め|た。","e":"The big investor bought up the stocks."}]}

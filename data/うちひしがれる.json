@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ちひしがれる","p":true},{"e":"打ち拉がれる"}],"r_ele":[{"r":"うちひしがれる","p":true}],"sense":[{"gloss":"to be stricken (e.g. with grief), to be battered (e.g. by disasters)","pos":["v1"]}]},"sdata":[{"j":"メアリーは↑悲↑↓かな↓しみに↑打↑↓|う↓ちひしがれる|とトムは↑思↑↓おも↓っている。","e":"Tom thinks Mary will be heartbroken."}]}

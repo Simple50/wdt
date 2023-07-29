@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"洋風","p":true}],"r_ele":[{"r":"ようふう","p":true}],"sense":[{"gloss":"Western style","pos":["n","adj-no","adj-na"],"x":["和風・1"]}]},"sdata":[{"j":"↑返信↑↓へんしん↓が↑必要↑↓ひつよう↓な↑場合↑↓ばあい↓は、↑返信↑↓へんしん↓↑用↑↓|よう↓↑封筒↑↓ふう|とう↓に↑切手↑↓きって↓を↑貼↑↓は↓って↑同封↑↓どうふう↓してください。","e":"Include a stamped addressed envelope if you want a response."}]}

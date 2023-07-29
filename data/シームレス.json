@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シームレス","p":true}],"sense":[{"gloss":"seamless","pos":["adj-no","n"]},{"gloss":"seamless stockings","pos":["n"],"m":["abbr"],"x":["シームレスストッキング"]}]},"sdata":[]}

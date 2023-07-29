@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コラール","p":true}],"sense":[{"gloss":"choral","pos":["n"],"l":"ger"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見損なう","p":true},{"e":"見そこなう"},{"e":"見損う"}],"r_ele":[{"r":"みそこなう","p":true}],"sense":[{"gloss":"to misjudge, to mistake, to misread","pos":["v5u","vt"]},{"gloss":"to misjudge (someone), to overestimate","pos":["v5u","vt"]},{"gloss":"to miss seeing, to overlook, to fail to notice","pos":["v5u","vt"]}]},"sdata":[]}

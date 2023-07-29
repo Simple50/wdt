@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"願わくは","p":true},{"e":"希わくは"}],"r_ele":[{"r":"ねがわくは","p":true}],"sense":[{"gloss":"I pray, I wish","pos":["adv"]}]},"kdata":{"願":{"on":["ガン"],"kun":["ねが.う","-ねがい"],"jlpt":3,"meanings":["page","petition","request","vow","wish","hope"],"freq":894,"comp":[["頁","原"]],"t":2277}},"sdata":[]}

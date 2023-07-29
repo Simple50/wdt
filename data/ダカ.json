@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダカ","p":true}],"sense":[{"gloss":"daka-, 10^1, da","pos":["n"]}]},"sdata":[{"j":"↑卵↑↓たまご↓から↑孵化↑↓ふか↓したてのメ|ダカ|にはどのようなえさをあげればよろしいでしょうか？","e":"What should you feed killifish that have just hatched from their eggs?"},{"j":"トムんちに↑行↑↓い↓ったら、メ|ダカ|がいっぱいいたよ。","e":"When I visited Tom's house, I found he owned a lot of rice fish."}]}

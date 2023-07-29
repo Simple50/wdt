@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"閉塞","p":true},{"e":"閉そく"}],"r_ele":[{"r":"へいそく","p":true}],"sense":[{"gloss":"blockage, blockade, blocking up, stoppage, obstruction, occlusion","pos":["n","vs","vt","vi"]}]},"sdata":[]}

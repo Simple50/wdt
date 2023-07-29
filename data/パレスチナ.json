@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パレスチナ","p":true},{"r":"パレスティナ"}],"sense":[{"gloss":"Palestine","pos":["n"],"l":"lat: Palestina"}]},"sdata":[]}

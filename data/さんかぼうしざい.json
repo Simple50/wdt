@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酸化防止剤","p":true}],"r_ele":[{"r":"さんかぼうしざい","p":true}],"sense":[{"gloss":"antioxidant","pos":["n"]}]},"sdata":[]}

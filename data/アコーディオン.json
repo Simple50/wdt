@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アコーディオン","p":true},{"r":"アコーデオン"},{"r":"アコーディアン"}],"sense":[{"gloss":"accordion","pos":["n"]}]},"sdata":[{"j":"↑店↑↓みせ↓の↑外↑↓そと↓では↑白髪↑↓しらが↓の↑男性↑↓だんせい↓が|アコーディオン|を↑弾↑↓ひ↓いていました。","e":"A white-haired man was playing an accordion outside the shop."},{"j":"トムがね、メアリーに|アコーディオン|が↑弾↑↓ひ↓けるかって↑聞↑↓き↓いてたよ。","e":"Tom asked Mary if she could play the accordion."}]}

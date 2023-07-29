@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キーマン","p":true}],"sense":[{"gloss":"keyman, key person (e.g. of a company)","pos":["n"]}]},"sdata":[]}

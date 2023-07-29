@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腰掛ける","p":true},{"e":"腰かける"},{"e":"腰掛る","i":["io"]}],"r_ele":[{"r":"こしかける","p":true}],"sense":[{"gloss":"to sit (down)","pos":["v1","vi"]}]},"sdata":[{"j":"↑盛大↑↓せいだい↓な↑溜息↑↓ためいき↓をつきながら、テーブルの↑上↑↓じょう↓にどさどさとパンを↑置↑↓お↓き、↑椅子↑↓いす↓にどっかりと↑腰掛↑↓|こしか↓ける|。","e":"Heaving a great sigh I plunk my bread on the table and flump onto the chair."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"救急医療","p":true}],"r_ele":[{"r":"きゅうきゅういりょう","p":true}],"sense":[{"gloss":"emergency medicine","pos":["n"]}]},"sdata":[{"j":"↑事故↑↓じこ↓があるとすぐに↑救急↑↓|きゅうきゅう↓↑医療↑↓いりょう|↓↑隊↑↓たい↓が↑到着↑↓とうちゃく↓する。","e":"Medical help arrives promptly after an accident."}]}

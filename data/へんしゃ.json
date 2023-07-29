@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"編者","p":true}],"r_ele":[{"r":"へんしゃ","p":true},{"r":"へんじゃ"}],"sense":[{"gloss":"editor, compiler","pos":["n"]}],"m":["abbr"]},"sdata":[{"j":"ジョンソン↑一家↑↓かずや↓は↑大変↑↓たい|へん↓↑社交↑↓しゃ|こう↓↑的↑↓てき↓で、↑頻繁↑↓ひんぱん↓にパーティーを↑開↑↓ひら↓くのが↑大好↑↓だいす↓きだ。","e":"The Johnsons are very sociable people, who enjoy hosting parties often."}]}

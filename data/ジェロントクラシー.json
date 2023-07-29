@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジェロントクラシー","p":true}],"sense":[{"gloss":"gerontocracy","pos":["n"]}]},"sdata":[]}

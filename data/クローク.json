@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クローク","p":true}],"sense":[{"gloss":"cloakroom, checkroom","pos":["n"],"x":["クロークルーム"]}],"m":["abbr"]},"sdata":[{"j":"↑私↑↓わたし↓は↑鞄↑↓かばん↓と↑傘↑↓かさ↓を|クローク|に↑預↑↓あづ↓けた。","e":"I checked my briefcase and umbrella in the cloakroom."}]}

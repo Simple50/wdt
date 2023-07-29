@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"争点","p":true}],"r_ele":[{"r":"そうてん","p":true}],"sense":[{"gloss":"point at issue","pos":["n"]}]},"sdata":[{"j":"このミステリーのトリックは、↑奇想天外↑↓き|そうてん|がい↓だ。","e":"This mystery has a plot twist that's completely novel."},{"j":"↑私↑↓わたし↓たちはその↑討論↑↓とうろん↓を↑争点↑↓|そうてん|↓となっている↑問題↑↓もんだい↓に↑限定↑↓げんてい↓すべきだ。","e":"We should confine the discussion to the question at issue."}]}

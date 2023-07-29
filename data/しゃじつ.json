@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"写実","p":true}],"r_ele":[{"r":"しゃじつ","p":true}],"sense":[{"gloss":"realism, depicting realistically, representing accurately","pos":["n","vs","vt"]}]},"sdata":[]}

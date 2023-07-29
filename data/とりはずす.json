@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り外す","p":true},{"e":"取外す"},{"e":"取りはずす"}],"r_ele":[{"r":"とりはずす","p":true}],"sense":[{"gloss":"to dismantle, to demount, to take something away, to detach","pos":["v5s","vt"]}]},"sdata":[{"j":"あなたはNNCを↑取↑↓|と↓り↑外↑↓はず↓す|ことができます。","e":"You can remove the NNC."}]}

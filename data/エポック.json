@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エポック","p":true}],"sense":[{"gloss":"epoch","pos":["n"]}]},"sdata":[]}

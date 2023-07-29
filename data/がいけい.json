@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外形","p":true}],"r_ele":[{"r":"がいけい","p":true}],"sense":[{"gloss":"externals, external form","pos":["n"]}]},"sdata":[{"j":"↑若者↑↓わかもの↓は↑自分↑↓じぶん↓の↑苦↑↓に|が↓い↑経験↑↓けい|けん↓から↑学↑↓まな↓ばねばならない。","e":"Young people must profit from their bitter experiences."},{"j":"↑彼↑↓かれ↓は↑苦↑↓に|が↓い↑経験↑↓けい|けん↓を↑味↑↓あじ↓わった。","e":"He had a bitter experience."}]}

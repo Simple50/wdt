@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"廃物","p":true}],"r_ele":[{"r":"はいぶつ","p":true}],"sense":[{"gloss":"scrap, junk, waste material","pos":["n","adj-no"]}]},"sdata":[{"j":"これはプロジェクトの↑廃物↑↓|はいぶつ|↓↑撤去↑↓てっきょ↓↑輸送↑↓ゆそう↓↑支払↑↓しはら↓いです。","e":"This is the payment for the project's waste removal transport cost."}]}

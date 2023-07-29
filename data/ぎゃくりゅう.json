@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逆流","p":true}],"r_ele":[{"r":"ぎゃくりゅう","p":true}],"sense":[{"gloss":"counter-current, adverse tide, regurgitation (of blood)","pos":["n","vs","vi","adj-no"]}]},"sdata":[]}

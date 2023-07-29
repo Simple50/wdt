@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引け値","p":true}],"r_ele":[{"r":"ひけね","p":true}],"sense":[{"gloss":"closing quotations","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"輪廻","p":true},{"e":"輪回","i":["sK"]}],"r_ele":[{"r":"りんね","p":true}],"sense":[{"gloss":"samsara (cycle of death and rebirth)","pos":["n"],"f":["Buddh"]},{"gloss":"being reborn, reincarnation","pos":["n","vs","vi"],"f":["Buddh"]}]},"sdata":[]}

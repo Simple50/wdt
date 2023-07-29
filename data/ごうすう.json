@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"号数","p":true}],"r_ele":[{"r":"ごうすう","p":true}],"sense":[{"gloss":"number or size of periodicals or pictures, type size","pos":["n"]}]},"sdata":[]}

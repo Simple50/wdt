@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アフィリエイト","p":true},{"r":"アフィリエート"},{"r":"アフェリエイト","i":["ik"]},{"r":"アフェリエート","i":["ik"]}],"sense":[{"gloss":"affiliate, affiliation","pos":["n"]}]},"sdata":[]}

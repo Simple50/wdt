@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仕手株","p":true}],"r_ele":[{"r":"してかぶ","p":true}],"sense":[{"gloss":"speculative stock","pos":["n"]}]},"sdata":[]}

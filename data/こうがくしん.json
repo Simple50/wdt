@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"向学心","p":true}],"r_ele":[{"r":"こうがくしん","p":true}],"sense":[{"gloss":"love of learning, desire for learning, passion for knowledge","pos":["n"]}]},"sdata":[]}

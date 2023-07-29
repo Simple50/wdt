@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メソジスト","p":true}],"sense":[{"gloss":"Methodist","pos":["n"]}]},"sdata":[]}

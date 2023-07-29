@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出そろう","p":true},{"e":"出揃う"}],"r_ele":[{"r":"でそろう","p":true}],"sense":[{"gloss":"to appear all together, to be all present","pos":["v5u","vi"]}]},"sdata":[{"j":"↑入札↑↓にゅうさつ↓が↑全部↑↓ぜんぶ↓↑出↑↓|で↓そろう|まで、↑決定↑↓けってい↓を↑保留↑↓ほりゅう↓してはどうでしょう。","e":"I suggest that we hold off on making a decision until all bids are in."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"既製服","p":true}],"r_ele":[{"r":"きせいふく","p":true}],"sense":[{"gloss":"ready-made clothes","pos":["n"],"x":["注文服"]}]},"sdata":[]}

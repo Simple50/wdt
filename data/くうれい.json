@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空冷","p":true}],"r_ele":[{"r":"くうれい","p":true}],"sense":[{"gloss":"air cooling","pos":["n","adj-no"]}]},"sdata":[{"j":"そうです、↑異常↑↓いじょう↓↑音↑↓おん↓は↑空冷↑↓|くうれい|↓ファンの↑最後↑↓さいご↓の↑断末魔↑↓だんまつま↓だったのです。","e":"That's right, that strange sound was the final death scream of the cooling fan."}]}

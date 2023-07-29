@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"裏返す","p":true}],"r_ele":[{"r":"うらがえす","p":true}],"sense":[{"gloss":"to turn inside out, to turn the other way, to turn (something) over","pos":["v5s","vt"]}]},"sdata":[]}

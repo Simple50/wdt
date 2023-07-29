@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アメーバ","p":true},{"r":"アメーバー"},{"r":"アメバ"},{"r":"アミーバ"}],"sense":[{"gloss":"amoeba","pos":["n","adj-no"]}]},"sdata":[]}

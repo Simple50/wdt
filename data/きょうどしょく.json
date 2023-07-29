@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"郷土色","p":true}],"r_ele":[{"r":"きょうどしょく","p":true}],"sense":[{"gloss":"local color, local colour","pos":["n"]}]},"sdata":[]}

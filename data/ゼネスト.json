@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゼネスト","p":true}],"sense":[{"gloss":"general strike","pos":["n"],"x":["ゼネラルストライキ"]}],"m":["abbr"]},"sdata":[{"j":"|ゼネスト|で↑国↑↓くに↓↑中↑↓ちゅう↓の↑機能↑↓きのう↓が↑麻痺↑↓まひ↓した。","e":"The general strike paralyzed the whole country."}]}

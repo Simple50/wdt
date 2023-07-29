@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"為替管理","p":true}],"r_ele":[{"r":"かわせかんり","p":true}],"sense":[{"gloss":"exchange control","pos":["n"]}]},"sdata":[]}

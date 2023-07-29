@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"裏面","p":true},{"e":"裡面"}],"r_ele":[{"r":"うらめん","p":true},{"r":"りめん"}],"sense":[{"gloss":"back (side), reverse, other side","pos":["n"]},{"gloss":"inside, background, dark side (e.g. of society), behind the scenes, beneath the surface","pos":["n"]}]},"sdata":[]}

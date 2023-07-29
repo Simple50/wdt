@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漁具","p":true}],"r_ele":[{"r":"ぎょぐ","p":true}],"sense":[{"gloss":"fishing tackle, fishing gear","pos":["n"]}]},"sdata":[]}

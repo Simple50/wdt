@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"純愛","p":true}],"r_ele":[{"r":"じゅんあい","p":true}],"sense":[{"gloss":"pure love","pos":["n"]}]},"sdata":[{"j":"↑彼氏↑↓かれし↓じゃないわ、↑利益↑↓りえき↓をともなう↑純愛↑↓|じゅんあい|↓よ！","e":"He's not my boyfriend, it's just platonic love with benefits!"}]}

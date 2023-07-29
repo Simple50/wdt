@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダイジェスト","p":true}],"sense":[{"gloss":"digest","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は「↑戦争↑↓せんそう↓と↑平和↑↓へいわ↓」の|ダイジェスト|を↑読↑↓よ↓んだ。","e":"She read the digest of War and Peace."},{"j":"|ダイジェスト|じゃあるまいし、↑説明↑↓せつめい↓とばしすぎでしょ？","e":"It's not like it's supposed to be a summary; aren't you leaving out too many explanatory details?"}]}

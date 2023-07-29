@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早乙女","p":true},{"e":"早少女"}],"r_ele":[{"r":"さおとめ","p":true}],"sense":[{"gloss":"young female rice planter, young girl","pos":["n"]}]},"sdata":[]}

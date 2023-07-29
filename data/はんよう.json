@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"汎用","p":true}],"r_ele":[{"r":"はんよう","p":true}],"sense":[{"gloss":"generic, general purpose, all-purpose","pos":["n","vs","vt","adj-no"]}]},"sdata":[]}

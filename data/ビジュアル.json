@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビジュアル","p":true},{"r":"ヴィジュアル"}],"sense":[{"gloss":"visual","pos":["adj-na"]}]},"sdata":[]}

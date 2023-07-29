@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"皇民党","p":true}],"r_ele":[{"r":"こうみんとう","p":true}],"sense":[{"gloss":"Imperialist Party","pos":["n"]}]},"sdata":[]}

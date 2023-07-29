@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刷る","p":true},{"e":"摺る"}],"r_ele":[{"r":"する","p":true}],"sense":[{"gloss":"to print","pos":["v5r","vt"]},{"gloss":"to color or pattern fabric using a wooden mold","pos":["v5r","vt"]}]},"kdata":{"刷":{"on":["サツ"],"kun":["す.る","-ず.り","-ずり","は.く"],"jlpt":2,"meanings":["print","printing","brush"],"freq":1352,"comp":[["𡰯","刂"]],"d":["涮"],"t":609}},"sdata":[]}

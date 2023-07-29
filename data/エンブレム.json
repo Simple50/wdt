@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンブレム","p":true},{"r":"エムブレム"}],"sense":[{"gloss":"emblem","pos":["n"]}]},"sdata":[]}

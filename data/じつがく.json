@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実学","p":true}],"r_ele":[{"r":"じつがく","p":true}],"sense":[{"gloss":"practical science","pos":["n"]}]},"sdata":[]}

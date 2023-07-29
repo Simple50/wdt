@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エコノミスト","p":true}],"sense":[{"gloss":"economist","pos":["n"]}]},"sdata":[]}

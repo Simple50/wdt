@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中華鍋","p":true}],"r_ele":[{"r":"ちゅうかなべ","p":true}],"sense":[{"gloss":"wok, Chinese frying pan","pos":["n"]}]},"sdata":[{"j":"４．↑中華↑↓|ちゅうか↓↑鍋↑↓なべ|↓にごま↑油↑↓あぶら↓を↑熱↑↓ねっ↓してバターを↑溶↑↓と↓かす。","e":"4. Heat the sesame oil in the wok and melt the butter."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"艦艇","p":true}],"r_ele":[{"r":"かんてい","p":true}],"sense":[{"gloss":"naval vessels, warships","pos":["n"]}]},"kdata":{"艦":{"on":["カン"],"jlpt":1,"meanings":["warship"],"freq":1363,"comp":[["舟","監"]],"t":2297},"艇":{"on":["テイ"],"jlpt":1,"meanings":["rowboat","small boat"],"freq":1433,"comp":[["廷","舟"]],"t":1772}},"sdata":[]}

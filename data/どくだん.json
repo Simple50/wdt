@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独断","p":true}],"r_ele":[{"r":"どくだん","p":true}],"sense":[{"gloss":"one's own judgement (judgment), decision made without consulting others, arbitrary decision","pos":["n","vs","adj-no"]},{"gloss":"dogmatism","pos":["n"]}]},"sdata":[]}

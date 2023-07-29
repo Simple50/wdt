@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ルーブル","p":true},{"r":"ルーヴル"}],"sense":[{"gloss":"Louvre (Museum)","pos":["n"]}]},"sdata":[{"j":"↑数↑↓すう↓↑日↑↓にち↓↑前↑↓まえ↓までは、そば↑粉↑↓こ↓は18|ルーブル|だったのに、↑今↑↓いま↓じゃぁ21|ルーブル|もするんだ。","e":"A few days ago, buckwheat cost 18 rubles, but now it costs 21."}]}

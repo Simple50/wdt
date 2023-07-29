@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マドラス","p":true}],"sense":[{"gloss":"Madras","pos":["n"]}]},"sdata":[]}

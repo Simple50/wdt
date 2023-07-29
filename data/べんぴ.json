@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"便秘","p":true}],"r_ele":[{"r":"べんぴ","p":true}],"sense":[{"gloss":"constipation","pos":["n","vs","vi"]}]},"sdata":[{"j":"３↑日間↑↓にちかん↓↑便秘↑↓|べんぴ|↓しています。","e":"I have been constipated for three days."},{"j":"↑便秘↑↓|べんぴ|↓をしています。","e":"I am constipated."},{"j":"↑慢性↑↓まんせい↓↑的↑↓てき↓な↑便秘↑↓|べんぴ|↓で↑苦↑↓くる↓しんでいます。","e":"I'm suffering from chronic constipation."}]}

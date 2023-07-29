@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハーキュリーズ","p":true},{"r":"ヘラクレス"},{"r":"ヘーラクレース"},{"r":"ヘルクレス"}],"sense":[{"gloss":"Hercules, Herakles","pos":["n"]},{"gloss":"Hercules beetle (Dynastes hercules)","pos":["n"],"m":["abbr"],"x":["ヘラクレス大兜"]}]},"sdata":[]}

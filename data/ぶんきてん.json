@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分岐点","p":true}],"r_ele":[{"r":"ぶんきてん","p":true}],"sense":[{"gloss":"junction, crossroads, division point, parting of ways","pos":["n"]}]},"sdata":[{"j":"↑後↑↓あと↓↑数↑↓すう↓↑秒↑↓びょう↓で↑私↑↓わたし↓は↑絶望↑↓ぜつぼう↓の↑分岐↑↓|ぶんき↓↑点↑↓てん|↓を↑越↑↓こ↓えるのだ。","e":"In a few seconds I would have overcome the desperation threshold."}]}

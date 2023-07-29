@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄分","p":true}],"r_ele":[{"r":"てつぶん","p":true}],"sense":[{"gloss":"iron (content)","pos":["n"]}]},"sdata":[{"j":"グリーンピースは↑鉄分↑↓|てつぶん|↓が↑豊富↑↓ほうふ↓で↑爪↑↓つめ↓の↑色↑↓いろ↓がよくなる↑成分↑↓せいぶん↓が↑含↑↓ふく↓まれている。","e":"Green peas are high in iron and contain nutrients that improve the colour of fingernails."}]}

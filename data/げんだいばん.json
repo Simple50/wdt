@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"現代版","p":true}],"r_ele":[{"r":"げんだいばん","p":true}],"sense":[{"gloss":"modern version, modern edition, updated, contemporary edition","pos":["n"]}]},"sdata":[]}

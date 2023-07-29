@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホイール","p":true},{"r":"ホイル"}],"sense":[{"gloss":"wheel (esp. of vehicle)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑車↑↓くるま↓には|ホイール|がありません。","e":"His car has no wheels."},{"j":"ちなみに|ホイール|マウスの|ホイール|にも↑対応↑↓たいおう↓しているんだ。","e":"By the way, it also works with the wheel of a wheel mouse."}]}

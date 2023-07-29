@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無線ＬＡＮ","p":true},{"e":"無線ラン"}],"r_ele":[{"r":"むせんラン","p":true}],"sense":[{"gloss":"wireless local area network, wireless LAN, WLAN","pos":["n"],"f":["comp"]}]},"sdata":[]}

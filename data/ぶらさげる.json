@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ぶら下げる","p":true}],"r_ele":[{"r":"ぶらさげる","p":true}],"sense":[{"gloss":"to hang, to suspend, to dangle, to swing, to carry","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"復水器","p":true}],"r_ele":[{"r":"ふくすいき","p":true}],"sense":[{"gloss":"condenser","pos":["n"]}]},"sdata":[]}

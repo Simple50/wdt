@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鈍器","p":true}],"r_ele":[{"r":"どんき","p":true}],"sense":[{"gloss":"blunt weapon","pos":["n"]}]},"sdata":[]}

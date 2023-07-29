@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"愚直","p":true}],"r_ele":[{"r":"ぐちょく","p":true}],"sense":[{"gloss":"simple honesty, tactless frankness","pos":["n","adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"迷わす","p":true}],"r_ele":[{"r":"まよわす","p":true}],"sense":[{"gloss":"to puzzle, to perplex, to bewilder, to delude, to mislead, to fascinate","pos":["v5s","vt"]}]},"sdata":[]}

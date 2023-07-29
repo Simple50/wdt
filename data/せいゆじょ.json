@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"製油所","p":true}],"r_ele":[{"r":"せいゆじょ","p":true}],"sense":[{"gloss":"oil refinery","pos":["n"]}]},"sdata":[]}

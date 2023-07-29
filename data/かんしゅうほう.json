@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"慣習法","p":true}],"r_ele":[{"r":"かんしゅうほう","p":true}],"sense":[{"gloss":"common law","pos":["n"],"f":["law"]},{"gloss":"customary law (in international law)","pos":["n"],"f":["law"]}]},"sdata":[]}

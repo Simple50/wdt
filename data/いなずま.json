@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"稲妻","p":true},{"e":"電","i":["rK"]}],"r_ele":[{"r":"いなずま","p":true},{"r":"いなづま"}],"sense":[{"gloss":"lightning, flash of lightning, lightning bolt","pos":["n"]}]},"sdata":[]}

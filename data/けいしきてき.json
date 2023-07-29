@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"形式的","p":true}],"r_ele":[{"r":"けいしきてき","p":true}],"sense":[{"gloss":"formal","pos":["adj-na"]}]},"sdata":[]}

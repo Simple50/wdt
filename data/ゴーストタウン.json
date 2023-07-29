@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゴーストタウン","p":true},{"r":"ゴースト・タウン"}],"sense":[{"gloss":"ghost town","pos":["n"]}]},"sdata":[{"j":"ほとんどの↑旅行↑↓りょこう↓↑者↑↓しゃ↓はニューヨークの|ゴーストタウン|に↑立↑↓た↓ち↑寄↑↓よ↓らなかった。","e":"Few of the trippers called in at the ghost town of New York."}]}

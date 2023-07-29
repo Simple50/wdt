@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"多人数","p":true}],"r_ele":[{"r":"たにんずう","p":true},{"r":"たにんず"}],"sense":[{"gloss":"large number of people","pos":["n"]}]},"sdata":[{"j":"↑会議↑↓かいぎ↓に↑出席↑↓しゅっせき↓し|た↑人数↑↓にんずう|↓は？","e":"How many people attended the meeting?"}]}

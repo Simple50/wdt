@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フォワード","p":true}],"sense":[{"gloss":"forward","pos":["n"],"f":["sports"],"x":["バックス・1"]},{"gloss":"forwarding (email)","pos":["n","vs"],"f":["comp"]},{"gloss":"forwards, forward contract","pos":["n"],"f":["finc"]}]},"sdata":[{"j":"|フォワード|がゴールを↑決↑↓き↓めた。","e":"The forward kicked a goal."}]}

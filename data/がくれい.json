@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学齢","p":true}],"r_ele":[{"r":"がくれい","p":true}],"sense":[{"gloss":"school age","pos":["n"]}]},"sdata":[{"j":"それから↑野獣↑↓やじゅう↓|がクレイ|ジーになりたがり↑始↑↓はじ↓める。","e":"Then the wild beasts start wanting to go crazy."}]}

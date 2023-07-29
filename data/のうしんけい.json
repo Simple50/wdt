@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脳神経","p":true}],"r_ele":[{"r":"のうしんけい","p":true}],"sense":[{"gloss":"cranial nerves, cerebral nerves","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二塁手","p":true}],"r_ele":[{"r":"にるいしゅ","p":true}],"sense":[{"gloss":"second baseman","pos":["n"],"f":["baseb"]}]},"sdata":[]}

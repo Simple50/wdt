@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アカウンタビリティ"},{"r":"アカウンタビリティー","p":true}],"sense":[{"gloss":"accountability","pos":["n"]}]},"sdata":[]}

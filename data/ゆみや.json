@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弓矢","p":true},{"e":"弓箭","i":["rK"]}],"r_ele":[{"r":"ゆみや","p":true},{"r":"きゅうし"}],"sense":[{"gloss":"bow and arrow","pos":["n"]},{"gloss":"weapon, arms","pos":["n"]}]},"sdata":[{"j":"トムは↑弓矢↑↓|ゆみや|↓で↑魚↑↓さかな↓を↑捕↑↓と↓るのが↑好↑↓す↓きだ。","e":"Tom likes to catch fish with a bow and arrow."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コギトエルゴスム","p":true},{"r":"コギト・エルゴ・スム"}],"sense":[{"gloss":"I think, therefore I am, cogito, ergo sum","pos":["exp"],"x":["我思う故に我あり"],"l":"lat"}],"m":["quote"]},"sdata":[]}

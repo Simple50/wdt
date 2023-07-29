@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"亜流","p":true}],"r_ele":[{"r":"ありゅう","p":true}],"sense":[{"gloss":"(inferior) imitator, epigone, poor imitation, copycat","pos":["n"]},{"gloss":"follower, adherent, person belonging to the same school (e.g. of thought)","pos":["n"]}]},"sdata":[]}

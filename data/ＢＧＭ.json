@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＢＧＭ","p":true}],"r_ele":[{"r":"ビージーエム","p":true}],"sense":[{"gloss":"background music, BGM","pos":["n"]}]},"sdata":[]}

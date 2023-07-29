@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国柄","p":true}],"r_ele":[{"r":"くにがら","p":true}],"sense":[{"gloss":"national character, regional character","pos":["n"]}]},"sdata":[]}

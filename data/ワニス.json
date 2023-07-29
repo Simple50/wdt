@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワニス","p":true},{"r":"バニッシュ"},{"r":"バーニッシュ"}],"sense":[{"gloss":"varnish","pos":["n"],"l":"eng"}]},"sdata":[]}

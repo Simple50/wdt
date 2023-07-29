@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チャネル","p":true},{"r":"チャンネル","p":true}],"sense":[{"gloss":"channel","pos":["n"]}]},"sdata":[]}

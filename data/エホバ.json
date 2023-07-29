@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エホバ","p":true}],"sense":[{"gloss":"Jehovah","pos":["n"],"x":["ヤハウェ"]}]},"sdata":[]}

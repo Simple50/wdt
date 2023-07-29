@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立ち後れる"},{"e":"立ち遅れる","p":true}],"r_ele":[{"r":"たちおくれる","p":true}],"sense":[{"gloss":"to start slowly, to lag behind","pos":["v1","vi"]}]},"sdata":[]}

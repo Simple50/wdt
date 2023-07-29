@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上向く","p":true}],"r_ele":[{"r":"うわむく","p":true},{"r":"うえむく"}],"sense":[{"gloss":"to point upward, to look upward","pos":["v5k","vi"],"ant":["下向く"]},{"gloss":"to improve","pos":["v5k","vi"]}]},"sdata":[]}

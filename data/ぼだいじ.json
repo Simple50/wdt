@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"菩提寺","p":true}],"r_ele":[{"r":"ぼだいじ","p":true}],"sense":[{"gloss":"one's family temple, temple with one's family grave","pos":["n"]}]},"sdata":[{"j":"↑釈迦↑↓しゃか↓はブッダガヤの↑菩提樹↑↓|ぼだいじ|ゅ↓の↑下↑↓した↓で↑悟↑↓さと↓りを↑開↑↓ひら↓いた。","e":"The Buddha became enlightened under a Bo tree in Bodh Gaya."}]}

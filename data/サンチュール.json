@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンチュール","p":true}],"sense":[{"gloss":"belt","pos":["n"],"l":"fre: ceinture"}]},"sdata":[]}

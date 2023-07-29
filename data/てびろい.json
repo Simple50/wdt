@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手広い","p":true}],"r_ele":[{"r":"てびろい","p":true}],"sense":[{"gloss":"spacious, roomy, large","pos":["adj-i"]},{"gloss":"extensive (business, dealings, etc.), large (scale), broad, wide","pos":["adj-i"]}]},"sdata":[]}

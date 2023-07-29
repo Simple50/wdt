@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青山","p":true}],"r_ele":[{"r":"せいざん","p":true},{"r":"あおやま"}],"sense":[{"gloss":"lush mountain, green mountain","pos":["n"]},{"gloss":"grave, burial place","pos":["n"]}]},"sdata":[]}

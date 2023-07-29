@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メタンガス","p":true},{"r":"メタン・ガス"}],"sense":[{"gloss":"methane gas","pos":["n"]}]},"sdata":[]}

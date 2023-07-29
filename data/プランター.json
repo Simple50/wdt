@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プランター","p":true}],"sense":[{"gloss":"planter","pos":["n"]}]},"sdata":[]}

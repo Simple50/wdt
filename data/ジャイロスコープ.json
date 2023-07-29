@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャイロスコープ","p":true}],"sense":[{"gloss":"gyroscope","pos":["n"]}]},"sdata":[]}

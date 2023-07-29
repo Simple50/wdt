@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小魚","p":true},{"e":"小肴","i":["rK"]}],"r_ele":[{"r":"こざかな","p":true}],"sense":[{"gloss":"small fish, fry","pos":["n"]}]},"sdata":[]}

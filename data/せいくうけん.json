@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"制空権","p":true}],"r_ele":[{"r":"せいくうけん","p":true}],"sense":[{"gloss":"control of the air, air supremacy","pos":["n"]}]},"sdata":[{"j":"↑空軍↑↓くうぐん↓が↑制空権↑↓|せいくうけん|↓を↑握↑↓にぎ↓っている。","e":"The Air Force has the control of the airspace."}]}

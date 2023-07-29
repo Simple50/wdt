@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"茶室","p":true}],"r_ele":[{"r":"ちゃしつ","p":true}],"sense":[{"gloss":"tearoom, tea house, tea-ceremony room, tea arbour, tea arbor","pos":["n"]}]},"sdata":[{"j":"めっ|ちゃ↑失礼↑↓しつ|れい↓な↑質問↑↓しつもん↓ね。","e":"That's a very rude question."}]}

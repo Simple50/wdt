@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民間放送","p":true}],"r_ele":[{"r":"みんかんほうそう","p":true}],"sense":[{"gloss":"commercial broadcasting","pos":["n"]}]},"sdata":[]}

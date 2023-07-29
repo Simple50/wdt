@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"順々に","p":true},{"e":"順順に"}],"r_ele":[{"r":"じゅんじゅんに","p":true}],"sense":[{"gloss":"in order, in turn","pos":["adv"]}]},"sdata":[{"j":"↑少年↑↓しょうねん↓たちは↑皆↑↓みな↓↑順々↑↓|じゅんじゅん↓に|↑話↑↓はな↓した。","e":"All the boys spoke in turn."},{"j":"↑少年↑↓しょうねん↓たちは↑順々↑↓|じゅんじゅん↓に|しゃべった。","e":"All the boys spoke each in turn."}]}

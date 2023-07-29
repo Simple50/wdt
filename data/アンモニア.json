@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンモニア","p":true}],"sense":[{"gloss":"ammonia","pos":["n"]}]},"sdata":[{"j":"|アンモニア|は、↑非常↑↓ひじょう↓に↑強↑↓つよ↓い↑匂↑↓にお↓いをもった↑液体↑↓えきたい↓または↑気体↑↓きたい↓である。","e":"Ammonia is a colorless liquid or gas with a very strong smell."}]}

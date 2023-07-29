@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"毒舌","p":true}],"r_ele":[{"r":"どくぜつ","p":true}],"sense":[{"gloss":"wicked tongue, sharp tongue, abusive language","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓に↑毒舌↑↓|どくぜつ|↓を↑浴↑↓あ↓びせた。","e":"He showered abuse on me."},{"j":"↑彼女↑↓かのじょ↓は↑毒舌↑↓|どくぜつ|↓↑家↑↓か↓だ。","e":"She has a sharp tongue."}]}

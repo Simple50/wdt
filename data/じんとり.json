@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陣取り","p":true}],"r_ele":[{"r":"じんとり","p":true}],"sense":[{"gloss":"children's game in which the aim is to occupy the other's home base","pos":["n"]},{"gloss":"taking a place, securing a position","pos":["n"]}]},"sdata":[]}

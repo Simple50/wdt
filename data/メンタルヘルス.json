@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メンタルヘルス","p":true},{"r":"メンタル・ヘルス"}],"sense":[{"gloss":"mental health","pos":["n"]}]},"sdata":[]}

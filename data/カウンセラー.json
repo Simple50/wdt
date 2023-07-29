@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カウンセラー","p":true}],"sense":[{"gloss":"counselor, counsellor","pos":["n"]}]},"sdata":[]}

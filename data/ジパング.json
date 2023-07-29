@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジパング","p":true}],"sense":[{"gloss":"Zipangu (the name for Japan used by Marco Polo)","pos":["n"],"l":"ita"}],"m":["hist"]},"sdata":[]}

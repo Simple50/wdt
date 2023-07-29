@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"年俸","p":true},{"e":"年棒","i":["iK"]}],"r_ele":[{"r":"ねんぽう","p":true}],"sense":[{"gloss":"annual salary","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"送り届ける","p":true}],"r_ele":[{"r":"おくりとどける","p":true}],"sense":[{"gloss":"to send to, to deliver, to escort (a person) home","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"築山","p":true}],"r_ele":[{"r":"つきやま","p":true}],"sense":[{"gloss":"artificial hill (in a garden)","pos":["n"]}]},"sdata":[]}

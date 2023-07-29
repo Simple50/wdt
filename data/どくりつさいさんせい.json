@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独立採算制","p":true}],"r_ele":[{"r":"どくりつさいさんせい","p":true}],"sense":[{"gloss":"a self-supporting accounting system","pos":["n"]}]},"sdata":[]}

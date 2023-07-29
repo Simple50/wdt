@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"血族","p":true}],"r_ele":[{"r":"けつぞく","p":true}],"sense":[{"gloss":"blood relative","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓の↑血族↑↓|けつぞく|↓である。","e":"He is bone of my bone, flesh of my flesh."}]}

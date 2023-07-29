@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"毒物","p":true}],"r_ele":[{"r":"どくぶつ","p":true}],"sense":[{"gloss":"poisonous substance, toxic substance, poison","pos":["n"]}]},"sdata":[{"j":"↑正↑↓まさ↓しく↑使用↑↓しよう↓されると、ある↑毒物↑↓|どくぶつ|↓は↑有用↑↓ゆうよう↓だとわかるだろう。","e":"Properly used, certain poisons will prove beneficial."},{"j":"↑毒物↑↓|どくぶつ|↓にやられていますね。","e":"She's been poisoned."}]}

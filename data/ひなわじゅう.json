@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火縄銃","p":true}],"r_ele":[{"r":"ひなわじゅう","p":true}],"sense":[{"gloss":"matchlock, arquebus","pos":["n"]}]},"sdata":[]}

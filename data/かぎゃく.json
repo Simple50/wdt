@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"可逆","p":true}],"r_ele":[{"r":"かぎゃく","p":true}],"sense":[{"gloss":"reversible","pos":["adj-na","adj-no","n"],"ant":["不可逆"]},{"gloss":"invertible","pos":["n","adj-na"],"f":["math"]}]},"sdata":[{"j":"↑薬↑↓くすり↓によっては、↑役↑↓やく↓に↑立↑↓た↓つどころ|か↑逆↑↓ぎゃく|↓に↑害↑↓がい↓になるものもある。","e":"Some medicines will do you more harm than good."}]}

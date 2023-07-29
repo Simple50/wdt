@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カートリッジ","p":true}],"sense":[{"gloss":"cartridge","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はインク|カートリッジ|を↑交換↑↓こうかん↓していて↑白↑↓しろ↓いシャツを↑汚↑↓よご↓した。","e":"He soiled his white shirt when he changed the ink cartridge."},{"j":"プリンター↑内↑↓ない↓の↑空↑↓から↓のインク|カートリッジ|を↑交換↑↓こうかん↓して↑下↑↓くだ↓さい。","e":"Please replace the empty ink cartridge in the printer."}]}

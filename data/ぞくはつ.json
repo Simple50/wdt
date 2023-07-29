@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"続発","p":true}],"r_ele":[{"r":"ぞくはつ","p":true}],"sense":[{"gloss":"successive occurrence, frequent occurrence, succession (of), series","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑遺族↑↓い|ぞく↓は↑妻↑↓つ|ま↓と↑娘↑↓むすめ↓↑１人↑↓ひとり↓である。","e":"He leaves a widow and a daughter."}]}

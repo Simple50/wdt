@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"決然","p":true}],"r_ele":[{"r":"けつぜん","p":true}],"sense":[{"gloss":"decisive, resolute, determined, firm","pos":["adj-t","adv-to"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"咀嚼","p":true}],"r_ele":[{"r":"そしゃく","p":true}],"sense":[{"gloss":"chewing, mastication","pos":["n","vs","vt"]},{"gloss":"digestion (e.g. of words), assimilation, comprehension, appreciation","pos":["n","vs","vt"]}]},"sdata":[]}

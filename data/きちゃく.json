@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"帰着","p":true}],"r_ele":[{"r":"きちゃく","p":true}],"sense":[{"gloss":"return, arriving home","pos":["n","vs","vi"]},{"gloss":"conclusion","pos":["n","vs","vi"]},{"gloss":"reduction","pos":["n","vs","vi"],"f":["math","comp"]}]},"sdata":[{"j":"↑月↑↓つ|き↓↑着陸↑↓ちゃく|りく↓は↑記念↑↓きねん↓すべき↑偉業↑↓いぎょう↓であった。","e":"The moon landing was a monumental achievement."}]}

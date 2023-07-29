@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"着こなす","p":true}],"r_ele":[{"r":"きこなす","p":true}],"sense":[{"gloss":"to wear (clothes) stylishly, to dress oneself stylishly","pos":["v5s","vt"]}]},"sdata":[{"j":"↑何↑↓なに↓を↑着↑↓き↓るかではなくて、どう↑着↑↓|き↓こなす|かが↑問題↑↓もんだい↓ですね。","e":"It's not what you wear, it's how you wear it."}]}

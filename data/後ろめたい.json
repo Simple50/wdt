@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後ろめたい","p":true}],"r_ele":[{"r":"うしろめたい","p":true}],"sense":[{"gloss":"guilty (feeling, conscience, look, etc.), (feeling) uneasy","pos":["adj-i"]}]},"kdata":{"後":{"on":["ゴ","コウ"],"kun":["のち","うし.ろ","うしろ","あと","おく.れる"],"jlpt":5,"meanings":["behind","back","later"],"freq":26,"comp":[["幺","夊","彳"]],"t":861}},"sdata":[]}

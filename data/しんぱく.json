@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心拍","p":true},{"e":"心搏","i":["rK"]}],"r_ele":[{"r":"しんぱく","p":true}],"sense":[{"gloss":"heartbeat","pos":["n"]}]},"sdata":[]}

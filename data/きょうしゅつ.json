@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"供出","p":true}],"r_ele":[{"r":"きょうしゅつ","p":true}],"sense":[{"gloss":"obligatory supply (of goods to the government, e.g. during wartime), delivery (to the government at a fixed price, e.g. of rice)","pos":["n","vs","vt","vi"]}]},"sdata":[]}

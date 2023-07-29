@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地熱","p":true}],"r_ele":[{"r":"ちねつ"},{"r":"じねつ","p":true}],"sense":[{"gloss":"geothermal energy, terrestrial heat","pos":["n","adj-no"]}]},"sdata":[]}

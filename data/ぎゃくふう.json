@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逆風","p":true}],"r_ele":[{"r":"ぎゃくふう","p":true}],"sense":[{"gloss":"headwind, adverse wind","pos":["n","adj-no"]}]},"sdata":[]}

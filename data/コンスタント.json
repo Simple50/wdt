@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンスタント","p":true}],"sense":[{"gloss":"constant, steady","pos":["adj-na"]},{"gloss":"constant","pos":["n"],"f":["math"]}]},"sdata":[]}

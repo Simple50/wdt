@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瞑る","p":true}],"r_ele":[{"r":"つぶる","p":true},{"r":"つむる","p":true}],"sense":[{"gloss":"to close (one's eyes), to shut","pos":["v5r","vt"],"x":["目をつぶる・1"]}],"m":["uk"]},"kdata":{"瞑":{"on":["メイ","ベン","ミョウ","ミン","メン"],"kun":["めい.する","つぶ.る","つむ.る","くら.い"],"meanings":["sleep","dark","close eyes"],"freq":2326,"comp":[["冥","目"]],"jlpt":-1}},"sdata":[]}

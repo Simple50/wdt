@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タンクローリ","p":true},{"r":"タンクローリー"}],"sense":[{"gloss":"tanker, tanker truck","pos":["n"],"l":"eng: tank lorry"}]},"sdata":[]}

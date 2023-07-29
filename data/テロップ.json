@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テロップ","p":true}],"sense":[{"gloss":"telop, television opaque projector, device used to broadcast onscreen text (e.g. subtitles, captions)","pos":["n"]},{"gloss":"onscreen text and images (e.g. subtitles, captions, scrolling tickers, logos)","pos":["n"]}]},"sdata":[]}

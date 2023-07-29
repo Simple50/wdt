@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"英領","p":true}],"r_ele":[{"r":"えいりょう","p":true}],"sense":[{"gloss":"British territory (possession)","pos":["n"]}]},"sdata":[{"j":"↑両親↑↓りょうしん↓は↑赤↑↓あか↓ん↑坊↑↓ぼう↓を↑英↑↓|えい↓↑良↑↓りょう|↓と↑名↑↓な↓づけた。","e":"The parents named their baby Akira."}]}

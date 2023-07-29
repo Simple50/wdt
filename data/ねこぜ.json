@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"猫背","p":true}],"r_ele":[{"r":"ねこぜ","p":true}],"sense":[{"gloss":"bent back, hunchback, stoop","pos":["n","adj-no","adj-na"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓は↑猫背↑↓|ねこぜ|↓だ。","e":"I am round shouldered."}]}

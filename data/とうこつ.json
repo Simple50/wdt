@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"頭骨","p":true}],"r_ele":[{"r":"とうこつ","p":true},{"r":"かしらぼね"},{"r":"ずこつ"}],"sense":[{"gloss":"skull","pos":["n"]}]},"sdata":[]}

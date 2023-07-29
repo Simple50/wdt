@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"柳刃包丁","p":true}],"r_ele":[{"r":"やなぎばぼうちょう","p":true}],"sense":[{"gloss":"kitchen knife for sashimi","pos":["n"]}]},"sdata":[]}

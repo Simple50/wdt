@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"散らかる","p":true}],"r_ele":[{"r":"ちらかる","p":true}],"sense":[{"gloss":"to be in disorder, to lie scattered around","pos":["v5r","vi"]}]},"sdata":[]}

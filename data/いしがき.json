@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"石垣","p":true},{"e":"石崖","i":["rK"]}],"r_ele":[{"r":"いしがき","p":true},{"r":"いしがけ"}],"sense":[{"gloss":"stone wall","pos":["n"]}]},"sdata":[{"j":"その↑家↑↓いえ↓の↑周↑↓まわ↓りに↑石垣↑↓|いしがき|↓があった。","e":"The house had a stone wall around it."},{"j":"↑家↑↓いえ↓の↑周↑↓まわ↓りには↑石垣↑↓|いしがき|↓がありました。","e":"There was a stone wall around the house."}]}

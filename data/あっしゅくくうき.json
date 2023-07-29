@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"圧縮空気","p":true}],"r_ele":[{"r":"あっしゅくくうき","p":true}],"sense":[{"gloss":"compressed air","pos":["n","adj-no"]}]},"sdata":[]}

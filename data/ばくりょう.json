@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幕僚","p":true}],"r_ele":[{"r":"ばくりょう","p":true}],"sense":[{"gloss":"staff, staff officer","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝過ごす","p":true},{"e":"寝すごす"}],"r_ele":[{"r":"ねすごす","p":true}],"sense":[{"gloss":"to oversleep","pos":["v5s"]}]},"sdata":[]}

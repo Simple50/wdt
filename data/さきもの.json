@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先物","p":true}],"r_ele":[{"r":"さきもの","p":true}],"sense":[{"gloss":"futures, futures contract","pos":["n"],"f":["finc"]}]},"sdata":[{"j":"ここに↑先物↑↓|さきもの|↓↑取引↑↓とりひき↓で↑儲↑↓もう↓けた↑方↑↓ほう↓いらっしゃいますか？","e":"Has anybody here made a profit in futures trading?"}]}

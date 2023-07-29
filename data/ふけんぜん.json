@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不健全","p":true}],"r_ele":[{"r":"ふけんぜん","p":true}],"sense":[{"gloss":"morbid, unhealthful, insalubrious","pos":["adj-na","n"]}]},"sdata":[{"j":"リーダーたちの↑不和↑↓ふわ↓が↑不健全↑↓|ふけんぜん|↓なセクショナリズムをもたらした。","e":"The conflicts among leaders resulted in unhealthy sectionalism."}]}

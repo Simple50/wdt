@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"迫撃","p":true}],"r_ele":[{"r":"はくげき","p":true}],"sense":[{"gloss":"close attack","pos":["n","vs","vt"]}]},"sdata":[]}

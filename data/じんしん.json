@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人身","p":true}],"r_ele":[{"r":"じんしん","p":true},{"r":"ひとみ"}],"sense":[{"gloss":"the human body, one's person","pos":["n"]}]},"sdata":[]}

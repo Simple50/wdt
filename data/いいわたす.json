@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"言い渡す","p":true},{"e":"言渡す"}],"r_ele":[{"r":"いいわたす","p":true}],"sense":[{"gloss":"to announce, to tell, to sentence, to order","pos":["v5s","vt"]}]},"sdata":[]}

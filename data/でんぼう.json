@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伝法","p":true}],"r_ele":[{"r":"でんぼう","p":true},{"r":"でんぽう"}],"sense":[{"gloss":"teaching Buddhism, rough person, bullying, ostentatious bravado","pos":["adj-na","n"]}]},"sdata":[]}

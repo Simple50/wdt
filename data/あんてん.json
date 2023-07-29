@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暗転","p":true}],"r_ele":[{"r":"あんてん","p":true}],"sense":[{"gloss":"(theatrical) blackout","pos":["n","vs","vi"]},{"gloss":"taking a (sudden) turn for the worse, rapid deterioration","pos":["n","vs","vi"]}]},"sdata":[]}

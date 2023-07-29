@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モンパリ","p":true},{"r":"モン・パリ"}],"sense":[{"gloss":"my Paris","pos":["n"],"l":"fre: mon Paris"}]},"sdata":[]}

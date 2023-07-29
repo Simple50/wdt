@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワンタッチ","p":true},{"r":"ワン・タッチ"}],"sense":[{"gloss":"single button press","pos":["exp","n","adj-no"],"l":"eng: one touch"}]},"sdata":[]}

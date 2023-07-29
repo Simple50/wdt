@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後輪","p":true},{"e":"尻輪"}],"r_ele":[{"r":"こうりん","p":true},{"r":"あとわ"},{"r":"しずわ"},{"r":"しりわ"}],"sense":[{"gloss":"rear wheel","pos":["n"]},{"gloss":"cantle","pos":["n"]}]},"sdata":[]}

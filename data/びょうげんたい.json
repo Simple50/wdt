@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病原体","p":true}],"r_ele":[{"r":"びょうげんたい","p":true}],"sense":[{"gloss":"pathogen","pos":["n"]}]},"sdata":[]}

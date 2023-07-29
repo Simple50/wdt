@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シンガーソングライター","p":true},{"r":"シンガー・ソングライター"}],"sense":[{"gloss":"singer-songwriter","pos":["n"]}]},"sdata":[]}

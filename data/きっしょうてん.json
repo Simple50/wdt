@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吉祥天","p":true}],"r_ele":[{"r":"きっしょうてん","p":true},{"r":"きちじょうてん"}],"sense":[{"gloss":"Sri-mahadevi (consort of Vaishravana)","pos":["n"],"f":["Buddh"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"回向","p":true},{"e":"廻向"}],"r_ele":[{"r":"えこう","p":true}],"sense":[{"gloss":"memorial service, prayers for the repose of the soul","pos":["n","vs","vi"],"f":["Buddh"]},{"gloss":"transfer of merit","pos":["n","vs","vi"],"f":["Buddh"]}]},"sdata":[]}

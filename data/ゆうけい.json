@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"有形","p":true}],"r_ele":[{"r":"ゆうけい","p":true}],"sense":[{"gloss":"material, tangible, concrete","pos":["n","adj-no"]}]},"sdata":[]}

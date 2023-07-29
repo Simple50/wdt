@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蛇の目","p":true}],"r_ele":[{"r":"じゃのめ","p":true},{"r":"ジャノメ"}],"sense":[{"gloss":"bull's-eye (pattern), double ring (pattern)","pos":["n"]},{"gloss":"umbrella with bull's-eye pattern","pos":["n"],"m":["abbr"],"x":["蛇の目傘"]}]},"sdata":[]}

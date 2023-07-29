@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"垂らし込む","p":true}],"r_ele":[{"r":"たらしこむ","p":true}],"sense":[{"gloss":"to drop into, drop-by-drop","pos":["v5m"]}]},"sdata":[]}

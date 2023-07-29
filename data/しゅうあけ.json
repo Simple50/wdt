@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"週明け","p":true},{"e":"週あけ"}],"r_ele":[{"r":"しゅうあけ","p":true}],"sense":[{"gloss":"beginning of next week (usu. Monday), early next week","pos":["n"]}]},"sdata":[{"j":"↑本当↑↓ほんとう↓は↑土曜日↑↓どようび↓からの↑予定↑↓よてい↓が、いろいろあって↑週↑↓|しゅう↓↑明↑↓あ↓け|からってことになった。","e":"It was going to be from Saturday, but, with one thing and another, it ended up being from the new week."}]}

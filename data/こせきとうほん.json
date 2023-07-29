@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戸籍謄本","p":true}],"r_ele":[{"r":"こせきとうほん","p":true}],"sense":[{"gloss":"official copy of the family register","pos":["n"]}]},"sdata":[]}

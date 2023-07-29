@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貯金局","p":true}],"r_ele":[{"r":"ちょきんきょく","p":true}],"sense":[{"gloss":"(Japanese) Postal Savings Bureau","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"割り振る","p":true},{"e":"割振る"},{"e":"割ふる"}],"r_ele":[{"r":"わりふる","p":true}],"sense":[{"gloss":"to assign, to allot, to divide among, to distribute, to prorate, to assess, to apportion, to allocate","pos":["v5r","vt"]}]},"sdata":[]}

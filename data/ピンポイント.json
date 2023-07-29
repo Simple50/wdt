@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピンポイント","p":true}],"sense":[{"gloss":"pinpoint","pos":["n"]}]},"sdata":[]}

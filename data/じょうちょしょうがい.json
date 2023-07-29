@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"情緒障害","p":true}],"r_ele":[{"r":"じょうちょしょうがい","p":true},{"r":"じょうしょしょうがい"}],"sense":[{"gloss":"(suffering) an emotional disturbance","pos":["n","vs"]}]},"sdata":[]}

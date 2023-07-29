@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"言い合う","p":true},{"e":"言合う"}],"r_ele":[{"r":"いいあう","p":true}],"sense":[{"gloss":"to say to each other, to exchange (jokes, comments, etc.)","pos":["v5u","vt"]},{"gloss":"to quarrel, to dispute","pos":["v5u","vi"]}]},"sdata":[{"j":"もう↑言↑↓|い↓い↑合↑↓あ↓う|のはやめにしましょう。","e":"Let's patch up our argument."}]}

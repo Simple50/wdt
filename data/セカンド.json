@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セカンド","p":true}],"sense":[{"gloss":"second","pos":["n"]},{"gloss":"second base","pos":["n"]}]},"sdata":[{"j":"↑時↑↓とき↓のアークがその↑器↑↓うつわ↓を↑成長↑↓せいちょう↓させ、|セカンド|オリジンを↑使↑↓つか↓える↑状態↑↓じょうたい↓にする。","e":"Time Ark develops that container and makes it so that you will be able to use Second Origin."},{"j":"|セカンド|オピニオンをご↑希望↑↓きぼう↓ですか？","e":"Do you want a second opinion?"}]}

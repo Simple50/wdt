@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"星条旗","p":true}],"r_ele":[{"r":"せいじょうき","p":true}],"sense":[{"gloss":"Stars and Stripes (US flag)","pos":["n"]},{"gloss":"Star-Spangled Banner (US anthem)","pos":["n"]}]},"sdata":[{"j":"↑合衆国↑↓がっしゅうこく↓の↑国旗↑↓こっき↓は↑星条旗↑↓|せいじょうき|↓と↑呼↑↓よ↓ばれる。","e":"The national flag of the USA is called the Stars and Stripes."}]}

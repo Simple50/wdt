@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待避線","p":true}],"r_ele":[{"r":"たいひせん","p":true}],"sense":[{"gloss":"siding, sidetrack, turnout","pos":["n"],"f":["rail"]}]},"sdata":[]}

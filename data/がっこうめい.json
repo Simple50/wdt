@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学校名","p":true}],"r_ele":[{"r":"がっこうめい","p":true}],"sense":[{"gloss":"school name","pos":["n"]}]},"sdata":[]}

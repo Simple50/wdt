@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウィンドウショッピング"},{"r":"ウインドーショッピング","p":true},{"r":"ウィンドーショッピング"}],"sense":[{"gloss":"window-gazing, window-shopping","pos":["n","vs"]}]},"sdata":[]}

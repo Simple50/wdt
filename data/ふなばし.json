@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"船橋","p":true}],"r_ele":[{"r":"ふなばし","p":true},{"r":"ふなはし"},{"r":"せんきょう"}],"sense":[{"gloss":"pontoon bridge, floating bridge","pos":["n"]},{"gloss":"bridge (of a ship)","pos":["n"]}]},"sdata":[]}

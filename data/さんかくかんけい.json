@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三角関係","p":true}],"r_ele":[{"r":"さんかくかんけい","p":true}],"sense":[{"gloss":"love triangle, eternal triangle","pos":["n"]}]},"sdata":[]}

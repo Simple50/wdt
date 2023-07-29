@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トリートメント","p":true}],"sense":[{"gloss":"treatment (esp. hair treatment)","pos":["n","vs"]}]},"sdata":[]}

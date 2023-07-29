@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"激流","p":true}],"r_ele":[{"r":"げきりゅう","p":true}],"sense":[{"gloss":"raging stream, rapids","pos":["n"]}]},"sdata":[]}

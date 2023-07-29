@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薬理学","p":true}],"r_ele":[{"r":"やくりがく","p":true}],"sense":[{"gloss":"pharmacology","pos":["n"]}]},"sdata":[]}

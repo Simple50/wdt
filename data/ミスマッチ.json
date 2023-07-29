@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミスマッチ","p":true}],"sense":[{"gloss":"mis-match","pos":["n"]}]},"sdata":[]}

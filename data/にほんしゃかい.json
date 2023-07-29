@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本社会","p":true}],"r_ele":[{"r":"にほんしゃかい","p":true}],"sense":[{"gloss":"Japanese society","pos":["n"]}]},"sdata":[]}

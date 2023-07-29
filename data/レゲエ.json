@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レゲエ","p":true}],"sense":[{"gloss":"reggae","pos":["n"],"f":["music"]}]},"sdata":[{"j":"|レゲエ|のことをどう↑思↑↓おも↓いますか。","e":"What do you think of reggae?"},{"j":"トムは|レゲエ|が↑好↑↓す↓きだ。","e":"Tom likes reggae."},{"j":"|レゲエ|ってどう↑思↑↓おも↓う？","e":"What do you think about reggae?"}]}

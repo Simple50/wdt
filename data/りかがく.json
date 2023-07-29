@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"理化学","p":true}],"r_ele":[{"r":"りかがく","p":true}],"sense":[{"gloss":"physics and chemistry","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは↑物理↑↓ぶつ|り↓↑科学↑↓かがく|↓を↑学↑↓まな↓んでいます。","e":"We're studying physical science."},{"j":"↑物理↑↓ぶつ|り↓↑科学↑↓かがく|↓を↑研究↑↓けんきゅう↓しています。","e":"We're studying physical science."}]}

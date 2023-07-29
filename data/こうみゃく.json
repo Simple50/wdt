@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉱脈","p":true}],"r_ele":[{"r":"こうみゃく","p":true}],"sense":[{"gloss":"vein (of ore), reef, streak, lode","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弾薬","p":true}],"r_ele":[{"r":"だんやく","p":true}],"sense":[{"gloss":"ammunition, ammo","pos":["n"]}]},"sdata":[{"j":"↑軍↑↓ぐん↓は↑敵↑↓てき↓に↑弾薬↑↓|だんやく|↓↑庫↑↓こ↓を↑引↑↓ひ↓き↑渡↑↓わた↓した。","e":"The army surrendered its arsenal to the enemy."}]}

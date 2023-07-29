@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酒造り","p":true}],"r_ele":[{"r":"さけづくり","p":true}],"sense":[{"gloss":"sake brewing","pos":["n"]}]},"sdata":[]}

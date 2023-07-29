@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盲信"},{"e":"妄信","p":true}],"r_ele":[{"r":"もうしん"},{"r":"ぼうしん","p":true}],"sense":[{"gloss":"blind acceptance, blind belief, credulity","pos":["n","vs","vt"]}]},"sdata":[]}

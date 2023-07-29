@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"急かす","p":true}],"r_ele":[{"r":"せかす","p":true}],"sense":[{"gloss":"to hurry (up), to urge on, to press, to rush","pos":["v5s","vt"]}]},"sdata":[{"j":"↑君↑↓きみ↓はもう↑少↑↓すこ↓しせか|せかす|るのをやめなければいけない。","e":"You must be less impatient."}]}

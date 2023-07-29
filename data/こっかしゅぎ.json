@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国家主義","p":true}],"r_ele":[{"r":"こっかしゅぎ","p":true}],"sense":[{"gloss":"nationalism, statism","pos":["n","adj-no"]}]},"sdata":[{"j":"↑国家↑↓|こっか↓↑主義↑↓しゅぎ|↓と↑愛国心↑↓あいこくしん↓とを↑混同↑↓こんどう↓してはならない。","e":"Nationalism is not to be confused with patriotism."}]}

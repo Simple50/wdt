@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パラダイム","p":true}],"sense":[{"gloss":"paradigm","pos":["n"]}]},"sdata":[{"j":"これらのすべての↑現象↑↓げんしょう↓を↑説明↑↓せつめい↓するにはまったくの↑異↑↓こと↓なる|パラダイム|を↑立↑↓た↓てる↑必要↑↓ひつよう↓がある。","e":"We need to postulate a completely different paradigm to explain all these phenomena."}]}

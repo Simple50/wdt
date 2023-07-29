@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気の向くままに","p":true},{"e":"気の向く侭に"}],"r_ele":[{"r":"きのむくままに","p":true}],"sense":[{"gloss":"at one's fancy (whim)","pos":["adv"]}]},"sdata":[]}

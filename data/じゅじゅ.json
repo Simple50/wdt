@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"授受","p":true},{"e":"受授","i":["iK"]}],"r_ele":[{"r":"じゅじゅ","p":true}],"sense":[{"gloss":"giving and receiving, transferring, transfer, changing hands","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑呪術↑↓|じゅじゅ|つ↓は↑未開↑↓みかい↓↑社会↑↓しゃかい↓においては↑重要↑↓じゅうよう↓な↑役割↑↓やくわり↓をもつ。","e":"Magic plays an important part in primitive society."}]}

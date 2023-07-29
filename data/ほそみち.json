@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細道","p":true},{"e":"ほそ道"}],"r_ele":[{"r":"ほそみち","p":true}],"sense":[{"gloss":"narrow path, narrow lane","pos":["n"]}]},"sdata":[]}

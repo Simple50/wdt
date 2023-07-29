@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"参宮","p":true}],"r_ele":[{"r":"さんぐう","p":true}],"sense":[{"gloss":"pilgrimage (esp. to the Ise Grand Shrine)","pos":["n","vs","vi"],"f":["Shinto"]}]},"sdata":[]}

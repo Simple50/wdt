@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手詰まり","p":true},{"e":"手詰り"}],"r_ele":[{"r":"てづまり","p":true}],"sense":[{"gloss":"deadlock, stalemate","pos":["n"]}]},"sdata":[]}

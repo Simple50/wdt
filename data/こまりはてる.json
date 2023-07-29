@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"困り果てる","p":true},{"e":"困りはてる"}],"r_ele":[{"r":"こまりはてる","p":true}],"sense":[{"gloss":"to be at a complete loss, to be without recourse, to be completely stymied, to have absolutely no idea what to do","pos":["v1","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空母","p":true}],"r_ele":[{"r":"くうぼ","p":true}],"sense":[{"gloss":"aircraft carrier","pos":["n"],"x":["航空母艦・こうくうぼかん"]}],"m":["abbr"]},"sdata":[]}

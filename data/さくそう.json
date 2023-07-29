@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"錯綜","p":true},{"e":"錯そう","i":["sK"]}],"r_ele":[{"r":"さくそう","p":true}],"sense":[{"gloss":"complication, intricacy, involution","pos":["n"]},{"gloss":"to become complicated, to get entangled","pos":["vs","vi"]}]},"sdata":[]}

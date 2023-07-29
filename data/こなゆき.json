@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粉雪","p":true}],"r_ele":[{"r":"こなゆき","p":true},{"r":"こゆき"}],"sense":[{"gloss":"powder snow, powdery snow","pos":["n"]}]},"sdata":[{"j":"↑粉雪↑↓|こなゆき|↓は、とけにくく↑積↑↓つ↓もりやすい。","e":"Powdered snow is hard to melt and piles up easily."}]}

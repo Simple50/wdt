@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"租税","p":true}],"r_ele":[{"r":"そぜい","p":true}],"sense":[{"gloss":"taxes, taxation","pos":["n"]}]},"sdata":[]}

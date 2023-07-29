@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無記名","p":true}],"r_ele":[{"r":"むきめい","p":true}],"sense":[{"gloss":"unsigned, unregistered","pos":["n"]}]},"sdata":[]}

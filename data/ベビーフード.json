@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベビーフード","p":true},{"r":"ベビー・フード"}],"sense":[{"gloss":"baby food","pos":["n"]}]},"sdata":[{"j":"↑会社↑↓かいしゃ↓は↑７月↑↓しちがつ↓に↑製造↑↓せいぞう↓されたすべての|ベビーフード|を↑回収↑↓かいしゅう↓した。","e":"The company recalled all the baby food made in July."}]}

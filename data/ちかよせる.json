@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"近寄せる","p":true}],"r_ele":[{"r":"ちかよせる","p":true}],"sense":[{"gloss":"to bring close, to bring near","pos":["v1","vt"]},{"gloss":"to associate with (someone), to keep company with, to let come close","pos":["v1","vt"]}]},"sdata":[]}

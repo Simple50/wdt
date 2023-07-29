@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"必見","p":true}],"r_ele":[{"r":"ひっけん","p":true}],"sense":[{"gloss":"must-see, not to be missed, a must","pos":["adj-no","n"]}]},"sdata":[]}

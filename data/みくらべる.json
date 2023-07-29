@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見比べる","p":true},{"e":"見較べる"}],"r_ele":[{"r":"みくらべる","p":true}],"sense":[{"gloss":"to compare with the eye","pos":["v1","vt"]}]},"sdata":[]}

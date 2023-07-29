@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"倫理学","p":true}],"r_ele":[{"r":"りんりがく","p":true}],"sense":[{"gloss":"ethics, moral philosophy","pos":["n"]}]},"sdata":[{"j":"この↑論文↑↓ろんぶん↓は↑倫理↑↓|りんり↓↑学↑↓がく|↓の↑面↑↓めん↓からその↑問題↑↓もんだい↓を↑論↑↓ろん↓じている。","e":"The paper discusses the problem in terms of ethics."},{"j":"↑倫理↑↓|りんり↓↑学↑↓がく|↓というのは、↑行動↑↓こうどう↓の↑規範↑↓きはん↓を↑意味↑↓いみ↓する。","e":"Ethics means the rules of conduct."}]}

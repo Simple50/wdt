@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目白押し","p":true},{"e":"めじろ押し"}],"r_ele":[{"r":"めじろおし","p":true}],"sense":[{"gloss":"jostling, milling about, crush, being jammed together","pos":["n","adj-no"]},{"gloss":"packed with (activities, products, etc.), teeming with, chock-full of","pos":["adj-no"]}]},"sdata":[]}

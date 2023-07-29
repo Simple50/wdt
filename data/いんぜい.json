@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"印税","p":true}],"r_ele":[{"r":"いんぜい","p":true}],"sense":[{"gloss":"royalty (on book)","pos":["n"]}]},"sdata":[]}

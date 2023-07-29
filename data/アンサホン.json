@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンサホン","p":true}],"sense":[{"gloss":"answer phone","pos":["n"]}]},"sdata":[]}

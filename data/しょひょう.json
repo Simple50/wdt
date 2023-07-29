@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書評","p":true}],"r_ele":[{"r":"しょひょう","p":true}],"sense":[{"gloss":"book review","pos":["n"]}]},"sdata":[{"j":"その↑書評↑↓|しょひょう|↓↑者↑↓しゃ↓はその↑小説↑↓しょうせつ↓に↑鋭↑↓するど↓く↑批判↑↓ひはん↓↑的↑↓てき↓である。","e":"The reviewer is sharply critical of the novel."}]}

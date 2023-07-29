@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"付き添い看護婦","p":true}],"r_ele":[{"r":"つきそいかんごふ","p":true}],"sense":[{"gloss":"private nurse","pos":["n"]}]},"sdata":[]}

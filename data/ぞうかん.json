@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増刊","p":true}],"r_ele":[{"r":"ぞうかん","p":true}],"sense":[{"gloss":"special issue (of a magazine, etc.), issuing an extra number","pos":["n","vs","vt"]}]},"sdata":[{"j":"フロイトは、↑親子↑↓おやこ↓↑間↑↓かん↓の↑愛憎↑↓あい|ぞう↓↑関係↑↓かん|けい↓をエディプス・コンプレックスとして↑展開↑↓てんかい↓しました。","e":"Freud developed the love-hate relationship between parents and child as the Oedipus complex."}]}

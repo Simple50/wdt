@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キーステーション","p":true},{"r":"キー・ステーション"}],"sense":[{"gloss":"key station, flagship station, leading station of a broadcasting network","pos":["n"],"x":["キー局"]}]},"sdata":[]}

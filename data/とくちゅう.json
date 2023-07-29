@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特注","p":true}],"r_ele":[{"r":"とくちゅう","p":true}],"sense":[{"gloss":"special order (goods), custom (made), bespoke","pos":["n","vs","vt","adj-no"],"x":["特別注文・とくべつちゅうもん"]}]},"sdata":[{"j":"↑市販↑↓しはん↓の↑家具↑↓かぐ↓ではサイズが↑合↑↓あ↓わないから、↑家具↑↓かぐ↓を↑特注↑↓|とくちゅう|↓する。","e":"Ready-made furniture won't fit, so I'll order it custom-made."}]}

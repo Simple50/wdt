@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウィークリー","p":true},{"r":"ウイークリー"},{"r":"ウィークリ"}],"sense":[{"gloss":"weekly","pos":["n","adv"]}]},"sdata":[]}

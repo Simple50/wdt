@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"壮烈","p":true}],"r_ele":[{"r":"そうれつ","p":true}],"sense":[{"gloss":"heroic, brave","pos":["adj-na","n"]}]},"sdata":[]}

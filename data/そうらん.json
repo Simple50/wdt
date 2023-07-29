@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"騒乱","p":true}],"r_ele":[{"r":"そうらん","p":true}],"sense":[{"gloss":"disturbance, riot, mayhem","pos":["n","adj-no"]}]},"sdata":[]}

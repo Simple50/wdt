@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"及び腰","p":true}],"r_ele":[{"r":"およびごし","p":true}],"sense":[{"gloss":"bent back","pos":["n"]},{"gloss":"indecisive attitude, timidity, lack of nerve","pos":["n"]}]},"sdata":[{"j":"↑政府↑↓せいふ↓は↑及↑↓|およ↓び↑腰↑↓ごし|↓と↑言↑↓い↓われないようなしっかりとした↑対応↑↓たいおう↓を↑見↑↓み↓せてほしい。","e":"I'd like the government to respond resolutely so as to not end up looking timid."}]}

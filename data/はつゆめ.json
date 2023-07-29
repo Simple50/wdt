@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初夢","p":true}],"r_ele":[{"r":"はつゆめ","p":true}],"sense":[{"gloss":"first dream of the New year (believed to foretell one's luck)","pos":["n"]},{"gloss":"dream on the night of setsubun","pos":["n"],"m":["arch"],"x":["節分・1"]}]},"sdata":[]}

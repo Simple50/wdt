@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一律","p":true},{"e":"一率","i":["sK"]}],"r_ele":[{"r":"いちりつ","p":true}],"sense":[{"gloss":"uniform, even, across-the-board, equal","pos":["adj-no","adj-na","adv","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国是","p":true}],"r_ele":[{"r":"こくぜ","p":true}],"sense":[{"gloss":"national policy","pos":["n"]}]},"sdata":[{"j":"↑米国↑↓べい|こく↓↑全土↑↓ぜ|んど↓では↑毎年↑↓まいとし↓↑膨大↑↓ぼうだい↓な↑数↑↓かず↓の↑若者↑↓わかもの↓が↑大学↑↓だいがく↓にはいる。","e":"Throughout the United State large numbers of young people enter college every year."}]}

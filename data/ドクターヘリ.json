@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドクターヘリ","p":true},{"r":"ドクター・ヘリ"}],"sense":[{"gloss":"air ambulance, helicopter ambulance, helicopter emergency medical service","pos":["n"],"l":"eng: doctor heli(copter)"}]},"sdata":[]}

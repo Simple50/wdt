@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"何気ない","p":true},{"e":"何気無い"},{"e":"何げない","i":["sK"]}],"r_ele":[{"r":"なにげない","p":true}],"sense":[{"gloss":"casual, unconcerned, nonchalant, indifferent, offhand","pos":["adj-i"]},{"gloss":"ordinary, normal, regular, everyday, unremarkable","pos":["adj-i"],"m":["col"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"有機化学","p":true}],"r_ele":[{"r":"ゆうきかがく","p":true}],"sense":[{"gloss":"organic chemistry","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑有機↑↓|ゆうき↓↑化学↑↓かがく|↓を↑専攻↑↓せんこう↓している。","e":"She majors in organic chemistry."}]}

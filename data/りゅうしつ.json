@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流失","p":true}],"r_ele":[{"r":"りゅうしつ","p":true}],"sense":[{"gloss":"being washed away","pos":["n","vs","vi"]}]},"sdata":[]}

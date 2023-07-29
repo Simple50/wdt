@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二十四時間制","p":true}],"r_ele":[{"r":"にじゅうよじかんせい","p":true}],"sense":[{"gloss":"around-the-clock system","pos":["n"]}]},"sdata":[]}

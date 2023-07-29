@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"固定費","p":true}],"r_ele":[{"r":"こていひ","p":true}],"sense":[{"gloss":"fixed cost, fixed expense","pos":["n"]}]},"sdata":[]}

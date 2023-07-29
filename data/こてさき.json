@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小手先","p":true}],"r_ele":[{"r":"こてさき","p":true}],"sense":[{"gloss":"tip of the hand, (use of) one's hands","pos":["n"]},{"gloss":"cheap trick, superficial wit, superficial cleverness","pos":["n"]},{"gloss":"cheap, makeshift (e.g. measures), shortsighted, perfunctory, halfhearted","pos":["adj-no"]}]},"sdata":[]}

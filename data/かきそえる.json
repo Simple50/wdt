@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書き添える","p":true},{"e":"書添える"}],"r_ele":[{"r":"かきそえる","p":true}],"sense":[{"gloss":"to add, to write a postscript","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カルバドス","p":true}],"sense":[{"gloss":"calvados","pos":["n"],"l":"fre"}]},"sdata":[]}

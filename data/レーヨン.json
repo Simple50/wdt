@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レーヨン","p":true},{"r":"レイヨン"}],"sense":[{"gloss":"rayon","pos":["n"],"l":"fre: rayonne,eng: rayon"}]},"sdata":[]}

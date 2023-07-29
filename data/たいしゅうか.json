@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大衆化","p":true}],"r_ele":[{"r":"たいしゅうか","p":true}],"sense":[{"gloss":"popularization, popularisation","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑当局↑↓とうきょく↓は↑事実↑↓じじつ↓を↑大衆↑↓|たいしゅう↓か|ら↑隠↑↓かく↓してきた。","e":"The authorities have been hiding the facts from the public."}]}

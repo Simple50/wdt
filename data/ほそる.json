@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細る","p":true}],"r_ele":[{"r":"ほそる","p":true}],"sense":[{"gloss":"to get thin, to taper off","pos":["v5r","vi"]}]},"sdata":[]}

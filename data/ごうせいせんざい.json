@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合成洗剤","p":true}],"r_ele":[{"r":"ごうせいせんざい","p":true}],"sense":[{"gloss":"synthetic detergent","pos":["n"]}]},"sdata":[]}

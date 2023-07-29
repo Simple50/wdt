@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独善","p":true}],"r_ele":[{"r":"どくぜん","p":true}],"sense":[{"gloss":"self-righteousness, self-justified","pos":["n"]}]},"sdata":[]}

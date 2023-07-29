@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スーパースター","p":true}],"sense":[{"gloss":"superstar","pos":["n"]}]},"sdata":[]}

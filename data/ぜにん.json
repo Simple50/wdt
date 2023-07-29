@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"是認","p":true}],"r_ele":[{"r":"ぜにん","p":true}],"sense":[{"gloss":"approval","pos":["n","vs","vt","adj-no"]}]},"sdata":[{"j":"な|ぜ↑人間↑↓にん|げん↓はサルのように、またなぜサルは↑人間↑↓にんげん↓のように↑振舞↑↓ふるま↓うのか。","e":"Why do men behave like apes, and vice versa?"}]}

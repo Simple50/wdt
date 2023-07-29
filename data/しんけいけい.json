@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神経系","p":true}],"r_ele":[{"r":"しんけいけい","p":true}],"sense":[{"gloss":"nervous system","pos":["n"]}]},"sdata":[]}

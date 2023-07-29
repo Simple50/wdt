@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粘り強い","p":true},{"e":"ねばり強い"}],"r_ele":[{"r":"ねばりづよい","p":true}],"sense":[{"gloss":"tenacious, persevering, persistent, stubborn, steadfast","pos":["adj-i"]},{"gloss":"sticky","pos":["adj-i"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑粘↑↓|ねば↓り↑強↑↓づよ↓い|↑精神↑↓せいしん↓の↑持↑↓も↓ち↑主↑↓ぬし↓だ。","e":"He has a spirit of tenacity."}]}

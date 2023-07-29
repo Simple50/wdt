@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立て替える","p":true},{"e":"立替える"}],"r_ele":[{"r":"たてかえる","p":true}],"sense":[{"gloss":"to pay for someone else (with the expectation of being reimbursed later), to lend someone the money to pay for (e.g. rent), to make a temporary payment on someone's behalf","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"葬る","p":true}],"r_ele":[{"r":"ほうむる","p":true},{"r":"ほうぶる"}],"sense":[{"gloss":"to bury, to inter, to entomb","pos":["v5r","vt"]},{"gloss":"to cover up, to hush up, to shelve","pos":["v5r","vt"]}]},"sdata":[]}

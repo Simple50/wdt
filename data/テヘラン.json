@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"第希蘭","i":["ateji","rK"]}],"r_ele":[{"r":"テヘラン","p":true}],"sense":[{"gloss":"Tehran (Iran)","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"|テヘラン|に↑住↑↓す↓んでいます。","e":"I live in Tehran."}]}

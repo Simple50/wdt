@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャンクション","p":true}],"sense":[{"gloss":"junction, system interchange (between highways)","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは|ジャンクション|１１で↑高速↑↓こうそく↓↑道路↑↓どうろ↓を↑出↑↓で↓た。","e":"We left the motorway at junction 11."}]}

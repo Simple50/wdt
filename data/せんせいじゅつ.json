@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"占星術","p":true}],"r_ele":[{"r":"せんせいじゅつ","p":true}],"sense":[{"gloss":"astrology","pos":["n"]}]},"sdata":[]}

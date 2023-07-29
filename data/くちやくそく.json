@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口約束","p":true}],"r_ele":[{"r":"くちやくそく","p":true}],"sense":[{"gloss":"verbal promise, one's word","pos":["n","vs","vt","vi"]}]},"sdata":[]}

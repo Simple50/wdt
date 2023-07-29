@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホック","p":true}],"sense":[{"gloss":"hook (esp. for clothing), hook and eye","pos":["n"]},{"gloss":"snap fastener, press stud","pos":["n"],"x":["スナップ・3"]},{"gloss":"hock (white wine)","pos":["n"]}]},"sdata":[]}

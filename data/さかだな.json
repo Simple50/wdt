@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酒店","p":true}],"r_ele":[{"r":"さかだな","p":true},{"r":"さかみせ"},{"r":"しゅてん"}],"sense":[{"gloss":"liquor store, off-licence, bottle shop","pos":["n"]},{"gloss":"hotel (in China)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"居候","p":true}],"r_ele":[{"r":"いそうろう","p":true}],"sense":[{"gloss":"lodger who pays nothing for room and board, freeloader, sponger","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はいつもどこかの↑家↑↓いえ↓に↑居候↑↓|いそうろう|↓しているようだ。","e":"He always seems to be living rent-free in somebody's house."}]}

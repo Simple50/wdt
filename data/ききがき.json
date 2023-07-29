@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聞き書き","p":true},{"e":"聞書き"},{"e":"聞き書"},{"e":"聞書"}],"r_ele":[{"r":"ききがき","p":true}],"sense":[{"gloss":"writing down what one hears, account of what one hears","pos":["n","vs","vt"]}]},"sdata":[]}

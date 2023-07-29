@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"半月","p":true}],"r_ele":[{"r":"はんげつ"},{"r":"はんつき","p":true}],"sense":[{"gloss":"half-moon","pos":["n"],"f":["astron"]},{"gloss":"half a month","pos":["n"]},{"gloss":"semicircle","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちはその↑船↑↓ふね↓を↑半月↑↓|はんつき|↓と↑名付↑↓なづ↓けた。","e":"We named the boat the Half Moon."}]}

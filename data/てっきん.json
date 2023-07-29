@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄筋","p":true}],"r_ele":[{"r":"てっきん","p":true}],"sense":[{"gloss":"rebar, (iron) reinforcing bar, reinforcing steel","pos":["n"]},{"gloss":"reinforced concrete","pos":["n"],"m":["abbr"],"x":["鉄筋コンクリート"]}]},"sdata":[{"j":"ここでは↑決↑↓けっ↓して、レンガは↑鉄筋↑↓|てっきん|↓コンクリートの↑代↑↓か↓わりになりません。","e":"Bricks never take the place of ferro-concrete here."}]}

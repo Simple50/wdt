@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事務取扱"},{"e":"事務取扱い","p":true,"i":["io"]},{"e":"事務取り扱い","i":["io"]}],"r_ele":[{"r":"じむとりあつかい","p":true}],"sense":[{"gloss":"acting director","pos":["n"]}]},"sdata":[{"j":"それはその↑会社↑↓かいしゃ↓の↑事務↑↓|じむ↓↑取↑↓と↓り↑扱↑↓あつか↓い|の↑上↑↓うえ↓の↑不始末↑↓ふしまつ↓であった。","e":"It was mismanagement of the company's affairs by the acting director."}]}

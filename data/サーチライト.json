@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サーチライト","p":true}],"sense":[{"gloss":"searchlight","pos":["n"]}]},"sdata":[]}

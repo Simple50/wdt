@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"窶れる","i":["rK"]}],"r_ele":[{"r":"やつれる","p":true}],"sense":[{"gloss":"to become haggard, to become gaunt, to become emaciated, to become worn out (from illness, worry, etc.)","pos":["v1","vi"]}],"m":["uk"]},"sdata":[]}

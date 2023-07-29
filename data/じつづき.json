@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地続き","p":true}],"r_ele":[{"r":"じつづき","p":true}],"sense":[{"gloss":"adjoining land","pos":["n"]}]},"sdata":[{"j":"↑悪事↑↓あく|じ↓↑続↑↓つづ↓き|だ。","e":"When it rains, it pours."}]}

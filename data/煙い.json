@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煙い","p":true},{"e":"烟い"}],"r_ele":[{"r":"けむい","p":true},{"r":"けぶい"}],"sense":[{"gloss":"smoky","pos":["adj-i"]}]},"kdata":{"煙":{"on":["エン"],"kun":["けむ.る","けむり","けむ.い"],"jlpt":3,"meanings":["smoke"],"freq":1290,"comp":[["垔","火"]],"t":1745}},"sdata":[{"j":"タバコが|↑煙↑↓けむ↓い|！","e":"Your smoking bothers me."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"板ガラス","p":true}],"r_ele":[{"r":"いたガラス","p":true}],"sense":[{"gloss":"plate glass, sheet glass","pos":["n"]}]},"sdata":[]}

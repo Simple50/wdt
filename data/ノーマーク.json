@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノーマーク","p":true},{"r":"ノー・マーク"}],"sense":[{"gloss":"not covered (e.g. of a sports opponent), under the radar, unobserved","pos":["adj-no","n"],"l":"eng: no mark"},{"gloss":"unlabelled, unmarked (e.g. of a product)","pos":["adj-no","n"]}]},"sdata":[{"j":"よりによって↑相手↑↓あいて↓が|ノーマーク|のスーちゃんなんて。","e":"That it be with the off-the-radar Sue of all people!"}]}

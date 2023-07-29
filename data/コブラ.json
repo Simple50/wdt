@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コブラ","p":true}],"sense":[{"gloss":"cobra","pos":["n"]}]},"sdata":[]}

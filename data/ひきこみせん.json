@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き込み線","p":true},{"e":"引込み線"},{"e":"引込線"}],"r_ele":[{"r":"ひきこみせん","p":true}],"sense":[{"gloss":"(railway) siding, service line, service wire","pos":["n"]}]},"sdata":[]}

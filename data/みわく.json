@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"魅惑","p":true}],"r_ele":[{"r":"みわく","p":true}],"sense":[{"gloss":"attraction, fascination, lure, captivation, charm","pos":["n","adj-no","vs","vt"]}]},"sdata":[{"j":"↑魅惑↑↓|みわく|↓↑的↑↓てき↓な↑音楽↑↓おんがく↓だった。","e":"The music was captivating."}]}

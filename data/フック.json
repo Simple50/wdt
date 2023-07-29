@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フック","p":true}],"sense":[{"gloss":"hook","pos":["n"]},{"gloss":"hook (in boxing)","pos":["n"],"f":["sports"]},{"gloss":"hook","pos":["n","vs","vi"],"f":["golf"],"x":["スライス・2"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑上着↑↓うわぎ↓を|フック|に↑掛↑↓か↓けた。","e":"He hung his coat on a hook."},{"j":"タオルは|フック|に↑掛↑↓か↓かってるよ。","e":"A towel is hanging on the hook."}]}

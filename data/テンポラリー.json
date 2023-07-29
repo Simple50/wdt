@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テンポラリー","p":true},{"r":"テンポラリ"}],"sense":[{"gloss":"temporary","pos":["n"]}]},"sdata":[]}

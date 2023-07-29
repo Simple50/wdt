@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"禅譲","p":true}],"r_ele":[{"r":"ぜんじょう","p":true}],"sense":[{"gloss":"abdication (of a Chinese emperor) in favor of a virtuous successor (as opposed to an heir)","pos":["n","vs","vt"],"m":["hist"]},{"gloss":"smooth transference of power (responsibility, etc.)","pos":["n","vs","vt"]}]},"sdata":[]}

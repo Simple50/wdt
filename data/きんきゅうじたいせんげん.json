@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"緊急事態宣言","p":true}],"r_ele":[{"r":"きんきゅうじたいせんげん","p":true}],"sense":[{"gloss":"declaration of a state of emergency","pos":["n"]}]},"sdata":[]}

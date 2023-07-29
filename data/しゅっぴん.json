@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出品","p":true}],"r_ele":[{"r":"しゅっぴん","p":true}],"sense":[{"gloss":"exhibiting, showing, putting on display, putting up for sale, entering (a work into a competition), submitting","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"トムが↑出品↑↓|しゅっぴん|↓した↑絵↑↓え↓は↑皆↑↓みな↓↑入賞↑↓にゅうしょう↓した。","e":"Tom got prizes for all the pictures he sent to the exhibition."}]}

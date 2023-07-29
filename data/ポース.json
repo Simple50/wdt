@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポーズ","p":true},{"r":"ポース","p":true}],"sense":[{"gloss":"pose","pos":["n"]},{"gloss":"pause","pos":["n"]}]},"sdata":[]}

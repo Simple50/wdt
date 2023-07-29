@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滑落","p":true}],"r_ele":[{"r":"かつらく","p":true}],"sense":[{"gloss":"sliding down (a slope, mountainside), slipping down","pos":["n","vs","vi"]}]},"sdata":[]}

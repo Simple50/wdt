@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早々","p":true},{"e":"早早"}],"r_ele":[{"r":"はやばや","p":true}],"sense":[{"gloss":"early, quickly, promptly","pos":["adv","adv-to"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑戦争↑↓せんそう↓が↑早々↑↓|はやばや|↓と↑終↑↓お↓わるとあてこんでいた。","e":"He gambled on the war coming to an early end."}]}

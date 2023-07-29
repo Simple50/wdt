@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"胴上げ","p":true},{"e":"胴揚げ"}],"r_ele":[{"r":"どうあげ","p":true}],"sense":[{"gloss":"tossing (someone) into the air (in celebration)","pos":["n","vs","vt"]}]},"sdata":[]}

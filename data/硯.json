@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"硯","p":true}],"r_ele":[{"r":"すずり","p":true}],"sense":[{"gloss":"inkstone","pos":["n"]}]},"kdata":{"硯":{"on":["ケン","ゲン"],"kun":["すずり"],"meanings":["inkstone"],"freq":2500,"comp":[["石","見"]],"jlpt":0}},"sdata":[]}

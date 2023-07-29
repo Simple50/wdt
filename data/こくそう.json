@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国葬","p":true}],"r_ele":[{"r":"こくそう","p":true}],"sense":[{"gloss":"state funeral, national funeral","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑私↑↓わたし↓には↑残酷↑↓ざん|こく↓そう|に↑見↑↓み↓える。","e":"She appears to me to be cruel."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"御中","p":true}],"r_ele":[{"r":"おんちゅう","p":true}],"sense":[{"gloss":"... and Company, Messrs, for the attention of ...","pos":["n-suf"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"礫"},{"e":"飛礫","p":true}],"r_ele":[{"r":"つぶて","p":true}],"sense":[{"gloss":"stone (used for throwing)","pos":["n"]}],"m":["uk"]},"sdata":[]}

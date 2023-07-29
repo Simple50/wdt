@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"経常利益","p":true}],"r_ele":[{"r":"けいじょうりえき","p":true}],"sense":[{"gloss":"current profits, ordinary profit, income before income taxes, ordinary income, operating income","pos":["n"]}]},"sdata":[]}

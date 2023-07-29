@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"淋巴","i":["ateji","rK"]}],"r_ele":[{"r":"リンパ","p":true}],"sense":[{"gloss":"lymph","pos":["n"],"l":"ger: Lymphe,dut: lympha"}],"m":["uk"]},"sdata":[{"j":"↑彼↑↓かれ↓は↑急性↑↓きゅうせい↓|リンパ|↑性↑↓せい↓↑白血病↑↓はっけつびょう↓で↑死亡↑↓しぼう↓しました。","e":"He died from acute lymphoblastic leukemia."}]}

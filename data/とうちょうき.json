@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盗聴器","p":true},{"e":"盗聴機"}],"r_ele":[{"r":"とうちょうき","p":true}],"sense":[{"gloss":"listening device, bug, wiretap","pos":["n"]}]},"sdata":[{"j":"ニクソンはオフィスに↑盗聴↑↓|とうちょう↓↑器↑↓き|↓をしかけておきながらシラを↑切↑↓き↓ったので↑見付↑↓みつ↓かった。","e":"Nixon was caught lying because he bugged his own office."},{"j":"↑盗聴↑↓|とうちょう↓↑器↑↓き|↓はつけてる？","e":"Are you wearing a wire?"}]}

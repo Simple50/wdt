@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"定率","p":true}],"r_ele":[{"r":"ていりつ","p":true}],"sense":[{"gloss":"fixed rate","pos":["n"]}]},"sdata":[]}

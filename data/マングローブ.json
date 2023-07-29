@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マングローブ","p":true}],"sense":[{"gloss":"mangrove","pos":["n"]}]},"sdata":[]}

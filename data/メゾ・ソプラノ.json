@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メゾソプラノ","p":true},{"r":"メッツォソプラノ"},{"r":"メゾ・ソプラノ","p":true},{"r":"メッツォ・ソプラノ"}],"sense":[{"gloss":"mezzo-soprano","pos":["n"],"f":["music"],"l":"ita"}]},"sdata":[]}

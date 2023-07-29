@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レコーディング","p":true}],"sense":[{"gloss":"recording","pos":["n","vs","vt"]}]},"sdata":[]}

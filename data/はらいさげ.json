@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"払い下げ","p":true}],"r_ele":[{"r":"はらいさげ","p":true}],"sense":[{"gloss":"disposal (usu. of unwanted government assets), sale","pos":["n"]}]},"sdata":[]}

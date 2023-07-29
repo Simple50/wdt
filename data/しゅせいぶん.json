@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主成分","p":true}],"r_ele":[{"r":"しゅせいぶん","p":true}],"sense":[{"gloss":"main ingredient, main component","pos":["n"]}]},"sdata":[]}

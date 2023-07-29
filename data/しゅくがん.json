@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宿願","p":true}],"r_ele":[{"r":"しゅくがん","p":true}],"sense":[{"gloss":"longstanding desire","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冷遇","p":true}],"r_ele":[{"r":"れいぐう","p":true}],"sense":[{"gloss":"cold reception, inhospitality","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑友人↑↓ゆうじん↓の↑冷遇↑↓|れいぐう|↓に↑心↑↓こころ↓を↑痛↑↓いた↓めた。","e":"He smarted under his friend's ill-treatment."},{"j":"↑彼↑↓かれ↓は↑友人↑↓ゆうじん↓の↑冷遇↑↓|れいぐう|↓に↑心↑↓こころ↓を↑痛↑↓いた↓めた。","e":"His friend's cold shoulder caused him heartache."}]}

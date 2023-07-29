@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"作風","p":true}],"r_ele":[{"r":"さくふう","p":true}],"sense":[{"gloss":"style (of a work, author, artist, etc.), characteristics","pos":["n"]}]},"sdata":[]}

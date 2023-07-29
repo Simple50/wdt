@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早場米","p":true}],"r_ele":[{"r":"はやばまい","p":true}],"sense":[{"gloss":"rice from an early harvest, early rice","pos":["n"],"x":["遅場米"]}]},"sdata":[]}

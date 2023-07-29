@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"踏み入れる","p":true},{"e":"踏みいれる"}],"r_ele":[{"r":"ふみいれる","p":true}],"sense":[{"gloss":"to walk in on, to tread upon","pos":["v1","vt"],"x":["足を踏み入れる"]}]},"sdata":[]}

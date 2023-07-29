@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"没年","p":true},{"e":"歿年"}],"r_ele":[{"r":"ぼつねん","p":true}],"sense":[{"gloss":"year of a person's death","pos":["n"]},{"gloss":"one's age at death","pos":["n"],"x":["享年"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り留めのない","p":true},{"e":"取り留めの無い"},{"e":"取り止めのない"},{"e":"取り止めの無い"}],"r_ele":[{"r":"とりとめのない","p":true}],"sense":[{"gloss":"incoherent, wandering, vague, rambling, whimsical","pos":["exp","adj-f"]}],"m":["uk"]},"sdata":[{"j":"↑彼女↑↓かのじょ↓の↑頭↑↓あたま↓は|とりとめのない|↑考↑↓かんが↓えでいっぱいだった。","e":"Her head was full of airy thoughts."}]}

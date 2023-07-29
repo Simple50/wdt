@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"岩盤","p":true}],"r_ele":[{"r":"がんばん","p":true}],"sense":[{"gloss":"bedrock","pos":["n"]}]},"sdata":[]}

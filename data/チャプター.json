@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チャプター","p":true},{"r":"チャプタ"}],"sense":[{"gloss":"chapter","pos":["n"]}]},"sdata":[]}

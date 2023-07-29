@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪党","p":true}],"r_ele":[{"r":"あくとう","p":true}],"sense":[{"gloss":"scoundrel, rascal, villain","pos":["n","adj-no"]}]},"sdata":[{"j":"その↑悪党↑↓|あくとう|↓は↑高所↑↓こうしょ↓↑恐怖症↑↓きょうふしょう↓だ。","e":"The wicked man is scared of heights."},{"j":"あいつは↑悪党↑↓|あくとう|↓↑面↑↓めん↓をしている。","e":"He has an evil countenance."}]}

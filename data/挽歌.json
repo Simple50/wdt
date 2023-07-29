@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"挽歌","p":true}],"r_ele":[{"r":"ばんか","p":true}],"sense":[{"gloss":"elegy, funeral song","pos":["n","adj-no"]}]},"kdata":{"挽":{"on":["バン"],"kun":["ひ.く"],"meanings":["saw","turn (lathe)","grind"],"comp":[["扌","免"]],"jlpt":0,"freq":2760},"歌":{"on":["カ"],"kun":["うた","うた.う"],"jlpt":4,"meanings":["song","sing"],"freq":519,"comp":[["哥","欠"]],"t":1884}},"sdata":[]}

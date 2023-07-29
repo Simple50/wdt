@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バイリンガル","p":true}],"sense":[{"gloss":"bilingual","pos":["n","adj-no"]}]},"sdata":[{"j":"↑君↑↓きみ↓は|バイリンガル|？","e":"Are you bilingual?"}]}

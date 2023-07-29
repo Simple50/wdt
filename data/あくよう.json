@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪用","p":true}],"r_ele":[{"r":"あくよう","p":true}],"sense":[{"gloss":"abuse, misuse, perversion","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑公金↑↓こうきん↓を↑悪用↑↓|あくよう|↓したかどで↑逮捕↑↓たいほ↓された。","e":"He was arrested for abusing public funds."},{"j":"↑彼↑↓かれ↓は↑公金↑↓こうきん↓を↑悪用↑↓|あくよう|↓したかどで↑逮捕↑↓たいほ↓された。","e":"He was arrested for misappropriating public funds."}]}

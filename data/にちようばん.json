@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日曜版","p":true}],"r_ele":[{"r":"にちようばん","p":true}],"sense":[{"gloss":"Sunday edition of a newspaper","pos":["n"]}]},"sdata":[]}

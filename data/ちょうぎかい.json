@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"町議会","p":true}],"r_ele":[{"r":"ちょうぎかい","p":true}],"sense":[{"gloss":"town council","pos":["n"]}]},"sdata":[]}

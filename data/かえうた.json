@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"替え歌","p":true},{"e":"替歌"}],"r_ele":[{"r":"かえうた","p":true}],"sense":[{"gloss":"parody (of a song), new lyrics to an old melody, song parody","pos":["n"]}]},"sdata":[]}

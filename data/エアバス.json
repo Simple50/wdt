@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エアバス","p":true},{"r":"エア・バス"}],"sense":[{"gloss":"airbus (short-haul passenger aircraft)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"魔女狩り","p":true},{"e":"魔女狩"}],"r_ele":[{"r":"まじょがり","p":true}],"sense":[{"gloss":"witch hunt","pos":["n"]}]},"sdata":[{"j":"↑我↑↓われ↓こそ↑魔女↑↓|まじょ↓がり|の↑大将↑↓たいしょう↓。","e":"I'm the witchfinder general."},{"j":"↑魔女↑↓|まじょ↓↑狩↑↓が↓り|が↑始↑↓はじ↓まってしまった。","e":"The witch hunt has begun."}]}

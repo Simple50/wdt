@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立て札","p":true},{"e":"立札","p":true}],"r_ele":[{"r":"たてふだ","p":true}],"sense":[{"gloss":"bulletin board, notice board, billboard, roadside sign, sign on a post, usu. wooden, esp. containing information about a sight, warning, congratulations, etc.","pos":["n"],"x":["高札・1"]}]},"sdata":[]}

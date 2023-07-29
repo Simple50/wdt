@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総評","p":true}],"r_ele":[{"r":"そうひょう","p":true}],"sense":[{"gloss":"general comment","pos":["n","vs","vt"]}]},"sdata":[]}

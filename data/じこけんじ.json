@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自己顕示","p":true}],"r_ele":[{"r":"じこけんじ","p":true}],"sense":[{"gloss":"making oneself conspicuous, pressing one's own cause","pos":["n"]}],"m":["yoji"]},"sdata":[]}

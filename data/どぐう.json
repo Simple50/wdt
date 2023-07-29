@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土偶","p":true}],"r_ele":[{"r":"どぐう","p":true}],"sense":[{"gloss":"earthen figure, clay figure","pos":["n"]},{"gloss":"dogū, clay figurines from the late Jōmon period","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"預貸率","p":true}],"r_ele":[{"r":"よたいりつ","p":true}],"sense":[{"gloss":"loan-deposit ratio","pos":["n"]}]},"sdata":[]}

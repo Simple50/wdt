@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"護岸","p":true}],"r_ele":[{"r":"ごがん","p":true}],"sense":[{"gloss":"river dike","pos":["n"]}]},"kdata":{"護":{"on":["ゴ"],"kun":["まも.る"],"jlpt":1,"meanings":["protect","safeguard"],"freq":351,"comp":[["蒦","言"]],"t":2298},"岸":{"on":["ガン"],"kun":["きし"],"jlpt":2,"meanings":["beach"],"freq":556,"comp":[["厈","山"]],"t":655}},"sdata":[]}

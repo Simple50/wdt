@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"苦々しい","p":true},{"e":"苦苦しい"}],"r_ele":[{"r":"にがにがしい","p":true}],"sense":[{"gloss":"unpleasant, disgusting, loathsome, shameful, scandalous","pos":["adj-i"]}]},"sdata":[]}

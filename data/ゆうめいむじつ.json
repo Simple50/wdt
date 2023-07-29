@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"有名無実","p":true}],"r_ele":[{"r":"ゆうめいむじつ","p":true}],"sense":[{"gloss":"in name but not in reality","pos":["adj-na","adj-no","n"]}],"m":["yoji"]},"sdata":[]}

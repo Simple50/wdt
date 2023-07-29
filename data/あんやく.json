@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暗躍","p":true}],"r_ele":[{"r":"あんやく","p":true}],"sense":[{"gloss":"secret manoeuvres (maneuvers), operating behind the scenes","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑支配人↑↓しはいにん↓の↑背後↑↓はいご↓で↑暗躍↑↓|あんやく|↓した。","e":"He acted behind the manager's back."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"味の素","p":true}],"r_ele":[{"r":"あじのもと","p":true}],"sense":[{"gloss":"Ajinomoto, brand name of monosodium glutamate (MSG)","pos":["n"],"f":["tradem"],"x":["グルタミン酸ソーダ","グルタミン酸ナトリウム"]}]},"sdata":[]}

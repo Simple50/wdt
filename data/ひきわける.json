@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き分ける","p":true},{"e":"引分ける"},{"e":"引きわける"}],"r_ele":[{"r":"ひきわける","p":true}],"sense":[{"gloss":"to pull apart, to separate","pos":["v1","vt"]},{"gloss":"to draw, to tie (a game)","pos":["v1","vt"]}]},"sdata":[]}

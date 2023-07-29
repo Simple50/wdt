@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"真新しい","p":true}],"r_ele":[{"r":"まあたらしい","p":true}],"sense":[{"gloss":"brand new","pos":["adj-i"]}]},"sdata":[{"j":"その↑作家↑↓さっか↓は↑今↑↓い|ま↓↑新↑↓あたら↓しい|↑小説↑↓しょうせつ↓に↑取↑↓と↓り↑組↑↓く↓んでいる。","e":"The writer is tackling the now new novel."}]}

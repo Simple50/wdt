@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"完封","p":true}],"r_ele":[{"r":"かんぷう","p":true}],"sense":[{"gloss":"total blockage, complete shutdown, stopping completely","pos":["n","vs","vt"]},{"gloss":"shutout","pos":["n","vs","vt"],"f":["baseb"]}]},"sdata":[{"j":"↑寒風↑↓|かんぷう|↓が↑骨身↑↓ほねみ↓にしみた。","e":"The cold wind cut me to the bone."}]}

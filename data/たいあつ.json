@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"耐圧","p":true}],"r_ele":[{"r":"たいあつ","p":true}],"sense":[{"gloss":"pressure-resistant","pos":["n"]}]},"sdata":[{"j":"↑７月↑↓しちがつ↓の↑天候↑↓てんこう↓はだい|たい↑暑↑↓あつ|↓い。","e":"The weather is usually hot in July."},{"j":"↑今日↑↓きょう↓は↑耐↑↓た↓えが|たい↑暑↑↓あつ|↓さだな。","e":"It's unbearably hot today."}]}

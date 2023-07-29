@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口々","p":true},{"e":"口口"}],"r_ele":[{"r":"くちぐち","p":true}],"sense":[{"gloss":"every person, every mouth","pos":["n"],"x":["口々に"]},{"gloss":"every entrance","pos":["n"]}]},"sdata":[{"j":"↑誰↑↓だれ↓もがみんな↑口々↑↓|くちぐち|↓にいいあっている。","e":"Everyone's saying it."}]}

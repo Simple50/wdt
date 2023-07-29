@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モミズム","p":true}],"sense":[{"gloss":"momism","pos":["n"]}]},"sdata":[]}

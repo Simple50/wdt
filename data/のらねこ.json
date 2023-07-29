@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"野良猫","p":true},{"e":"ノラ猫"},{"e":"のら猫"},{"e":"野良ネコ"}],"r_ele":[{"r":"のらねこ","p":true},{"r":"ノラネコ"}],"sense":[{"gloss":"stray cat, alley cat","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"嫌悪感","p":true}],"r_ele":[{"r":"けんおかん","p":true}],"sense":[{"gloss":"unpleasant feelings (e.g. hatred, disgust, revulsion, fear)","pos":["n"]}]},"sdata":[{"j":"ひどい↑仕打↑↓しう↓ちに↑彼↑↓かれ↓の↑嫌悪↑↓|けんお↓↑感↑↓かん|↓は↑憎↑↓にく↓しみに↑変↑↓かわ↓った。","e":"Bad treatment fanned his dislike to hate."}]}

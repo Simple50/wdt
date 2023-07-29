@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"静粛","p":true}],"r_ele":[{"r":"せいしゅく","p":true}],"sense":[{"gloss":"silent","pos":["adj-na","n"]}]},"sdata":[{"j":"↑議長↑↓ぎちょう↓は↑静粛↑↓|せいしゅく|↓を↑命↑↓めい↓じた。","e":"The chairperson ordered silence."},{"j":"みなさん、どうか↑静粛↑↓|せいしゅく|↓に。","e":"Order, please."},{"j":"↑静粛↑↓|せいしゅく|↓にしていなさい。","e":"Keep quiet!"},{"j":"みなさん、どうか↑静粛↑↓|せいしゅく|↓に。","e":"Everyone, please be quiet."}]}

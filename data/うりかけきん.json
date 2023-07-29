@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売り掛け金"},{"e":"売掛金","p":true}],"r_ele":[{"r":"うりかけきん","p":true}],"sense":[{"gloss":"accounts receivable, outstanding sales account","pos":["n"]}]},"sdata":[]}

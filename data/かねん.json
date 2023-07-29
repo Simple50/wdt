@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"可燃","p":true}],"r_ele":[{"r":"かねん","p":true}],"sense":[{"gloss":"inflammable, flammable, combustible, burnable","pos":["adj-no","n"]}]},"sdata":[]}

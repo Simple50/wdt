@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スリット","p":true}],"sense":[{"gloss":"slit","pos":["n"]},{"gloss":"slitting (slicing a sheet of paper, metal, etc. into narrower strips)","pos":["n"]}]},"sdata":[]}

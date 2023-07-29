@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中華民国","p":true}],"r_ele":[{"r":"ちゅうかみんこく","p":true}],"sense":[{"gloss":"Republic of China (Taiwan), ROC","pos":["n"]}]},"sdata":[]}

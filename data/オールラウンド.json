@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オールラウンド","p":true}],"sense":[{"gloss":"all-round","pos":["adj-na"]}]},"sdata":[]}

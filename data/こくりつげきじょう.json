@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国立劇場","p":true}],"r_ele":[{"r":"こくりつげきじょう","p":true}],"sense":[{"gloss":"national theater","pos":["n"]}]},"sdata":[]}

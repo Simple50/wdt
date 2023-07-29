@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"元年","p":true}],"r_ele":[{"r":"がんねん","p":true}],"sense":[{"gloss":"first year (of an imperial era)","pos":["n"]},{"gloss":"year something (important) first happened or began","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"休眠","p":true}],"r_ele":[{"r":"きゅうみん","p":true}],"sense":[{"gloss":"dormancy, quiescence","pos":["n","vs","vi"]}]},"sdata":[]}

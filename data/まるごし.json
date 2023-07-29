@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"丸腰","p":true}],"r_ele":[{"r":"まるごし","p":true}],"sense":[{"gloss":"unarmed, without weapons","pos":["adj-no"]}]},"sdata":[{"j":"その↑兵士↑↓へいし↓は↑丸腰↑↓|まるごし|↓の↑兵士↑↓へいし↓を↑撃↑↓う↓つことを↑潔↑↓いさぎよ↓しとしなかった。","e":"The soldier disdained shooting an unarmed enemy."}]}

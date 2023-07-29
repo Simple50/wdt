@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滅私","p":true}],"r_ele":[{"r":"めっし","p":true}],"sense":[{"gloss":"selflessness, being unselfish","pos":["n"]}]},"sdata":[{"j":"↑現在↑↓げんざい↓は、↑滅私↑↓|めっし|↓↑奉公↑↓ほうこう↓ではなく、↑滅↑↓めつ↓↑公↑↓こう↓↑奉↑↓まつ↓↑私↑↓わたし↓の↑時代↑↓じだい↓だと↑言↑↓い↓われています。","e":"In the old days people valued selflessness. But this generation seems to make a virtue out of selfishness."}]}

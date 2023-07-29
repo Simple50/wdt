@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早道","p":true}],"r_ele":[{"r":"はやみち","p":true}],"sense":[{"gloss":"shortcut","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"散逸","p":true},{"e":"散佚","i":["rK"]}],"r_ele":[{"r":"さんいつ","p":true}],"sense":[{"gloss":"being scattered and ultimately lost","pos":["n","vs","vi"]},{"gloss":"dissipation","pos":["n","vs","vi"],"f":["physics"]}]},"sdata":[{"j":"↑母↑↓かあ↓|さんいつ|もありがとう。","e":"Mom, thanks for everything."}]}

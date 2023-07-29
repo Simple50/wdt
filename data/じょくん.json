@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"叙勲","p":true}],"r_ele":[{"r":"じょくん","p":true}],"sense":[{"gloss":"conferring of decorations","pos":["n","vs","vt"]}]},"sdata":[]}

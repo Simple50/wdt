@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一騎打ち","p":true},{"e":"一騎討ち"}],"r_ele":[{"r":"いっきうち","p":true}],"sense":[{"gloss":"personal combat, one-to-one fight","pos":["n"]}]},"sdata":[]}

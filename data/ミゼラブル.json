@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミゼラブル","p":true}],"sense":[{"gloss":"miserable","pos":["adj-f"]}]},"sdata":[{"j":"サミは、ミュージカル『レ・|ミゼラブル|』を↑観↑↓み↓ました。","e":"Sami watched the musical Les Miserables."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"役務","p":true}],"r_ele":[{"r":"えきむ","p":true}],"sense":[{"gloss":"labor, labour, service","pos":["n"]}]},"sdata":[]}

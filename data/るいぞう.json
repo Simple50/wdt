@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"累増","p":true}],"r_ele":[{"r":"るいぞう","p":true}],"sense":[{"gloss":"successive or progressive increases, cumulative increase","pos":["n","vs","vt","vi"]}]},"sdata":[]}

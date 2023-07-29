@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"草笛","p":true}],"r_ele":[{"r":"くさぶえ","p":true}],"sense":[{"gloss":"reed pipe","pos":["n"]}]},"sdata":[]}

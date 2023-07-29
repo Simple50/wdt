@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"予防線","p":true}],"r_ele":[{"r":"よぼうせん","p":true}],"sense":[{"gloss":"defensive perimeter, defence line, defense line, defensive measures","pos":["n"]},{"gloss":"precaution, safeguard, safety measure","pos":["n"],"x":["予防線を張る"]}]},"sdata":[]}

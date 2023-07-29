@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"狸","p":true},{"e":"貍","i":["oK"]}],"r_ele":[{"r":"たぬき","p":true},{"r":"タヌキ","p":true}],"sense":[{"gloss":"tanuki (Nyctereutes procyonoides), raccoon dog","pos":["n"]},{"gloss":"sly dog, sly old fox, sly fox, cunning devil, sly person","pos":["n"]}],"m":["uk"]},"sdata":[]}

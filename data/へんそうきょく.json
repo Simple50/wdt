@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変奏曲","p":true}],"r_ele":[{"r":"へんそうきょく","p":true}],"sense":[{"gloss":"variation","pos":["n"],"f":["music"]}]},"sdata":[]}

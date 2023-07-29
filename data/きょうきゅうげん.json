@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"供給源","p":true}],"r_ele":[{"r":"きょうきゅうげん","p":true}],"sense":[{"gloss":"source of supply","pos":["n"]}]},"sdata":[]}

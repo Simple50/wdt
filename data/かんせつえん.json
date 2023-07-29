@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"関節炎","p":true}],"r_ele":[{"r":"かんせつえん","p":true}],"sense":[{"gloss":"arthritis","pos":["n"]}]},"sdata":[{"j":"トムは↑関節炎↑↓|かんせつえん|↓を↑患↑↓わずら↓っています。","e":"Tom has arthritis."}]}

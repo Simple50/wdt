@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実益","p":true}],"r_ele":[{"r":"じつえき","p":true}],"sense":[{"gloss":"actual profit, practical use, benefit","pos":["n"]}]},"sdata":[{"j":"↑趣味↑↓しゅみ↓と↑実益↑↓|じつえき|↓とを↑結↑↓むす↓びつけることはやさしくない。","e":"It is not easy to combine hobbies with profits."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秋水","p":true}],"r_ele":[{"r":"しゅうすい","p":true}],"sense":[{"gloss":"clear autumn water, clear fall water","pos":["n"]}]},"sdata":[]}

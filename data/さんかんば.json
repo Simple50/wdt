@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三冠馬","p":true}],"r_ele":[{"r":"さんかんば","p":true}],"sense":[{"gloss":"winner of Japan's three main horse races","pos":["n"]}]},"sdata":[]}

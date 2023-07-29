@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紋付"},{"e":"紋付き","p":true}],"r_ele":[{"r":"もんつき","p":true}],"sense":[{"gloss":"clothing (e.g. kimono) decorated with one's family crest","pos":["n"]}]},"sdata":[]}

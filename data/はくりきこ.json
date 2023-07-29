@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄力粉","p":true}],"r_ele":[{"r":"はくりきこ","p":true}],"sense":[{"gloss":"cake flour, pastry flour","pos":["n"]}]},"sdata":[]}

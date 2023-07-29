@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行き帰り","p":true}],"r_ele":[{"r":"ゆきかえり","p":true},{"r":"いきかえり"}],"sense":[{"gloss":"going and returning (e.g. work, school), both ways","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新発売","p":true}],"r_ele":[{"r":"しんはつばい","p":true}],"sense":[{"gloss":"new release, putting (a new product) on sale, launch","pos":["n","vs","adj-no"]}]},"sdata":[]}

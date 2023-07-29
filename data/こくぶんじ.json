@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国分寺","p":true}],"r_ele":[{"r":"こくぶんじ","p":true}],"sense":[{"gloss":"state-supported provincial temple (Nara period)","pos":["n"]}]},"sdata":[]}

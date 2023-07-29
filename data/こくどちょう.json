@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国土庁","p":true}],"r_ele":[{"r":"こくどちょう","p":true}],"sense":[{"gloss":"(Japanese) National Land Agency","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"資源エネルギー庁","p":true}],"r_ele":[{"r":"しげんエネルギーちょう","p":true}],"sense":[{"gloss":"Agency of Natural Resources and Energy","pos":["n"]}]},"sdata":[]}

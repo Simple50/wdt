@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"休まる","p":true},{"e":"安まる"}],"r_ele":[{"r":"やすまる","p":true}],"sense":[{"gloss":"to be rested, to feel at ease, to repose, to be relieved","pos":["v5r","vi"]}]},"sdata":[]}

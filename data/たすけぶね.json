@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"助け舟","p":true},{"e":"助け船"},{"e":"助けぶね"}],"r_ele":[{"r":"たすけぶね","p":true}],"sense":[{"gloss":"lifeboat","pos":["n"]},{"gloss":"friend in need, helping hand, timely help","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓が↑質問↑↓しつもん↓に↑答↑↓こた↓えられないでいると、↑彼↑↓かれ↓が↑助↑↓|たす↓け↑舟↑↓ぶね|↓を↑出↑↓だ↓してくれた。","e":"When I didn't know how to answer the question, he gave me a hint."}]}

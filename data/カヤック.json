@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カヤック","p":true}],"sense":[{"gloss":"kayak","pos":["n","vs"]}]},"sdata":[{"j":"|カヤック|を↑乗↑↓の↓りにここに↑来↑↓き↓たんだ。","e":"I came here so that I could go kayaking."},{"j":"|カヤック|を↑乗↑↓の↓りにここに↑来↑↓き↓たんだ。","e":"I came here to go kayaking."}]}

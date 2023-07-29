@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"織り込む","p":true},{"e":"織込む","i":["rK"]}],"r_ele":[{"r":"おりこむ","p":true}],"sense":[{"gloss":"to interweave, to weave into","pos":["v5m","vt"]},{"gloss":"to incorporate, to include, to factor in, to take into account, to put in (e.g. one's ideas, suggestions)","pos":["v5m","vt"]}]},"sdata":[]}

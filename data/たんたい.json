@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"単体","p":true}],"r_ele":[{"r":"たんたい","p":true}],"sense":[{"gloss":"simple substance (e.g. chemical)","pos":["n"]},{"gloss":"something standing alone, separate item, solo item","pos":["n"]}]},"sdata":[]}

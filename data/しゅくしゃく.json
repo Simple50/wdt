@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縮尺","p":true}],"r_ele":[{"r":"しゅくしゃく","p":true}],"sense":[{"gloss":"reduced scale, scaling down","pos":["n","vs","vt"]}]},"sdata":[{"j":"テキサス↑州↑↓しゅう↓の、↑縮尺↑↓|しゅくしゃく|↓↑25↑↓にじゅうご↓↑万↑↓まん↓↑分↑↓ぶん↓の↑1↑↓いち↓の↑地図↑↓ちず↓が↑欲↑↓ほ↓しいんですよ。","e":"I want a map of Texas on a scale of 1 to 250000."}]}

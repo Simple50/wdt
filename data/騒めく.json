@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"騒めく","p":true,"i":["rK"]}],"r_ele":[{"r":"ざわめく","p":true}],"sense":[{"gloss":"to be noisy, to be astir, to rustle, to murmur","pos":["v5k","vi"]}],"m":["uk"]},"kdata":{"騒":{"on":["ソウ"],"kun":["さわ.ぐ","うれい","さわ.がしい"],"jlpt":1,"meanings":["excited","boisterous","make noise","clamor","disturb","excite"],"freq":1069,"comp":[["馬","𧈡"]],"t":2255}},"sdata":[]}

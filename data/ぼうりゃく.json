@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"謀略","p":true}],"r_ele":[{"r":"ぼうりゃく","p":true}],"sense":[{"gloss":"scheme, plot, artifice, stratagem, trick","pos":["n"]}]},"sdata":[]}

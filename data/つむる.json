@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瞑る","p":true}],"r_ele":[{"r":"つぶる","p":true},{"r":"つむる","p":true}],"sense":[{"gloss":"to close (one's eyes), to shut","pos":["v5r","vt"],"x":["目をつぶる・1"]}],"m":["uk"]},"sdata":[{"j":"↑警察↑↓けいさつ↓はたいてい↑路上↑↓ろじょう↓↑駐車↑↓ちゅうしゃ↓の↑車↑↓くるま↓に↑目↑↓め↓を|つむる|。","e":"The police usually close their eyes to cars parked on the street."}]}

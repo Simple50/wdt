@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"供える","p":true}],"r_ele":[{"r":"そなえる","p":true}],"sense":[{"gloss":"to offer, to sacrifice, to dedicate","pos":["v1","vt"]}]},"kdata":{"供":{"on":["キョウ","ク","クウ","グ"],"kun":["そな.える","とも","-ども"],"jlpt":3,"meanings":["submit","offer","present","serve (meal)","accompany"],"freq":313,"comp":[["共","亻"]],"t":600}},"sdata":[]}

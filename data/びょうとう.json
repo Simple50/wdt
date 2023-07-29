@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病棟","p":true}],"r_ele":[{"r":"びょうとう","p":true}],"sense":[{"gloss":"(hospital) ward","pos":["n"]}]},"sdata":[{"j":"↑病棟↑↓|びょうとう|↓↑内↑↓ない↓では↑静↑↓しず↓かにお↑願↑↓ねが↓いいたします。","e":"Please be quiet within the ward."}]}

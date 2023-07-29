@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"使用済み","p":true}],"r_ele":[{"r":"しようずみ","p":true}],"sense":[{"gloss":"used (ticket, stamp, etc.), spent (fuel, battery, etc.)","pos":["adj-no","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロングセラー","p":true},{"r":"ロング・セラー"}],"sense":[{"gloss":"book with steady sales over a long time, longtime best seller","pos":["n"],"l":"eng: long seller"}]},"sdata":[]}

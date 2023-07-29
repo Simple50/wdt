@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抱き上げる","p":true}],"r_ele":[{"r":"だきあげる","p":true}],"sense":[{"gloss":"to hold up in one's arms","pos":["v1","vt"]}]},"sdata":[]}

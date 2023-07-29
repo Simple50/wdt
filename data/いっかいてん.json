@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一回転","p":true}],"r_ele":[{"r":"いっかいてん","p":true}],"sense":[{"gloss":"one revolution, one rotation","pos":["n","vs","vt","vi"]}]},"sdata":[]}

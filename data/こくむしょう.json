@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国務省","p":true}],"r_ele":[{"r":"こくむしょう","p":true}],"sense":[{"gloss":"State Department","pos":["n"]}]},"sdata":[{"j":"↑国務省↑↓|こくむしょう|↓で↑働↑↓はたら↓いている。","e":"I work in the State Department."}]}

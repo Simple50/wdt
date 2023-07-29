@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼け跡","p":true},{"e":"焼跡","i":["io"]}],"r_ele":[{"r":"やけあと","p":true}],"sense":[{"gloss":"ruins of a fire, fire-devastated area","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本中","p":true},{"e":"日本じゅう"}],"r_ele":[{"r":"にほんじゅう","p":true},{"r":"にっぽんじゅう"}],"sense":[{"gloss":"throughout Japan","pos":["n","adj-no"]}]},"sdata":[{"j":"トムは↑日本↑↓|にほん↓↑中↑↓じゅう|↓を↑旅↑↓たび↓しました。","e":"Tom traveled around Japan."}]}

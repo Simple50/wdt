@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"茜","p":true}],"r_ele":[{"r":"あかね","p":true},{"r":"アカネ"}],"sense":[{"gloss":"madder (esp. Japanese madder, Rubia argyi)","pos":["n"],"m":["uk"]},{"gloss":"madder (red color)","pos":["n"]}]},"sdata":[{"j":"↑小田↑↓おだ↓↑茜↑↓|あかね|↓は、↑美少女↑↓びしょうじょ↓コンテスト↑上↑↓あ↓がりの↑女優↑↓じょゆう↓だ。","e":"Akane Oda got her start in a petite miss beauty contest."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"専従者","p":true}],"r_ele":[{"r":"せんじゅうしゃ","p":true}],"sense":[{"gloss":"person doing one job exclusively, full-time worker, full-time union official","pos":["n"]}]},"sdata":[]}

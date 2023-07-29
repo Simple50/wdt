@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ギフト","p":true}],"sense":[{"gloss":"gift","pos":["n"]}]},"sdata":[{"j":"|ギフト|ショップはどこですか？","e":"Where's the gift shop?"},{"j":"クリスマスにトムから↑三↑↓さん↓↑百↑↓ひゃく↓ドルの|ギフト|カードもらったんだ。","e":"I received a $300 gift card from Tom for Christmas."},{"j":"|ギフト|↑包装↑↓ほうそう↓をお↑願↑↓ねが↓いできますか？","e":"Would you please gift wrap it?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空調","p":true}],"r_ele":[{"r":"くうちょう","p":true}],"sense":[{"gloss":"air conditioning","pos":["n"],"x":["空気調節","空気調和"]}],"m":["abbr"]},"sdata":[]}

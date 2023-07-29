@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フリゲート","p":true}],"sense":[{"gloss":"frigate","pos":["n"]}]},"sdata":[]}

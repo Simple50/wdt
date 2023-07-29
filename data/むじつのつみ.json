@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無実の罪","p":true}],"r_ele":[{"r":"むじつのつみ","p":true}],"sense":[{"gloss":"false charge","pos":["exp","n"],"f":["law"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑無実↑↓|むじつ↓の↑罪↑↓つみ|↓で↑告発↑↓こくはつ↓されている。","e":"He is under a false accusation."}]}

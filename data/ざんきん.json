@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"残金","p":true}],"r_ele":[{"r":"ざんきん","p":true}],"sense":[{"gloss":"remaining money","pos":["n"]}]},"sdata":[{"j":"↑残金↑↓|ざんきん|↓は↑６月↑↓ろくがつ↓３０↑日↑↓にち↓までに↑御↑↓ご↓↑支払↑↓しはら↓いします。","e":"We will pay this amount by June 30."}]}

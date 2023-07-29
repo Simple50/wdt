@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グライダー","p":true}],"sense":[{"gloss":"glider","pos":["n"]}]},"sdata":[{"j":"|グライダー|は↑空↑↓そら↓↑高↑↓たか↓く↑舞↑↓ま↓い↑上↑↓あ↓がった。","e":"The glider soared high into the air."}]}

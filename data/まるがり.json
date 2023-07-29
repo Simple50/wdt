@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"丸刈り","p":true},{"e":"丸刈"}],"r_ele":[{"r":"まるがり","p":true}],"sense":[{"gloss":"buzz cut, close crop","pos":["n","adj-no"]}]},"sdata":[{"j":"グラスの↑周↑↓まわ↓りにソルトをつけた|マルガリ|ータをすするのが↑好↑↓す↓き。","e":"I enjoy sipping on a margarita with salt around the rim."}]}

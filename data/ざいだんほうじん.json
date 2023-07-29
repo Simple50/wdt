@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"財団法人","p":true}],"r_ele":[{"r":"ざいだんほうじん","p":true}],"sense":[{"gloss":"incorporated foundation, juridical foundation","pos":["n"],"f":["law"],"x":["社団法人"]}]},"sdata":[]}

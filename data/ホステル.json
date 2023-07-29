@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホステル","p":true}],"sense":[{"gloss":"hostel","pos":["n"]}]},"sdata":[{"j":"この↑辺↑↓あた↓りにユース|ホステル|はありますか？","e":"Is there a youth hostel near here?"},{"j":"この↑辺↑↓あた↓りにユース|ホステル|はありますか？","e":"Is there a youth hostel around here?"}]}

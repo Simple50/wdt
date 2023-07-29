@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"政","p":true}],"r_ele":[{"r":"まつりごと","p":true},{"r":"せい"}],"sense":[{"gloss":"rule, government","pos":["n"]}]},"sdata":[]}

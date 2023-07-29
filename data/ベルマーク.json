@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベルマーク","p":true},{"r":"ベル・マーク"}],"sense":[{"gloss":"Bellmark, Bell Mark, tokens collected from product packaging and exchanged for school supplies","pos":["n"]}]},"sdata":[]}

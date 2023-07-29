@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"構造物","p":true}],"r_ele":[{"r":"こうぞうぶつ","p":true}],"sense":[{"gloss":"structure","pos":["n"]}]},"sdata":[]}

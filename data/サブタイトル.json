@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サブタイトル","p":true}],"sense":[{"gloss":"subtitle","pos":["n"]}]},"sdata":[]}

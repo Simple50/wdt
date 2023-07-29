@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄柱","p":true}],"r_ele":[{"r":"てっちゅう","p":true}],"sense":[{"gloss":"iron pole","pos":["n"]}]},"kdata":{"鉄":{"on":["テツ"],"kun":["くろがね"],"jlpt":2,"meanings":["iron"],"freq":672,"comp":[["金","失"]],"t":1809},"柱":{"on":["チュウ"],"kun":["はしら"],"jlpt":2,"meanings":["pillar","post","cylinder","support"],"freq":1119,"comp":[["木","主"]],"t":892}},"sdata":[]}

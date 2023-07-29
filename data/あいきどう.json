@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合気道","p":true},{"e":"合氣道","i":["oK"]}],"r_ele":[{"r":"あいきどう","p":true}],"sense":[{"gloss":"aikido","pos":["n"],"f":["MA"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は７↑年間↑↓ねんかん↓、↑合気道↑↓|あいきどう|↓をやっていた。","e":"He had been a practitioner of Aikido for seven years."}]}

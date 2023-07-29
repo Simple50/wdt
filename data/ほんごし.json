@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本腰","p":true}],"r_ele":[{"r":"ほんごし","p":true}],"sense":[{"gloss":"strenuous effort, earnestness, seriousness","pos":["n"]}]},"sdata":[{"j":"さて、↑本腰↑↓|ほんごし|↓を↑入↑↓い↓れてまじめな↑話↑↓はなし↓をしよう。","e":"Now let us get down to a serious talk."},{"j":"↑俺↑↓おれ↓は↑慌↑↓あわ↓てて↑探↑↓さが↓し↑物↑↓もの↓に↑本腰↑↓|ほんごし|↓を↑入↑↓い↓れ↑始↑↓はじ↓めた。","e":"I hurriedly started searching in earnest."}]}

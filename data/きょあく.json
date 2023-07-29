@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巨悪","p":true}],"r_ele":[{"r":"きょあく","p":true}],"sense":[{"gloss":"great evil","pos":["n"]},{"gloss":"scum of the earth, monster, fiend","pos":["n"]}]},"sdata":[]}

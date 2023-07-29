@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ケーススタディ","p":true},{"r":"ケーススタディー"},{"r":"ケース・スタディ"},{"r":"ケース・スタディー"}],"sense":[{"gloss":"case study","pos":["n"]}]},"sdata":[{"j":"↑提案↑↓ていあん↓された↑手法↑↓しゅほう↓を、↑三↑↓さん↓↑通↑↓とお↓りの↑仮想↑↓かそう↓|ケーススタディ|に↑適用↑↓てきよう↓します。","e":"The proposed method is applied to three simulated case studies."}]}

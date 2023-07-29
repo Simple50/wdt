@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャポニカ","p":true}],"sense":[{"gloss":"japonica, common camellia (Camellia japonica)","pos":["n"],"x":["椿・つばき・1"]}]},"sdata":[]}

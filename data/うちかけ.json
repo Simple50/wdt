@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち掛け","p":true},{"e":"裲襠"},{"e":"打掛け"},{"e":"打掛"}],"r_ele":[{"r":"うちかけ","p":true}],"sense":[{"gloss":"women's bridal robe with trailing skirts worn over a kimono","pos":["n"]},{"gloss":"ending play for the day, leaving a game unfinished (esp. Go)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"骨太","p":true}],"r_ele":[{"r":"ほねぶと","p":true}],"sense":[{"gloss":"big-boned, sturdily built, stout","pos":["adj-no","adj-na","n"],"ant":["骨細"]},{"gloss":"solid (plan, storyline, etc.)","pos":["adj-no","adj-na","n"]}]},"sdata":[]}

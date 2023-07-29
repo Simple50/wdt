@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"異邦人","p":true}],"r_ele":[{"r":"いほうじん","p":true}],"sense":[{"gloss":"foreigner","pos":["n"]},{"gloss":"stranger","pos":["n"]},{"gloss":"gentile, goy, non-Jew","pos":["n"]}]},"sdata":[{"j":"↑子供↑↓こども↓はみんな↑異邦↑↓|いほう↓↑人↑↓じん|↓だ。","e":"Children are all foreigners."}]}

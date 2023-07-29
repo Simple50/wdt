@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キュロット","p":true}],"sense":[{"gloss":"culotte","pos":["n"],"l":"fre"}]},"sdata":[]}

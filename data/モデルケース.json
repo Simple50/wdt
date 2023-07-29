@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モデルケース","p":true},{"r":"モデル・ケース"}],"sense":[{"gloss":"model case","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積み木","p":true},{"e":"積木"}],"r_ele":[{"r":"つみき","p":true}],"sense":[{"gloss":"wooden building blocks, wooden bricks, playing with building blocks","pos":["n"]},{"gloss":"piled timber, piling up wood","pos":["n"]}]},"sdata":[{"j":"↑子供↑↓こども↓は↑積↑↓|つ↓み↑木↑↓き|↓で↑遊↑↓あそ↓ぶ。","e":"Children play with blocks."}]}

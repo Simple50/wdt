@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドラスチック","p":true},{"r":"ドラスティック"}],"sense":[{"gloss":"drastic","pos":["adj-na"]}]},"sdata":[]}

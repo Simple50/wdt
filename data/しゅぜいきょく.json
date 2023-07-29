@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主税局","p":true}],"r_ele":[{"r":"しゅぜいきょく","p":true}],"sense":[{"gloss":"(Japanese) Tax Bureau","pos":["n"]}]},"sdata":[]}

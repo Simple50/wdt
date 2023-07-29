@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小話","p":true},{"e":"小咄"},{"e":"小噺"}],"r_ele":[{"r":"こばなし","p":true},{"r":"しょうわ"}],"sense":[{"gloss":"anecdote","pos":["n"]},{"gloss":"brief (comic) story","pos":["n"]}]},"sdata":[]}

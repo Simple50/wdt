@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"均一","p":true}],"r_ele":[{"r":"きんいつ","p":true},{"r":"きんいち"}],"sense":[{"gloss":"uniformity, equality","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"↑我↑↓わ↓が↑社↑↓しゃ↓は↑均一↑↓|きんいつ|↓↑料金↑↓りょうきん↓にすることに↑決定↑↓けってい↓した。","e":"Our company decided on flat rate pricing."},{"j":"↑最近↑↓さい|きん↓いつ|も↑雨↑↓あめ↓が↑降↑↓ふ↓っている。","e":"It's been raining all the time recently."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"啄木","p":true}],"r_ele":[{"r":"たくぼく","p":true}],"sense":[{"gloss":"woodpecker","pos":["n"],"x":["啄木鳥・きつつき"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑詩人↑↓しじん↓、たとえば↑啄木↑↓|たくぼく|↓が↑好↑↓す↓きである。","e":"I like poets, such as Takuboku."},{"j":"↑僕↑↓ぼく↓は↑啄木↑↓|たくぼく|↓の↑詩↑↓し↓の↑多↑↓おお↓くを↑暗記↑↓あんき↓した。","e":"I learned many of Takuboku's poems by heart."}]}

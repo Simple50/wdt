@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"授業参観","p":true}],"r_ele":[{"r":"じゅぎょうさんかん","p":true}],"sense":[{"gloss":"parents' day (day when parents observe their children in school)","pos":["n"]}]},"sdata":[]}

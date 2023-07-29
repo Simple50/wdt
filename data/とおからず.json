@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遠からず","p":true}],"r_ele":[{"r":"とおからず","p":true}],"sense":[{"gloss":"soon, before long, in the near future","pos":["adv"]}]},"sdata":[]}

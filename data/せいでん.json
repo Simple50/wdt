@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"正殿","p":true}],"r_ele":[{"r":"せいでん","p":true}],"sense":[{"gloss":"main temple, main building of a shrine","pos":["n"]},{"gloss":"alternate name for the Shishiden, Hall for State Ceremonies","pos":["n"],"x":["紫宸殿","内裏・1"]},{"gloss":"central building of a palace, State Chamber","pos":["n"]}]},"sdata":[]}

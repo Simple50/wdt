@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サテン","p":true}],"sense":[{"gloss":"satin","pos":["n"],"l":"dut: satijn"}]},"sdata":[{"j":"それが|サテン|のドレス？","e":"Is that a satin dress?"}]}

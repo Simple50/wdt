@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き連れる","p":true},{"e":"引連れる","i":["io"]},{"e":"引きつれる"}],"r_ele":[{"r":"ひきつれる","p":true}],"sense":[{"gloss":"to take someone along, to be accompanied (by)","pos":["v1","vt"]}]},"sdata":[]}

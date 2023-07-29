@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"顔ぶれ","p":true},{"e":"顔触れ","p":true}],"r_ele":[{"r":"かおぶれ","p":true}],"sense":[{"gloss":"personnel, members, lineup (of a team), roster, cast (of a play)","pos":["n"]},{"gloss":"announcement of next day's match-ups","pos":["n"],"f":["sumo"]}]},"sdata":[]}

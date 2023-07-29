@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小雪","p":true}],"r_ele":[{"r":"こゆき","p":true}],"sense":[{"gloss":"light snow","pos":["n"]}]},"sdata":[{"j":"みんなクリスマスに↑小雪↑↓|こゆき|↓がちらつくのを↑望↑↓のぞ↓んでいた。","e":"Everyone hoped for a snow flurry for Christmas."},{"j":"↑新年↑↓しんねん↓は↑小雪↑↓|こゆき|↓で↑始↑↓はじ↓まった。","e":"The New Year came in with a light fall of snow."}]}

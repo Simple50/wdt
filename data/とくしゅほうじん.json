@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特殊法人","p":true}],"r_ele":[{"r":"とくしゅほうじん","p":true}],"sense":[{"gloss":"semigovernmental corporation","pos":["n"]}]},"sdata":[]}

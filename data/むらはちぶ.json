@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"村八分","p":true}],"r_ele":[{"r":"むらはちぶ","p":true}],"sense":[{"gloss":"ostracism","pos":["n"]},{"gloss":"complete ostracism of a household (the harshest punishment in Edo-period village law)","pos":["n"],"m":["hist"]}]},"sdata":[]}

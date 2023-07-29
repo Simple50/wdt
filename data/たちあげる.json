@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立ち上げる","p":true},{"e":"立ちあげる"}],"r_ele":[{"r":"たちあげる","p":true}],"sense":[{"gloss":"to start (something), to start up, to boot (a computer), to launch (a business)","pos":["v1","vt"]}]},"sdata":[]}

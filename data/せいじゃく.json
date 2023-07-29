@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"静寂","p":true}],"r_ele":[{"r":"せいじゃく","p":true}],"sense":[{"gloss":"silence, stillness, quietness","pos":["n","adj-na"]}]},"sdata":[]}

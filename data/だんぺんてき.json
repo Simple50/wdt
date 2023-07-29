@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"断片的","p":true}],"r_ele":[{"r":"だんぺんてき","p":true}],"sense":[{"gloss":"fragmentary","pos":["adj-na"]}]},"sdata":[{"j":"インターネットの↑断片↑↓|だんぺん↓↑的↑↓てき|↓ニュースを↑読↑↓よ↓んでいるだけですが、まあ、だいたい↑想像↑↓そうぞう↓がつきます。","e":"I'm only reading the scraps on news on the Internet, but, well, I get the general picture."}]}

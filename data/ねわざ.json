@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝技","p":true},{"e":"寝業","i":["rK"]}],"r_ele":[{"r":"ねわざ","p":true}],"sense":[{"gloss":"pinning technique (in wrestling or judo)","pos":["n"],"f":["MA","sumo"]},{"gloss":"underhanded dealings","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見開く","p":true}],"r_ele":[{"r":"みひらく","p":true}],"sense":[{"gloss":"to open one's eyes wide","pos":["v5k","vt"]}]},"sdata":[]}

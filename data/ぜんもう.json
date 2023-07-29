@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"全盲","p":true}],"r_ele":[{"r":"ぜんもう","p":true}],"sense":[{"gloss":"total blindness","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"淡紅色","p":true}],"r_ele":[{"r":"たんこうしょく","p":true}],"sense":[{"gloss":"pink, rose","pos":["n","adj-no"]}]},"sdata":[]}

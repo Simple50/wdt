@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イマジネーション","p":true},{"r":"イマジネイション"}],"sense":[{"gloss":"imagination","pos":["n"]}]},"sdata":[]}

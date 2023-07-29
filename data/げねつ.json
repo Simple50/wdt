@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"解熱","p":true}],"r_ele":[{"r":"げねつ","p":true}],"sense":[{"gloss":"lowering a fever, alleviation of fever","pos":["n","vs","vi","adj-no"],"x":["下熱・げねつ"]}]},"sdata":[]}

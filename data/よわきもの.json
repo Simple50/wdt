@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弱き者","p":true}],"r_ele":[{"r":"よわきもの","p":true}],"sense":[{"gloss":"weak person, the weak","pos":["n"]}]},"sdata":[]}

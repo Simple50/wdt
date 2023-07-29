@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トマホーク","p":true}],"sense":[{"gloss":"tomahawk","pos":["n"]}]},"sdata":[]}

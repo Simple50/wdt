@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カジノ","p":true}],"sense":[{"gloss":"casino","pos":["n"],"l":"fre"}]},"sdata":[{"j":"トムは↑全↑↓ぜん↓↑財産↑↓ざいさん↓を|カジノ|で↑失↑↓うしな↓った。","e":"Tom lost all his money at the casino."}]}

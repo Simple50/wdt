@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"局留め","p":true}],"r_ele":[{"r":"きょくどめ","p":true}],"sense":[{"gloss":"general delivery, counter collection, poste restante","pos":["n"]}]},"sdata":[]}

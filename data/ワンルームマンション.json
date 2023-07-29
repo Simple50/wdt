@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワンルームマンション","p":true}],"sense":[{"gloss":"studio apartment, studio flat","pos":["n"],"l":"eng: one-room mansion"}]},"sdata":[]}

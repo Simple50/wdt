@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名誉職","p":true}],"r_ele":[{"r":"めいよしょく","p":true}],"sense":[{"gloss":"honorary position","pos":["n"]}]},"sdata":[]}

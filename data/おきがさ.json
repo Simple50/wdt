@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"置き傘","p":true}],"r_ele":[{"r":"おきがさ","p":true}],"sense":[{"gloss":"spare umbrella kept (at work) in the event of a sudden shower","pos":["n"]}]},"sdata":[{"j":"↑明日↑↓あした↓の↑夜↑↓よる↓から↑雨↑↓あめ↓だから↑置↑↓|お↓き↑傘↑↓がさ|↓をしていこう。","e":"It's supposed to rain tomorrow night, so let's leave our umbrellas until then."}]}

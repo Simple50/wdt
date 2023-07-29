@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"完全雇用","p":true}],"r_ele":[{"r":"かんぜんこよう","p":true}],"sense":[{"gloss":"full employment","pos":["n"]}]},"sdata":[{"j":"↑残念↑↓ざんねん↓ながら、↑完全↑↓|かんぜん↓↑雇用↑↓こよう|↓はもう↑当然↑↓とうぜん↓の↑事↑↓こと↓ではなくなっている。","e":"Unfortunately, full employment can no longer be taken for granted."}]}

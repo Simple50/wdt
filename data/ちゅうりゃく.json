@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中略","p":true}],"r_ele":[{"r":"ちゅうりゃく","p":true}],"sense":[{"gloss":"omission (of middle part of a text), ellipsis","pos":["n","vs","vt","vi"]}]},"sdata":[]}

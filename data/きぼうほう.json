@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"喜望峰","p":true}],"r_ele":[{"r":"きぼうほう","p":true}],"sense":[{"gloss":"Cape of Good Hope","pos":["n"]}]},"sdata":[]}

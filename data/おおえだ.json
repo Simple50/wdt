@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大枝","p":true}],"r_ele":[{"r":"おおえだ","p":true},{"r":"おおえ"}],"sense":[{"gloss":"large branch, bough","pos":["n"]}]},"sdata":[{"j":"その↑木↑↓き↓は↑大枝↑↓|おおえだ|↓↑小枝↑↓さえ↓が↑茂↑↓しげ↓りすぎている。","e":"The tree has too many twigs and branches."}]}

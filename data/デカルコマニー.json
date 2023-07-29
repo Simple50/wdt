@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デカルコマニー","p":true}],"sense":[{"gloss":"decalcomania, decalcomanie, transfer","pos":["n"],"l":"fre: décalcomanie"}]},"sdata":[]}

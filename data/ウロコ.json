@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鱗","p":true}],"r_ele":[{"r":"うろこ","p":true},{"r":"こけ"},{"r":"こけら"},{"r":"ウロコ","p":true}],"sense":[{"gloss":"scale (of fish, snake, etc.)","pos":["n"]},{"gloss":"serif (on kana or kanji (e.g. in Mincho font))","pos":["n"]}],"m":["uk"]},"sdata":[]}

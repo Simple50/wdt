@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待命","p":true}],"r_ele":[{"r":"たいめい","p":true}],"sense":[{"gloss":"waiting for orders","pos":["n","vs","vi"]}]},"sdata":[]}

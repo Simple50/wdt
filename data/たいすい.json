@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"耐水","p":true}],"r_ele":[{"r":"たいすい","p":true}],"sense":[{"gloss":"water-resistant, waterproof","pos":["n","adj-no"]}]},"sdata":[]}

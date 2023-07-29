@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベースアップ","p":true},{"r":"ベース・アップ"}],"sense":[{"gloss":"increase in base pay, raise of the basic wage rate, salary increase","pos":["n","vs","vi","vt"],"ant":["ベースダウン"],"l":"eng: base up"}]},"sdata":[]}

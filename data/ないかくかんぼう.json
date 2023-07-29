@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内閣官房","p":true}],"r_ele":[{"r":"ないかくかんぼう","p":true}],"sense":[{"gloss":"Cabinet Secretariat","pos":["n"]}]},"sdata":[]}

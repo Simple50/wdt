@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボンベイブラッド","p":true},{"r":"ボンベイ・ブラッド"}],"sense":[{"gloss":"Bombay blood type, Hh blood group","pos":["n"]}]},"sdata":[]}

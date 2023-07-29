@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"層群","p":true}],"r_ele":[{"r":"そうぐん","p":true}],"sense":[{"gloss":"(geol) group","pos":["n"]}]},"sdata":[]}

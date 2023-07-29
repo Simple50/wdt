@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公証人","p":true}],"r_ele":[{"r":"こうしょうにん","p":true}],"sense":[{"gloss":"notary public, notary, public notary","pos":["n"]}]},"sdata":[]}

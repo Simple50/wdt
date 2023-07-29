@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"菌類","p":true}],"r_ele":[{"r":"きんるい","p":true}],"sense":[{"gloss":"fungus, fungi","pos":["n"]}]},"sdata":[]}

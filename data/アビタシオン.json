@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アビタシオン","p":true}],"sense":[{"gloss":"habitation","pos":["n"],"l":"fre"}]},"sdata":[]}

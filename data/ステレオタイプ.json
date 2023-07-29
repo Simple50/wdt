@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ステレオタイプ","p":true},{"r":"ステロタイプ"}],"sense":[{"gloss":"stereotype","pos":["n","adj-na"]}]},"sdata":[]}

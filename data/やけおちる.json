@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼け落ちる","p":true}],"r_ele":[{"r":"やけおちる","p":true}],"sense":[{"gloss":"to be burned down","pos":["v1","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑自分↑↓じぶん↓の↑家↑↓いえ↓が↑焼↑↓|や↓け↑落↑↓お↓ちる|のを↑見↑↓み↓て↑正気↑↓しょうき↓を↑失↑↓うしな↓った。","e":"He lost his reason when he saw his house burn down."}]}

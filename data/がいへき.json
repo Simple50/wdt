@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外壁","p":true}],"r_ele":[{"r":"がいへき","p":true},{"r":"そとかべ"}],"sense":[{"gloss":"outer wall","pos":["n"]}]},"sdata":[{"j":"その↑講堂↑↓こうどう↓の↑外壁↑↓|がいへき|↓はひどく↑黒↑↓くろ↓ずんでいる。その↑原因↑↓げんいん↓の↑一↑↓ひと↓つは↑酸性↑↓さんせい↓↑雨↑↓う↓である。","e":"The outside walls of the auditorium are terribly stained. It is, in part, due to acid rain."}]}

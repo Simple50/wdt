@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウイング","p":true},{"r":"ウィング"}],"sense":[{"gloss":"wing (bird, aircraft, etc.)","pos":["n"]},{"gloss":"wing (rugby, soccer, etc.)","pos":["n"],"f":["sports"]},{"gloss":"wing (of a building)","pos":["n"]},{"gloss":"unbalanced edge (othello)","pos":["n"]}]},"sdata":[]}

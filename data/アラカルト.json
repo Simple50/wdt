@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アラカルト","p":true},{"r":"ア・ラ・カルト"}],"sense":[{"gloss":"à la carte","pos":["n"],"l":"fre"}]},"sdata":[]}

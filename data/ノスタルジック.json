@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノスタルジック","p":true}],"sense":[{"gloss":"nostalgic","pos":["adj-na"]}]},"sdata":[{"j":"|ノスタルジック|な↑感↑↓かん↓じがたまらなく↑好↑↓す↓きな↑人↑↓ひと↓もいるし、↑独創↑↓どくそう↓↑性↑↓せい↓を↑愛↑↓あい↓する↑人↑↓ひと↓もいる。","e":"There are people who go mad for the nostalgic feel and also those who love originality."}]}

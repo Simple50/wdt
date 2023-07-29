@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"県知事","p":true}],"r_ele":[{"r":"けんちじ","p":true}],"sense":[{"gloss":"prefectural governor","pos":["n"]}]},"sdata":[{"j":"その↑県知事↑↓|けんちじ|↓は↑７月↑↓しちがつ↓の↑選挙↑↓せんきょ↓で↑勝利↑↓しょうり↓をおさめました。","e":"The prefectural governor got the upper hand in the July elections."}]}

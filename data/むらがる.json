@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"群がる","p":true},{"e":"叢がる","i":["rK"]},{"e":"簇がる","i":["rK"]}],"r_ele":[{"r":"むらがる","p":true}],"sense":[{"gloss":"to swarm, to gather","pos":["v5r","vi"]}]},"sdata":[{"j":"その↑歌手↑↓かしゅ↓はファンの↑群↑↓|むら↓がる|↑中↑↓なか↓を↑苦心↑↓くしん↓して↑進↑↓すす↓んだ。","e":"The singer fought his way through the crowd of fans."}]}

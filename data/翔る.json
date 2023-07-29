@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"翔る","p":true},{"e":"駆ける"},{"e":"翔ける","i":["io"]}],"r_ele":[{"r":"かける","p":true}],"sense":[{"gloss":"to soar, to fly","pos":["v5r","vi"]},{"gloss":"to run, to dash","pos":["v5r","vi"]}]},"kdata":{"翔":{"on":["ショウ"],"kun":["かけ.る","と.ぶ"],"meanings":["soar","fly"],"freq":1936,"comp":[["羊","羽"]],"jlpt":0,"t":1660}},"sdata":[]}

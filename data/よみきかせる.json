@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"読み聞かせる","p":true}],"r_ele":[{"r":"よみきかせる","p":true}],"sense":[{"gloss":"to read aloud to another","pos":["v1","vt"]}]},"sdata":[]}

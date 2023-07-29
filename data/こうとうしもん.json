@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口答試問"},{"e":"口頭試問","p":true}],"r_ele":[{"r":"こうとうしもん","p":true}],"sense":[{"gloss":"oral examination, interview","pos":["n"]}]},"sdata":[]}

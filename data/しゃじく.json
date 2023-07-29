@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"車軸","p":true}],"r_ele":[{"r":"しゃじく","p":true}],"sense":[{"gloss":"axle","pos":["n"]}]},"sdata":[{"j":"↑車輪↑↓しゃりん↓は↑車軸↑↓|しゃじく|↓で↑回転↑↓かいてん↓する。","e":"Wheels turn on axles."}]}

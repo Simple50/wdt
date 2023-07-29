@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日の目","p":true}],"r_ele":[{"r":"ひのめ","p":true}],"sense":[{"gloss":"sunlight","pos":["exp","n"]}]},"sdata":[{"j":"その↑作品↑↓さくひん↓は↑先月↑↓せんげつ↓ついに↑日↑↓|ひ↓の↑目↑↓め|↓を↑見↑↓み↓た。","e":"The work finally saw the light last month."},{"j":"その↑法案↑↓ほうあん↓は↑結局↑↓けっきょく↓↑日↑↓|ひ↓の↑目↑↓め|↓を↑見↑↓み↓なかった。","e":"The bill was finally shelved."}]}

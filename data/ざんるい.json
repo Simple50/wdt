@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"残塁","p":true}],"r_ele":[{"r":"ざんるい","p":true}],"sense":[{"gloss":"left on base","pos":["n","vs"],"f":["baseb"]},{"gloss":"remnant fort","pos":["n"]}]},"sdata":[]}

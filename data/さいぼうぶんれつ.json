@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細胞分裂","p":true}],"r_ele":[{"r":"さいぼうぶんれつ","p":true}],"sense":[{"gloss":"cell division","pos":["n"]}]},"sdata":[]}

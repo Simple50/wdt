@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寒村","p":true}],"r_ele":[{"r":"かんそん","p":true}],"sense":[{"gloss":"poor village, desolate village, lonely village, remote village","pos":["n"]}]},"sdata":[]}

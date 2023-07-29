@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旭日","p":true}],"r_ele":[{"r":"きょくじつ","p":true}],"sense":[{"gloss":"rising sun","pos":["n"]}]},"sdata":[]}

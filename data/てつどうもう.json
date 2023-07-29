@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄道網","p":true}],"r_ele":[{"r":"てつどうもう","p":true}],"sense":[{"gloss":"railroad network, railroad system","pos":["n"]}]},"sdata":[{"j":"まもなく↑鉄道↑↓|てつどう↓↑網↑↓もう|↓が↑全国↑↓ぜんこく↓に↑広↑↓ひろ↓がった。","e":"A network of railroads soon spread over the entire country."}]}

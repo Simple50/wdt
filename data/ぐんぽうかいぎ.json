@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍法会議","p":true}],"r_ele":[{"r":"ぐんぽうかいぎ","p":true}],"sense":[{"gloss":"court-martial","pos":["n"]}]},"sdata":[]}

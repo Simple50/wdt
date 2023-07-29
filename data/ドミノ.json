@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドミノ","p":true}],"sense":[{"gloss":"domino (game), dominoes","pos":["n"]},{"gloss":"domino effect","pos":["n"],"m":["abbr"],"x":["ドミノ現象"]}]},"sdata":[]}

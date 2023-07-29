@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絵空事","p":true},{"e":"絵空言","i":["iK"]}],"r_ele":[{"r":"えそらごと","p":true}],"sense":[{"gloss":"fabrication, pipe dream","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オリゴマー","p":true}],"sense":[{"gloss":"oligomer","pos":["n"]}]},"sdata":[]}

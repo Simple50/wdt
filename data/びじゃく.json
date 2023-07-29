@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"微弱","p":true}],"r_ele":[{"r":"びじゃく","p":true}],"sense":[{"gloss":"feeble, faint, weak","pos":["adj-na","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヒンドゥー","p":true},{"r":"ヒンズー","p":true},{"r":"ヒンドゥ"},{"r":"ヒンズ"}],"sense":[{"gloss":"Hindu","pos":["n"]}]},"sdata":[{"j":"ゼロという↑概念↑↓がいねん↓は|ヒンドゥー|↑文化↑↓ぶんか↓に↑由来↑↓ゆらい↓している。","e":"The concept of zero sprang from the Hindu culture."},{"j":"ゼロという↑概念↑↓がいねん↓は、|ヒンドゥー|↑文化↑↓ぶんか↓に↑由来↑↓ゆらい↓している。","e":"The concept of zero comes from Hindu culture."}]}

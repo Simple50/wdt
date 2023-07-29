@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"読み手","p":true},{"e":"読手"}],"r_ele":[{"r":"よみて","p":true}],"sense":[{"gloss":"reader (person)","pos":["n"]},{"gloss":"person who reads the cards (in karuta games)","pos":["n"],"x":["取り手・3"]},{"gloss":"composer (of a poem)","pos":["n"],"x":["詠み手・よみて"]}]},"sdata":[]}

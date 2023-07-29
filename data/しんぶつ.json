@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神仏","p":true}],"r_ele":[{"r":"しんぶつ","p":true},{"r":"かみほとけ"}],"sense":[{"gloss":"gods and Buddha","pos":["n"]},{"gloss":"Shinto and Buddhism","pos":["n"]}]},"sdata":[]}

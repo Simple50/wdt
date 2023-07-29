@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"南極海","p":true}],"r_ele":[{"r":"なんきょくかい","p":true}],"sense":[{"gloss":"Southern Ocean, Antarctic Ocean","pos":["n"]}]},"sdata":[]}

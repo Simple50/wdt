@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勝手気まま","p":true},{"e":"勝手気儘"}],"r_ele":[{"r":"かってきまま","p":true}],"sense":[{"gloss":"self-willed, (doing or saying things) to suit one's own convenience, oblivious to the convenience of others","pos":["n","adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑勝手↑↓|かって↓↑気↑↓き↓まま|に↑自分↑↓じぶん↓の↑考↑↓かんが↓えを↑口↑↓くち↓に↑出↑↓だ↓した。","e":"He voiced his opinion with reckless abandon."}]}

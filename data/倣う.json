@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"倣う","p":true},{"e":"傚う","i":["rK"]},{"e":"慣らう","i":["rK"]}],"r_ele":[{"r":"ならう","p":true}],"sense":[{"gloss":"to imitate, to follow, to copy, to emulate","pos":["v5u","vi"]}],"m":["uk"]},"kdata":{"倣":{"on":["ホウ"],"kun":["なら.う"],"jlpt":1,"meanings":["imitate","emulate"],"freq":2454,"comp":[["亻","放"]],"t":1015}},"sdata":[]}

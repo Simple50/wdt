@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隣室","p":true}],"r_ele":[{"r":"りんしつ","p":true}],"sense":[{"gloss":"next or adjoining room","pos":["n"]}]},"sdata":[]}

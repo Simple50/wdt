@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"組み込み","p":true},{"e":"組込み"},{"e":"組込"}],"r_ele":[{"r":"くみこみ","p":true}],"sense":[{"gloss":"cut-in (printing), insertion, inclusion","pos":["n","vs"]},{"gloss":"built-in, predefined, embedded (e.g. software)","pos":["adj-f"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちの↑計画↑↓けいかく↓がうまく↑行↑↓い↓|く↑見込↑↓みこ↓み|は↑全↑↓まった↓くない。","e":"Our plan hasn't the ghost of chance."}]}

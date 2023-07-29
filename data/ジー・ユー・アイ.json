@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＧＵＩ","p":true}],"r_ele":[{"r":"ジー・ユー・アイ","p":true},{"r":"グイ"},{"r":"グーイ"},{"r":"ジーユーアイ","i":["sk"]}],"sense":[{"gloss":"graphical user interface, GUI","pos":["n"],"f":["comp"]}]},"sdata":[]}

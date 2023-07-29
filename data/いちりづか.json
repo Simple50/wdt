@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一里塚","p":true}],"r_ele":[{"r":"いちりづか","p":true}],"sense":[{"gloss":"milestone (1 ri apart)","pos":["n"]}]},"sdata":[]}

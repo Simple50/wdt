@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ザンビア","p":true}],"sense":[{"gloss":"Zambia","pos":["n"]}]},"sdata":[{"j":"|ザンビア|はアフリカの↑国↑↓くに↓だからあなた↑方↑↓かた↓は↑気候↑↓きこう↓がとても↑暑↑↓あつ↓いのではないかと↑思↑↓おも↓うかも↑知↑↓し↓れませんね。","e":"It's an African country, so you may think the climate is very hot."},{"j":"|ザンビア|からやって↑来↑↓き↓ました。","e":"I'm from Zambia."}]}

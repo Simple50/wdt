@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プルークボーゲン","p":true}],"sense":[{"gloss":"double-stem turn, snowplough turn, snowplow turn","pos":["n"],"l":"ger: Pflugbogen"}]},"sdata":[]}

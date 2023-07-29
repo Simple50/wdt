@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高飛び込み","p":true},{"e":"高飛込み","i":["rK"]},{"e":"高飛びこみ","i":["rK"]}],"r_ele":[{"r":"たかとびこみ","p":true}],"sense":[{"gloss":"high dive, high diving","pos":["n"]}]},"sdata":[]}

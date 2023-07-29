@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"八分音符","p":true}],"r_ele":[{"r":"はちぶおんぷ","p":true}],"sense":[{"gloss":"8th note, eighth note, quaver","pos":["n"],"f":["music"]}]},"sdata":[]}

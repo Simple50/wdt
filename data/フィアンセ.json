@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィアンセ","p":true}],"sense":[{"gloss":"fiance, fiancee","pos":["n"],"l":"fre: fiancé(e)"}]},"sdata":[{"j":"↑白↑↓しろ↓い↑洋服↑↓ようふく↓を↑着↑↓き↓ている↑子↑↓こ↓が↑私↑↓わたし↓の|フィアンセ|だ。","e":"The girl who is dressed in white is my fiancée."},{"j":"メアリーはトムの|フィアンセ|だよ。","e":"Mary is Tom's fiancée."},{"j":"こちらが、↑僕↑↓ぼく↓の|フィアンセ|です。","e":"This is my fiancé."}]}

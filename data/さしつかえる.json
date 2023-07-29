@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"差し支える","p":true},{"e":"差支える"}],"r_ele":[{"r":"さしつかえる","p":true}],"sense":[{"gloss":"to interfere (with), to hinder, to be hindered (from doing), to become impeded, to have difficulty, to suffer inconvenience","pos":["v1","vi"]}]},"sdata":[]}

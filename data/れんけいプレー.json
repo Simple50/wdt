@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連係プレー","p":true},{"e":"連携プレー"}],"r_ele":[{"r":"れんけいプレー","p":true}],"sense":[{"gloss":"(good) teamwork, team play","pos":["n"],"f":["sports"]},{"gloss":"(close) cooperation, coordination, collaboration, teamwork","pos":["n"]}]},"sdata":[]}

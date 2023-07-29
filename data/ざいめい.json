@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"罪名","p":true}],"r_ele":[{"r":"ざいめい","p":true}],"sense":[{"gloss":"name of a crime, charge","pos":["n"]}]},"sdata":[]}

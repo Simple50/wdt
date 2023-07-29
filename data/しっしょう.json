@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"失笑","p":true}],"r_ele":[{"r":"しっしょう","p":true}],"sense":[{"gloss":"laughing at an inappropriate time, not being able to hold back one's laughter","pos":["n","vs","vi"]},{"gloss":"scornful laughter, snicker, snigger","pos":["n","vs","vi"],"m":["col"]}]},"sdata":[{"j":"↑失笑↑↓|しっしょう|↓してしまった。","e":"It wasn't funny, but I laughed."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殊に","p":true},{"e":"異に"}],"r_ele":[{"r":"ことに","p":true}],"sense":[{"gloss":"especially, particularly, unusually, above all","pos":["adv"]},{"gloss":"additionally","pos":["adv"],"m":["arch"]}]},"kdata":{"殊":{"on":["シュ"],"kun":["こと"],"jlpt":1,"meanings":["particularly","especially","exceptionally"],"freq":1361,"comp":[["朱","歹"]],"t":1103}},"sdata":[]}

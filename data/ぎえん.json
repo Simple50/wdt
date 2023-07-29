@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"義捐"},{"e":"義援","p":true}],"r_ele":[{"r":"ぎえん","p":true}],"sense":[{"gloss":"alms, donation (esp. disaster relief or charity), contribution","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外堀","p":true},{"e":"外濠"},{"e":"外壕","i":["rK"]}],"r_ele":[{"r":"そとぼり","p":true}],"sense":[{"gloss":"outer moat (of a castle)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大輪","p":true}],"r_ele":[{"r":"たいりん","p":true}],"sense":[{"gloss":"large-flowered","pos":["n","adj-no"]}]},"sdata":[{"j":"マダガスカルの↑熱帯↑↓ねっ|たい↓↑林↑↓りん|↓の↑９０↑↓きゅうじっ↓↑％↑↓パーセント↓↑以上↑↓いじょう↓が↑伐採↑↓ばっさい↓されました。","e":"More than 90 percent of Madagascar's rainforests have been destroyed."}]}

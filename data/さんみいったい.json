@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三位一体","p":true}],"r_ele":[{"r":"さんみいったい","p":true}],"sense":[{"gloss":"the Trinity","pos":["n"],"f":["Christn"]},{"gloss":"three parts, three components, three factors, three aspects","pos":["n"]}],"m":["yoji"]},"sdata":[]}

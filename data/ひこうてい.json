@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飛行艇","p":true}],"r_ele":[{"r":"ひこうてい","p":true}],"sense":[{"gloss":"flying boat","pos":["n"]}]},"sdata":[{"j":"ボーイング↑社↑↓しゃ↓は↑海上↑↓かいじょう↓↑自衛隊↑↓じえいたい↓↑用↑↓よう↓の↑飛行↑↓|ひこう↓↑艇↑↓てい|↓を↑開発↑↓かいはつ↓しました。","e":"Boeing developed a flying boat for the Maritime Self-Defense Force."}]}

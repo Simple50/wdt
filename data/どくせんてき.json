@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独占的","p":true}],"r_ele":[{"r":"どくせんてき","p":true}],"sense":[{"gloss":"monopolistic, exclusive","pos":["adj-na"]}]},"sdata":[]}

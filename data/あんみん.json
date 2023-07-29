@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安眠","p":true}],"r_ele":[{"r":"あんみん","p":true}],"sense":[{"gloss":"sound sleep, good sleep, quiet sleep","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑君↑↓きみ↓の↑怪↑↓あや↓しい↑行動↑↓こうどう↓を↑見↑↓み↓て↑謎↑↓なぞ↓のままなんて↑僕↑↓ぼく↓の↑安眠↑↓|あんみん|↓を↑奪↑↓うば↓うつもりかい？","e":"Leaving your suspicious actions I've seen a mystery - are you trying to rob me of my sleep?"}]}

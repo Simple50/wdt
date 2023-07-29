@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"梅雨明け","p":true},{"e":"出梅"}],"r_ele":[{"r":"つゆあけ","p":true},{"r":"しゅつばい"}],"sense":[{"gloss":"end of the rainy season","pos":["n","vs","vi"],"x":["梅雨入り"]}]},"sdata":[{"j":"↑今年↑↓ことし↓は↑梅雨↑↓|つゆ↓↑明↑↓あ↓け|が↑遅↑↓おそ↓かった。","e":"The end of the rainy season came late this year."},{"j":"↑早↑↓はや↓く↑梅雨↑↓|つゆ↓↑明↑↓あ↓け|ないかなあ。","e":"I wish the rainy season would end soon."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"十二指腸","p":true}],"r_ele":[{"r":"じゅうにしちょう","p":true}],"sense":[{"gloss":"duodenum","pos":["n","adj-no"],"f":["anat"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"即物的","p":true}],"r_ele":[{"r":"そくぶつてき","p":true}],"sense":[{"gloss":"practical, matter-of-fact, realistic, utilitarian, pragmatic","pos":["adj-na"]}]},"sdata":[]}

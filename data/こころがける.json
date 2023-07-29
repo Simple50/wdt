@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心がける","p":true},{"e":"心掛ける","p":true},{"e":"心懸ける"}],"r_ele":[{"r":"こころがける","p":true}],"sense":[{"gloss":"to keep in mind, to bear in mind, to try, to aim to do, to endeavor, to endeavour","pos":["v1","vt"]}]},"sdata":[{"j":"↑文法↑↓ぶんぽう↓↑的↑↓てき↓に↑正↑↓ただ↓しい↑文章↑↓ぶんしょう↓を↑作↑↓つく↓るよう↑心↑↓|こころ↓がける|べきだ。","e":"You should try to produce grammatical sentences."}]}

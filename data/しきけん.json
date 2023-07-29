@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"識見","p":true}],"r_ele":[{"r":"しきけん","p":true},{"r":"しっけん"}],"sense":[{"gloss":"views, opinion, discernment, pride, self-respect, insight","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑少↑↓すこ↓|し↑危険↑↓きけん|↓をともなうスポーツが↑好↑↓す↓きだ。","e":"He likes sports that have a touch of risk."}]}

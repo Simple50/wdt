@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"昆布","p":true}],"r_ele":[{"r":"こんぶ","p":true},{"r":"こぶ"},{"r":"コンブ"}],"sense":[{"gloss":"any edible species from the family Laminariaceae, kelp, kombu (usu. Saccharina japonica), konbu","pos":["n"],"l":"ain"}]},"sdata":[{"j":"「わかめ」と「↑昆布↑↓|こんぶ|↓」って、↑違↑↓ちが↓うの？","e":"Are wakame and kombu different?"}]}

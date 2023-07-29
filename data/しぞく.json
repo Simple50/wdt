@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"氏族","p":true}],"r_ele":[{"r":"しぞく","p":true}],"sense":[{"gloss":"clan, family","pos":["n","adj-no"]}]},"sdata":[]}

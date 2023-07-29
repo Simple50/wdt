@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"百害","p":true}],"r_ele":[{"r":"ひゃくがい","p":true}],"sense":[{"gloss":"great damage","pos":["n"]}]},"sdata":[{"j":"たばこは↑百害↑↓|ひゃくがい|↓あって↑一利↑↓いちり↓なし。","e":"Smoking does much harm but no good."}]}

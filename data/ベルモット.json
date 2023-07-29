@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベルモット","p":true},{"r":"ヴェルモット"}],"sense":[{"gloss":"vermouth","pos":["n"],"l":"fre"}]},"sdata":[]}

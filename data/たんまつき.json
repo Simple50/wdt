@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"端末機","p":true}],"r_ele":[{"r":"たんまつき","p":true}],"sense":[{"gloss":"terminal (unit)","pos":["n"]}]},"sdata":[]}

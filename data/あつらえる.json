@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"誂える","p":true}],"r_ele":[{"r":"あつらえる","p":true}],"sense":[{"gloss":"to give an order, to place an order, to have made to order","pos":["v1","vt"]}],"m":["uk"]},"sdata":[{"j":"↑冬↑↓ふゆ↓にグレーのスーツを１↑着↑↓ちゃく↓|あつらえる|↑事↑↓こと↓を↑考↑↓かんが↓えています。","e":"I have it in mind to have a gray suit made to order for the winter."}]}

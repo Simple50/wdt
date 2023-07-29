@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウインカー","p":true},{"r":"ウィンカー","p":true},{"r":"ウインカ"},{"r":"ウィンカ"}],"sense":[{"gloss":"(car) turn signal, blinker, indicator","pos":["n"],"l":"eng: winker"}]},"sdata":[{"j":"トムは↑車線↑↓しゃせん↓↑変更↑↓へんこう↓の↑前↑↓まえ↓に|ウインカー|を↑出↑↓だ↓さなかった。","e":"Tom didn't signal before changing lanes."}]}

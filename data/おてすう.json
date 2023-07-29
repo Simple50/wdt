@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お手数","p":true},{"e":"御手数"}],"r_ele":[{"r":"おてすう","p":true},{"r":"おてかず"}],"sense":[{"gloss":"trouble, bother","pos":["n"],"x":["手数・てすう・1"]}],"m":["hon"]},"sdata":[{"j":"|お↑手数↑↓てすう|↓をおかけしてすみません。","e":"I'm sorry to trouble you."},{"j":"|お↑手数↑↓てすう|↓をおかけしました。","e":"Thank you for your trouble."}]}

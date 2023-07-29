@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"撃墜","p":true}],"r_ele":[{"r":"げきつい","p":true}],"sense":[{"gloss":"shooting down (aircraft)","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは↑空襲↑↓くうしゅう↓を↑受↑↓う↓けたとき↑敵↑↓てき↓の↑飛行機↑↓ひこうき↓を２↑機↑↓き↓↑撃墜↑↓|げきつい|↓した。","e":"They shot down two enemy planes during the raid."}]}

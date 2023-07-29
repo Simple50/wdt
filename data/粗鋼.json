@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粗鋼","p":true}],"r_ele":[{"r":"そこう","p":true}],"sense":[{"gloss":"crude steel","pos":["n"]}]},"kdata":{"粗":{"on":["ソ"],"kun":["あら.い","あら-"],"jlpt":1,"meanings":["coarse","rough","rugged"],"freq":1689,"comp":[["米","且"]],"t":1351},"鋼":{"on":["コウ"],"kun":["はがね"],"jlpt":1,"meanings":["steel"],"freq":1246,"comp":[["金","岡"]],"s":"綱","t":2151}},"sdata":[]}

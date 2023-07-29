@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"差し入れる","p":true},{"e":"差入れる","i":["io"]},{"e":"さし入れる"}],"r_ele":[{"r":"さしいれる","p":true}],"sense":[{"gloss":"to insert, to put in","pos":["v1","vt"]},{"gloss":"to send in (to a prisoner; e.g. clothes, books)","pos":["v1","vt"]},{"gloss":"to deliver (food, refreshments, etc. to workers), to supply","pos":["v1","vt"]}]},"sdata":[]}

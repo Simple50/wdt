@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デーリー","p":true},{"r":"デイリー"}],"sense":[{"gloss":"daily","pos":["n"]}]},"sdata":[]}

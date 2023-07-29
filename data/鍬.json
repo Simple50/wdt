@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鍬","p":true}],"r_ele":[{"r":"くわ","p":true}],"sense":[{"gloss":"hoe","pos":["n"]}]},"kdata":{"鍬":{"on":["ショウ","シュウ"],"kun":["くわ","すき"],"meanings":["hoe with long blade at acute angle"],"comp":[["金","秋"]],"jlpt":0,"freq":3014}},"sdata":[]}

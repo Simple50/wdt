@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初舞台","p":true}],"r_ele":[{"r":"はつぶたい","p":true}],"sense":[{"gloss":"debut, initial stage appearance","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓が↑初舞台↑↓|はつぶたい|↓を↑踏↑↓ふ↓んだのは↑1↑↓せん↓↑9↑↓きゅうひゃく↓↑6↑↓ろくじゅう↓↑9↑↓く↓↑年↑↓ねん↓であった。","e":"Her first appearance on the stage was in 1969."}]}

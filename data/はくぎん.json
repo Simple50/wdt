@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白銀","p":true}],"r_ele":[{"r":"はくぎん","p":true}],"sense":[{"gloss":"silver","pos":["n"]},{"gloss":"silver colour, snow","pos":["n"]}]},"sdata":[]}

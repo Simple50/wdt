@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紡ぎ歌","p":true},{"e":"紡ぎ唄"},{"e":"つむぎ唄"},{"e":"つむぎ歌"}],"r_ele":[{"r":"つむぎうた","p":true}],"sense":[{"gloss":"spinning song","pos":["n"]}]},"sdata":[]}

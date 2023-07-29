@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特集","p":true},{"e":"特輯"}],"r_ele":[{"r":"とくしゅう","p":true}],"sense":[{"gloss":"feature (e.g. newspaper), special edition, report","pos":["n","vs"]}]},"sdata":[{"j":"↑次号↑↓じごう↓では↑離婚↑↓りこん↓について↑特集↑↓|とくしゅう|↓します。","e":"The next issue will feature articles on divorce."}]}

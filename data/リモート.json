@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リモート","p":true}],"sense":[{"gloss":"remote (work, device, etc.)","pos":["adj-no"]}]},"sdata":[{"j":"|リモート|↑勤務↑↓きんむ↓もだんだん↑慣↑↓な↓れてきて↑今↑↓いま↓では↑快適↑↓かいてき↓だ。","e":"I gradually grew accustomed to remote work and now find it pleasant."}]}

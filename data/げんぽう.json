@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"減俸","p":true}],"r_ele":[{"r":"げんぽう","p":true}],"sense":[{"gloss":"salary reduction, salary cut","pos":["n","vs","vi"]}]},"sdata":[]}

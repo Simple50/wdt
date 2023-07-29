@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スリリング","p":true}],"sense":[{"gloss":"thrilling","pos":["adj-na","n"]}]},"sdata":[{"j":"|スリリング|なテレビゲームに↑熱中↑↓ねっちゅう↓させられた。","e":"The thrilling video game took all my attention."},{"j":"↑昨日↑↓きのう↓の↑試合↑↓しあい↓ほど|スリリング|なラグビーの↑試合↑↓しあい↓は↑見↑↓み↓たことがない。","e":"I have never seen a rugby match as exciting as yesterday's match."}]}

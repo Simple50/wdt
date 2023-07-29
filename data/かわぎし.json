@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"川岸","p":true},{"e":"河岸","p":true}],"r_ele":[{"r":"かわぎし","p":true},{"r":"かがん"}],"sense":[{"gloss":"riverbank, riverside","pos":["n"]}]},"sdata":[{"j":"↑川岸↑↓|かわぎし|↓で↑数↑↓すう↓↑人↑↓にん↓の↑男↑↓おとこ↓が↑糸↑↓いと↓を↑垂↑↓しだ↓れている。","e":"Several men are fishing from the riverbank."}]}

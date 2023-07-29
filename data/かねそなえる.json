@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"兼ね備える","p":true}],"r_ele":[{"r":"かねそなえる","p":true}],"sense":[{"gloss":"to have both, to possess both, to combine with","pos":["v1","vt"]}]},"sdata":[]}

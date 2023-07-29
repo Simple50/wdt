@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドラマー","p":true}],"sense":[{"gloss":"drummer","pos":["n"]}]},"sdata":[]}

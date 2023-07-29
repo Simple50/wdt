@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"据え付ける","p":true},{"e":"据えつける"}],"r_ele":[{"r":"すえつける","p":true}],"sense":[{"gloss":"to install, to equip, to mount","pos":["v1","vt"]}]},"sdata":[]}

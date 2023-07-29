@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戯れる","p":true}],"r_ele":[{"r":"たわむれる","p":true},{"r":"ざれる"},{"r":"じゃれる"}],"sense":[{"gloss":"to be playful, to gambol, to be amused (with something), to play, to sport, to frolic, to joke","pos":["v1","vi"]},{"gloss":"to flirt with","pos":["v1","vi"]}]},"sdata":[]}

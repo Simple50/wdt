@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初期費用","p":true}],"r_ele":[{"r":"しょきひよう","p":true}],"sense":[{"gloss":"initial costs, up-front costs, front-end costs, start-up costs","pos":["n"]}]},"sdata":[{"j":"↑初期↑↓|しょき↓↑費用↑↓ひよう|↓の↑高↑↓たか↓さがハードルになる。","e":"The initial cost is a hurdle."}]}

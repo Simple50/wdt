@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"家庭裁判所","p":true}],"r_ele":[{"r":"かていさいばんしょ","p":true}],"sense":[{"gloss":"family court","pos":["n"]}]},"sdata":[]}

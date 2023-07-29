@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"久留子","i":["ateji","rK"]}],"r_ele":[{"r":"クルス","p":true}],"sense":[{"gloss":"cross sign","pos":["n"],"l":"por: cruz"}],"m":["uk"]},"sdata":[{"j":"ポテトとピ|クルス|↑入↑↓い↓りのピザを↑注文↑↓ちゅうもん↓しました。","e":"We ordered a pizza with potatoes and pickles."},{"j":"↑僕↑↓ぼく↓たち、ポテトとピ|クルス|が↑入↑↓はい↓ったピザを↑頼↑↓たの↓んだよ。","e":"We ordered a pizza with potatoes and pickles."}]}

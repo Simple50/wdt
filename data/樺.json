@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"樺","p":true},{"e":"桜皮"}],"r_ele":[{"r":"かば","p":true},{"r":"かんば"},{"r":"かにわ","i":["ok"]},{"r":"カバ"}],"sense":[{"gloss":"birch (esp. Japanese white birch)","pos":["n"]}],"m":["uk"]},"kdata":{"樺":{"on":["カ"],"kun":["かば","かんば"],"meanings":["birch","dark red"],"freq":1982,"comp":[["華","木"]],"jlpt":0}},"sdata":[]}

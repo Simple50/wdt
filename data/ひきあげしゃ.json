@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引揚者","p":true},{"e":"引き揚げ者","p":true},{"e":"引揚げ者"}],"r_ele":[{"r":"ひきあげしゃ","p":true}],"sense":[{"gloss":"returnee (esp. Japanese person repatriated to Japan proper from its former colonies after WWII), repatriate","pos":["n"]}]},"sdata":[]}

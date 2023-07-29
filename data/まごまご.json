@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"まごまご","p":true}],"sense":[{"gloss":"confused, flustered, at a loss","pos":["adv","vs"],"x":["まごつく"]}],"m":["on-mim"]},"sdata":[]}

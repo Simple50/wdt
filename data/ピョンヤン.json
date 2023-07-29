@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平壌","p":true}],"r_ele":[{"r":"ピョンヤン","p":true},{"r":"へいじょう"}],"sense":[{"gloss":"Pyongyang (North Korea)","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"|ピョンヤン|とワシントンの↑間↑↓ま↓で↑何↑↓なん↓らかの↑妥協↑↓だきょう↓に↑至↑↓いた↓ることが↑不可欠↑↓ふかけつ↓だ。","e":"It is essential that some kind of compromise be reached between Pyongyang and Washington."}]}

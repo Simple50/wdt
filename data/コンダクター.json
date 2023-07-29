@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンダクター","p":true}],"sense":[{"gloss":"conductor","pos":["n"]}]},"sdata":[]}

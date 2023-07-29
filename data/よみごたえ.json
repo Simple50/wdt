@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"読み応え","p":true},{"e":"読みごたえ"}],"r_ele":[{"r":"よみごたえ","p":true}],"sense":[{"gloss":"worthwhile reading, substantial reading","pos":["n"]}]},"sdata":[]}

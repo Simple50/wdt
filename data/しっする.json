@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"失する","p":true}],"r_ele":[{"r":"しっする","p":true}],"sense":[{"gloss":"to lose, to miss, to forget, to be excessive","pos":["vs-s"]}]},"sdata":[]}

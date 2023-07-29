@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"搬入","p":true}],"r_ele":[{"r":"はんにゅう","p":true}],"sense":[{"gloss":"carrying in (esp. heavy objects, artwork, furniture), bringing in, taking in","pos":["n","vs","vt"],"ant":["搬出"]}]},"sdata":[{"j":"↑椅子↑↓いす↓とかテーブルとかの↑搬入↑↓|はんにゅう|↓はどうするの？","e":"What will we do about getting tables, chairs and such?"}]}

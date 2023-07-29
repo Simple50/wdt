@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"男泣き","p":true},{"e":"男泣","i":["io"]}],"r_ele":[{"r":"おとこなき","p":true}],"sense":[{"gloss":"man's weeping (esp. of someone not prone to tears)","pos":["n","vs","vi"]}]},"sdata":[]}

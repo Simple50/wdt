@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒鉛","p":true}],"r_ele":[{"r":"こくえん","p":true}],"sense":[{"gloss":"graphite","pos":["n"]}]},"kdata":{"黒":{"on":["コク"],"kun":["くろ","くろ.ずむ","くろ.い"],"jlpt":4,"meanings":["black"],"freq":573,"comp":[["里","灬"]],"d":["纒"],"v":"黑","t":1423},"鉛":{"on":["エン"],"kun":["なまり"],"jlpt":1,"meanings":["lead"],"freq":1710,"comp":[["金","㕣"]],"t":1810}},"sdata":[]}

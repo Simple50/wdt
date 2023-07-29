@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農閑期","p":true}],"r_ele":[{"r":"のうかんき","p":true}],"sense":[{"gloss":"slack season for farmers, leisure season for farmers","pos":["n"]}]},"sdata":[{"j":"↑昨日↑↓き|のう↓↑環境↑↓かんき|ょう↓↑汚染↑↓おせん↓に↑関↑↓かん↓する↑講義↑↓こうぎ↓を↑受↑↓う↓けました。","e":"We had a lecture on environmental pollution."}]}

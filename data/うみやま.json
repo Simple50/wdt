@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海山","p":true}],"r_ele":[{"r":"うみやま","p":true}],"sense":[{"gloss":"sea and mountains","pos":["adv","n"]}]},"sdata":[]}

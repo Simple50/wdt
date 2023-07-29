@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"四隅","p":true}],"r_ele":[{"r":"よすみ","p":true},{"r":"しぐう"}],"sense":[{"gloss":"four corners","pos":["n"]},{"gloss":"four ordinal directions","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"繰入","p":true},{"e":"繰り入れ","p":true},{"e":"繰入れ"}],"r_ele":[{"r":"くりいれ","p":true}],"sense":[{"gloss":"inward transfer (of money), carry over (money from previous period)","pos":["n"]}]},"sdata":[]}

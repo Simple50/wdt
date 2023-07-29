@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"権謀術数","p":true}],"r_ele":[{"r":"けんぼうじゅっすう","p":true}],"sense":[{"gloss":"trickery, wiles, finesse, Machiavellism","pos":["n"]}],"m":["yoji"]},"sdata":[]}

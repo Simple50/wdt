@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メタセコイア","p":true}],"sense":[{"gloss":"dawn redwood (Metasequoia glyptostroboides), metasequoia","pos":["n"],"l":"lat"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刺し網","p":true},{"e":"刺網"}],"r_ele":[{"r":"さしあみ","p":true}],"sense":[{"gloss":"gill net","pos":["n"],"f":["fish"]}]},"sdata":[]}

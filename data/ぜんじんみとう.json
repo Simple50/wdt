@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前人未到","p":true},{"e":"前人未踏"}],"r_ele":[{"r":"ぜんじんみとう","p":true}],"sense":[{"gloss":"untrodden (region, field of study, etc.), unprecedented (discovery, achievement, etc.)","pos":["adj-no","n"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"がっかり","p":true},{"r":"ガッカリ","p":true}],"sense":[{"gloss":"to be disappointed, to be dejected, to be downhearted, to be discouraged, to be disheartened, to lose heart, to feel let down","pos":["vs","adv"]},{"gloss":"to feel exhausted, to feel drained","pos":["vs","adv"]}],"m":["on-mim"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平定","p":true}],"r_ele":[{"r":"へいてい","p":true}],"sense":[{"gloss":"suppression (of a rebellion, civil war, etc.), restoration of law and order, subjugation, conquering","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大それた","p":true}],"r_ele":[{"r":"だいそれた","p":true},{"r":"おおそれた","i":["ik"]}],"sense":[{"gloss":"outrageous, wild (ambition, idea, etc.), crazy, inordinate, extravagant (e.g. claims), audacious, reckless, thoughtless, monstrous, appalling","pos":["adj-pn"]}]},"sdata":[]}

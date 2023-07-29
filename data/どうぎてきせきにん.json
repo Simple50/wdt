@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"道義的責任","p":true}],"r_ele":[{"r":"どうぎてきせきにん","p":true}],"sense":[{"gloss":"moral obligation","pos":["n"]}]},"sdata":[]}

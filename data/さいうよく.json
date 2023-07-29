@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最右翼","p":true}],"r_ele":[{"r":"さいうよく","p":true}],"sense":[{"gloss":"dominant person, preeminent person, strongest contender","pos":["n"]},{"gloss":"far right wing, right-wing extremist, radical right wing","pos":["n"]}]},"sdata":[]}

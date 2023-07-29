@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突っ張り","p":true},{"e":"突張り","i":["io"]}],"r_ele":[{"r":"つっぱり","p":true}],"sense":[{"gloss":"prop, strut, support, brace, bar","pos":["n"]},{"gloss":"becoming taut, tightness, stiffness, cramp","pos":["n"]},{"gloss":"thrust, slapping attacks","pos":["n"],"f":["sumo"]},{"gloss":"(juvenile) delinquent, punk","pos":["n"]}]},"sdata":[]}

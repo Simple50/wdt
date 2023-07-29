@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防空","p":true}],"r_ele":[{"r":"ぼうくう","p":true}],"sense":[{"gloss":"air defense, air defence","pos":["n"]}]},"sdata":[]}

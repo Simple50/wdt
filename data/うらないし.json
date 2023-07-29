@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"占い師","p":true},{"e":"占師","p":true}],"r_ele":[{"r":"うらないし","p":true}],"sense":[{"gloss":"diviner, fortune teller, soothsayer","pos":["n"]}]},"sdata":[{"j":"あの↑占↑↓|うらな↓い↑師↑↓し|↓はうそつき↑同然↑↓どうぜん↓だ。","e":"That fortune-teller is no better than a liar."},{"j":"↑占↑↓|うらな↓い↑師↑↓し|↓に↑手相↑↓てそう↓を↑見↑↓み↓せました。","e":"A fortune-teller read my hand."}]}

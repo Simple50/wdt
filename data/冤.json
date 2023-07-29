@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冤","p":true}],"r_ele":[{"r":"えん","p":true}],"sense":[{"gloss":"false charge, false accusation","pos":["n"]}]},"kdata":{"冤":{"on":["エン"],"meanings":["false charge","hatred"],"freq":2382,"comp":[["冖","兔"]],"jlpt":-1}},"sdata":[]}

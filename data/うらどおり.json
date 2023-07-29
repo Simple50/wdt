@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"裏通り","p":true},{"e":"裏通","i":["io"]}],"r_ele":[{"r":"うらどおり","p":true},{"r":"うらとおり","i":["ik"]}],"sense":[{"gloss":"side street (often parallel to a main street), back street, alley, alleyway","pos":["n"]}]},"sdata":[{"j":"↑強盗↑↓ごうとう↓は↑裏通↑↓|うらどお↓り|で↑彼女↑↓かのじょ↓を↑襲↑↓おそ↓った。","e":"The robber attacked her on a back street."}]}

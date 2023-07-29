@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殺風景","p":true}],"r_ele":[{"r":"さっぷうけい","p":true}],"sense":[{"gloss":"dreary, bleak, monotonous, barren","pos":["adj-na","n"]},{"gloss":"tasteless, unrefined","pos":["adj-na","n"]}]},"sdata":[{"j":"↑引↑↓ひ↓っ↑越↑↓こ↓してきたばかりだから、まだ↑部屋↑↓へや↓が↑殺風景↑↓|さっぷうけい|↓なんだよ。","e":"I just moved in so my room is still quite bland."}]}

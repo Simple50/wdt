@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャスティング","p":true}],"sense":[{"gloss":"casting","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い回す","p":true},{"e":"追いまわす"},{"e":"追回す"}],"r_ele":[{"r":"おいまわす","p":true}],"sense":[{"gloss":"to chase about, to hang on, to drive hard","pos":["v5s","vt"]}]},"sdata":[]}

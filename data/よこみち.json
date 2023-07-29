@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横道","p":true}],"r_ele":[{"r":"よこみち","p":true}],"sense":[{"gloss":"byway, side street, cross street","pos":["n"]},{"gloss":"wrong way, digression","pos":["n"]}]},"sdata":[]}

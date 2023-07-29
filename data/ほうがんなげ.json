@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砲丸投げ","p":true},{"e":"砲丸投"}],"r_ele":[{"r":"ほうがんなげ","p":true}],"sense":[{"gloss":"shot put","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"燻蒸","p":true},{"e":"くん蒸"},{"e":"薫蒸"},{"e":"熏蒸","i":["sK"]}],"r_ele":[{"r":"くんじょう","p":true}],"sense":[{"gloss":"fumigation, smoking (out)","pos":["n","vs","vt"]}]},"sdata":[]}

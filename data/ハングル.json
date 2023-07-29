@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハングル","p":true}],"sense":[{"gloss":"hangul (Korean script)","pos":["n"],"l":"kor"}]},"sdata":[{"j":"↑私↑↓わたし↓は|ハングル|を↑勉強↑↓べんきょう↓します。","e":"I study Korean."}]}

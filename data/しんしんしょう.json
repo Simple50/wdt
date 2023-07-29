@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心身症","p":true}],"r_ele":[{"r":"しんしんしょう","p":true}],"sense":[{"gloss":"psychosomatic illness","pos":["n"]}]},"sdata":[]}

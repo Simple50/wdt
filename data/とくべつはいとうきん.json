@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特別配当金","p":true}],"r_ele":[{"r":"とくべつはいとうきん","p":true}],"sense":[{"gloss":"special dividend","pos":["n"],"x":["特別配当"]}]},"sdata":[]}

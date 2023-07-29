@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カッター","p":true}],"sense":[{"gloss":"cutter, cutting tool","pos":["n"]},{"gloss":"box cutter, utility knife","pos":["n"],"m":["abbr"],"x":["カッターナイフ"]},{"gloss":"(tailor's) cutter","pos":["n"],"x":["裁断師・さいだんし"]},{"gloss":"cutter (boat)","pos":["n"]}]},"sdata":[{"j":"|カッター|マシンがサーモンを↑切↑↓き↓っていた。","e":"The cutting machine sliced the salmon."}]}

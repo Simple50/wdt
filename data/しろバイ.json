@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白バイ","p":true}],"r_ele":[{"r":"しろバイ","p":true}],"sense":[{"gloss":"motorcycle police","pos":["n"],"x":["白バイ隊員"]},{"gloss":"white-colored police motorcycle","pos":["n"]}],"m":["abbr"]},"sdata":[]}

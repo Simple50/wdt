@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"商売人","p":true}],"r_ele":[{"r":"しょうばいにん","p":true}],"sense":[{"gloss":"merchant, trader, shrewd businessman","pos":["n"]},{"gloss":"expert (in a trade or profession), professional","pos":["n"]},{"gloss":"woman working in the nightlife business (bar or nightclub hostess, geisha, etc.), demimondaine","pos":["n"],"x":["商売女"]}]},"sdata":[]}

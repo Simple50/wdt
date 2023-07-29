@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"皮肉る","p":true}],"r_ele":[{"r":"ひにくる","p":true}],"sense":[{"gloss":"to make a cynical remark (about), to make a sarcastic remark (about), to satirize, to mock","pos":["v5r","vt"]}]},"sdata":[{"j":"ありがとう。また、↑次↑↓つぎ↓の↑日↑↓|ひ↓にくる|ようにします。","e":"Thanks. Maybe we'll come back."},{"j":"あいつがどの↑日↑↓|ひ↓に↑来↑↓く↓る|のか↑分↑↓わ↓からないんだ。","e":"I don't know what day he'll come."}]}

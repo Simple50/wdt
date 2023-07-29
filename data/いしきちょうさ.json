@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"意識調査","p":true}],"r_ele":[{"r":"いしきちょうさ","p":true}],"sense":[{"gloss":"attitude survey, opinion poll","pos":["n"]}]},"sdata":[]}

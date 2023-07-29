@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流産","p":true}],"r_ele":[{"r":"りゅうざん","p":true}],"sense":[{"gloss":"miscarriage, (spontaneous) abortion, abortive birth","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑去年↑↓きょねん↓↑流産↑↓|りゅうざん|↓しました。","e":"I had a miscarriage last year."},{"j":"↑流産↑↓|りゅうざん|↓はとても↑辛↑↓つら↓い↑経験↑↓けいけん↓です。","e":"Miscarriage is a heart-breaking experience."}]}

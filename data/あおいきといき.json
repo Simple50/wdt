@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青息吐息","p":true}],"r_ele":[{"r":"あおいきといき","p":true}],"sense":[{"gloss":"deep distress","pos":["n"]}],"m":["yoji"]},"sdata":[{"j":"↑輸出↑↓ゆしゅつ↓↑業界↑↓ぎょうかい↓は↑青息吐息↑↓|あおいきといき|↓だ。","e":"The export business isn't doing well."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下回る","p":true},{"e":"下廻る","i":["rK"]}],"r_ele":[{"r":"したまわる","p":true}],"sense":[{"gloss":"to fall below (esp. figures: profits, unemployment rate, etc.), to be less than, to be lower than, to fall just short of, to be just under","pos":["v5r","vt"],"x":["上回る"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小冊子","p":true}],"r_ele":[{"r":"しょうさっし","p":true}],"sense":[{"gloss":"booklet, pamphlet","pos":["n"]}]},"sdata":[{"j":"この↑小冊子↑↓|しょうさっし|↓は↑無料↑↓むりょう↓だ。","e":"This booklet is free of charge."},{"j":"↑彼↑↓かれ↓は↑講義↑↓こうぎ↓を↑小冊子↑↓|しょうさっし|↓で↑補↑↓おぎな↓った。","e":"He supplemented his lecture with a booklet."}]}

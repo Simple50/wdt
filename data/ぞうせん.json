@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"造船","p":true}],"r_ele":[{"r":"ぞうせん","p":true}],"sense":[{"gloss":"shipbuilding","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑古代↑↓こだい↓↑人↑↓じん↓は、みすぼらしい↑木造↑↓もく|ぞう↓↑船↑↓せん|↓を↑導↑↓みちび↓くために↑哀愁↑↓あいしゅう↓↑漂↑↓ただよ↓う↑灯台↑↓とうだい↓を↑建↑↓た↓てた。","e":"The ancient ones built the sorrowful lighthouses to guide their miserable wooden ships."}]}

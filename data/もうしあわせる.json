@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"申し合わせる","p":true}],"r_ele":[{"r":"もうしあわせる","p":true}],"sense":[{"gloss":"to arrange, to make an appointment, to agree upon","pos":["v1"]}]},"sdata":[]}

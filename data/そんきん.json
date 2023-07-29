@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"損金","p":true}],"r_ele":[{"r":"そんきん","p":true}],"sense":[{"gloss":"financial loss","pos":["n"]}]},"sdata":[]}

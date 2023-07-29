@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"観音","p":true},{"e":"觀音","i":["oK"]}],"r_ele":[{"r":"かんのん","p":true}],"sense":[{"gloss":"Avalokiteshvara (Bodhisattva), Avalokitesvara, Kannon, Kwannon, Guanyin, Buddhist deity of compassion","pos":["n"]}]},"sdata":[]}

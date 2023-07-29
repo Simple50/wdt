@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コミット","p":true}],"sense":[{"gloss":"committing (oneself to), commitment, involvement, participation","pos":["n","vs","vi"]},{"gloss":"commit (data management, version control)","pos":["n","vs","vi"],"f":["comp"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"米人","p":true}],"r_ele":[{"r":"べいじん","p":true}],"sense":[{"gloss":"American person","pos":["n"],"x":["アメリカ人"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大吉","p":true}],"r_ele":[{"r":"だいきち","p":true}],"sense":[{"gloss":"excellent luck","pos":["n"]}]},"sdata":[]}

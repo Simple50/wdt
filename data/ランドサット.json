@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ランドサット","p":true}],"sense":[{"gloss":"LANDSAT","pos":["n"]}]},"sdata":[]}

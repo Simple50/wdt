@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陰り","p":true},{"e":"翳り"}],"r_ele":[{"r":"かげり","p":true}],"sense":[{"gloss":"shadow (e.g. on someone's happiness), cloud, shade, gloom","pos":["n"]}]},"sdata":[]}

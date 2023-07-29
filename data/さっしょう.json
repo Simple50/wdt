@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殺傷","p":true}],"r_ele":[{"r":"さっしょう","p":true}],"sense":[{"gloss":"killing and wounding, bloodshed","pos":["n","vs","vt"]}]},"sdata":[]}

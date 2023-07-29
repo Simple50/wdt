@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インバーター","p":true},{"r":"インバータ"}],"sense":[{"gloss":"inverter","pos":["n"],"f":["comp"]}]},"sdata":[]}

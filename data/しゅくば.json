@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宿場","p":true}],"r_ele":[{"r":"しゅくば","p":true}],"sense":[{"gloss":"relay station (esp. on Edo-period highway), post station, stage","pos":["n"],"x":["宿駅"]}]},"sdata":[]}

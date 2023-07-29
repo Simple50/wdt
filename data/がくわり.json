@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学割","p":true},{"e":"学割り","p":true}],"r_ele":[{"r":"がくわり","p":true}],"sense":[{"gloss":"student discount","pos":["n","adj-no"],"x":["学生割引"]}],"m":["abbr"]},"sdata":[]}

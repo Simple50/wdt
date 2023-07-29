@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"円錐","p":true},{"e":"丸錐"}],"r_ele":[{"r":"まるぎり","p":true}],"sense":[{"gloss":"round gimlet","pos":["n"]}]},"sdata":[]}

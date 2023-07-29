@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"慢性的","p":true}],"r_ele":[{"r":"まんせいてき","p":true}],"sense":[{"gloss":"chronic","pos":["adj-na"]}]},"sdata":[{"j":"↑慢性↑↓|まんせい↓↑的↑↓てき|↓な↑便秘↑↓べんぴ↓で↑苦↑↓くる↓しんでいます。","e":"I'm suffering from chronic constipation."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メレンゲ","p":true}],"sense":[{"gloss":"meringue","pos":["n"],"f":["food"],"l":"fre"}]},"sdata":[]}

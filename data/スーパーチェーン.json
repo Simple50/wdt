@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スーパーチェーン","p":true},{"r":"スーパー・チェーン"}],"sense":[{"gloss":"supermarket chain","pos":["n"]}],"m":["abbr"]},"sdata":[]}

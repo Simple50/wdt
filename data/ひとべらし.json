@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人減らし","p":true}],"r_ele":[{"r":"ひとべらし","p":true}],"sense":[{"gloss":"personnel cut, labor cut, labour cut","pos":["n"]}]},"sdata":[]}

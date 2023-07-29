@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肉付け","p":true},{"e":"肉づけ"}],"r_ele":[{"r":"にくづけ","p":true}],"sense":[{"gloss":"fleshing out (e.g. a plan), giving substance to","pos":["n","vs","vt","vi"]},{"gloss":"modeling, modelling","pos":["n","vs","vt","vi"]}]},"sdata":[]}

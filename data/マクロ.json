@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マクロ","p":true}],"sense":[{"gloss":"macro","pos":["adj-na","n"],"x":["ミクロ"]},{"gloss":"macro (instruction)","pos":["n"],"f":["comp"]}]},"sdata":[]}

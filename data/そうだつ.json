@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"争奪","p":true}],"r_ele":[{"r":"そうだつ","p":true}],"sense":[{"gloss":"struggle (for), scramble, contest","pos":["n","vs","vt"]}]},"sdata":[]}

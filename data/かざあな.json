@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風穴","p":true}],"r_ele":[{"r":"かざあな","p":true},{"r":"かぜあな"}],"sense":[{"gloss":"air hole, windhole, ventilator","pos":["n"]}]},"sdata":[]}

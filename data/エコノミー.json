@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エコノミー","p":true},{"r":"エコノミ"}],"sense":[{"gloss":"economy, economics, finance","pos":["n"]},{"gloss":"economising, saving","pos":["n"]},{"gloss":"economy (class)","pos":["n"],"m":["abbr"],"x":["エコノミークラス"]}]},"sdata":[{"j":"|エコノミー|サイズの↑車↑↓くるま↓を↑希望↑↓きぼう↓されますか。","e":"Do you want an economy-size car?"}]}

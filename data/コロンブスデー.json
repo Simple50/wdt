@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コロンブスデー","p":true},{"r":"コロンブス・デー"}],"sense":[{"gloss":"Columbus Day","pos":["n"]}]},"sdata":[]}

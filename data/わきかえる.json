@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"沸き返る","p":true},{"e":"沸きかえる"}],"r_ele":[{"r":"わきかえる","p":true}],"sense":[{"gloss":"to boil up, to seethe","pos":["v5r","vi"]},{"gloss":"to get excited, to be in an uproar","pos":["v5r","vi"]}]},"sdata":[]}

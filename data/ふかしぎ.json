@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不可思議","p":true}],"r_ele":[{"r":"ふかしぎ","p":true}],"sense":[{"gloss":"mystery, something inexplicable, wonder, miracle","pos":["adj-na","n"],"m":["yoji"],"x":["不思議・1"]},{"gloss":"unfathomable (of a Buddha's abilities)","pos":["adj-na","n"]},{"gloss":"10^64 (or 10^80)","pos":["num"]}]},"sdata":[]}

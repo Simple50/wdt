@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペアリング","p":true},{"r":"ペア・リング"}],"sense":[{"gloss":"couple's ring, set of rings worn by unmarried, unengaged couples","pos":["n"],"l":"eng: pair ring"},{"gloss":"pairing","pos":["n","vs"]}]},"sdata":[]}

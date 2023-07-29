@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民社党","p":true}],"r_ele":[{"r":"みんしゃとう","p":true}],"sense":[{"gloss":"Democratic Socialist Party","pos":["n"]}]},"sdata":[]}

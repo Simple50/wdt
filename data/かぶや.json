@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"株屋","p":true}],"r_ele":[{"r":"かぶや","p":true}],"sense":[{"gloss":"stockbroker","pos":["n"]}],"m":["col"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海上保安庁","p":true}],"r_ele":[{"r":"かいじょうほあんちょう","p":true}],"sense":[{"gloss":"Japan Coast Guard, JCG","pos":["n"]}]},"sdata":[]}

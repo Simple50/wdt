@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トランキライザー","p":true}],"sense":[{"gloss":"tranquilizer, tranquiliser","pos":["n"]}]},"sdata":[]}

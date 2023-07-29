@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンマイクロシステムズ","p":true},{"r":"サン・マイクロシステムズ"}],"sense":[{"gloss":"Sun Microsystems","pos":["n"],"f":["comp"]}]},"sdata":[]}

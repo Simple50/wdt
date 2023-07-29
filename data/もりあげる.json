@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盛り上げる","p":true},{"e":"盛りあげる"}],"r_ele":[{"r":"もりあげる","p":true}],"sense":[{"gloss":"to pile up, to heap up","pos":["v1","vt"]},{"gloss":"to stir up, to enliven, to bring to a climax","pos":["v1","vt"]}]},"sdata":[]}

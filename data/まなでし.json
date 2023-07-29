@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"愛弟子","p":true}],"r_ele":[{"r":"まなでし","p":true}],"sense":[{"gloss":"favorite pupil, favourite pupil, teacher's pet","pos":["n"]}]},"sdata":[]}

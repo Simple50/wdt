@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"亡霊","p":true}],"r_ele":[{"r":"ぼうれい","p":true}],"sense":[{"gloss":"departed spirit, soul of the dead","pos":["n"]},{"gloss":"ghost, apparition","pos":["n"]}]},"sdata":[{"j":"サタンの↑亡霊↑↓|ぼうれい|↓が↑目↑↓め↓を↑覚↑↓さ↓ます。","e":"Satan's ghost awakes."},{"j":"↑彼女↑↓かのじょ↓は↑亡霊↑↓|ぼうれい|↓を↑見↑↓み↓て↑髪↑↓かみ↓を↑逆立↑↓さかだ↓てた。","e":"When she saw the ghost, her hair stood on end."}]}

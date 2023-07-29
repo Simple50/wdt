@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実質賃金","p":true}],"r_ele":[{"r":"じっしつちんぎん","p":true}],"sense":[{"gloss":"real wages","pos":["n"]}]},"sdata":[]}

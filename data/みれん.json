@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"未練","p":true}],"r_ele":[{"r":"みれん","p":true}],"sense":[{"gloss":"lingering attachment, lingering affection, regret, reluctance, ruefulness","pos":["n","adj-na"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓にはまだ↑未練↑↓|みれん|↓がある。","e":"I still have some feelings for her."}]}

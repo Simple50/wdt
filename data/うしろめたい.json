@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後ろめたい","p":true}],"r_ele":[{"r":"うしろめたい","p":true}],"sense":[{"gloss":"guilty (feeling, conscience, look, etc.), (feeling) uneasy","pos":["adj-i"]}]},"sdata":[{"j":"|うしろめたい|↑気↑↓き↓がする。","e":"I feel guilty."},{"j":"↑私↑↓わたし↓には|うしろめたい|ことは↑全↑↓まった↓くありません。","e":"I have nothing to hide."}]}

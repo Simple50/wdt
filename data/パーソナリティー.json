@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パーソナリティー","p":true},{"r":"パーソナリティ"}],"sense":[{"gloss":"personality, individuality","pos":["n"]},{"gloss":"TV personality, celebrity","pos":["n"]}]},"sdata":[]}

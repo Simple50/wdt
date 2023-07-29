@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絶壁","p":true}],"r_ele":[{"r":"ぜっぺき","p":true}],"sense":[{"gloss":"precipice, cliff","pos":["n"]},{"gloss":"flat head","pos":["n"]}]},"sdata":[{"j":"↑昨夜↑↓ゆうべ↓さ、オカピと↑僕↑↓ぼく↓で↑断崖絶壁↑↓だんがい|ぜっぺき|↓に↑教会↑↓きょうかい↓を↑建↑↓た↓てた↑夢↑↓ゆめ↓を↑見↑↓み↓たんだ。","e":"I had a dream last night that an okapi and I built a hanging church on the face of a cliff."}]}

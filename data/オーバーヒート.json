@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オーバーヒート","p":true}],"sense":[{"gloss":"overheating","pos":["n","vs","vi"]},{"gloss":"overexcitement","pos":["n","vs","vi"]}]},"sdata":[]}

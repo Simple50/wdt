@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"世界各国","p":true}],"r_ele":[{"r":"せかいかっこく","p":true}],"sense":[{"gloss":"countries all over the world, all the countries of the world","pos":["n"]}]},"sdata":[]}

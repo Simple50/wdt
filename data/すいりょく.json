@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水力","p":true}],"r_ele":[{"r":"すいりょく","p":true}],"sense":[{"gloss":"hydraulic power, water power","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はもっと↑薄↑↓う|す↓い↑緑色↑↓りょく|しょく↓が↑好↑↓す↓きなのです。","e":"He likes green in a lighter shade."}]}

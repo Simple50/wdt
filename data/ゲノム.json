@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゲノム","p":true}],"sense":[{"gloss":"genome","pos":["n"],"l":"ger: Genom"}]},"sdata":[]}

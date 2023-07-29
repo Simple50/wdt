@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バードコール","p":true}],"sense":[{"gloss":"birdcall","pos":["n"]}]},"sdata":[]}

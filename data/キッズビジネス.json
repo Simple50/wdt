@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キッズビジネス","p":true},{"r":"キッズ・ビジネス"}],"sense":[{"gloss":"kids' business","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"放牧","p":true}],"r_ele":[{"r":"ほうぼく","p":true}],"sense":[{"gloss":"pasturage, grazing","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑馬↑↓うま↓や↑羊↑↓ひつじ↓が↑放牧↑↓|ほうぼく|↓されてて、↑牧羊↑↓ぼくよう↓↑犬↑↓けん↓もいるわ。↑一度↑↓いちど↓↑訪↑↓たず↓ねてみてはどうかしら？","e":"Sheep and horses are set out to pasture, there are sheepdogs too. How about giving it a visit once?"}]}

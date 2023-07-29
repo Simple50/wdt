@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"報奨金","p":true},{"e":"褒奨金"}],"r_ele":[{"r":"ほうしょうきん","p":true}],"sense":[{"gloss":"cash bonus, reward, bounty","pos":["n"]}]},"sdata":[{"j":"↑捜査↑↓そうさ↓↑特別↑↓とくべつ↓↑報奨↑↓|ほうしょう↓↑金↑↓きん|↓を↑支払↑↓しはら↓います。","e":"There's a price on our heads."}]}

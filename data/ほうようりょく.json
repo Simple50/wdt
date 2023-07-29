@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"包容力","p":true}],"r_ele":[{"r":"ほうようりょく","p":true}],"sense":[{"gloss":"tolerance, broad-mindedness","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑魅力↑↓みりょく↓って、↑包容↑↓|ほうよう↓↑力↑↓りょく|↓があるところよね。","e":"He has a huge capacity for accepting other people. That's what makes him special."}]}

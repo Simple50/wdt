@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リフレッシュ","p":true},{"r":"リフレシュ"}],"sense":[{"gloss":"refresh (e.g. memory, one's spirits, etc.)","pos":["n","vs","vi","vt"]}]},"sdata":[{"j":"とても↑気分↑↓きぶん↓が|リフレッシュ|される。","e":"I feel like a brand new person."}]}

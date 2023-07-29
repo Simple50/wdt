@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横目","p":true}],"r_ele":[{"r":"よこめ","p":true}],"sense":[{"gloss":"sidelong glance","pos":["n","vs"]},{"gloss":"short grain (paper)","pos":["n"]}]},"sdata":[{"j":"ジルはジョンを↑横目↑↓|よこめ|↓で↑見↑↓み↓た。","e":"Jill looked at John sideways."},{"j":"↑彼女↑↓かのじょ↓は↑彼↑↓かれ↓を↑横目↑↓|よこめ|↓で↑見↑↓み↓た。","e":"She looked at him askance."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り合わせる","p":true},{"e":"取合わせる"},{"e":"取りあわせる"}],"r_ele":[{"r":"とりあわせる","p":true}],"sense":[{"gloss":"to put together, to assemble","pos":["v1"]}]},"sdata":[]}

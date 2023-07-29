@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受領","p":true}],"r_ele":[{"r":"じゅりょう","p":true}],"sense":[{"gloss":"receipt (of a letter, money, etc.), acceptance, receiving","pos":["n","vs","vt"]}]},"sdata":[{"j":"ちょっとお↑待↑↓ま↓ちください、↑受領↑↓|じゅりょう|↓↑書↑↓しょ↓をおかきします。","e":"Please wait a moment while I write out your receipt."}]}

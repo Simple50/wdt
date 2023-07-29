@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飛翔","p":true},{"e":"飛しょう","i":["sK"]}],"r_ele":[{"r":"ひしょう","p":true}],"sense":[{"gloss":"flight, flying, soaring","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弁理士","p":true}],"r_ele":[{"r":"べんりし","p":true}],"sense":[{"gloss":"patent attorney, patent agent","pos":["n"]}]},"sdata":[]}

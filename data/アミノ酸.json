@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"アミノ酸","p":true}],"r_ele":[{"r":"アミノさん","p":true}],"sense":[{"gloss":"amino acid","pos":["n"]}]},"kdata":{"酸":{"on":["サン"],"kun":["す.い"],"jlpt":1,"meanings":["acid","bitterness","sour","tart"],"freq":1218,"comp":[["酉","夋"]],"t":1937}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遠近法","p":true}],"r_ele":[{"r":"えんきんほう","p":true}],"sense":[{"gloss":"perspective","pos":["n"]}]},"sdata":[{"j":"↑遠近↑↓|えんきん↓↑法↑↓ほう|↓がとられてないので、その↑絵↑↓え↓は↑変↑↓へん↓にみえる。","e":"The picture looks strange because it has no perspective."}]}

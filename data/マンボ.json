@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マンボ","p":true}],"sense":[{"gloss":"mambo","pos":["n"]}]},"sdata":[]}

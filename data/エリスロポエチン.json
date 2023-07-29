@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エリスロポエチン","p":true},{"r":"エリスロポイエチン"}],"sense":[{"gloss":"erythropoietin","pos":["n"]}]},"sdata":[]}

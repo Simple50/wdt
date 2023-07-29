@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平面図","p":true}],"r_ele":[{"r":"へいめんず","p":true}],"sense":[{"gloss":"ground plan, plane figure","pos":["n"]}]},"sdata":[]}

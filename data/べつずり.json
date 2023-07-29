@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別刷り","p":true}],"r_ele":[{"r":"べつずり","p":true}],"sense":[{"gloss":"excerpt, offprint, printed separately","pos":["n"]}]},"sdata":[]}

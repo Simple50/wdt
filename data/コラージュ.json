@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コラージュ","p":true}],"sense":[{"gloss":"collage","pos":["n"],"l":"fre"}]},"sdata":[]}

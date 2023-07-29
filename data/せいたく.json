@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"請託","p":true}],"r_ele":[{"r":"せいたく","p":true}],"sense":[{"gloss":"solicitation","pos":["n","vs","vt"]}]},"sdata":[]}

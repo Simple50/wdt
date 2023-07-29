@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人身売買","p":true}],"r_ele":[{"r":"じんしんばいばい","p":true}],"sense":[{"gloss":"slave trade, white-slave trade, human trafficking","pos":["n"]}]},"sdata":[]}

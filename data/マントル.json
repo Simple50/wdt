@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マントル","p":true}],"sense":[{"gloss":"mantle","pos":["n"],"f":["geol"]},{"gloss":"mantle (e.g. gas)","pos":["n"]}]},"sdata":[{"j":"|マントル|ピースの↑上↑↓うえ↓にあるよ。","e":"It's on the mantelpiece."}]}

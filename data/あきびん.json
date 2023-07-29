@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空き瓶","p":true},{"e":"空きビン"},{"e":"空きびん"},{"e":"空瓶","i":["io"]},{"e":"空き壜"}],"r_ele":[{"r":"あきびん","p":true},{"r":"あきビン"},{"r":"からびん"}],"sense":[{"gloss":"empty bottle","pos":["n"]}]},"sdata":[{"j":"↑箱↑↓はこ↓の↑中↑↓なか↓に↑空↑↓|あき↓↑瓶↑↓びん|↓があります。","e":"There are some empty bottles in the box."}]}

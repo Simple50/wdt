@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総目録","p":true}],"r_ele":[{"r":"そうもくろく","p":true}],"sense":[{"gloss":"index","pos":["n"]}]},"sdata":[]}

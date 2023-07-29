@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニヒル","p":true}],"sense":[{"gloss":"nihilistic","pos":["adj-na"],"x":["ニヒリスティック"],"l":"lat: nihil"}]},"sdata":[]}

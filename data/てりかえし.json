@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"照り返し","p":true},{"e":"照りかえし"}],"r_ele":[{"r":"てりかえし","p":true}],"sense":[{"gloss":"reflection, reflected light, reflected heat, glare","pos":["n"]}]},"sdata":[{"j":"↑太陽↑↓たいよう↓の↑照↑↓|て↓り↑返↑↓かえ↓し|が↑強↑↓つよ↓い。","e":"There's a lot of glare."}]}

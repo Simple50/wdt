@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"譲り渡す","p":true},{"e":"譲りわたす"}],"r_ele":[{"r":"ゆずりわたす","p":true}],"sense":[{"gloss":"to hand over, to turn over, to cede","pos":["v5s","vt"]}]},"sdata":[{"j":"ジョーンズ↑氏↑↓し↓は↑年↑↓とし↓をとったら↑事業↑↓じぎょう↓を↑息子↑↓むすこ↓に↑譲↑↓|ゆず↓り↑渡↑↓わた↓す|つもりだ。","e":"When Mr Jones gets old, he will hand over his business to his son."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブリージング","p":true}],"sense":[{"gloss":"breathing","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"球菌","p":true}],"r_ele":[{"r":"きゅうきん","p":true}],"sense":[{"gloss":"coccus","pos":["n","adj-no"]}]},"kdata":{"球":{"on":["キュウ"],"kun":["たま"],"jlpt":3,"meanings":["ball","sphere"],"freq":302,"comp":[["王","求"]],"d":["毬"],"t":1332},"菌":{"on":["キン"],"jlpt":1,"meanings":["germ","fungus","bacteria"],"freq":1586,"comp":[["艹","囷"]],"t":1371}},"sdata":[]}

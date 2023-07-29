@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"時代感覚","p":true}],"r_ele":[{"r":"じだいかんかく","p":true}],"sense":[{"gloss":"sensitivity to the times, sense of the times","pos":["n"]}]},"sdata":[]}

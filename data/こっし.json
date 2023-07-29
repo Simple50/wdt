@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"骨子","p":true}],"r_ele":[{"r":"こっし","p":true}],"sense":[{"gloss":"main point, gist, essentials, bones (e.g. of an idea), pith","pos":["n"]}]},"sdata":[]}

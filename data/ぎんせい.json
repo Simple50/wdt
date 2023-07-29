@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銀製","p":true}],"r_ele":[{"r":"ぎんせい","p":true}],"sense":[{"gloss":"made of silver","pos":["n","adj-no"]}]},"sdata":[{"j":"↑景気↑↓けいき↓↑後退↑↓こうたい↓は↑賃金↑↓ちん|ぎん↓↑生活↑↓せい|かつ↓↑者↑↓しゃ↓を↑苦境↑↓くきょう↓に↑追↑↓お↓い↑込↑↓こ↓みました。","e":"The recession has put the crunch on wage laborers."}]}

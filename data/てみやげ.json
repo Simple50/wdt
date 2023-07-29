@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手土産","p":true},{"e":"手みやげ"}],"r_ele":[{"r":"てみやげ","p":true}],"sense":[{"gloss":"present (brought by a visitor), gift","pos":["n"]}]},"sdata":[]}

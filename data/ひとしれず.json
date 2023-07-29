@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人知れず","p":true}],"r_ele":[{"r":"ひとしれず","p":true}],"sense":[{"gloss":"secretly, in secret, unseen, unobserved, inwardly, in private","pos":["exp","adv"]}]},"sdata":[]}

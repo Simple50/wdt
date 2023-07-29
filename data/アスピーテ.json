@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アスピーテ","p":true}],"sense":[{"gloss":"aspite, shield volcano","pos":["n"],"l":"ger: Aspite"}]},"sdata":[]}

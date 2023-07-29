@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ぼやける","p":true}],"sense":[{"gloss":"to become dim, to become blurred","pos":["v1","vi"]}]},"sdata":[]}

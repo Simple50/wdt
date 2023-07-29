@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"配り物","p":true}],"r_ele":[{"r":"くばりもの","p":true}],"sense":[{"gloss":"present, gift","pos":["n"]}]},"sdata":[]}

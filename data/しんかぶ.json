@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新株","p":true}],"r_ele":[{"r":"しんかぶ","p":true}],"sense":[{"gloss":"new stock, new share, newly issued shares","pos":["n"],"f":["finc"],"ant":["旧株"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"篤志家","p":true}],"r_ele":[{"r":"とくしか","p":true}],"sense":[{"gloss":"charitable person, philanthropist, volunteer, supporter","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アイシャドウ","p":true},{"r":"アイシャドー","p":true}],"sense":[{"gloss":"eyeshadow","pos":["n"]}]},"sdata":[{"j":"メアリーは|アイシャドウ|つけてるのかな？","e":"Is Mary wearing eye shadow?"}]}

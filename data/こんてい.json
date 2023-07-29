@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"根底","p":true},{"e":"根柢","i":["rK"]}],"r_ele":[{"r":"こんてい","p":true}],"sense":[{"gloss":"root, basis, foundation","pos":["n"]}]},"sdata":[{"j":"この↑議論↑↓ぎろん↓の↑根底↑↓|こんてい|↓には、↑問題↑↓もんだい↓としている↑規則↑↓きそく↓が↑言語↑↓げんご↓に↑存在↑↓そんざい↓するという↑仮説↑↓かせつ↓がある。","e":"Basic to the argument is the assumption that the rules in question are present in the language."}]}

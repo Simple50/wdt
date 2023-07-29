@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"班員","p":true}],"r_ele":[{"r":"はんいん","p":true}],"sense":[{"gloss":"member of a group","pos":["n"]}]},"sdata":[]}

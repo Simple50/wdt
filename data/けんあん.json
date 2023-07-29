@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"懸案","p":true}],"r_ele":[{"r":"けんあん","p":true}],"sense":[{"gloss":"pending question, unresolved problem","pos":["n","adj-no"]}]},"sdata":[]}

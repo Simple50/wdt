@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上端","p":true}],"r_ele":[{"r":"じょうたん","p":true}],"sense":[{"gloss":"upper end, top, tip, top edge","pos":["n"],"x":["下端・かたん"]}]},"sdata":[]}

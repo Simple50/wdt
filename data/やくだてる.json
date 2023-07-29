@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"役立てる","p":true}],"r_ele":[{"r":"やくだてる","p":true}],"sense":[{"gloss":"to put to use, to make use of, to turn to account","pos":["v1","vt"]}]},"sdata":[]}

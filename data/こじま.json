@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小島","p":true}],"r_ele":[{"r":"こじま","p":true},{"r":"しょうとう"},{"r":"おじま"}],"sense":[{"gloss":"small island, islet","pos":["n"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓の↑船↑↓ふね↓はその↑小島↑↓|こじま|↓に↑近↑↓ちか↓づいた。","e":"Our boat approached the small island."},{"j":"↑小島↑↓|こじま|↓↑先生↑↓せんせい↓は↑朝食↑↓ちょうしょく↓↑後↑↓ご↓たばこを１↑服↑↓ふく↓↑吸↑↓す↓った。","e":"Mr Kojima had a smoke after breakfast."}]}

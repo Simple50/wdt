@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"法治国","p":true}],"r_ele":[{"r":"ほうちこく","p":true}],"sense":[{"gloss":"constitutional state","pos":["n"]}]},"sdata":[]}

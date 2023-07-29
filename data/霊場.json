@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"霊場","p":true}],"r_ele":[{"r":"れいじょう","p":true}],"sense":[{"gloss":"sacred ground","pos":["n"]}]},"kdata":{"霊":{"on":["レイ","リョウ"],"kun":["たま"],"jlpt":1,"meanings":["spirits","soul"],"freq":1458,"comp":[["一","雨","亚"]],"t":2073},"場":{"on":["ジョウ","チョウ"],"kun":["ば"],"jlpt":4,"meanings":["location","place"],"freq":52,"comp":[["土","昜"]],"t":1478}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"官房長官","p":true}],"r_ele":[{"r":"かんぼうちょうかん","p":true}],"sense":[{"gloss":"Chief Cabinet Secretary (Japan)","pos":["n"]},{"gloss":"Chief of Staff (to the President, Prime Minister, etc.), Cabinet Secretary, Executive Secretary","pos":["n"]}]},"sdata":[]}

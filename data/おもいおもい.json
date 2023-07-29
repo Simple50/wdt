@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い思い","p":true}],"r_ele":[{"r":"おもいおもい","p":true}],"sense":[{"gloss":"just as (each) one likes, as (each) one pleases, as (each) one prefers, (each) in one's own way","pos":["adv","adj-no"]}]},"sdata":[]}

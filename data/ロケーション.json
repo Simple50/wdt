@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロケーション","p":true}],"sense":[{"gloss":"location","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"部局","p":true}],"r_ele":[{"r":"ぶきょく","p":true}],"sense":[{"gloss":"department, bureau, section, part","pos":["n"]}]},"sdata":[]}

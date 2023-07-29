@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"星団","p":true}],"r_ele":[{"r":"せいだん","p":true}],"sense":[{"gloss":"star cluster","pos":["n"]}]},"sdata":[{"j":"どうやってそんな↑大金↑↓たいきん↓↑稼↑↓か|せ↓いだん|だ？","e":"How did you get that much money?"},{"j":"どこでそんな↑大金↑↓たいきん↓↑稼↑↓か|せ↓いだん|だ？","e":"Where did you get that much money?"}]}

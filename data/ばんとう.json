@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"番頭","p":true}],"r_ele":[{"r":"ばんとう","p":true}],"sense":[{"gloss":"(head) clerk","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑今晩↑↓こん|ばん↓↑東京↑↓とう|きょう↓を↑出発↑↓しゅっぱつ↓して↑大阪↑↓おおさか↓に↑向↑↓む↓かいます。","e":"I'll leave Tokyo for Osaka tonight."},{"j":"↑私↑↓わたし↓は↑今晩↑↓こん|ばん↓↑東京↑↓とう|きょう↓を↑出発↑↓しゅっぱつ↓します。","e":"I'll leave Tokyo tonight."}]}

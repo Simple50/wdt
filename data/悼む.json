@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悼む","p":true}],"r_ele":[{"r":"いたむ","p":true}],"sense":[{"gloss":"to grieve over, to mourn, to lament","pos":["v5m","vt"]}]},"kdata":{"悼":{"on":["トウ"],"kun":["いた.む"],"jlpt":1,"meanings":["lament","grieve over"],"freq":1645,"comp":[["卓","忄"]],"t":1281}},"sdata":[]}

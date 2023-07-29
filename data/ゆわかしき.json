@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"湯沸かし器","p":true},{"e":"湯沸器","i":["io"]}],"r_ele":[{"r":"ゆわかしき","p":true}],"sense":[{"gloss":"water-heater, water-boiler","pos":["n"]}]},"sdata":[{"j":"あいつは↑瞬間↑↓しゅんかん↓↑湯沸↑↓|ゆわ↓かし↑器↑↓き|↓なんだよ。","e":"He easily gets angry."}]}

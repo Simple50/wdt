@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"赤紙","p":true}],"r_ele":[{"r":"あかがみ","p":true}],"sense":[{"gloss":"draft papers, call-up notice","pos":["n"],"x":["召集令状"]},{"gloss":"red paper","pos":["n"]}]},"sdata":[{"j":"↑真↑↓ま↓っ↑赤↑↓か↓な↑手紙↑↓てがみ↓を↑忌々↑↓いまいま↓しげに↑見↑↓み↓つめ、これが↑悪名↑↓あくめい↓↑高↑↓たか↓い↑赤紙↑↓|あかがみ|↓ってヤツなのか？","e":"I glare resentfully at the crimson letter, is this the infamous red-paper draft notice?"}]}

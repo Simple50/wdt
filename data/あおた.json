@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青田","p":true}],"r_ele":[{"r":"あおた","p":true}],"sense":[{"gloss":"green paddy","pos":["n"]}]},"sdata":[{"j":"↑青田↑↓|あおた|↓は↑信↑↓しん↓じるに↑値↑↓あたい↓しない。","e":"Aota was not worthy of your trust."}]}

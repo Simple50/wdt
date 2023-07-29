@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脱会","p":true}],"r_ele":[{"r":"だっかい","p":true}],"sense":[{"gloss":"withdrawal (from membership of organization, organisation)","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アリア","p":true}],"sense":[{"gloss":"aria","pos":["n"],"f":["music"],"l":"ita"}]},"sdata":[{"j":"↑第↑↓だい↓３↑幕↑↓まく↓の|アリア|が↑彼女↑↓かのじょ↓の↑一番↑↓いちばん↓の↑聴↑↓き↓かせどころだ。","e":"The third aria is the part in which she makes herself heard the best."}]}

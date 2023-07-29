@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"スポーツ新聞","p":true}],"r_ele":[{"r":"スポーツしんぶん","p":true}],"sense":[{"gloss":"sports newspaper","pos":["n"]}]},"sdata":[{"j":"トムって、|スポーツ↑新聞↑↓しんぶん|↓を↑読↑↓よ↓むのが↑好↑↓す↓きなんだ。","e":"Tom likes reading sports newspapers."}]}

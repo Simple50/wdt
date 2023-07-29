@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"失禁","p":true}],"r_ele":[{"r":"しっきん","p":true}],"sense":[{"gloss":"incontinence","pos":["n","vs","vi","adj-no"]}]},"sdata":[{"j":"よく↑失禁↑↓|しっきん|↓します。","e":"I urinate involuntarily."}]}

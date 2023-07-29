@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煙い","p":true},{"e":"烟い"}],"r_ele":[{"r":"けむい","p":true},{"r":"けぶい"}],"sense":[{"gloss":"smoky","pos":["adj-i"]}]},"sdata":[{"j":"タバコが↑煙↑↓|けむ↓い|！","e":"Your smoking bothers me."}]}

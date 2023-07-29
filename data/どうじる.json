@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"動じる","p":true}],"r_ele":[{"r":"どうじる","p":true}],"sense":[{"gloss":"to be perturbed, to be agitated","pos":["v1","vi"]}]},"sdata":[]}

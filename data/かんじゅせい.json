@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"感受性","p":true}],"r_ele":[{"r":"かんじゅせい","p":true}],"sense":[{"gloss":"sensitivity, susceptibility","pos":["n"]}]},"sdata":[{"j":"トムは↑感受性↑↓|かんじゅせい|↓↑豊↑↓ゆた↓かだ。","e":"Tom is sensitive."},{"j":"トムは↑感受性↑↓|かんじゅせい|↓↑豊↑↓ゆた↓かな↑人↑↓ひと↓です。","e":"Tom is a very sensitive person."},{"j":"トムは↑感受性↑↓|かんじゅせい|↓↑豊↑↓ゆた↓かな↑人↑↓ひと↓です。","e":"Tom is a very impressionable person."}]}

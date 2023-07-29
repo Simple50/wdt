@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引きつる","p":true},{"e":"引き攣る"}],"r_ele":[{"r":"ひきつる","p":true}],"sense":[{"gloss":"to have a cramp, to twitch, to spasm","pos":["v5r","vi"]},{"gloss":"to stiffen (of a face, expression), to freeze, to grow tight (e.g. of a voice)","pos":["v5r","vi"]},{"gloss":"to shrink (of skin, due to a scar), to tauten","pos":["v5r","vi"]}]},"sdata":[]}

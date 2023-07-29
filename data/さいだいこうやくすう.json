@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最大公約数","p":true}],"r_ele":[{"r":"さいだいこうやくすう","p":true}],"sense":[{"gloss":"greatest common divisor, GCD","pos":["n"],"f":["math"]}]},"sdata":[]}

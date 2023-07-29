@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"商業銀行","p":true}],"r_ele":[{"r":"しょうぎょうぎんこう","p":true}],"sense":[{"gloss":"commercial bank","pos":["n"]}]},"sdata":[]}

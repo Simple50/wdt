@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火山灰","p":true}],"r_ele":[{"r":"かざんばい","p":true}],"sense":[{"gloss":"volcanic ash","pos":["n"]}]},"sdata":[{"j":"2010↑年↑↓ねん↓のデンマークの↑今年↑↓ことし↓の↑言葉↑↓ことば↓は、「↑火山灰↑↓|かざんばい|↓の↑雲↑↓くも↓」、「デンマークの↑周辺↑↓しゅうへん↓」、「ブブゼラ」、そして、「ウィキリークス」です。","e":"The words of the year 2010 in Denmark are \"ash cloud\", \"Peripheral Denmark\", \"vuvuzela\" and \"WikiLeaks\"."}]}

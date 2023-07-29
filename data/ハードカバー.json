@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハードカバー","p":true}],"sense":[{"gloss":"hardcover, hardback","pos":["n","adj-no"]}]},"sdata":[]}

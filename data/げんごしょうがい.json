@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"言語障害","p":true}],"r_ele":[{"r":"げんごしょうがい","p":true}],"sense":[{"gloss":"speech impediment, speech disorder","pos":["n","adj-no"]}]},"sdata":[]}

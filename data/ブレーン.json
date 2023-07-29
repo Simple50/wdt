@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブレーン","p":true},{"r":"ブレイン"}],"sense":[{"gloss":"brains (of an operation), advisor, brain trust","pos":["n"],"m":["abbr"],"x":["ブレーントラスト"]},{"gloss":"brain (organ)","pos":["n"]}]},"sdata":[{"j":"マイクは|ブレーン|の↑一↑↓いち↓↑人↑↓にん↓だ。","e":"Mike is one of our brains."}]}

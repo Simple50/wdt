@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"揺ら揺ら","p":true}],"r_ele":[{"r":"ゆらゆら","p":true},{"r":"ユラユラ"}],"sense":[{"gloss":"swaying, swinging, rocking, shaking, wavering, flickering","pos":["adv","adv-to","vs"]}],"m":["uk","on-mim"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持て成す","p":true,"i":["rK"]},{"e":"持てなす","i":["sK"]}],"r_ele":[{"r":"もてなす","p":true}],"sense":[{"gloss":"to treat (a guest), to receive, to entertain, to be hospitable to, to make welcome","pos":["v5s","vt"]}],"m":["uk"]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑誰↑↓だれ↓を↑招↑↓まね↓いても↑厚↑↓あつ↓く|もてなす|。","e":"Whomsoever she invites, she is quite hospitable."}]}

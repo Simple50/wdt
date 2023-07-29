@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒ずむ","p":true}],"r_ele":[{"r":"くろずむ","p":true}],"sense":[{"gloss":"to blacken, to darken","pos":["v5m","vi"]}]},"sdata":[]}

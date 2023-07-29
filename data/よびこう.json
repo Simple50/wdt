@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"予備校","p":true}],"r_ele":[{"r":"よびこう","p":true}],"sense":[{"gloss":"preparatory school (for entrance examinations), cram school, cramming school","pos":["n"]}]},"sdata":[]}

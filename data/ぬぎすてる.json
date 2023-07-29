@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脱ぎ捨てる","p":true},{"e":"脱捨てる"},{"e":"脱ぎ棄てる","i":["rK"]}],"r_ele":[{"r":"ぬぎすてる","p":true}],"sense":[{"gloss":"to throw off (clothes), to cast off, to fling off, to kick off (shoes)","pos":["v1","vt"]},{"gloss":"to cast off (old ideas, habits, etc.), to discard","pos":["v1","vt"]}]},"sdata":[]}

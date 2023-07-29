@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テスター","p":true}],"sense":[{"gloss":"(circuit) tester, micrometer","pos":["n"]}]},"sdata":[]}

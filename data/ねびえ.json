@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝冷え","p":true}],"r_ele":[{"r":"ねびえ","p":true}],"sense":[{"gloss":"indisposition (e.g. a cold) caused by getting chilled while sleeping","pos":["n","vs","vi"]}]},"sdata":[]}

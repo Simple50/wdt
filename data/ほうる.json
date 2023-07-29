@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"放る","p":true},{"e":"抛る"}],"r_ele":[{"r":"ほうる","p":true},{"r":"ほる"}],"sense":[{"gloss":"to throw, to fling, to hurl, to toss","pos":["v5r","vt"]},{"gloss":"to neglect, to abandon, to leave alone, to give up on, to leave undone, to leave unfinished","pos":["v5r","vt"],"x":["放っておく"]}]},"sdata":[]}

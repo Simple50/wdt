@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隠匿","p":true}],"r_ele":[{"r":"いんとく","p":true}],"sense":[{"gloss":"concealment (esp. of wrongdoings or criminals), sheltering, harboring","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑陰徳↑↓|いんとく|↓あれば↑陽報↑↓ようほう↓あり。","e":"Secret gifts are openly rewarded."}]}

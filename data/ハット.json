@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハット","p":true}],"sense":[{"gloss":"hat","pos":["n"]},{"gloss":"hut","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はトップ|ハット|とテールを↑着↑↓き↓て↑本当↑↓ほんとう↓にすてきだった。","e":"He looked really wonderful in his top hat and tails."},{"j":"ティンホイル・|ハット|を↑取↑↓と↓りなさい。","e":"Take off your tinfoil hat."}]}

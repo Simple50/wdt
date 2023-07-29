@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"谷底","p":true}],"r_ele":[{"r":"たにぞこ","p":true},{"r":"たにそこ"}],"sense":[{"gloss":"valley floor, bottom of a gorge, bottom of a ravine","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"葉月","p":true}],"r_ele":[{"r":"はづき","p":true}],"sense":[{"gloss":"eighth month of the lunar calendar","pos":["n"]}],"m":["obs"]},"sdata":[]}

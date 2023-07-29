@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二階建て","p":true},{"e":"二階建"},{"e":"２階建て"},{"e":"２階建"}],"r_ele":[{"r":"にかいだて","p":true}],"sense":[{"gloss":"two-storied building","pos":["n"],"x":["階建て"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑２↑↓|に↓↑階↑↓かい↓↑建↑↓だ↓て|の↑家↑↓いえ↓に↑住↑↓す↓んでいる。","e":"I live in a two story house."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アパルトヘイト","p":true}],"sense":[{"gloss":"apartheid","pos":["n"],"l":"afr"}]},"sdata":[]}

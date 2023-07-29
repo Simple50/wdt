@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗っ取る","p":true},{"e":"乗っとる"}],"r_ele":[{"r":"のっとる","p":true}],"sense":[{"gloss":"to take over, to capture, to seize, to commandeer, to occupy, to usurp","pos":["v5r","vt"]},{"gloss":"to hijack (vehicle, account, etc.)","pos":["v5r","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シンボリック","p":true}],"sense":[{"gloss":"symbolic","pos":["adj-na"]}]},"sdata":[]}

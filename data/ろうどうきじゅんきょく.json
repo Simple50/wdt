@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"労働基準局","p":true}],"r_ele":[{"r":"ろうどうきじゅんきょく","p":true}],"sense":[{"gloss":"labor standards bureau, labour standards bureau","pos":["n"]}]},"sdata":[]}

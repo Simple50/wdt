@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"汚物","p":true}],"r_ele":[{"r":"おぶつ","p":true}],"sense":[{"gloss":"filth (esp. excrement, feces, urine), muck, waste, garbage, dirt, dust","pos":["n"]}]},"sdata":[{"j":"↑水↑↓みず↓の↑淀↑↓よど↓む↑所↑↓ところ↓には↑汚物↑↓|おぶつ|↓が↑溜↑↓たま↓る。","e":"Standing pools gather filth."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノースカロライナ","p":true},{"r":"ノース・カロライナ"}],"sense":[{"gloss":"North Carolina","pos":["n"]}]},"sdata":[{"j":"トムは|ノースカロライナ|に↑住↑↓す↓んでいる。","e":"Tom lives in North Carolina."}]}

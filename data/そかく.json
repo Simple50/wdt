@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"組閣","p":true}],"r_ele":[{"r":"そかく","p":true}],"sense":[{"gloss":"formation of a cabinet","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑首相↑↓しゅしょう↓は↑組閣↑↓|そかく|↓に↑失敗↑↓しっぱい↓した。","e":"The prime minister was unable to form a cabinet."},{"j":"↑組閣↑↓|そかく|↓する↑事↑↓こと↓は↑難↑↓むずか↓しい。","e":"Forming a cabinet is difficult."}]}

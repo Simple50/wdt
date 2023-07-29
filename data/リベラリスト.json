@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リベラリスト","p":true}],"sense":[{"gloss":"liberalist","pos":["n"]}]},"sdata":[]}

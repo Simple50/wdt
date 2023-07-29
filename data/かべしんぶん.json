@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"壁新聞","p":true}],"r_ele":[{"r":"かべしんぶん","p":true}],"sense":[{"gloss":"wall newspaper, wall poster","pos":["n"]}]},"sdata":[]}

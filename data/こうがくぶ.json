@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"工学部","p":true}],"r_ele":[{"r":"こうがくぶ","p":true}],"sense":[{"gloss":"department (or school) of technology, engineering or science","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"監獄","p":true}],"r_ele":[{"r":"かんごく","p":true}],"sense":[{"gloss":"prison","pos":["n"],"x":["獄","刑務所"]}]},"sdata":[{"j":"デンマークは↑監獄↑↓|かんごく|↓だ。","e":"Denmark’s a prison."}]}

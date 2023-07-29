@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社会復帰","p":true}],"r_ele":[{"r":"しゃかいふっき","p":true}],"sense":[{"gloss":"rehabilitation (in society)","pos":["n","vs","vi"]}]},"sdata":[]}

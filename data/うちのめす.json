@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ちのめす","p":true}],"r_ele":[{"r":"うちのめす","p":true},{"r":"ぶちのめす"}],"sense":[{"gloss":"to knock down, to beat (someone) up","pos":["v5s","vt"]},{"gloss":"to injure (someone) so badly they cannot recover (esp. emotionally), to overwhelm (with mental anguish, etc.)","pos":["v5s","vt"]}]},"sdata":[]}

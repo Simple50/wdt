@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オタワ","p":true}],"sense":[{"gloss":"Ottawa","pos":["n"]}]},"sdata":[{"j":"|オタワ|はカナダの↑首都↑↓しゅと↓です。","e":"Ottawa is the capital of Canada."}]}

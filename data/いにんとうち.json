@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"委任統治","p":true}],"r_ele":[{"r":"いにんとうち","p":true}],"sense":[{"gloss":"mandate","pos":["n"]}]},"sdata":[]}

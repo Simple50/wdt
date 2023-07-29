@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青柳","p":true}],"r_ele":[{"r":"あおやぎ","p":true},{"r":"あおやなぎ"}],"sense":[{"gloss":"green willow (i.e. one that has budded)","pos":["n"]},{"gloss":"meat of the trough shell (Mactra chinensis)","pos":["n"],"x":["バカ貝"]}]},"sdata":[]}

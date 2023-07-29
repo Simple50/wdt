@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"指導要領","p":true}],"r_ele":[{"r":"しどうようりょう","p":true}],"sense":[{"gloss":"government-approved curriculums, (educational) guidelines","pos":["n"]}]},"sdata":[]}

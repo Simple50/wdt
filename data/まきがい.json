@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巻き貝","p":true},{"e":"巻貝"}],"r_ele":[{"r":"まきがい","p":true}],"sense":[{"gloss":"snail, spiral shell","pos":["n"]}]},"sdata":[]}

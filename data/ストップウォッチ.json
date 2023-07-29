@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ストップウォッチ","p":true},{"r":"ストップウオッチ"}],"sense":[{"gloss":"stopwatch","pos":["n"]}]},"sdata":[]}

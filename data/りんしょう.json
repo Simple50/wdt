@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"臨床","p":true}],"r_ele":[{"r":"りんしょう","p":true}],"sense":[{"gloss":"clinical (e.g. pathology, physiology)","pos":["adj-no"]}]},"sdata":[{"j":"トムはここ5↑年↑↓ねん↓、嗜癖の↑臨床↑↓|りんしょう|↓↑治療↑↓ちりょう↓を↑続↑↓つづ↓けています。","e":"Tom has been in clinical treatment for addiction for the last five years."}]}

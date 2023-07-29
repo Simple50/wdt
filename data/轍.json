@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"轍","p":true}],"r_ele":[{"r":"わだち","p":true},{"r":"てつ"}],"sense":[{"gloss":"rut, wheel track, furrow","pos":["n"]}]},"kdata":{"轍":{"on":["テツ"],"kun":["わだちい","わだち"],"meanings":["wheel track","rut"],"freq":2484,"comp":[["車","攵","育"]],"jlpt":-1}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本義","p":true}],"r_ele":[{"r":"ほんぎ","p":true}],"sense":[{"gloss":"true meaning, underlying principle","pos":["n"]}]},"sdata":[]}

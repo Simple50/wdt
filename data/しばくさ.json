@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"芝草","p":true}],"r_ele":[{"r":"しばくさ","p":true}],"sense":[{"gloss":"lawn, sod, turf","pos":["n"]}]},"sdata":[]}

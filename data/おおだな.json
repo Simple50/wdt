@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大店","p":true}],"r_ele":[{"r":"おおだな","p":true}],"sense":[{"gloss":"large store","pos":["n"]}]},"sdata":[]}

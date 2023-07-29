@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"呼び戻す","p":true},{"e":"呼戻す"}],"r_ele":[{"r":"よびもどす","p":true}],"sense":[{"gloss":"to call (someone) back, to recall, to call home","pos":["v5s","vt"]},{"gloss":"to bring back (memories, etc.), to recall, to revive","pos":["v5s","vt"]}]},"sdata":[]}

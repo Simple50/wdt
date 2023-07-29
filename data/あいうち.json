@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相打ち","p":true},{"e":"相撃ち"},{"e":"相討ち"}],"r_ele":[{"r":"あいうち","p":true}],"sense":[{"gloss":"simultaneously striking one another (in kendo, etc.)","pos":["n"]},{"gloss":"draw, tie","pos":["n"]}]},"sdata":[]}

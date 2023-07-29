@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"買い控え","p":true}],"r_ele":[{"r":"かいびかえ","p":true}],"sense":[{"gloss":"restrained buying","pos":["n"]}]},"sdata":[]}

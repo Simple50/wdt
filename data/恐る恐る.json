@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恐る恐る","p":true}],"r_ele":[{"r":"おそるおそる","p":true}],"sense":[{"gloss":"fearfully, timidly, nervously, cautiously, gingerly","pos":["adv"]}]},"kdata":{"恐":{"on":["キョウ"],"kun":["おそ.れる","おそ.る","おそ.ろしい","こわ.い","こわ.がる"],"jlpt":3,"meanings":["fear","dread","awe"],"freq":878,"comp":[["凡","工","心"]],"t":1067}},"sdata":[]}

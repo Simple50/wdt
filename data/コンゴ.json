@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンゴ","p":true}],"sense":[{"gloss":"Congo","pos":["n"]}]},"sdata":[]}

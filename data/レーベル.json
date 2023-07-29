@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラベル","p":true},{"r":"レーベル","p":true}],"sense":[{"gloss":"label (i.e. sticker)","pos":["n"]},{"gloss":"label (i.e. record label)","pos":["n"]}]},"sdata":[{"j":"この|レーベル|はケモナー↑作曲↑↓さっきょく↓↑家↑↓か↓たちに↑専念↑↓せんねん↓しています。","e":"This record label is dedicated to furry musicians."}]}

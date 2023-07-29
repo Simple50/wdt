@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不在者投票","p":true}],"r_ele":[{"r":"ふざいしゃとうひょう","p":true}],"sense":[{"gloss":"absentee ballot, absentee voting","pos":["n"]}]},"sdata":[]}

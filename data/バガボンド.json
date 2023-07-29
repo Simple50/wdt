@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バガボンド","p":true}],"sense":[{"gloss":"vagabond","pos":["n"]}]},"sdata":[]}

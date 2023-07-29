@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"太平洋戦争","p":true}],"r_ele":[{"r":"たいへいようせんそう","p":true}],"sense":[{"gloss":"Pacific War (1941-1945)","pos":["n"]}],"m":["hist"]},"sdata":[]}

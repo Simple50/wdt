@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"侠客","p":true},{"e":"俠客"}],"r_ele":[{"r":"きょうかく","p":true}],"sense":[{"gloss":"self-styled humanitarian, person acting under the pretence of chivalry while participating in gangs and engaging in gambling","pos":["n"],"x":["男伊達・1","町奴"]}],"m":["hist"]},"sdata":[]}

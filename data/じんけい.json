@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陣形","p":true}],"r_ele":[{"r":"じんけい","p":true}],"sense":[{"gloss":"battle formation, military formation","pos":["n"],"f":["mil"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑婦人↑↓ふ|じん↓↑警官↑↓けい|かん↓の↑扮装↑↓ふんそう↓をして↑彼女↑↓かのじょ↓に↑近↑↓ちか↓づいた。","e":"He approached her in the disguise of a policewoman."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"財源","p":true}],"r_ele":[{"r":"ざいげん","p":true}],"sense":[{"gloss":"source of funds, resources, finances","pos":["n"]}]},"sdata":[{"j":"↑地方↑↓ちほう↓の↑道路↑↓どうろ↓↑整備↑↓せいび↓のための↑財源↑↓|ざいげん|↓↑確保↑↓かくほ↓が↑必要↑↓ひつよう↓です。","e":"It is necessary to secure financing for local road maintenance."}]}

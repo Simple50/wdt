@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"選りすぐり","p":true}],"r_ele":[{"r":"よりすぐり","p":true},{"r":"えりすぐり"}],"sense":[{"gloss":"special selection, finest pick, top pick","pos":["n","adj-no"]}]},"kdata":{"選":{"on":["セン"],"kun":["えら.ぶ","え.る","よ.る"],"jlpt":3,"meanings":["elect","select","choose","prefer"],"freq":57,"comp":[["巽","辶"]],"t":2067}},"sdata":[]}

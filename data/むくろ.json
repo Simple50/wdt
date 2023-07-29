@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"躯","p":true},{"e":"骸"},{"e":"身"}],"r_ele":[{"r":"むくろ","p":true}],"sense":[{"gloss":"(dead) body, corpse","pos":["n"]}]},"sdata":[{"j":"↑羽子板↑↓はごいた↓で↑突↑↓つ↓く↑羽↑↓はね↓の↑玉↑↓たま↓は「|むくろ|じ」という↑大木↑↓たいぼく↓の↑種↑↓しゅ↓です。","e":"The feathered balls you hit with a battledore are the seeds of a large tree called 'soapberry'."}]}

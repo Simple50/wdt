@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"運動場","p":true}],"r_ele":[{"r":"うんどうじょう","p":true},{"r":"うんどうば","p":true}],"sense":[{"gloss":"sports ground, playing field, playground","pos":["n"]}]},"sdata":[]}

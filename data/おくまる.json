@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奥まる","p":true}],"r_ele":[{"r":"おくまる","p":true}],"sense":[{"gloss":"to lie deep in, to extend far back","pos":["v5r","vi"]}]},"sdata":[]}

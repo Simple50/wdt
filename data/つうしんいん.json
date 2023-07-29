@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通信員","p":true}],"r_ele":[{"r":"つうしんいん","p":true}],"sense":[{"gloss":"correspondent, reporter","pos":["n"]}]},"sdata":[{"j":"↑通信員↑↓|つうしんいん|↓は↑海外↑↓かいがい↓↑生活↑↓せいかつ↓にすぐに↑順応↑↓じゅんのう↓しなくてはいけない。","e":"A correspondent must soon adjust himself to life abroad."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新茶","p":true}],"r_ele":[{"r":"しんちゃ","p":true}],"sense":[{"gloss":"first tea of the season","pos":["n"]}]},"sdata":[{"j":"↑新茶↑↓|しんちゃ|↓を↑摘↑↓つま↓む↑季↑↓き↓↑節↑↓ぶし↓になった。","e":"This is the season to pick fresh tea."}]}

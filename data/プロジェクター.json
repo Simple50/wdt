@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロジェクター","p":true},{"r":"プロジェクタ"}],"sense":[{"gloss":"projector","pos":["n"]}]},"sdata":[]}

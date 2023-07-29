@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入閣","p":true}],"r_ele":[{"r":"にゅうかく","p":true}],"sense":[{"gloss":"joining the cabinet","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"定点","p":true}],"r_ele":[{"r":"ていてん","p":true}],"sense":[{"gloss":"fixed point","pos":["n"]}]},"sdata":[]}

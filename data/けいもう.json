@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"啓蒙","p":true},{"e":"啓もう","i":["sK"]}],"r_ele":[{"r":"けいもう","p":true}],"sense":[{"gloss":"enlightenment, illumination","pos":["n","vs","vt"]}]},"sdata":[]}

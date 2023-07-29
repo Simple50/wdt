@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初出","p":true}],"r_ele":[{"r":"しょしゅつ","p":true},{"r":"うぶだし"}],"sense":[{"gloss":"first appearance","pos":["n","vs","vi"]}]},"sdata":[]}

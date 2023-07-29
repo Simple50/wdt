@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後追い","p":true},{"e":"跡追い"}],"r_ele":[{"r":"あとおい","p":true}],"sense":[{"gloss":"trailing, chasing after","pos":["n","vs"]},{"gloss":"imitation, copy","pos":["n","vs"]}]},"sdata":[]}

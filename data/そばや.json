@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蕎麦屋","p":true},{"e":"そば屋"}],"r_ele":[{"r":"そばや","p":true}],"sense":[{"gloss":"soba restaurant","pos":["n"],"x":["蕎麦・2"]}]},"sdata":[]}

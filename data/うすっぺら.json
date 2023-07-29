@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄っぺら","p":true}],"r_ele":[{"r":"うすっぺら","p":true}],"sense":[{"gloss":"very thin, flimsy, cheap, shallow","pos":["adj-na","n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑彼↑↓かれ↓の↑薄↑↓|うす↓っぺら|な↑性格↑↓せいかく↓が↑嫌↑↓いや↓だ。","e":"I don't like his shallow personality."}]}

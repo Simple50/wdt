@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄明かり","p":true},{"e":"薄明り"}],"r_ele":[{"r":"うすあかり","p":true}],"sense":[{"gloss":"dim light, faint light, half-light of early morning, twilight","pos":["n"]}]},"sdata":[{"j":"そこには↑消↑↓き↓えることのない↑薄↑↓|うす↓↑明↑↓あ↓かり|があった。","e":"There was eternal twilight in the place."}]}

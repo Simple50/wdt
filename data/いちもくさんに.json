@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一目散に","p":true}],"r_ele":[{"r":"いちもくさんに","p":true}],"sense":[{"gloss":"at full speed, as fast as one's legs can carry one","pos":["adv"]}]},"sdata":[{"j":"↑犬↑↓いぬ↓は↑一目散↑↓|いちもくさん↓に|↑逃↑↓に↓げ↑出↑↓だ↓した。","e":"The dog ran off as fast as it could."}]}

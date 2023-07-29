@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"環境衛生","p":true}],"r_ele":[{"r":"かんきょうえいせい","p":true}],"sense":[{"gloss":"environmental hygiene","pos":["n"]}]},"sdata":[]}

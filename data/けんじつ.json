@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"堅実","p":true},{"e":"健実"}],"r_ele":[{"r":"けんじつ","p":true}],"sense":[{"gloss":"steady, sound, stable, safe (e.g. business), reliable, trustworthy, solid","pos":["adj-na"]}]},"sdata":[{"j":"↑堅実↑↓|けんじつ|↓な↑草↑↓くさ↓の↑根↑↓ね↓レベルの↑運動↑↓うんどう↓を↑築↑↓きず↓きあげることに↑集中↑↓しゅうちゅう↓しなければならない。","e":"We must focus on building a solid grass-roots movement."}]}

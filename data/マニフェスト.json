@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マニフェスト","p":true},{"r":"マニュフェスト","i":["ik"]}],"sense":[{"gloss":"manifesto","pos":["n"]}]},"sdata":[]}

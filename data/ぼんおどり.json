@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盆踊り","p":true},{"e":"盆踊"}],"r_ele":[{"r":"ぼんおどり","p":true}],"sense":[{"gloss":"Bon Festival dance, Lantern Festival dance","pos":["n"]}]},"sdata":[{"j":"トムに「↑一緒↑↓いっしょ↓に↑盆踊↑↓|ぼんおど↓り|に↑行↑↓い↓こう」って↑誘↑↓さそ↓われちゃった。","e":"Tom asked me whether I would like to go to the Bon Festival dance with him."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一文字","p":true}],"r_ele":[{"r":"いちもんじ","p":true}],"sense":[{"gloss":"straight line, beeline","pos":["n"]}]},"sdata":[]}

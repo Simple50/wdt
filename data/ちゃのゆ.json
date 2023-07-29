@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"茶の湯","p":true}],"r_ele":[{"r":"ちゃのゆ","p":true}],"sense":[{"gloss":"tea ceremony, chanoyu","pos":["n"]}]},"sdata":[]}

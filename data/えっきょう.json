@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"越境","p":true}],"r_ele":[{"r":"えっきょう","p":true}],"sense":[{"gloss":"crossing a border (illegally), border violation, border transgression","pos":["n","vs","vi"]}]},"sdata":[]}

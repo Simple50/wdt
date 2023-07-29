@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手控える","p":true}],"r_ele":[{"r":"てびかえる","p":true}],"sense":[{"gloss":"to hang (hold) back, to hold off, to refrain, to reduce or cut back on","pos":["v1","vt"]},{"gloss":"to jot down a note","pos":["v1","vt"]}]},"sdata":[]}

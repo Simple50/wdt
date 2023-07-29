@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"米粉","p":true}],"r_ele":[{"r":"こめこ","p":true},{"r":"べいふん"}],"sense":[{"gloss":"rice flour","pos":["n"]}]},"sdata":[]}

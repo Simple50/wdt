@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絞り込む","p":true},{"e":"絞込む"},{"e":"絞りこむ"},{"e":"しぼり込む"},{"e":"搾り込む"},{"e":"搾りこむ"},{"e":"搾込む"}],"r_ele":[{"r":"しぼりこむ","p":true}],"sense":[{"gloss":"to squeeze, to wring out","pos":["v5m","vt"]},{"gloss":"to narrow down, to refine","pos":["v5m","vt"]}]},"sdata":[]}

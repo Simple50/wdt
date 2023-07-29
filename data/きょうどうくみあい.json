@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"協同組合","p":true},{"e":"共同組合","p":true}],"r_ele":[{"r":"きょうどうくみあい","p":true}],"sense":[{"gloss":"cooperative, association, partnership","pos":["n","adj-no"]}]},"sdata":[]}

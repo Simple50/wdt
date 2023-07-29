@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電話線","p":true}],"r_ele":[{"r":"でんわせん","p":true}],"sense":[{"gloss":"telephone line","pos":["n"]}]},"sdata":[{"j":"↑電話↑↓|でんわ↓↑線↑↓せん|↓が↑切↑↓き↓れてしまったんだ。","e":"The phone line's been cut."}]}

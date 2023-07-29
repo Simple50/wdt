@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"収入印紙","p":true}],"r_ele":[{"r":"しゅうにゅういんし","p":true}],"sense":[{"gloss":"revenue stamp","pos":["n"]}]},"sdata":[]}

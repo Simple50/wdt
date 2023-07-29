@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"罰則","p":true}],"r_ele":[{"r":"ばっそく","p":true}],"sense":[{"gloss":"punishment, penalty","pos":["n"]},{"gloss":"penal regulations, penal provisions, penal code","pos":["n"]}]},"sdata":[{"j":"この↑犯罪↑↓はんざい↓に↑対↑↓たい↓して↑法律↑↓ほうりつ↓はある↑罰則↑↓|ばっそく|↓が↑規定↑↓きてい↓されている。","e":"The law prescribes certain penalties for this offence."}]}

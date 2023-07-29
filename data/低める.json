@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低める","p":true}],"r_ele":[{"r":"ひくめる","p":true}],"sense":[{"gloss":"to lower, to be lowered","pos":["v1","vt"]}]},"kdata":{"低":{"on":["テイ"],"kun":["ひく.い","ひく.める","ひく.まる"],"jlpt":2,"meanings":["lower","short","humble"],"freq":435,"comp":[["亻","氐"]],"t":434}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＧＯサイン"}],"r_ele":[{"r":"ゴーサイン","p":true},{"r":"ゴー・サイン","i":["sk"]}],"sense":[{"gloss":"(giving) permission, OK, green light","pos":["n"],"l":"eng: go sign"}],"m":["uk"]},"sdata":[]}

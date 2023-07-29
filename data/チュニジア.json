@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突尼斯","i":["ateji","rK"]}],"r_ele":[{"r":"チュニジア","p":true},{"r":"テュニジア"}],"sense":[{"gloss":"Tunisia","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"|チュニジア|ではみんなが↑立派↑↓りっぱ↓なフランス↑語↑↓ご↓を↑話↑↓はな↓す。","e":"Everyone can speak French well in Tunisia."}]}

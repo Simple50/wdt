@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り替える","p":true},{"e":"切替える"},{"e":"切り換える"},{"e":"切りかえる"},{"e":"切換える"},{"e":"切り変える"}],"r_ele":[{"r":"きりかえる","p":true}],"sense":[{"gloss":"to change, to exchange, to convert, to renew, to throw a switch, to replace, to switch over","pos":["v1","vt"]}]},"sdata":[]}

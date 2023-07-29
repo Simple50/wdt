@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敵失","p":true}],"r_ele":[{"r":"てきしつ","p":true}],"sense":[{"gloss":"error made by the enemy or opposing team","pos":["n"]}]},"sdata":[]}

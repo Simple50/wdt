@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白玉","p":true}],"r_ele":[{"r":"しらたま","p":true},{"r":"シラタマ"}],"sense":[{"gloss":"white gem (esp. a pearl)","pos":["n"],"x":["真珠"]},{"gloss":"rice flour dumpling","pos":["n"]},{"gloss":"white-flowered camellia","pos":["n"],"m":["abbr","uk"],"x":["白玉椿"]}]},"sdata":[]}

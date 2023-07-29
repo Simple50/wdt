@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一着","p":true},{"e":"１着"}],"r_ele":[{"r":"いっちゃく","p":true}],"sense":[{"gloss":"first place (in a race), first to arrive","pos":["n"]},{"gloss":"one suit (of clothes), one item (of clothing)","pos":["n"]},{"gloss":"putting on (formal clothes), wearing","pos":["n","vs","vt"]},{"gloss":"one move","pos":["n"],"f":["go"]}]},"sdata":[]}

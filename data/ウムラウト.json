@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウムラウト","p":true}],"sense":[{"gloss":"umlaut","pos":["n"],"f":["ling"],"l":"ger"}]},"sdata":[]}

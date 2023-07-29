@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スロープ","p":true}],"sense":[{"gloss":"slope","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑３↑↓さん↓↑分↑↓ぷん↓でその|スロープ|を↑滑↑↓すべ↓り↑降↑↓お↓りることができた。","e":"He was able to ski down the slope in three minutes."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"劇映画","p":true}],"r_ele":[{"r":"げきえいが","p":true}],"sense":[{"gloss":"film drama","pos":["n"]}]},"sdata":[]}

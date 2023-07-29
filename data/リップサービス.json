@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リップサービス","p":true},{"r":"リップ・サービス"}],"sense":[{"gloss":"lip service","pos":["n"]}]},"sdata":[]}

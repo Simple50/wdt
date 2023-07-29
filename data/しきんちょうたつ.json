@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"資金調達","p":true}],"r_ele":[{"r":"しきんちょうたつ","p":true}],"sense":[{"gloss":"fundraising","pos":["n","adj-no"]}]},"sdata":[{"j":"でも、↑仲間↑↓なかま↓たちは↑志↑↓こころざし↓はあっても、↑資金↑↓|しきん↓↑調達↑↓ちょうたつ|↓やマネジメントには↑無知↑↓むち↓でした。","e":"However, although our companions were willing, they knew nothing about management or getting money."}]}

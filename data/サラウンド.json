@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サラウンド","p":true}],"sense":[{"gloss":"surround","pos":["n"]}]},"sdata":[]}

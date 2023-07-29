@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一昨","p":true}],"r_ele":[{"r":"いっさく","p":true}],"sense":[{"gloss":"one previous","pos":["n"]}]},"sdata":[{"j":"「↑何時↑↓いつ↓↑帰↑↓かえ↓ってきたのですか」「↑一昨日↑↓|いっさく|じつ↓です」","e":"When did you return? \"I came back the day before yesterday.\""},{"j":"↑一昨年↑↓|いっさく|ねん↓、オーストラリアに↑越↑↓こ↓してきました。","e":"I moved to Australia the year before last."}]}

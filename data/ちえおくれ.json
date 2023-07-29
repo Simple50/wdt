@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"知恵遅れ","p":true}],"r_ele":[{"r":"ちえおくれ","p":true}],"sense":[{"gloss":"mental retardation","pos":["n"]}],"m":["sens"]},"sdata":[{"j":"いい↑年↑↓ねん↓してラノベ↑読↑↓よ↓んでる↑奴↑↓やつ↓って↑普通↑↓ふつう↓に↑知恵↑↓|ちえ↓↑遅↑↓おく↓れ|の↑障害↑↓しょうがい↓↑者↑↓しゃ↓だろうな。","e":"Normally, a guy who reads light novels despite not being a kid anymore is a retard, don't you think?"}]}

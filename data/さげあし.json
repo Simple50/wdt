@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下げ足","p":true}],"r_ele":[{"r":"さげあし","p":true}],"sense":[{"gloss":"downturn (in the market)","pos":["n"],"ant":["上げ足・あげあし・2"]}]},"sdata":[]}

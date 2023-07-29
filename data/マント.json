@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マント","p":true}],"sense":[{"gloss":"cloak, manteau, mantle","pos":["n"],"x":["マンテル"],"l":"fre: manteau"}]},"sdata":[{"j":"|マント|ルピースの↑上↑↓うえ↓にあるよ。","e":"It's on the mantelpiece."},{"j":"インフォー|マント|はアメリカ↑人↑↓じん↓２０↑人↑↓にん↓、イギリス↑人↑↓じん↓２１↑人↑↓にん↓という↑構成↑↓こうせい↓である。","e":"The informants we used consisted of twenty Americans and twenty-one British."}]}

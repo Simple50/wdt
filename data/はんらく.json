@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"反落","p":true}],"r_ele":[{"r":"はんらく","p":true}],"sense":[{"gloss":"reactionary fall (e.g. in stock prices)","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニューメキシコ","p":true},{"r":"ニュー・メキシコ"}],"sense":[{"gloss":"New Mexico","pos":["n"]}]},"sdata":[{"j":"↑問題↑↓もんだい↓です！|ニューメキシコ|↑州↑↓しゅう↓って、どこの↑国↑↓くに↓でしょう？","e":"I have a question. What country is New Mexico in?"}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンブリオ","p":true},{"r":"コン・ブリオ"}],"sense":[{"gloss":"con brio","pos":["exp"],"f":["music"],"l":"ita"}]},"sdata":[]}

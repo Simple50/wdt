@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"点ける","p":true}],"r_ele":[{"r":"つける","p":true}],"sense":[{"gloss":"to turn on, to switch on, to light up","pos":["v1","vt"],"x":["付ける・つける・13"]}],"m":["uk"]},"kdata":{"点":{"on":["テン"],"kun":["つ.ける","つ.く","た.てる","さ.す","とぼ.す","とも.す","ぼち"],"jlpt":3,"meanings":["spot","point","mark","speck","decimal point"],"freq":165,"comp":[["占","灬"]],"t":909}},"sdata":[]}

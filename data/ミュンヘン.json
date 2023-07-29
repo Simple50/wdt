@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミュンヘン","p":true}],"sense":[{"gloss":"Munich, Muenchen","pos":["n"]}]},"sdata":[{"j":"|ミュンヘン|にはよく↑行↑↓い↓くの？","e":"Do you go to Munich often?"},{"j":"|ミュンヘン|にはよく↑行↑↓い↓くの？","e":"Do you often go to Munich?"}]}

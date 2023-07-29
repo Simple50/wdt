@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後天的","p":true}],"r_ele":[{"r":"こうてんてき","p":true}],"sense":[{"gloss":"a posteriori, acquired","pos":["adj-na"]}]},"sdata":[{"j":"その↑習慣↑↓しゅうかん↓は↑後天的↑↓|こうてんてき|↓で、↑先天的↑↓せんてんてき↓なものではない。","e":"That habit is acquired, not innate."},{"j":"↑言語↑↓げんご↓↑能力↑↓のうりょく↓は↑後天的↑↓|こうてんてき|↓ではなく、↑生↑↓う↓まれつきです。","e":"Linguistic competence is inborn, not acquired."}]}

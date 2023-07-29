@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逃げ惑う","p":true},{"e":"逃げまどう"},{"e":"逃惑う"}],"r_ele":[{"r":"にげまどう","p":true}],"sense":[{"gloss":"to run about trying to escape","pos":["v5u","vi"]}]},"sdata":[]}

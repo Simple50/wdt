@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"長雨","p":true},{"e":"霖"}],"r_ele":[{"r":"ながあめ","p":true},{"r":"ながめ"}],"sense":[{"gloss":"long spell of rain","pos":["n"]}]},"sdata":[{"j":"あーあ、この↑長雨↑↓|ながあめ|↓にはもう、うんざり。","e":"The long rain makes me sick."},{"j":"↑長雨↑↓|ながあめ|↓は↑植物↑↓しょくぶつ↓に↑害↑↓がい↓をおよぼす。","e":"A long spell of rainy weather is harmful to plants."}]}

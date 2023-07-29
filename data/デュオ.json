@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デュオ","p":true}],"sense":[{"gloss":"duo","pos":["n"],"l":"ita"}]},"sdata":[{"j":"↑今日↑↓きょう↓、↑Duolingo↑↓|デュオ|リンゴ↓のレッスンはしましたか？","e":"Did you do your Duolingo lesson today?"},{"j":"↑今日↑↓きょう↓、↑Duolingo↑↓|デュオ|リンゴ↓はやった？","e":"Did you do your Duolingo lesson today?"}]}

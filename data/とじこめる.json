@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"閉じ込める","p":true},{"e":"閉じこめる"},{"e":"閉込める"}],"r_ele":[{"r":"とじこめる","p":true}],"sense":[{"gloss":"to lock up, to shut up, to imprison","pos":["v1","vt"]}]},"sdata":[{"j":"↑感情↑↓かんじょう↓を↑閉↑↓|と↓じこめる|ために。","e":"I don't want to let my emotions out."}]}

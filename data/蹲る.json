@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蹲る","p":true},{"e":"踞る","i":["rK"]}],"r_ele":[{"r":"うずくまる","p":true},{"r":"つくばる"}],"sense":[{"gloss":"to crouch, to squat, to cower","pos":["v5r","vi"],"x":["蹲う・つくばう"]}],"m":["uk"]},"kdata":{"蹲":{"on":["ソン","シュン"],"kun":["つくば.う","うずくま.る"],"meanings":["crouch","squat","cower"],"comp":[["尊","𧾷"]]}},"sdata":[]}

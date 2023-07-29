@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新機軸","p":true}],"r_ele":[{"r":"しんきじく","p":true}],"sense":[{"gloss":"innovation, new departure, milestone, breakthrough","pos":["n"]}]},"sdata":[]}

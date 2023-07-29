@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オムニバス","p":true}],"sense":[{"gloss":"omnibus","pos":["n"]}]},"sdata":[]}

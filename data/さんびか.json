@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"賛美歌","p":true},{"e":"讚美歌"},{"e":"讃美歌"}],"r_ele":[{"r":"さんびか","p":true}],"sense":[{"gloss":"hymn, hymnal","pos":["n"]}]},"sdata":[{"j":"↑朝↑↓あさ↓の↑礼拝↑↓れいはい↓は↑賛美↑↓|さんび↓↑歌↑↓か|↓ではじまった。","e":"The morning service began with a hymn."}]}

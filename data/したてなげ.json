@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下手投げ","p":true}],"r_ele":[{"r":"したてなげ","p":true}],"sense":[{"gloss":"underhand throw","pos":["n"],"f":["baseb"]},{"gloss":"underarm throw","pos":["n"],"f":["sumo"]}]},"sdata":[]}

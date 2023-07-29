@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文化財","p":true}],"r_ele":[{"r":"ぶんかざい","p":true}],"sense":[{"gloss":"cultural assets, cultural property","pos":["n"]}]},"sdata":[{"j":"↑奈良↑↓なら↓は、↑国宝↑↓こくほう↓や↑重要↑↓じゅうよう↓↑文化財↑↓|ぶんかざい|↓が↑豊富↑↓ほうふ↓である。","e":"Nara is rich in National Treasures and Important Cultural Assets."}]}

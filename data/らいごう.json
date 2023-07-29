@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"来迎","p":true}],"r_ele":[{"r":"らいごう","p":true}],"sense":[{"gloss":"coming of Amida Buddha to welcome the spirit of the dead","pos":["n","vs","vi"]}]},"sdata":[]}

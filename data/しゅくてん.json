@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"祝典","p":true}],"r_ele":[{"r":"しゅくてん","p":true}],"sense":[{"gloss":"celebration","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓はその↑祝典↑↓|しゅくてん|↓に↑出席↑↓しゅっせき↓できなかった。","e":"I could not attend the ceremony."},{"j":"↑私↑↓わたし↓はその↑祝典↑↓|しゅくてん|↓に↑出席↑↓しゅっせき↓できなかった。","e":"I couldn't attend the ceremony."}]}

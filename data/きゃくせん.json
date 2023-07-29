@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"客船","p":true}],"r_ele":[{"r":"きゃくせん","p":true}],"sense":[{"gloss":"passenger boat","pos":["n"]}]},"sdata":[{"j":"↑豪華↑↓ごうか↓↑客船↑↓|きゃくせん|↓が↑港↑↓みなと↓に↑入↑↓はい↓った。","e":"A luxury liner arrived in the harbor."}]}

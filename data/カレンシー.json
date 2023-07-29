@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カレンシー","p":true}],"sense":[{"gloss":"currency","pos":["n"],"x":["通貨"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バイパス","p":true}],"sense":[{"gloss":"bypass","pos":["n","vs"]}]},"sdata":[]}

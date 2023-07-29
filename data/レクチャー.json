@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レクチャー","p":true},{"r":"レクチャ","i":["ik"]}],"sense":[{"gloss":"lecture","pos":["n","vs","vt"]}]},"sdata":[]}

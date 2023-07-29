@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山積","p":true}],"r_ele":[{"r":"さんせき","p":true}],"sense":[{"gloss":"piling up, accumulating, forming a (huge) pile, lying in piles","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑３↑↓|さん↓↑隻↑↓せき|↓の↑船↑↓ふね↓が↑女王↑↓じょおう↓から↑彼↑↓かれ↓に↑与↑↓あた↓えられた。","e":"Three ships were given to him by the queen."}]}

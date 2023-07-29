@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレアチニンクリアランス","p":true},{"r":"クレアチニン・クリアランス"}],"sense":[{"gloss":"creatinine clearance","pos":["n"],"f":["med"]}]},"sdata":[]}

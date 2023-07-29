@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗り上げる","p":true},{"e":"乗上げる"}],"r_ele":[{"r":"のりあげる","p":true}],"sense":[{"gloss":"to run up onto (e.g. sidewalk), to run aground, to be stranded","pos":["v1","vi","vt"]}]},"sdata":[]}

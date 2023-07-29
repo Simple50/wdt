@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学校法人","p":true}],"r_ele":[{"r":"がっこうほうじん","p":true}],"sense":[{"gloss":"(legally) incorporated educational institution","pos":["n"]}]},"sdata":[]}

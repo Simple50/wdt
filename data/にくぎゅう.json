@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肉牛","p":true}],"r_ele":[{"r":"にくぎゅう","p":true}],"sense":[{"gloss":"beef cattle","pos":["n"]}]},"sdata":[]}

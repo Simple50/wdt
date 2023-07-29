@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キーホルダー","p":true},{"r":"キー・ホルダー"}],"sense":[{"gloss":"key chain, keychain","pos":["n"],"l":"eng: key holder"},{"gloss":"key ring (encryption)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"波打つ","p":true},{"e":"波うつ"}],"r_ele":[{"r":"なみうつ","p":true}],"sense":[{"gloss":"to dash against (of waves), to billow, to roll","pos":["v5t","vi"]},{"gloss":"to wave (e.g. in the wind), to heave, to pound (of a heart), to undulate","pos":["v5t","vi"]}]},"sdata":[]}

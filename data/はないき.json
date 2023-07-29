@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鼻息","p":true}],"r_ele":[{"r":"はないき","p":true},{"r":"びそく"}],"sense":[{"gloss":"nasal breathing, breathing through one's nose","pos":["n"]},{"gloss":"person's pleasure, excitement","pos":["n"]}]},"sdata":[{"j":"トムの↑主張↑↓しゅちょう↓もあながち↑見当↑↓けんとう↓↑外↑↓はず↓れで|はない↑気↑↓き|↓がする。","e":"I have a feeling Tom's claim isn't entirely wrong."}]}

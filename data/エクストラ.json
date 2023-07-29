@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エクストラ","p":true},{"r":"エキストラ","p":true}],"sense":[{"gloss":"extra (e.g. in a film), supernumerary","pos":["n"]},{"gloss":"extra, surplus, excess, additional, special, extraordinary","pos":["adj-f"]}]},"sdata":[]}

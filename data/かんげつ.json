@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"観月","p":true}],"r_ele":[{"r":"かんげつ","p":true}],"sense":[{"gloss":"moon viewing (esp. during the eight month of the lunar calendar)","pos":["n","vs"],"x":["月見"]}]},"sdata":[]}

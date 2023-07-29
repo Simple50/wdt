@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"作為的","p":true}],"r_ele":[{"r":"さくいてき","p":true}],"sense":[{"gloss":"intentional, deliberate, contrived, artificial","pos":["adj-na"]}]},"sdata":[]}

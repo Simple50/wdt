@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枯れ草","p":true},{"e":"枯草"},{"e":"かれ草"}],"r_ele":[{"r":"かれくさ","p":true},{"r":"こそう"}],"sense":[{"gloss":"dry grass, dead grass, hay, withered grass","pos":["n"]}]},"sdata":[]}

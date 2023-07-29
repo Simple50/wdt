@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入り込み","p":true}],"r_ele":[{"r":"いりごみ","p":true}],"sense":[{"gloss":"coming in together, unreserved seats for the public","pos":["n"]}]},"sdata":[]}

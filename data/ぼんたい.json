@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"凡退","p":true}],"r_ele":[{"r":"ぼんたい","p":true}],"sense":[{"gloss":"out in 1-2-3 order","pos":["n","vs","vi"],"f":["baseb"]}]},"sdata":[{"j":"↑強打者↑↓きょうだしゃ↓が↑簡単↑↓かんたん↓に↑凡退↑↓|ぼんたい|↓した。","e":"The slugger was easily put out."},{"j":"↑三↑↓さん↓↑者↑↓しゃ↓↑凡退↑↓|ぼんたい|↓となった。","e":"The three batters were struck out quickly."}]}

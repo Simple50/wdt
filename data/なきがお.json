@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"泣き顔","p":true}],"r_ele":[{"r":"なきがお","p":true}],"sense":[{"gloss":"crying face, face of a person who is crying","pos":["n"]}]},"sdata":[]}

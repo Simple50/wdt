@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"花畑","p":true},{"e":"花畠","i":["rK"]}],"r_ele":[{"r":"はなばたけ","p":true}],"sense":[{"gloss":"field of flowers, flower garden, flower bed","pos":["n"]}]},"sdata":[]}

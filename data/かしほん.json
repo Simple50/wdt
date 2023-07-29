@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貸本","p":true},{"e":"貸し本"}],"r_ele":[{"r":"かしほん","p":true}],"sense":[{"gloss":"books for loan","pos":["n"]}]},"sdata":[{"j":"その↑会社↑↓かいしゃ↓はアメリ|カ↑資本↑↓しほん|↓が５１↑％↑↓ぱーせんと↓↑保有↑↓ほゆう↓している。","e":"The company is 51% owned by American capital."}]}

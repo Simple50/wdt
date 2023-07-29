@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サスペンス","p":true}],"sense":[{"gloss":"suspense (esp. in a film, novel, etc.)","pos":["n"]}]},"sdata":[{"j":"「ペット・セミタリー」は↑真↑↓しん↓に↑迫↑↓せま↓った|サスペンス|↑映画↑↓えいが↓だった。","e":"Pet Sematary was a real cliff-hanger."}]}

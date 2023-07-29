@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宗主国","p":true}],"r_ele":[{"r":"そうしゅこく","p":true}],"sense":[{"gloss":"suzerain state","pos":["n"]}]},"sdata":[]}

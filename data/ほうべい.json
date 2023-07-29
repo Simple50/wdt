@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"訪米","p":true}],"r_ele":[{"r":"ほうべい","p":true}],"sense":[{"gloss":"visit to the United States","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発表者","p":true}],"r_ele":[{"r":"はっぴょうしゃ","p":true}],"sense":[{"gloss":"announcer, presenter, speaker, publisher","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チェコスロバキア","p":true}],"sense":[{"gloss":"Czechoslovakia","pos":["n"]}],"m":["hist"]},"sdata":[{"j":"|チェコスロバキア|↑製↑↓せい↓のセーターが↑買↑↓か↓いたいのです。","e":"I want to buy a Czech sweater."},{"j":"↑私↑↓わたし↓は|チェコスロバキア|がとても↑好↑↓す↓きです。","e":"I like Czechoslovakia a lot."}]}

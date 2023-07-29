@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地下資源","p":true}],"r_ele":[{"r":"ちかしげん","p":true}],"sense":[{"gloss":"underground resources","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極東","p":true}],"r_ele":[{"r":"きょくとう","p":true}],"sense":[{"gloss":"Far East","pos":["n","adj-no"]}]},"sdata":[{"j":"ハバロフスク↑市↑↓し↓が↑極東↑↓|きょくとう|↓ロシアで↑大↑↓だい↓↑都会↑↓とかい↓の↑一↑↓ひと↓つです。","e":"Khabarovsk is among the largest cities of the Russian Far East."},{"j":"↑日本↑↓にほん↓はアジアの↑極東↑↓|きょくとう|↓に↑位置↑↓いち↓しています。","e":"Japan is located in Far East Asia."}]}

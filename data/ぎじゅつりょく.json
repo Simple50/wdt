@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"技術力","p":true}],"r_ele":[{"r":"ぎじゅつりょく","p":true}],"sense":[{"gloss":"technical prowess, technical ability, technical finesse","pos":["n"]},{"gloss":"technological prowess, technological capabilities","pos":["n"]}]},"sdata":[]}

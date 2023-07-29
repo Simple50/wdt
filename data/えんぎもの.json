@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縁起物","p":true},{"e":"縁起もの"}],"r_ele":[{"r":"えんぎもの","p":true}],"sense":[{"gloss":"talisman, lucky charm","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軸足","p":true}],"r_ele":[{"r":"じくあし","p":true}],"sense":[{"gloss":"pivot foot","pos":["n"],"f":["sports"]},{"gloss":"emphasis, priority, focus","pos":["n"]}]},"sdata":[]}

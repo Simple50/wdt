@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"七草","p":true},{"e":"七種"}],"r_ele":[{"r":"ななくさ","p":true}],"sense":[{"gloss":"the seven spring flowers","pos":["n"],"x":["春の七草"]},{"gloss":"the seven fall flowers, the seven autumn flowers","pos":["n"],"x":["秋の七草"]},{"gloss":"the seventh of January, Festival of Seven Herbs","pos":["n"],"x":["七草の節句"]}],"m":["abbr"]},"sdata":[]}

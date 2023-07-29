@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"牛歩","p":true}],"r_ele":[{"r":"ぎゅうほ","p":true}],"sense":[{"gloss":"snail's pace, slow progress","pos":["n"]}]},"sdata":[]}

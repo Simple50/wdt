@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"何れ何れ","i":["rK"]}],"r_ele":[{"r":"どれどれ","p":true}],"sense":[{"gloss":"which","pos":["pn"],"x":["どれ・1"]},{"gloss":"well, now, c'mon","pos":["int"]}],"m":["uk"]},"sdata":[{"j":"|どれどれ|。","e":"Let me see."}]}

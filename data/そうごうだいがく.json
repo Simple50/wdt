@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総合大学","p":true}],"r_ele":[{"r":"そうごうだいがく","p":true}],"sense":[{"gloss":"university","pos":["n"],"ant":["単科大学"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安らぐ","p":true}],"r_ele":[{"r":"やすらぐ","p":true}],"sense":[{"gloss":"to feel at ease","pos":["v5g","vi"]}]},"sdata":[]}

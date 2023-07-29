@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"理詰め","p":true},{"e":"理詰","i":["io"]}],"r_ele":[{"r":"りづめ","p":true}],"sense":[{"gloss":"reasoning, logic, persuasion","pos":["n","adj-no"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓はしゃべ|りづめ|で↑夜半↑↓やはん↓まで↑起↑↓お↓きていた。","e":"We sat up half the night just talking."}]}

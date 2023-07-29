@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大御所","p":true}],"r_ele":[{"r":"おおごしょ","p":true}],"sense":[{"gloss":"leading figure, influential figure, mogul","pos":["n"]}]},"sdata":[]}

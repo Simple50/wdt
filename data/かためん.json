@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"片面","p":true}],"r_ele":[{"r":"かためん","p":true}],"sense":[{"gloss":"one side","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"はみ出す","p":true},{"e":"食み出す"}],"r_ele":[{"r":"はみだす","p":true}],"sense":[{"gloss":"to protrude, to stick out, to jut out, to hang out, to bulge out","pos":["v5s","vi"]},{"gloss":"to be forced out, to be pushed out, to be crowded out","pos":["v5s","vi"]},{"gloss":"to go over (e.g. a budget), to go beyond, to exceed","pos":["v5s","vi"]}]},"sdata":[]}

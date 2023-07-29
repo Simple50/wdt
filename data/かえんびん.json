@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火炎瓶","p":true}],"r_ele":[{"r":"かえんびん","p":true}],"sense":[{"gloss":"Molotov cocktail, petrol bomb, gasoline bomb","pos":["n"]}]},"sdata":[{"j":"トムは↑火炎瓶↑↓|かえんびん|↓を↑警察↑↓けいさつ↓に↑投↑↓な↓げつけた。","e":"Tom threw Molotov cocktails at the police."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取水","p":true}],"r_ele":[{"r":"しゅすい","p":true}],"sense":[{"gloss":"drawing water from river or lake, water intake","pos":["n","vs","vt","vi"]}]},"sdata":[]}

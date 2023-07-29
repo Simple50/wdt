@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄利多売","p":true}],"r_ele":[{"r":"はくりたばい","p":true}],"sense":[{"gloss":"small profits and quick returns","pos":["n"]}],"m":["yoji"]},"sdata":[]}

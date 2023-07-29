@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"共演","p":true}],"r_ele":[{"r":"きょうえん","p":true}],"sense":[{"gloss":"appearing together (in a film, play, etc.), performing together (at a concert, etc.), acting together, co-starring, playing together (in a sports match)","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑今日↑↓|きょう↓↑鉛筆↑↓えん|ぴつ↓を１ダース↑買↑↓か↓った。","e":"I bought a dozen pencils today."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"推計","p":true}],"r_ele":[{"r":"すいけい","p":true}],"sense":[{"gloss":"estimate, estimation","pos":["n","vs","vt"]}]},"sdata":[{"j":"イタリア↑語↑↓ご↓はフランス↑語↑↓ご↓に↑比↑↓くら↓べて↑借用↑↓しゃくよう↓↑語↑↓ご↓を↑取↑↓と↓り↑入↑↓い↓れや|すい↑傾向↑↓けい|こう↓がある。","e":"Compared to French, Italian tends to use more loan words."}]}

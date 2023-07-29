@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヌルヌル","p":true},{"r":"ぬるぬる","p":true}],"sense":[{"gloss":"slimy, slippery, greasy, clammy","pos":["adv","adv-to","vs","adj-na","n"]},{"gloss":"smoothly (of CGI movements, video streaming, etc.)","pos":["adv","adv-to"]}],"m":["on-mim"]},"sdata":[]}

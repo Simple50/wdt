@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メゾソプラノ","p":true},{"r":"メッツォソプラノ"},{"r":"メゾ・ソプラノ","p":true},{"r":"メッツォ・ソプラノ"}],"sense":[{"gloss":"mezzo-soprano","pos":["n"],"f":["music"],"l":"ita"}]},"sdata":[{"j":"わたしはアルトの↑方↑↓ほう↓が↑良↑↓よ↓かったんだけど、|メゾソプラノ|に↑入↑↓い↓れられた。","e":"I was a better alto but was selected as a mezzo-soprano."}]}

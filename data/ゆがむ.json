@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歪む","p":true}],"r_ele":[{"r":"ゆがむ","p":true},{"r":"いがむ"}],"sense":[{"gloss":"to warp, to bend, to contort","pos":["v5m","vi"]},{"gloss":"to be perverted, to be warped (of a view, mind, etc.), to be distorted, to be cross-grained","pos":["v5m","vi"]}]},"sdata":[]}

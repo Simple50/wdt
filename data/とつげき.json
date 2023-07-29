@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突撃","p":true}],"r_ele":[{"r":"とつげき","p":true}],"sense":[{"gloss":"charge, rush, dash, assault, attack","pos":["n","vs","vi"]}]},"sdata":[]}

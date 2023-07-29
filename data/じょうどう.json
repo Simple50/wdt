@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"常道","p":true}],"r_ele":[{"r":"じょうどう","p":true}],"sense":[{"gloss":"normal practice, proper practice","pos":["n"]}]},"sdata":[{"j":"このようなケースは、その↑会社↑↓かいしゃ↓の↑本社↑↓ほんしゃ↓に↑連絡↑↓れんらく↓するのが↑常道↑↓|じょうどう|↓です。","e":"It is normal practise to contact the company's home office in these kinds of cases."}]}

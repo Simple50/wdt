@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポリマー","p":true}],"sense":[{"gloss":"polymer","pos":["n"]}]},"sdata":[]}

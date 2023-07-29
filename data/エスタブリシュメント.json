@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エスタブリッシュメント"},{"r":"エスタブリシュメント","p":true}],"sense":[{"gloss":"establishment","pos":["n"]},{"gloss":"the Establishment","pos":["n"]}]},"sdata":[]}

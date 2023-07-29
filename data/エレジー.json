@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エレジー","p":true}],"sense":[{"gloss":"elegy","pos":["n"]}]},"sdata":[]}

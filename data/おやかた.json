@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"親方","p":true}],"r_ele":[{"r":"おやかた","p":true},{"r":"おやがた"}],"sense":[{"gloss":"master, boss, chief, foreman, supervisor","pos":["n"],"m":["hon"],"x":["子方・こかた・2"]},{"gloss":"stable master","pos":["n"],"f":["sumo"],"m":["hon"]},{"gloss":"craftsman, artisan","pos":["n"],"m":["hon"]},{"gloss":"foster parent","pos":["n"],"m":["arch"]}]},"sdata":[]}

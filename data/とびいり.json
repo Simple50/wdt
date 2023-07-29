@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飛び入り","p":true},{"e":"飛入り"},{"e":"とび入り"}],"r_ele":[{"r":"とびいり","p":true}],"sense":[{"gloss":"taking part on the spur of the moment, participating without registering beforehand, last-minute entrant","pos":["n","adj-no","vs"]},{"gloss":"specking on flower petals","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立つ瀬","p":true}],"r_ele":[{"r":"たつせ","p":true}],"sense":[{"gloss":"one's position, one's face, one's honour, one's reputation","pos":["n"],"x":["立つ瀬がない"]}]},"sdata":[{"j":"それでは↑私↑↓わたし↓の↑立↑↓|た↓つ↑瀬↑↓せ|↓がない。","e":"That would leave me in a fix."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フリーダム","p":true}],"sense":[{"gloss":"freedom","pos":["n"]},{"gloss":"free, open, unrestricted, unrestrained, unobstructed","pos":["adj-na","adj-no"]}]},"sdata":[]}

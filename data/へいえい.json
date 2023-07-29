@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"兵営","p":true}],"r_ele":[{"r":"へいえい","p":true}],"sense":[{"gloss":"barracks","pos":["n"]}]},"sdata":[]}

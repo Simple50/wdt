@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロゼ","p":true}],"sense":[{"gloss":"rosé (wine)","pos":["n"],"l":"fre"}]},"sdata":[{"j":"|ロゼ|を↑一↑↓いち↓↑本↑↓ほん↓ください。","e":"We'd like a bottle of rosé."},{"j":"|ロゼ|を↑一↑↓いち↓↑本↑↓ほん↓ください。","e":"A bottle of rosé, please."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スポーティ","p":true},{"r":"スポーティー","p":true}],"sense":[{"gloss":"sporty (esp. garments, accessories, etc.)","pos":["adj-na"]}]},"sdata":[]}

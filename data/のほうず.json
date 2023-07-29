@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"野放図","p":true},{"e":"野方図"},{"e":"野放途","i":["rK"]}],"r_ele":[{"r":"のほうず","p":true}],"sense":[{"gloss":"wild, unruly, arrogant","pos":["adj-na","n"]},{"gloss":"endless (e.g. spending), uncontrolled, rampant (e.g. weeds)","pos":["adj-na","n"]}]},"sdata":[]}

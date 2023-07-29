@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"照れる","p":true}],"r_ele":[{"r":"てれる","p":true}],"sense":[{"gloss":"to be shy, to be bashful, to feel awkward, to feel embarrassed","pos":["v1","vi"]}]},"kdata":{"照":{"on":["ショウ"],"kun":["て.る","て.らす","て.れる"],"jlpt":2,"meanings":["illuminate","shine","compare","bashful"],"freq":1004,"comp":[["昭","灬"]],"t":1746}},"sdata":[]}

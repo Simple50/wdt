@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"授ける","p":true}],"r_ele":[{"r":"さずける","p":true}],"sense":[{"gloss":"to grant, to give, to confer, to award","pos":["v1","vt"]},{"gloss":"to teach, to instruct, to impart (knowledge)","pos":["v1","vt"]}]},"sdata":[]}

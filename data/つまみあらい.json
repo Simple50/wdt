@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"撮み洗い"},{"e":"摘み洗い","p":true}],"r_ele":[{"r":"つまみあらい","p":true}],"sense":[{"gloss":"washing only the soiled part (of a garment)","pos":["n"]}]},"sdata":[]}

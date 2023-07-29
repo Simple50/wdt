@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"包み込む","p":true},{"e":"包みこむ"},{"e":"包込む"}],"r_ele":[{"r":"つつみこむ","p":true}],"sense":[{"gloss":"to wrap up","pos":["v5m","vt"]}]},"sdata":[]}

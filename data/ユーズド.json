@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ユーズド","p":true}],"sense":[{"gloss":"used (e.g. used car)","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"愛くるしい","p":true}],"r_ele":[{"r":"あいくるしい","p":true}],"sense":[{"gloss":"lovely, cute, charming, sweet","pos":["adj-i"]}]},"sdata":[{"j":"↑何↑↓なん↓て↑愛↑↓|あい↓くるしい|↑女↑↓おんな↓の↑子↑↓こ↓なのだろう！","e":"What a cute little girl!"},{"j":"↑彼女↑↓かのじょ↓の↑愛↑↓|あい↓くるしい|↑笑顔↑↓えがお↓を↑見↑↓み↓るとほっとする。","e":"Seeing her lovely face relaxes me."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内発","p":true}],"r_ele":[{"r":"ないはつ","p":true}],"sense":[{"gloss":"burst of energy from within","pos":["n","vs","vi"]}]},"sdata":[{"j":"ゲアハルト・シュレーダーは↑第↑↓だい↓↑二↑↓に↓↑次↑↓じ↓↑世界↑↓せかい↓↑大戦↑↓たいせん↓を↑経験↑↓けいけん↓してい|ない↑初↑↓はつ|↓のドイツ↑首相↑↓しゅしょう↓です。","e":"Gerhard Schroeder is the first German chancellor not to have lived through World War II."}]}

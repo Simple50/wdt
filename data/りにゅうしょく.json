@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"離乳食","p":true}],"r_ele":[{"r":"りにゅうしょく","p":true}],"sense":[{"gloss":"baby food","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"この外","p":true}],"r_ele":[{"r":"このほか","p":true}],"sense":[{"gloss":"besides, moreover, in addition","pos":["conj"]}],"m":["uk"]},"sdata":[]}

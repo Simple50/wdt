@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スコップ","p":true}],"sense":[{"gloss":"scoop, shovel, spade","pos":["n"],"l":"dut: schop"}]},"sdata":[{"j":"「これは・・・」「↑軍手↑↓ぐんて↓と|スコップ|。↑園芸↑↓えんげい↓↑部↑↓ぶ↓↑基本↑↓きほん↓↑道具↑↓どうぐ↓のひとつだよ」","e":"This is ... \"Working glove and trowel. One of a gardening club's basic tools\""}]}

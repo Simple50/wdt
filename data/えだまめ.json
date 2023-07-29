@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枝豆","p":true}],"r_ele":[{"r":"えだまめ","p":true}],"sense":[{"gloss":"edamame (green soybeans)","pos":["n"]}]},"sdata":[{"j":"↑枝豆↑↓|えだまめ|↓は↑採↑↓と↓れたてが↑最高↑↓さいこう↓にうまい。","e":"Edamame tastes best when freshly picked."}]}

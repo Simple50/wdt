@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"１対１","p":true},{"e":"一対一","p":true}],"r_ele":[{"r":"いちたいいち","p":true},{"r":"いったいいち"}],"sense":[{"gloss":"one-to-one, one-on-one","pos":["adj-no","n"]}]},"sdata":[]}

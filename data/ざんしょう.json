@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"残照","p":true}],"r_ele":[{"r":"ざんしょう","p":true}],"sense":[{"gloss":"afterglow","pos":["n"]}]},"sdata":[]}

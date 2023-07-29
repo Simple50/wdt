@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"十文字","p":true}],"r_ele":[{"r":"じゅうもんじ","p":true}],"sense":[{"gloss":"cross, cruciform","pos":["n","adj-no"]}]},"sdata":[{"j":"２↑本↑↓ほん↓の↑道↑↓みち↓が↑十文字↑↓|じゅうもんじ|↓に↑交差↑↓こうさ↓している。","e":"The two roads cut across the street from us."},{"j":"↑二↑↓に↓↑本↑↓ほん↓の↑棒↑↓ぼう↓を↑十文字↑↓|じゅうもんじ|↓に↑置↑↓お↓きなさい。","e":"Put the two sticks across each other."}]}

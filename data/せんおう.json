@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"専横","p":true}],"r_ele":[{"r":"せんおう","p":true}],"sense":[{"gloss":"arbitrariness, despotism, high-handedness, tyranny","pos":["n","adj-na"]}]},"sdata":[]}

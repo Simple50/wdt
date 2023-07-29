@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貸出用","p":true}],"r_ele":[{"r":"かしだしよう","p":true}],"sense":[{"gloss":"circulation or lending (e.g. library books)","pos":["n"]}]},"sdata":[]}

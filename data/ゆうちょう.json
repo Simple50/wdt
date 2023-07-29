@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悠長","p":true}],"r_ele":[{"r":"ゆうちょう","p":true}],"sense":[{"gloss":"leisurely, slow, deliberate, easygoing","pos":["adj-na","n"]}]},"sdata":[{"j":"↑決↑↓けっ↓して↑悠長↑↓|ゆうちょう|↓な↑仕事↑↓しごと↓ではない。","e":"This certainly isn't a job where you can take it easy."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内回り","p":true}],"r_ele":[{"r":"うちまわり","p":true}],"sense":[{"gloss":"inner tracks or lanes, going around an inner circle, indoors","pos":["n"]}]},"sdata":[]}

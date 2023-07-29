@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"愛育","p":true}],"r_ele":[{"r":"あいいく","p":true}],"sense":[{"gloss":"tender nurture, affectionate rearing, raising with loving care","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はその↑子↑↓こ↓を↑自分↑↓じぶん↓の↑子↑↓こ↓として↑愛育↑↓|あいいく|↓した。","e":"She cherished the child as her own."}]}

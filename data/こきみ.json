@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小気味","p":true}],"r_ele":[{"r":"こきみ","p":true},{"r":"こきび"}],"sense":[{"gloss":"sentiment, feeling","pos":["n"]}]},"sdata":[]}

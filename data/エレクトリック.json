@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エレクトリック","p":true}],"sense":[{"gloss":"electric","pos":["adj-na","n"]}]},"sdata":[{"j":"↑息子↑↓むすこ↓ですか？クラシックは↑興味↑↓きょうみ↓ないみたいです。テクノだか|エレクトリック|だか↑知↑↓し↓りませんが↑大↑↓おお↓きな↑音↑↓おと↓でいつも↑聴↑↓き↓いてますね。","e":"My son? He doesn't seem interested in classical music. I can't tell whether it's techno or electro, but he's always listening to music at a loud volume."}]}

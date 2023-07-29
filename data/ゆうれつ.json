@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"優劣","p":true}],"r_ele":[{"r":"ゆうれつ","p":true}],"sense":[{"gloss":"(relative) merits, superiority or inferiority, quality","pos":["n"]}]},"sdata":[{"j":"それらの↑作品↑↓さくひん↓には↑優劣↑↓|ゆうれつ|↓をつけがたい。","e":"I can't tell which work is better than the other."}]}

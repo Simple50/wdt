@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プラザ","p":true},{"r":"プラーザ"}],"sense":[{"gloss":"plaza","pos":["n"]}]},"sdata":[{"j":"いいですよ。|プラザ|デパートの↑隣↑↓となり↓です。","e":"Sure. It's next to the Plaza Department Store."}]}

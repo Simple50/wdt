@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"投げ入れる","p":true}],"r_ele":[{"r":"なげいれる","p":true}],"sense":[{"gloss":"to throw into, to dump in together","pos":["v1","vt"]}]},"sdata":[]}

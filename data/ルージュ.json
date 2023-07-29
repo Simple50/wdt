@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ルージュ","p":true}],"sense":[{"gloss":"lipstick, rouge (esp. lip rouge)","pos":["n"],"l":"fre"}]},"sdata":[]}

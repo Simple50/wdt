@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"糖類","p":true}],"r_ele":[{"r":"とうるい","p":true}],"sense":[{"gloss":"saccharide","pos":["n"],"f":["chem"]}]},"kdata":{"糖":{"on":["トウ"],"jlpt":1,"meanings":["sugar"],"freq":1471,"comp":[["唐","米"]],"t":2127},"類":{"on":["ルイ"],"kun":["たぐ.い"],"jlpt":3,"meanings":["sort","kind","variety","class","genus"],"freq":678,"comp":[["类","頁"]],"t":2253}},"sdata":[]}

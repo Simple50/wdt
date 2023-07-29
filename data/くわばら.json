@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"桑原","p":true}],"r_ele":[{"r":"くわばら","p":true}],"sense":[{"gloss":"mulberry field","pos":["n"]}]},"sdata":[{"j":"カミナリが↑光↑↓ひか↓ったその↑後↑↓ご↓【|くわばら||くわばら|】と↑唱↑↓とな↓えたもしくは、↑唱↑↓とな↓える↑人↑↓ひと↓を↑見↑↓み↓たことがあるだろう。","e":"I expect you've chanted \"kuwabara kuwabara\" after a lightning flash, or have seen somebody do so."}]}

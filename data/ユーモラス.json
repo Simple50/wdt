@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ユーモラス","p":true}],"sense":[{"gloss":"humorous","pos":["adj-na"]}]},"sdata":[{"j":"|ユーモラス|な↑話↑↓はなし↓から↑気持↑↓きも↓ちの↑悪↑↓わる↓い↑話↑↓はなし↓まで、↑前↑↓ぜん↓↑巻↑↓まき↓↑同様↑↓どうよう↓にいろいろなタイプの↑話↑↓はなし↓が↑楽↑↓たの↓しめます。","e":"From humorous to creepy stories, like the last volume, you can enjoy various types of stories."}]}

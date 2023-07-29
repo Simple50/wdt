@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラフプレー","p":true},{"r":"ラフプレイ"},{"r":"ラフ・プレー"},{"r":"ラフ・プレイ"}],"sense":[{"gloss":"rough play","pos":["n"],"f":["sports"]}]},"sdata":[]}

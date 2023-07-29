@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オイディプス","p":true},{"r":"エディプス"},{"r":"オイディプース"}],"sense":[{"gloss":"Oedipus","pos":["n"]}]},"sdata":[{"j":"|オイディプス|コンプレックスというのは↑自分↑↓じぶん↓にも↑当↑↓あ↓てはまるのだろうか？まったくそういう↑気↑↓き↓がしない。","e":"Does the Oedipus Complex apply to me, too? It sure doesn't feel like it, though."}]}

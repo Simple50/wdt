@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特賞","p":true}],"r_ele":[{"r":"とくしょう","p":true}],"sense":[{"gloss":"special prize","pos":["n"]}]},"kdata":{"特":{"on":["トク"],"jlpt":4,"meanings":["special"],"freq":234,"comp":[["寺","牛"]],"t":1117},"賞":{"on":["ショウ"],"kun":["ほ.める"],"jlpt":2,"meanings":["prize","reward","praise"],"freq":426,"comp":[["尚","貝"]],"d":["償","鑜"],"t":2057}},"sdata":[]}

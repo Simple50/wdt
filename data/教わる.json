@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"教わる","p":true}],"r_ele":[{"r":"おそわる","p":true}],"sense":[{"gloss":"to be taught, to learn, to take lessons in","pos":["v5r","vt"]}]},"kdata":{"教":{"on":["キョウ"],"kun":["おし.える","おそ.わる"],"jlpt":4,"meanings":["teach","faith","doctrine"],"freq":166,"comp":[["攵","孝"]],"d":["漖"],"t":1302}},"sdata":[]}

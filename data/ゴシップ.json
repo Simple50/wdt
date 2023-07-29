@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゴシップ","p":true}],"sense":[{"gloss":"gossip","pos":["n"]},{"gloss":"government OSI procurement, GOSIP","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"↑君↑↓きみ↓の↑馬鹿↑↓ばか↓げた|ゴシップ|はもうたくさんだ。","e":"I've had enough of your stupid gossip."}]}

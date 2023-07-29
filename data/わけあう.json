@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分け合う","p":true}],"r_ele":[{"r":"わけあう","p":true}],"sense":[{"gloss":"to share","pos":["v5u","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑友達↑↓ともだち↓と↑喜↑↓よろこ↓びを↑分↑↓|わ↓け↑合↑↓あ↓う|のが↑好↑↓す↓きだ。","e":"He likes to share his pleasure with his friends."},{"j":"↑子供↑↓こども↓は↑分↑↓|わ↓け↑合↑↓あ↓う|ことを↑教↑↓おし↓えられるべきである。","e":"Children should be taught to share."}]}

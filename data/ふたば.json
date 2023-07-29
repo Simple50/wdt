@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"双葉","p":true},{"e":"二葉"},{"e":"嫩"}],"r_ele":[{"r":"ふたば","p":true}],"sense":[{"gloss":"seed leaves (of a dicot), cotyledons, bud, sprout","pos":["n"]},{"gloss":"early stages, very beginning","pos":["n"]}]},"sdata":[]}

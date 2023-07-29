@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"嘆息","p":true},{"e":"歎息"}],"r_ele":[{"r":"たんそく","p":true}],"sense":[{"gloss":"sigh (of grief, disappointment, etc.), grieving, lamenting, deploring","pos":["n","vs","vi"]}]},"sdata":[{"j":"トムって、↑短↑↓|たん↓↑足↑↓そく|↓なのよ。","e":"Tom has short legs."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青写真","p":true}],"r_ele":[{"r":"あおじゃしん","p":true}],"sense":[{"gloss":"blueprint, cyanotype","pos":["n"]},{"gloss":"blueprint (for the future), plan","pos":["n"]}]},"sdata":[{"j":"↑報道↑↓ほうどう↓↑担当↑↓たんとう↓↑官↑↓かん↓がその↑計画↑↓けいかく↓の↑青写真↑↓|あおじゃしん|↓を↑報道陣↑↓ほうどうじん↓に↑説明↑↓せつめい↓した。","e":"The spokesman explained the blueprint of the scheme to the press."}]}

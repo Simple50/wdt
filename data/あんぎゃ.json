@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行脚","p":true}],"r_ele":[{"r":"あんぎゃ","p":true}],"sense":[{"gloss":"pilgrimage","pos":["n","vs","vi"],"f":["Buddh"]},{"gloss":"walking tour, travelling (on foot)","pos":["n","vs","vi"]}]},"sdata":[]}

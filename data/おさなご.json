@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幼子","p":true},{"e":"幼な子"},{"e":"おさな子"}],"r_ele":[{"r":"おさなご","p":true}],"sense":[{"gloss":"infant, baby, little child","pos":["n"],"x":["幼児・ようじ・1"]}]},"sdata":[{"j":"↑戦争↑↓せんそう↓が↑始↑↓はじ↓まった↑時↑↓とき↓、トムはまだ↑幼子↑↓|おさなご|↓だった。","e":"When the war began, Tom was a little kid."}]}

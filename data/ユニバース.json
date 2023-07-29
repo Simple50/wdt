@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ユニバース","p":true}],"sense":[{"gloss":"universe","pos":["n"]}]},"sdata":[]}

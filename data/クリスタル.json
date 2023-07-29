@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クリスタル","p":true}],"sense":[{"gloss":"crystal","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑部屋↑↓へや↓には↑大↑↓おお↓きな|クリスタル|がある。","e":"There is a big crystal in his room."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虐げる","p":true}],"r_ele":[{"r":"しいたげる","p":true}],"sense":[{"gloss":"to oppress, to persecute, to tyrannize","pos":["v1","vt"]}]},"kdata":{"虐":{"on":["ギャク"],"kun":["しいた.げる"],"jlpt":1,"meanings":["oppress","tyrannize"],"freq":1464,"comp":[["虍","一","匚"]],"d":["謔","瘧"],"t":1165}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"割引債","p":true}],"r_ele":[{"r":"わりびきさい","p":true}],"sense":[{"gloss":"discount bond","pos":["n"]}]},"sdata":[]}

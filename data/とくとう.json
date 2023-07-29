@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特等","p":true}],"r_ele":[{"r":"とくとう","p":true}],"sense":[{"gloss":"special quality, class or grade","pos":["n","n-pref"]}]},"sdata":[{"j":"↑綴↑↓つづ↓り|と↑句読↑↓くとう|↓↑法↑↓ほう↓にもっと↑気↑↓き↓を↑付↑↓つ↓けなくてはいけませんよ。","e":"You must be more careful about spelling and punctuation."}]}

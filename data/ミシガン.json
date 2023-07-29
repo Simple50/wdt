@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミシガン","p":true}],"sense":[{"gloss":"Michigan","pos":["n"]}]},"sdata":[{"j":"ランシングは|ミシガン|の↑州都↑↓しゅうと↓である。","e":"Lansing is the state capital of Michigan."}]}

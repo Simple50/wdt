@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヒッピー","p":true}],"sense":[{"gloss":"hippy, hippie","pos":["n"]}]},"sdata":[]}

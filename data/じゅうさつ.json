@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銃殺","p":true}],"r_ele":[{"r":"じゅうさつ","p":true}],"sense":[{"gloss":"death by shooting","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑何↑↓なに↓↑十↑↓|じゅう↓↑冊↑↓さつ|↓も↑英語↑↓えいご↓の↑本↑↓ほん↓を↑持↑↓も↓っている。","e":"He has dozens of English books."}]}

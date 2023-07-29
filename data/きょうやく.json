@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"協約","p":true}],"r_ele":[{"r":"きょうやく","p":true}],"sense":[{"gloss":"pact, convention, agreement","pos":["n","vs"]}]},"sdata":[]}

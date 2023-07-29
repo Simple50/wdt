@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自律神経","p":true}],"r_ele":[{"r":"じりつしんけい","p":true}],"sense":[{"gloss":"autonomic nerves","pos":["n","adj-no"]}]},"sdata":[]}

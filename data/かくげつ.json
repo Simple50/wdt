@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隔月","p":true}],"r_ele":[{"r":"かくげつ","p":true}],"sense":[{"gloss":"every second month, every other month","pos":["n","adj-no"]}]},"sdata":[]}

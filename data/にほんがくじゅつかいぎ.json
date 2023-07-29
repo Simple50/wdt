@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本学術会議","p":true}],"r_ele":[{"r":"にほんがくじゅつかいぎ","p":true}],"sense":[{"gloss":"Science Council of Japan","pos":["n"]}]},"sdata":[]}

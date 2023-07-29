@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横断幕","p":true}],"r_ele":[{"r":"おうだんまく","p":true}],"sense":[{"gloss":"horizontal banner","pos":["n"]}]},"sdata":[]}

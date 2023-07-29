@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"帯封","p":true}],"r_ele":[{"r":"おびふう","p":true}],"sense":[{"gloss":"bill strap, currency strap, currency band, money band","pos":["n"]},{"gloss":"wrapper band, newspaper band","pos":["n"]}]},"sdata":[]}

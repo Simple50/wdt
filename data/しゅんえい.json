@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"俊英","p":true}],"r_ele":[{"r":"しゅんえい","p":true}],"sense":[{"gloss":"excellence, genius","pos":["n"]}]},"sdata":[]}

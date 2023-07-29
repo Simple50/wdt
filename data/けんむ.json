@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"兼務","p":true}],"r_ele":[{"r":"けんむ","p":true}],"sense":[{"gloss":"serving concurrently as, holding the additional post of","pos":["n","vs"]},{"gloss":"additional post","pos":["n"]}]},"sdata":[]}

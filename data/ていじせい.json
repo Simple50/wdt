@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"定時制","p":true}],"r_ele":[{"r":"ていじせい","p":true}],"sense":[{"gloss":"part time (school system)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑昼間↑↓ひるま↓の↑仕事↑↓しごと↓のほかに、↑毎晩↑↓まいばん↓↑定時↑↓|ていじ↓↑制↑↓せい|↓↑高校↑↓こうこう↓に↑通↑↓とお↓っている。","e":"He goes to a part-time high school every evening in addition to the work he does during the day."}]}

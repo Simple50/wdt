@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"謹賀新年","p":true}],"r_ele":[{"r":"きんがしんねん","p":true}],"sense":[{"gloss":"Happy New Year","pos":["exp"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"払拭","p":true},{"e":"払しょく"}],"r_ele":[{"r":"ふっしょく","p":true},{"r":"ふっしき"}],"sense":[{"gloss":"wiping out, sweeping away, eradicating, dispelling","pos":["n","vs","vt"]}]},"sdata":[]}

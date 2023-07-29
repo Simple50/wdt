@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"感情論","p":true}],"r_ele":[{"r":"かんじょうろん","p":true}],"sense":[{"gloss":"argument based on emotion, sentimental argument","pos":["n"]}]},"sdata":[]}

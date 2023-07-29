@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コスモポリタン","p":true}],"sense":[{"gloss":"cosmopolitan","pos":["n"]}]},"sdata":[]}

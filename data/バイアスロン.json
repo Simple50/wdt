@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バイアスロン","p":true}],"sense":[{"gloss":"biathlon","pos":["n"]}]},"sdata":[]}

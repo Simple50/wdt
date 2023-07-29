@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入信","p":true}],"r_ele":[{"r":"にゅうしん","p":true}],"sense":[{"gloss":"entering a faith, joining a religion","pos":["n","vs","vi"]}]},"sdata":[{"j":"どうして↑彼↑↓かれ↓らはそんな↑宗教↑↓しゅうきょう↓に↑入信↑↓|にゅうしん|↓したのだろうか。","e":"Why did they come to believe in such a religion?"}]}

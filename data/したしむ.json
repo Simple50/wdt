@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"親しむ","p":true}],"r_ele":[{"r":"したしむ","p":true}],"sense":[{"gloss":"to be intimate with, to befriend","pos":["v5m","vi"]}]},"sdata":[]}

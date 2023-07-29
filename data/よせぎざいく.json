@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寄せ木細工","p":true},{"e":"寄木細工"}],"r_ele":[{"r":"よせぎざいく","p":true}],"sense":[{"gloss":"wooden mosaic work, parquetry, wooden mosaic (e.g. on a piece of furniture), marquetry, marqueterie","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミクロネシア","p":true}],"sense":[{"gloss":"Micronesia","pos":["n"]}]},"sdata":[]}

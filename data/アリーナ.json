@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アリーナ","p":true}],"sense":[{"gloss":"arena","pos":["n"]}]},"sdata":[]}

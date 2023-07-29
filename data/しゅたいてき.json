@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主体的","p":true}],"r_ele":[{"r":"しゅたいてき","p":true}],"sense":[{"gloss":"independent, responsible, active, proactive","pos":["adj-na"]},{"gloss":"subjective","pos":["adj-na"],"x":["主観的"]}]},"sdata":[{"j":"↑社長↑↓しゃちょう↓が↑社員↑↓しゃいん↓の↑主体↑↓|しゅたい↓↑的↑↓てき|↓な↑取↑↓と↓り↑組↑↓く↓みを↑促↑↓うなが↓した。","e":"The president urged employees to act on their initiative."}]}

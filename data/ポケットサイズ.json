@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポケットサイズ","p":true}],"sense":[{"gloss":"pocket-size","pos":["n"]}]},"sdata":[]}

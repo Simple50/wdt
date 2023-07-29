@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロビイスト","p":true}],"sense":[{"gloss":"lobbyist","pos":["n"]}]},"sdata":[{"j":"↑法案↑↓ほうあん↓↑通過↑↓つうか↓を↑推進↑↓すいしん↓している|ロビイスト|は、↑運動↑↓うんどう↓↑資金↑↓しきん↓に↑賄賂↑↓わいろ↓の↑金↑↓きん↓をまぎれこませました。","e":"Lobbyists for the bill funneled bribes into a campaign fund."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジョイント","p":true}],"sense":[{"gloss":"joint","pos":["n","vs"]}]},"sdata":[]}

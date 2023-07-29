@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幻惑","p":true}],"r_ele":[{"r":"げんわく","p":true}],"sense":[{"gloss":"fascination, bewitchment, entrancement, dazzlement","pos":["n","vs","vt"]}]},"sdata":[]}

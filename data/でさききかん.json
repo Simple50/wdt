@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出先機関","p":true}],"r_ele":[{"r":"でさききかん","p":true}],"sense":[{"gloss":"branch office","pos":["n"]}]},"sdata":[]}

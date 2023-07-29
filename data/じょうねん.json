@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"情念","p":true}],"r_ele":[{"r":"じょうねん","p":true}],"sense":[{"gloss":"sentiments, passions","pos":["n"]}]},"sdata":[]}

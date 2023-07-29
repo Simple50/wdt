@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熟読","p":true}],"r_ele":[{"r":"じゅくどく","p":true}],"sense":[{"gloss":"careful reading, reading thoroughly, perusal","pos":["n","vs","vt"]}]},"sdata":[]}

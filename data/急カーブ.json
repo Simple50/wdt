@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"急カーブ","p":true}],"r_ele":[{"r":"きゅうカーブ","p":true}],"sense":[{"gloss":"sharp curve, sharp turn","pos":["n"]}]},"kdata":{"急":{"on":["キュウ"],"kun":["いそ.ぐ","いそ.ぎ","せ.く"],"jlpt":4,"meanings":["hurry","emergency","sudden","steep"],"freq":309,"comp":[["刍","心"]],"t":865}},"sdata":[{"j":"↑彼↑↓かれ↓は↑右↑↓みぎ↓に|↑急↑↓きゅう↓カーブ|した。","e":"He made a sharp turn to the right."}]}

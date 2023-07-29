@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受け渡し","p":true},{"e":"受渡し"},{"e":"受渡"}],"r_ele":[{"r":"うけわたし","p":true}],"sense":[{"gloss":"delivery, transfer, hand-over","pos":["n"]}]},"sdata":[]}

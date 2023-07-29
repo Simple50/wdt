@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"商工業","p":true}],"r_ele":[{"r":"しょうこうぎょう","p":true}],"sense":[{"gloss":"commerce and industry","pos":["n","adj-no"]}]},"sdata":[]}

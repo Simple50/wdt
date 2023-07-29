@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"便法","p":true}],"r_ele":[{"r":"べんぽう","p":true}],"sense":[{"gloss":"handy method, shortcut, expedient","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"群落","p":true}],"r_ele":[{"r":"ぐんらく","p":true}],"sense":[{"gloss":"many communities (villages), cluster of plants","pos":["n"]}]},"sdata":[]}

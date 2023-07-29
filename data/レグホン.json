@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レグホン","p":true},{"r":"レグホーン"}],"sense":[{"gloss":"Leghorn (var. of chicken)","pos":["n"]}]},"sdata":[]}

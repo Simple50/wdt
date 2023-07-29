@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風貌","p":true},{"e":"風丰","i":["rK"]},{"e":"風ぼう","i":["sK"]}],"r_ele":[{"r":"ふうぼう","p":true}],"sense":[{"gloss":"looks, appearance","pos":["n"]}]},"sdata":[]}

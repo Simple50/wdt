@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"適する","p":true}],"r_ele":[{"r":"てきする","p":true}],"sense":[{"gloss":"to fit, to suit","pos":["vs-s","vi"]}]},"kdata":{"適":{"on":["テキ"],"kun":["かな.う"],"jlpt":3,"meanings":["suitable","occasional","rare","qualified","capable"],"freq":670,"comp":[["辶","啇"]],"d":["擿","讁","藡"],"s":"滴","t":1932}},"sdata":[]}

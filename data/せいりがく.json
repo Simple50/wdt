@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生理学","p":true}],"r_ele":[{"r":"せいりがく","p":true}],"sense":[{"gloss":"physiology","pos":["n"]}]},"sdata":[{"j":"↑生理学↑↓|せいりがく|↓は３↑単位↑↓たんい↓です。","e":"Human physiology is a three-credit course."}]}

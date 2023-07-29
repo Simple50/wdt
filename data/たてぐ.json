@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"建具","p":true}],"r_ele":[{"r":"たてぐ","p":true}],"sense":[{"gloss":"fittings that open and close (doors, windows, shoji, fusuma, etc.), fixtures","pos":["n"]}]},"sdata":[]}

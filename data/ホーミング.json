@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホーミング","p":true}],"sense":[{"gloss":"homing","pos":["n"]}]},"sdata":[]}

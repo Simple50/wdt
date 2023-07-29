@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"開発途上国","p":true}],"r_ele":[{"r":"かいはつとじょうこく","p":true}],"sense":[{"gloss":"developing country, emerging nation","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓は↑開発途上国↑↓|かいはつとじょうこく|↓に↑対↑↓たい↓し、２０↑億↑↓おく↓↑円↑↓えん↓の↑包括↑↓ほうかつ↓↑援助↑↓えんじょ↓を↑保証↑↓ほしょう↓しました。","e":"Japan guaranteed a 2 billion yen aid package to developing countries."}]}

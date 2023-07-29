@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金色","p":true}],"r_ele":[{"r":"きんいろ","p":true},{"r":"こんじき","p":true},{"r":"きんしょく"}],"sense":[{"gloss":"gold (colour, color)","pos":["n","adj-no"]}]},"sdata":[]}

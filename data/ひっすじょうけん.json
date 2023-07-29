@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"必須条件","p":true}],"r_ele":[{"r":"ひっすじょうけん","p":true}],"sense":[{"gloss":"essential condition","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ではまた","p":true},{"r":"じゃあまた"},{"r":"じゃまた"}],"sense":[{"gloss":"see you later, goodbye, sincerely","pos":["exp"]}],"m":["abbr"]},"sdata":[{"j":"|ではまた|↑近↑↓ちか↓いうちに！","e":"See you soon!"},{"j":"|ではまた|↑明日↑↓あした↓。","e":"See you again tomorrow."},{"j":"|ではまた|↑近々↑↓ちかぢか↓。","e":"See you soon."},{"j":"|ではまた|↑近々↑↓ちかぢか↓。","e":"See you soon!"}]}

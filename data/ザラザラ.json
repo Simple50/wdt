@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ザラザラ","p":true},{"r":"ざらざら","p":true}],"sense":[{"gloss":"rough (touch, voice, etc.), coarse, gritty, sandy, granular","pos":["adv","adv-to","vs","adj-no","adj-na"]},{"gloss":"rattling (of beans, beads, etc.)","pos":["adv","adv-to"]}],"m":["on-mim"]},"sdata":[{"j":"↑猫↑↓ねこ↓の↑舌↑↓した↓は|ザラザラ|してる。","e":"Cats' tongues are rough."}]}

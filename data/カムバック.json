@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カムバック","p":true}],"sense":[{"gloss":"comeback","pos":["n","vs","vi"]}]},"sdata":[]}

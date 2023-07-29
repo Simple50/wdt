@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"首級","p":true},{"e":"首"}],"r_ele":[{"r":"しゅきゅう","p":true},{"r":"しるし"}],"sense":[{"gloss":"decapitated head of an enemy","pos":["n"]}]},"sdata":[]}

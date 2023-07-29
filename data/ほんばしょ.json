@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本場所","p":true}],"r_ele":[{"r":"ほんばしょ","p":true}],"sense":[{"gloss":"official sumo tournament (six per year)","pos":["n"],"f":["sumo"]}]},"sdata":[]}

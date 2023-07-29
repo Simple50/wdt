@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱弁","p":true},{"e":"熱辯","i":["rK"]}],"r_ele":[{"r":"ねつべん","p":true}],"sense":[{"gloss":"impassioned speech, fervent speech","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海流","p":true}],"r_ele":[{"r":"かいりゅう","p":true}],"sense":[{"gloss":"ocean current","pos":["n"]}]},"sdata":[{"j":"↑海流↑↓|かいりゅう|↓に↑変化↑↓へんか↓が↑起↑↓お↓きたのだろうか。","e":"Has a change in ocean currents occurred?"}]}

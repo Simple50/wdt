@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上田","p":true}],"r_ele":[{"r":"じょうでん","p":true}],"sense":[{"gloss":"high rice field, very fertile rice field","pos":["n"]}]},"sdata":[]}

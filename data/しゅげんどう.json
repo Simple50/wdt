@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"修験道","p":true}],"r_ele":[{"r":"しゅげんどう","p":true}],"sense":[{"gloss":"Shugendō, Japanese mountain asceticism incorporating Shinto and Buddhist concepts","pos":["n"]}]},"sdata":[]}

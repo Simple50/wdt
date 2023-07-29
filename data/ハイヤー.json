@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイヤー","p":true}],"sense":[{"gloss":"hired car with driver, chauffeur-driven vehicle for hire","pos":["n"]}]},"sdata":[]}

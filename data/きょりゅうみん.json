@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"居留民","p":true}],"r_ele":[{"r":"きょりゅうみん","p":true}],"sense":[{"gloss":"resident, residents","pos":["n"]}]},"sdata":[]}

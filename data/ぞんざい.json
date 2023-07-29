@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ぞんざい","p":true}],"sense":[{"gloss":"rough, careless, slovenly, slipshod, rude, impolite","pos":["adj-na"]}]},"sdata":[{"j":"その↑警官↑↓けいかん↓は↑私↑↓わたし↓に↑対↑↓たい↓してかなり|ぞんざい|だった。","e":"The policeman was rather abrupt with me."},{"j":"↑彼↑↓かれ↓は↑引↑↓ひ↓き↑出↑↓だ↓しに↑物↑↓もの↓を|ぞんざい|に↑押↑↓お↓し↑込↑↓こ↓んだ。","e":"He put his things carelessly in the drawer."}]}

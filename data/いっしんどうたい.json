@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一心同体","p":true}],"r_ele":[{"r":"いっしんどうたい","p":true}],"sense":[{"gloss":"being one in body and soul, of one flesh, two hearts beating as one","pos":["n"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"唯物論","p":true}],"r_ele":[{"r":"ゆいぶつろん","p":true}],"sense":[{"gloss":"materialism (philosophy)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不同意","p":true}],"r_ele":[{"r":"ふどうい","p":true}],"sense":[{"gloss":"disagreement, disapproval, objection, dissent, non-consent","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"傭兵","p":true}],"r_ele":[{"r":"ようへい","p":true}],"sense":[{"gloss":"mercenary (soldier)","pos":["n"]}]},"sdata":[]}

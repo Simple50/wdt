@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"儀礼的","p":true}],"r_ele":[{"r":"ぎれいてき","p":true}],"sense":[{"gloss":"formal, courteous, ritual, ritualistic","pos":["adj-na"]}]},"sdata":[]}

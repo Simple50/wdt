@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャパンカップ","p":true},{"r":"ジャパン・カップ"}],"sense":[{"gloss":"Japan Cup","pos":["n"]}]},"sdata":[]}

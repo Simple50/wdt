@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心残り","p":true}],"r_ele":[{"r":"こころのこり","p":true}],"sense":[{"gloss":"regret","pos":["n","adj-na"]},{"gloss":"flesh, blood vessels and fat from around chicken heart (usu. served as yakitori)","pos":["n"],"m":["uk"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑彼↑↓かれ↓に↑一↑↓いち↓↑度↑↓ど↓も↑優↑↓やさ↓しくしてやらなかったのが↑心残↑↓|こころのこ↓り|だ。","e":"I regret that I have never been kind to him."}]}

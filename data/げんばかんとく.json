@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"現場監督","p":true}],"r_ele":[{"r":"げんばかんとく","p":true}],"sense":[{"gloss":"field overseer, site foreman","pos":["n"]}]},"sdata":[{"j":"↑母↑↓かあ↓さんは、↑女↑↓おんな↓だてらに↑男↑↓おとこ↓だらけの↑中↑↓なか↓、↑建設↑↓けんせつ↓↑会社↑↓かいしゃ↓で↑現場↑↓|げんば↓↑監督↑↓かんとく|↓をしている。","e":"Mum, a mere woman surrounded by men, works in a construction company as a site foreman."}]}

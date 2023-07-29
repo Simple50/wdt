@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腐臭","p":true}],"r_ele":[{"r":"ふしゅう","p":true}],"sense":[{"gloss":"smell of something rotten, rotten smell","pos":["n"]}]},"sdata":[]}

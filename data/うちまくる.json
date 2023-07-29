@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ちまくる","p":true},{"e":"打ち捲る"}],"r_ele":[{"r":"うちまくる","p":true}],"sense":[{"gloss":"to hit repeatedly, to belt hit after hit, to unleash a barrage of blows, to pound away (at a keyboard), to hammer away","pos":["v5r","vt"],"x":["打つ・1"]}]},"sdata":[]}

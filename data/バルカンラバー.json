@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バルカンラバー","p":true},{"r":"バルカン・ラバー"}],"sense":[{"gloss":"vulcanized rubber, vulcanised rubber","pos":["n"]}]},"sdata":[]}

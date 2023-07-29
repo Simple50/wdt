@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縄文","p":true}],"r_ele":[{"r":"じょうもん","p":true}],"sense":[{"gloss":"straw-rope pattern pressed into earthenware","pos":["n"]},{"gloss":"Jōmon period (ca. 14000-1000 BCE)","pos":["n"],"m":["hist","abbr"],"x":["縄文時代"]}]},"sdata":[]}

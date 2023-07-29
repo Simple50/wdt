@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老松","p":true}],"r_ele":[{"r":"ろうしょう","p":true}],"sense":[{"gloss":"old pine tree","pos":["n"]}]},"sdata":[]}

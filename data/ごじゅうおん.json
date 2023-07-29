@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"五十音","p":true}],"r_ele":[{"r":"ごじゅうおん","p":true}],"sense":[{"gloss":"the Japanese syllabary","pos":["n"]}]},"sdata":[{"j":"↑氏名↑↓しめい↓は↑五十音↑↓|ごじゅうおん|↓↑順↑↓じゅん↓です。","e":"The names are in Japanese alphabetical order."}]}

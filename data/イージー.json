@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イージー","p":true}],"sense":[{"gloss":"easy","pos":["adj-na"]}]},"sdata":[{"j":"オレンジジュースと↑卵↑↓たまご↓２↑個↑↓こ↓をオーバー・|イージー|でお↑願↑↓ねが↓いする。","e":"Orange juice, and two eggs over easy."}]}

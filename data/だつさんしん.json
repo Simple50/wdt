@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奪三振","p":true}],"r_ele":[{"r":"だつさんしん","p":true}],"sense":[{"gloss":"striking a batter out","pos":["n"]}]},"sdata":[]}

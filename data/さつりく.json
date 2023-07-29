@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殺戮","p":true},{"e":"殺りく","i":["sK"]}],"r_ele":[{"r":"さつりく","p":true}],"sense":[{"gloss":"slaughter, massacre","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑新任↑↓しんにん↓の↑大使↑↓たいし↓は↑休戦↑↓きゅうせん↓を↑推↑↓お↓し↑進↑↓すす↓めて、これ↑以上↑↓いじょう↓の↑殺↑↓|さつ↓りく|を↑終↑↓お↓わらせるでしょう。","e":"The new ambassador will push for a cease-fire to stop the killing."}]}

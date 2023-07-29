@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弦楽器","p":true},{"e":"絃楽器"}],"r_ele":[{"r":"げんがっき","p":true}],"sense":[{"gloss":"string instrument, stringed instrument","pos":["n"]}]},"sdata":[]}

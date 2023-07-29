@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戒名","p":true}],"r_ele":[{"r":"かいみょう","p":true}],"sense":[{"gloss":"posthumous Buddhist name","pos":["n"]}]},"sdata":[]}

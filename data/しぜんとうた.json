@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自然淘汰","p":true}],"r_ele":[{"r":"しぜんとうた","p":true}],"sense":[{"gloss":"natural selection","pos":["n","vs"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合成繊維","p":true}],"r_ele":[{"r":"ごうせいせんい","p":true}],"sense":[{"gloss":"synthetic fibre, synthetic fiber","pos":["n"],"x":["合繊"]}]},"sdata":[]}

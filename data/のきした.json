@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軒下","p":true}],"r_ele":[{"r":"のきした","p":true}],"sense":[{"gloss":"under the eaves","pos":["n"]}]},"sdata":[{"j":"↑見↑↓み↓て！↑軒下↑↓|のきした|↓に↑大↑↓おお↓きな↑氷柱↑↓つらら↓ができてるよ。","e":"Look! There's a big icicle being created."},{"j":"↑見↑↓み↓て！↑軒下↑↓|のきした|↓に↑大↑↓おお↓きな↑氷柱↑↓つらら↓ができてるよ。","e":"Look! There's a big icicle growing."}]}

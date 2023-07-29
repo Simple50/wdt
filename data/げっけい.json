@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"月経","p":true}],"r_ele":[{"r":"げっけい","p":true}],"sense":[{"gloss":"menstruation, menstrual period","pos":["n","adj-no"]}]},"sdata":[{"j":"↑月経↑↓|げっけい|↓↑周期↑↓しゅうき↓は↑約↑↓やく↓４↑週間↑↓しゅうかん↓です。","e":"My menstrual cycle is about every four weeks."}]}

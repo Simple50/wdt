@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"労務","p":true}],"r_ele":[{"r":"ろうむ","p":true}],"sense":[{"gloss":"labor, labour, work, service","pos":["n"]}]},"sdata":[{"j":"↑設定↑↓せってい↓↑料金↑↓りょうきん↓に↑労務↑↓|ろうむ|↓↑費用↑↓ひよう↓は↑含↑↓ふく↓みません。","e":"The stated price does not include labor charges."}]}

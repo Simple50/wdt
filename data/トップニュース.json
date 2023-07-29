@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トップニュース","p":true},{"r":"トップ・ニュース"}],"sense":[{"gloss":"top news, front-page news, lead story","pos":["n"]}]},"sdata":[]}

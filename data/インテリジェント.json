@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インテリジェント","p":true}],"sense":[{"gloss":"intelligent","pos":["adj-na","n"]}]},"sdata":[{"j":"このプロダクトは|インテリジェント|↑総合↑↓そうごう↓↑情報↑↓じょうほう↓システムです。","e":"This product is an intelligent integrated information system."}]}

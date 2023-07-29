@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"決勝トーナメント","p":true}],"r_ele":[{"r":"けっしょうトーナメント","p":true}],"sense":[{"gloss":"knockout stage (of a tournament)","pos":["n"],"f":["sports"]}]},"sdata":[]}

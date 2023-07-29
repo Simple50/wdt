@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"そんでもって","p":true},{"r":"それでもって"},{"r":"そいでもって"}],"sense":[{"gloss":"and (so), (and) then, because of which, in addition to that","pos":["conj"],"x":["それで"]}],"m":["col"]},"sdata":[]}

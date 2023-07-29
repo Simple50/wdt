@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"補正予算","p":true}],"r_ele":[{"r":"ほせいよさん","p":true}],"sense":[{"gloss":"revised budget, supplementary budget","pos":["n"]}]},"sdata":[]}

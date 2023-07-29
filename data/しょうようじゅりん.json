@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"照葉樹林","p":true}],"r_ele":[{"r":"しょうようじゅりん","p":true}],"sense":[{"gloss":"evergreen (glossy-leaved) forest","pos":["n"]}]},"sdata":[]}

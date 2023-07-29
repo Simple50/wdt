@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"佃","p":true}],"r_ele":[{"r":"つくだ","p":true},{"r":"てん"}],"sense":[{"gloss":"cultivated rice field","pos":["n"]}]},"kdata":{"佃":{"on":["テン","デン"],"kun":["つくだ"],"meanings":["cultivated rice field"],"freq":2193,"comp":[["亻","田"]],"jlpt":0}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"骨盤","p":true}],"r_ele":[{"r":"こつばん","p":true}],"sense":[{"gloss":"pelvis","pos":["n"],"f":["anat"]}]},"sdata":[]}

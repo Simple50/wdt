@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社会政策","p":true}],"r_ele":[{"r":"しゃかいせいさく","p":true}],"sense":[{"gloss":"social policy","pos":["n"]}]},"sdata":[]}

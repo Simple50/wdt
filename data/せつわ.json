@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"説話","p":true}],"r_ele":[{"r":"せつわ","p":true}],"sense":[{"gloss":"tale, narrative","pos":["n","vs"]}]},"sdata":[{"j":"これをトムに↑直接↑↓ちょく|せつ↓↑渡↑↓わ|た↓してください。","e":"Please deliver this to Tom in person."}]}

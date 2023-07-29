@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"感じ入る","p":true}],"r_ele":[{"r":"かんじいる","p":true}],"sense":[{"gloss":"to be deeply impressed (by), to be moved (by), to admire greatly","pos":["v5r","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"論説","p":true}],"r_ele":[{"r":"ろんせつ","p":true}],"sense":[{"gloss":"article, discourse, dissertation, (written) argument, commentary","pos":["n","vs","vt"]},{"gloss":"editorial, leading article, leader","pos":["n"],"x":["社説"]}]},"sdata":[]}

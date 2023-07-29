@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逆輸入","p":true}],"r_ele":[{"r":"ぎゃくゆにゅう","p":true}],"sense":[{"gloss":"reimportation, reimport, reverse import, importing back","pos":["n","vs","vt"]},{"gloss":"(cultural, etc.) reverse import (e.g. California rolls being introduced in Japan)","pos":["n","vs","vt"]}]},"sdata":[]}

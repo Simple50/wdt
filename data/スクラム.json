@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スクラム","p":true}],"sense":[{"gloss":"scrum (rugby), scrummage","pos":["n"],"f":["sports"]},{"gloss":"huddle (e.g. locking arms in a demonstration)","pos":["n"]}]},"sdata":[{"j":"|スクラム|はラグビーの↑特徴↑↓とくちょう↓だ。","e":"Scrums are a feature of Rugby football."}]}

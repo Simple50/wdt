@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三重殺","p":true}],"r_ele":[{"r":"さんじゅうさつ","p":true}],"sense":[{"gloss":"triple play","pos":["n"]}]},"sdata":[]}

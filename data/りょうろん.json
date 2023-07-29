@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"両論","p":true}],"r_ele":[{"r":"りょうろん","p":true}],"sense":[{"gloss":"both arguments (theories)","pos":["n"]}]},"sdata":[{"j":"その↑映画↑↓えいが↓には↑賛否↑↓さんぴ↓↑両論↑↓|りょうろん|↓が↑出↑↓で↓た。","e":"The movie received mixed reviews."}]}

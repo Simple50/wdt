@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恥辱","p":true}],"r_ele":[{"r":"ちじょく","p":true}],"sense":[{"gloss":"disgrace, shame, insult","pos":["n"]}]},"sdata":[]}

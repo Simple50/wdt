@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"式場","p":true}],"r_ele":[{"r":"しきじょう","p":true}],"sense":[{"gloss":"ceremonial hall (e.g. wedding, funeral), hall for ceremonies, place of ceremony","pos":["n"]}]},"sdata":[{"j":"それは↑形式↑↓けい|しき↓↑上↑↓じょう|↓の↑問題↑↓もんだい↓に↑過↑↓す↓ぎない。","e":"It is merely a matter of form."}]}

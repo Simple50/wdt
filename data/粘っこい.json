@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粘っこい","p":true}],"r_ele":[{"r":"ねばっこい","p":true}],"sense":[{"gloss":"sticky, gummy, gooey, gluey, glutinous","pos":["adj-i"]},{"gloss":"tenacious, persistent, dogged, stubborn","pos":["adj-i"]}]},"kdata":{"粘":{"on":["ネン"],"kun":["ねば.る"],"jlpt":1,"meanings":["sticky","glutinous","greasy","persevere"],"freq":1410,"comp":[["米","占"]],"t":1352}},"sdata":[]}

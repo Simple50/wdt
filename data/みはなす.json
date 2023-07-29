@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見放す","p":true},{"e":"見離す"}],"r_ele":[{"r":"みはなす","p":true}],"sense":[{"gloss":"to abandon, to give up on, to desert","pos":["v5s","vt"]}]},"sdata":[]}

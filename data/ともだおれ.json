@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"共倒れ","p":true}],"r_ele":[{"r":"ともだおれ","p":true}],"sense":[{"gloss":"falling together, mutual destruction, joint bankruptcy","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"喫緊","p":true},{"e":"吃緊"}],"r_ele":[{"r":"きっきん","p":true}],"sense":[{"gloss":"urgent, pressing, exigent","pos":["adj-no","adj-na","n"]}]},"sdata":[]}

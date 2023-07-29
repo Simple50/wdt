@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中間配当額","p":true}],"r_ele":[{"r":"ちゅうかんはいとうがく","p":true}],"sense":[{"gloss":"interim dividends","pos":["n"]}]},"sdata":[]}

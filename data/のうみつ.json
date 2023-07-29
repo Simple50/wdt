@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"濃密","p":true}],"r_ele":[{"r":"のうみつ","p":true}],"sense":[{"gloss":"thick, dense, rich (as in taste or content), deep (colour), strong (smell, scent)","pos":["adj-na","n"]},{"gloss":"crowded","pos":["adj-na","n"]}]},"sdata":[{"j":"↑昨日↑↓き|のう↓↑満枝↑↓みつ|え↓さんが↑私↑↓わたし↓のところに↑立↑↓た↓ち↑寄↑↓よ↓った。","e":"Mr Mitsue dropped in on me yesterday."}]}

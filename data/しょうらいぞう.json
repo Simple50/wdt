@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"将来像","p":true}],"r_ele":[{"r":"しょうらいぞう","p":true}],"sense":[{"gloss":"vision of the future","pos":["n"]}]},"sdata":[]}

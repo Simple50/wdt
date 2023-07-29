@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"機動隊","p":true}],"r_ele":[{"r":"きどうたい","p":true}],"sense":[{"gloss":"riot police, riot squad","pos":["n"],"x":["警察機動隊"]}]},"sdata":[{"j":"↑機動↑↓|きどう↓↑隊↑↓たい|↓が↑現場↑↓げんば↓に↑到着↑↓とうちゃく↓した。","e":"The riot police arrived on the scene."}]}

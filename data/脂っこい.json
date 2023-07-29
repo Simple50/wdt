@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脂っこい","p":true},{"e":"油っこい"},{"e":"油っ濃い"},{"e":"脂っ濃い"}],"r_ele":[{"r":"あぶらっこい","p":true}],"sense":[{"gloss":"greasy, fatty, oily","pos":["adj-i"]}],"m":["uk"]},"kdata":{"脂":{"on":["シ"],"kun":["あぶら"],"jlpt":2,"meanings":["fat","grease","tallow","lard","rosin","gum","tar"],"freq":1548,"comp":[["月","旨"]],"t":1157}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手狭","p":true},{"e":"手ぜま","i":["sK"]}],"r_ele":[{"r":"てぜま","p":true}],"sense":[{"gloss":"narrow, small, cramped","pos":["adj-na"]}]},"sdata":[{"j":"この↑部屋↑↓へや↓はとても↑手狭↑↓|てぜま|↓なので、もうこれ↑以上↑↓いじょう↓↑家具↑↓かぐ↓を↑置↑↓お↓くのはむりだよ。","e":"This room is very small, so it is impossible to put more furniture in it."}]}

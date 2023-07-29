@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"埋め立て","p":true},{"e":"埋立"},{"e":"埋立て"}],"r_ele":[{"r":"うめたて","p":true}],"sense":[{"gloss":"land reclamation","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＭＰ３","p":true}],"r_ele":[{"r":"エムピースリー","p":true}],"sense":[{"gloss":"MP3","pos":["n"],"f":["comp"]}]},"sdata":[]}

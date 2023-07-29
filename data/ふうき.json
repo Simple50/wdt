@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"富貴","p":true}],"r_ele":[{"r":"ふうき","p":true},{"r":"ふっき"}],"sense":[{"gloss":"riches and honours (honors), wealth and rank","pos":["adj-na","n"]}]},"sdata":[{"j":"その↑映画↑↓えいが↓は↑何↑↓なん↓↑時↑↓じ↓↑封切↑↓|ふうき|↓りになりますか。","e":"When will the film be released?"},{"j":"この↑町↑↓まち↓の↑風紀↑↓|ふうき|↓は↑乱↑↓みだ↓れている。","e":"Public morals have been corrupted in this town."}]}

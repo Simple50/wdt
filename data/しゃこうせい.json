@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社交性","p":true}],"r_ele":[{"r":"しゃこうせい","p":true}],"sense":[{"gloss":"sociability","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓の↑公衆↑↓こうしゅう↓↑浴場↑↓よくじょう↓はかつては↑自分↑↓じぶん↓の↑住↑↓す↓む↑近↑↓ちか↓くの↑社交↑↓|しゃこう↓↑生活↑↓せい|かつ↓の↑中心↑↓ちゅうしん↓として↑使↑↓つか↓われていた。","e":"The Japanese public bathhouse was once used as a center of social life in one's neighborhood."}]}

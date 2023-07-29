@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キルビメーター","p":true}],"sense":[{"gloss":"curvimeter","pos":["n"],"l":"fre: curvimètre"}]},"sdata":[]}

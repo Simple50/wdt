@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シュナップス","p":true}],"sense":[{"gloss":"liquor","pos":["n"],"l":"ger: Schnaps"}]},"sdata":[]}

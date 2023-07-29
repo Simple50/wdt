@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大門","p":true}],"r_ele":[{"r":"だいもん"},{"r":"おおもん","p":true}],"sense":[{"gloss":"large front gate","pos":["n"]}]},"sdata":[]}

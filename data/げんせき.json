@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原石","p":true}],"r_ele":[{"r":"げんせき","p":true}],"sense":[{"gloss":"(raw) ore","pos":["n"]},{"gloss":"unpolished gemstone","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重水素","p":true}],"r_ele":[{"r":"じゅうすいそ","p":true}],"sense":[{"gloss":"deuterium, heavy hydrogen","pos":["n"]}]},"sdata":[]}

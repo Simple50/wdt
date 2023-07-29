@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上越","p":true}],"r_ele":[{"r":"じょうえつ","p":true}],"sense":[{"gloss":"area on Japan Sea side of Japan, including Niigata","pos":["n"]}]},"sdata":[]}

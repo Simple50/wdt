@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特記","p":true}],"r_ele":[{"r":"とっき","p":true}],"sense":[{"gloss":"special mention","pos":["n","vs","vt"]}]},"kdata":{"特":{"on":["トク"],"jlpt":4,"meanings":["special"],"freq":234,"comp":[["寺","牛"]],"t":1117},"記":{"on":["キ"],"kun":["しる.す"],"jlpt":3,"meanings":["scribe","account","narrative"],"freq":149,"comp":[["己","言"]],"t":1172}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"解脱","p":true}],"r_ele":[{"r":"げだつ","p":true}],"sense":[{"gloss":"liberation from earthly desires and the woes of man, deliverance of one's soul, moksha, mukti, vimukti","pos":["n","vs","vi"],"f":["Buddh"]}]},"sdata":[]}

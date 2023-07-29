@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戦乱","p":true}],"r_ele":[{"r":"せんらん","p":true}],"sense":[{"gloss":"wars, disturbances","pos":["n","adj-no"]}]},"sdata":[]}

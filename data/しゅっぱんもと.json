@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出版元","p":true}],"r_ele":[{"r":"しゅっぱんもと","p":true}],"sense":[{"gloss":"publisher","pos":["n"]}]},"sdata":[]}

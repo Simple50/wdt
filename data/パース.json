@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パース","p":true}],"sense":[{"gloss":"(architectural) perspective drawing, perspective view","pos":["n"]},{"gloss":"perspective","pos":["n"],"x":["パースペクティブ"]}],"m":["abbr"]},"sdata":[{"j":"↑僕↑↓ぼく↓は|パース|にいます。","e":"I'm in Perth."}]}

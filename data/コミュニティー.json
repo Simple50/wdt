@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コミュニティ","p":true},{"r":"コミュニティー","p":true}],"sense":[{"gloss":"community","pos":["n"]}]},"sdata":[{"j":"タトエバは、|コミュニティー|です。","e":"Tatoeba is a community."}]}

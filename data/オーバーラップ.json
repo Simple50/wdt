@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オーバーラップ","p":true}],"sense":[{"gloss":"overlap","pos":["n","vs","vt","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人事院","p":true}],"r_ele":[{"r":"じんじいん","p":true}],"sense":[{"gloss":"National Personnel Authority","pos":["n"]}]},"sdata":[]}

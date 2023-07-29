@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分数","p":true}],"r_ele":[{"r":"ぶんすう","p":true}],"sense":[{"gloss":"fraction","pos":["n","adj-no"],"f":["math"]}]},"sdata":[{"j":"↑分数↑↓|ぶんすう|↓↑b/a↑↓エイぶんのビー↓は↑1/a↑↓エイぶんのいち↓を↑b↑↓ビー↓↑倍↑↓ばい↓した↑数↑↓かず↓を↑意味↑↓いみ↓する。","e":"The fraction b/a means b times 1/a."},{"j":"↑次↑↓つぎ↓の↑分数↑↓|ぶんすう|↓を↑小数↑↓しょうすう↓に↑直↑↓なお↓しなさい。","e":"Convert the following fractions to decimals."}]}

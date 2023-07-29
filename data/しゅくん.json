@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主君","p":true}],"r_ele":[{"r":"しゅくん","p":true}],"sense":[{"gloss":"lord, master","pos":["n"]}]},"sdata":[]}

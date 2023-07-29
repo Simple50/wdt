@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"印度支那","i":["ateji","rK"]}],"r_ele":[{"r":"インドシナ","p":true}],"sense":[{"gloss":"Indochina","pos":["n"]}],"m":["uk"]},"sdata":[]}

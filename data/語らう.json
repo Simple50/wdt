@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"語らう","p":true}],"r_ele":[{"r":"かたらう","p":true}],"sense":[{"gloss":"to talk, to tell, to recite, to pledge, to conspire with","pos":["v5u","vt"]}]},"kdata":{"語":{"on":["ゴ"],"kun":["かた.る","かた.らう"],"jlpt":5,"meanings":["word","speech","language"],"freq":301,"comp":[["言","吾"]],"t":1926}},"sdata":[]}

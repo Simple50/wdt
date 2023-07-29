@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低速","p":true}],"r_ele":[{"r":"ていそく","p":true}],"sense":[{"gloss":"low speed, slow speed","pos":["n","adj-no"]}]},"sdata":[{"j":"↑私↑↓わたし↓↑達↑↓たち↓は↑道↑↓みち↓すがらずっと↑低速↑↓|ていそく|↓で↑運転↑↓うんてん↓しなければならなかった。","e":"We had to drive slowly all the way."}]}

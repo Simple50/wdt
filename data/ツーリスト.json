@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ツーリスト","p":true}],"sense":[{"gloss":"tourist","pos":["n"]}]},"sdata":[]}

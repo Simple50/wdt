@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼け残る","p":true}],"r_ele":[{"r":"やけのこる","p":true}],"sense":[{"gloss":"to escape being burned (esp. of a building or the items in it), to survive a fire","pos":["v5r","vi"]}]},"sdata":[]}

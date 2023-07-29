@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"裏金","p":true}],"r_ele":[{"r":"うらがね","p":true}],"sense":[{"gloss":"bribe","pos":["n"]},{"gloss":"secret fund, slush fund, money for bribery","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑裏金↑↓|うらがね|↓をもらいました。","e":"He got paid under the table."}]}

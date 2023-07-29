@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リール","p":true}],"sense":[{"gloss":"reel","pos":["n"]}]},"sdata":[{"j":"↑今日↑↓きょう↓がエイプ|リール|フールだということを↑忘↑↓わす↓れていたよ。","e":"I forgot that today was April Fool's Day."},{"j":"トムはランド|リール|ームにいるよ。","e":"Tom is in the laundry room."}]}

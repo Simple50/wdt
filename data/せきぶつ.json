@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"石仏","p":true}],"r_ele":[{"r":"せきぶつ","p":true},{"r":"いしぼとけ"}],"sense":[{"gloss":"stone Buddhist image","pos":["n"]},{"gloss":"unemotional person, taciturn person","pos":["n"]}]},"sdata":[]}

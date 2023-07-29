@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陥没","p":true}],"r_ele":[{"r":"かんぼつ","p":true}],"sense":[{"gloss":"cave-in, collapse, sinking, depression (e.g. of the skull), subsidence","pos":["n","vs","vi"]}]},"sdata":[]}

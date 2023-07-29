@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人災","p":true}],"r_ele":[{"r":"じんさい","p":true}],"sense":[{"gloss":"man-made calamity","pos":["n"]}]},"sdata":[]}

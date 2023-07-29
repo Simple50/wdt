@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"司令部","p":true}],"r_ele":[{"r":"しれいぶ","p":true}],"sense":[{"gloss":"headquarters","pos":["n"]}]},"sdata":[{"j":"↑将軍↑↓しょうぐん↓は↑彼↑↓かれ↓に↑司令↑↓|しれい↓↑部↑↓ぶ|↓へ↑出頭↑↓しゅっとう↓しろと↑命↑↓めい↓じた。","e":"The general commanded him to report to headquarters."}]}

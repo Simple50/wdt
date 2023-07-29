@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"買い戻し","p":true},{"e":"買戻し"}],"r_ele":[{"r":"かいもどし","p":true}],"sense":[{"gloss":"repurchase, redemption","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑質屋↑↓しちや↓から↑時計↑↓とけい↓↑買↑↓|か↓い↑戻↑↓もど↓し|た。","e":"He redeemed his watch from the pawnbroker."}]}

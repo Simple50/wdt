@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幕内","p":true}],"r_ele":[{"r":"まくうち","p":true}],"sense":[{"gloss":"makuuchi, top division (of professional sumo)","pos":["n"],"f":["sumo"],"x":["幕の内・2"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小規模","p":true}],"r_ele":[{"r":"しょうきぼ","p":true}],"sense":[{"gloss":"small scale","pos":["adj-na","n"]}]},"sdata":[{"j":"↑小規模↑↓|しょうきぼ|↓の↑森林↑↓しんりん↓↑火災↑↓かさい↓はみるみる↑広↑↓ひろ↓がり↑大↑↓だい↓↑火災↑↓かさい↓となった。","e":"A small forest fire quickly spread and became a huge conflagration."}]}

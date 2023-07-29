@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国論","p":true}],"r_ele":[{"r":"こくろん","p":true}],"sense":[{"gloss":"public opinion","pos":["n"]}]},"kdata":{"国":{"on":["コク"],"kun":["くに"],"jlpt":5,"meanings":["country"],"freq":3,"comp":[["玉","囗"]],"d":["掴","椢","𠏹"],"t":627},"論":{"on":["ロン"],"kun":["あげつら.う"],"jlpt":3,"meanings":["argument","discourse"],"freq":227,"comp":[["言","侖"]],"t":2051}},"sdata":[]}

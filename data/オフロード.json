@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オフロード","p":true}],"sense":[{"gloss":"off-road","pos":["adj-no","n"]}]},"sdata":[]}

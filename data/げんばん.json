@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原版","p":true}],"r_ele":[{"r":"げんぱん"},{"r":"げんばん","p":true}],"sense":[{"gloss":"form (printing), forme, typesetting plate, original plate","pos":["n"]},{"gloss":"original edition (of a publication)","pos":["n"]}]},"sdata":[]}

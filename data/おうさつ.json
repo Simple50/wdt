@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"応札","p":true}],"r_ele":[{"r":"おうさつ","p":true}],"sense":[{"gloss":"making a bid, tendering a bid","pos":["n","vs","vi"]}]},"sdata":[]}

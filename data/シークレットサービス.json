@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シークレットサービス","p":true},{"r":"シークレット・サービス"}],"sense":[{"gloss":"secret service","pos":["n"]}]},"sdata":[]}

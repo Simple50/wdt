@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気象予報士","p":true}],"r_ele":[{"r":"きしょうよほうし","p":true}],"sense":[{"gloss":"weather forecaster","pos":["n"]}]},"sdata":[]}

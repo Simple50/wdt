@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"条文","p":true}],"r_ele":[{"r":"じょうぶん","p":true}],"sense":[{"gloss":"text, provisions (act, treaty)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑法律↑↓ほうりつ↓の↑条文↑↓|じょうぶん|↓の↑意味↑↓いみ↓に↑固執↑↓こしつ↓する。","e":"He keeps to the letter of the law."}]}

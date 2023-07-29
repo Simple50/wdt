@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山手","p":true}],"r_ele":[{"r":"やまて","p":true}],"sense":[{"gloss":"place near the mountains","pos":["n","adj-no"],"x":["海手"]},{"gloss":"hilly section of a city (e.g. the Yamate area in Kōbe)","pos":["n"],"x":["山の手・1"]}]},"sdata":[]}

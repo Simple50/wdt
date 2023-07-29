@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"どちらにせよ","p":true}],"sense":[{"gloss":"in either case (used specifically in the instance of two possible outcomes or situations), either way, one way or another","pos":["exp"]}]},"sdata":[{"j":"|どちらにせよ|、↑君↑↓きみ↓の↑負↑↓ま↓けだよ。","e":"Either way, you lose."}]}

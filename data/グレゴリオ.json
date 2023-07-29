@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グレゴリオ","p":true}],"sense":[{"gloss":"Gregorian (calendar)","pos":["n"]}]},"sdata":[]}

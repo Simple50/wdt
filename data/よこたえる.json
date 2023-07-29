@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横たえる","p":true}],"r_ele":[{"r":"よこたえる","p":true}],"sense":[{"gloss":"to lay down","pos":["v1","vt"]},{"gloss":"to wear (a sword, etc.) at one's side","pos":["v1","vt"]}]},"sdata":[]}

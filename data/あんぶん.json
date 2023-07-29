@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"案文","p":true}],"r_ele":[{"r":"あんぶん","p":true},{"r":"あんもん"}],"sense":[{"gloss":"draft, draft proposal","pos":["n"]}]},"sdata":[]}

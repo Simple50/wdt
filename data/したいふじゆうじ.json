@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肢体不自由児","p":true}],"r_ele":[{"r":"したいふじゆうじ","p":true}],"sense":[{"gloss":"physically disabled child, child with a physical disability","pos":["n"]}]},"sdata":[]}

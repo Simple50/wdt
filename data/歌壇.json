@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歌壇","p":true}],"r_ele":[{"r":"かだん","p":true}],"sense":[{"gloss":"poetry circles","pos":["n"]}]},"kdata":{"歌":{"on":["カ"],"kun":["うた","うた.う"],"jlpt":4,"meanings":["song","sing"],"freq":519,"comp":[["哥","欠"]],"t":1884},"壇":{"on":["ダン","タン"],"jlpt":1,"meanings":["podium","stage","rostrum","terrace"],"freq":1512,"comp":[["土","亶"]],"t":2099}},"sdata":[]}

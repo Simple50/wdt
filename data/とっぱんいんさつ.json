@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"凸版印刷","p":true}],"r_ele":[{"r":"とっぱんいんさつ","p":true}],"sense":[{"gloss":"letterpress, relief printing","pos":["n"],"f":["print"]}]},"sdata":[]}

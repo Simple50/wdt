@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"育苗","p":true}],"r_ele":[{"r":"いくびょう","p":true}],"sense":[{"gloss":"raising seedlings","pos":["n","vs"]}]},"sdata":[]}

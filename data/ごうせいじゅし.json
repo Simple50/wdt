@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合成樹脂","p":true}],"r_ele":[{"r":"ごうせいじゅし","p":true}],"sense":[{"gloss":"plastics, synthetic resins","pos":["n"]}]},"sdata":[]}

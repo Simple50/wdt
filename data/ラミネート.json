@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラミネート","p":true}],"sense":[{"gloss":"laminate","pos":["n","vs","vt"]}]},"sdata":[]}

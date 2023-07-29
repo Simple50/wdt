@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ココム","p":true}],"sense":[{"gloss":"Coordinating Committee for Export to Communist Area, COCOM","pos":["n"]}]},"sdata":[]}

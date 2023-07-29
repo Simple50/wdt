@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先鋭","p":true},{"e":"尖鋭"}],"r_ele":[{"r":"せんえい","p":true}],"sense":[{"gloss":"radical, acute, sharp","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売り込む","p":true}],"r_ele":[{"r":"うりこむ","p":true}],"sense":[{"gloss":"to build a market for, to promote (a product), to sell, to become well known","pos":["v5m","vt"]},{"gloss":"to promote oneself, to sell oneself","pos":["v5m","vt"]},{"gloss":"to sell heavily","pos":["v5m","vt"]}]},"sdata":[]}

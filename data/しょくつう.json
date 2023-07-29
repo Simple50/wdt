@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"食通","p":true}],"r_ele":[{"r":"しょくつう","p":true}],"sense":[{"gloss":"gourmandism","pos":["n"]},{"gloss":"gourmet, gourmand, foodie","pos":["n"]}]},"sdata":[]}

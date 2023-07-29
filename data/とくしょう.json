@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特賞","p":true}],"r_ele":[{"r":"とくしょう","p":true}],"sense":[{"gloss":"special prize","pos":["n"]}]},"sdata":[{"j":"↑二↑↓ふた↓つの↑修得↑↓しゅう|とく↓↑証書↑↓しょう|しょ↓を↑与↑↓あた↓えよう。","e":"You shall receive two certificates of achievement."}]}

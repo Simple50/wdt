@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"季刊","p":true}],"r_ele":[{"r":"きかん","p":true}],"sense":[{"gloss":"quarterly publication","pos":["n","adj-no"]}]},"kdata":{"季":{"on":["キ"],"jlpt":2,"meanings":["seasons"],"freq":842,"comp":[["禾","子"]],"d":["悸"],"s":"李,秀","t":640},"刊":{"on":["カン"],"jlpt":2,"meanings":["publish","carve","engrave"],"freq":855,"comp":[["干","刂"]],"t":221}},"sdata":[]}

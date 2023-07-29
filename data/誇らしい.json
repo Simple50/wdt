@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"誇らしい","p":true}],"r_ele":[{"r":"ほこらしい","p":true}],"sense":[{"gloss":"proud, haughty, arrogant","pos":["adj-i"]}]},"kdata":{"誇":{"on":["コ"],"kun":["ほこ.る"],"jlpt":1,"meanings":["boast","be proud","pride","triumphantly"],"freq":1272,"comp":[["言","夸"]],"t":1788}},"sdata":[]}

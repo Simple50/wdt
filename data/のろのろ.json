@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"のろのろ","p":true}],"sense":[{"gloss":"slowly, sluggishly","pos":["adv","adv-to","vs"]}],"m":["on-mim"]},"sdata":[{"j":"↑休日↑↓きゅうじつ↓で↑車↑↓くるま↓は↑街道↑↓かいどう↓を|のろのろ|と↑動↑↓うご↓いた。","e":"The holiday traffic crawled along the highway."},{"j":"タクシーはカタツムリと↑同↑↓おな↓じくらい|のろのろ|↑進↑↓すす↓んでいるように↑思↑↓おも↓えた。","e":"The taxi seemed to go as slowly as a snail."}]}

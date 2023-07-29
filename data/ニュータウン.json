@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニュータウン","p":true},{"r":"ニュー・タウン"}],"sense":[{"gloss":"new town (esp. planned satellite towns of Osaka Prefecture), new housing development","pos":["n"]}]},"sdata":[]}

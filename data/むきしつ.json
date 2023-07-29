@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無機質","p":true}],"r_ele":[{"r":"むきしつ","p":true}],"sense":[{"gloss":"inorganic matter, mineral matter","pos":["n"]},{"gloss":"cold, inhuman, robotic","pos":["adj-na"]}]},"sdata":[]}

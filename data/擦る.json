@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"擦る","p":true},{"e":"錯る","i":["rK"]}],"r_ele":[{"r":"こする","p":true}],"sense":[{"gloss":"to rub, to scrub, to scrape","pos":["v5r","vt"]}],"m":["uk"]},"kdata":{"擦":{"on":["サツ"],"kun":["す.る","す.れる","-ず.れ","こす.る","こす.れる"],"jlpt":1,"meanings":["rub","grate","scratch","scrape","chafe","scour"],"freq":1485,"comp":[["扌","察"]],"t":2180}},"sdata":[]}

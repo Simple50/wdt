@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペプシン","p":true}],"sense":[{"gloss":"pepsin","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一代記","p":true}],"r_ele":[{"r":"いちだいき","p":true}],"sense":[{"gloss":"biography","pos":["n"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓は↑一大↑↓|いちだい↓↑危機↑↓き|き↓に↑直面↑↓ちょくめん↓している。","e":"We are facing a violent crisis."},{"j":"↑我々↑↓われわれ↓は↑一大↑↓|いちだい↓↑危機↑↓き|き↓に↑直面↑↓ちょくめん↓している。","e":"We're facing a violent crisis."}]}

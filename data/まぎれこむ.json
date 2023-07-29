@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紛れ込む","p":true}],"r_ele":[{"r":"まぎれこむ","p":true}],"sense":[{"gloss":"to disappear into, to slip into, to be lost in, to be mixed up with","pos":["v5m","vi"]}]},"sdata":[]}

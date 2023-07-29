@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セロハンテープ","p":true},{"r":"セロハン・テープ"}],"sense":[{"gloss":"cellophane tape, (transparent) adhesive tape, Sellotape, Scotch tape","pos":["n"]}]},"sdata":[{"j":"|セロハンテープ|↑持↑↓も↓ってきて。","e":"Bring sellotape."}]}

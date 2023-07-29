@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"屋号","p":true},{"e":"家号"}],"r_ele":[{"r":"やごう","p":true}],"sense":[{"gloss":"name of store, trade name (esp. of a sole proprietorship)","pos":["n"]},{"gloss":"stage name (e.g. of actor)","pos":["n"]}]},"sdata":[{"j":"↑殺人↑↓さつじん↓|や↑強盗↑↓ごう|とう↓は↑犯罪↑↓はんざい↓↑行為↑↓こうい↓である。","e":"Murder and robbery are criminal acts."}]}

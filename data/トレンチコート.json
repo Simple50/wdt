@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トレンチコート","p":true},{"r":"トレンチ・コート"}],"sense":[{"gloss":"trench coat","pos":["n"]}]},"sdata":[{"j":"トムは|トレンチコート|を↑着↑↓き↓ていた。","e":"Tom was wearing a trench coat."},{"j":"トムは|トレンチコート|を↑着↑↓き↓ていた。","e":"Tom was wearing a trenchcoat."}]}

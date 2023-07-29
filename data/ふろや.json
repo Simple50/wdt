@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風呂屋","p":true}],"r_ele":[{"r":"ふろや","p":true}],"sense":[{"gloss":"public bathhouse","pos":["n"]},{"gloss":"bathhouse proprietor","pos":["n"],"m":["sens"]}]},"sdata":[{"j":"↑火事↑↓かじ↓は↑風呂屋↑↓|ふろや|↓からでた。","e":"The fire started in the bathhouse."}]}

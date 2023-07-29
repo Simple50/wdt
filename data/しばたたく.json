@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瞬く","p":true},{"e":"屡叩く"},{"e":"屢叩く"}],"r_ele":[{"r":"しばたたく","p":true},{"r":"しばたく"},{"r":"しばだたく"}],"sense":[{"gloss":"to blink (one's eyes), to wink, to bat","pos":["v5k","vt"]}]},"sdata":[]}

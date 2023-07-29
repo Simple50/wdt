@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最新鋭","p":true}],"r_ele":[{"r":"さいしんえい","p":true}],"sense":[{"gloss":"state-of-the-art, cutting-edge","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逃げ腰","p":true},{"e":"逃腰"}],"r_ele":[{"r":"にげごし","p":true}],"sense":[{"gloss":"preparing to flee, being ready to run away","pos":["n"]}],"m":["id"]},"sdata":[{"j":"そんな↑逃↑↓|に↓げ↑腰↑↓ごし|↓では↑戦↑↓たたか↓いはできないね。","e":"You can't fight a good fight with such a defeatist attitude."}]}

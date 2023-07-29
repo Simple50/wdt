@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレーン","p":true}],"sense":[{"gloss":"crane (machine)","pos":["n"]}]},"sdata":[{"j":"|クレーン|を↑操縦↑↓そうじゅう↓するのには、↑勿論↑↓もちろん↓、↑免許↑↓めんきょ↓が↑必要↑↓ひつよう↓です。","e":"Of course, a license is needed to operate a crane."}]}

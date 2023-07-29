@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"納骨","p":true}],"r_ele":[{"r":"のうこつ","p":true}],"sense":[{"gloss":"placing (a person's) ashes inside a funerary urn (or a tomb or ossuary), depositing ashes","pos":["n","vs","vi"]}]},"sdata":[]}

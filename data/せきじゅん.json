@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"席順","p":true}],"r_ele":[{"r":"せきじゅん","p":true}],"sense":[{"gloss":"seating order","pos":["n"]}]},"sdata":[]}

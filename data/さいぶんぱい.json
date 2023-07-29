@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再分配","p":true}],"r_ele":[{"r":"さいぶんぱい","p":true}],"sense":[{"gloss":"redistribution","pos":["n"]}]},"sdata":[]}

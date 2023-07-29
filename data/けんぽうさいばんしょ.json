@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"憲法裁判所","p":true}],"r_ele":[{"r":"けんぽうさいばんしょ","p":true}],"sense":[{"gloss":"constitutional court","pos":["n"]}]},"sdata":[]}

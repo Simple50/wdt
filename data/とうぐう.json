@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"東宮","p":true},{"e":"春宮"}],"r_ele":[{"r":"とうぐう","p":true}],"sense":[{"gloss":"crown prince","pos":["n"]}]},"sdata":[]}

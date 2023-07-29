@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総領事","p":true}],"r_ele":[{"r":"そうりょうじ","p":true}],"sense":[{"gloss":"consul general","pos":["n"]}]},"sdata":[]}

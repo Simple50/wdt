@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャリー","p":true}],"sense":[{"gloss":"carry, carrying","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"霊安室","p":true}],"r_ele":[{"r":"れいあんしつ","p":true}],"sense":[{"gloss":"morgue, mortuary","pos":["n"]}]},"sdata":[{"j":"↑医者↑↓いしゃ↓は↑患者↑↓かんじゃ↓を↑生↑↓い↓きたまま↑霊安室↑↓|れいあんしつ|↓へ↑送↑↓おく↓った。","e":"The doctor sent the live patient to the morgue."}]}

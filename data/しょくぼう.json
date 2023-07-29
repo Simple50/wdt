@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"嘱望","p":true},{"e":"属望"}],"r_ele":[{"r":"しょくぼう","p":true}],"sense":[{"gloss":"having great hopes for (someone's future), expecting much of, pinning one's hopes on","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑教師↑↓きょうし↓になることを↑嘱望↑↓|しょくぼう|↓している。","e":"He aspires to become a teacher."}]}

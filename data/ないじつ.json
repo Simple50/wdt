@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内実","p":true}],"r_ele":[{"r":"ないじつ","p":true}],"sense":[{"gloss":"the facts, the truth, the true state of affairs","pos":["n"]},{"gloss":"in truth, in fact, in reality, actually","pos":["n","adv"]}]},"sdata":[]}

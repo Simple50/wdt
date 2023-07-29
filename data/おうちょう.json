@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"王朝","p":true}],"r_ele":[{"r":"おうちょう","p":true}],"sense":[{"gloss":"dynasty","pos":["n"]}]},"sdata":[]}

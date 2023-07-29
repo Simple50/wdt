@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"呼びかける","p":true},{"e":"呼び掛ける","p":true},{"e":"呼掛ける"}],"r_ele":[{"r":"よびかける","p":true}],"sense":[{"gloss":"to call out to, to hail, to address","pos":["v1","vt"]},{"gloss":"to appeal","pos":["v1","vt"]}]},"sdata":[]}

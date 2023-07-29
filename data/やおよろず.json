@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"八百万","p":true}],"r_ele":[{"r":"やおよろず","p":true}],"sense":[{"gloss":"myriad, countless things","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中越","p":true}],"r_ele":[{"r":"ちゅうえつ","p":true}],"sense":[{"gloss":"Chūetsu (region in Niigata)","pos":["n"]},{"gloss":"China and Vietnam, Sino-Vietnamese","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社風","p":true}],"r_ele":[{"r":"しゃふう","p":true}],"sense":[{"gloss":"corporate culture, company climate or spirit, the way a company does things","pos":["n"]}]},"sdata":[{"j":"↑君↑↓きみ↓も↑社風↑↓|しゃふう|↓に↑染↑↓そ↓まっている。","e":"You're taking on the company style."}]}

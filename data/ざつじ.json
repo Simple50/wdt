@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雑事","p":true}],"r_ele":[{"r":"ざつじ","p":true}],"sense":[{"gloss":"miscellaneous matters","pos":["n"]}]},"sdata":[{"j":"↑書↑↓か↓き↑方↑↓かた↓が、この↑記事↑↓きじ↓ではずっと↑複雑↑↓ふく|ざつ↓じ|ゃなくなっている。","e":"The writing style is much less complicated in this article."}]}

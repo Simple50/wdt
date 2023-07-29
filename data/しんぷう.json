@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新風","p":true}],"r_ele":[{"r":"しんぷう","p":true}],"sense":[{"gloss":"new style","pos":["n"]}]},"sdata":[{"j":"↑新↑↓しん↓↑貿易↑↓ぼうえき↓↑協定↑↓きょうてい↓は↑国際↑↓こくさい↓↑経済↑↓けいざい↓に↑新風↑↓|しんぷう|↓を↑吹↑↓ふ↓き↑込↑↓こ↓むことになるでしょう。","e":"The new trade accord will pump fresh blood into the international economy."}]}

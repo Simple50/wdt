@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早引け","p":true},{"e":"早引き","p":true}],"r_ele":[{"r":"はやびけ","p":true},{"r":"はやびき","p":true}],"sense":[{"gloss":"leaving work (office, school) early","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑仕事↑↓しごと↓を↑早↑↓|はや↓↑引↑↓び↓き|する↑前↑↓まえ↓にあなたの↑許可↑↓きょか↓をいただきたい。","e":"I need your approval before I leave work early."}]}

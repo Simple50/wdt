@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"減価償却","p":true}],"r_ele":[{"r":"げんかしょうきゃく","p":true}],"sense":[{"gloss":"depreciation","pos":["n"]}]},"sdata":[]}

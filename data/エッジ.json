@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エッジ","p":true}],"sense":[{"gloss":"edge","pos":["n"]}]},"sdata":[]}

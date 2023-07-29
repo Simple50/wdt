@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"籠","p":true},{"e":"篭","p":true}],"r_ele":[{"r":"かご","p":true},{"r":"カゴ","p":true}],"sense":[{"gloss":"basket (shopping, etc.), hamper, cage","pos":["n"]}],"m":["uk"]},"kdata":{"篭":{"on":["ロウ","ル"],"kun":["かご","こ.める","こも.る","こ.む"],"meanings":["cage","seclude oneself","coop","implied"],"freq":2237,"comp":[["竜","𥫗"]]}},"sdata":[]}

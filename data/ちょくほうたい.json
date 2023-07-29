@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直方体","p":true}],"r_ele":[{"r":"ちょくほうたい","p":true}],"sense":[{"gloss":"right-angled parallelepiped, cuboid, rectangular solid","pos":["n"],"f":["math"]}]},"sdata":[]}

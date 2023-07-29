@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"樽","p":true}],"r_ele":[{"r":"たる","p":true}],"sense":[{"gloss":"cask, barrel","pos":["n"]}]},"kdata":{"樽":{"on":["ソン"],"kun":["たる"],"meanings":["barrel","cask","keg"],"freq":1981,"comp":[["尊","木"]],"jlpt":0,"t":2172}},"sdata":[{"j":"↑彼女↑↓かのじょ↓はずっと↑小|樽|↑↓おたる↓で↑暮↑↓く↓らしている。","e":"She has always lived in Otaru."}]}

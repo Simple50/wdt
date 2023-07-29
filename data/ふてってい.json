@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不徹底","p":true}],"r_ele":[{"r":"ふてってい","p":true}],"sense":[{"gloss":"inconsistent, illogical, unconvincing, not thorough, indefinite, half-way","pos":["adj-na","n"]}]},"sdata":[]}

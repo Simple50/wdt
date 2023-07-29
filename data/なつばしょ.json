@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夏場所","p":true}],"r_ele":[{"r":"なつばしょ","p":true}],"sense":[{"gloss":"Summer Tournament (held in Tokyo in May)","pos":["n"],"f":["sumo"]}]},"sdata":[]}

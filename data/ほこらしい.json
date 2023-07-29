@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"誇らしい","p":true}],"r_ele":[{"r":"ほこらしい","p":true}],"sense":[{"gloss":"proud, haughty, arrogant","pos":["adj-i"]}]},"sdata":[]}

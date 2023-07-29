@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新卒","p":true}],"r_ele":[{"r":"しんそつ","p":true}],"sense":[{"gloss":"new graduate, recent graduate","pos":["n","adj-no"]}]},"sdata":[{"j":"ジャクソン↑先生↑↓せんせい↓は↑新卒↑↓|しんそつ|↓？","e":"Is Mr. Jackson the teacher a recent graduate?"}]}

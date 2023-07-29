@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"草臥れる","p":true,"i":["ateji"]}],"r_ele":[{"r":"くたびれる","p":true}],"sense":[{"gloss":"to get tired, to become exhausted, to grow weary","pos":["v1","vi"]},{"gloss":"to become worn out, to become battered (from long use)","pos":["v1","vi"]},{"gloss":"to get tired of (doing), to get fed up with","pos":["aux-v","v1"]}],"m":["uk"]},"sdata":[]}

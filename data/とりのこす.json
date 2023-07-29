@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り残す","p":true},{"e":"取残す"},{"e":"とり残す"}],"r_ele":[{"r":"とりのこす","p":true}],"sense":[{"gloss":"to leave behind","pos":["v5s","vt"]}]},"sdata":[]}

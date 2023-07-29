@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水洗い","p":true}],"r_ele":[{"r":"みずあらい","p":true}],"sense":[{"gloss":"washing with cold water (without using soap, etc.)","pos":["n","vs","vt"]}]},"sdata":[{"j":"このドレスは↑水洗↑↓|みずあら↓い|ができますか。","e":"Is this dress washable?"}]}

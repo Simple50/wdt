@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"油絵の具","p":true},{"e":"油絵具"}],"r_ele":[{"r":"あぶらえのぐ","p":true}],"sense":[{"gloss":"oil paints, oil colors (colours), oils","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はその↑絵↑↓え↓を↑油絵具↑↓|あぶらえのぐ|↓で↑描↑↓えが↓いた。","e":"He painted the picture in oils."}]}

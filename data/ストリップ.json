@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ストリップ","p":true}],"sense":[{"gloss":"strip show, striptease","pos":["n"],"m":["abbr"],"x":["ストリップショー"]},{"gloss":"stripping, removing one's clothes","pos":["n"]},{"gloss":"strip (e.g. of wood)","pos":["n"]}]},"sdata":[]}

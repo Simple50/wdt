@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風呂敷","p":true}],"r_ele":[{"r":"ふろしき","p":true}],"sense":[{"gloss":"wrapping cloth, cloth wrapper","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑大↑↓だい↓↑風呂敷↑↓|ふろしき|↓はいつものこと。","e":"He is always talking big."},{"j":"↑彼↑↓かれ↓は↑風呂敷↑↓|ふろしき|↓を↑十分↑↓じゅうぶん↓に↑活用↑↓かつよう↓した。","e":"He took full advantage of the wrapper."}]}

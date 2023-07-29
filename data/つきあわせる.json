@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き合わせる","p":true},{"e":"つき合わせる"},{"e":"突き合せる"},{"e":"つき合せる"}],"r_ele":[{"r":"つきあわせる","p":true}],"sense":[{"gloss":"to place persons opposite, to come face to face with","pos":["v1","vt"]},{"gloss":"to compare (with), to check (against), to match, to tally","pos":["v1","vt"]}]},"sdata":[]}

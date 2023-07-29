@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発会","p":true}],"r_ele":[{"r":"はっかい","p":true}],"sense":[{"gloss":"opening a meeting, first meeting","pos":["n","vs"]}]},"sdata":[]}

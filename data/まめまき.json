@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豆まき","p":true},{"e":"豆撒き"},{"e":"豆蒔き"}],"r_ele":[{"r":"まめまき","p":true}],"sense":[{"gloss":"sowing beans (or pulses, etc.)","pos":["n","vs"]},{"gloss":"scattering parched beans (to drive out evil spirits)","pos":["n","vs"],"x":["節分・1"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総論","p":true}],"r_ele":[{"r":"そうろん","p":true}],"sense":[{"gloss":"general remarks","pos":["n"],"x":["各論"]}]},"sdata":[{"j":"↑提案↑↓ていあん↓された↑行動↑↓こうどう↓に↑対↑↓たい↓するおきまりの↑時↑↓とき↓↑期↑↓き↓↑尚早↑↓しょう|そう↓↑論↑↓ろん|↓。","e":"The familiar argument against a proposed action that it is premature."}]}

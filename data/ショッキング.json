@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ショッキング","p":true}],"sense":[{"gloss":"shocking","pos":["adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑息子↑↓むすこ↓が↑死↑↓し↓んだという↑知↑↓し↓らせは、とても|ショッキング|だった。","e":"The news of his son's death was a great shock."}]}

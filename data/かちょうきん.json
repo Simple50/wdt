@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"課徴金","p":true}],"r_ele":[{"r":"かちょうきん","p":true}],"sense":[{"gloss":"charges (i.e. fees)","pos":["n"]}]},"sdata":[]}

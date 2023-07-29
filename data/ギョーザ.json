@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"餃子","p":true}],"r_ele":[{"r":"ギョーザ","p":true},{"r":"ぎょうざ"},{"r":"ギョウザ"},{"r":"チャオズ"}],"sense":[{"gloss":"crescent-shaped pan-fried dumplings stuffed with minced pork and vegetables, gyoza, pot sticker","pos":["n"],"f":["food"],"l":"chi: jiǎozi"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地方公務員","p":true}],"r_ele":[{"r":"ちほうこうむいん","p":true}],"sense":[{"gloss":"local government employee, local civil servant","pos":["n"]}]},"sdata":[]}

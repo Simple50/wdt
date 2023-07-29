@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フュージョン","p":true},{"r":"ヒュージョン","i":["ik"]}],"sense":[{"gloss":"fusion","pos":["n"]}]},"sdata":[]}

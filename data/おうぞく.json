@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"王族","p":true}],"r_ele":[{"r":"おうぞく","p":true}],"sense":[{"gloss":"royalty","pos":["n","adj-no"]}]},"sdata":[]}

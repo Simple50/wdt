@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高機能","p":true}],"r_ele":[{"r":"こうきのう","p":true}],"sense":[{"gloss":"high-functioning, high-performance, sophisticated","pos":["adj-no","adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち合わせる","p":true},{"e":"打ち合せる"},{"e":"打合せる"},{"e":"打合わせる"}],"r_ele":[{"r":"うちあわせる","p":true}],"sense":[{"gloss":"to knock together, to strike against each other","pos":["v1","vt"]},{"gloss":"to arrange (e.g. a meeting), to discuss (in advance)","pos":["v1","vt"]}]},"sdata":[]}

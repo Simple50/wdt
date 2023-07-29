@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り留める","p":true},{"e":"取留める"},{"e":"取りとめる"}],"r_ele":[{"r":"とりとめる","p":true}],"sense":[{"gloss":"to narrowly escape (e.g. death), to hang onto (life)","pos":["v1","vt"],"x":["一命を取り留める"]},{"gloss":"to ascertain, to make definite","pos":["v1","vt"],"m":["arch"]}]},"sdata":[]}

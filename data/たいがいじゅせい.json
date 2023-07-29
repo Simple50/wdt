@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"体外受精","p":true},{"e":"体外授精","i":["iK"]}],"r_ele":[{"r":"たいがいじゅせい","p":true}],"sense":[{"gloss":"in vitro fertilization, in vitro fertilisation, IVF","pos":["n"],"f":["med"]}]},"sdata":[]}

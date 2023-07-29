@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陰り","p":true},{"e":"翳り"}],"r_ele":[{"r":"かげり","p":true}],"sense":[{"gloss":"shadow (e.g. on someone's happiness), cloud, shade, gloom","pos":["n"]}]},"kdata":{"陰":{"on":["イン"],"kun":["かげ","かげ.る"],"jlpt":1,"meanings":["shade","yin","negative","sex organs","secret","shadow"],"freq":1393,"comp":[["侌","阝"]],"d":["蔭","廕","癊"],"t":1410}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"花冷え","p":true}],"r_ele":[{"r":"はなびえ","p":true}],"sense":[{"gloss":"chilly spring weather","pos":["n"]}]},"sdata":[]}

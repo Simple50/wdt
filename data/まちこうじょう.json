@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"町工場","p":true}],"r_ele":[{"r":"まちこうば"},{"r":"まちこうじょう","p":true}],"sense":[{"gloss":"small factory in town, (small) backstreet workshop","pos":["n"]}]},"sdata":[]}

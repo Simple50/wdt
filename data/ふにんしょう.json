@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不妊症","p":true}],"r_ele":[{"r":"ふにんしょう","p":true}],"sense":[{"gloss":"infertility, sterility, barrenness","pos":["n"]}]},"sdata":[{"j":"↑不妊症↑↓|ふにんしょう|↓です。","e":"I'm sterile."},{"j":"↑女性↑↓じょせい↓ホルモン↑分泌↑↓ぶんぴつ↓の↑乱↑↓みだ↓れが↑不妊症↑↓|ふにんしょう|↓の↑大↑↓おお↓きな↑原因↑↓げんいん↓です。","e":"Female hormone imbalance is a major cause of infertility."}]}

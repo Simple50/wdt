@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"表面積","p":true}],"r_ele":[{"r":"ひょうめんせき","p":true}],"sense":[{"gloss":"surface area","pos":["n"]}]},"sdata":[{"j":"↑地球↑↓ちきゅう↓の↑表面積↑↓|ひょうめんせき|↓の↑３↑↓さん↓↑分↑↓ぶん↓の↑２↑↓に↓は↑水↑↓みず↓でおおわれている。","e":"Two-thirds of the earth's surface is covered with water."}]}

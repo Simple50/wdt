@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"濃淡","p":true}],"r_ele":[{"r":"のうたん","p":true}],"sense":[{"gloss":"light and shade, shade (of colour, color)","pos":["n"]},{"gloss":"depth (of flavor), complexity, strength and weakness (of flavor)","pos":["n"]}]},"sdata":[{"j":"↑天皇誕生日↑↓てん|のうたん|じょうび↓が↑日曜日↑↓にちようび↓と↑重↑↓かさ↓なった。","e":"The Emperor's Birthday fell on Sunday."}]}

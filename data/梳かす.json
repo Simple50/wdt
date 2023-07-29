@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"梳かす","p":true},{"e":"解かす"}],"r_ele":[{"r":"とかす","p":true}],"sense":[{"gloss":"to comb out, to brush, to untangle, to unravel","pos":["v5s","vt"]}],"m":["uk"]},"kdata":{"梳":{"on":["ソ"],"kun":["と.く","と.かす","す.く","けず.る","くしけず.る"],"meanings":["comb (hair)"],"comp":[["木","㐬"]],"freq":4597}},"sdata":[]}

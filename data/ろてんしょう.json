@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"露天商","p":true}],"r_ele":[{"r":"ろてんしょう","p":true}],"sense":[{"gloss":"street vendor, stallholder, stallkeeper","pos":["n"]}]},"sdata":[]}

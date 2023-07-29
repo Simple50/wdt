@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"反射鏡","p":true}],"r_ele":[{"r":"はんしゃきょう","p":true}],"sense":[{"gloss":"reflector","pos":["n"]}]},"sdata":[]}

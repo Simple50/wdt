@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"洋酒","p":true}],"r_ele":[{"r":"ようしゅ","p":true}],"sense":[{"gloss":"Western wine and spirits, Western liquor","pos":["n"]}]},"sdata":[]}

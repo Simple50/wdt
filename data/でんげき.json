@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電撃","p":true}],"r_ele":[{"r":"でんげき","p":true}],"sense":[{"gloss":"electric shock","pos":["n"]},{"gloss":"blitz, lightning attack","pos":["n","adj-f"]},{"gloss":"sudden and without warning, shocking","pos":["adj-f"]}]},"sdata":[{"j":"そのショーは↑電撃↑↓|でんげき|↓↑的↑↓てき↓ヒットだった。","e":"The show was an electrifying hit."}]}

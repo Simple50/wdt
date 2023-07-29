@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"在勤","p":true}],"r_ele":[{"r":"ざいきん","p":true}],"sense":[{"gloss":"(while) working in or at or for","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑大阪↑↓おおさか↓↑支店↑↓してん↓に↑在勤↑↓|ざいきん|↓↑中↑↓ちゅう↓にはいろいろお↑世話↑↓せわ↓になりました。","e":"Thank you very much for everything while working for the Osaka branch."}]}

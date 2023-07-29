@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノーサイド","p":true},{"r":"ノー・サイド"}],"sense":[{"gloss":"no side (rugby), full time, end of game","pos":["n"],"f":["sports"]},{"gloss":"post-fight mutual praise, reconciling","pos":["n"],"m":["rare"]}]},"sdata":[]}

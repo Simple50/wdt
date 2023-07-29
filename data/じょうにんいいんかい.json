@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"常任委員会","p":true}],"r_ele":[{"r":"じょうにんいいんかい","p":true}],"sense":[{"gloss":"standing committee","pos":["n"]}]},"sdata":[]}

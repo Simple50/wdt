@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"命拾い","p":true}],"r_ele":[{"r":"いのちびろい","p":true}],"sense":[{"gloss":"narrow escape from death","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑避難↑↓ひなん↓↑民↑↓みん↓はやっと↑命拾↑↓|いのちびろ↓い|をした。","e":"The refugees barely escaped death."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"岩塩","p":true}],"r_ele":[{"r":"がんえん","p":true},{"r":"いわしお"}],"sense":[{"gloss":"halite, rock salt","pos":["n"]}]},"kdata":{"岩":{"on":["ガン"],"kun":["いわ"],"jlpt":2,"meanings":["boulder","rock","cliff"],"freq":787,"comp":[["山","石"]],"t":488},"塩":{"on":["エン"],"kun":["しお"],"jlpt":2,"meanings":["salt"],"freq":1148,"comp":[["𠂉","口","皿","土"]],"t":1698}},"sdata":[]}

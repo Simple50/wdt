@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"養老院","p":true}],"r_ele":[{"r":"ようろういん","p":true}],"sense":[{"gloss":"home for the aged, old people's home","pos":["n"]}]},"sdata":[]}

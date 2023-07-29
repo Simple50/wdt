@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"贋作","p":true}],"r_ele":[{"r":"がんさく","p":true}],"sense":[{"gloss":"fake (work), counterfeit","pos":["n","vs","vt"]}]},"sdata":[]}

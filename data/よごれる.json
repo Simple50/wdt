@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"汚れる","p":true}],"r_ele":[{"r":"よごれる","p":true}],"sense":[{"gloss":"to get dirty, to become dirty","pos":["v1","vi"]},{"gloss":"to become sullied, to become corrupted, to lose one's chastity","pos":["v1","vi"],"x":["汚れる・けがれる"]}]},"sdata":[{"j":"↑服↑↓ふく↓が↑汚↑↓|よご↓れる|のは↑嫌↑↓いや↓だな。","e":"I don't want to get my clothes dirty."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘディング","p":true},{"r":"ヘッディング"}],"sense":[{"gloss":"heading (of a document, article, etc.)","pos":["n"]},{"gloss":"header (in soccer), heading (the ball)","pos":["n","vs","vt"],"f":["sports"]},{"gloss":"headbutt (in boxing)","pos":["n"],"f":["sports"],"x":["バッティング・1"]}]},"sdata":[]}

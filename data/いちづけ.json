@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"位置付け","p":true},{"e":"位置づけ"}],"r_ele":[{"r":"いちづけ","p":true},{"r":"いちつけ"}],"sense":[{"gloss":"placement, fixed position, mapping out, location","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱売","p":true}],"r_ele":[{"r":"らんばい","p":true}],"sense":[{"gloss":"underselling, panic selling","pos":["n","vs","vt"]}]},"sdata":[]}

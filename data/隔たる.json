@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隔たる","p":true},{"e":"距たる"}],"r_ele":[{"r":"へだたる","p":true}],"sense":[{"gloss":"to be distant","pos":["v5r","vi"]}]},"kdata":{"隔":{"on":["カク"],"kun":["へだ.てる","へだ.たる"],"jlpt":1,"meanings":["isolate","alternate","distance","separate","gulf"],"freq":1382,"comp":[["鬲","阝"]],"t":1813}},"sdata":[]}

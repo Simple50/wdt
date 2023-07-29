@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"論客","p":true}],"r_ele":[{"r":"ろんきゃく","p":true},{"r":"ろんかく"}],"sense":[{"gloss":"controversialist, polemic, disputant","pos":["n"]}]},"sdata":[]}

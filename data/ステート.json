@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ステート","p":true},{"r":"ステイト"}],"sense":[{"gloss":"state","pos":["n"]}]},"sdata":[{"j":"エンパイア|ステート|ビルの↑高↑↓たか↓さはどのくらいですか。","e":"What's the height of the Empire State Building?"}]}

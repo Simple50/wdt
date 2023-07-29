@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砲撃","p":true}],"r_ele":[{"r":"ほうげき","p":true}],"sense":[{"gloss":"bombarding, shelling, bombardment","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑砲撃↑↓|ほうげき|↓はますます↑激↑↓はげ↓しくなってきたので、↑私↑↓わたし↓たち、↑走↑↓はし↓って↑地下↑↓ちか↓↑室↑↓しつ↓に↑降↑↓お↓りていったのよ。","e":"The gunfire was getting worse, so we ran down to our cellar."}]}

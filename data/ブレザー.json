@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブレザー","p":true}],"sense":[{"gloss":"blazer","pos":["n"]}]},"sdata":[{"j":"この|ブレザー|にあうブラウスがほしいのですが。","e":"I would like to get a blouse to go with this blazer."}]}

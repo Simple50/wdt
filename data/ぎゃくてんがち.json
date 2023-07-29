@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逆転勝ち","p":true}],"r_ele":[{"r":"ぎゃくてんがち","p":true}],"sense":[{"gloss":"winning after defeat seems certain, coming from behind to win","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"すぐ側","p":true},{"e":"直ぐそば"},{"e":"直ぐ側"}],"r_ele":[{"r":"すぐそば","p":true}],"sense":[{"gloss":"right beside, close to, nearby","pos":["n"]}],"m":["uk"]},"kdata":{"側":{"on":["ソク"],"kun":["かわ","がわ","そば"],"jlpt":3,"meanings":["side","lean","oppose","regret"],"freq":216,"comp":[["亻","則"]],"t":1234}},"sdata":[]}

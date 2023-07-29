@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"借地","p":true}],"r_ele":[{"r":"しゃくち","p":true}],"sense":[{"gloss":"leased land","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"トムは↑保釈↑↓ほ|しゃく↓↑中↑↓ち|ゅう↓に↑行方↑↓ゆくえ↓をくらました。","e":"Tom jumped bail."},{"j":"トムは↑保釈↑↓ほ|しゃく↓↑中↑↓ち|ゅう↓に↑逃亡↑↓とうぼう↓しました。","e":"Tom jumped bail."}]}

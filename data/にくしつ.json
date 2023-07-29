@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肉質","p":true}],"r_ele":[{"r":"にくしつ","p":true}],"sense":[{"gloss":"fleshiness","pos":["n","adj-no"]},{"gloss":"meat quality","pos":["n"]}]},"sdata":[]}

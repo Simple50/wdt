@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラワン","p":true}],"sense":[{"gloss":"lauan (tree, wood)","pos":["n"],"l":"tgl: lawaan"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍港","p":true}],"r_ele":[{"r":"ぐんこう","p":true}],"sense":[{"gloss":"naval port, naval station","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"参政権","p":true}],"r_ele":[{"r":"さんせいけん","p":true}],"sense":[{"gloss":"suffrage, franchise","pos":["n"]}]},"sdata":[{"j":"↑婦人↑↓ふじん↓↑参政↑↓|さんせい↓↑権↑↓けん|↓を↑認↑↓みと↓めるように↑憲法↑↓けんぽう↓が↑修正↑↓しゅうせい↓された。","e":"The constitution was amended so that women could vote."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"郵政省","p":true}],"r_ele":[{"r":"ゆうせいしょう","p":true}],"sense":[{"gloss":"(former) Ministry of Posts and Telecommunications (now Ministry of Internal Affairs and Communications)","pos":["n"],"x":["総務省"]}]},"sdata":[]}

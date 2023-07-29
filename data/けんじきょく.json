@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"検事局","p":true}],"r_ele":[{"r":"けんじきょく","p":true}],"sense":[{"gloss":"prosecutor's office","pos":["n"]}]},"sdata":[]}

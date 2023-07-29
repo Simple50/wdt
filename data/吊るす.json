@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吊るす","p":true},{"e":"吊す"}],"r_ele":[{"r":"つるす","p":true}],"sense":[{"gloss":"to hang, to hang up","pos":["v5s","vt"]}]},"kdata":{"吊":{"on":["チョウ"],"kun":["つ.る","つる.す"],"meanings":["suspend","hang","wear (sword)"],"freq":2475,"comp":[["口","巾"]],"jlpt":-1,"t":416}},"sdata":[]}

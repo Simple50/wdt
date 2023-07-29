@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"純度","p":true}],"r_ele":[{"r":"じゅんど","p":true}],"sense":[{"gloss":"purity (of a substance)","pos":["n"]}]},"sdata":[]}

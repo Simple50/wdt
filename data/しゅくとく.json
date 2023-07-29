@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"淑徳","p":true}],"r_ele":[{"r":"しゅくとく","p":true}],"sense":[{"gloss":"womanly virtues","pos":["n"]}]},"sdata":[]}

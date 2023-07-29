@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンファンテリブル","p":true},{"r":"アンファン・テリブル"}],"sense":[{"gloss":"enfant terrible","pos":["n"],"l":"fre"}]},"sdata":[]}

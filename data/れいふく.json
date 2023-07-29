@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"礼服","p":true}],"r_ele":[{"r":"れいふく","p":true}],"sense":[{"gloss":"formal dress, ceremonial dress, morning dress, evening dress, dress suit","pos":["n"],"x":["平服"]}]},"sdata":[{"j":"↑将軍↑↓しょうぐん↓は↑礼服↑↓|れいふく|↓を↑着↑↓き↓てひときわ↑目立↑↓めだ↓っていた。","e":"The general cut a distinguished figure in his dress uniform."}]}

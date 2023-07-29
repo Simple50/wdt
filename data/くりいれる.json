@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"繰り入れる","p":true},{"e":"繰入れる"}],"r_ele":[{"r":"くりいれる","p":true}],"sense":[{"gloss":"to transfer (esp. money in), to add (esp. money to an account)","pos":["v1","vt"]},{"gloss":"to reel in (e.g. net, fishing line)","pos":["v1","vt"]}]},"sdata":[]}

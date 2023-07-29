@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フリースタイル","p":true}],"sense":[{"gloss":"freestyle","pos":["n"]}]},"sdata":[]}

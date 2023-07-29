@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"録音機","p":true}],"r_ele":[{"r":"ろくおんき","p":true}],"sense":[{"gloss":"sound recorder, tape recorder","pos":["n"]}]},"sdata":[]}

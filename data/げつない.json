@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"月内","p":true}],"r_ele":[{"r":"げつない","p":true}],"sense":[{"gloss":"by the end of this month","pos":["n"]}]},"sdata":[{"j":"あの↑映画↑↓えいが↓はえ|げつない|。","e":"That movie's downright dirty."},{"j":"え|げつない|やり↑方↑↓かた↓だったな。","e":"It was a nasty trick."}]}

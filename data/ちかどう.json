@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地下道","p":true}],"r_ele":[{"r":"ちかどう","p":true}],"sense":[{"gloss":"subterranean tunnel","pos":["n"]}]},"sdata":[{"j":"↑金持↑↓かねも↓|ちかどう|かどうでもいいって！","e":"I don't care whether he is rich or not!"},{"j":"↑同↑↓おな↓じ↑気持↑↓きも↓|ちかどう|かトムに↑聞↑↓き↓いてみたい。","e":"I'd like to ask Tom if he feels the same way."}]}

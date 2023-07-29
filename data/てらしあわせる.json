@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"照らし合わせる","p":true}],"r_ele":[{"r":"てらしあわせる","p":true}],"sense":[{"gloss":"to check, to compare","pos":["v1"]}]},"sdata":[]}

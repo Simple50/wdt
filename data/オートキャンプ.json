@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オートキャンプ","p":true}],"sense":[{"gloss":"caravanning, motor home camping","pos":["n"],"l":"eng: autocamp"}]},"sdata":[]}

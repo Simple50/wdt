@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変節","p":true}],"r_ele":[{"r":"へんせつ","p":true}],"sense":[{"gloss":"betrayal, defection, treachery, apostasy","pos":["n","vs","vi"]}]},"sdata":[]}

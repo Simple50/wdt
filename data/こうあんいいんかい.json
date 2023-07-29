@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公安委員会","p":true}],"r_ele":[{"r":"こうあんいいんかい","p":true}],"sense":[{"gloss":"public safety commission","pos":["n"]}]},"sdata":[]}

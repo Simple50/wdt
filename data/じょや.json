@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"除夜","p":true}],"r_ele":[{"r":"じょや","p":true}],"sense":[{"gloss":"New Year's Eve","pos":["n"]}]},"sdata":[{"j":"↑除夜↑↓|じょや|↓の↑爆竹↑↓ばくちく↓は、↑結婚式↑↓けっこんしき↓の↑爆竹↑↓ばくちく↓のようである。","e":"The firecrackers for New Year's Eve are similar to the firecrackers for weddings."}]}

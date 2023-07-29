@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最新情報","p":true}],"r_ele":[{"r":"さいしんじょうほう","p":true}],"sense":[{"gloss":"the latest information","pos":["n"]}]},"sdata":[{"j":"↑故郷↑↓こきょう↓の↑最新↑↓|さいしん↓↑情報↑↓じょうほう|↓を↑教↑↓おし↓えてあげましょう。","e":"I'll bring you up to date with hometown news."}]}

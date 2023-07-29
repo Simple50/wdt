@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"渇水","p":true}],"r_ele":[{"r":"かっすい","p":true}],"sense":[{"gloss":"water shortage","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑今↑↓いま↓↑雨↑↓あめ↓が↑降↑↓ふ↓らないと、↑渇水↑↓|かっすい|↓しちゃうよ。","e":"If it doesn't rain now, there'll be a drought."},{"j":"↑近↑↓ちか↓いうちに↑雨↑↓あめ↓が↑降↑↓ふ↓らないと、↑渇水↑↓|かっすい|↓しちゃうよ。","e":"If it doesn't rain soon, there will be a drought."}]}

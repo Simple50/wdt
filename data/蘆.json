@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"葦","p":true},{"e":"蘆","p":true},{"e":"葭"},{"e":"芦"}],"r_ele":[{"r":"あし","p":true},{"r":"よし"},{"r":"アシ"},{"r":"ヨシ"}],"sense":[{"gloss":"common reed (Phragmites australis)","pos":["n","adj-no"]}],"m":["uk"]},"kdata":{"蘆":{"on":["ロ"],"kun":["あし","よし"],"meanings":["reed","rush"],"comp":[["盧","艹"]],"jlpt":-1,"freq":2811}},"sdata":[]}

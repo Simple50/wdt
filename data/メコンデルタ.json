@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メコンデルタ","p":true},{"r":"メコン・デルタ"}],"sense":[{"gloss":"Mekong delta","pos":["n"]}]},"sdata":[]}

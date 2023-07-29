@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エメラルド","p":true}],"sense":[{"gloss":"emerald","pos":["n"]}]},"sdata":[{"j":"ドロシーたちは|エメラルド|の↑都↑↓と↓を↑目指↑↓めざ↓して↑旅↑↓たび↓を↑続↑↓つづ↓けた。","e":"Dorothy and her friends continued their journey heading for Emerald city."}]}

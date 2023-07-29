@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"収蔵","p":true}],"r_ele":[{"r":"しゅうぞう","p":true}],"sense":[{"gloss":"garnering, collection","pos":["n","vs","vt"]}]},"sdata":[{"j":"「↑調子↑↓ちょうし↓はどう？」「↑絶好調↑↓ぜっこうちょう↓だよ。↑着実↑↓ちゃくじつ↓に↑増収↑↓ぞう|しゅう↓↑増益↑↓ぞう|えき↓を↑続↑↓つづ↓けているよ」","e":"How are things going? \"Terrific. Income and profit are continuing to rise steadily.\""}]}

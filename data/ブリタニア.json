@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブリタニア","p":true}],"sense":[{"gloss":"Britannia","pos":["n"]}]},"sdata":[]}

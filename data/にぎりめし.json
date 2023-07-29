@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"握り飯","p":true},{"e":"握飯","i":["io"]}],"r_ele":[{"r":"にぎりめし","p":true}],"sense":[{"gloss":"rice ball","pos":["n"]}]},"sdata":[]}

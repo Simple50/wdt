@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"途切れる","p":true},{"e":"跡切れる"}],"r_ele":[{"r":"とぎれる","p":true}],"sense":[{"gloss":"to break off, to come to an end, to be interrupted, to be cut short, to pause","pos":["v1","vi"]}]},"sdata":[{"j":"↑雨↑↓あめ↓は↑途切↑↓|とぎ↓れる|ことなく↑一↑↓いち↓↑日↑↓にち↓↑中↑↓ちゅう↓ふりつづいた。","e":"It was raining all day long without intermission."}]}

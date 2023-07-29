@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"画一","p":true},{"e":"劃一"}],"r_ele":[{"r":"かくいつ","p":true}],"sense":[{"gloss":"uniformity, standardization, standardisation","pos":["n","adj-na"]}]},"sdata":[]}

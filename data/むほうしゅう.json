@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無報酬","p":true}],"r_ele":[{"r":"むほうしゅう","p":true}],"sense":[{"gloss":"unpaid, without pay, gratuitous, voluntary","pos":["n","adj-no"]}]},"sdata":[]}

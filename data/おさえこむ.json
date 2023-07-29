@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押さえ込む","p":true},{"e":"押え込む"},{"e":"押さえこむ"}],"r_ele":[{"r":"おさえこむ","p":true}],"sense":[{"gloss":"to pin down, to immobilize, to immobilise, to control, to suppress","pos":["v5m","vt"]}]},"sdata":[]}

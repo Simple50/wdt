@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目配り","p":true}],"r_ele":[{"r":"めくばり","p":true}],"sense":[{"gloss":"being watchful, keeping watch, keeping an eye open","pos":["n","vs","vi"]}]},"sdata":[]}

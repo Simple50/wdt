@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"丸出し","p":true},{"e":"丸だし","i":["sK"]},{"e":"まる出し","i":["sK"]}],"r_ele":[{"r":"まるだし","p":true}],"sense":[{"gloss":"(fully) exposed, bare, uncovered, in full view, undisguised, broad (accent)","pos":["adj-no","n"]}]},"sdata":[{"j":"すこし↑落↑↓お↓ち↑着↑↓つ↓け↑吉祥↑↓きっしょう↓、おのぼりさん↑丸出↑↓|まるだ↓し|だぞ。","e":"Calm down a little, Kissho, your bumpkin nature is standing out!"}]}

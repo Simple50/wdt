@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り貼り"},{"e":"切り張り","p":true},{"e":"切貼り"},{"e":"切張り"},{"e":"切貼","i":["io"]}],"r_ele":[{"r":"きりばり","p":true}],"sense":[{"gloss":"patching (up), cutting a part and pasting a new one (e.g. a shoji door)","pos":["n","vs","vt"]},{"gloss":"cut and paste","pos":["n","vs","vt"],"f":["comp"]}]},"sdata":[]}

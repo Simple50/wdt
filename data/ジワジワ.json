@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジワジワ","p":true},{"r":"じわじわ"}],"sense":[{"gloss":"slowly (but steadily), gradually, bit-by-bit","pos":["adv","adv-to"]},{"gloss":"slowly soaking in, slowly permeating, oozing out, seeping out","pos":["adv","adv-to"]}],"m":["on-mim"]},"sdata":[]}

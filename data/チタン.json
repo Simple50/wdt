@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チタン","p":true}],"sense":[{"gloss":"titanium (Ti)","pos":["n"],"l":"ger: Titan"}]},"sdata":[{"j":"この↑手作↑↓てづく↓りのイタリア↑製↑↓せい↓|チタン|↑自転車↑↓じてんしゃ↓は、↑恐↑↓おそ↓ろしく↑軽↑↓かる↓い。","e":"This handmade Italian-made titanium bicycle is terribly light."},{"j":"↑広辞苑↑↓こうじえん↓は|チタン|の↑入↑↓はい↓っている↑紙↑↓かみ↓を↑使↑↓つか↓います。","e":"Kojien uses a paper that contains titanium."}]}

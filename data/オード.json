@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オード","p":true}],"sense":[{"gloss":"ode","pos":["n"]}]},"sdata":[{"j":"↑妻↑↓つま↓は↑魚↑↓さかな↓の|オード|ブルが↑好↑↓す↓きだからね、↑釣↑↓つ↓りに↑出掛↑↓でか↓けるときはお↑許↑↓ゆる↓しが↑出↑↓で↓やすいんだよね。","e":"My wife loves fish hors d'oeuvre, so it's easier for me to get a kitchen pass for my fishing."}]}

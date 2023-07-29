@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刺し殺す","p":true}],"r_ele":[{"r":"さしころす","p":true}],"sense":[{"gloss":"to stab to death","pos":["v5s","vt"]}]},"sdata":[]}

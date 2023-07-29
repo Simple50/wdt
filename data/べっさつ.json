@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別冊","p":true},{"e":"別册","i":["oK"]}],"r_ele":[{"r":"べっさつ","p":true}],"sense":[{"gloss":"separate volume, extra issue, supplement, additional volume, supplementary volume","pos":["n"]}]},"sdata":[]}

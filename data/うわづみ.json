@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上積み","p":true}],"r_ele":[{"r":"うわづみ","p":true}],"sense":[{"gloss":"loading on top, piling on top, upper load, goods loaded on top, deck cargo","pos":["n","vs","vt"]},{"gloss":"adding (to), increase (in quantity), additional amount","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゾーン","p":true},{"r":"ゾウン"}],"sense":[{"gloss":"zone","pos":["n"]}]},"sdata":[{"j":"ロシアには↑１１↑↓じゅういっ↓↑個↑↓こ↓のタイム|ゾーン|があります。","e":"Russia has eleven time zones."}]}

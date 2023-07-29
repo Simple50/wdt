@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"妙薬","p":true}],"r_ele":[{"r":"みょうやく","p":true}],"sense":[{"gloss":"wonder drug, miracle cure, elixir","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"握り締める","p":true},{"e":"握り緊める"},{"e":"握りしめる"}],"r_ele":[{"r":"にぎりしめる","p":true}],"sense":[{"gloss":"to grasp tightly","pos":["v1","vt"]}]},"sdata":[{"j":"↑競馬↑↓けいば↓の↑騎手↑↓きしゅ↓は、レースが↑始↑↓はじ↓まる↑前↑↓まえ↓、はやる↑馬↑↓うま↓を↑抑↑↓おさ↓えて、↑手綱↑↓たづな↓を↑握↑↓|にぎ↓りしめる|。","e":"Before the horse race begins, the jockeys grip the reins tightly to restrain the impatient horses."}]}

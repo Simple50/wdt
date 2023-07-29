@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"移動性高気圧","p":true}],"r_ele":[{"r":"いどうせいこうきあつ","p":true}],"sense":[{"gloss":"migratory anticyclone","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見過ごす","p":true},{"e":"見過す"}],"r_ele":[{"r":"みすごす","p":true}],"sense":[{"gloss":"to let go by, to let pass, to overlook, to miss","pos":["v5s","vt"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓はその↑問題↑↓もんだい↓を↑黙↑↓だま↓って↑見過↑↓|みす↓ごす|わけにはいかない。","e":"I cannot silently overlook this problem."}]}

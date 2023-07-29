@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"古墳","p":true}],"r_ele":[{"r":"こふん","p":true}],"sense":[{"gloss":"ancient burial mound, barrow, tumulus","pos":["n"]}],"m":["hist"]},"sdata":[{"j":"↑高↑↓こう↓↑松塚↑↓まつづか↓↑古墳↑↓|こふん|↓は、↑奈良↑↓なら↓↑県↑↓けん↓↑明日香↑↓あすか↓↑村↑↓むら↓に↑存在↑↓そんざい↓する↑古墳↑↓|こふん|↓。","e":"The Takamatuzuka burial mound is located in Nara prefecture, Asukamura."}]}

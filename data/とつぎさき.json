@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"嫁ぎ先","p":true}],"r_ele":[{"r":"とつぎさき","p":true}],"sense":[{"gloss":"family a woman has married into","pos":["n"]}]},"sdata":[]}

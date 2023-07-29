@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小気味良い","p":true},{"e":"小気味よい"},{"e":"小気味いい"},{"e":"小気味好い"}],"r_ele":[{"r":"こきみよい","p":true},{"r":"こきみいい"}],"sense":[{"gloss":"delightful, satisfying, gratifying, brisk, piquant","pos":["adj-ix"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隣席","p":true}],"r_ele":[{"r":"りんせき","p":true}],"sense":[{"gloss":"next seat, adjacent seat","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"郵便切手","p":true}],"r_ele":[{"r":"ゆうびんきって","p":true}],"sense":[{"gloss":"postage stamp","pos":["n"]}]},"sdata":[{"j":"デイモンは↑私↑↓わたし↓に↑郵便↑↓|ゆうびん↓↑切手↑↓きって|↓のアルバムを↑見↑↓み↓せてくれた。","e":"Damon showed me his stamp album."}]}

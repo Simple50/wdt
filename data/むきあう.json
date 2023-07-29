@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"向き合う","p":true},{"e":"向きあう"}],"r_ele":[{"r":"むきあう","p":true}],"sense":[{"gloss":"to be opposite, to face each other","pos":["v5u","vi"]},{"gloss":"to confront (an issue), to face","pos":["v5u","vi"]}]},"sdata":[]}

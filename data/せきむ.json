@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"責務","p":true}],"r_ele":[{"r":"せきむ","p":true}],"sense":[{"gloss":"duty, obligation","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓はあなたが↑新↑↓あたら↓しい↑責務↑↓|せきむ|↓をうまくこなせるよう↑願↑↓ねが↓っています。","e":"I wish you good luck with your new responsibilities."},{"j":"↑彼↑↓かれ↓はついに↑責務↑↓|せきむ|↓を↑果↑↓は↓たした。","e":"He performed duty at last."}]}

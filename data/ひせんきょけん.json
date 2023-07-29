@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"被選挙権","p":true}],"r_ele":[{"r":"ひせんきょけん","p":true}],"sense":[{"gloss":"eligibility for election","pos":["n"]}]},"sdata":[]}

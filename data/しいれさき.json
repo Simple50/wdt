@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仕入れ先","p":true},{"e":"仕入先","i":["io"]}],"r_ele":[{"r":"しいれさき","p":true}],"sense":[{"gloss":"supplier","pos":["n"]}]},"sdata":[]}

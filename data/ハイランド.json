@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイランド","p":true}],"sense":[{"gloss":"highland","pos":["n"]}]},"sdata":[]}

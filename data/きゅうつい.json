@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"急追","p":true}],"r_ele":[{"r":"きゅうつい","p":true}],"sense":[{"gloss":"(being in) hot pursuit","pos":["n","vs","vt"]}]},"sdata":[]}

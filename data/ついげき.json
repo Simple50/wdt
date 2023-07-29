@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追撃","p":true}],"r_ele":[{"r":"ついげき","p":true}],"sense":[{"gloss":"pursuit (of a fleeing enemy), chase","pos":["n","vs","vt"]}]},"sdata":[]}

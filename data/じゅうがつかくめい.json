@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"十月革命","p":true}],"r_ele":[{"r":"じゅうがつかくめい","p":true}],"sense":[{"gloss":"October Revolution","pos":["n"]}],"m":["hist"]},"sdata":[]}

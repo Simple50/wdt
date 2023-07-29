@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ユニフォーム","p":true},{"r":"ユニホーム","p":true}],"sense":[{"gloss":"uniform","pos":["n"]}]},"sdata":[]}

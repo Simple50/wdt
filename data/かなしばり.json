@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金縛り","p":true}],"r_ele":[{"r":"かなしばり","p":true}],"sense":[{"gloss":"binding hand and foot, temporary feeling of paralysis, sleep paralysis","pos":["n"]},{"gloss":"being tied down with money","pos":["n"],"m":["col"]}]},"sdata":[{"j":"↑吸血鬼↑↓きゅうけつき↓は↑睨↑↓にら↓むだけで↑人↑↓ひと↓を↑金縛↑↓|かなしば↓り|にする。","e":"A vampire can paralyze people just by looking at them."}]}

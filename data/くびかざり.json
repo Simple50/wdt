@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"首飾り","p":true},{"e":"頸飾り"},{"e":"頚飾り"}],"r_ele":[{"r":"くびかざり","p":true}],"sense":[{"gloss":"necklace, choker","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑高価↑↓こうか↓な↑首飾↑↓|くびかざ↓り|をしています。","e":"She is wearing an expensive necklace."}]}

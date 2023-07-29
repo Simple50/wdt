@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し立てる","p":true},{"e":"押したてる"},{"e":"押立てる"},{"e":"推し立てる"}],"r_ele":[{"r":"おしたてる","p":true}],"sense":[{"gloss":"to set up, to raise","pos":["v1","vt"]},{"gloss":"to nominate, to choose as a representative","pos":["v1","vt"]},{"gloss":"to push, to shove","pos":["v1","vt"]}]},"sdata":[]}

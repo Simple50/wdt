@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直売","p":true}],"r_ele":[{"r":"ちょくばい","p":true}],"sense":[{"gloss":"direct selling, direct sales","pos":["n","vs","vt"]}]},"sdata":[]}

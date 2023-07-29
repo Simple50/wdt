@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"団長","p":true}],"r_ele":[{"r":"だんちょう","p":true}],"sense":[{"gloss":"leader of a delegation (body, party)","pos":["n"]}]},"sdata":[{"j":"アイリス、↑君↑↓きみ↓は↑普段↑↓ふ|だん↓↑朝食↑↓ちょう|しょく↓は↑何↑↓なに↓を↑食↑↓た↓べているの？","e":"Iris, what do you usually eat for breakfast?"}]}

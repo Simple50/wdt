@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"営繕","p":true}],"r_ele":[{"r":"えいぜん","p":true}],"sense":[{"gloss":"maintenance and repair, upkeep (of equipment)","pos":["n","vs","vt"]}]},"sdata":[]}

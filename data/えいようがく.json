@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"栄養学","p":true}],"r_ele":[{"r":"えいようがく","p":true}],"sense":[{"gloss":"dietetics, nutritional science","pos":["n"]}]},"sdata":[]}

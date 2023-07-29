@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"職能","p":true}],"r_ele":[{"r":"しょくのう","p":true}],"sense":[{"gloss":"occupational ability","pos":["n"]},{"gloss":"function, role","pos":["n"]}]},"sdata":[]}

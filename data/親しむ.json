@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"親しむ","p":true}],"r_ele":[{"r":"したしむ","p":true}],"sense":[{"gloss":"to be intimate with, to befriend","pos":["v5m","vi"]}]},"kdata":{"親":{"on":["シン"],"kun":["おや","おや-","した.しい","した.しむ"],"jlpt":4,"meanings":["parent","intimacy","relative","familiarity","dealer (cards)"],"freq":406,"comp":[["亲","見"]],"d":["襯","櫬","儭","嚫","寴"],"s":"新","t":2143}},"sdata":[]}

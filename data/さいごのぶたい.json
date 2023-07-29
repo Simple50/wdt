@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最後の舞台","p":true}],"r_ele":[{"r":"さいごのぶたい","p":true}],"sense":[{"gloss":"final performance, swan song, last act","pos":["exp"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らの↑最良↑↓さいりょう↓の↑瞬間↑↓しゅんかん↓は、↑最後↑↓|さいご↓の↑舞台↑↓ぶたい|↓である。","e":"Their finest moment is their last appearance on stage."}]}

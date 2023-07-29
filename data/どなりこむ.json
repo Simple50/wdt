@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"怒鳴り込む","p":true},{"e":"呶鳴り込む"}],"r_ele":[{"r":"どなりこむ","p":true}],"sense":[{"gloss":"to storm in with a yell","pos":["v5m","vi"]}]},"sdata":[]}

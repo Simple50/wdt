@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サントラ","p":true}],"sense":[{"gloss":"soundtrack","pos":["n"],"x":["サウンドトラック"]}],"m":["abbr"]},"sdata":[]}

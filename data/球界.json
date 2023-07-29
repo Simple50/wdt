@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"球界","p":true}],"r_ele":[{"r":"きゅうかい","p":true}],"sense":[{"gloss":"the baseball world","pos":["n"]}]},"kdata":{"球":{"on":["キュウ"],"kun":["たま"],"jlpt":3,"meanings":["ball","sphere"],"freq":302,"comp":[["王","求"]],"d":["毬"],"t":1332},"界":{"on":["カイ"],"jlpt":4,"meanings":["world","boundary"],"freq":158,"comp":[["介","田"]],"d":["堺"],"t":917}},"sdata":[]}

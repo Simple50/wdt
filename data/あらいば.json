@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"洗い場","p":true}],"r_ele":[{"r":"あらいば","p":true}],"sense":[{"gloss":"washing place (e.g. for laundry or tableware)","pos":["n"]},{"gloss":"place for washing oneself in a bathroom","pos":["n"]}]},"sdata":[]}

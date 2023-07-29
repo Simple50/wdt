@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立太子","p":true}],"r_ele":[{"r":"りったいし","p":true}],"sense":[{"gloss":"investiture of the Crown Prince","pos":["n"]}]},"sdata":[]}

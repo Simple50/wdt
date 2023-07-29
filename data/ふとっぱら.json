@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"太っ腹","p":true}],"r_ele":[{"r":"ふとっぱら","p":true}],"sense":[{"gloss":"generous, magnanimous, big-hearted, broad-minded, big-bellied","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

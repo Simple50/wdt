@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"膠原病","p":true}],"r_ele":[{"r":"こうげんびょう","p":true}],"sense":[{"gloss":"collagen disease","pos":["n"]}]},"sdata":[]}

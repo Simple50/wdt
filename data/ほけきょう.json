@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"法華経","p":true}],"r_ele":[{"r":"ほけきょう","p":true},{"r":"ほっけきょう"}],"sense":[{"gloss":"Lotus Sutra","pos":["n"],"f":["Buddh"],"x":["妙法蓮華経"]}],"m":["abbr"]},"sdata":[]}

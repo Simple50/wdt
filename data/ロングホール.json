@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロングホール","p":true},{"r":"ロング・ホール"}],"sense":[{"gloss":"par-five hole","pos":["n"],"f":["golf"],"l":"eng: long hole"}]},"sdata":[]}

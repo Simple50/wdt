@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニコチン","p":true}],"sense":[{"gloss":"nicotine","pos":["n"]}]},"sdata":[{"j":"|ニコチン|はヘロインと↑同様↑↓どうよう↓に↑中毒↑↓ちゅうどく↓↑性↑↓せい↓があるのですか？","e":"Is nicotine as addictive as heroin?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"汚れ役","p":true}],"r_ele":[{"r":"よごれやく","p":true}],"sense":[{"gloss":"role of a villain (film, drama, etc.), bad-guy role, social outcast role","pos":["n"]}]},"sdata":[]}

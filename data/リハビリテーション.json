@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リハビリテーション","p":true}],"sense":[{"gloss":"rehabilitation","pos":["n"]}]},"sdata":[]}

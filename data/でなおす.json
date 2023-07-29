@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出直す","p":true},{"e":"出なおす"}],"r_ele":[{"r":"でなおす","p":true}],"sense":[{"gloss":"to make a fresh start, to turn over a new leaf","pos":["v5s","vi"]},{"gloss":"to call again, to visit again, to come again","pos":["v5s","vi"]}]},"sdata":[{"j":"↑心機一転↑↓しんきいってん↓して↑出直↑↓|でなお↓す|のが↑一番↑↓いちばん↓だね。","e":"You'll have to turn over a new leaf."}]}

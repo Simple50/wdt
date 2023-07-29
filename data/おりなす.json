@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"織り成す","p":true},{"e":"織りなす"},{"e":"織成す"}],"r_ele":[{"r":"おりなす","p":true}],"sense":[{"gloss":"to interweave","pos":["v5s","vt"]}]},"sdata":[]}

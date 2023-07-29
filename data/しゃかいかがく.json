@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社会科学","p":true}],"r_ele":[{"r":"しゃかいかがく","p":true}],"sense":[{"gloss":"social science","pos":["n"]}]},"sdata":[{"j":"その↑大学↑↓だいがく↓の↑課程↑↓かてい↓は↑自然↑↓しぜん↓↑科学↑↓かがく↓と↑社会↑↓|しゃかい↓↑科学↑↓かがく|↓から↑成↑↓な↓り↑立↑↓た↓っている。","e":"That university's curriculum covers natural science and social science."}]}

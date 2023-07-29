@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大広間","p":true}],"r_ele":[{"r":"おおひろま","p":true}],"sense":[{"gloss":"main hall, great hall, large hall, reception hall","pos":["n"]}]},"sdata":[{"j":"よく↑聞↑↓き↓き↑全↑↓まった↓く↑話↑↓はな↓さぬものは↑奥↑↓おく↓の↑間↑↓ま↓でも↑大広間↑↓|おおひろま|↓でも↑歓迎↑↓かんげい↓される。","e":"He that hears much and speaks not at all shall be welcome both in bower and hall."}]}

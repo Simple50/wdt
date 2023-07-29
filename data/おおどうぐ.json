@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大道具","p":true}],"r_ele":[{"r":"おおどうぐ","p":true}],"sense":[{"gloss":"stage setting, scenery","pos":["n"]},{"gloss":"stagehand, sceneshifter","pos":["n"],"m":["abbr"],"x":["大道具方"]}]},"sdata":[]}

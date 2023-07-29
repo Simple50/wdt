@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"湾曲","p":true},{"e":"彎曲"},{"e":"弯曲"},{"e":"わん曲"}],"r_ele":[{"r":"わんきょく","p":true}],"sense":[{"gloss":"curve, bend, crook","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑城↑↓しろ↓からそのふもとをゆるやかに↑湾曲↑↓|わんきょく|↓して↑流↑↓なが↓れる↑川↑↓かわ↓↑全体↑↓ぜんたい↓が↑見↑↓み↓えました。","e":"From the castle we could see the whole curve of the river around its base."}]}

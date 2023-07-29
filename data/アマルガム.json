@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アマルガム","p":true}],"sense":[{"gloss":"amalgam","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モチーフ","p":true},{"r":"モティーフ","p":true}],"sense":[{"gloss":"motif","pos":["n"],"l":"fre"}]},"sdata":[]}

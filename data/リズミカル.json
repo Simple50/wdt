@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リズミカル","p":true}],"sense":[{"gloss":"rhythmical, well-paced","pos":["adj-na"]}]},"sdata":[{"j":"↑子供↑↓こども↓はごく↑小↑↓ちい↓さいときから|リズミカル|な↑音↑↓おと↓に↑反応↑↓はんのう↓することを↑身↑↓み↓に↑付↑↓つ↓けていく。","e":"Children learn to respond to rhythmical sounds from a very young age."}]}

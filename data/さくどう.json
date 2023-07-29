@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"策動","p":true}],"r_ele":[{"r":"さくどう","p":true}],"sense":[{"gloss":"maneuvers, manoeuvers, machinations, scheming","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑昇進↑↓しょうしん↓を↑目指↑↓めざ↓して↑策動↑↓|さくどう|↓している。","e":"He is angling for promotion."}]}

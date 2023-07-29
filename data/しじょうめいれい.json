@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"至上命令","p":true}],"r_ele":[{"r":"しじょうめいれい","p":true}],"sense":[{"gloss":"unconditional command, must-obey order","pos":["n"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エステル","p":true}],"sense":[{"gloss":"ester","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"牧畜","p":true}],"r_ele":[{"r":"ぼくちく","p":true}],"sense":[{"gloss":"stock-farming, livestock farming, cattle breeding","pos":["n"]}]},"sdata":[]}

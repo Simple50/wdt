@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"送油管","p":true}],"r_ele":[{"r":"そうゆかん","p":true}],"sense":[{"gloss":"oil pipeline","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"付録","p":true},{"e":"附録","p":true}],"r_ele":[{"r":"ふろく","p":true}],"sense":[{"gloss":"appendix, supplement, annex, extra (of a newspaper or magazine)","pos":["n"]}]},"sdata":[]}

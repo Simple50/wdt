@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミリタリールック","p":true},{"r":"ミリタリー・ルック"}],"sense":[{"gloss":"military look","pos":["n"]}]},"sdata":[]}

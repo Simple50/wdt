@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水溶性","p":true}],"r_ele":[{"r":"すいようせい","p":true}],"sense":[{"gloss":"water-soluble","pos":["adj-no","n"]}]},"sdata":[]}

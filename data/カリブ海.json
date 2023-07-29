@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"カリブ海","p":true}],"r_ele":[{"r":"カリブかい","p":true}],"sense":[{"gloss":"Caribbean Sea","pos":["n"]}]},"kdata":{"海":{"on":["カイ"],"kun":["うみ"],"jlpt":4,"meanings":["sea","ocean"],"freq":200,"comp":[["每","氵"]],"d":["塰"],"t":907}},"sdata":[{"j":"|カリブ↑海|↑↓かい↓には↑島↑↓しま↓が↑多↑↓おお↓い。","e":"The Caribbean abounds with islands."}]}

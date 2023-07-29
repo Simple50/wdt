@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レプリカ","p":true}],"sense":[{"gloss":"replica","pos":["n"]}]},"sdata":[]}

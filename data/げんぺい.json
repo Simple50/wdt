@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"源平","p":true}],"r_ele":[{"r":"げんぺい","p":true}],"sense":[{"gloss":"Genji and Heike clans, two opposing sides","pos":["n"]}]},"sdata":[]}

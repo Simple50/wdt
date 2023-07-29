@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"競り合い","p":true},{"e":"競合い"}],"r_ele":[{"r":"せりあい","p":true}],"sense":[{"gloss":"competition","pos":["n"]}]},"sdata":[]}

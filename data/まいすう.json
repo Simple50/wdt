@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枚数","p":true}],"r_ele":[{"r":"まいすう","p":true}],"sense":[{"gloss":"the number of flat things","pos":["n"]},{"gloss":"win-loss difference which influences the ranking of wrestlers","pos":["n"],"f":["sumo"]}]},"sdata":[]}

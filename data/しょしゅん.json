@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初春","p":true}],"r_ele":[{"r":"しょしゅん","p":true}],"sense":[{"gloss":"early spring, beginning of spring","pos":["n"]},{"gloss":"first month of the lunar calendar","pos":["n"]}]},"sdata":[]}

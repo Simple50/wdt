@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文民","p":true}],"r_ele":[{"r":"ぶんみん","p":true}],"sense":[{"gloss":"civilian","pos":["n","adj-no"]}]},"sdata":[{"j":"↑君↑↓きみ↓にはた|ぶんみん|なわかっていることでしょう。","e":"I expect you know all about it."}]}

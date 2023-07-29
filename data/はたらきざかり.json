@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"働き盛り","p":true},{"e":"働きざかり"}],"r_ele":[{"r":"はたらきざかり","p":true}],"sense":[{"gloss":"prime of one's working life","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑働↑↓|はたら↓き↑盛↑↓ざか↓り|だ。","e":"He is in the prime of life."},{"j":"↑彼↑↓かれ↓は↑働↑↓|はたら↓き↑盛↑↓ざか↓り|だ。","e":"He's in the prime of life."}]}

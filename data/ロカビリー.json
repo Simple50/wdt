@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロカビリー","p":true}],"sense":[{"gloss":"rockabilly","pos":["n"]}]},"sdata":[]}

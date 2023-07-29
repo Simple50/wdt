@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロッカールーム","p":true},{"r":"ロッカー・ルーム"}],"sense":[{"gloss":"locker room","pos":["n"]}]},"sdata":[]}

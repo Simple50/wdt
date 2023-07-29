@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"輪転機","p":true}],"r_ele":[{"r":"りんてんき","p":true}],"sense":[{"gloss":"rotary press","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"九重","p":true}],"r_ele":[{"r":"ここのえ","p":true},{"r":"きゅうちょう"},{"r":"くじゅう"}],"sense":[{"gloss":"ninefold","pos":["n"]},{"gloss":"imperial palace, the Court","pos":["n"]}]},"sdata":[]}

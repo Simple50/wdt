@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"躑躅","i":["rK"]}],"r_ele":[{"r":"つつじ","p":true},{"r":"ツツジ","p":true}],"sense":[{"gloss":"azalea, rhododendron","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑公園↑↓こうえん↓の|つつじ|の↑世話↑↓せわ↓をする↑庭師↑↓にわし↓が↑若干↑↓じゃっかん↓↑名↑↓めい↓いる。","e":"Several gardeners look after the azaleas in the park."}]}

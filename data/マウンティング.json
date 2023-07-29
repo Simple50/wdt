@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マウンティング","p":true},{"r":"マウンチング"}],"sense":[{"gloss":"mounting (animal behaviour)","pos":["n","vs"]},{"gloss":"asserting dominance","pos":["n","vs"]}]},"sdata":[]}

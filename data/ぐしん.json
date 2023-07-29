@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"具申","p":true}],"r_ele":[{"r":"ぐしん","p":true}],"sense":[{"gloss":"offering a full report to a superior","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑息子↑↓むすこ↓にす|ぐ↑診察↑↓しん|さつ↓させた。","e":"I made my son see the doctor."},{"j":"↑彼↑↓かれ↓はその↑事故↑↓じこ↓のあとす|ぐ↑死↑↓し↓ん|だ。","e":"He died soon after the accident."}]}

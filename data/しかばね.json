@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"屍","p":true},{"e":"尸","i":["rK"]}],"r_ele":[{"r":"しかばね","p":true},{"r":"かばね"},{"r":"し"}],"sense":[{"gloss":"corpse","pos":["n"]},{"gloss":"kanji \"corpse\" radical","pos":["n"],"x":["尸冠"]}]},"sdata":[]}

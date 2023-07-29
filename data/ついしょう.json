@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追従","p":true}],"r_ele":[{"r":"ついしょう","p":true}],"sense":[{"gloss":"flattery, sycophancy, adulation","pos":["n","vs","vi"]}]},"sdata":[{"j":"ある↑航空↑↓こうくう↓↑会社↑↓かいしゃ↓が↑運賃↑↓うんちん↓↑値下↑↓ねさ↓げ↑計画↑↓けいかく↓を↑発表↑↓はっぴょう↓すると、↑他社↑↓たしゃ↓もすぐに↑追従↑↓|ついしょう|↓した。","e":"As soon as one airline announced its plan for airfare reductions, the rest of the companies followed suit."}]}

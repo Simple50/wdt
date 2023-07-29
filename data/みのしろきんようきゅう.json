@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"身代金要求","p":true}],"r_ele":[{"r":"みのしろきんようきゅう","p":true}],"sense":[{"gloss":"ransom demand","pos":["n"]}]},"sdata":[]}

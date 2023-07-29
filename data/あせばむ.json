@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"汗ばむ","p":true}],"r_ele":[{"r":"あせばむ","p":true}],"sense":[{"gloss":"to be sweaty","pos":["v5m","vi"]}]},"sdata":[{"j":"↑今日↑↓きょう↓は↑汗↑↓|あせ↓ばむ|ような↑陽気↑↓ようき↓だ。","e":"It's warm enough today to bring out a slight sweat."}]}

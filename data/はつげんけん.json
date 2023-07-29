@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発言権","p":true}],"r_ele":[{"r":"はつげんけん","p":true}],"sense":[{"gloss":"right to speak","pos":["n"]}]},"sdata":[]}

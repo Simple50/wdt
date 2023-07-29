@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山崩れ","p":true}],"r_ele":[{"r":"やまくずれ","p":true}],"sense":[{"gloss":"landslide","pos":["n","vs","vi"]}]},"sdata":[]}

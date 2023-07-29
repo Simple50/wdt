@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"創世記","p":true}],"r_ele":[{"r":"そうせいき","p":true}],"sense":[{"gloss":"Genesis (book of the Bible)","pos":["n"]}]},"sdata":[]}

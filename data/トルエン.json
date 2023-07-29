@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トルエン","p":true}],"sense":[{"gloss":"toluene, toluol","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"私塾","p":true}],"r_ele":[{"r":"しじゅく","p":true}],"sense":[{"gloss":"small private school (esp. for cramming)","pos":["n"]},{"gloss":"private school (in the Edo period, orig. run by Confucianists)","pos":["n"]}]},"sdata":[]}

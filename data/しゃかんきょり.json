@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"車間距離","p":true}],"r_ele":[{"r":"しゃかんきょり","p":true}],"sense":[{"gloss":"distance between two cars","pos":["n"]}]},"sdata":[]}

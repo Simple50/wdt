@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白壁","p":true}],"r_ele":[{"r":"しらかべ","p":true},{"r":"はくへき"}],"sense":[{"gloss":"white plaster wall","pos":["n"]},{"gloss":"tofu, bean curd","pos":["n"]}]},"sdata":[]}

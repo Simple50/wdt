@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"糺す","p":true},{"e":"糾す"},{"e":"正す","i":["iK"]}],"r_ele":[{"r":"ただす","p":true}],"sense":[{"gloss":"to ascertain, to confirm, to verify, to make sure of","pos":["v5s","vt"],"x":["聞きただす・ききただす"]}],"m":["uk"]},"kdata":{"糺":{"on":["キュウ"],"kun":["ただ.す","あざな.う"],"meanings":["ask","investigate","verify","twist (rope)"],"comp":[["糸","乚"]],"freq":4394}},"sdata":[]}

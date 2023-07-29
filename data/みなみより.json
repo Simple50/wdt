@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"南寄り","p":true}],"r_ele":[{"r":"なんより"},{"r":"みなみより","p":true}],"sense":[{"gloss":"southerly (wind), from the south","pos":["n"]}]},"sdata":[]}

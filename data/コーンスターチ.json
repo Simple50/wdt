@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コーンスターチ","p":true},{"r":"コーン・スターチ"}],"sense":[{"gloss":"corn starch","pos":["n"]}]},"sdata":[]}

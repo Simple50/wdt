@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キックオフ","p":true}],"sense":[{"gloss":"kickoff","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイツ","p":true}],"sense":[{"gloss":"heights","pos":["n"]}]},"sdata":[]}

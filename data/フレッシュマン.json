@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フレッシュマン","p":true},{"r":"フレッシュ・マン"}],"sense":[{"gloss":"freshman","pos":["n"]},{"gloss":"newly hired career-track company employee","pos":["n"]}]},"sdata":[]}

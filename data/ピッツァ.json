@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピザ","p":true},{"r":"ピッツァ","p":true},{"r":"ピッツア"}],"sense":[{"gloss":"pizza","pos":["n"],"l":"ita"},{"gloss":"fat, ugly person","pos":["n"],"m":["derog","net-sl"]}]},"sdata":[]}

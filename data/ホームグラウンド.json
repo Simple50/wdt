@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホームグラウンド","p":true},{"r":"ホームグランド"},{"r":"ホーム・グラウンド"},{"r":"ホーム・グランド"}],"sense":[{"gloss":"home ground, home field","pos":["n"],"f":["sports"]},{"gloss":"one's haunt, one's stamping ground, one's domain, one's turf","pos":["n"]}]},"sdata":[]}

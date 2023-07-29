@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イエロー","p":true},{"r":"イェロー"}],"sense":[{"gloss":"yellow","pos":["n","adj-no"]},{"gloss":"yellow card","pos":["n"],"f":["sports"],"m":["abbr"],"x":["イエローカード"]}]},"sdata":[{"j":"|イエロー|ページに↑広告↑↓こうこく↓を↑記載↑↓きさい↓してる？","e":"Do you advertise in the Yellow Pages?"}]}

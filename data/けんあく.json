@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"険悪","p":true}],"r_ele":[{"r":"けんあく","p":true}],"sense":[{"gloss":"dangerous, perilous, threatening, stormy, volatile, tense, critical, serious","pos":["adj-na","n"]},{"gloss":"stern (expression), hostile (attitude), sharp, harsh","pos":["adj-na","n"]}]},"sdata":[{"j":"↑事態↑↓じたい↓は↑険悪↑↓|けんあく|↓だ。","e":"The outlook is grim."}]}

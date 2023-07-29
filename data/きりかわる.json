@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り替わる","p":true}],"r_ele":[{"r":"きりかわる","p":true}],"sense":[{"gloss":"to change completely, to switch (to), to shift (to another mode)","pos":["v5r"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地下足袋","p":true,"i":["ateji"]},{"e":"直足袋"}],"r_ele":[{"r":"じかたび","p":true}],"sense":[{"gloss":"work tabi, split-toed heavy cloth shoes with rubber soles","pos":["n"]}]},"sdata":[]}

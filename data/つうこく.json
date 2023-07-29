@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通告","p":true}],"r_ele":[{"r":"つうこく","p":true}],"sense":[{"gloss":"announcement, notice","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑次↑↓つぎ↓の↑会合↑↓かいごう↓の↑日取↑↓ひど↓りをご↑通告↑↓|つうこく|↓↑下↑↓くだ↓さい。","e":"Please advise me of the date for the next meeting."}]}

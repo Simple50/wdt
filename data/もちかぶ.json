@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持ち株","p":true},{"e":"持株"}],"r_ele":[{"r":"もちかぶ","p":true}],"sense":[{"gloss":"stock holdings, one's shares","pos":["n"]}]},"sdata":[{"j":"↑理事↑↓りじ↓↑会↑↓かい↓は↑海外↑↓かいがい↓の↑持↑↓|も↓ち↑株↑↓かぶ|↓を↑放棄↑↓ほうき↓することを↑議決↑↓ぎけつ↓しました。","e":"The Board of Trustees voted to divest the organization's overseas holdings."}]}

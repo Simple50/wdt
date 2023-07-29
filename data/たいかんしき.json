@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戴冠式","p":true}],"r_ele":[{"r":"たいかんしき","p":true}],"sense":[{"gloss":"coronation ceremony, enthronement","pos":["n"]}]},"sdata":[]}

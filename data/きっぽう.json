@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吉報","p":true}],"r_ele":[{"r":"きっぽう","p":true}],"sense":[{"gloss":"good news","pos":["n"]}]},"sdata":[{"j":"その↑吉報↑↓|きっぽう|↓は↑大変↑↓たいへん↓すばやく↑村↑↓むら↓↑中↑↓ちゅう↓に↑広↑↓ひろ↓がった。","e":"The good news spread through the village quickly."}]}

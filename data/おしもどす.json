@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し戻す","p":true},{"e":"押戻す"},{"e":"押しもどす"}],"r_ele":[{"r":"おしもどす","p":true}],"sense":[{"gloss":"to push back","pos":["v5s","vt"]}]},"sdata":[]}

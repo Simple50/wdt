@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"迎合","p":true}],"r_ele":[{"r":"げいごう","p":true}],"sense":[{"gloss":"ingratiation, pandering, catering (to), going along with (someone or something), accommodating oneself (e.g. to public opinion)","pos":["n","vs","vi"]}]},"sdata":[{"j":"あの↑党↑↓とう↓はいつも↑中流↑↓ちゅうりゅう↓↑階級↑↓かいきゅう↓に↑迎合↑↓|げいごう|↓しています。","e":"That party is always pandering to the middle class."}]}

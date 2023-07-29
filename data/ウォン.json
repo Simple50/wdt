@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウォン","p":true},{"r":"ウオン","p":true}],"sense":[{"gloss":"won (Korean currency)","pos":["n"],"l":"kor"}]},"sdata":[{"j":"エ|ウォン|ド↑語↑↓ご↓はカメルーンに↑居住↑↓きょじゅう↓するエ|ウォン|ド↑族↑↓ぞく↓によって↑話↑↓はな↓される↑言語↑↓げんご↓である。","e":"Ewondo is the language spoken by the Ewondo tribe of Cameroon."}]}

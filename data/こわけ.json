@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小分け","p":true}],"r_ele":[{"r":"こわけ","p":true}],"sense":[{"gloss":"subdivision","pos":["n","vs","vt"]}]},"sdata":[]}

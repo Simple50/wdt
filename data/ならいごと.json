@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"習い事","p":true},{"e":"習いごと"}],"r_ele":[{"r":"ならいごと","p":true}],"sense":[{"gloss":"accomplishment, lessons (in an art, skill, etc.), practice","pos":["n"]}]},"sdata":[]}

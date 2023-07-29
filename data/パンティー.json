@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パンティー","p":true},{"r":"パンティ"}],"sense":[{"gloss":"panties, panty, briefs","pos":["n"]}]},"sdata":[{"j":"↑店員↑↓てんいん↓さんがそう↑言↑↓い↓うなら、ブラジャーと|パンティー|も↑買↑↓か↓ってってやろう。","e":"Now that you mention it, she also needs a bra and panties."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"センチメートル","p":true},{"r":"センチメーター"}],"sense":[{"gloss":"centimeter, centimetre","pos":["n"]}]},"sdata":[{"j":"|センチメートル|は↑長↑↓なが↓さの↑単位↑↓たんい↓だ。","e":"A centimeter is a unit of length."},{"j":"↑一↑↓いち↓メートルは↑百↑↓ひゃく↓|センチメートル|です。","e":"A metre is 100 centimetres."},{"j":"↑一↑↓いち↓メートルは↑百↑↓ひゃく↓|センチメートル|です。","e":"A meter is 100 centimeters."}]}

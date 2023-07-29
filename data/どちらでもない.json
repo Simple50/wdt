@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"どちらでもない","p":true}],"sense":[{"gloss":"neither","pos":["exp"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はスポーツが↑好↑↓す↓きではない。わたしは|どちらでもない|。","e":"He is not fond of sports, and I am not either."}]}

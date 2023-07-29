@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寄り集まる","p":true}],"r_ele":[{"r":"よりあつまる","p":true}],"sense":[{"gloss":"to gather together","pos":["v5r","vi"]}]},"sdata":[]}

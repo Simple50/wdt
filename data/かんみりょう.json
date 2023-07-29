@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"甘味料","p":true}],"r_ele":[{"r":"かんみりょう","p":true}],"sense":[{"gloss":"sweetener (sugar, honey, saccharin, maltose, etc.), sweetening agent, sweetening","pos":["n"]}]},"sdata":[]}

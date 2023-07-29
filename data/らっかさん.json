@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落下傘","p":true}],"r_ele":[{"r":"らっかさん","p":true}],"sense":[{"gloss":"parachute","pos":["n"],"x":["パラシュート"]}]},"sdata":[]}

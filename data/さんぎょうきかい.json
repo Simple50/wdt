@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"産業機械","p":true}],"r_ele":[{"r":"さんぎょうきかい","p":true}],"sense":[{"gloss":"industrial machinery","pos":["n"]}]},"sdata":[]}

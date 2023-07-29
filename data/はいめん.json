@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"背面","p":true}],"r_ele":[{"r":"はいめん","p":true}],"sense":[{"gloss":"rear, back, reverse","pos":["n","adj-no"]}]},"sdata":[]}

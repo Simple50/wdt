@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山盛り","p":true},{"e":"山盛","i":["io"]}],"r_ele":[{"r":"やまもり","p":true}],"sense":[{"gloss":"heap, pile, stack, full measure","pos":["n","adj-no"]}]},"sdata":[]}

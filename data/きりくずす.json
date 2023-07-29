@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り崩す","p":true}],"r_ele":[{"r":"きりくずす","p":true}],"sense":[{"gloss":"to level (earth), to cut through (a mountain)","pos":["v5s","vt"]},{"gloss":"to split (the opposition), to break (strike)","pos":["v5s","vt"]}]},"sdata":[]}

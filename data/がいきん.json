@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外勤","p":true}],"r_ele":[{"r":"がいきん","p":true}],"sense":[{"gloss":"working away from the office, working outside the office, outside duty","pos":["n","vs","vi"],"x":["内勤"]}]},"sdata":[{"j":"↑政府↑↓せいふ↓での↑私↑↓わたし↓の↑職歴↑↓しょくれき↓は↑数↑↓すう↓↑多↑↓おお↓くの↑海外↑↓かい|がい↓↑勤務↑↓きん|む↓を↑含↑↓ふく↓む。","e":"My career in the government includes many overseas assignments."}]}

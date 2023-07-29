@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"租税","p":true}],"r_ele":[{"r":"そぜい","p":true}],"sense":[{"gloss":"taxes, taxation","pos":["n"]}]},"kdata":{"租":{"on":["ソ"],"jlpt":1,"meanings":["tariff","crop tax","borrowing"],"freq":2089,"comp":[["且","禾"]],"d":["蒩"],"s":"祖","t":1135},"税":{"on":["ゼイ"],"jlpt":2,"meanings":["tax","duty"],"freq":289,"comp":[["禾","兑"]],"t":1574}},"sdata":[]}

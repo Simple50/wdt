@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き戸","p":true},{"e":"引戸"}],"r_ele":[{"r":"ひきど","p":true},{"r":"ひきと"}],"sense":[{"gloss":"sliding door","pos":["n"]}]},"sdata":[]}

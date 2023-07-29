@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"割増賃金","p":true}],"r_ele":[{"r":"わりましちんぎん","p":true}],"sense":[{"gloss":"extra pay","pos":["n"]}]},"sdata":[]}

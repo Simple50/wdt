@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"収縮","p":true}],"r_ele":[{"r":"しゅうしゅく","p":true}],"sense":[{"gloss":"deflation, contraction, shrinking, constriction","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちのひとみは↑日↑↓ひ↓のあたる↑所↑↓ところ↓では↑収縮↑↓|しゅうしゅく|↓する。","e":"The pupils of our eyes contract in sunlight."}]}

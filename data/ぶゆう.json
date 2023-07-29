@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"武勇","p":true}],"r_ele":[{"r":"ぶゆう","p":true}],"sense":[{"gloss":"bravery, military prowess, valour, valor","pos":["n"]}]},"sdata":[]}

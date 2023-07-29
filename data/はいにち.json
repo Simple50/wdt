@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"排日","p":true}],"r_ele":[{"r":"はいにち","p":true}],"sense":[{"gloss":"anti-Japanese","pos":["n"]}]},"sdata":[]}

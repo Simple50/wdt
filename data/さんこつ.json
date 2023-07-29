@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"散骨","p":true}],"r_ele":[{"r":"さんこつ","p":true}],"sense":[{"gloss":"scattering of ashes (cremated remains)","pos":["n","vs"]}]},"sdata":[]}

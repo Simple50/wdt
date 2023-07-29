@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和む","p":true}],"r_ele":[{"r":"なごむ","p":true}],"sense":[{"gloss":"to be softened, to calm down","pos":["v5m","vi"]}]},"kdata":{"和":{"on":["ワ","オ","カ"],"kun":["やわ.らぐ","やわ.らげる","なご.む","なご.やか","あ.える"],"jlpt":3,"meanings":["harmony","Japanese style","peace","soften","Japan"],"freq":124,"comp":[["禾","口"]],"d":["啝","俰"],"t":625}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シオニスト","p":true}],"sense":[{"gloss":"Zionist","pos":["n"]}]},"sdata":[]}

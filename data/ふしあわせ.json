@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不幸せ","p":true},{"e":"不仕合わせ","i":["rK"]}],"r_ele":[{"r":"ふしあわせ","p":true}],"sense":[{"gloss":"unhappiness, misfortune, ill luck","pos":["n","adj-na"]}]},"sdata":[{"j":"「↑溜息↑↓ためいき↓なんてついてた？」「↑不幸↑↓|ふしあわ↓せ|なオーラ↑出↑↓だ↓しながらね」","e":"Did I really sigh? \"While giving out an aura of unhappiness.\""}]}

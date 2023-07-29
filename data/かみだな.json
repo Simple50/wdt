@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神棚","p":true}],"r_ele":[{"r":"かみだな","p":true}],"sense":[{"gloss":"kamidana, household shrine, home shrine","pos":["n"],"f":["Shinto"]}]},"sdata":[]}

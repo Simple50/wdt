@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手薄","p":true}],"r_ele":[{"r":"てうす","p":true}],"sense":[{"gloss":"shorthanded, short of hands, undermanned","pos":["adj-na","n"]},{"gloss":"insufficient (stock, money, etc.), in short supply, low","pos":["adj-na","n"]}]},"sdata":[]}

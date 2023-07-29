@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"付託","p":true},{"e":"附託"}],"r_ele":[{"r":"ふたく","p":true}],"sense":[{"gloss":"committal, reference, submission (e.g. to committee), commitment","pos":["n","vs","vt"]}]},"sdata":[{"j":"トムは↑一癖↑↓ひとくせ↓も↑二↑↓|ふた↓↑癖↑↓く|せ↓もあるからな。","e":"Tom is very idiosyncratic."}]}

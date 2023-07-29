@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"定期便","p":true}],"r_ele":[{"r":"ていきびん","p":true}],"sense":[{"gloss":"regular service","pos":["n"]}]},"sdata":[{"j":"その↑島↑↓しま↓には↑定期↑↓|ていき↓↑便↑↓びん|↓はない。","e":"There is no regular boat service to the island."}]}

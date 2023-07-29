@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"南側","p":true}],"r_ele":[{"r":"みなみがわ","p":true},{"r":"なんそく"}],"sense":[{"gloss":"south side","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑家↑↓いえ↓は↑川↑↓かわ↓の↑南側↑↓|みなみがわ|↓にある。","e":"His house is on the south side of the river."}]}

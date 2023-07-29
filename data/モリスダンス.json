@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モリスダンス","p":true},{"r":"モリス・ダンス"}],"sense":[{"gloss":"Morris dance","pos":["n"]}]},"sdata":[]}

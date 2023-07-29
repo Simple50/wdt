@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"司法書士","p":true}],"r_ele":[{"r":"しほうしょし","p":true}],"sense":[{"gloss":"judicial scrivener, judicial clerk, person qualified to prepare legal documents, handle real-estate transactions, etc.","pos":["n"]}]},"sdata":[]}

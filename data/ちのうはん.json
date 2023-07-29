@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"知能犯","p":true}],"r_ele":[{"r":"ちのうはん","p":true}],"sense":[{"gloss":"intellectual crime, white-collar crime","pos":["n"]},{"gloss":"intellectual criminal, smart criminal","pos":["n"]}]},"sdata":[]}

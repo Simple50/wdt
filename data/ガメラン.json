@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガメラン","p":true},{"r":"ガムラン"}],"sense":[{"gloss":"gamelan (traditional Indonesian music ensemble)","pos":["n"],"l":"ind"}]},"sdata":[]}

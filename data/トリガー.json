@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トリガー","p":true},{"r":"トリガ"}],"sense":[{"gloss":"trigger","pos":["n"]}]},"sdata":[]}

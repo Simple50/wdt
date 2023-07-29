@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"舟艇","p":true}],"r_ele":[{"r":"しゅうてい","p":true}],"sense":[{"gloss":"boat, watercraft","pos":["n"]}]},"sdata":[{"j":"↑最終↑↓さい|しゅう↓↑提案↑↓てい|あん↓は↑来週↑↓らいしゅう↓↑中↑↓ちゅう↓に↑発表↑↓はっぴょう↓されます。","e":"The final proposal will be announced sometime next week."}]}

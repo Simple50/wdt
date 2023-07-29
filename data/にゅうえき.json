@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乳液","p":true}],"r_ele":[{"r":"にゅうえき","p":true}],"sense":[{"gloss":"latex (milky fluid found in plants)","pos":["n"],"x":["ラテックス"]},{"gloss":"milky lotion (cosmetic), body milk","pos":["n"]}]},"sdata":[]}

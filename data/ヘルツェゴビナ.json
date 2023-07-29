@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘルツェゴビナ","p":true}],"sense":[{"gloss":"Herzegovina","pos":["n"]}]},"sdata":[]}

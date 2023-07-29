@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オーダーメイド","p":true},{"r":"オーダーメード","p":true},{"r":"オーダー・メイド"},{"r":"オーダー・メード"}],"sense":[{"gloss":"custom-made, made-to-order","pos":["n"],"l":"eng: order made"}]},"sdata":[]}

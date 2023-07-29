@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"如来","p":true},{"e":"如來","i":["oK"]}],"r_ele":[{"r":"にょらい","p":true}],"sense":[{"gloss":"Tathagata, perfected one (suffix of high-ranking Buddhist deities)","pos":["n"]}]},"sdata":[]}

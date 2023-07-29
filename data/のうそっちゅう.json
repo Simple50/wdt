@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脳卒中","p":true}],"r_ele":[{"r":"のうそっちゅう","p":true}],"sense":[{"gloss":"stroke, cerebral haemorrhage, cerebral hemorrhage","pos":["n"],"f":["med"]}]},"sdata":[{"j":"↑去年↑↓きょねん↓↑脳卒中↑↓|のうそっちゅう|↓を↑起↑↓お↓こしました。","e":"I had a stroke last year."},{"j":"↑私↑↓わたし↓は↑脳卒中↑↓|のうそっちゅう|↓を↑起↑↓お↓こした。","e":"I had a stroke."}]}

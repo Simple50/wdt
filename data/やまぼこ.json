@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山鉾","p":true}],"r_ele":[{"r":"やまぼこ","p":true}],"sense":[{"gloss":"festival float mounted with a decorative halberd","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"筒抜け","p":true}],"r_ele":[{"r":"つつぬけ","p":true}],"sense":[{"gloss":"being overheard, being leaked (e.g. secrets)","pos":["n"]},{"gloss":"going in one ear and out the other","pos":["n"]}]},"sdata":[{"j":"↑筒抜↑↓|つつぬ↓け|よ。","e":"I can hear you, you know."}]}

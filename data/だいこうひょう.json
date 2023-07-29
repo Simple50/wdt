@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大好評","p":true}],"r_ele":[{"r":"だいこうひょう","p":true}],"sense":[{"gloss":"very highly commended, highly lauded, very well-received, very popular","pos":["adj-no","n"]}]},"sdata":[{"j":"その↑映画↑↓えいが↓は↑大↑↓|だい↓↑好評↑↓こうひょう|↓です。","e":"The film is going over big with audiences."}]}

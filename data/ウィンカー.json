@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウインカー","p":true},{"r":"ウィンカー","p":true},{"r":"ウインカ"},{"r":"ウィンカ"}],"sense":[{"gloss":"(car) turn signal, blinker, indicator","pos":["n"],"l":"eng: winker"}]},"sdata":[]}

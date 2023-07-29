@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼き上げる","p":true},{"e":"焼きあげる"}],"r_ele":[{"r":"やきあげる","p":true}],"sense":[{"gloss":"to burn, to roast, to grill, to bake","pos":["v1","vt"]}]},"sdata":[]}

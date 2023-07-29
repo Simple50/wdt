@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"基本料金","p":true}],"r_ele":[{"r":"きほんりょうきん","p":true}],"sense":[{"gloss":"basic rate (i.e. excluding optional service fees, usage charges, etc.), basic charge, base cost, base price","pos":["n"]}]},"sdata":[]}

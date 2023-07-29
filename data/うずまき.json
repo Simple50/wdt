@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"渦巻き","p":true},{"e":"渦巻"}],"r_ele":[{"r":"うずまき","p":true}],"sense":[{"gloss":"whirlpool, maelstrom, vortex, eddy, swirl","pos":["n"]},{"gloss":"spiral (shape, pattern)","pos":["n"]}]},"sdata":[{"j":"↑大↑↓おお↓きな↑渦巻↑↓|うずま↓き|と↑急流↑↓きゅうりゅう↓があります。","e":"It has a big whirlpool and a strong current."}]}

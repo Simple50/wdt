@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"掘り下げる","p":true},{"e":"掘りさげる"},{"e":"掘下げる"}],"r_ele":[{"r":"ほりさげる","p":true}],"sense":[{"gloss":"to dig down","pos":["v1","vt"]},{"gloss":"to dig into (a matter), to delve into, to probe into, to investigate, to get to the bottom of","pos":["v1","vt"]}]},"sdata":[]}

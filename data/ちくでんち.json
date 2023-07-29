@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蓄電池","p":true}],"r_ele":[{"r":"ちくでんち","p":true}],"sense":[{"gloss":"storage battery","pos":["n"]}]},"sdata":[]}

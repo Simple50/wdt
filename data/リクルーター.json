@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リクルーター","p":true}],"sense":[{"gloss":"recruiter","pos":["n"]}]},"sdata":[]}

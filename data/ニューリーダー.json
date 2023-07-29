@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニューリーダー","p":true},{"r":"ニュー・リーダー"}],"sense":[{"gloss":"new leader","pos":["n"]}]},"sdata":[]}

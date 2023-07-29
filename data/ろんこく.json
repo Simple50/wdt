@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"論告","p":true}],"r_ele":[{"r":"ろんこく","p":true}],"sense":[{"gloss":"prosecutor's closing argument","pos":["n","vs","vt"]}]},"sdata":[]}

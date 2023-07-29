@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口煩い"},{"e":"口うるさい","p":true},{"e":"口煩さい"}],"r_ele":[{"r":"くちうるさい","p":true}],"sense":[{"gloss":"nagging, faultfinding, carping, captious","pos":["adj-i"]}]},"sdata":[{"j":"トムは↑口↑↓|くち↓うるさい|。","e":"Tom is picky."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"西ドイツ","p":true}],"r_ele":[{"r":"にしドイツ","p":true}],"sense":[{"gloss":"West Germany (1949-1990), Federal Republic of Germany","pos":["n"],"x":["ドイツ連邦共和国"]}],"m":["hist"]},"sdata":[{"j":"↑彼女↑↓かのじょ↓の↑息子↑↓むすこ↓は↑西↑↓|にし↓ドイツ|に↑配置↑↓はいち↓されている。","e":"Her son is stationed in West Germany."}]}

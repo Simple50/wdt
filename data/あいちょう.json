@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"愛鳥","p":true}],"r_ele":[{"r":"あいちょう","p":true}],"sense":[{"gloss":"pet bird","pos":["n"]}]},"sdata":[{"j":"この↑歌↑↓うた↓は↑哀調↑↓|あいちょう|↓をおびている。","e":"This song sounds sad."}]}

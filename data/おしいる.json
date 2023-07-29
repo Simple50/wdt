@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し入る","p":true},{"e":"押入る"},{"e":"押しいる"}],"r_ele":[{"r":"おしいる","p":true}],"sense":[{"gloss":"to push in, to force into, to break in (e.g. into a house), to intrude","pos":["v5r","vi"]}]},"sdata":[]}

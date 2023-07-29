@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不経済","p":true}],"r_ele":[{"r":"ふけいざい","p":true}],"sense":[{"gloss":"poor economy, waste","pos":["adj-na","n"]}]},"sdata":[]}

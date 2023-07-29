@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安穏","p":true}],"r_ele":[{"r":"あんのん","p":true},{"r":"あんおん"}],"sense":[{"gloss":"peace, quiet, tranquility, tranquillity","pos":["n","adj-na"]}]},"sdata":[]}

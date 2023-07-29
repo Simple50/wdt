@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先回り","p":true}],"r_ele":[{"r":"さきまわり","p":true}],"sense":[{"gloss":"going on ahead, forestalling, anticipating, arrival before another","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑敵↑↓てき↓が↑攻撃↑↓こうげき↓しそうなところに↑先回↑↓|さきまわ↓り|して↑手↑↓て↓を↑打↑↓う↓っておいた。","e":"We anticipated where the enemy would attack."}]}

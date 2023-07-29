@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文部科学省","p":true}],"r_ele":[{"r":"もんぶかがくしょう","p":true}],"sense":[{"gloss":"Ministry of Education, Culture, Sports, Science and Technology, MEXT","pos":["n"]}]},"sdata":[]}

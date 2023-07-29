@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リゾット","p":true}],"sense":[{"gloss":"risotto","pos":["n"],"f":["food"],"l":"ita"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民有","p":true}],"r_ele":[{"r":"みんゆう","p":true}],"sense":[{"gloss":"private ownership","pos":["n","adj-no"]}]},"sdata":[]}

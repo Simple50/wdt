@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄れる","p":true}],"r_ele":[{"r":"うすれる","p":true}],"sense":[{"gloss":"to fade, to become dim","pos":["v1","vi"]}]},"sdata":[{"j":"↑年↑↓とし↓をとると↑共↑↓とも↓に、↑情熱↑↓じょうねつ↓は↑薄↑↓|うす↓れる|が、↑身↑↓み↓についた↑習慣↑↓しゅうかん↓は↑強↑↓つよ↓まるものだ。","e":"Passions weaken, but habits strengthen, with age."}]}

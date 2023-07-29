@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"消費財","p":true},{"e":"消費材","i":["iK"]}],"r_ele":[{"r":"しょうひざい","p":true}],"sense":[{"gloss":"consumer goods","pos":["n"],"x":["生産財"]}]},"sdata":[]}

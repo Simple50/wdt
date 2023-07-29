@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"芸風","p":true}],"r_ele":[{"r":"げいふう","p":true}],"sense":[{"gloss":"performing style, acting style","pos":["n"]}]},"sdata":[]}

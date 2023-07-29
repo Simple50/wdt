@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風流","p":true}],"r_ele":[{"r":"ふうりゅう","p":true},{"r":"ふりゅう","i":["ok"]}],"sense":[{"gloss":"elegance, taste, refinement","pos":["n","adj-na"]}]},"sdata":[]}

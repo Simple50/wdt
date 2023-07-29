@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粗悪","p":true}],"r_ele":[{"r":"そあく","p":true}],"sense":[{"gloss":"coarse, crude, inferior","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"ここは↑町↑↓まち↓で↑一番↑↓いちばん↓↑粗悪↑↓|そあく|↓なホテルだ。","e":"This is the worst hotel in town."}]}

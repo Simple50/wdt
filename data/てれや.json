@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"照れ屋","p":true},{"e":"テレ屋"}],"r_ele":[{"r":"てれや","p":true}],"sense":[{"gloss":"very shy person, bashful person","pos":["n","adj-na"]}]},"sdata":[]}

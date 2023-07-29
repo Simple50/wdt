@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンチテーゼ","p":true}],"sense":[{"gloss":"antithesis","pos":["n"],"l":"ger: Antithese"}]},"sdata":[]}

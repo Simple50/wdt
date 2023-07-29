@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"動もすれば","p":true}],"r_ele":[{"r":"ややもすれば","p":true}],"sense":[{"gloss":"being apt to, being liable to, being inclined to","pos":["adv"]}],"m":["uk"]},"kdata":{"動":{"on":["ドウ"],"kun":["うご.く","うご.かす"],"jlpt":4,"meanings":["move","motion","change","confusion","shift","shake"],"freq":73,"comp":[["重","力"]],"d":["働","勲","慟"],"t":1240}},"sdata":[]}

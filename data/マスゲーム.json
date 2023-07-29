@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マスゲーム","p":true},{"r":"マス・ゲーム"}],"sense":[{"gloss":"massed calisthenics, massed gymnastics","pos":["n"],"l":"eng: mass game"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テリトリー","p":true}],"sense":[{"gloss":"territory","pos":["n"]}]},"sdata":[{"j":"クズリは、↑同性↑↓どうせい↓の↑個体↑↓こたい↓から↑自分↑↓じぶん↓の|テリトリー|の↑境界↑↓きょうかい↓を↑守↑↓まも↓り、↑一生↑↓いっしょう↓のほとんどを↑単独↑↓たんどく↓で↑過↑↓す↓ごす。","e":"The wolverine spends most of its life alone, defending the borders of its territory from individuals of the same sex."}]}

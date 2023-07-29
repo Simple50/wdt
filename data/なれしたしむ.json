@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"慣れ親しむ","p":true},{"e":"なれ親しむ"},{"e":"馴れ親しむ"}],"r_ele":[{"r":"なれしたしむ","p":true}],"sense":[{"gloss":"to become familiar with and cherish, to get to know and love","pos":["v5m","vi"]}]},"sdata":[]}

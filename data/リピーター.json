@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リピーター","p":true},{"r":"リピータ","p":true}],"sense":[{"gloss":"repeater","pos":["n"],"f":["telec"]},{"gloss":"repeat customer, regular customer, repeat purchaser, frequent visitor, patron","pos":["n"]},{"gloss":"person who does the same (negative) act repeatedly","pos":["n"],"x":["リピーター医師"]}]},"sdata":[]}

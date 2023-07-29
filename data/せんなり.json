@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"千生り"},{"e":"千成り"},{"e":"千生","p":true,"i":["io"]}],"r_ele":[{"r":"せんなり","p":true}],"sense":[{"gloss":"great collection (of things), cluster, bunch","pos":["n"]},{"gloss":"bottle gourd","pos":["n"],"m":["abbr"],"x":["千成り瓢箪・1"]}]},"sdata":[]}

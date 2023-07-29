@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"精神鑑定","p":true}],"r_ele":[{"r":"せいしんかんてい","p":true}],"sense":[{"gloss":"psychiatric examination","pos":["n","vs"]}]},"sdata":[]}

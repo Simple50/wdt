@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小細工","p":true}],"r_ele":[{"r":"こざいく","p":true}],"sense":[{"gloss":"intricate workmanship, delicate handiwork","pos":["n"]},{"gloss":"cheap trick, petty trick, obvious stratagem","pos":["n"]}]},"sdata":[]}

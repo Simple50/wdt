@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"収奪","p":true}],"r_ele":[{"r":"しゅうだつ","p":true}],"sense":[{"gloss":"plundering, exploitation","pos":["n","vs","vt"]}]},"sdata":[]}

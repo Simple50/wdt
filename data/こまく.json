@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鼓膜","p":true}],"r_ele":[{"r":"こまく","p":true}],"sense":[{"gloss":"eardrum, tympanic membrane","pos":["n","adj-no"]}]},"sdata":[{"j":"↑銃声↑↓じゅうせい↓のせいで↑鼓膜↑↓|こまく|↓が↑破↑↓やぶ↓れた。","e":"My eardrums burst because of the gunshot."}]}

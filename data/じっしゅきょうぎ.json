@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"十種競技","p":true}],"r_ele":[{"r":"じっしゅきょうぎ","p":true}],"sense":[{"gloss":"decathlon","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入居","p":true}],"r_ele":[{"r":"にゅうきょ","p":true}],"sense":[{"gloss":"moving into (house)","pos":["n","vs","vi"]}]},"sdata":[{"j":"つい↑先日↑↓せんじつ↓、↑入居↑↓|にゅうきょ|↓なさったんですよ。","e":"They moved in recently."}]}

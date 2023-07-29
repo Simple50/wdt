@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"差し戻す","p":true},{"e":"差戻す","i":["io"]}],"r_ele":[{"r":"さしもどす","p":true}],"sense":[{"gloss":"to send back, to refer back","pos":["v5s","vt"]}]},"sdata":[]}

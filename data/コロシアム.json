@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コロシアム","p":true},{"r":"コロセウム"}],"sense":[{"gloss":"Coliseum, Colosseum","pos":["n"],"l":"lat"}]},"sdata":[]}

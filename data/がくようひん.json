@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学用品","p":true}],"r_ele":[{"r":"がくようひん","p":true}],"sense":[{"gloss":"school supplies","pos":["n"]}]},"sdata":[]}

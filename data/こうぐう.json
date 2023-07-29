@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"厚遇","p":true},{"e":"好遇","i":["rK"]}],"r_ele":[{"r":"こうぐう","p":true}],"sense":[{"gloss":"cordial welcome, hearty welcome, kind treatment, hospitality","pos":["n","vs","vt"]}]},"sdata":[]}

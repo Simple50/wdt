@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"呼び込み","p":true},{"e":"呼込み"}],"r_ele":[{"r":"よびこみ","p":true}],"sense":[{"gloss":"barker, tout, hawker, someone who attempts to attract patrons to entertainment events, shops, bars, and such, by exhorting passing public","pos":["n"]},{"gloss":"calling out to potential customers","pos":["vs"]}]},"sdata":[]}

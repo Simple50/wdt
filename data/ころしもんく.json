@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殺し文句","p":true}],"r_ele":[{"r":"ころしもんく","p":true}],"sense":[{"gloss":"clincher, pick-up line, honeyed phrase, telling phrase, phrase that brings someone around, esp. in personal relationships","pos":["exp","n"],"x":["口説き文句・くどきもんく"]}]},"sdata":[]}

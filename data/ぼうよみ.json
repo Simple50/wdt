@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"棒読み","p":true}],"r_ele":[{"r":"ぼうよみ","p":true}],"sense":[{"gloss":"reading in a monotone, stiff delivery, wooden delivery","pos":["n","vs","vt"]},{"gloss":"reading a Chinese classical text without translating it into Japanese","pos":["n","vs","vt"]}]},"sdata":[]}

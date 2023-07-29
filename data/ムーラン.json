@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ムーラン","p":true}],"sense":[{"gloss":"moulin","pos":["n"]}]},"sdata":[]}

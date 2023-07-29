@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デフレ","p":true}],"sense":[{"gloss":"deflation","pos":["n"],"x":["デフレーション"]}],"m":["abbr"]},"sdata":[]}

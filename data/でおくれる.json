@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出遅れる","p":true}],"r_ele":[{"r":"でおくれる","p":true}],"sense":[{"gloss":"to get a late start","pos":["v1","vi"]}]},"sdata":[{"j":"「トム、なん|で↑遅↑↓おく↓れる|の？」「↑昼飯↑↓ひるめし↓、↑食↑↓く↓ってたんだ」","e":"Why are you late, Tom? \"I was eating lunch.\""}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スケートリンク","p":true},{"r":"スケート・リンク"}],"sense":[{"gloss":"ice rink, ice skating rink","pos":["n"],"l":"eng: skate rink"}]},"sdata":[]}

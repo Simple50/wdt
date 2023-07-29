@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肩こり","p":true},{"e":"肩凝り","p":true}],"r_ele":[{"r":"かたこり","p":true}],"sense":[{"gloss":"stiff neck, stiff shoulders","pos":["n"]}]},"sdata":[{"j":"↑肩↑↓|かた↓こり|がひどいのです。","e":"I have a bad stiff neck."},{"j":"↑肩↑↓|かた↓こり|がある。","e":"My neck is stiff."}]}

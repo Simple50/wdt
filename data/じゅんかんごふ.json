@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"准看護婦","p":true}],"r_ele":[{"r":"じゅんかんごふ","p":true}],"sense":[{"gloss":"practical nurse","pos":["n"]}]},"sdata":[]}

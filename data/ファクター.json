@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファクター","p":true}],"sense":[{"gloss":"factor","pos":["n"]}]},"sdata":[]}

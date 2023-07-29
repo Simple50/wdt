@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老木","p":true}],"r_ele":[{"r":"ろうぼく","p":true}],"sense":[{"gloss":"old tree","pos":["n"]}]},"sdata":[{"j":"↑樫↑↓かし↓の↑老木↑↓|ろうぼく|↓が↑嵐↑↓あらし↓にうめいている。","e":"An old oak is groaning in the storm."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘリポート","p":true}],"sense":[{"gloss":"heliport","pos":["n"]}]},"sdata":[]}

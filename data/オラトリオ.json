@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オラトリオ","p":true}],"sense":[{"gloss":"oratorio","pos":["n"],"l":"ita"}]},"sdata":[]}

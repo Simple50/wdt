@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公認会計士","p":true}],"r_ele":[{"r":"こうにんかいけいし","p":true}],"sense":[{"gloss":"certified public accountant","pos":["n"]}]},"sdata":[]}

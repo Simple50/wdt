@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り開き","p":true}],"r_ele":[{"r":"きりひらき","p":true}],"sense":[{"gloss":"clearing (land), excavating","pos":["n"]}]},"sdata":[]}

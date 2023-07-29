@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"照り焼き","p":true},{"e":"照焼"},{"e":"照焼き"},{"e":"照り焼"}],"r_ele":[{"r":"てりやき","p":true}],"sense":[{"gloss":"teriyaki (meat or fish marinated in sweet soy sauce and broiled)","pos":["n"]}]},"sdata":[]}

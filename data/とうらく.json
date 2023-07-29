@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"当落","p":true}],"r_ele":[{"r":"とうらく","p":true}],"sense":[{"gloss":"result (of an election), success or defeat (in an election)","pos":["n"]},{"gloss":"winning or losing (a lottery, raffle, etc.)","pos":["n"]}]},"sdata":[]}

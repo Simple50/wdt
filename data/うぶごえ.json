@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"産声","p":true},{"e":"うぶ声"}],"r_ele":[{"r":"うぶごえ","p":true}],"sense":[{"gloss":"first cry of a newborn baby","pos":["n"]}]},"sdata":[]}

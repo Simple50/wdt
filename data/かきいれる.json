@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書き入れる","p":true}],"r_ele":[{"r":"かきいれる","p":true}],"sense":[{"gloss":"to write in","pos":["v1","vt"]}]},"sdata":[]}

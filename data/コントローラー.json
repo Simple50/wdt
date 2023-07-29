@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コントローラー","p":true},{"r":"コントローラ"}],"sense":[{"gloss":"controller","pos":["n"]}]},"sdata":[{"j":"|コントローラー|を↑接続↑↓せつぞく↓してください。","e":"Please connect a controller."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆け付け三杯","p":true}],"r_ele":[{"r":"かけつけさんばい","p":true}],"sense":[{"gloss":"three cups of sake which latecomers to a party are made to drink","pos":["n"]}]},"sdata":[]}

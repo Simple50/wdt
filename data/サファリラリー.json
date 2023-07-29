@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サファリラリー","p":true},{"r":"サファリ・ラリー"}],"sense":[{"gloss":"safari rally","pos":["n"]}]},"sdata":[]}

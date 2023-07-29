@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初々しい","p":true},{"e":"初初しい"}],"r_ele":[{"r":"ういういしい","p":true}],"sense":[{"gloss":"(young and) innocent, naive, pure, fresh, artless, unsophisticated","pos":["adj-i"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極力","p":true}],"r_ele":[{"r":"きょくりょく","p":true}],"sense":[{"gloss":"to the utmost, to the best of one's ability","pos":["adv"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓はあの↑悪↑↓わる↓い↑状況↑↓じょうきょう↓を↑極力↑↓|きょくりょく|↓↑生↑↓い↓かした。","e":"We made the best of that bad situation."},{"j":"↑極力↑↓|きょくりょく|↓↑早↑↓はや↓く↑起↑↓お↓きろよ。","e":"Get up as early as you possibly can."}]}

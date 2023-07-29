@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チラリ","p":true},{"r":"ちらり"}],"sense":[{"gloss":"fleeting (glimpse, glance, etc.)","pos":["adv-to","adv"],"x":["ちらっと"]}],"m":["on-mim"]},"sdata":[]}

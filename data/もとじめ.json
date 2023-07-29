@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"元締め","p":true},{"e":"元締"}],"r_ele":[{"r":"もとじめ","p":true}],"sense":[{"gloss":"manager, controller, administrator","pos":["n"]},{"gloss":"chief treasurer","pos":["n"]},{"gloss":"boss (of a gambling den)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポンプ","p":true}],"sense":[{"gloss":"pump","pos":["n"],"l":"dut: pomp"}]},"sdata":[{"j":"|ポンプ|はちゃんと↑動↑↓うご↓かなかった。","e":"The pump did not act as it should have."},{"j":"↑心臓↑↓しんぞう↓と|ポンプ|は↑似↑↓に↓かよっている。","e":"The human heart is analogous to a pump."},{"j":"|ポンプ|はちゃんと↑動↑↓うご↓かなかった。","e":"The pump didn't work properly."}]}

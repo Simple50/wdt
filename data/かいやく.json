@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"解約","p":true}],"r_ele":[{"r":"かいやく","p":true}],"sense":[{"gloss":"cancellation of a contract","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓はその↑商品↑↓しょうひん↓の↑予約↑↓よやく↓を↑解約↑↓|かいやく|↓した。","e":"I canceled my order for the commodities."},{"j":"↑仲介↑↓ちゅう|かい↓↑役↑↓やく|↓がしっかりしていると↑取↑↓と↓り↑引↑↓ひ↓きがスムーズに↑行↑↓い↓く。","e":"A good mediator can make a deal go smoothly."}]}

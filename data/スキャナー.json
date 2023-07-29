@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スキャナー","p":true},{"r":"スキャナ"}],"sense":[{"gloss":"scanner","pos":["n"]}]},"sdata":[{"j":"トム、メアリーに|スキャナー|の↑使↑↓つか↓い↑方↑↓かた↓↑教↑↓おし↓えてやってくんない？","e":"Tom, can you show Mary how to use the scanner?"},{"j":"トム、メアリーに|スキャナー|の↑使↑↓つか↓い↑方↑↓かた↓↑教↑↓おし↓えてやってくんない？","e":"Tom, would you show Mary how to use the scanner?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"趣向","p":true}],"r_ele":[{"r":"しゅこう","p":true}],"sense":[{"gloss":"plan, idea, design, plot","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑特殊↑↓とく|しゅ↓↑効果↑↓こう|か↓がすばらしいので「ターミネーター」が↑好↑↓す↓きです。","e":"I like the Terminator films because the special effects are fantastic."}]}

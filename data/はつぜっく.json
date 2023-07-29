@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初節供"},{"e":"初節句","p":true}],"r_ele":[{"r":"はつぜっく","p":true}],"sense":[{"gloss":"baby's first annual festival","pos":["n"]}]},"sdata":[]}

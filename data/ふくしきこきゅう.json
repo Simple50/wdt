@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腹式呼吸","p":true}],"r_ele":[{"r":"ふくしきこきゅう","p":true}],"sense":[{"gloss":"diaphragmatic breathing, abdominal breathing","pos":["n"]}]},"sdata":[]}

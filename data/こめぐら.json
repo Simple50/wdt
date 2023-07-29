@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"米倉","p":true},{"e":"米蔵"}],"r_ele":[{"r":"こめぐら","p":true}],"sense":[{"gloss":"rice granary","pos":["n"]}]},"sdata":[]}

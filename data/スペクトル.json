@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スペクトル","p":true}],"sense":[{"gloss":"spectra, spectral, spectrum (radio, etc.)","pos":["n"],"l":"fre: spectre"}]},"sdata":[{"j":"↑虹↑↓にじ↓の↑中↑↓なか↓に|スペクトル|の↑色↑↓いろ↓を↑見↑↓み↓る↑事↑↓こと↓が↑出来↑↓でき↓る。","e":"You can see the colors of the spectrum in a rainbow."}]}

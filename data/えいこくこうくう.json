@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"英国航空","p":true}],"r_ele":[{"r":"えいこくこうくう","p":true}],"sense":[{"gloss":"British Airways","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リッターカー","p":true},{"r":"リッター・カー"}],"sense":[{"gloss":"car with 1000cc engine","pos":["n"],"l":"eng: liter car"}]},"sdata":[]}

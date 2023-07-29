@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一塁手","p":true}],"r_ele":[{"r":"いちるいしゅ","p":true}],"sense":[{"gloss":"first baseman","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"↑一塁↑↓|いちるい↓↑手↑↓しゅ|↓は、↑走↑↓はし↓ってきた↑打者↑↓だしゃ↓にタッチしアウトを↑取↑↓と↓った。","e":"The first baseman tagged the runner out."}]}

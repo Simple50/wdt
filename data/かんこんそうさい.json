@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冠婚葬祭","p":true}],"r_ele":[{"r":"かんこんそうさい","p":true}],"sense":[{"gloss":"important ceremonial occasions in family relationships","pos":["n"],"x":["元服・1","婚礼","祭祀","葬儀"]}],"m":["yoji"]},"sdata":[]}

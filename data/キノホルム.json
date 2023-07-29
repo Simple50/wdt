@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キノホルム","p":true}],"sense":[{"gloss":"chinoform, quinoform","pos":["n"],"f":["med"]}]},"sdata":[]}

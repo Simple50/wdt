@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"賄い","p":true}],"r_ele":[{"r":"まかない","p":true}],"sense":[{"gloss":"boarding, board, meals, catering, cook","pos":["n"],"x":["賄う・まかなう・2"]}]},"kdata":{"賄":{"on":["ワイ"],"kun":["まかな.う"],"jlpt":1,"meanings":["bribe","board","supply","finance"],"freq":1282,"comp":[["有","貝"]],"t":1793}},"sdata":[]}

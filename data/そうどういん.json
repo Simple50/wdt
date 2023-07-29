@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総動員","p":true}],"r_ele":[{"r":"そうどういん","p":true}],"sense":[{"gloss":"general mobilization, full mobilization","pos":["n","vs","vt"]}]},"sdata":[]}

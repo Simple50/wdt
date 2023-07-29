@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初物","p":true}],"r_ele":[{"r":"はつもの","p":true}],"sense":[{"gloss":"first of the season (e.g. produce, catch)","pos":["n"]},{"gloss":"virgin","pos":["n"]}]},"sdata":[{"j":"↑戦艦↑↓せんかん↓ビスマルク↑号↑↓ごう↓を↑海↑↓うみ↓のもくずとするには、↑何↑↓なん↓↑発↑↓|はつ↓もの|↑魚雷↑↓ぎょらい↓を↑命中↑↓めいちゅう↓させなければならなかった。","e":"It took many torpedo hits to send the battleship Bismarck to Davy Jones's locker."}]}

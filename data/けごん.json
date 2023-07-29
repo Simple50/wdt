@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"華厳","p":true}],"r_ele":[{"r":"けごん","p":true}],"sense":[{"gloss":"avatamsa (flower adornment, as a metaphor for becoming a buddha)","pos":["n"],"f":["Buddh"]},{"gloss":"Avatamska sutra","pos":["n"],"m":["abbr"],"x":["華厳経"]},{"gloss":"Kegon (sect of Buddhism)","pos":["n"],"m":["abbr"],"x":["華厳宗"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火柱","p":true}],"r_ele":[{"r":"ひばしら","p":true}],"sense":[{"gloss":"pillar of fire, blazing column","pos":["n"]}]},"sdata":[]}

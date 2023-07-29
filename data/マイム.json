@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マイム","p":true}],"sense":[{"gloss":"mime","pos":["n"],"x":["パントマイム"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はパーティーでパント|マイム|をやってみせた。","e":"He acted out a pantomime at the party."}]}

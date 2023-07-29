@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"店開き","p":true},{"e":"見世開き"}],"r_ele":[{"r":"みせびらき","p":true}],"sense":[{"gloss":"starting a business","pos":["n","vs","vt","vi"]},{"gloss":"opening a store (for the day)","pos":["n","vs","vt","vi"]}]},"sdata":[]}

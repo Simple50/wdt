@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一戸建て","p":true},{"e":"一戸建","i":["io"]}],"r_ele":[{"r":"いっこだて","p":true}],"sense":[{"gloss":"detached house, stand-alone house, single-family home","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハーレム","p":true},{"r":"ハレム"}],"sense":[{"gloss":"harem","pos":["n"],"l":"ara: ḥarīm"}]},"sdata":[]}

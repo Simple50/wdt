@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"挑発的","p":true}],"r_ele":[{"r":"ちょうはつてき","p":true}],"sense":[{"gloss":"provocative, incendiary, inflammatory","pos":["adj-na"]},{"gloss":"suggestive, lascivious, risqué","pos":["adj-na"]}]},"sdata":[]}

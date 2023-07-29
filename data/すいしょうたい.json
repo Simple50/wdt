@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水晶体","p":true}],"r_ele":[{"r":"すいしょうたい","p":true}],"sense":[{"gloss":"crystalline lens (of the eye)","pos":["n"],"f":["anat"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本式","p":true}],"r_ele":[{"r":"にほんしき","p":true}],"sense":[{"gloss":"Japanese style","pos":["n","adj-no"]},{"gloss":"Nihon-shiki romanization (of Japanese)","pos":["n"],"m":["abbr"],"x":["日本式ローマ字"]}]},"sdata":[]}

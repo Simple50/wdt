@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虚空","p":true}],"r_ele":[{"r":"こくう","p":true}],"sense":[{"gloss":"empty space, empty sky","pos":["n"]}]},"sdata":[{"j":"↑省↑↓しょう↓エネルギーの↑全国↑↓ぜん|こく↓↑運動↑↓う|んどう↓が↑展開↑↓てんかい↓↑中↑↓ちゅう↓だ。","e":"A national campaign for energy saving is underway."},{"j":"↑彼↑↓かれ↓は↑英国↑↓えい|こく↓↑生↑↓う|↓まれなので、イギリス↑英語↑↓えいご↓を↑話↑↓はな↓す。","e":"Born in England, he speaks British English."}]}

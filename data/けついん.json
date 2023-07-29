@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"欠員","p":true}],"r_ele":[{"r":"けついん","p":true}],"sense":[{"gloss":"vacancy, vacant position","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"投げ売り","p":true},{"e":"投売り"}],"r_ele":[{"r":"なげうり","p":true}],"sense":[{"gloss":"sacrifice sale, selling at a loss, dumping, clearance sale","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑店↑↓みせ↓じまいのため↑商品↑↓しょうひん↓を↑投↑↓|な↓げ↑売↑↓う↓り|した。","e":"He sold his goods at a loss to wind up his business."}]}

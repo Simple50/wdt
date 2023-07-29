@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スペンサージャケット","p":true},{"r":"スペンサー・ジャケット"}],"sense":[{"gloss":"spencer jacket","pos":["n"]}]},"sdata":[]}

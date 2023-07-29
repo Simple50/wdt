@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミリグラム","p":true}],"sense":[{"gloss":"mg, milligram","pos":["n"],"l":"fre: milligramme"}]},"sdata":[]}

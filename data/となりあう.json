@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隣り合う","p":true},{"e":"隣合う","p":true,"i":["io"]}],"r_ele":[{"r":"となりあう","p":true}],"sense":[{"gloss":"to adjoin each other, to sit side by side","pos":["v5u","vi"]}]},"sdata":[]}

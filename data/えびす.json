@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恵比寿","p":true},{"e":"恵比須"},{"e":"戎"},{"e":"夷"},{"e":"蛭子"}],"r_ele":[{"r":"えびす","p":true},{"r":"ゑびす"},{"r":"えべす"},{"r":"ひるこ"}],"sense":[{"gloss":"Ebisu, god of fishing and commerce","pos":["n"],"x":["七福神"]}]},"sdata":[]}

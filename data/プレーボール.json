@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プレーボール","p":true},{"r":"プレイボール"},{"r":"プレー・ボール"},{"r":"プレイ・ボール"}],"sense":[{"gloss":"play ball!","pos":["int"]},{"gloss":"starting a match (of baseball, tennis, etc.)","pos":["n"],"f":["sports"]}]},"sdata":[]}

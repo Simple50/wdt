@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初陣","p":true}],"r_ele":[{"r":"ういじん","p":true}],"sense":[{"gloss":"one's first campaign, one's first battle","pos":["n"]}]},"sdata":[{"j":"しかも↑初陣↑↓|ういじん|↓があのドラゴン↑退治↑↓たいじ↓！","e":"What's more, our first battle is to defeat that dragon!"}]}

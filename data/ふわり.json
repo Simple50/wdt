@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ふわり","p":true}],"sense":[{"gloss":"softly, gently, lightly","pos":["adv-to"]}],"m":["on-mim"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見世物","p":true},{"e":"見せ物"}],"r_ele":[{"r":"みせもの","p":true}],"sense":[{"gloss":"show, exhibition, spectacle","pos":["n"]}]},"sdata":[]}

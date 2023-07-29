@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お仕着せ","p":true},{"e":"御仕着せ"}],"r_ele":[{"r":"おしきせ","p":true}],"sense":[{"gloss":"uniforms provided for workers (by the employer)","pos":["n","adj-no"]},{"gloss":"something forced upon one, something imposed on one","pos":["n","adj-no"]}]},"sdata":[]}

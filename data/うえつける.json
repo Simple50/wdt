@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"植え付ける","p":true},{"e":"植えつける"},{"e":"植付ける"}],"r_ele":[{"r":"うえつける","p":true}],"sense":[{"gloss":"to plant, to transplant","pos":["v1","vt"]},{"gloss":"to instil (idea, feeling, etc.)","pos":["v1","vt"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓はその↑畑↑↓はたけ↓に↑今年↑↓ことし↓は↑綿↑↓めん↓を↑植↑↓|う↓え↑付↑↓つ↓ける|つもりだ。","e":"We will crop the field with cotton this year."}]}

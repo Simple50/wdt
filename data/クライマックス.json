@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クライマックス","p":true}],"sense":[{"gloss":"climax","pos":["n"]}]},"sdata":[{"j":"↑観客↑↓かんきゃく↓は↑映画↑↓えいが↓が|クライマックス|の↑間↑↓ま↓すすり↑泣↑↓な↓きした。","e":"The audience sobbed throughout the climax of the movie."}]}

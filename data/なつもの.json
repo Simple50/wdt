@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夏物","p":true}],"r_ele":[{"r":"なつもの","p":true}],"sense":[{"gloss":"summer clothing, summer wear","pos":["n"]},{"gloss":"summer goods","pos":["n"]}]},"sdata":[{"j":"↑夏物↑↓|なつもの|↓は↑今↑↓いま↓セール↑中↑↓ちゅう↓です。","e":"The summer goods are now on sale."}]}

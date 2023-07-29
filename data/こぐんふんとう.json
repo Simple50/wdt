@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"孤軍奮闘","p":true}],"r_ele":[{"r":"こぐんふんとう","p":true}],"sense":[{"gloss":"fighting alone","pos":["n","vs"]}],"m":["yoji"]},"sdata":[{"j":"↑孤軍↑↓|こぐん↓↑奮闘↑↓ふんとう|↓したけれど、↑衆寡↑↓しゅうか↓↑敵↑↓てき↓せず、↑彼↑↓かれ↓のビジネスプランは↑受↑↓う↓け↑入↑↓い↓れられなかったよ。","e":"He put up a brave and lone struggle, but up against such heavy odds he couldn't get his business plan accepted."}]}

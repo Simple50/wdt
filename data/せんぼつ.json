@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戦没","p":true},{"e":"戦歿"}],"r_ele":[{"r":"せんぼつ","p":true}],"sense":[{"gloss":"death in battle, killed in action","pos":["n","vs","vi"]}]},"sdata":[]}

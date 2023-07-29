@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"育て上げる","p":true},{"e":"育てあげる"}],"r_ele":[{"r":"そだてあげる","p":true}],"sense":[{"gloss":"to raise (to maturity), to bring up, to rear, to train, to educate","pos":["v1","vt"]}]},"sdata":[]}

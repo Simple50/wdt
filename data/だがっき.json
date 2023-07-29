@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打楽器","p":true}],"r_ele":[{"r":"だがっき","p":true}],"sense":[{"gloss":"percussion instrument","pos":["n"]}]},"sdata":[]}

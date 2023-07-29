@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"整理部","p":true}],"r_ele":[{"r":"せいりぶ","p":true}],"sense":[{"gloss":"copyreading department","pos":["n"]}]},"sdata":[]}

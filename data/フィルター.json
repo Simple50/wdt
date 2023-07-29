@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィルター","p":true},{"r":"フィルタ"}],"sense":[{"gloss":"filter (esp. camera)","pos":["n"]}]},"sdata":[{"j":"↑乾燥↑↓かんそう↓↑機↑↓き↓を↑動↑↓うご↓かす↑前↑↓まえ↓には、|フィルター|の↑掃除↑↓そうじ↓を↑確実↑↓かくじつ↓に↑行↑↓い↓ってください。さもないと↑火災↑↓かさい↓を↑招↑↓まね↓く↑可能↑↓かのう↓↑性↑↓せい↓があります。","e":"Be sure to clear the lint trap before you run the dryer. Otherwise, you might start a fire."}]}

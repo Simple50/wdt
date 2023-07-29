@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"居座り","p":true}],"r_ele":[{"r":"いすわり","p":true}],"sense":[{"gloss":"remaining","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はバスに↑乗↑↓の↓って↑前↑↓まえ↓の↑席↑↓せき↓↑居座↑↓|いすわ↓り|ました。","e":"She got on a bus and took a seat in the front."}]}

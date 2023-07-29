@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"舞い込む","p":true}],"r_ele":[{"r":"まいこむ","p":true}],"sense":[{"gloss":"to come fluttering in (e.g. leaves, snow, flowers, etc.), to come dancing in","pos":["v5m","vi"]},{"gloss":"to drop in unexpectedly, to happen unexpectedly","pos":["v5m","vi"]}]},"sdata":[]}

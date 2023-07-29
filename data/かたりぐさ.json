@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"語り草","p":true},{"e":"語り種"},{"e":"語りぐさ"}],"r_ele":[{"r":"かたりぐさ","p":true}],"sense":[{"gloss":"story, topic (on everyone's lips), (the stuff of) legend","pos":["n"]}]},"sdata":[{"j":"ビルはこの↑会社↑↓かいしゃ↓での↑語↑↓|かた↓り↑草↑↓ぐさ|↓になっている。","e":"Bill is still a legendary figure in this company."}]}

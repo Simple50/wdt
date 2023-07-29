@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"憤激","p":true}],"r_ele":[{"r":"ふんげき","p":true}],"sense":[{"gloss":"fury","pos":["n","vs","vi"]}]},"sdata":[]}

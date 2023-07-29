@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勤労者","p":true}],"r_ele":[{"r":"きんろうしゃ","p":true}],"sense":[{"gloss":"worker","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歌心","p":true}],"r_ele":[{"r":"うたごころ","p":true}],"sense":[{"gloss":"(waka) poetic sentiment, waka-composing mood, solid grounding in waka, meaning of a waka poem","pos":["n"]}]},"sdata":[]}

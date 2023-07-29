@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"進駐軍","p":true}],"r_ele":[{"r":"しんちゅうぐん","p":true}],"sense":[{"gloss":"occupying forces (esp. of the Allies in Japan after World War II)","pos":["n"]}]},"sdata":[]}

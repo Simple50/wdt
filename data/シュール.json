@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シュール","p":true}],"sense":[{"gloss":"surreal","pos":["adj-na"]},{"gloss":"surrealism","pos":["n"],"m":["abbr"],"x":["シュルレアリスム"]}]},"sdata":[]}

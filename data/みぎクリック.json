@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"右クリック","p":true}],"r_ele":[{"r":"みぎクリック","p":true}],"sense":[{"gloss":"right-click","pos":["n","vs","vt"],"f":["comp"],"x":["左クリック"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シーズンオフ","p":true},{"r":"シーズン・オフ"}],"sense":[{"gloss":"off-season","pos":["n"],"l":"eng: season off"}]},"sdata":[{"j":"|シーズンオフ|はホテルは↑割安↑↓わりやす↓だ。","e":"Hotels are cheaper in the off season."}]}

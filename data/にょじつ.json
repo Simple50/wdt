@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"如実","p":true}],"r_ele":[{"r":"にょじつ","p":true}],"sense":[{"gloss":"reality, actuality, actual conditions, true situation, faithful representation, vivid depiction","pos":["n"]},{"gloss":"ultimate reality, absolute truth","pos":["n"],"f":["Buddh"]}]},"sdata":[]}

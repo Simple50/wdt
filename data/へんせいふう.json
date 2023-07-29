@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"偏西風","p":true}],"r_ele":[{"r":"へんせいふう","p":true}],"sense":[{"gloss":"westerlies, prevailing westerlies","pos":["n"]}]},"sdata":[]}

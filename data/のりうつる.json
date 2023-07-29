@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗り移る","p":true},{"e":"乗移る"}],"r_ele":[{"r":"のりうつる","p":true}],"sense":[{"gloss":"to change (buses, boats, etc.), to transfer (to)","pos":["v5r","vi"]},{"gloss":"to possess (of a god, spirit, etc.)","pos":["v5r","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流れ作業","p":true}],"r_ele":[{"r":"ながれさぎょう","p":true}],"sense":[{"gloss":"assembly-line system","pos":["n"]}]},"sdata":[]}

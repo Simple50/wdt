@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィルム","p":true},{"r":"フイルム","p":true}],"sense":[{"gloss":"film","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"半官半民","p":true}],"r_ele":[{"r":"はんかんはんみん","p":true}],"sense":[{"gloss":"semi-governmental, semi-official","pos":["n","adj-no"]}],"m":["yoji"]},"sdata":[]}

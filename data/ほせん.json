@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"保線","p":true}],"r_ele":[{"r":"ほせん","p":true}],"sense":[{"gloss":"track maintenance","pos":["n"]}]},"sdata":[]}

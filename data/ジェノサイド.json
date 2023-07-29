@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジェノサイド","p":true}],"sense":[{"gloss":"genocide","pos":["n"]}]},"sdata":[]}

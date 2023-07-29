@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強含み","p":true}],"r_ele":[{"r":"つよふくみ","p":true},{"r":"つよぶくみ"}],"sense":[{"gloss":"bullish tendency, strong tone (of a market), firm tone","pos":["n"],"f":["finc"],"ant":["弱含み"]}]},"sdata":[]}

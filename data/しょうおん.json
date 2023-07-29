@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"消音","p":true}],"r_ele":[{"r":"しょうおん","p":true}],"sense":[{"gloss":"silencing (e.g. machine), muffling, muting (e.g. TV)","pos":["n","vs","vt","vi","adj-no"]}]},"sdata":[]}

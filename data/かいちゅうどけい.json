@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"懐中時計","p":true}],"r_ele":[{"r":"かいちゅうどけい","p":true}],"sense":[{"gloss":"pocket watch","pos":["n"]}]},"sdata":[]}

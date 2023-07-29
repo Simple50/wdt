@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グリル","p":true}],"sense":[{"gloss":"grill (esp. fish grill), grilled food","pos":["n"]},{"gloss":"grill room, restaurant serving grilled food","pos":["n"]},{"gloss":"(radiator) grille","pos":["n"]}]},"sdata":[{"j":"トムは|グリル|から↑肉↑↓にく↓を↑取↑↓と↓り↑出↑↓だ↓した。","e":"Tom took the meat off the grill."}]}

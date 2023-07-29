@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"議院運営委員会","p":true}],"r_ele":[{"r":"ぎいんうんえいいいんかい","p":true}],"sense":[{"gloss":"Committee on Rules and Administration (Diet), House Steering Committee, Standing Committee for House Management","pos":["n"],"x":["議運"]}]},"sdata":[]}

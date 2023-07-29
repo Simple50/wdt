@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電話口","p":true}],"r_ele":[{"r":"でんわぐち","p":true}],"sense":[{"gloss":"telephone receiver, telephone mouthpiece","pos":["n"]},{"gloss":"making a telephone call, receiving a telephone call","pos":["n"],"x":["電話口に出る・でんわぐちにでる"]}]},"sdata":[]}

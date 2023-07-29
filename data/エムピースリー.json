@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＭＰ３","p":true}],"r_ele":[{"r":"エムピースリー","p":true}],"sense":[{"gloss":"MP3","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"あなたの↑古↑↓ふる↓い↑MP3↑↓|エムピースリー|↓プレイヤーの↑購入↑↓こうにゅう↓にトムが↑興味↑↓きょうみ↓を↑示↑↓しめ↓す↑見込↑↓みこ↓みはないと↑思↑↓おも↓う。","e":"I think it's unlikely that Tom would be interested in buying your old MP3 player."}]}

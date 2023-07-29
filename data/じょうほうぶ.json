@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"情報部","p":true}],"r_ele":[{"r":"じょうほうぶ","p":true}],"sense":[{"gloss":"information bureau, intelligence department","pos":["n"]}]},"sdata":[]}

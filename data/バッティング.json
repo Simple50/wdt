@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バッティング","p":true}],"sense":[{"gloss":"batting (baseball, cricket, etc.)","pos":["n"],"f":["sports"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は|バッティング|に↑精通↑↓せいつう↓している。","e":"He is at home on batting."},{"j":"スケジュールが|バッティング|しなきゃ↑大丈夫↑↓だいじょうぶ↓です。","e":"The schedule's fine as long as nothing clashes."}]}

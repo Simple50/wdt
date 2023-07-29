@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蝶々","p":true},{"e":"蝶蝶","p":true}],"r_ele":[{"r":"ちょうちょう","p":true},{"r":"ちょうちょ"},{"r":"チョウチョウ"},{"r":"チョウチョ"}],"sense":[{"gloss":"butterfly","pos":["n"]}]},"kdata":{"蝶":{"on":["チョウ"],"meanings":["butterfly"],"freq":2011,"comp":[["枼","虫"]],"jlpt":0}},"sdata":[]}

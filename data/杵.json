@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"杵","p":true}],"r_ele":[{"r":"きね","p":true}],"sense":[{"gloss":"mallet, pestle, pounder","pos":["n"]}]},"kdata":{"杵":{"on":["ショ","ソ"],"kun":["きね"],"meanings":["wooden pestle"],"freq":2355,"comp":[["午","木"]],"jlpt":0}},"sdata":[]}

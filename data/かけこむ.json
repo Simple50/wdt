@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆け込む","p":true},{"e":"かけ込む"},{"e":"駆けこむ"},{"e":"駈け込む"},{"e":"駆込む"},{"e":"駈けこむ"}],"r_ele":[{"r":"かけこむ","p":true}],"sense":[{"gloss":"to run into, to rush into","pos":["v5m","vi"]},{"gloss":"to (run and) seek refuge in, to take shelter in","pos":["v5m","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"問責","p":true}],"r_ele":[{"r":"もんせき","p":true}],"sense":[{"gloss":"blame, censure, reproof, reprimand, rebuke","pos":["n","vs","vt"]}]},"sdata":[]}

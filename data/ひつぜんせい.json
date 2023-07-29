@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"必然性","p":true}],"r_ele":[{"r":"ひつぜんせい","p":true}],"sense":[{"gloss":"necessity, inevitability","pos":["n"]}]},"sdata":[]}

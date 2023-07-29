@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"組み込む","p":true},{"e":"組込む"},{"e":"組みこむ","i":["sK"]}],"r_ele":[{"r":"くみこむ","p":true}],"sense":[{"gloss":"to insert, to include, to incorporate, to install","pos":["v5m","vt"]}]},"sdata":[]}

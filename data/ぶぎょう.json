@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奉行","p":true}],"r_ele":[{"r":"ぶぎょう","p":true}],"sense":[{"gloss":"magistrate, shogunate administrator","pos":["n"]}],"m":["hist"]},"sdata":[]}

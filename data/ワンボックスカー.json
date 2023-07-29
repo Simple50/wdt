@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワンボックスカー","p":true},{"r":"ワン・ボックス・カー"}],"sense":[{"gloss":"6-8 seat automobile with sliding door or doors, minivan, people-mover","pos":["n"],"l":"eng: one box car"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"艦載機","p":true}],"r_ele":[{"r":"かんさいき","p":true}],"sense":[{"gloss":"ship-borne plane","pos":["n"]}]},"sdata":[]}

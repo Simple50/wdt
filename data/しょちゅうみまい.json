@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暑中見舞","p":true},{"e":"暑中見舞い","p":true}],"r_ele":[{"r":"しょちゅうみまい","p":true}],"sense":[{"gloss":"summer greeting card, inquiry after someone's health in the hot season","pos":["n"],"x":["暑中お見舞い"]}]},"sdata":[{"j":"↑暑中↑↓|しょちゅう↓↑見舞↑↓みま↓い|をみんなに↑書↑↓か↓いた。","e":"I wrote to everybody inquiring after their health in the hot season."}]}

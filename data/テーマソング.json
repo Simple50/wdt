@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テーマソング","p":true},{"r":"テーマ・ソング"}],"sense":[{"gloss":"theme song","pos":["n"]}]},"sdata":[{"j":"↑好↑↓す↓きなテレビ↑番組↑↓ばんぐみ↓の|テーマソング|は↑何↑↓なん↓ですか？","e":"What's your favorite TV show theme song?"}]}

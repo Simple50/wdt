@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"投資信託","p":true}],"r_ele":[{"r":"とうししんたく","p":true}],"sense":[{"gloss":"investment trust, mutual fund","pos":["n"],"f":["finc"],"x":["投信"]}]},"sdata":[]}

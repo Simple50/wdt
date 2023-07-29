@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パラソル","p":true}],"sense":[{"gloss":"parasol (esp. one that is secured to the ground), sunshade, (beach) umbrella","pos":["n"]}]},"sdata":[{"j":"|パラソル|は↑顔↑↓かお↓に↑陽↑↓ひ↓が↑当↑↓あ↓たらないように↑夏↑↓なつ↓に↑用↑↓もち↓いる。","e":"A parasol is used during the summertime to shade the face."},{"j":"↑白↑↓しろ↓い|パラソル|は↑彼女↑↓かのじょ↓のです。","e":"The white parasol is hers."}]}

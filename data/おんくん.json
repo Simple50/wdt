@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"音訓","p":true}],"r_ele":[{"r":"おんくん","p":true}],"sense":[{"gloss":"kanji readings","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前山","p":true}],"r_ele":[{"r":"ぜんざん","p":true}],"sense":[{"gloss":"foothills, first range of mountains","pos":["n"]}]},"sdata":[]}

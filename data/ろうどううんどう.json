@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"労働運動","p":true}],"r_ele":[{"r":"ろうどううんどう","p":true}],"sense":[{"gloss":"labour movement, labor movement","pos":["n"]}]},"sdata":[]}

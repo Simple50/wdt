@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漠然","p":true},{"e":"ばく然"}],"r_ele":[{"r":"ばくぜん","p":true}],"sense":[{"gloss":"vague, obscure, indistinct, hazy, ambiguous","pos":["adj-t","adv-to"]}]},"sdata":[]}

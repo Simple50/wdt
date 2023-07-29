@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トーキー","p":true},{"r":"トーキ"}],"sense":[{"gloss":"talkie (motion picture with sound)","pos":["n"]},{"gloss":"prerecorded announcement","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"現出","p":true}],"r_ele":[{"r":"げんしゅつ","p":true}],"sense":[{"gloss":"appearance, emergence","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"ルイ14↑世↑↓せい↓はフランス↑絶対↑↓ぜったい↓↑王政↑↓おうせい↓の↑最盛↑↓さいせい↓↑期↑↓き↓を↑現出↑↓|げんしゅつ|↓し、「↑太陽↑↓たいよう↓↑王↑↓おう↓」と↑呼↑↓よ↓ばれた。","e":"Louis the 14th, known as the \"Sun King\", brought about the golden age of the French absolute monarchy."}]}

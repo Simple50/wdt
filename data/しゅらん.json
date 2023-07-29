@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酒乱","p":true}],"r_ele":[{"r":"しゅらん","p":true}],"sense":[{"gloss":"drunken frenzy, drunken violence","pos":["n"]},{"gloss":"person who is prone to violence when drunk","pos":["n"]}]},"sdata":[]}

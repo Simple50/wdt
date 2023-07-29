@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トライアングル","p":true}],"sense":[{"gloss":"triangle (musical instrument)","pos":["n"]},{"gloss":"triangle (shape)","pos":["n"],"x":["三角形"]}]},"sdata":[{"j":"バーミューダ|トライアングル|での↑失踪↑↓しっそう↓は↑不可解↑↓ふかかい↓です。","e":"The disappearances in the Bermuda Triangle are inexplicable."}]}

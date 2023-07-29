@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公式サイト","p":true}],"r_ele":[{"r":"こうしきサイト","p":true}],"sense":[{"gloss":"official website","pos":["n"],"x":["非公式サイト"]}]},"sdata":[]}

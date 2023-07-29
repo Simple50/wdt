@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"時計回り","p":true}],"r_ele":[{"r":"とけいまわり","p":true}],"sense":[{"gloss":"clockwise rotation, CW","pos":["n"],"ant":["反時計回り"]}]},"sdata":[{"j":"↑上部↑↓じょうぶ↓は↑時計↑↓|とけい↓↑回↑↓まわ↓り|に↑回↑↓まわ↓ってます。","e":"The top part is turning clockwise."},{"j":"ノブを↑時計↑↓|とけい↓↑回↑↓まわ↓り|に↑回↑↓まわ↓して。","e":"Turn the knob clockwise."}]}

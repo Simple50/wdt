@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本局","p":true}],"r_ele":[{"r":"ほんきょく","p":true}],"sense":[{"gloss":"main office","pos":["n"]}]},"sdata":[]}

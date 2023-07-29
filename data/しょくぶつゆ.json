@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"植物油","p":true},{"e":"食物油","i":["iK"]}],"r_ele":[{"r":"しょくぶつゆ","p":true}],"sense":[{"gloss":"vegetable oil","pos":["n"]}]},"sdata":[]}

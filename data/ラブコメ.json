@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラブコメ","p":true},{"r":"ラヴコメ"}],"sense":[{"gloss":"rom-com, romantic comedy","pos":["n"],"x":["ラブコメディ"],"l":"eng: love comedy"}],"m":["abbr"]},"sdata":[{"j":"メアリーは|ラブコメ|が↑好↑↓す↓きだ。","e":"Mary likes romantic comedies."}]}

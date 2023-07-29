@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ネイル","p":true},{"r":"ネール","p":true}],"sense":[{"gloss":"nail, fingernail","pos":["n"],"x":["爪・1"]}]},"sdata":[]}

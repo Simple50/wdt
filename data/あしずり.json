@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"足ずり","p":true},{"e":"足摺り"},{"e":"足摺","i":["io"]}],"r_ele":[{"r":"あしずり","p":true}],"sense":[{"gloss":"stamping one's feet (in anger, frustration, etc.), scuffing the ground","pos":["n","vs","vi"]}]},"sdata":[]}

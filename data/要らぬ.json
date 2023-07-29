@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"要らぬ","p":true}],"r_ele":[{"r":"いらぬ","p":true}],"sense":[{"gloss":"needless","pos":["adj-pn"]}],"m":["uk"]},"kdata":{"要":{"on":["ヨウ"],"kun":["い.る","かなめ"],"jlpt":3,"meanings":["need","main point","essence","pivot","key to"],"freq":106,"comp":[["覀","女"]],"d":["腰","偠","喓","葽","楆"],"t":956}},"sdata":[]}

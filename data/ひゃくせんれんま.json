@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"百戦錬磨","p":true},{"e":"百戦練磨"}],"r_ele":[{"r":"ひゃくせんれんま","p":true}],"sense":[{"gloss":"veteran, battle-worn, schooled by adversity in many battles, hard-bitten, rich in experience, very experienced","pos":["adj-no"]}],"m":["yoji"]},"sdata":[]}

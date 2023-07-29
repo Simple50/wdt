@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＡＳＣＩＩ","p":true}],"r_ele":[{"r":"アスキー","p":true}],"sense":[{"gloss":"American Standard Code for Information Interchange, ASCII","pos":["n"],"f":["comp"]}]},"sdata":[]}

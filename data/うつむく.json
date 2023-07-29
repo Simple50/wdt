@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"俯く","p":true},{"e":"うつ向く","i":["iK"]},{"e":"俯向く","i":["iK"]}],"r_ele":[{"r":"うつむく","p":true}],"sense":[{"gloss":"to hang one's head, to look down, to cast one's eyes downward","pos":["v5k","vi"]}],"m":["uk"]},"sdata":[]}

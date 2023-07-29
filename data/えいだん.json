@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"英断","p":true}],"r_ele":[{"r":"えいだん","p":true}],"sense":[{"gloss":"firm decision, decisive measure, resolute step, excellent decision","pos":["n"]}]},"sdata":[]}

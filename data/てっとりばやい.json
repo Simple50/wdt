@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手っ取り早い","p":true}],"r_ele":[{"r":"てっとりばやい","p":true}],"sense":[{"gloss":"quick, prompt, without delay","pos":["adj-i"]},{"gloss":"simple, easy, effortless","pos":["adj-i"]}]},"sdata":[{"j":"そうやった↑方↑↓ほう↓が↑手↑↓|て↓っ↑取↑↓と↓り↑早↑↓ばや↓い|。","e":"It's more expeditious to do it that way."}]}

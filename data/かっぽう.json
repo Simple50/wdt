@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"割烹","p":true},{"e":"割ぽう"}],"r_ele":[{"r":"かっぽう","p":true}],"sense":[{"gloss":"cooking (esp. Japanese style), cuisine","pos":["n"]},{"gloss":"(Japanese) restaurant","pos":["n"],"x":["割烹店"]}]},"sdata":[]}

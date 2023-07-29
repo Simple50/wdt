@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"石材","p":true}],"r_ele":[{"r":"せきざい","p":true}],"sense":[{"gloss":"(building) stone","pos":["n"]}]},"sdata":[{"j":"↑宝石↑↓ほう|せき↓↑細工↑↓ざい|く↓↑師↑↓し↓はそのブローチに↑大↑↓おお↓きな↑真珠↑↓しんじゅ↓をはめ↑込↑↓こ↓んだ。","e":"The jeweler mounted a big pearl in the brooch."}]}

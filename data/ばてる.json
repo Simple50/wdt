@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バテる"},{"r":"ばてる","p":true}],"sense":[{"gloss":"to be exhausted, to be worn out","pos":["v1","vi"]}],"m":["col"]},"sdata":[]}

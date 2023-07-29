@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連れ添う","p":true},{"e":"つれ添う"}],"r_ele":[{"r":"つれそう","p":true}],"sense":[{"gloss":"to become a couple, to be man and wife, to be married to","pos":["v5u","vi"]}]},"sdata":[]}

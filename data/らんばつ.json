@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱伐","p":true},{"e":"濫伐","p":true}],"r_ele":[{"r":"らんばつ","p":true}],"sense":[{"gloss":"reckless deforestation, overcutting of forests","pos":["n","vs","vt"]}]},"sdata":[]}

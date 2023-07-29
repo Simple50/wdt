@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"時々刻々","p":true},{"e":"時時刻刻"}],"r_ele":[{"r":"じじこっこく","p":true},{"r":"じじこくこく"}],"sense":[{"gloss":"hourly, from one minute to the next, from hour to hour, moment by moment, with each passing moment","pos":["adv"]}],"m":["yoji"]},"sdata":[]}

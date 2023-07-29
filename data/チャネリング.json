@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チャネリング","p":true}],"sense":[{"gloss":"channelling, channeling","pos":["n","vs"]}]},"sdata":[]}

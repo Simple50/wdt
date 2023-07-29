@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"門下生","p":true}],"r_ele":[{"r":"もんかせい","p":true}],"sense":[{"gloss":"pupil, disciple, follower","pos":["n"]}]},"sdata":[]}

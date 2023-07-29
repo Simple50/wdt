@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"司直","p":true}],"r_ele":[{"r":"しちょく","p":true}],"sense":[{"gloss":"judge, judiciary, administration of justice, judicial authorities","pos":["n"]}]},"sdata":[]}

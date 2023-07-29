@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"適正価格","p":true}],"r_ele":[{"r":"てきせいかかく","p":true}],"sense":[{"gloss":"fair or reasonable price","pos":["n"]}]},"sdata":[]}

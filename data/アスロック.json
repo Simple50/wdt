@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＡＳＲＯＣ"}],"r_ele":[{"r":"アスロック","p":true}],"sense":[{"gloss":"Anti-Submarine ROCket, ASROC","pos":["n"]}]},"sdata":[]}

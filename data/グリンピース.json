@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グリーンピース","p":true},{"r":"グリンピース","p":true},{"r":"グリーン・ピース"},{"r":"グリン・ピース"}],"sense":[{"gloss":"green peas","pos":["n"]}]},"sdata":[{"j":"|グリンピース|は↑好↑↓す↓き？","e":"Do you like peas?"},{"j":"|グリンピース|はもううんざりなんだ。","e":"I'm sick of eating peas."},{"j":"|グリンピース|↑買↑↓か↓ってきて。↑冷凍↑↓れいとう↓のやつね。","e":"Go buy some green peas — the frozen kind."}]}

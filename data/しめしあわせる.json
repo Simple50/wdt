@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"示し合わせる","p":true},{"e":"示し合せる"}],"r_ele":[{"r":"しめしあわせる","p":true}],"sense":[{"gloss":"to arrange beforehand, to make a sign to each other, to conspire","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弱小","p":true},{"e":"弱少"}],"r_ele":[{"r":"じゃくしょう","p":true}],"sense":[{"gloss":"puniness, youth","pos":["adj-na","n"]}]},"sdata":[]}

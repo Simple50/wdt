@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"講演会","p":true}],"r_ele":[{"r":"こうえんかい","p":true}],"sense":[{"gloss":"lecture (esp. special engagement by noted speaker), lecture meeting (event with one or more lectures)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑講演↑↓|こうえん↓↑会↑↓かい|↓にはたくさんの↑聴衆↑↓ちょうしゅう↓が↑集↑↓あつ↓まっていた。","e":"His lecture had a large audience."}]}

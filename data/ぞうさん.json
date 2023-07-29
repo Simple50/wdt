@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増産","p":true}],"r_ele":[{"r":"ぞうさん","p":true}],"sense":[{"gloss":"production increase","pos":["n","vs","vt"],"ant":["減産"]}]},"sdata":[{"j":"うちが↑援助↑↓えんじょ↓してる↑酒造↑↓しゅ|ぞう↓さん|がね、↑新↑↓あたら↓しい↑甘酒↑↓あまざけ↓を↑造↑↓つく↓ったから↑試飲↑↓しいん↓してみてくださいって↑持↑↓も↓ってきてくれたんだけど・・・。","e":"A brewery we finance has made a new sweet sake and brought some to us asking us to try it."}]}

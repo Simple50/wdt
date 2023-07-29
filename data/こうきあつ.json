@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高気圧","p":true}],"r_ele":[{"r":"こうきあつ","p":true}],"sense":[{"gloss":"high (atmospheric) pressure, high-pressure system, anticyclone","pos":["n"],"x":["低気圧"]}]},"sdata":[]}

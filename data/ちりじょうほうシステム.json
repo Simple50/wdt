@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地理情報システム","p":true}],"r_ele":[{"r":"ちりじょうほうシステム","p":true}],"sense":[{"gloss":"geographic information system, GIS","pos":["n"]}]},"sdata":[]}

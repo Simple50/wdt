@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"こみ上げる"},{"e":"込み上げる","p":true},{"e":"込みあげる"},{"e":"込上げる"}],"r_ele":[{"r":"こみあげる","p":true}],"sense":[{"gloss":"to well up (of tears, anger, joy, etc.), to surge up (within oneself), to rise, to fill one's heart, to overcome one","pos":["v1","vi"]},{"gloss":"to feel nauseated, to feel sick","pos":["v1","vi"]}]},"sdata":[]}

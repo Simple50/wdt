@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"衆議院","p":true}],"r_ele":[{"r":"しゅうぎいん","p":true}],"sense":[{"gloss":"House of Representatives (lower house of the National Diet of Japan)","pos":["n"]}]},"sdata":[{"j":"↑衆議院↑↓|しゅうぎいん|↓の↑少数↑↓しょうすう↓↑派↑↓は↓の↑議席↑↓ぎせき↓は、↑急速↑↓きゅうそく↓にむしばまれてきています。","e":"The number of minority seats in the Lower House is rapidly eroding."}]}

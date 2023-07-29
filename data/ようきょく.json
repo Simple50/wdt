@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"謡曲","p":true}],"r_ele":[{"r":"ようきょく","p":true}],"sense":[{"gloss":"noh song","pos":["n"]}]},"sdata":[{"j":"↑最近↑↓さいきん↓は↑老若男女↑↓ろうにゃくなんにょ↓が↑歌↑↓うた↓えるような↑歌謡曲↑↓か|ようきょく|↓を↑耳↑↓みみ↓にすることもなくなった。","e":"Nowadays you no longer hear popular songs that can be sung by men and women of all ages."}]}

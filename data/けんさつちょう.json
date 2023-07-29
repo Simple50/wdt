@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"検察庁","p":true}],"r_ele":[{"r":"けんさつちょう","p":true}],"sense":[{"gloss":"Public Prosecutor's Office","pos":["n"]}],"m":["abbr"]},"sdata":[]}

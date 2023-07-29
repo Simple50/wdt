@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"開発元","p":true}],"r_ele":[{"r":"かいはつもと","p":true}],"sense":[{"gloss":"developer (of software, video games, etc.)","pos":["n"]}]},"sdata":[{"j":"↑隠↑↓かく↓れキャラも↑登場↑↓とうじょう↓↑予定↑↓よてい↓？↑開発元↑↓|かいはつもと|↓に↑聞↑↓き↓く。","e":"Are there to be hidden characters as well? We ask the developers."}]}

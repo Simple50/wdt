@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミューズ","p":true},{"r":"ムーサ","p":true}],"sense":[{"gloss":"Muse, one's muse","pos":["n"]}]},"sdata":[]}

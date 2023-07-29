@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絡まる","p":true}],"r_ele":[{"r":"からまる","p":true}],"sense":[{"gloss":"to be entwined, to be involved","pos":["v5r","vi"]}]},"sdata":[{"j":"↑今日↑↓きょう↓|から↑丸↑↓まる|↓１↑日↑↓にち↓お↑願↑↓ねが↓いします。","e":"For a full day from today please."}]}

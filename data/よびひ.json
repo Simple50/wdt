@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"予備費","p":true}],"r_ele":[{"r":"よびひ","p":true}],"sense":[{"gloss":"reserve funds, emergency funds","pos":["n"]}]},"sdata":[]}

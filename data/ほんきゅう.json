@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本給","p":true}],"r_ele":[{"r":"ほんきゅう","p":true}],"sense":[{"gloss":"basic or regular salary","pos":["n"]}]},"sdata":[{"j":"あなたの↑給与↑↓きゅうよ↓は↑一定↑↓いってい↓の↑基本給↑↓き|ほんきゅう|↓に↑販売↑↓はんばい↓↑手数料↑↓てすうりょう↓が↑加算↑↓かさん↓されます。","e":"You will be paid a stable base salary plus commissions on sale."}]}

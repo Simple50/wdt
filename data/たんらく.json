@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"短絡","p":true}],"r_ele":[{"r":"たんらく","p":true}],"sense":[{"gloss":"short circuit, short","pos":["n","vs","vt","vi"],"f":["elec"],"x":["ショート・3"]},{"gloss":"illogical jump, drawing a hasty inference (between two events), jumping to conclusions, acting rashly","pos":["n","vs","vt","vi"]}]},"sdata":[]}

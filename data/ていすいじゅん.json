@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低水準","p":true}],"r_ele":[{"r":"ていすいじゅん","p":true}],"sense":[{"gloss":"substandard, low-level","pos":["adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押印","p":true}],"r_ele":[{"r":"おういん","p":true}],"sense":[{"gloss":"affixing a seal (to), putting one's seal (on)","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑書式↑↓しょしき↓に↑必↑↓かなら↓ず↑署名↑↓しょめい↓↑押印↑↓|おういん|↓してください。","e":"Please be sure to sign and seal the form."}]}

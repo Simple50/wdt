@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縮まる","p":true}],"r_ele":[{"r":"ちぢまる","p":true}],"sense":[{"gloss":"to shorten, to narrow, to close, to shrink","pos":["v5r","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セレナーデ","p":true},{"r":"セレナード","p":true}],"sense":[{"gloss":"serenade","pos":["n","vs"],"f":["music"],"l":"fre: sérénade,ger: Serenade"}]},"sdata":[]}

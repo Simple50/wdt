@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受け止める","p":true},{"e":"受けとめる"}],"r_ele":[{"r":"うけとめる","p":true}],"sense":[{"gloss":"to catch, to stop the blow","pos":["v1","vt"]},{"gloss":"to react to, to take (advice, etc.), to accept, to come to grips with","pos":["v1","vt"]}]},"sdata":[{"j":"↑何↑↓なん↓でもかんでもそう↑深刻↑↓しんこく↓に↑受↑↓|う↓け↑止↑↓と↓める|な。","e":"Don't take everything so seriously."}]}

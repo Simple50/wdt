@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"栄養分","p":true}],"r_ele":[{"r":"えいようぶん","p":true}],"sense":[{"gloss":"nutriment, nutritious substance, nourishment","pos":["n"]}]},"sdata":[{"j":"このビタミン↑剤↑↓ざい↓は↑栄養分↑↓|えいようぶん|↓を↑豊富↑↓ほうふ↓に↑含↑↓ふく↓んでいる。","e":"The vitamin pill contains abundant nutrition."}]}

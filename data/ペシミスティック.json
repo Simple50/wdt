@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペシミスティック","p":true},{"r":"ペシミスチック"}],"sense":[{"gloss":"pessimistic","pos":["adj-na"]}]},"sdata":[]}

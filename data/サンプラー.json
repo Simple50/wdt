@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンプラー","p":true},{"r":"サンプラ"}],"sense":[{"gloss":"sampler","pos":["n"]},{"gloss":"imitation platinum","pos":["n"]}]},"sdata":[]}

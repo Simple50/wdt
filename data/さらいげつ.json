@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再来月","p":true},{"e":"さ来月"}],"r_ele":[{"r":"さらいげつ","p":true}],"sense":[{"gloss":"month after next","pos":["n","adv"]}]},"sdata":[{"j":"↑再来月↑↓|さらいげつ|↓は↑１２月↑↓じゅうにがつ↓だ。","e":"The month after next is December."}]}

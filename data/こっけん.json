@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国権","p":true}],"r_ele":[{"r":"こっけん","p":true}],"sense":[{"gloss":"power of the state, national sovereignty, sovereign rights","pos":["n"]}]},"sdata":[]}

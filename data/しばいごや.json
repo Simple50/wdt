@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"芝居小屋","p":true}],"r_ele":[{"r":"しばいごや","p":true}],"sense":[{"gloss":"playhouse, theatre, theater","pos":["n"]}]},"sdata":[]}

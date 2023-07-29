@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダクト","p":true}],"sense":[{"gloss":"duct","pos":["n"]}]},"sdata":[{"j":"このプロ|ダクト|はインテリジェント↑総合↑↓そうごう↓↑情報↑↓じょうほう↓システムです。","e":"This product is an intelligent integrated information system."}]}

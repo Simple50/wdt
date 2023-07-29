@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"楕円","p":true},{"e":"だ円"},{"e":"橢円","i":["oK"]}],"r_ele":[{"r":"だえん","p":true}],"sense":[{"gloss":"ellipse","pos":["n","adj-no"]}]},"sdata":[{"j":"シリウスを↑回↑↓まわ↓る↑軌道↑↓きどう↓は↑楕円↑↓|だえん|↓↑形↑↓がた↓である。","e":"The orbit around Sirius is elliptical."}]}

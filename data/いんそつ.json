@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引率","p":true},{"e":"引卒","i":["iK"]}],"r_ele":[{"r":"いんそつ","p":true}],"sense":[{"gloss":"leading, guiding, commanding","pos":["n","vs","vt"]}]},"sdata":[{"j":"トムがサッカーのチームを↑引率↑↓|いんそつ|↓する。","e":"Tom leads the soccer team."},{"j":"サッカーのチームはトムによって↑引率↑↓|いんそつ|↓される。","e":"The soccer team is led by Tom."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一時金","p":true}],"r_ele":[{"r":"いちじきん","p":true}],"sense":[{"gloss":"single amount (of money), one-off payment, lump sum","pos":["n"]},{"gloss":"bonus","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詰め合わせ","p":true},{"e":"詰合せ"},{"e":"詰合わせ"},{"e":"詰め合せ"}],"r_ele":[{"r":"つめあわせ","p":true}],"sense":[{"gloss":"combination, assortment (of goods), assorted basket or box (e.g. of chocolates)","pos":["n"]}]},"sdata":[]}

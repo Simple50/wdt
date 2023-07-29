@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本一","p":true}],"r_ele":[{"r":"にほんいち","p":true},{"r":"にっぽんいち"}],"sense":[{"gloss":"Japan's best, number one in Japan","pos":["n","adj-no"]}]},"sdata":[{"j":"↑富士山↑↓ふじさん↓は↑日本一↑↓|にほんいち|↓↑高↑↓たか↓い↑山↑↓やま↓です。","e":"Mt. Fuji is the highest mountain in Japan."},{"j":"そのビルは↑日本一↑↓|にほんいち|↓↑高↑↓たか↓い↑建物↑↓たてもの↓です。","e":"That building is the tallest in Japan."}]}

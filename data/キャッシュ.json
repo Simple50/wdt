@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャッシュ","p":true}],"sense":[{"gloss":"cache","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"↑口座↑↓こうざ↓↑番号↑↓ばんごう↓などを↑記憶↑↓きおく↓したプラスチック↑製↑↓せい↓の↑磁気↑↓じき↓カードは|キャッシュ|カードと↑言↑↓い↓いますか？","e":"Is the magnetic card made of plastic which stores your bank account called a cash card?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"送信機","p":true}],"r_ele":[{"r":"そうしんき","p":true}],"sense":[{"gloss":"transmitter (device)","pos":["n"]}]},"sdata":[]}

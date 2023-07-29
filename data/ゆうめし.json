@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夕飯","p":true}],"r_ele":[{"r":"ゆうはん","p":true},{"r":"ゆうめし","p":true}],"sense":[{"gloss":"evening meal, dinner, supper","pos":["n"]}]},"sdata":[]}

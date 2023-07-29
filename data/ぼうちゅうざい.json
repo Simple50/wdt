@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防虫剤","p":true}],"r_ele":[{"r":"ぼうちゅうざい","p":true}],"sense":[{"gloss":"insect repellent","pos":["n"]}]},"sdata":[]}

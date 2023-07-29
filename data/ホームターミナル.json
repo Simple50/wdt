@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホームターミナル","p":true},{"r":"ホーム・ターミナル"}],"sense":[{"gloss":"home terminal","pos":["n"]}]},"sdata":[]}

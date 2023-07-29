@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サイレント","p":true}],"sense":[{"gloss":"silent","pos":["adj-na"]},{"gloss":"silent movie, silent film","pos":["n"],"m":["abbr"],"x":["サイレント映画"]},{"gloss":"silent letter","pos":["n"]}]},"sdata":[{"j":"|サイレント|ムービーは↑嫌↑↓きら↓いです。","e":"I hate silent movies."},{"j":"|サイレント|ムービーは↑嫌↑↓きら↓いなんです。","e":"I hate silent movies."}]}

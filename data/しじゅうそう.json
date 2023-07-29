@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"四重奏","p":true}],"r_ele":[{"r":"しじゅうそう","p":true}],"sense":[{"gloss":"instrumental quartet","pos":["n"]}]},"sdata":[]}

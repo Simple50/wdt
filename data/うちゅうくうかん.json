@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宇宙空間","p":true}],"r_ele":[{"r":"うちゅうくうかん","p":true}],"sense":[{"gloss":"(outer) space","pos":["n"],"f":["astron"]}]},"sdata":[{"j":"↑宇宙↑↓|うちゅう↓↑空間↑↓くうかん|↓には↑空気↑↓くうき↓がない。","e":"There is no air in space."},{"j":"↑地球↑↓ちきゅう↓は↑宇宙↑↓|うちゅう↓↑空間↑↓くうかん|↓に↑漂↑↓ただよ↓う↑球体↑↓きゅうたい↓にすぎない。","e":"The earth is just a sphere suspended in space."}]}

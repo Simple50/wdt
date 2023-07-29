@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アゴラフォビア","p":true}],"sense":[{"gloss":"agoraphobia","pos":["n"]}]},"sdata":[]}

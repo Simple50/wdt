@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宿駅","p":true}],"r_ele":[{"r":"しゅくえき","p":true}],"sense":[{"gloss":"relay station, post station, stage","pos":["n"]}]},"sdata":[]}

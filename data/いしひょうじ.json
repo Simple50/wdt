@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"意思表示","p":true},{"e":"意志表示"}],"r_ele":[{"r":"いしひょうじ","p":true}],"sense":[{"gloss":"expressing one's feelings, communicating one's intention","pos":["n","vs"]},{"gloss":"declaration of intent","pos":["n","vs"],"f":["law"]}],"m":["yoji"]},"sdata":[]}

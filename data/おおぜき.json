@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大関","p":true}],"r_ele":[{"r":"おおぜき","p":true}],"sense":[{"gloss":"ōzeki (second highest rank in sumo)","pos":["n"],"f":["sumo"]}]},"sdata":[]}

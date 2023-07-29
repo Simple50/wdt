@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社会保険","p":true}],"r_ele":[{"r":"しゃかいほけん","p":true}],"sense":[{"gloss":"social insurance","pos":["n"]}]},"sdata":[{"j":"↑社会保険庁↑↓|しゃかいほけん|ちょう↓や↑厚生↑↓こうせい↓↑労働省↑↓ろうどうしょう↓への↑不信↑↓ふしん↓↑感↑↓かん↓は↑募↑↓つの↓る↑一方↑↓いっぽう↓である。","e":"Distrust of the Social Insurance Agency and the Ministry of Health, Labour and Welfare just keeps getting stronger."}]}

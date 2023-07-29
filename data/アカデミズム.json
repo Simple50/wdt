@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アカデミズム","p":true}],"sense":[{"gloss":"academism","pos":["n"]}]},"sdata":[]}

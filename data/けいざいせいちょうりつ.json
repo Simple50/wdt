@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"経済成長率","p":true}],"r_ele":[{"r":"けいざいせいちょうりつ","p":true}],"sense":[{"gloss":"rate of economic growth","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軟弱","p":true}],"r_ele":[{"r":"なんじゃく","p":true}],"sense":[{"gloss":"weakness","pos":["adj-na","n"]}]},"sdata":[]}

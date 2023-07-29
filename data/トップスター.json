@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トップスター","p":true},{"r":"トップ・スター"}],"sense":[{"gloss":"top star (esp. male lead role in the all-female Takarazuka musical theater troupe), major celebrity","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重篤","p":true}],"r_ele":[{"r":"じゅうとく","p":true}],"sense":[{"gloss":"critical (condition), serious","pos":["adj-na","n"]}]},"sdata":[]}

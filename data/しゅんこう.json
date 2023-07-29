@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"竣工","p":true},{"e":"竣功","i":["rK"]},{"e":"しゅん工","i":["sK"]},{"e":"しゅん功","i":["sK"]}],"r_ele":[{"r":"しゅんこう","p":true}],"sense":[{"gloss":"completion of construction","pos":["n","vs","vi"]}]},"sdata":[]}

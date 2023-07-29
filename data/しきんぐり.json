@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"資金繰り","p":true}],"r_ele":[{"r":"しきんぐり","p":true}],"sense":[{"gloss":"fundraising, financing, cash flow","pos":["n"]}]},"sdata":[{"j":"↑銀行↑↓ぎんこう↓が↑援助↑↓えんじょ↓の↑手↑↓て↓をさしのべるのを↑拒絶↑↓きょぜつ↓したら、あなたはどうして↑資金繰↑↓|しきんぐ↓り|の↑危機↑↓きき↓を↑乗↑↓の↓り↑切↑↓き↓るのか。","e":"How do you expect to weather the financial storm when the bank refuses to extend a helping hand?"}]}

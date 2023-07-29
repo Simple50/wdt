@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"執刀","p":true}],"r_ele":[{"r":"しっとう","p":true}],"sense":[{"gloss":"performing a surgical operation","pos":["n","vs","vi"]}]},"sdata":[]}

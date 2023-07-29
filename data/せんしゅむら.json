@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"選手村","p":true}],"r_ele":[{"r":"せんしゅむら","p":true}],"sense":[{"gloss":"Olympic village, athlete's village","pos":["n"]}]},"sdata":[{"j":"オリンピック↑選手↑↓せんしゅ↓は、↑大会↑↓たいかい↓↑期間↑↓きかん↓↑中↑↓ちゅう↓は↑選手↑↓|せんしゅ↓↑村↑↓むら|↓で↑生活↑↓せいかつ↓します。","e":"Olympic athletes live in the Olympic village for the duration of the games."}]}

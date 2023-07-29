@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テイクアウト","p":true},{"r":"テークアウト"}],"sense":[{"gloss":"takeout (food), take-out, takeaway, carry-out","pos":["n","vs","vt"],"x":["持ち帰り"]}]},"sdata":[{"j":"|テイクアウト|しよう。","e":"Let's get takeout."},{"j":"|テイクアウト|で↑注文↑↓ちゅうもん↓しようかな。","e":"I think I'll order some takeout."}]}

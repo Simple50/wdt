@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防衛庁","p":true}],"r_ele":[{"r":"ぼうえいちょう","p":true}],"sense":[{"gloss":"Japan Defense Agency (became Ministry of Defense in January 2007)","pos":["n"],"x":["防衛省"]}]},"sdata":[{"j":"↑防衛庁↑↓|ぼうえいちょう|↓が↑防衛↑↓ぼうえい↓↑省↑↓しょう↓に↑格上↑↓かくあ↓げされたのはなぜですか？","e":"Why was the Japan Defense Agency upgraded to the Japanese Ministry of Defense?"}]}

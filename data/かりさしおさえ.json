@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仮差押え"},{"e":"仮差し押さえ","p":true},{"e":"仮差し押え"},{"e":"仮差押"}],"r_ele":[{"r":"かりさしおさえ","p":true}],"sense":[{"gloss":"provisional seizure, provisional attachment, provisional garnishment","pos":["n"]}]},"sdata":[]}

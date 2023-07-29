@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風見","p":true}],"r_ele":[{"r":"かざみ","p":true}],"sense":[{"gloss":"weather vane","pos":["n"]}]},"sdata":[{"j":"↑風見↑↓|かざみ|↓は↑北↑↓きた↓をさしている。","e":"The weather vane points north."}]}

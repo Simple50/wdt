@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"しょんぼり","p":true}],"sense":[{"gloss":"downheartedly, dejectedly, dispiritedly, despondently","pos":["adv","adv-to","vs"]}],"m":["on-mim"]},"sdata":[{"j":"↑彼↑↓かれ↓は|しょんぼり|して、↑哀↑↓あわ↓れに↑見↑↓み↓えた。","e":"He looked piteous, like a drowned mouse."},{"j":"↑彼女↑↓かのじょ↓は↑今日↑↓きょう↓、|しょんぼり|している。","e":"She is in low spirits today."}]}

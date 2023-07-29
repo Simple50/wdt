@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漬物","p":true},{"e":"漬け物","p":true}],"r_ele":[{"r":"つけもの","p":true}],"sense":[{"gloss":"tsukemono, Japanese pickled vegetables","pos":["n"]}]},"sdata":[]}

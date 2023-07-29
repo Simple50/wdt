@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暗闘","p":true}],"r_ele":[{"r":"あんとう","p":true}],"sense":[{"gloss":"secret feud","pos":["n","vs","vi"]},{"gloss":"wordless pantomime performed in the dark","pos":["n"],"f":["kabuki"],"x":["だんまり・3"]}]},"sdata":[]}

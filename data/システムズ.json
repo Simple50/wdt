@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"システムズ","p":true}],"sense":[{"gloss":"systems","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"純益","p":true}],"r_ele":[{"r":"じゅんえき","p":true}],"sense":[{"gloss":"clear profit, net income, net profit","pos":["n"]}]},"sdata":[]}

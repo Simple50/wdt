@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相談所","p":true}],"r_ele":[{"r":"そうだんじょ","p":true},{"r":"そうだんしょ"}],"sense":[{"gloss":"consultation office, information center, bureau, agency","pos":["n"]}]},"sdata":[]}

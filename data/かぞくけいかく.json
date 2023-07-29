@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"家族計画","p":true}],"r_ele":[{"r":"かぞくけいかく","p":true}],"sense":[{"gloss":"family planning","pos":["n"]}]},"sdata":[]}

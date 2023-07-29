@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立て込む","p":true},{"e":"立込む"},{"e":"立てこむ","i":["sK"]}],"r_ele":[{"r":"たてこむ","p":true}],"sense":[{"gloss":"to be crowded, to be packed, to be busy","pos":["v5m","vi"]},{"gloss":"to be piled up (of work), to be busy (with many things), to be packed (of one's schedule), to have a lot of work to do, to have one's hands full","pos":["v5m","vi"]}]},"sdata":[]}

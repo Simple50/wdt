@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"理想郷","p":true}],"r_ele":[{"r":"りそうきょう","p":true}],"sense":[{"gloss":"ideal land, earthly paradise, Utopia, Arcadia","pos":["n"]}]},"sdata":[{"j":"↑結婚↑↓けっこん↓は、↑睦↑↓むつ↓まじければ↑理想郷↑↓|りそうきょう|↓、↑争↑↓あらそ↓い↑絶↑↓た↓えねば↑生↑↓い↓き↑地獄↑↓じごく↓。","e":"Marriage, in peace, is this world's paradise; in strife, this life's purgatory."}]}

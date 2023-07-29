@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入国管理局","p":true}],"r_ele":[{"r":"にゅうこくかんりきょく","p":true}],"sense":[{"gloss":"Immigration Bureau, Immigration Office","pos":["n"]}]},"sdata":[]}

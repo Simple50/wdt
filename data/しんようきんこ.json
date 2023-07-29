@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"信用金庫","p":true}],"r_ele":[{"r":"しんようきんこ","p":true}],"sense":[{"gloss":"credit union","pos":["n"]}]},"sdata":[]}

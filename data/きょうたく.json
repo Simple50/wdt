@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"供託","p":true}],"r_ele":[{"r":"きょうたく","p":true}],"sense":[{"gloss":"deposit","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土建屋","p":true}],"r_ele":[{"r":"どけんや","p":true}],"sense":[{"gloss":"general (civil engineering and construction) contractor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アスベスト","p":true}],"sense":[{"gloss":"asbestos","pos":["n"],"l":"dut: asbest"}]},"sdata":[]}

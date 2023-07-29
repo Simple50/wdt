@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"偽る","p":true},{"e":"詐る","i":["rK"]},{"e":"譃わる","i":["sK"]}],"r_ele":[{"r":"いつわる","p":true}],"sense":[{"gloss":"to lie, to pretend, to feign, to falsify","pos":["v5r","vt","vi"]},{"gloss":"to deceive, to trick","pos":["v5r","vt"]}]},"sdata":[]}

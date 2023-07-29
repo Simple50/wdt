@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"彫金","p":true}],"r_ele":[{"r":"ちょうきん","p":true}],"sense":[{"gloss":"chasing, metal carving, metal engraving","pos":["n","vs","vi"]}]},"sdata":[]}

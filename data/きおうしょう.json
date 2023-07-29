@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"既往症","p":true}],"r_ele":[{"r":"きおうしょう","p":true}],"sense":[{"gloss":"illness that one had in the past, previous illness, medical history, anamnesis","pos":["n"]}]},"sdata":[]}

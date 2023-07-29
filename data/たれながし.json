@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"垂れ流し","p":true},{"e":"たれ流し"}],"r_ele":[{"r":"たれながし","p":true}],"sense":[{"gloss":"incontinence, soiling oneself, wetting one's pants","pos":["n","vs"]},{"gloss":"discharge (e.g. of contaminants), effluence","pos":["n","vs"]}]},"sdata":[]}

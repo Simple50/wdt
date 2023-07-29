@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィクサー","p":true}],"sense":[{"gloss":"fixer","pos":["n"]}]},"sdata":[]}

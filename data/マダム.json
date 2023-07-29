@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マダム","p":true}],"sense":[{"gloss":"(married) woman, housewife, lady, madam","pos":["n"],"l":"fre: madame"},{"gloss":"manageress, proprietress (of a bar, coffee shop, etc.)","pos":["n"]}]},"sdata":[]}

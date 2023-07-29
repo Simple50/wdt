@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファッションショー","p":true},{"r":"ファッション・ショー"}],"sense":[{"gloss":"fashion show","pos":["n"]}]},"sdata":[]}

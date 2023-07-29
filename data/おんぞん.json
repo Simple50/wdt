@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"温存","p":true}],"r_ele":[{"r":"おんぞん","p":true}],"sense":[{"gloss":"preservation, retainment, keeping","pos":["n","vs","vt"]}]},"sdata":[]}

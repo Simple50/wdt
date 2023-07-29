@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"捕逸","p":true}],"r_ele":[{"r":"ほいつ","p":true}],"sense":[{"gloss":"passed ball, catcher missing a ball","pos":["n","vs"],"f":["baseb"]}]},"sdata":[]}

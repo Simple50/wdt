@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"即日","p":true}],"r_ele":[{"r":"そくじつ","p":true}],"sense":[{"gloss":"(on) the same day","pos":["n","adv"]}]},"sdata":[{"j":"その↑法律↑↓ほうりつ↓は↑即日↑↓|そくじつ|↓↑施行↑↓しこう↓された。","e":"The law came into effect on the day it was proclaimed."}]}

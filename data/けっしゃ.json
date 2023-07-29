@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"結社","p":true}],"r_ele":[{"r":"けっしゃ","p":true}],"sense":[{"gloss":"association, society","pos":["n"]}]},"sdata":[{"j":"↑組織↑↓そしき↓↑犯罪↑↓はんざい↓の↑秘密↑↓ひみつ↓↑結社↑↓|けっしゃ|↓「マフィア」のしきたりでは、その↑働↑↓はたら↓きを↑洩↑↓も↓らすものは、だれでもかならず↑消↑↓け↓されることになっている。","e":"In the \"Mafia\" tradition of organized crime, any member who discloses its operation is sure to be rubbed out."}]}

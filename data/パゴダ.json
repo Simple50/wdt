@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パゴダ","p":true}],"sense":[{"gloss":"pagoda","pos":["n"],"x":["塔・2"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"警句","p":true}],"r_ele":[{"r":"けいく","p":true}],"sense":[{"gloss":"aphorism, epigram, witticism, bon mots","pos":["n"]}]},"sdata":[{"j":"↑今日↑↓きょう↓トムたちとカラオ|ケ↑行↑↓い↓く|んだけど↑来↑↓こ↓ない？","e":"I'm going with Tom and the others to a karaoke bar today. Are you coming?"}]}

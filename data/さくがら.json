@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"作柄","p":true}],"r_ele":[{"r":"さくがら","p":true}],"sense":[{"gloss":"crop conditions","pos":["n"]},{"gloss":"quality (of art)","pos":["n"]}]},"sdata":[{"j":"↑今年↑↓ことし↓は↑米↑↓べい↓の↑作柄↑↓|さくがら|↓は↑良↑↓よ↓さそうだ。","e":"This year promises a good harvest of rice."},{"j":"トマトの↑作柄↑↓|さくがら|↓は↑良↑↓りょう↓だ。","e":"The tomato crop is of good quality."}]}

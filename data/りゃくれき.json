@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"略歴","p":true}],"r_ele":[{"r":"りゃくれき","p":true}],"sense":[{"gloss":"brief personal record, short curriculum vitae, short CV","pos":["n"]}]},"sdata":[]}

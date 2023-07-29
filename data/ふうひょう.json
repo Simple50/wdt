@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風評","p":true}],"r_ele":[{"r":"ふうひょう","p":true}],"sense":[{"gloss":"rumor, rumour, gossip, report","pos":["n"]}]},"sdata":[]}

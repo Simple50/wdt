@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"カトリック教会","p":true}],"r_ele":[{"r":"カトリックきょうかい","p":true}],"sense":[{"gloss":"Catholic Church","pos":["n"]}]},"sdata":[{"j":"|カトリック↑教↑↓きょう↓↑会↑↓かい|↓は↑離婚↑↓りこん↓に↑反対↑↓はんたい↓している。","e":"The Catholic Church is opposed to divorce."}]}

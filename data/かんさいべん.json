@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"関西弁","p":true},{"e":"関西辯","i":["oK"]}],"r_ele":[{"r":"かんさいべん","p":true}],"sense":[{"gloss":"Kansai dialect","pos":["n"]}]},"sdata":[{"j":"↑関西↑↓|かんさい↓↑弁↑↓べん|↓が↑話↑↓はな↓せるようにマジでなりたい。","e":"I really wanna learn to speak Kansai-ben."}]}

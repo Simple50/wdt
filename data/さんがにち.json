@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三が日","p":true},{"e":"三箇日"}],"r_ele":[{"r":"さんがにち","p":true}],"sense":[{"gloss":"first three days of the New Year (January 1-3)","pos":["n"]}]},"sdata":[]}

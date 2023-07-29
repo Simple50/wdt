@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合理化","p":true}],"r_ele":[{"r":"ごうりか","p":true}],"sense":[{"gloss":"rationalization, rationalisation, rationalize, rationalise","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑抜本↑↓ばっぽん↓↑的↑↓てき↓な↑合理↑↓|ごうり↓↑化↑↓か|↓のおかげで、わが↑社↑↓しゃ↓の↑利益↑↓りえき↓は３↑倍↑↓ばい↓に↑増↑↓ふ↓えた。","e":"Thanks to a fundamental restructuring, our surplus has swelled three-fold."}]}

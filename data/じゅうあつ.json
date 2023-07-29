@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重圧","p":true}],"r_ele":[{"r":"じゅうあつ","p":true}],"sense":[{"gloss":"strong pressure, heavy pressure","pos":["n"]}]},"sdata":[{"j":"それが↑私↑↓わたし↓の↑心↑↓こころ↓からなくなった↑重圧↑↓|じゅうあつ|↓だ。","e":"That is really a load off my mind."},{"j":"↑彼↑↓かれ↓はかなりの↑重圧↑↓|じゅうあつ|↓にあえいでいる。","e":"He is under considerable stress."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伍する","p":true}],"r_ele":[{"r":"ごする","p":true}],"sense":[{"gloss":"to rank with, to rank among","pos":["vs-s","vi"]}]},"kdata":{"伍":{"on":["ゴ"],"kun":["いつつ"],"meanings":["five","five-man squad","file","line"],"freq":1881,"comp":[["五","亻"]],"jlpt":0}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卸値","p":true},{"e":"卸し値"}],"r_ele":[{"r":"おろしね","p":true}],"sense":[{"gloss":"wholesale price","pos":["n"]}]},"sdata":[]}

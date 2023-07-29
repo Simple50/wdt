@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文字盤","p":true}],"r_ele":[{"r":"もじばん","p":true}],"sense":[{"gloss":"dial (of a meter, watch, etc.), face (of a clock)","pos":["n"]},{"gloss":"keyboard (on a typewriter, etc.)","pos":["n"]},{"gloss":"letter board (communication aid for people unable to speak), communication board","pos":["n"]}]},"sdata":[]}

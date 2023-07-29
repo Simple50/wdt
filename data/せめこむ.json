@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"攻め込む","p":true},{"e":"攻めこむ","i":["sK"]}],"r_ele":[{"r":"せめこむ","p":true}],"sense":[{"gloss":"to invade, to attack, to breach, to penetrate","pos":["v5m","vi"]}]},"sdata":[]}

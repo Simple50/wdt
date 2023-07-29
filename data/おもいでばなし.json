@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い出話","p":true}],"r_ele":[{"r":"おもいでばなし","p":true}],"sense":[{"gloss":"reminiscent talk","pos":["n"]}]},"sdata":[]}

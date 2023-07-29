@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増長","p":true}],"r_ele":[{"r":"ぞうちょう","p":true}],"sense":[{"gloss":"growing impudent, becoming arrogant, getting stuck-up","pos":["n","vs","vi"]},{"gloss":"becoming more severe, increasing","pos":["n","vs","vi"]}]},"sdata":[]}

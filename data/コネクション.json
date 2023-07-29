@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コネクション","p":true}],"sense":[{"gloss":"connection","pos":["n"]}]},"sdata":[]}

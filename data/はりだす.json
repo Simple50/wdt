@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"張り出す","p":true},{"e":"張出す"},{"e":"貼り出す"}],"r_ele":[{"r":"はりだす","p":true}],"sense":[{"gloss":"to project, to overhang, to stick out, to jut out, to overlie","pos":["v5s","vi"]},{"gloss":"to put up (a notice), to post","pos":["v5s","vt"]}]},"sdata":[]}

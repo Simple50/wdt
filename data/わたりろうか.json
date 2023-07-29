@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"渡り廊下","p":true}],"r_ele":[{"r":"わたりろうか","p":true}],"sense":[{"gloss":"roofed corridor connecting two buildings, connecting passageway","pos":["n"]},{"gloss":"skyway, skybridge, skywalk","pos":["n"]}]},"sdata":[]}

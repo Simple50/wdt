@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジンバブエ","p":true}],"sense":[{"gloss":"Zimbabwe","pos":["n"]}]},"sdata":[{"j":"|ジンバブエ|はかつてイギリスの↑植民↑↓しょくみん↓↑地↑↓ち↓だった。","e":"Zimbabwe was once a colony of Britain."},{"j":"かつての|ジンバブエ|・ドルのように↑大↑↓だい↓↑暴落↑↓ぼうらく↓する↑可能↑↓かのう↓↑性↑↓せい↓がある。","e":"There is a possibility of a currency crisis such as that of the former Zimbabwe dollar."}]}

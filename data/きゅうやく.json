@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旧約","p":true}],"r_ele":[{"r":"きゅうやく","p":true}],"sense":[{"gloss":"old promise, old agreement, old covenant","pos":["n"]},{"gloss":"Old Testament","pos":["n"],"m":["abbr"],"x":["旧約聖書"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瑞宝章","p":true}],"r_ele":[{"r":"ずいほうしょう","p":true}],"sense":[{"gloss":"Orders of the Sacred Treasure","pos":["n"]}]},"sdata":[]}

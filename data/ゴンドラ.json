@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゴンドラ","p":true}],"sense":[{"gloss":"gondola (boat, esp. in Venice)","pos":["n"],"l":"ita"},{"gloss":"basket, cabin (cable car, ski lift, etc.), car (elevator), gondola (hot-air balloon, airship, etc.)","pos":["n"]},{"gloss":"display shelf (shop), scaffold (building)","pos":["n"]}]},"sdata":[]}

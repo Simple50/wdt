@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砂防","p":true}],"r_ele":[{"r":"さぼう","p":true}],"sense":[{"gloss":"erosion control","pos":["n"]}]},"sdata":[{"j":"せっかくの↑広↑↓ひろ↓い↑庭↑↓にわ↓なのに、↑草↑↓く|さ↓ぼう|ぼうじゃ↑台無↑↓だいな↓しだな。","e":"Even tough it's such a big garden, it would be wasted if we let it get overrun with weeds."}]}

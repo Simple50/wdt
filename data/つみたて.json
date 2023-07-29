@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積立","p":true},{"e":"積み立て","p":true},{"e":"積立て"}],"r_ele":[{"r":"つみたて","p":true}],"sense":[{"gloss":"saving, savings, accumulation, putting aside, reserving","pos":["n"]}]},"sdata":[]}

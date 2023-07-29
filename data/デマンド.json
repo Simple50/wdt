@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デマンド","p":true},{"r":"ディマンド"}],"sense":[{"gloss":"demand","pos":["n"]}]},"sdata":[{"j":"Microsoftが↑β↑↓べーた↓↑版↑↓はん↓をランチするのは「NetShow streaming server」で↑動画↑↓どうが↓や↑音声↑↓おんせい↓をオン|デマンド|で↑提供↑↓ていきょう↓する。","e":"What Microsoft is launching is a beta version of its \"NetShow streaming server\"; it supplies video and audio on demand."}]}

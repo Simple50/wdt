@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売れ筋ランキング","p":true}],"r_ele":[{"r":"うれすじランキング","p":true}],"sense":[{"gloss":"list of top-selling products","pos":["n"],"x":["ランキング・2"]}]},"sdata":[]}

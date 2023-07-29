@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モテない","p":true},{"r":"もてない","p":true}],"sense":[{"gloss":"unwelcome, nerdish, unpopular","pos":["adj-i"],"x":["モテる","持てる・もてる・2"]}]},"sdata":[]}

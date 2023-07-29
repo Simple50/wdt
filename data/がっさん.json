@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合算","p":true}],"r_ele":[{"r":"がっさん","p":true}],"sense":[{"gloss":"adding up, totalling, totaling","pos":["n","vs","vt"]}]},"sdata":[]}

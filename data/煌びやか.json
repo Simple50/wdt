@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煌びやか","p":true},{"e":"綺羅びやか","i":["sK"]}],"r_ele":[{"r":"きらびやか","p":true}],"sense":[{"gloss":"gorgeous, gaudy, dazzling, gay, resplendent","pos":["adj-na"]}],"m":["uk"]},"kdata":{"煌":{"on":["コウ"],"kun":["きらめ.く","きら.めく","かがや.く"],"meanings":["glitter","gleam","twinkle"],"comp":[["火","皇"]],"jlpt":0,"freq":2787}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シェーカー","p":true},{"r":"シェイカー"}],"sense":[{"gloss":"(cocktail) shaker","pos":["n"]}]},"sdata":[]}

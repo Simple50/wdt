@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"血の海","p":true}],"r_ele":[{"r":"ちのうみ","p":true}],"sense":[{"gloss":"sea of blood, pool of blood","pos":["exp","n"]}]},"sdata":[{"j":"↑愛知↑↓あい|ち↓の↑海↑↓うみ|↓ってそんなに↑綺麗↑↓きれい↓じゃないよ。","e":"The Aichi sea isn't all that clean."}]}

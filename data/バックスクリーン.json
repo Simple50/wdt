@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バックスクリーン","p":true},{"r":"バック・スクリーン"}],"sense":[{"gloss":"batter's eye screen, centerfield screen","pos":["n"],"f":["baseb"],"l":"eng: back screen"}]},"sdata":[]}

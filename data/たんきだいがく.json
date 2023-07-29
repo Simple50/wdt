@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"短期大学","p":true}],"r_ele":[{"r":"たんきだいがく","p":true}],"sense":[{"gloss":"junior college, vocationally oriented two or three year post-secondary education institution","pos":["n"]}]},"sdata":[]}

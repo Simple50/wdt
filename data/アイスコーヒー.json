@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アイスコーヒー","p":true},{"r":"アイス・コーヒー"}],"sense":[{"gloss":"iced coffee","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は、|アイスコーヒー|が↑好↑↓す↓きではないし、↑彼女↑↓かのじょ↓もそうだ。","e":"I don't like iced coffee, and she doesn't either."},{"j":"|アイスコーヒー|は↑好↑↓す↓きじゃない。","e":"I don't like iced coffee."},{"j":"|アイスコーヒー|を↑持↑↓も↓ってきて。","e":"Bring me an iced coffee."}]}

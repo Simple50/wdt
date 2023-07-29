@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トリニトロトルエン","p":true}],"sense":[{"gloss":"trinitrotoluene, TNT","pos":["n"]}]},"sdata":[]}

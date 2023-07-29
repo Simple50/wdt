@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見せ場","p":true}],"r_ele":[{"r":"みせば","p":true}],"sense":[{"gloss":"highlight (scene), high point, climax, showtime","pos":["n"]},{"gloss":"show-off scene (of an actor in a play)","pos":["n"]}]},"sdata":[{"j":"よく↑行↑↓い↓くお↑店↑↓|みせ↓ば|かりつぶれる。","e":"It's only the shops I often go to that go out of business."}]}

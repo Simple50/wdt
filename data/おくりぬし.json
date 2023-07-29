@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"贈り主","p":true},{"e":"贈主"}],"r_ele":[{"r":"おくりぬし","p":true}],"sense":[{"gloss":"sender (of a present)","pos":["n"]}]},"sdata":[]}

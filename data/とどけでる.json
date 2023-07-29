@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"届け出る","p":true}],"r_ele":[{"r":"とどけでる","p":true}],"sense":[{"gloss":"to report, to notify","pos":["v1","vt"]}]},"sdata":[]}

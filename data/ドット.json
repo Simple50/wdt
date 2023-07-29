@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドット","p":true}],"sense":[{"gloss":"dot, point","pos":["n"]},{"gloss":"polka dots","pos":["n"]},{"gloss":"dot, pixel","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"アマゾン・|ドット|・コムで↑本↑↓ほん↓を↑注文↑↓ちゅうもん↓しました。","e":"I've ordered a book from Amazon.com."}]}

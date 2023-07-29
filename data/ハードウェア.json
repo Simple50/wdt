@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハードウェア","p":true},{"r":"ハードウエア"}],"sense":[{"gloss":"hardware (esp. computer)","pos":["n"],"f":["comp"]}]},"sdata":[]}

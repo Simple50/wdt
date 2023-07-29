@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バント","p":true}],"sense":[{"gloss":"bunt","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑監督↑↓かんとく↓は↑打者↑↓だしゃ↓に|バント|のサインを↑送↑↓おく↓った。","e":"The manager sent the bunt sign to the batter."}]}

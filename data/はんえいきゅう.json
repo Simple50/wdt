@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"半永久","p":true}],"r_ele":[{"r":"はんえいきゅう","p":true}],"sense":[{"gloss":"semipermanence","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄める","p":true}],"r_ele":[{"r":"うすめる","p":true}],"sense":[{"gloss":"to dilute, to water down","pos":["v1","vt"]}]},"kdata":{"薄":{"on":["ハク"],"kun":["うす.い","うす-","-うす","うす.める","うす.まる","うす.らぐ","うす.ら-","うす.れる","すすき"],"jlpt":2,"meanings":["dilute","thin","weak (tea)","pampas grass"],"freq":1009,"comp":[["艹","溥"]],"d":["欂","礴","鑮"],"s":"簿","t":2135}},"sdata":[]}

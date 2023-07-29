@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"霧吹き","p":true}],"r_ele":[{"r":"きりふき","p":true}],"sense":[{"gloss":"spraying","pos":["n"]},{"gloss":"sprayer, atomizer, atomiser, vaporizer","pos":["n"]}]},"sdata":[]}

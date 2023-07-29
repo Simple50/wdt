@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"セーラー服","p":true}],"r_ele":[{"r":"セーラーふく","p":true}],"sense":[{"gloss":"sailor suit, middy uniform","pos":["n"]}]},"kdata":{"服":{"on":["フク"],"jlpt":4,"meanings":["clothing","admit","obey","discharge"],"freq":873,"comp":[["月","𠬝"]],"d":["箙","鵩","菔"],"t":697}},"sdata":[]}

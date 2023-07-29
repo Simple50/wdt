@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"訓令","p":true}],"r_ele":[{"r":"くんれい","p":true}],"sense":[{"gloss":"directive, instructions","pos":["n","vs","vt"]}]},"sdata":[]}

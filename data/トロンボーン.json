@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トロンボーン","p":true}],"sense":[{"gloss":"trombone","pos":["n"]}]},"sdata":[{"j":"↑新↑↓あたら↓しい|トロンボーン|を↑買↑↓か↓いたいんです。","e":"I'd like to buy a new trombone."},{"j":"↑新↑↓あたら↓しい|トロンボーン|を↑買↑↓か↓ったんだって？","e":"I heard you bought a new trombone."}]}

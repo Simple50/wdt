@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"温床","p":true}],"r_ele":[{"r":"おんしょう","p":true}],"sense":[{"gloss":"hotbed, breeding ground","pos":["n"]}]},"sdata":[]}

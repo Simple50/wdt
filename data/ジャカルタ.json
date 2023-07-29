@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャカルタ","p":true}],"sense":[{"gloss":"Jakarta (Indonesia)","pos":["n"]}]},"sdata":[{"j":"ジャガイモは|ジャカルタ|からオランダ↑人↑↓じん↓によって↑伝↑↓つた↓えられました。","e":"Potatoes were introduced by the Dutch from Jakarta."}]}

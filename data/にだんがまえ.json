@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二段構え","p":true}],"r_ele":[{"r":"にだんがまえ","p":true}],"sense":[{"gloss":"keeping an alternative up one's sleeve, two-stage preparation","pos":["n"]}]},"sdata":[]}

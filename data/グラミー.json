@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グラミー","p":true}],"sense":[{"gloss":"Grammy (award)","pos":["n"]}]},"sdata":[]}

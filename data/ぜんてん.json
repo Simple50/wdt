@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"全店","p":true}],"r_ele":[{"r":"ぜんてん","p":true}],"sense":[{"gloss":"the whole store","pos":["n","adj-no"]}]},"sdata":[{"j":"ここでは↑定期↑↓ていき↓↑的↑↓てき↓に↑安全↑↓あん|ぜん↓↑点検↑↓てん|けん↓を↑実施↑↓じっし↓します。","e":"We conduct safety inspections here on a regular basis."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"唆す","p":true},{"e":"嗾す","i":["rK"]},{"e":"唆かす","i":["sK"]}],"r_ele":[{"r":"そそのかす","p":true},{"r":"そそなかす","i":["ok"]}],"sense":[{"gloss":"to instigate, to tempt, to entice, to incite","pos":["v5s","vt"]}],"m":["uk"]},"sdata":[]}

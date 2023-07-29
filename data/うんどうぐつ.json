@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"運動靴","p":true}],"r_ele":[{"r":"うんどうぐつ","p":true}],"sense":[{"gloss":"sports shoes, sneakers","pos":["n"]}]},"sdata":[]}

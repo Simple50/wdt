@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中核","p":true},{"e":"仲核","i":["sK"]}],"r_ele":[{"r":"ちゅうかく","p":true}],"sense":[{"gloss":"kernel, core, nucleus, center, centre","pos":["n"]}]},"sdata":[]}

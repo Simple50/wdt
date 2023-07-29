@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハッカー","p":true}],"sense":[{"gloss":"hacker","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"↑今日↑↓きょう↓この↑番組↑↓ばんぐみ↓で|ハッカー|の↑問題↑↓もんだい↓をクローズアップするんだって。","e":"This program is going to focus on computer hacking issues today."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナース","p":true}],"sense":[{"gloss":"nurse","pos":["n"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓はあなたは|ナース|だと↑思↑↓おも↓った。","e":"I thought that you were a nurse."},{"j":"↑私↑↓わたし↓は|ナース|です。","e":"I'm a nurse."},{"j":"↑私↑↓わたし↓は|ナース|です。","e":"I am a nurse."}]}

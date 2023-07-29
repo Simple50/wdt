@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"改訂版","p":true},{"e":"改定版","i":["iK"]}],"r_ele":[{"r":"かいていばん","p":true}],"sense":[{"gloss":"revised edition","pos":["n"]}]},"sdata":[{"j":"その↑百科↑↓ひゃっか↓↑事典↑↓じてん↓の↑改訂↑↓|かいてい↓↑版↑↓ばん|↓が↑出版↑↓しゅっぱん↓された。","e":"A revised edition of the encyclopedia was published."}]}

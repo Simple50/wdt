@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陣幕","p":true}],"r_ele":[{"r":"じんまく","p":true}],"sense":[{"gloss":"camp enclosure","pos":["n"]}]},"sdata":[]}

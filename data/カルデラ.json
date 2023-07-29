@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カルデラ","p":true}],"sense":[{"gloss":"caldera","pos":["n"],"f":["geol"]}]},"sdata":[]}

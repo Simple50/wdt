@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"色直し","p":true}],"r_ele":[{"r":"いろなおし","p":true}],"sense":[{"gloss":"changing one's clothing (of a bride or groom during a wedding reception)","pos":["n","vs","vi"],"x":["お色直し"]},{"gloss":"redyeing (of clothes, etc.)","pos":["n","vs","vi"]}]},"sdata":[]}

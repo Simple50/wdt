@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青年団","p":true}],"r_ele":[{"r":"せいねんだん","p":true}],"sense":[{"gloss":"young persons' association","pos":["n"]}]},"sdata":[{"j":"↑第↑↓だい↓１↑次↑↓じ↓↑世界↑↓せかい↓↑大戦↑↓たいせん↓で↑英国↑↓えいこく↓の↑成年↑↓|せいねん↓↑男子↑↓だん|し↓の↑大半↑↓たいはん↓が↑応召↑↓おうしょう↓した。","e":"In the First World War, a large proportion of England's young men enlisted."}]}

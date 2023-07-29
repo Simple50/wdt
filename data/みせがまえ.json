@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"店構え","p":true},{"e":"見世構え"}],"r_ele":[{"r":"みせがまえ","p":true}],"sense":[{"gloss":"store's appearance (esp. shop front, signs, etc.)","pos":["n"]}]},"sdata":[]}

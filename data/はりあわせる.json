@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貼り合わせる"},{"e":"はり合わせる"},{"e":"張り合わせる","p":true}],"r_ele":[{"r":"はりあわせる","p":true}],"sense":[{"gloss":"to paste together","pos":["v1"]}]},"sdata":[]}

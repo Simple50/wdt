@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"物性","p":true}],"r_ele":[{"r":"ぶっせい","p":true}],"sense":[{"gloss":"physical properties, properties of matter, physicality","pos":["n"]}]},"sdata":[]}

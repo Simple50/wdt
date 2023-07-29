@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"硝煙","p":true}],"r_ele":[{"r":"しょうえん","p":true}],"sense":[{"gloss":"gunpowder smoke","pos":["n"]}]},"kdata":{"硝":{"on":["ショウ"],"jlpt":1,"meanings":["nitrate","saltpeter"],"freq":2154,"comp":[["肖","石"]],"t":1570},"煙":{"on":["エン"],"kun":["けむ.る","けむり","けむ.い"],"jlpt":3,"meanings":["smoke"],"freq":1290,"comp":[["垔","火"]],"t":1745}},"sdata":[]}

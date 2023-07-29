@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テトラクロロエチレン","p":true}],"sense":[{"gloss":"tetrachloroethylene","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遺伝病","p":true}],"r_ele":[{"r":"いでんびょう","p":true}],"sense":[{"gloss":"hereditary (genetic) disease","pos":["n"]}]},"sdata":[{"j":"↑子供↑↓こども↓は↑遺伝↑↓|いでん↓↑病↑↓びょう|↓を↑持↑↓も↓っています。","e":"My baby has a hereditary disease."}]}

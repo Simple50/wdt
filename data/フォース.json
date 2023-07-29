@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フォース","p":true}],"sense":[{"gloss":"force","pos":["n"]},{"gloss":"the Force (in Star Wars)","pos":["n"]}]},"sdata":[{"j":"|フォース|と↑共↑↓とも↓に↑在↑↓あ↓らんことを。","e":"May the force be with you."},{"j":"↑勇者↑↓ゆうしゃ↓の↑行↑↓い↓く↑道↑↓みち↓がトライ|フォース|へと↑導↑↓みちび↓かれますように。","e":"May the way of the hero lead to the Triforce."},{"j":"|フォース|とともにあらんことを","e":"May the Force be with you."}]}

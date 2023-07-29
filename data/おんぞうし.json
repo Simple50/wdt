@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"御曹司","p":true},{"e":"御曹子"}],"r_ele":[{"r":"おんぞうし","p":true}],"sense":[{"gloss":"son of a distinguished family, son of a noble","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒潮","p":true}],"r_ele":[{"r":"くろしお","p":true}],"sense":[{"gloss":"Kuroshio Current, Japan Current","pos":["n"]}]},"sdata":[]}

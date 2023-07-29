@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"定例","p":true}],"r_ele":[{"r":"ていれい","p":true},{"r":"じょうれい"}],"sense":[{"gloss":"regular, ordinary (e.g. session of parliament)","pos":["adj-no"]},{"gloss":"established usage, precedent, regular practice","pos":["n"]}]},"sdata":[]}

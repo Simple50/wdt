@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抜け出る","p":true},{"e":"脱け出る"}],"r_ele":[{"r":"ぬけでる","p":true}],"sense":[{"gloss":"to slip out, to steal out","pos":["v1","vi"]},{"gloss":"to excel, to stand out","pos":["v1","vi"]}]},"sdata":[]}

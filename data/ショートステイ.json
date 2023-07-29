@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ショートステイ","p":true},{"r":"ショート・ステイ"}],"sense":[{"gloss":"short stay, temporary care","pos":["n"]}]},"sdata":[]}

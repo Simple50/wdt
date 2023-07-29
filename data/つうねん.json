@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通念","p":true}],"r_ele":[{"r":"つうねん","p":true}],"sense":[{"gloss":"common idea, common wisdom, generally accepted idea","pos":["n"]}]},"sdata":[{"j":"ハワイで↑通年↑↓|つうねん|↓↑航行↑↓こうこう↓↑中↑↓ちゅう↓できます。","e":"In Hawaii, you can cruise all year round."}]}

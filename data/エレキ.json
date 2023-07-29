@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エレキ","p":true}],"sense":[{"gloss":"electricity","pos":["n"],"x":["エレキテル・2"]},{"gloss":"electric guitar","pos":["n"],"x":["エレキギター"]}],"m":["abbr"]},"sdata":[{"j":"↑兄↑↓あに↓は|エレキ|ギターを↑買↑↓か↓いました。","e":"My brother bought an electric guitar."},{"j":"|エレキ|ッドはエレブーに↑進化↑↓しんか↓できる。","e":"Elekid can evolve into Electabuzz."}]}

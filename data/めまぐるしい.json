@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目まぐるしい","p":true},{"e":"目紛しい","i":["rK"]}],"r_ele":[{"r":"めまぐるしい","p":true}],"sense":[{"gloss":"dizzying (speed, changes, etc.), rapid, drastic, bewildering, hectic, bustling (e.g. world)","pos":["adj-i"]}],"m":["uk"]},"sdata":[{"j":"この↑数↑↓すう↓↑日↑↓にち↓、↑天気↑↓てんき↓の↑変化↑↓へんか↓が|めまぐるしい|。","e":"We've had all kinds of weather over the past few days."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"融雪","p":true}],"r_ele":[{"r":"ゆうせつ","p":true}],"sense":[{"gloss":"melted snow, melting of snow","pos":["n"]}]},"sdata":[]}

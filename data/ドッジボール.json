@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドッジボール","p":true},{"r":"ドッヂボール"},{"r":"ドッチボール"}],"sense":[{"gloss":"dodgeball","pos":["n"]}]},"sdata":[]}

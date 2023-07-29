@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"揺るぐ","p":true}],"r_ele":[{"r":"ゆるぐ","p":true}],"sense":[{"gloss":"to shake, to waver, to tremble","pos":["v5g","vi"]}]},"sdata":[{"j":"あら|ゆる↑偶数↑↓ぐ|うすう↓は、↑二↑↓ふた↓つの↑素数↑↓そすう↓の↑和↑↓やわ↓です。","e":"Every even number is the sum of two primes."}]}

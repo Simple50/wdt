@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カーレース","p":true},{"r":"カー・レース"}],"sense":[{"gloss":"car race","pos":["n"]}]},"sdata":[{"j":"↑向↑↓む↓こう↑見↑↓み↓ずな|カーレース|では、リードをうばおうとして、かえってにっちもさっちも↑行↑↓い↓かなくなる↑時↑↓とき↓がある。","e":"In daredevil car races, there are moments when the drivers place themselves between the devil and the deep blue sea, trying to take the lead."}]}

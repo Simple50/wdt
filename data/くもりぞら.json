@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"曇り空","p":true}],"r_ele":[{"r":"くもりぞら","p":true}],"sense":[{"gloss":"cloudy sky, overcast sky","pos":["n"]}]},"sdata":[]}

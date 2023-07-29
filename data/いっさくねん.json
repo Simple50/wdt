@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一昨年","p":true},{"e":"おと年"}],"r_ele":[{"r":"おととし","p":true},{"r":"いっさくねん","p":true}],"sense":[{"gloss":"year before last","pos":["n","adv"]}]},"sdata":[{"j":"↑一昨年↑↓|いっさくねん|↓、オーストラリアに↑越↑↓こ↓してきました。","e":"I moved to Australia the year before last."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チューナー","p":true},{"r":"チューナ"}],"sense":[{"gloss":"tuner (e.g. radio)","pos":["n"]},{"gloss":"tuna (edible fish, Thunnus spp.)","pos":["n"]}]},"sdata":[]}

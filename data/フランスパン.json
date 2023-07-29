@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フランスパン","p":true},{"r":"フランス・パン"}],"sense":[{"gloss":"French bread (esp. baguette), breadstick","pos":["n"],"f":["food"]}]},"sdata":[{"j":"|フランスパン|は↑美味↑↓おい↓しい。","e":"French bread is delicious."}]}

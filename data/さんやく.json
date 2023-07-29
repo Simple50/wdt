@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三役","p":true}],"r_ele":[{"r":"さんやく","p":true}],"sense":[{"gloss":"three highest ranks (wrestling, unions, etc.)","pos":["n"]},{"gloss":"three parts, three divisions","pos":["n"]}]},"sdata":[]}

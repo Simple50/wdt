@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トライアスロン","p":true}],"sense":[{"gloss":"triathlon","pos":["n"],"f":["sports"]}]},"sdata":[]}

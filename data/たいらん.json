@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大乱","p":true}],"r_ele":[{"r":"たいらん","p":true}],"sense":[{"gloss":"rebellion, great uprising","pos":["n"]}]},"sdata":[]}

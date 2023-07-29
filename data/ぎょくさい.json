@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"玉砕","p":true},{"e":"玉摧","i":["rK"]}],"r_ele":[{"r":"ぎょくさい","p":true}],"sense":[{"gloss":"honorable death, death without surrender, honorable defeat","pos":["n","vs","vi"]},{"gloss":"trying but being utterly beaten, being completely rejected when professing one's love","pos":["n","vs","vi"],"m":["col"]}]},"sdata":[]}

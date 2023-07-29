@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"証取法"},{"e":"証取り法","p":true}],"r_ele":[{"r":"しょうとりほう","p":true}],"sense":[{"gloss":"Securities and Exchange Act","pos":["n"]}],"m":["abbr"]},"sdata":[]}

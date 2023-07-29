@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"釣り合う","p":true},{"e":"つり合う"},{"e":"釣合う"}],"r_ele":[{"r":"つりあう","p":true}],"sense":[{"gloss":"to balance, to be in harmony, to be in equilibrium","pos":["v5u","vi"]},{"gloss":"to suit, to go well together, to be a good match","pos":["v5u","vi"]}]},"sdata":[]}

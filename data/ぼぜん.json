@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"墓前","p":true}],"r_ele":[{"r":"ぼぜん","p":true}],"sense":[{"gloss":"in front of a grave","pos":["n"]}]},"sdata":[{"j":"その↑人↑↓ひと↓はよく↑上↑↓うえ↓から↑目線↑↓めせん↓で↑物↑↓もの↓を↑言↑↓い↓うので、ほ|ぼ↑全員↑↓ぜん|いん↓から↑総↑↓そう↓スカンを↑食↑↓く↓らっている。","e":"The person often talked in a didactic manner, so he was disliked by many of us."}]}

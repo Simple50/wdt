@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中生代","p":true}],"r_ele":[{"r":"ちゅうせいだい","p":true}],"sense":[{"gloss":"Mesozoic era","pos":["n"]}]},"sdata":[]}

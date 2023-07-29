@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レトリック","p":true}],"sense":[{"gloss":"rhetoric","pos":["n"]}]},"sdata":[{"j":"そいつは↑衰退↑↓すいたい↓の|レトリック|というものだ。","e":"But it's the rhetoric of failure."}]}

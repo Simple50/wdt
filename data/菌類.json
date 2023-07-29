@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"菌類","p":true}],"r_ele":[{"r":"きんるい","p":true}],"sense":[{"gloss":"fungus, fungi","pos":["n"]}]},"kdata":{"菌":{"on":["キン"],"jlpt":1,"meanings":["germ","fungus","bacteria"],"freq":1586,"comp":[["艹","囷"]],"t":1371},"類":{"on":["ルイ"],"kun":["たぐ.い"],"jlpt":3,"meanings":["sort","kind","variety","class","genus"],"freq":678,"comp":[["类","頁"]],"t":2253}},"sdata":[]}

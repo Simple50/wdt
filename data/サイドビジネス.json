@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サイドビジネス","p":true},{"r":"サイド・ビジネス"}],"sense":[{"gloss":"side business, side job","pos":["n"]}]},"sdata":[]}

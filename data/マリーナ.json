@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マリーナ","p":true}],"sense":[{"gloss":"marina","pos":["n"],"x":["ヨットハーバー"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑名前↑↓なまえ↓は|マリーナ|です。","e":"My name is Marina."}]}

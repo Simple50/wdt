@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出入り口","p":true},{"e":"出入口","p":true}],"r_ele":[{"r":"でいりぐち","p":true}],"sense":[{"gloss":"exit and entrance","pos":["n"]}]},"sdata":[{"j":"↑出入↑↓|でい↓り↑口↑↓ぐち|↓は↑開↑↓あ↓けたままになっていた。","e":"The gate was left open."},{"j":"↑乗務↑↓じょうむ↓↑員↑↓いん↓がただいま↑出入↑↓|でい↓り↑口↑↓ぐち|↓を↑開↑↓あ↓けております。","e":"The crew is now opening the hatch."}]}

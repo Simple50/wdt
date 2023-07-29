@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白星","p":true}],"r_ele":[{"r":"しろぼし","p":true}],"sense":[{"gloss":"white circle, white star","pos":["n"]},{"gloss":"victory mark","pos":["n"],"f":["sumo"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グロリア","p":true},{"r":"グローリア"}],"sense":[{"gloss":"Gloria","pos":["n"],"l":"lat"}]},"sdata":[{"j":"|グロリア|は↑断然↑↓だんぜん↓その↑晩↑↓ばん↓のピカ↑一↑↓いち↓の↑歌手↑↓かしゅ↓であった。","e":"Gloria was easily the best singer of that evening."}]}

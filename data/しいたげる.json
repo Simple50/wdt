@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虐げる","p":true}],"r_ele":[{"r":"しいたげる","p":true}],"sense":[{"gloss":"to oppress, to persecute, to tyrannize","pos":["v1","vt"]}]},"sdata":[]}

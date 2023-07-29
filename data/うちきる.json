@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち切る","p":true},{"e":"打切る"}],"r_ele":[{"r":"うちきる","p":true}],"sense":[{"gloss":"to stop, to abort, to discontinue, to close","pos":["v5r","vt"]}]},"sdata":[]}

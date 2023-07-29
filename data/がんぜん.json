@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"眼前","p":true}],"r_ele":[{"r":"がんぜん","p":true}],"sense":[{"gloss":"before one's eyes","pos":["n"]}]},"sdata":[{"j":"これは↑僕↑↓ぼく↓の↑眼前↑↓|がんぜん|↓で↑起↑↓お↓こったことです。","e":"This happened under my nose."},{"j":"↑美↑↓うつく↓しい↑景色↑↓けしき↓が↑突然↑↓とつぜん↓↑眼前↑↓|がんぜん|↓にあらわれた。","e":"A fine view burst upon our sight."}]}

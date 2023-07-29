@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニューロ","p":true}],"sense":[{"gloss":"neuro-","pos":["n"]}]},"sdata":[{"j":"ジョンさんは|ニューロ|マーケティングで↑勤↑↓つと↓めています。","e":"John works in neuromarketing."}]}

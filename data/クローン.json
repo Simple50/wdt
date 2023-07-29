@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クローン","p":true},{"r":"クロン"}],"sense":[{"gloss":"clone","pos":["n"]}]},"sdata":[{"j":"↑倫理↑↓りんり↓↑委員↑↓いいん↓↑会↑↓かい↓では, |クローン|↑実験↑↓じっけん↓の↑一時↑↓いちじ↓↑停止↑↓ていし↓が↑決定↑↓けってい↓した。","e":"At the ethics committee, a temporary halt to cloning experiments was decided."}]}

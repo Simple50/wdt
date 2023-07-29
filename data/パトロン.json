@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パトロン","p":true}],"sense":[{"gloss":"patron (of the arts, an artist, etc.), patroness, financial supporter","pos":["n"]},{"gloss":"sugar daddy, man who provides for a woman (e.g. a geisha)","pos":["n"],"x":["芸者","旦那・4"]},{"gloss":"patron, master, manager, boss","pos":["n"]}]},"sdata":[]}

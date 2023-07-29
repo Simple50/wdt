@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ネガ","p":true}],"sense":[{"gloss":"negative","pos":["n"],"f":["photo","print"],"x":["ネガティブ・2"]},{"gloss":"negative (e.g. thinking)","pos":["adj-na"],"x":["ネガティブ・1"]}],"m":["abbr"]},"sdata":[{"j":"|ネガ|ティブな↑性格↑↓せいかく↓↑直↑↓なお↓したいな。","e":"I want to fix my negative personality."}]}

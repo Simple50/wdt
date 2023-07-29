@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"談話室","p":true}],"r_ele":[{"r":"だんわしつ","p":true}],"sense":[{"gloss":"lounge, common room","pos":["n"]}]},"sdata":[]}

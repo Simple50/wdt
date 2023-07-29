@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンディング","p":true}],"sense":[{"gloss":"ending","pos":["n"]}]},"sdata":[{"j":"↑映画↑↓えいが↓「ファイトクラブ」の|エンディング|には↑驚↑↓おどろ↓かされた。","e":"The movie \"Fight Club\" has a surprise ending."},{"j":"↑僕↑↓ぼく↓は|エンディング|が↑気↑↓き↓に↑入↑↓い↓らなかったな。","e":"Oh, I didn't like the ending."}]}

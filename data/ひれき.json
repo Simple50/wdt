@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"披瀝","p":true},{"e":"披歴","i":["iK"]}],"r_ele":[{"r":"ひれき","p":true}],"sense":[{"gloss":"expressing one's opinion, speaking one's mind, making known, revealing","pos":["n","vs","vt"]}]},"sdata":[]}

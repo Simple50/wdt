@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"東奔西走","p":true}],"r_ele":[{"r":"とうほんせいそう","p":true}],"sense":[{"gloss":"busying oneself about (something), being on the move, bestirring oneself, on the go, taking an active interest","pos":["n","vs","vi"]}],"m":["yoji"]},"sdata":[{"j":"↑今日↑↓きょう↓は↑借金↑↓しゃっきん↓の↑工面↑↓くめん↓で↑東奔西走↑↓|とうほんせいそう|↓した。","e":"I was on the go all day today looking for a loan."}]}

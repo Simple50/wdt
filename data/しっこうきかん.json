@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"執行機関","p":true}],"r_ele":[{"r":"しっこうきかん","p":true}],"sense":[{"gloss":"executive committee, executive organ","pos":["n"]}]},"sdata":[]}

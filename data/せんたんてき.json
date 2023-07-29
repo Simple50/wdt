@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先端的","p":true}],"r_ele":[{"r":"せんたんてき","p":true}],"sense":[{"gloss":"ultramodern, leading","pos":["adj-na"]}]},"sdata":[]}

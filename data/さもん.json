@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"査問","p":true}],"r_ele":[{"r":"さもん","p":true}],"sense":[{"gloss":"inquiry, enquiry, hearing","pos":["n","vs","vt"]}]},"sdata":[{"j":"このソフトウエアはギブスサンプリングのアルゴリズムによりマルコフ↑連鎖↑↓れん|さ↓モン|テカルロ↑法↑↓ほう↓の↑計算↑↓けいさん↓を↑行↑↓おこな↓います。","e":"This software carries out Markov Chain Monte Carlo calculations by the use of Gibbs Sampling."}]}

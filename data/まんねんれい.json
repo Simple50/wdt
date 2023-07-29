@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"満年齢","p":true}],"r_ele":[{"r":"まんねんれい","p":true}],"sense":[{"gloss":"age (expressed in the Western style of counting fully completed years)","pos":["n"]}]},"sdata":[]}

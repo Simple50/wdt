@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"春秋","p":true}],"r_ele":[{"r":"しゅんじゅう","p":true},{"r":"はるあき"}],"sense":[{"gloss":"spring and autumn, spring and fall","pos":["n"]},{"gloss":"years, age","pos":["n"]},{"gloss":"The Spring and Autumn Annals, The Chronicles of Lu, Chunqiu, Ch'un Ch'iu","pos":["n"],"x":["五経"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"復学","p":true}],"r_ele":[{"r":"ふくがく","p":true}],"sense":[{"gloss":"return to school","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑９月↑↓くがつ↓に↑復学↑↓|ふくがく|↓したいと↑切↑↓せつ↓に↑願↑↓ねが↓った。","e":"He was eager to return to school in September."},{"j":"↑９月↑↓くがつ↓に↑復学↑↓|ふくがく|↓することを↑彼↑↓かれ↓は↑切望↑↓せつぼう↓した。","e":"He was eager to return to school in September."}]}

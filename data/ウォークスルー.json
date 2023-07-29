@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウォークスルー","p":true},{"r":"ウォーク・スルー"}],"sense":[{"gloss":"(structured) walk through","pos":["n"],"f":["comp"]}]},"sdata":[]}

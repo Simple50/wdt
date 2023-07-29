@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り口","p":true},{"e":"取口"}],"r_ele":[{"r":"とりくち","p":true}],"sense":[{"gloss":"technique, techniques","pos":["n"],"f":["sumo"]}]},"sdata":[]}

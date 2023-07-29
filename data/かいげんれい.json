@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戒厳令","p":true}],"r_ele":[{"r":"かいげんれい","p":true}],"sense":[{"gloss":"martial law","pos":["n"]}]},"sdata":[{"j":"↑大統領↑↓だいとうりょう↓は↑憲法↑↓けんぽう↓を↑停止↑↓ていし↓し、↑戒厳↑↓|かいげん↓↑令↑↓れい|↓をしきました。","e":"The President suspended the constitution and imposed martial law."}]}

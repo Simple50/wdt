@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"限度額","p":true}],"r_ele":[{"r":"げんどがく","p":true}],"sense":[{"gloss":"limit (amount, e.g. on credit card, loan, expenditure)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奪い取る","p":true},{"e":"奪いとる"}],"r_ele":[{"r":"うばいとる","p":true}],"sense":[{"gloss":"to plunder, to grab, to snatch","pos":["v5r","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑一方↑↓いっぽう↓の↑手↑↓て↓で↑与↑↓あた↓えながら、もう↑一方↑↓いっぽう↓の↑手↑↓て↓で↑奪↑↓|うば↓い↑取↑↓と↓る|ような↑男↑↓おとこ↓だ。","e":"He gives with one hand and takes away with the other."}]}

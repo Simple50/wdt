@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落札","p":true}],"r_ele":[{"r":"らくさつ","p":true}],"sense":[{"gloss":"successful bid, winning a tender","pos":["n","vs","vt"]}]},"sdata":[]}

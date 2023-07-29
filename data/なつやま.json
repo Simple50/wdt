@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夏山","p":true}],"r_ele":[{"r":"なつやま","p":true}],"sense":[{"gloss":"summery mountain","pos":["n"]},{"gloss":"mountain that is often climbed in summer","pos":["n"]}]},"sdata":[]}

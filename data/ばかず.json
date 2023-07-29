@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"場数","p":true}],"r_ele":[{"r":"ばかず","p":true}],"sense":[{"gloss":"experiences","pos":["n"]}]},"sdata":[]}

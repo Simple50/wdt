@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"濁流","p":true}],"r_ele":[{"r":"だくりゅう","p":true}],"sense":[{"gloss":"muddy stream","pos":["n"],"x":["清流"]}]},"sdata":[]}

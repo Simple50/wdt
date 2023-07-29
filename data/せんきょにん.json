@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"選挙人","p":true}],"r_ele":[{"r":"せんきょにん","p":true}],"sense":[{"gloss":"voter, constituent, elector","pos":["n"]},{"gloss":"presidential elector (US), member of the Electoral College","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナーサリー","p":true}],"sense":[{"gloss":"nursery","pos":["n"]}]},"sdata":[]}

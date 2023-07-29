@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民心","p":true}],"r_ele":[{"r":"みんしん","p":true}],"sense":[{"gloss":"popular sentiment","pos":["n"]}]},"sdata":[]}

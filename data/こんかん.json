@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"根幹","p":true}],"r_ele":[{"r":"こんかん","p":true}],"sense":[{"gloss":"foundation, root, basis, core, fundamentals","pos":["n"]},{"gloss":"root and trunk","pos":["n"]}]},"sdata":[{"j":"これは↑理論↑↓りろん↓の↑根幹↑↓|こんかん|↓となる↑数式↑↓すうしき↓である。","e":"This formula is the basis of the theory."}]}

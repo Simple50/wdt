@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"世直し","p":true}],"r_ele":[{"r":"よなおし","p":true}],"sense":[{"gloss":"world reformation","pos":["n","vs"]}]},"sdata":[]}

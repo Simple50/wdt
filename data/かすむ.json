@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"霞む","p":true},{"e":"翳む"}],"r_ele":[{"r":"かすむ","p":true}],"sense":[{"gloss":"to become misty, to become hazy","pos":["v5m","vi"]},{"gloss":"to get blurry, to grow dim","pos":["v5m","vi"]},{"gloss":"to be overshadowed, to be upstaged, to be outshone","pos":["v5m","vi"]}],"m":["uk"]},"sdata":[]}

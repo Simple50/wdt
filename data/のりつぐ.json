@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗り継ぐ","p":true},{"e":"乗継ぐ"},{"e":"乗りつぐ"}],"r_ele":[{"r":"のりつぐ","p":true}],"sense":[{"gloss":"to connect (with a different flight, train, etc.), to make a connection, to change (planes, trains, etc.)","pos":["v5g","vt"]}]},"sdata":[]}

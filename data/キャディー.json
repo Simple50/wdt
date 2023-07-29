@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャディー","p":true},{"r":"キャディ"}],"sense":[{"gloss":"caddie, caddy","pos":["n"],"f":["golf"]},{"gloss":"(CD-ROM) caddy","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"ゴルファーは|キャディー|に↑薬↑↓くすり↓を↑与↑↓あた↓えた。","e":"The golfer gave his caddy some medicine."}]}

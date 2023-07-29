@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"義妹","p":true}],"r_ele":[{"r":"ぎまい","p":true},{"r":"いもうと","i":["ik"]}],"sense":[{"gloss":"sister-in-law (spouse's younger sister or younger brother's wife)","pos":["n"]},{"gloss":"younger stepsister, younger adopted sister, non-blood-related younger sister","pos":["n"]}]},"sdata":[{"j":"メアリーはトムの↑義妹↑↓|ぎまい|↓です。","e":"Mary is Tom's stepsister."}]}

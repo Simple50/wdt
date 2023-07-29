@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ご覧になる","p":true},{"e":"御覧になる"},{"e":"ご覧に成る"},{"e":"御覧に成る"}],"r_ele":[{"r":"ごらんになる","p":true}],"sense":[{"gloss":"to see, to look, to watch","pos":["exp","v5r"],"m":["hon"],"x":["見る・1"]},{"gloss":"to try to","pos":["exp","v5r"]}]},"sdata":[{"j":"↑今↑↓いま↓イタリアにいらっしゃるのですから、ナポリは|ご↑覧↑↓らん↓になる|べきですよ。","e":"Now that you are in Italy, you must see Naples."}]}

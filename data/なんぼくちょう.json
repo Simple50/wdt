@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"南北朝","p":true}],"r_ele":[{"r":"なんぼくちょう","p":true}],"sense":[{"gloss":"Northern and Southern Courts (of Japan; 1336-1392), Northern and Southern Dynasties","pos":["n"]},{"gloss":"Northern and Southern Dynasties (of China; 420-589)","pos":["n"]}],"m":["hist"]},"sdata":[]}

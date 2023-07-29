@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枚挙","p":true}],"r_ele":[{"r":"まいきょ","p":true}],"sense":[{"gloss":"enumeration","pos":["n","vs","vt","adj-no"]}]},"sdata":[{"j":"それらは↑枚挙↑↓|まいきょ|↓にいとまがない。","e":"They are too numerous to enumerate."},{"j":"エリックはピアノで↑甘↑↓あ|ま↓い↑曲↑↓きょ|く↓を↑弾↑↓ひ↓いた。","e":"Eric played a sweet tune on the piano."}]}

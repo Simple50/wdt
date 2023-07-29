@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バルーン","p":true}],"sense":[{"gloss":"balloon","pos":["n"]}]},"sdata":[{"j":"デパートの↑屋上↑↓おくじょう↓にアド|バルーン|が↑上↑↓あ↓がっている。","e":"There is an advertising balloon flying above the department store."},{"j":"↑彼↑↓かれ↓らはアド|バルーン|をあげた。","e":"They sent up an advertising balloon."}]}

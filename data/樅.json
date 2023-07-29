@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"樅","p":true}],"r_ele":[{"r":"もみ","p":true},{"r":"モミ"}],"sense":[{"gloss":"Japanese fir (Abies firma), momi fir","pos":["n"]}],"m":["uk"]},"kdata":{"樅":{"on":["ショウ"],"kun":["もみ"],"meanings":["fir"],"comp":[["從","木"]],"freq":3443}},"sdata":[]}

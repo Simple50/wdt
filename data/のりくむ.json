@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗り組む","p":true}],"r_ele":[{"r":"のりくむ","p":true}],"sense":[{"gloss":"to get on aboard, to join a ship","pos":["v5m","vi"]}]},"sdata":[]}

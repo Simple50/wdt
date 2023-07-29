@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アクアトロン","p":true}],"sense":[{"gloss":"artificial environment control for aquatic plants and animals","pos":["n"],"l":"eng: aquatron"}]},"sdata":[]}

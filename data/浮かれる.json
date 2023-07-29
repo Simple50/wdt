@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浮かれる","p":true}],"r_ele":[{"r":"うかれる","p":true}],"sense":[{"gloss":"to make merry, to be festive","pos":["v1","vi"]}]},"kdata":{"浮":{"on":["フ"],"kun":["う.く","う.かれる","う.かぶ","う.かべる"],"jlpt":3,"meanings":["floating","float","rise to surface"],"freq":776,"comp":[["孚","氵"]],"t":1111}},"sdata":[]}

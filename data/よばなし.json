@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夜話","p":true},{"e":"夜咄"}],"r_ele":[{"r":"やわ"},{"r":"よばなし","p":true}],"sense":[{"gloss":"night chat, tale told at night","pos":["n"]},{"gloss":"evening tea party (starting around 6pm)","pos":["n"]},{"gloss":"book of informal essays","pos":["n","n-suf"]}]},"sdata":[]}

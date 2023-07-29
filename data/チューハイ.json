@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酎ハイ"}],"r_ele":[{"r":"ちゅうハイ"},{"r":"チューハイ","p":true},{"r":"チュウハイ"}],"sense":[{"gloss":"shōchū highball, cocktail of shōchū with tonic water","pos":["n"],"x":["焼酎ハイボール"]}],"m":["uk","abbr"]},"sdata":[]}

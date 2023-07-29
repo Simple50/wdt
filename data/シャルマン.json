@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シャルマン","p":true}],"sense":[{"gloss":"charming","pos":["adj-na","n"],"l":"fre: charmant"}]},"sdata":[]}

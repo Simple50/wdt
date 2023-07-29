@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンタイドローン","p":true},{"r":"アンタイド・ローン"}],"sense":[{"gloss":"untied loan","pos":["n"]}]},"sdata":[]}

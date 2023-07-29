@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"傾聴","p":true},{"e":"傾聽","i":["sK"]}],"r_ele":[{"r":"けいちょう","p":true}],"sense":[{"gloss":"listening closely","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは１↑語↑↓ご↓も↑聞↑↓き↓きもらすまいと↑傾聴↑↓|けいちょう|↓した。","e":"They listened attentively so as not to miss a single word."}]}

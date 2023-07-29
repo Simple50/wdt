@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"涎","p":true}],"r_ele":[{"r":"よだれ","p":true}],"sense":[{"gloss":"drool","pos":["n"]}],"m":["uk"]},"kdata":{"涎":{"on":["セン","エン"],"kun":["よだれ"],"meanings":["saliva","slobber"],"comp":[["延","氵"]],"freq":3943}},"sdata":[]}

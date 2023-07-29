@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"在郷軍人","p":true}],"r_ele":[{"r":"ざいごうぐんじん","p":true}],"sense":[{"gloss":"reservist","pos":["n"]}]},"sdata":[]}

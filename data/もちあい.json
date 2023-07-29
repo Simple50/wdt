@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持ち合い","p":true},{"e":"保ち合い"},{"e":"保合い"},{"e":"持合"},{"e":"保合"}],"r_ele":[{"r":"もちあい","p":true},{"r":"たもちあい"}],"sense":[{"gloss":"unity, even matching, interdependence","pos":["n"]},{"gloss":"steadiness (of market price), holding, no change","pos":["n"]}]},"sdata":[]}

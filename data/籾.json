@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"籾","p":true}],"r_ele":[{"r":"もみ","p":true}],"sense":[{"gloss":"unhulled rice, rice in the husk, paddy","pos":["n"]},{"gloss":"rice husks, chaff","pos":["n"],"m":["abbr"],"x":["籾殻"]}]},"kdata":{"籾":{"kun":["もみ"],"meanings":["unhulled rice","(kokuji)"],"comp":[["米","刃"]],"jlpt":0,"freq":3127}},"sdata":[]}

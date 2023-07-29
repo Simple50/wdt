@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"よそ行き","p":true},{"e":"余所行き"},{"e":"他所行き"}],"r_ele":[{"r":"よそゆき","p":true},{"r":"よそいき"}],"sense":[{"gloss":"going out","pos":["n","adj-no"]},{"gloss":"one's best clothes","pos":["n","adj-no"]},{"gloss":"formal (e.g. language), best (behaviour, manners, etc.)","pos":["adj-no"]}]},"sdata":[]}

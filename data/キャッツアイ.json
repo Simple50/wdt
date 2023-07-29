@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャッツアイ","p":true}],"sense":[{"gloss":"cat's-eye (semiprecious stone)","pos":["n"],"x":["猫目石"]},{"gloss":"cat's-eye (light-reflecting road stud)","pos":["n"]}]},"sdata":[]}

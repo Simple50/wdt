@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オフシーズン","p":true},{"r":"オフ・シーズン"}],"sense":[{"gloss":"off-season","pos":["n"]}]},"sdata":[]}

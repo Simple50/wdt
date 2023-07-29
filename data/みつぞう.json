@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"密造","p":true}],"r_ele":[{"r":"みつぞう","p":true}],"sense":[{"gloss":"illicit manufacturing, illicit distilling, moonshining","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンベンションセンター","p":true},{"r":"コンベンション・センター"}],"sense":[{"gloss":"convention center, convention centre","pos":["n"]}]},"sdata":[]}

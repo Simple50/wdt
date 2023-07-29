@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウェーバー","p":true},{"r":"ウエーバー"}],"sense":[{"gloss":"waiver","pos":["n"]},{"gloss":"weber (Wb) (unit of magnetic flux)","pos":["n"]}]},"sdata":[]}

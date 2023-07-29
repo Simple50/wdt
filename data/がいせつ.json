@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"概説","p":true}],"r_ele":[{"r":"がいせつ","p":true}],"sense":[{"gloss":"general statement, outline","pos":["n","vs","vt"]}]},"sdata":[{"j":"まず↑新↑↓あたら↓しいサイトの↑概説↑↓|がいせつ|↓をしようと↑思↑↓おも↓う。","e":"First, I'm going to do an outline of my new website."}]}

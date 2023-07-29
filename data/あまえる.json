@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"甘える","p":true}],"r_ele":[{"r":"あまえる","p":true}],"sense":[{"gloss":"to behave like a spoiled child, to fawn on","pos":["v1","vi"]},{"gloss":"to take advantage of, to presume upon (e.g. another's benevolence), to depend on","pos":["v1","vi"]}]},"sdata":[]}

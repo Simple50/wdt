@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水俣病","p":true}],"r_ele":[{"r":"みなまたびょう","p":true}],"sense":[{"gloss":"Minamata disease","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粘着","p":true}],"r_ele":[{"r":"ねんちゃく","p":true}],"sense":[{"gloss":"cohesion, adhesion","pos":["n","vs","vi"]}]},"sdata":[{"j":"トムはメアリーの↑手足↑↓てあし↓を↑粘着↑↓|ねんちゃく|↓テープで↑縛↑↓しば↓った。","e":"Tom has tied Mary's limbs with tape."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"混沌","p":true},{"e":"渾沌","i":["rK"]}],"r_ele":[{"r":"こんとん","p":true}],"sense":[{"gloss":"chaos, confusion, disorder","pos":["n","adj-no"]},{"gloss":"chaotic, confused, uncertain, disarrayed","pos":["adj-t","adv-to"]}]},"sdata":[{"j":"だが↑私↑↓わたし↓の↑心↑↓こころ↓はまだ↑混沌↑↓|こんとん|↓の↑最中↑↓さいちゅう↓にある。","e":"But my mind is still in chaos."}]}

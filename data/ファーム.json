@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファーム","p":true}],"sense":[{"gloss":"farm","pos":["n"]},{"gloss":"firm","pos":["n"]}]},"sdata":[{"j":"フライトのリコン|ファーム|をお↑願↑↓ねが↓いします。","e":"I'd like to reconfirm my flight."},{"j":"↑彼↑↓かれ↓はコンサルティング|ファーム|に↑勤↑↓つと↓める。","e":"He works for a consulting firm."}]}

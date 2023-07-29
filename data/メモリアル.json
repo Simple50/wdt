@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メモリアル","p":true}],"sense":[{"gloss":"memorial, testimonial, commemorative","pos":["n","adj-f"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人間国宝","p":true}],"r_ele":[{"r":"にんげんこくほう","p":true}],"sense":[{"gloss":"living national treasure","pos":["n"]}]},"sdata":[]}

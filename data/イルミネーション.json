@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イルミネーション","p":true}],"sense":[{"gloss":"illumination, decorative lighting","pos":["n"]}]},"sdata":[{"j":"↑電気↑↓でんき↓の|イルミネーション|が↑夜景↑↓やけい↓の↑魅力↑↓みりょく↓を↑増↑↓ま↓す。","e":"Electric illuminations add to the attraction at night."}]}

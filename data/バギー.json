@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バギー","p":true}],"sense":[{"gloss":"all-terrain vehicle, quad bike","pos":["n"]},{"gloss":"dune buggy, beach buggy","pos":["n"],"x":["バギーカー"]},{"gloss":"buggy, stroller, pushchair","pos":["n"],"x":["ベビーバギー"]}]},"sdata":[]}

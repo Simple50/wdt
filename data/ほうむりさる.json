@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"葬り去る","p":true}],"r_ele":[{"r":"ほうむりさる","p":true}],"sense":[{"gloss":"to consign to oblivion","pos":["v5r","vt"]}]},"sdata":[]}

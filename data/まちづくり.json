@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"街づくり","p":true},{"e":"町づくり"},{"e":"街作り"},{"e":"町作り"},{"e":"街造り"},{"e":"町造り"}],"r_ele":[{"r":"まちづくり","p":true}],"sense":[{"gloss":"town planning, urban development, community development, creating a community","pos":["n"]}],"m":["uk"]},"sdata":[]}

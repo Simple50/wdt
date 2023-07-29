@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カンタータ","p":true}],"sense":[{"gloss":"cantata","pos":["n"],"f":["music"],"l":"ita"}]},"sdata":[]}

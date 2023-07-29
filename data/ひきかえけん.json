@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き換え券"},{"e":"引換券","p":true},{"e":"引替え券"}],"r_ele":[{"r":"ひきかえけん","p":true}],"sense":[{"gloss":"exchange ticket, claim tag, coupon","pos":["n"]}]},"sdata":[{"j":"↑引↑↓|ひ↓き↑換↑↓か↓え↑券↑↓けん|↓を↑見↑↓み↓せて↑下↑↓くだ↓さい。","e":"May I see your claim tags?"},{"j":"↑引↑↓|ひ↓き↑換↑↓か↓え↑券↑↓けん|↓を↑見↑↓み↓せて↑下↑↓くだ↓さい。","e":"Please present your claim tags."}]}

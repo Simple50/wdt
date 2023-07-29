@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フリーパス","p":true},{"r":"フリー・パス"}],"sense":[{"gloss":"free pass","pos":["n"]}]},"sdata":[]}

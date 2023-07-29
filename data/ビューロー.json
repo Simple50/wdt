@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビューロー","p":true}],"sense":[{"gloss":"bureau","pos":["n"]}]},"sdata":[]}

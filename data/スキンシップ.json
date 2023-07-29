@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スキンシップ","p":true}],"sense":[{"gloss":"physical contact (between friends, mother and child, etc.), physical intimacy","pos":["n"],"l":"eng: skinship"}]},"sdata":[{"j":"↑子供↑↓こども↓との|スキンシップ|を↑大切↑↓たいせつ↓にしないとね。","e":"Physical contact with a child is very important."}]}

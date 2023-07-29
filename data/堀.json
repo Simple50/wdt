@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"堀","p":true},{"e":"濠"},{"e":"壕"}],"r_ele":[{"r":"ほり","p":true}],"sense":[{"gloss":"moat, fosse","pos":["n"]},{"gloss":"canal, ditch","pos":["n"]}]},"kdata":{"堀":{"on":["クツ"],"kun":["ほり"],"jlpt":1,"meanings":["ditch","moat","canal"],"freq":1285,"comp":[["屈","土"]],"s":"掘","t":1254}},"sdata":[]}

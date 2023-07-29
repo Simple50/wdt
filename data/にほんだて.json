@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二本立て","p":true}],"r_ele":[{"r":"にほんだて","p":true}],"sense":[{"gloss":"double feature (movie)","pos":["n"]}]},"sdata":[]}

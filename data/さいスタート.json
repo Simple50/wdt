@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再スタート","p":true}],"r_ele":[{"r":"さいスタート","p":true}],"sense":[{"gloss":"restart","pos":["n","vs","vt","vi"]}]},"sdata":[]}

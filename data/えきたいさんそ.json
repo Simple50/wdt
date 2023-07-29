@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"液体酸素","p":true}],"r_ele":[{"r":"えきたいさんそ","p":true}],"sense":[{"gloss":"liquid oxygen","pos":["n"]}]},"sdata":[]}

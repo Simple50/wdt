@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"版本","p":true},{"e":"板本"}],"r_ele":[{"r":"はんぽん","p":true}],"sense":[{"gloss":"woodblock-printed book, book printed from woodblocks","pos":["n"]}]},"sdata":[]}

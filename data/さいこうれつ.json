@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最後列","p":true}],"r_ele":[{"r":"さいこうれつ","p":true}],"sense":[{"gloss":"(very) back (last) row, rearmost row","pos":["n"]}]},"sdata":[]}

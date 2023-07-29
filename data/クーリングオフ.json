@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クーリングオフ","p":true},{"r":"クーリング・オフ"}],"sense":[{"gloss":"cooling-off (period)","pos":["n"]}]},"sdata":[]}

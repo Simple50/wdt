@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シンクロナイズ","p":true}],"sense":[{"gloss":"synchronization, synchronisation","pos":["n","vs","vt","vi"]}]},"sdata":[]}

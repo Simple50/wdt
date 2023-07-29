@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暴れん坊","p":true}],"r_ele":[{"r":"あばれんぼう","p":true}],"sense":[{"gloss":"rambunctious kid, wild kid","pos":["n"]},{"gloss":"hooligan, rowdy, roughneck, a rough","pos":["n"],"x":["暴れ者"]}]},"sdata":[]}

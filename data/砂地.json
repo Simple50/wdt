@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砂地","p":true}],"r_ele":[{"r":"すなじ","p":true},{"r":"すなち"}],"sense":[{"gloss":"sandy soil","pos":["n","adj-no"]}]},"kdata":{"砂":{"on":["サ","シャ"],"kun":["すな"],"jlpt":2,"meanings":["sand"],"freq":1146,"comp":[["少","石"]],"t":929},"地":{"on":["チ","ジ"],"jlpt":4,"meanings":["ground","earth"],"freq":40,"comp":[["土","也"]],"t":335}},"sdata":[]}

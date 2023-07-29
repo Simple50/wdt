@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取次店","p":true}],"r_ele":[{"r":"とりつぎてん","p":true}],"sense":[{"gloss":"agency, distributor","pos":["n"]}]},"sdata":[]}

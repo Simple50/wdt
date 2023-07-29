@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一枚岩","p":true}],"r_ele":[{"r":"いちまいいわ","p":true}],"sense":[{"gloss":"monolith, large slab of rock","pos":["n"]}]},"sdata":[]}

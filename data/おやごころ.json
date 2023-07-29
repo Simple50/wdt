@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"親心","p":true}],"r_ele":[{"r":"おやごころ","p":true}],"sense":[{"gloss":"parental love, parental affection","pos":["n"]}]},"sdata":[]}

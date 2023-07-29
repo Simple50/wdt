@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い残す","p":true}],"r_ele":[{"r":"おもいのこす","p":true}],"sense":[{"gloss":"to regret","pos":["v5s","vt"]}]},"sdata":[{"j":"↑思↑↓|おも↓い↑残↑↓のこ↓す|ことがないように↑頑張↑↓がんば↓るぞ。","e":"I'll do my best to have no regrets."}]}

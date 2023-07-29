@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"握力","p":true}],"r_ele":[{"r":"あくりょく","p":true}],"sense":[{"gloss":"grip (of hand), grip strength","pos":["n"]}]},"sdata":[{"j":"そのレスラーはおそろしいほどの↑握力↑↓|あくりょく|↓がある。","e":"The wrestler has a formidable grip."},{"j":"↑彼↑↓かれ↓は↑握力↑↓|あくりょく|↓がとても↑強↑↓つよ↓い。","e":"He has a grip of steel."}]}

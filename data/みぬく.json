@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見抜く","p":true},{"e":"見ぬく"}],"r_ele":[{"r":"みぬく","p":true}],"sense":[{"gloss":"to see through, to see into (someone's heart, mind, etc.), to perceive, to find out, to detect","pos":["v5k","vt"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓には↑人間↑↓にんげん↓の↑行動↑↓こうどう↓を↑見抜↑↓|みぬ↓く|↑女性↑↓じょせい↓らしい↑洞察↑↓どうさつ↓↑力↑↓りょく↓がある。","e":"She has a feminine insight into human behavior."}]}

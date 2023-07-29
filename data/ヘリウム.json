@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘリウム","p":true}],"sense":[{"gloss":"helium (He)","pos":["n"]}]},"sdata":[]}

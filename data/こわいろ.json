@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"声色","p":true}],"r_ele":[{"r":"こわいろ","p":true}],"sense":[{"gloss":"tone of voice","pos":["n"]},{"gloss":"mimicry, imitative voice","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書き取る","p":true},{"e":"書取る"}],"r_ele":[{"r":"かきとる","p":true}],"sense":[{"gloss":"to write down (what someone says), to take down dictation, to take notes (e.g. of a lecture)","pos":["v5r","vt"]},{"gloss":"to copy out (a text)","pos":["v5r","vt"]}]},"sdata":[{"j":"それを↑書↑↓|か↓き↑取↑↓と↓る|だけでよい。","e":"All you have to do is write it down."}]}

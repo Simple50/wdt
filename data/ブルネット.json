@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブルネット","p":true},{"r":"ブルーネット"}],"sense":[{"gloss":"brunette","pos":["n"]},{"gloss":"woman or girl with brown skin or eyes","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横文字","p":true}],"r_ele":[{"r":"よこもじ","p":true}],"sense":[{"gloss":"horizontal script (esp. of a European language), European writing, Roman letters","pos":["n"]},{"gloss":"European language, Western language","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オーバーステップ","p":true}],"sense":[{"gloss":"overstep","pos":["n"]}]},"sdata":[]}

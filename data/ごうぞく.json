@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豪族","p":true}],"r_ele":[{"r":"ごうぞく","p":true}],"sense":[{"gloss":"powerful family, powerful clan","pos":["n"]}]},"sdata":[]}

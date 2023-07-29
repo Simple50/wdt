@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弱まり","p":true}],"r_ele":[{"r":"よわまり","p":true}],"sense":[{"gloss":"abatement, weakening","pos":["n"]}]},"sdata":[{"j":"↑年↑↓とし↓とともに、↑情熱↑↓じょうねつ↓は↑弱↑↓|よわ↓まり|、↑習慣↑↓しゅうかん↓は↑強↑↓つよ↓くなる。","e":"Passions weaken, but habits strengthen, with age."},{"j":"↑彼↑↓かれ↓の↑体力↑↓たいりょく↓は↑弱↑↓|よわ↓まり|つつある。","e":"His strength is waning."}]}

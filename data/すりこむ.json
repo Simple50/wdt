@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刷り込む","p":true},{"e":"すり込む"},{"e":"刷込む","i":["io"]}],"r_ele":[{"r":"すりこむ","p":true}],"sense":[{"gloss":"to print (on), to insert (an illustration), to stencil (a pattern)","pos":["v5m","vt"]},{"gloss":"to instill (a thought, impression, etc.), to imprint (e.g. on one's subconscious)","pos":["v5m","vt"]}]},"sdata":[]}

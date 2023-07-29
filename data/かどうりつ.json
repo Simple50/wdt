@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"稼働率","p":true},{"e":"稼動率"}],"r_ele":[{"r":"かどうりつ","p":true}],"sense":[{"gloss":"operating rate, utilization rate, occupancy rate, availability factor","pos":["n"]}]},"sdata":[]}

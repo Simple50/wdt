@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼き打ち","p":true},{"e":"焼打ち"},{"e":"焼き討ち"},{"e":"焼討ち"},{"e":"焼討"},{"e":"焼打"}],"r_ele":[{"r":"やきうち","p":true}],"sense":[{"gloss":"setting on fire, setting afire","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寿","p":true},{"e":"壽","i":["oK"]}],"r_ele":[{"r":"ことぶき","p":true}],"sense":[{"gloss":"congratulations, felicitations, best wishes","pos":["n"]},{"gloss":"longevity, long life","pos":["n"]}]},"sdata":[]}

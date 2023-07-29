@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エグゼクティブ","p":true}],"sense":[{"gloss":"executive","pos":["n"]}]},"sdata":[]}

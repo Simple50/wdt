@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"墨絵","p":true}],"r_ele":[{"r":"すみえ","p":true}],"sense":[{"gloss":"ink painting","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"転じる","p":true}],"r_ele":[{"r":"てんじる","p":true}],"sense":[{"gloss":"to turn, to shift, to alter, to distract","pos":["v1","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学術会議","p":true}],"r_ele":[{"r":"がくじゅつかいぎ","p":true}],"sense":[{"gloss":"Japan Science Council","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑学術↑↓|がくじゅつ↓↑会議↑↓かいぎ|↓に↑出席↑↓しゅっせき↓した。","e":"He attended the scientific conference."}]}

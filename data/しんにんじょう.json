@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"信任状","p":true}],"r_ele":[{"r":"しんにんじょう","p":true}],"sense":[{"gloss":"credentials","pos":["n"]}]},"sdata":[]}

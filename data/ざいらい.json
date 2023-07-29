@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"在来","p":true}],"r_ele":[{"r":"ざいらい","p":true}],"sense":[{"gloss":"pre-existing, already there, conventional","pos":["n","adj-no"]}]},"sdata":[]}

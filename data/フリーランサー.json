@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フリーランサー","p":true}],"sense":[{"gloss":"freelancer","pos":["n"],"x":["自由業","フリーランス"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"反物","p":true},{"e":"段物"}],"r_ele":[{"r":"たんもの","p":true}],"sense":[{"gloss":"fabric, cloth, textiles, drapery, dry-goods, piece goods","pos":["n"]},{"gloss":"measure of kimono material","pos":["n"]}]},"sdata":[{"j":"いっ|たん↑物事↑↓もの|ごと↓を↑始↑↓はじ↓めた↑以上↑↓いじょう↓、↑途中↑↓とちゅう↓で↑放棄↑↓ほうき↓してはいけない。","e":"Once you have begun to do something, don't give up."}]}

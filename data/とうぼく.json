@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"倒木","p":true}],"r_ele":[{"r":"とうぼく","p":true}],"sense":[{"gloss":"fallen tree","pos":["n"]}]},"sdata":[{"j":"↑木工↑↓もっこう↓↑芸↑↓げい↓では、↑木↑↓き↓を、↑硬↑↓かた↓↑木↑↓き↓、軟木と、↑唐木↑↓|とうぼく|↓に↑分類↑↓ぶんるい↓します。","e":"In woodworking, we classify wood as hardwood, softwood or exotic wood."},{"j":"その↑画家↑↓がか↓は↑唐墨↑↓|とうぼく|↓で↑描↑↓えが↓いた。","e":"The artist drew with Chinese ink."}]}

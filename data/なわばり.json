@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縄張り","p":true},{"e":"縄張"},{"e":"なわ張り"},{"e":"繩張り","i":["iK"]}],"r_ele":[{"r":"なわばり","p":true}],"sense":[{"gloss":"stretching a rope around, roping off, cordoning off, demarcation","pos":["n"]},{"gloss":"one's turf, domain, territory, jurisdiction, sphere of influence","pos":["n"]},{"gloss":"territory (of an animal)","pos":["n"],"f":["zool"]}]},"sdata":[]}

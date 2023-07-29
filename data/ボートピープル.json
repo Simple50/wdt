@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボートピープル","p":true},{"r":"ボート・ピープル"}],"sense":[{"gloss":"boat people (esp. from Vietnam), boat refugees, refugees fleeing by boat","pos":["n"]}]},"sdata":[]}

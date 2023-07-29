@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"様変わり","p":true},{"e":"様変り"}],"r_ele":[{"r":"さまがわり","p":true}],"sense":[{"gloss":"changing completely, transformation","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"品々","p":true},{"e":"品品"}],"r_ele":[{"r":"しなじな","p":true}],"sense":[{"gloss":"various articles","pos":["n"]}]},"kdata":{"品":{"on":["ヒン","ホン"],"kun":["しな"],"jlpt":4,"meanings":["goods","refinement","dignity","article","counter for meal courses"],"freq":225,"comp":[["囗"]],"d":["臨","區","嵓","嵒","闆","蕚","匲","喿","榀","碞"],"t":833}},"sdata":[]}

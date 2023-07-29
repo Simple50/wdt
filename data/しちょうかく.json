@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"視聴覚","p":true}],"r_ele":[{"r":"しちょうかく","p":true}],"sense":[{"gloss":"senses of seeing and hearing, audiovisual","pos":["n"]}]},"sdata":[]}

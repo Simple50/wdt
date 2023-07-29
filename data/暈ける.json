@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暈ける","p":true}],"r_ele":[{"r":"ぼける","p":true}],"sense":[{"gloss":"to be faded, to be hazy, to be blurred, to be out of focus","pos":["v1","vi"]}],"m":["uk"]},"kdata":{"暈":{"on":["ウン"],"kun":["ぼか.す","ぼけ.る","かさ","くま","ぼかし","めまい"],"meanings":["halo","corona","fade"],"comp":[["軍","日"]],"jlpt":-1,"freq":3810}},"sdata":[]}

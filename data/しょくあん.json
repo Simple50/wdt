@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"職安","p":true}],"r_ele":[{"r":"しょくあん","p":true}],"sense":[{"gloss":"Public Employment Security Office","pos":["n"],"x":["公共職業安定所"]}],"m":["abbr"]},"sdata":[]}

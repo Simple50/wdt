@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"急ぎ足","p":true},{"e":"急足","i":["io"]}],"r_ele":[{"r":"いそぎあし","p":true}],"sense":[{"gloss":"fast pace, quick pace","pos":["n"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓たちはいつもより↑急↑↓|いそ↓ぎ↑足↑↓あし|↓で↑歩↑↓ある↓きました。","e":"We walked more quickly than usual."}]}

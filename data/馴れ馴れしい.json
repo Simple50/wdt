@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"馴れ馴れしい","p":true},{"e":"馴々しい","i":["sK"]}],"r_ele":[{"r":"なれなれしい","p":true}],"sense":[{"gloss":"overly familiar, overfamiliar, too friendly, too free, cheeky","pos":["adj-i"]}]},"kdata":{"馴":{"on":["ジュン","シュン","クン"],"kun":["な.れる","な.らす","したが.う"],"meanings":["get used to","experienced","tamed"],"comp":[["馬","川"]],"jlpt":0,"t":1849,"freq":2525}},"sdata":[]}

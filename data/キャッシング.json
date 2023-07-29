@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャッシング","p":true}],"sense":[{"gloss":"caching","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"ジオ|キャッシング|というのは↑新↑↓あたら↓しいスポーツだ。","e":"Geocaching is a new sport."}]}

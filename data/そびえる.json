@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聳える","p":true}],"r_ele":[{"r":"そびえる","p":true}],"sense":[{"gloss":"to rise (of a building, mountain, etc.), to tower, to soar","pos":["v1","vi"]}],"m":["uk"]},"sdata":[]}

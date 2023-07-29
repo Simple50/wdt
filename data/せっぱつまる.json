@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切羽詰まる","p":true},{"e":"切羽詰る"},{"e":"せっぱ詰まる"},{"e":"切羽つまる"}],"r_ele":[{"r":"せっぱつまる","p":true}],"sense":[{"gloss":"to be at one's wits' end, to be cornered, to be in a fix, to be in a desperate situation, to be in a pinch, to be in a predicament, to be packed to the hilt","pos":["v5r","vi"],"x":["切羽・せっぱ・2"]}]},"sdata":[]}

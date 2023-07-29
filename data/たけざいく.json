@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"竹細工","p":true}],"r_ele":[{"r":"たけざいく","p":true}],"sense":[{"gloss":"bamboo work, bamboo ware","pos":["n"]}]},"sdata":[]}

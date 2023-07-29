@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ドラム缶","p":true}],"r_ele":[{"r":"ドラムかん","p":true}],"sense":[{"gloss":"drum (e.g. oil, gasoline), metal barrel","pos":["n"]}]},"sdata":[{"j":"それは|ドラム↑缶↑↓かん|↓と↑同↑↓おな↓じくらい↑固↑↓かた↓い。","e":"It's as tight as a drum."}]}

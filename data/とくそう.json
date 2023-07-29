@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特捜","p":true}],"r_ele":[{"r":"とくそう","p":true}],"sense":[{"gloss":"special investigation","pos":["n"]}]},"sdata":[]}

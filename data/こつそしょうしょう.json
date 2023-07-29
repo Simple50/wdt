@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"骨粗鬆症","p":true},{"e":"骨粗しょう症"}],"r_ele":[{"r":"こつそしょうしょう","p":true}],"sense":[{"gloss":"osteoporosis","pos":["n"],"f":["med"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑祖母↑↓そぼ↓は↑骨粗鬆症↑↓|こつそしょうしょう|↓を↑患↑↓わずら↓っている。","e":"My grandmother suffers from osteoporosis."}]}

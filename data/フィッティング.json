@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィッティング","p":true}],"sense":[{"gloss":"fitting (of clothing)","pos":["n"]},{"gloss":"fitting, installation","pos":["n"],"x":["取り付け・とりつけ・1"]},{"gloss":"fitting (e.g. graph)","pos":["n"],"f":["math"]}]},"sdata":[]}

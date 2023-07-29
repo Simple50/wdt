@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"笹","p":true},{"e":"篠"},{"e":"小竹"}],"r_ele":[{"r":"ささ","p":true}],"sense":[{"gloss":"bamboo grass, generally smaller species of running bamboo that do not shed their sheaths (e.g. Sasa spp.)","pos":["n"]}]},"kdata":{"笹":{"kun":["ささ"],"meanings":["bamboo grass","(kokuji)"],"freq":1743,"comp":[["𥫗","世"]],"jlpt":0,"t":1429}},"sdata":[]}

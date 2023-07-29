@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脳血栓","p":true}],"r_ele":[{"r":"のうけっせん","p":true}],"sense":[{"gloss":"cerebral thrombosis","pos":["n"]}]},"sdata":[]}

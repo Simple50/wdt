@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絶対多数","p":true}],"r_ele":[{"r":"ぜったいたすう","p":true}],"sense":[{"gloss":"absolute majority","pos":["n"]}]},"sdata":[]}

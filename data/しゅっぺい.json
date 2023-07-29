@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出兵","p":true}],"r_ele":[{"r":"しゅっぺい","p":true}],"sense":[{"gloss":"dispatch of troops, despatch of troops, expedition","pos":["n","vs","vi"]}]},"sdata":[]}

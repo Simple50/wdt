@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仮想敵国","p":true}],"r_ele":[{"r":"かそうてきこく","p":true}],"sense":[{"gloss":"hypothetical or imaginary enemy","pos":["n"]}]},"sdata":[]}

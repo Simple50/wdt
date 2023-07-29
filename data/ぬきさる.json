@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抜き去る","p":true},{"e":"抜きさる"},{"e":"抜去る"}],"r_ele":[{"r":"ぬきさる","p":true}],"sense":[{"gloss":"to pass, to overtake, to leave behind","pos":["v5r","vt"]},{"gloss":"to pull out, to extract, to remove, to take away","pos":["v5r","vt"]}]},"sdata":[]}

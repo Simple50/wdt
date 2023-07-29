@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"汚濁","p":true}],"r_ele":[{"r":"おだく","p":true}],"sense":[{"gloss":"pollution, contamination, corruption, graft","pos":["n","vs","vi"]}]},"sdata":[]}

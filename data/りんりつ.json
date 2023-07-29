@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"林立","p":true}],"r_ele":[{"r":"りんりつ","p":true}],"sense":[{"gloss":"standing close together, bristling (with)","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑君↑↓きみ↓は↑港内↑↓こうない↓に↑林立↑↓|りんりつ|↓する↑帆柱↑↓ほばしら↓を↑見↑↓み↓るであろう。","e":"You will see a forest of masts in the harbor."},{"j":"ニューヨークには↑高層↑↓こうそう↓ビルが↑林立↑↓|りんりつ|↓している。","e":"New York bristles with towering buildings."}]}

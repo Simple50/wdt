@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"剣豪","p":true}],"r_ele":[{"r":"けんごう","p":true}],"sense":[{"gloss":"great swordsman, master fencer","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは↑彼↑↓かれ↓の↑試験↑↓し|けん↓↑合格↑↓ごう|かく↓を↑祝↑↓いわ↓った。","e":"We congratulated him on passing the examinations."}]}

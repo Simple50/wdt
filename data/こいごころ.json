@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恋心","p":true}],"r_ele":[{"r":"こいごころ","p":true}],"sense":[{"gloss":"(feelings of) love","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はほのかな↑恋心↑↓|こいごころ|↓を↑知↑↓し↓るようになる。","e":"She has come to know something like love."}]}

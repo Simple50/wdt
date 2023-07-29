@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不穏当","p":true}],"r_ele":[{"r":"ふおんとう","p":true}],"sense":[{"gloss":"improper, inappropriate, unjust, unfair, unreasonable","pos":["adj-na","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手投げ弾","p":true},{"e":"手投弾"}],"r_ele":[{"r":"てなげだん","p":true}],"sense":[{"gloss":"hand grenade","pos":["n"]}]},"sdata":[]}

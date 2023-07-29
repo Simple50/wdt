@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モルヒネ","p":true}],"sense":[{"gloss":"morphine","pos":["n"],"l":"dut: morfine"}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は|モルヒネ|↑注射↑↓ちゅうしゃ↓によって↑無痛↑↓むつう↓の↑状態↑↓じょうたい↓になった。","e":"She was kept under with morphine injections."}]}

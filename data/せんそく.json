@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"洗足","p":true}],"r_ele":[{"r":"せんそく","p":true}],"sense":[{"gloss":"washing the feet","pos":["n","vs"]}]},"sdata":[]}

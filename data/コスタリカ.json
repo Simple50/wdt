@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コスタリカ","p":true}],"sense":[{"gloss":"Costa Rica","pos":["n"]}]},"sdata":[]}

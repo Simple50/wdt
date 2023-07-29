@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フェレット","p":true}],"sense":[{"gloss":"ferret (Mustela furo)","pos":["n"]}]},"sdata":[]}

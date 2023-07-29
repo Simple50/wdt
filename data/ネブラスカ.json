@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ネブラスカ","p":true}],"sense":[{"gloss":"Nebraska","pos":["n"]}]},"sdata":[]}

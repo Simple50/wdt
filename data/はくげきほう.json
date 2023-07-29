@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"迫撃砲","p":true}],"r_ele":[{"r":"はくげきほう","p":true}],"sense":[{"gloss":"mortar","pos":["n"]}]},"sdata":[]}

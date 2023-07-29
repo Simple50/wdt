@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"舎路","i":["ateji","rK"]}],"r_ele":[{"r":"シアトル","p":true}],"sense":[{"gloss":"Seattle","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"|シアトル|に↑行↑↓い↓きたい。","e":"I want to go to Seattle."},{"j":"↑神戸↑↓こうべ↓は|シアトル|の↑姉妹↑↓しまい↓↑都市↑↓とし↓です。","e":"Kobe is a sister city of Seattle."}]}

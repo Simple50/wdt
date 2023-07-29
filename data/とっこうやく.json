@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特効薬","p":true}],"r_ele":[{"r":"とっこうやく","p":true}],"sense":[{"gloss":"specific medicine, wonder drug, silver bullet","pos":["n"]}]},"sdata":[{"j":"↑笑顔↑↓えがお↓ってね、↑機嫌↑↓きげん↓をなおす↑特効薬↑↓|とっこうやく|↓なのよ。","e":"A smile is the best cure for a bad mood."}]}

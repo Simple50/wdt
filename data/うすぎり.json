@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄切り","p":true}],"r_ele":[{"r":"うすぎり","p":true}],"sense":[{"gloss":"thin slice, slicing thin","pos":["n"]}]},"sdata":[{"j":"このナイフはパンを↑薄切↑↓|うすぎ↓り|にするのにちょうどよい。","e":"This knife is just good for slicing a loaf."},{"j":"トムは↑玉↑↓たま↓ねぎを↑薄切↑↓|うすぎ↓り|にした。","e":"Tom sliced the onion."},{"j":"トムはリンゴを↑薄切↑↓|うすぎ↓り|にした。","e":"Tom sliced the apple."}]}

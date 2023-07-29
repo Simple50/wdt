@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紳士録","p":true}],"r_ele":[{"r":"しんしろく","p":true}],"sense":[{"gloss":"who's who, directory, social register","pos":["n"]}]},"sdata":[]}

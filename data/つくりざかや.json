@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"造り酒屋","p":true},{"e":"作り酒屋"},{"e":"造酒屋"}],"r_ele":[{"r":"つくりざかや","p":true}],"sense":[{"gloss":"sake brewer, sake brewery","pos":["n"]}]},"sdata":[]}

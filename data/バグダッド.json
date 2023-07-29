@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巴格達","i":["ateji","rK"]}],"r_ele":[{"r":"バグダッド","p":true},{"r":"バグダード"}],"sense":[{"gloss":"Baghdad (Iraq)","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑同盟↑↓どうめい↓↑軍↑↓ぐん↓は|バグダッド|の↑検問↑↓けんもん↓↑所↑↓しょ↓で↑彼女↑↓かのじょ↓の↑車↑↓くるま↓を↑襲撃↑↓しゅうげき↓した。","e":"The coalition force fired at her car at the checkpoint in Bagdad."}]}

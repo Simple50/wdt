@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒らし回る","p":true}],"r_ele":[{"r":"あらしまわる","p":true}],"sense":[{"gloss":"to break into (houses here and there), to rampage","pos":["v5r"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ランドマーク","p":true}],"sense":[{"gloss":"landmark","pos":["n"]}]},"sdata":[{"j":"|ランドマーク|ホテルに↑連絡↑↓れんらく↓してくれれば、↑大丈夫↑↓だいじょうぶ↓だ。","e":"You can get in touch with me at Hotel Landmark."}]}

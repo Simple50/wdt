@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"摩洛哥","i":["ateji","rK"]}],"r_ele":[{"r":"モロッコ","p":true}],"sense":[{"gloss":"Morocco","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑来週↑↓らいしゅう↓|モロッコ|へ↑出発↑↓しゅっぱつ↓します。","e":"I will be leaving for Morocco next week."},{"j":"|モロッコ|の↑首都↑↓しゅと↓はラバトです。","e":"The capital of Morocco is Rabat."}]}

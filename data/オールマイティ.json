@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オールマイティ","p":true},{"r":"オールマイティー"}],"sense":[{"gloss":"almighty","pos":["adj-na","n"]},{"gloss":"highest valued card (e.g. ace of spades), wild card","pos":["n"],"f":["cards"]}]},"sdata":[{"j":"ジョーカーは|オールマイティ|ーでいいよね？","e":"The Joker is the wild card, OK?"}]}

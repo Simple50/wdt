@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"織布","p":true}],"r_ele":[{"r":"しょくふ","p":true}],"sense":[{"gloss":"woven fabric","pos":["n"]}]},"sdata":[]}

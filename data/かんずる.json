@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"感ずる","p":true}],"r_ele":[{"r":"かんずる","p":true}],"sense":[{"gloss":"to feel, to sense","pos":["vz","vi","vt"],"x":["感じる"]}]},"sdata":[{"j":"↑人生↑↓じんせい↓から↑非常↑↓ひじょう↓な↑喜↑↓よろこ↓びを↑感↑↓|かん↓ずる|。","e":"I get a kick out of life."}]}

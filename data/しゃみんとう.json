@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社民党","p":true}],"r_ele":[{"r":"しゃみんとう","p":true}],"sense":[{"gloss":"Social Democratic Party","pos":["n"],"x":["社会民主党"]}],"m":["abbr"]},"sdata":[]}

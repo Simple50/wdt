@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"欧文","p":true}],"r_ele":[{"r":"おうぶん","p":true}],"sense":[{"gloss":"writing in a European language, European text, Roman letters","pos":["n"]}]},"sdata":[{"j":"↑静子↑↓しずこ↓は↑試験↑↓しけん↓でカンニングして、↑応分↑↓|おうぶん|↓な↑罰↑↓ばっ↓を↑受↑↓う↓けました。","e":"Shizuko cheated in an examination and received an appropriate punishment."}]}

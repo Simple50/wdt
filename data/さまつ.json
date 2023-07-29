@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瑣末","p":true},{"e":"些末"}],"r_ele":[{"r":"さまつ","p":true}],"sense":[{"gloss":"trivial, trifling","pos":["adj-na","n"]}]},"sdata":[{"j":"↑逆↑↓さか↓|さまつ|げがあります。","e":"I have in-growing eyelashes."}]}

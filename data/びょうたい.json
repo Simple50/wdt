@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病態","p":true}],"r_ele":[{"r":"びょうたい","p":true}],"sense":[{"gloss":"patient's condition, pathology","pos":["n"],"x":["病状"]}]},"sdata":[]}

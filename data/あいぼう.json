@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相棒","p":true}],"r_ele":[{"r":"あいぼう","p":true}],"sense":[{"gloss":"partner, pal, accomplice","pos":["n"]}]},"sdata":[{"j":"こいつ、さっきまで↑俺↑↓おれ↓の↑相棒↑↓|あいぼう|↓だったのに、もう↑寝返↑↓ねがえ↓りやがった。","e":"This rat, up until just now he was my partner and now he's gone and turned on me."},{"j":"↑彼↑↓かれ↓らは↑私↑↓わたし↓の↑仕事↑↓しごと↓の↑相棒↑↓|あいぼう|↓です。","e":"They're my friends from work."}]}

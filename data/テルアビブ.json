@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テルアビブ","p":true}],"sense":[{"gloss":"Tel Aviv (Israel)","pos":["n"]}]},"sdata":[]}

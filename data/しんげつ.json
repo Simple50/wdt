@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新月","p":true}],"r_ele":[{"r":"しんげつ","p":true}],"sense":[{"gloss":"new moon, crescent moon","pos":["n"],"x":["三日月"]}]},"sdata":[{"j":"↑満月↑↓まんげつ↓でしたか↑新月↑↓|しんげつ|↓でしたか。","e":"Was it a full moon or a new moon?"}]}

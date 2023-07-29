@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゼロックス","p":true}],"sense":[{"gloss":"Xerox","pos":["n"]}]},"sdata":[]}

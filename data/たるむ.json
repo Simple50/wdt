@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弛む","p":true}],"r_ele":[{"r":"たるむ","p":true},{"r":"たゆむ"}],"sense":[{"gloss":"to slacken, to loosen, to relax, to droop (e.g. loose or flabby skin), to sag (ceiling)","pos":["v5m","vi"]},{"gloss":"to slack off (e.g. one's work, attention), to not put one's heart in","pos":["v5m","vi"]}],"m":["uk"]},"sdata":[]}

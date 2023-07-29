@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"府知事","p":true}],"r_ele":[{"r":"ふちじ","p":true}],"sense":[{"gloss":"prefectural governor (of Osaka or Kyoto)","pos":["n"],"x":["県知事"]}]},"sdata":[]}

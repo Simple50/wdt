@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄日","p":true}],"r_ele":[{"r":"うすび","p":true}],"sense":[{"gloss":"soft light","pos":["n"]}]},"sdata":[]}

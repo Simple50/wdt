@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敗れる","p":true}],"r_ele":[{"r":"やぶれる","p":true}],"sense":[{"gloss":"to be defeated, to be beaten, to be unsuccessful, to lose","pos":["v1","vi"]}]},"sdata":[]}

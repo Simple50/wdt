@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主権在民","p":true}],"r_ele":[{"r":"しゅけんざいみん","p":true}],"sense":[{"gloss":"sovereignty of the people","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アセトン","p":true}],"sense":[{"gloss":"acetone","pos":["n","adj-no"]}]},"sdata":[]}

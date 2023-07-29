@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ストライク","p":true}],"sense":[{"gloss":"strike (e.g. in baseball, bowling)","pos":["n"],"f":["sports"]}]},"sdata":[{"j":"バッターのカウントはツー|ストライク|ツーボール。","e":"The batter has two balls and two strikes on him."},{"j":"ここから↑見↑↓み↓ると、↑私↑↓わたし↓には|ストライク|に↑見↑↓み↓えましたよ。","e":"It looked like a strike to me from here."}]}

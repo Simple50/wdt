@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オスカー","p":true}],"sense":[{"gloss":"Oscar, Academy Award","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は、その↑演技↑↓えんぎ↓で|オスカー|を↑取↑↓と↓った↑女↑↓おんな↓の↑子↑↓こ↓である。","e":"She's the girl whose performance won an Oscar."}]}

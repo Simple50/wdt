@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピンチヒッター","p":true},{"r":"ピンチ・ヒッター"}],"sense":[{"gloss":"pinch hitter","pos":["n"],"f":["baseb"],"x":["代打"]}]},"sdata":[{"j":"↑最終↑↓さいしゅう↓↑回↑↓かい↓に|ピンチヒッター|が↑起用↑↓きよう↓された。","e":"A pinch hitter was brought into action in the last inning."}]}

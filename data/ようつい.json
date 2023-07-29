@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腰椎","p":true}],"r_ele":[{"r":"ようつい","p":true}],"sense":[{"gloss":"lumbar vertebra, lumbar vertebrae","pos":["n","adj-no"],"f":["anat"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脆弱","p":true},{"e":"ぜい弱","i":["sK"]}],"r_ele":[{"r":"ぜいじゃく","p":true}],"sense":[{"gloss":"weak, frail, fragile","pos":["adj-na","n"]}]},"sdata":[{"j":"↑脆弱↑↓|ぜいじゃく|↓で↑力↑↓ちから↓の↑無↑↓な↓い、ただの↑人間↑↓にんげん↓なんだ。","e":"She's weak, powerless. A mere human."}]}

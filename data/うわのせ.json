@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上乗せ","p":true}],"r_ele":[{"r":"うわのせ","p":true}],"sense":[{"gloss":"adding (an extra amount), increasing, tacking on (a charge)","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らの↑間↑↓ま↓に↑調和↑↓ちょ|うわ↓の↑精神↑↓せ|いしん↓が↑広↑↓ひろ↓がった。","e":"A harmony prevailed among them."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コラムニスト","p":true}],"sense":[{"gloss":"columnist","pos":["n"]}]},"sdata":[{"j":"その|コラムニスト|は↑古↑↓ふる↓い↑醜聞↑↓しゅうぶん↓を↑蒸↑↓む↓し↑返↑↓かえ↓した。","e":"The columnist raked up some old gossip."}]}

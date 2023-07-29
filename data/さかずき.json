@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"杯","p":true},{"e":"盃"},{"e":"坏"},{"e":"巵"},{"e":"卮"},{"e":"盞"},{"e":"觚"},{"e":"觴"},{"e":"酒盃","i":["iK"]}],"r_ele":[{"r":"さかずき","p":true},{"r":"さかづき"},{"r":"うき"}],"sense":[{"gloss":"sake cup, cup for alcoholic beverages","pos":["n"]}]},"sdata":[]}

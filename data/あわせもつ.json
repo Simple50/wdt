@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"併せ持つ","p":true},{"e":"合わせ持つ"},{"e":"あわせ持つ"},{"e":"併せもつ"},{"e":"合せ持つ"}],"r_ele":[{"r":"あわせもつ","p":true}],"sense":[{"gloss":"to have two things (at the same time) (e.g. good and bad points), to also have something (in addition to something else)","pos":["v5t","vt"]}]},"sdata":[]}

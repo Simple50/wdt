@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マッチプレー","p":true},{"r":"マッチ・プレー"}],"sense":[{"gloss":"match play (golf)","pos":["n"],"f":["sports"]}]},"sdata":[]}

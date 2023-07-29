@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"踏み切る","p":true},{"e":"踏切る"}],"r_ele":[{"r":"ふみきる","p":true}],"sense":[{"gloss":"to take off, to jump, to leap","pos":["v5r","vt"]},{"gloss":"to take the plunge, to decide, to embark on, to venture into, to launch out into","pos":["v5r","vt"]},{"gloss":"to step out of the ring","pos":["v5r","vt"],"f":["sumo"]}]},"sdata":[]}

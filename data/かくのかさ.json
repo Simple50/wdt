@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"核の傘","p":true}],"r_ele":[{"r":"かくのかさ","p":true}],"sense":[{"gloss":"nuclear umbrella","pos":["exp","n"]}]},"sdata":[]}

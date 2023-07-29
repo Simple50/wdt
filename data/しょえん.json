@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初演","p":true}],"r_ele":[{"r":"しょえん","p":true}],"sense":[{"gloss":"first performance","pos":["n","vs","vt"]}]},"sdata":[]}

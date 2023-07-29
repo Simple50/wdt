@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白む","p":true}],"r_ele":[{"r":"しらむ","p":true},{"r":"しろむ"}],"sense":[{"gloss":"to grow light, to become white, to turn grey (gray)","pos":["v5m","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"牧歌的","p":true}],"r_ele":[{"r":"ぼっかてき","p":true}],"sense":[{"gloss":"pastoral, idyllic","pos":["adj-na"]}]},"sdata":[]}

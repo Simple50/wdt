@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャタピラ"},{"r":"キャタピラー","p":true},{"r":"カタピラ"},{"r":"カタピラー"}],"sense":[{"gloss":"caterpillar track, continuous track","pos":["n"]}]},"sdata":[]}

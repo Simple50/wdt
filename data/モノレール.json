@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モノレール","p":true}],"sense":[{"gloss":"monorail","pos":["n"]}]},"sdata":[]}

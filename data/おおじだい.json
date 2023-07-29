@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大時代","p":true}],"r_ele":[{"r":"おおじだい","p":true},{"r":"だいじだい","i":["ik"]}],"sense":[{"gloss":"old-fashioned, antiquated, anachronistic","pos":["adj-na","n"]}]},"sdata":[]}

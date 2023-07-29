@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"揺らぎ","p":true}],"r_ele":[{"r":"ゆらぎ","p":true}],"sense":[{"gloss":"tremor, fluctuation","pos":["n"]}]},"kdata":{"揺":{"on":["ヨウ"],"kun":["ゆ.れる","ゆ.る","ゆ.らぐ","ゆ.るぐ","ゆ.する","ゆ.さぶる","ゆ.すぶる","うご.く"],"jlpt":1,"meanings":["swing","shake","sway","rock","tremble","vibrate"],"freq":1079,"comp":[["扌","爫","缶"]],"t":1514}},"sdata":[]}

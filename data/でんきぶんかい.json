@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電気分解","p":true}],"r_ele":[{"r":"でんきぶんかい","p":true}],"sense":[{"gloss":"electrolysis","pos":["n","vs","vt"],"f":["chem"]}]},"sdata":[]}

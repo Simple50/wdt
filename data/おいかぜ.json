@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い風","p":true},{"e":"追風"}],"r_ele":[{"r":"おいかぜ","p":true},{"r":"おいて"}],"sense":[{"gloss":"tailwind, fair wind, favorable wind (favourable)","pos":["n"]},{"gloss":"favorable condition (favourable), advantageous situation","pos":["n"]}]},"sdata":[{"j":"↑追↑↓|お↓い↑風↑↓かぜ|↓の↑時↑↓とき↓に↑帆↑↓ほ↓を↑上↑↓あ↓げよ。","e":"Hoist your sail when the wind is fair."}]}

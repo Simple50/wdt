@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シミュレーション","p":true},{"r":"シュミレーション","i":["ik"]}],"sense":[{"gloss":"simulation","pos":["n","vs","vt"]},{"gloss":"simulation (of a foul), diving, flopping","pos":["n"],"f":["sports"]}]},"sdata":[{"j":"↑上↑↓うえ↓に↑示↑↓しめ↓した↑数値↑↓すうち↓はホブソンの|シミュレーション|による↑結果↑↓けっか↓である。","e":"The numerical values shown above derive from Hobson's simulation."}]}

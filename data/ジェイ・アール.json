@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＪＲ","p":true}],"r_ele":[{"r":"ジェイ・アール","p":true},{"r":"ジェイアール","i":["sk"]},{"r":"ジェーアール","i":["sk"]}],"sense":[{"gloss":"Japan Railways, JR","pos":["n"]}]},"sdata":[]}

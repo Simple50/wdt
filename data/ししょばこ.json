@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"私書箱","p":true}],"r_ele":[{"r":"ししょばこ","p":true}],"sense":[{"gloss":"post office box","pos":["n"],"x":["郵便私書箱"]}],"m":["abbr"]},"sdata":[]}

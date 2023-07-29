@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不確か","p":true}],"r_ele":[{"r":"ふたしか","p":true}],"sense":[{"gloss":"unreliable, uncertain, indefinite, unclear","pos":["adj-na","n"]}]},"sdata":[{"j":"↑結果↑↓けっか↓はまだ↑不確↑↓|ふたし↓か|である。","e":"The result is still in doubt."},{"j":"↑彼↑↓かれ↓は↑自分↑↓じぶん↓の↑未来↑↓みらい↓について↑不確↑↓|ふたし↓か|だ。","e":"He is uncertain about his future."}]}

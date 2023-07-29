@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殴り合い","p":true}],"r_ele":[{"r":"なぐりあい","p":true}],"sense":[{"gloss":"fist fight","pos":["n"]}]},"sdata":[]}

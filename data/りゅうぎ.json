@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流儀","p":true}],"r_ele":[{"r":"りゅうぎ","p":true}],"sense":[{"gloss":"way (of doing things), method, style, fashion","pos":["n"]},{"gloss":"school (e.g. of poetry)","pos":["n"],"x":["流派"]}]},"sdata":[{"j":"↑劉↑↓|りゅう↓↑暁↑↓ぎ|ょう↓↑波↑↓は↓は↑中国人↑↓ちゅうごくじん↓です。","e":"Liu Xiaobo is Chinese."}]}

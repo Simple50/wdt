@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勝ち残る","p":true}],"r_ele":[{"r":"かちのこる","p":true}],"sense":[{"gloss":"to win and advance to the next round","pos":["v5r","vi"]}]},"sdata":[]}

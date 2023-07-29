@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漁村","p":true}],"r_ele":[{"r":"ぎょそん","p":true}],"sense":[{"gloss":"fishing village","pos":["n"]}]},"sdata":[{"j":"トムは↑小↑↓ちい↓さな↑漁村↑↓|ぎょそん|↓に↑住↑↓す↓んでいた。","e":"Tom lived in a small fishing village."}]}

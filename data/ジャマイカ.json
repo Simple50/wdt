@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"牙買加","i":["ateji","rK"]}],"r_ele":[{"r":"ジャマイカ","p":true}],"sense":[{"gloss":"Jamaica","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑彼↑↓かれ↓は|ジャマイカ|に↑住居↑↓じゅうきょ↓を↑構↑↓かま↓えた。","e":"He took up residence in Jamaica."},{"j":"↑彼↑↓かれ↓は|ジャマイカ|に↑新居↑↓しんきょ↓を↑構↑↓かま↓えた。","e":"He set up a new home in Jamaica."}]}

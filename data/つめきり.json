@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"爪切り","p":true},{"e":"爪切"}],"r_ele":[{"r":"つめきり","p":true}],"sense":[{"gloss":"nail clippers","pos":["n"]}]},"sdata":[{"j":"↑爪↑↓|つめ↓↑切↑↓き↓り|が↑見当↑↓みあ↓たらないんだよ。","e":"I can't find my fingernail clipper."}]}

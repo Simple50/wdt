@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"競り合う","p":true},{"e":"競合う"}],"r_ele":[{"r":"せりあう","p":true}],"sense":[{"gloss":"to struggle for, to compete with, to vie with","pos":["v5u","vi"]}]},"sdata":[]}

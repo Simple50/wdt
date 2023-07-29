@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"闊達","p":true},{"e":"豁達"},{"e":"濶達"}],"r_ele":[{"r":"かったつ","p":true},{"r":"かつだつ","i":["ok"]}],"sense":[{"gloss":"openhearted, frank, broad-minded","pos":["adj-na","n"]}]},"sdata":[{"j":"↑自分↑↓じぶん↓では、↑分↑↓わ↓|かったつ|もりでいたけど、↑改↑↓あらた↓めて↑考↑↓かんが↓えると↑分↑↓わ↓かんなくなってきた。","e":"I was sure I understood it, but on thinking it over, I realized I didn't know at all."}]}

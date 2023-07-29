@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロードレース","p":true},{"r":"ロード・レース"}],"sense":[{"gloss":"road race","pos":["n"]}]},"sdata":[]}

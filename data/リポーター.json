@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リポーター","p":true},{"r":"レポーター"}],"sense":[{"gloss":"reporter","pos":["n"]}]},"sdata":[{"j":"|リポーター|は↑言↑↓い↓われたことをすべて↑書↑↓か↓き↑留↑↓と↓めた。","e":"The reporter took down everything that was said."},{"j":"|リポーター|↑達↑↓たち↓は↑質問↑↓しつもん↓を↑続↑↓つづ↓けた。","e":"The reporters continued to ask questions."}]}

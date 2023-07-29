@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"朝鮮半島","p":true}],"r_ele":[{"r":"ちょうせんはんとう","p":true}],"sense":[{"gloss":"Korean peninsula","pos":["n"]}]},"sdata":[{"j":"↑朝鮮半島↑↓|ちょうせんはんとう|↓を↑訪↑↓おとず↓れたことがありますか。","e":"Have you ever been to the Korean Peninsula?"}]}

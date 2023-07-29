@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実妹","p":true}],"r_ele":[{"r":"じつまい","p":true}],"sense":[{"gloss":"biological younger sister","pos":["n"]}]},"sdata":[]}

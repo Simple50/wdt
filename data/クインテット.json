@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クインテット","p":true},{"r":"クィンテット"}],"sense":[{"gloss":"quintet","pos":["n"],"l":"ita: quintetto"}]},"sdata":[]}

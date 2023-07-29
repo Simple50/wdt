@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シンセサイザー","p":true},{"r":"シンセサイザ"}],"sense":[{"gloss":"synthesizer, synthesiser","pos":["n"]}]},"sdata":[]}

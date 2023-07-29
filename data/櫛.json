@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"櫛","p":true}],"r_ele":[{"r":"くし","p":true},{"r":"クシ"}],"sense":[{"gloss":"comb","pos":["n"]}]},"kdata":{"櫛":{"on":["シツ"],"kun":["くし","くしけず.る"],"meanings":["comb"],"freq":2256,"comp":[["木","節"]],"jlpt":0}},"sdata":[{"j":"↑外出↑↓がいしゅつ↓する↑前↑↓まえ↓に↑髪↑↓かみ↓を|↑櫛|↑↓くし↓でときなさい。","e":"Comb your hair before you go out."}]}

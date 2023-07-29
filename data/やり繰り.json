@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"やり繰り","p":true},{"e":"遣り繰り"}],"r_ele":[{"r":"やりくり","p":true}],"sense":[{"gloss":"making do, getting by (somehow), managing","pos":["n","vs","vt"]}],"m":["uk"]},"kdata":{"繰":{"on":["ソウ"],"kun":["く.る"],"jlpt":1,"meanings":["winding","reel","spin","turn (pages)","look up","refer to"],"freq":872,"comp":[["喿","糸"]],"t":2267}},"sdata":[]}

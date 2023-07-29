@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シュトゥルムウントドラング","p":true},{"r":"シュトゥルム・ウント・ドラング"}],"sense":[{"gloss":"Sturm und Drang","pos":["exp"],"l":"ger"}]},"sdata":[]}

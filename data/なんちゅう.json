@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"南中","p":true}],"r_ele":[{"r":"なんちゅう","p":true}],"sense":[{"gloss":"culmination, southing, crossing the meridian","pos":["n","vs","vi"],"f":["astron"]}]},"sdata":[{"j":"|なんちゅう|↑重↑↓おも↓い↑机↑↓つくえ↓だよ！","e":"What a heavy desk this is!"},{"j":"|なんちゅう|↑大食↑↓たいしょく↓いなんだこいつは。","e":"What a big eater he is!"},{"j":"|なんちゅう|でかい↑犬↑↓いぬ↓なんだよ！","e":"What a big dog!"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虚無","p":true}],"r_ele":[{"r":"きょむ","p":true}],"sense":[{"gloss":"nihility, nothingness","pos":["n"]}]},"sdata":[]}

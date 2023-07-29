@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"質屋","p":true}],"r_ele":[{"r":"しちや","p":true}],"sense":[{"gloss":"pawnshop","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑質屋↑↓|しちや|↓から↑時計↑↓とけい↓↑買↑↓か↓い↑戻↑↓もど↓した。","e":"He redeemed his watch from the pawnbroker."}]}

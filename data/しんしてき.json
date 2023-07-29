@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紳士的","p":true}],"r_ele":[{"r":"しんしてき","p":true}],"sense":[{"gloss":"gentlemanly, well-mannered, well-bred, gentlemanlike","pos":["adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑決↑↓けっ↓して↑紳士↑↓|しんし↓↑的↑↓てき|↓ではない。","e":"He is anything but a gentleman."},{"j":"↑彼↑↓かれ↓は↑決↑↓けっ↓して↑紳士↑↓|しんし↓↑的↑↓てき|↓ではない。","e":"He is definitely not a gentleman."}]}

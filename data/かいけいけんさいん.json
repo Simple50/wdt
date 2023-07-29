@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"会計検査院","p":true}],"r_ele":[{"r":"かいけいけんさいん","p":true}],"sense":[{"gloss":"Board of Audit","pos":["n"]}]},"sdata":[]}

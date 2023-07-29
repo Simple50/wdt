@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"城跡","p":true},{"e":"城址"},{"e":"城趾"},{"e":"城蹟"}],"r_ele":[{"r":"しろあと","p":true},{"r":"じょうせき"},{"r":"じょうし"}],"sense":[{"gloss":"castle site, ruins of a castle","pos":["n"]}]},"sdata":[]}

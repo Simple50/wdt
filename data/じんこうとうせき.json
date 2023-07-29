@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人工透析","p":true}],"r_ele":[{"r":"じんこうとうせき","p":true}],"sense":[{"gloss":"(artificial) dialysis","pos":["n"],"f":["med"]}]},"sdata":[]}

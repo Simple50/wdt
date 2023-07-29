@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エバンジェリスト","p":true},{"r":"エヴァンジェリスト"}],"sense":[{"gloss":"evangelist","pos":["n"]}]},"sdata":[]}

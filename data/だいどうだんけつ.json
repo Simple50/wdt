@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大同団結","p":true}],"r_ele":[{"r":"だいどうだんけつ","p":true}],"sense":[{"gloss":"merger, (presenting a) united front","pos":["n","vs","vi"]}],"m":["yoji"]},"sdata":[]}

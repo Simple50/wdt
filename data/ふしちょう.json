@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不死鳥","p":true}],"r_ele":[{"r":"ふしちょう","p":true}],"sense":[{"gloss":"phoenix","pos":["n"],"x":["フェニックス・1"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打席","p":true}],"r_ele":[{"r":"だせき","p":true}],"sense":[{"gloss":"batter's box, one's turn at bat","pos":["n"],"f":["baseb"]}]},"sdata":[]}

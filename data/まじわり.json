@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"交わり","p":true}],"r_ele":[{"r":"まじわり","p":true}],"sense":[{"gloss":"acquaintance, relations, fellowship","pos":["n"]},{"gloss":"sexual intercourse","pos":["n"]},{"gloss":"intersection","pos":["n"]}]},"sdata":[]}

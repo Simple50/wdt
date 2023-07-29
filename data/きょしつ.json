@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"居室","p":true}],"r_ele":[{"r":"きょしつ","p":true}],"sense":[{"gloss":"living room","pos":["n"]}]},"sdata":[]}

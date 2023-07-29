@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"専守防衛","p":true}],"r_ele":[{"r":"せんしゅぼうえい","p":true}],"sense":[{"gloss":"nonaggressive defense (policy) (defence)","pos":["n"]}]},"sdata":[]}

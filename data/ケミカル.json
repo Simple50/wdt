@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ケミカル","p":true}],"sense":[{"gloss":"chemical","pos":["n","adj-no"]},{"gloss":"synthetic","pos":["n","adj-no"]}]},"sdata":[]}

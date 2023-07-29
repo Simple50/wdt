@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細面","p":true}],"r_ele":[{"r":"ほそおもて","p":true}],"sense":[{"gloss":"slender face","pos":["n","adj-no"]}]},"sdata":[]}

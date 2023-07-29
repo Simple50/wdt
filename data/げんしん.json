@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原審","p":true}],"r_ele":[{"r":"げんしん","p":true}],"sense":[{"gloss":"original sentence","pos":["n"]}]},"sdata":[{"j":"↑近年↑↓きんねん↓では↑人間↑↓にん|げん↓↑心理↑↓しん|り↓の↑謎↑↓なぞ↓を↑扱↑↓あつか↓うサイコホラーも↑人気↑↓にんき↓である。","e":"Psycho-horror films dealing with the mysteries of human psychology are popular these days."}]}

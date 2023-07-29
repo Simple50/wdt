@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日記帳","p":true}],"r_ele":[{"r":"にっきちょう","p":true}],"sense":[{"gloss":"diary","pos":["n"]}]},"sdata":[]}

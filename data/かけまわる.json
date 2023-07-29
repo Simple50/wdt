@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆け回る","p":true},{"e":"駆けまわる"},{"e":"かけ回る"},{"e":"駆回る","i":["io"]}],"r_ele":[{"r":"かけまわる","p":true}],"sense":[{"gloss":"to run around, to bustle about","pos":["v5r","vi"]}]},"sdata":[]}

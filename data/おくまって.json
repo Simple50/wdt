@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奥まって","p":true}],"r_ele":[{"r":"おくまって","p":true}],"sense":[{"gloss":"secluded, innermost","pos":["exp"]}]},"sdata":[]}

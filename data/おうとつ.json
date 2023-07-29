@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"凹凸","p":true}],"r_ele":[{"r":"おうとつ","p":true}],"sense":[{"gloss":"unevenness, bumpiness, roughness, ruggedness","pos":["n"]},{"gloss":"imbalance, inequality, unevenness, disparity","pos":["n"]}]},"sdata":[]}

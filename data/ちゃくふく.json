@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"着服","p":true}],"r_ele":[{"r":"ちゃくふく","p":true},{"r":"ちゃくぶく"},{"r":"ちゃくぼく","i":["ok"]}],"sense":[{"gloss":"embezzlement, misappropriation, pocketing","pos":["n","vs","vt"]},{"gloss":"dressing oneself, putting on clothes","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑公金↑↓こうきん↓を↑着服↑↓|ちゃくふく|↓した。","e":"He embezzled public money."}]}

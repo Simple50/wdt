@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"迫真","p":true}],"r_ele":[{"r":"はくしん","p":true}],"sense":[{"gloss":"realistic, true to life","pos":["adj-no","n"]}]},"sdata":[]}

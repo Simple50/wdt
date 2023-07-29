@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"子守唄","p":true},{"e":"子守歌","p":true},{"e":"子守り歌"},{"e":"子守り唄"}],"r_ele":[{"r":"こもりうた","p":true}],"sense":[{"gloss":"lullaby","pos":["n"]}]},"sdata":[{"j":"アンは↑妹↑↓いもうと↓のために↑子守↑↓|こもり↓↑唄↑↓うた|↓を↑歌↑↓うた↓ってあげた。","e":"Ann sang a lullaby for her little sister."},{"j":"↑子守↑↓|こもり↓↑唄↑↓うた|↓を↑歌↑↓うた↓って。","e":"Sing me a lullaby."}]}

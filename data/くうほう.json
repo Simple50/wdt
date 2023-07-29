@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空砲","p":true}],"r_ele":[{"r":"くうほう","p":true}],"sense":[{"gloss":"empty gun, gun loaded with blanks, firing a blank","pos":["n"],"x":["空包"]}]},"sdata":[{"j":"↑警察↑↓けいさつ↓は↑空砲↑↓|くうほう|↓を↑撃↑↓う↓った。","e":"The police officer fired a blank."}]}

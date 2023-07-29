@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"似せる","p":true}],"r_ele":[{"r":"にせる","p":true}],"sense":[{"gloss":"to copy, to imitate, to counterfeit, to forge","pos":["v1","vt"]}]},"kdata":{"似":{"on":["ジ"],"kun":["に.る","ひ.る"],"jlpt":3,"meanings":["resemble","by","becoming","resemble","counterfeit","imitate","suitable"],"freq":923,"comp":[["以","亻"]],"d":["娰"],"t":431}},"sdata":[]}

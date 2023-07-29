@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相似形","p":true}],"r_ele":[{"r":"そうじけい","p":true}],"sense":[{"gloss":"similar figures (in geometry)","pos":["n"],"f":["math"]}]},"sdata":[]}

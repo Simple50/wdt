@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文明開化","p":true}],"r_ele":[{"r":"ぶんめいかいか","p":true}],"sense":[{"gloss":"civilization and enlightenment, Japan's Westernization movement during the Meiji era (Westernisation)","pos":["n"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公衆衛生","p":true}],"r_ele":[{"r":"こうしゅうえいせい","p":true}],"sense":[{"gloss":"public health, public hygiene, sanitation","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弁護人","p":true}],"r_ele":[{"r":"べんごにん","p":true}],"sense":[{"gloss":"counsel, defender, advocate","pos":["n"]}]},"sdata":[]}

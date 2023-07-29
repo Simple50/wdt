@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鼎","p":true}],"r_ele":[{"r":"かなえ","p":true},{"r":"てい"}],"sense":[{"gloss":"three-legged bronze vessel (used in ancient China)","pos":["n"]}],"m":["hist"]},"kdata":{"鼎":{"on":["テイ"],"kun":["かなえ"],"meanings":["kettle","tripod","three legged kettle"],"comp":[["目","爿"]],"d":["鼐","鼏","鼑","鼒"],"jlpt":0,"freq":2859}},"sdata":[]}

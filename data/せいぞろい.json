@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勢ぞろい","p":true},{"e":"勢揃い","p":true},{"e":"勢揃","i":["sK"]}],"r_ele":[{"r":"せいぞろい","p":true}],"sense":[{"gloss":"assembling (in full force), muster, lining up, gathering, getting together","pos":["n","vs","vi"]}]},"sdata":[]}

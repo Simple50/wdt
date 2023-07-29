@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不人気","p":true}],"r_ele":[{"r":"ふにんき","p":true}],"sense":[{"gloss":"unpopular","pos":["adj-na","n"]}]},"sdata":[]}

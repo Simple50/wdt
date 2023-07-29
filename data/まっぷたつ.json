@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"真っ二つ","p":true}],"r_ele":[{"r":"まっぷたつ","p":true}],"sense":[{"gloss":"in two equal parts","pos":["n"]}]},"sdata":[{"j":"トムはリンゴを↑真↑↓|ま↓っ↑二↑↓ぷた↓つ|に↑切↑↓き↓った。","e":"Tom cut the apple in half."}]}

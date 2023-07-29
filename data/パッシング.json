@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パッシング","p":true}],"sense":[{"gloss":"headlight flashing (as a signal to another driver), high beaming","pos":["n"],"l":"eng: passing"},{"gloss":"passing shot (in tennis)","pos":["n"],"f":["sports"],"x":["パッシングショット"]},{"gloss":"passing","pos":["n"]}]},"sdata":[{"j":"|パッシング|ではなくロブで↑勝負↑↓しょうぶ↓だ。","e":"Rather than passing, lobbing is the way to win."}]}

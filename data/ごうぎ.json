@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合議","p":true}],"r_ele":[{"r":"ごうぎ","p":true}],"sense":[{"gloss":"consultation, conference, discussion, counsel","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑暗号↑↓あん|ごう↓↑技術↑↓ぎ|じゅつ↓も、かなり↑信頼↑↓しんらい↓のおけるものに↑進↑↓すす↓んでいます。","e":"Encryption technology has advanced to the point where it's pretty reliable."}]}

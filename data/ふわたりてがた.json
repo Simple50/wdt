@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不渡り手形","p":true}],"r_ele":[{"r":"ふわたりてがた","p":true}],"sense":[{"gloss":"dishonored bill, dishonoured bill","pos":["n"]}]},"sdata":[]}

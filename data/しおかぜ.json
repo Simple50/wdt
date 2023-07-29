@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"潮風","p":true},{"e":"塩風"}],"r_ele":[{"r":"しおかぜ","p":true}],"sense":[{"gloss":"salty sea breeze, salt wind","pos":["n"]}]},"sdata":[]}

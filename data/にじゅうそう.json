@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二重奏","p":true}],"r_ele":[{"r":"にじゅうそう","p":true}],"sense":[{"gloss":"instrumental duet, instrumental duo","pos":["n"]}]},"sdata":[{"j":"その↑姉妹↑↓しまい↓はヴァイオリンとピアノの↑二重奏↑↓|にじゅうそう|↓を↑演奏↑↓えんそう↓した。","e":"The sisters played a duet on the violin and piano."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マトリックス"},{"r":"マトリクス","p":true}],"sense":[{"gloss":"matrix","pos":["n"]}]},"sdata":[]}

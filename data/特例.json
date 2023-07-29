@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特例","p":true}],"r_ele":[{"r":"とくれい","p":true}],"sense":[{"gloss":"special case, exception","pos":["n"]}]},"kdata":{"特":{"on":["トク"],"jlpt":4,"meanings":["special"],"freq":234,"comp":[["寺","牛"]],"t":1117},"例":{"on":["レイ"],"kun":["たと.える"],"jlpt":3,"meanings":["example","custom","usage","precedent"],"freq":399,"comp":[["亻","列"]],"t":598}},"sdata":[]}

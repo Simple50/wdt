@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小売物価指数","p":true}],"r_ele":[{"r":"こうりぶっかしすう","p":true}],"sense":[{"gloss":"retail price index","pos":["n"]}]},"sdata":[{"j":"↑小売↑↓|こうり↓↑物価↑↓ぶっか↓↑指数↑↓しすう|↓は↑経済↑↓けいざい↓↑活動↑↓かつどう↓のバロメーターです。","e":"The retail price index is a barometer of economic activity."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脈絡","p":true}],"r_ele":[{"r":"みゃくらく","p":true}],"sense":[{"gloss":"logical connection, chain of reasoning, coherence, context","pos":["n"]},{"gloss":"blood vessel","pos":["n"]}]},"sdata":[]}

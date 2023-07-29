@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"削り節","p":true}],"r_ele":[{"r":"けずりぶし","p":true}],"sense":[{"gloss":"flaked bonito","pos":["n"]}]},"sdata":[]}

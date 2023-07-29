@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積み出し","p":true}],"r_ele":[{"r":"つみだし","p":true}],"sense":[{"gloss":"shipment, forwarding","pos":["n"]}]},"sdata":[]}

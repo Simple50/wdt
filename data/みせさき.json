@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"店先","p":true},{"e":"店さき"}],"r_ele":[{"r":"みせさき","p":true}],"sense":[{"gloss":"storefront, shopfront","pos":["n"]}]},"sdata":[{"j":"↑車↑↓くるま↓のギアを↑入↑↓い↓れずにリバースを↑入↑↓い↓れたので↑店先↑↓|みせさき|↓に↑多大↑↓ただい↓な↑損害↑↓そんがい↓を↑与↑↓あた↓えた。","e":"Instead of putting the car into gear, she put it into reverse, causing a great deal of damage to the store-front."}]}

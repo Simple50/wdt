@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下田","p":true}],"r_ele":[{"r":"げでん","p":true}],"sense":[{"gloss":"worn-out rice land","pos":["n"]}]},"sdata":[]}

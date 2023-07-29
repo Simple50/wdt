@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山並み","p":true},{"e":"山並"},{"e":"山なみ"},{"e":"山脈"}],"r_ele":[{"r":"やまなみ","p":true}],"sense":[{"gloss":"mountain range, mountain belt","pos":["n"],"x":["山脈・さんみゃく"]}]},"sdata":[]}

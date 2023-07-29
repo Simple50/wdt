@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"曙","p":true}],"r_ele":[{"r":"あけぼの","p":true}],"sense":[{"gloss":"dawn, daybreak, beginning","pos":["n"]}]},"kdata":{"曙":{"on":["ショ"],"kun":["あけぼの"],"meanings":["dawn","daybreak"],"freq":1518,"comp":[["日","署"]],"jlpt":0}},"sdata":[{"j":"↑春↑↓はる↓は|↑曙|↑↓あけぼの↓。","e":"In spring, the dawn."}]}

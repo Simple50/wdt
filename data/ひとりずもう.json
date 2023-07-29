@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一人相撲","p":true},{"e":"独り相撲"},{"e":"ひとり相撲"}],"r_ele":[{"r":"ひとりずもう","p":true}],"sense":[{"gloss":"fighting windmills, tilting at windmills","pos":["n"]},{"gloss":"mimicking a wrestling match by oneself (as a form of street performance, etc.)","pos":["n"],"m":["hist"]}]},"sdata":[]}

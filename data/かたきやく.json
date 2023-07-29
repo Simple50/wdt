@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敵役","p":true}],"r_ele":[{"r":"かたきやく","p":true},{"r":"てきやく"}],"sense":[{"gloss":"role of the villain, the bad guy","pos":["n"]}]},"sdata":[]}

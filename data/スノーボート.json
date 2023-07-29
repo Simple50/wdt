@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スノーボート","p":true},{"r":"スノー・ボート"}],"sense":[{"gloss":"(plastic) toboggan","pos":["n"],"l":"eng: snow boat"}]},"sdata":[]}

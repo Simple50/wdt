@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後進国","p":true}],"r_ele":[{"r":"こうしんこく","p":true}],"sense":[{"gloss":"undeveloped country, third world country","pos":["n"],"x":["開発途上国・かいはつとじょうこく"]}],"m":["sens"]},"sdata":[]}

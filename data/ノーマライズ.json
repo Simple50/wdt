@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノーマライズ","p":true}],"sense":[{"gloss":"normalize, normalise","pos":["n"]}]},"sdata":[]}

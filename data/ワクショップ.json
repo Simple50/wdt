@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワークショップ","p":true},{"r":"ワクショップ","p":true}],"sense":[{"gloss":"workshop","pos":["n"]}]},"sdata":[]}

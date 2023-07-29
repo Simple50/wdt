@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"年譜","p":true}],"r_ele":[{"r":"ねんぷ","p":true}],"sense":[{"gloss":"chronological record","pos":["n"]}]},"sdata":[]}

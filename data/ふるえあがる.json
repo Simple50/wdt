@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"震え上がる","p":true},{"e":"震えあがる"}],"r_ele":[{"r":"ふるえあがる","p":true}],"sense":[{"gloss":"to tremble violently, to shudder up, to shake","pos":["v5r","vi"]}]},"sdata":[]}

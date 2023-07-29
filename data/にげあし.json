@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逃げ足","p":true}],"r_ele":[{"r":"にげあし","p":true}],"sense":[{"gloss":"running away, escaping on foot","pos":["n"]}]},"sdata":[]}

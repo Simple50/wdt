@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"有感地震","p":true}],"r_ele":[{"r":"ゆうかんじしん","p":true}],"sense":[{"gloss":"perceptible earthquake","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"交際費","p":true}],"r_ele":[{"r":"こうさいひ","p":true}],"sense":[{"gloss":"entertainment expenses","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枕詞","p":true},{"e":"枕言葉"},{"e":"枕ことば","i":["sK"]}],"r_ele":[{"r":"まくらことば","p":true}],"sense":[{"gloss":"pillow word, decorative word used prefixally in classical Japanese literature","pos":["n"],"f":["ling"]},{"gloss":"preface, introduction","pos":["n"]}]},"sdata":[]}

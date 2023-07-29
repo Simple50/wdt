@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入り組む","p":true}],"r_ele":[{"r":"いりくむ","p":true}],"sense":[{"gloss":"to become complicated","pos":["v5m","vi"]}]},"sdata":[]}

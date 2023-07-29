@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戦績","p":true}],"r_ele":[{"r":"せんせき","p":true}],"sense":[{"gloss":"war or military record, score, military achievements, results","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"組長","p":true}],"r_ele":[{"r":"くみちょう","p":true}],"sense":[{"gloss":"boss (esp. yakuza), foreman","pos":["n"]}]},"sdata":[{"j":"↑暴力団↑↓ぼうりょくだん↓の↑組長↑↓|くみちょう|↓は↑団員↑↓だんいん↓↑全部↑↓ぜんぶ↓に↑規則↑↓きそく↓を↑守↑↓まも↓らせ、↑恐怖↑↓きょうふ↓↑感↑↓かん↓によって、↑団員↑↓だんいん↓を↑掌握↑↓しょうあく↓した。","e":"The gang leader made all the members toe the line, keeping control through fear."}]}

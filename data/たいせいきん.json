@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"耐性菌","p":true}],"r_ele":[{"r":"たいせいきん","p":true}],"sense":[{"gloss":"antibiotic-resistant bacteria","pos":["n"]}]},"sdata":[]}

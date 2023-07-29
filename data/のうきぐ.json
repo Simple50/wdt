@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農機具","p":true}],"r_ele":[{"r":"のうきぐ","p":true}],"sense":[{"gloss":"agricultural machinery and equipment","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新羅","p":true}],"r_ele":[{"r":"しらぎ","p":true},{"r":"しんら"}],"sense":[{"gloss":"Silla (ancient Korean kingdom; 57 BCE-935 CE)","pos":["n"],"x":["三国・3"]}],"m":["hist"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"放逐","p":true}],"r_ele":[{"r":"ほうちく","p":true}],"sense":[{"gloss":"expulsion, ousting, ejection, dismissal, banishment","pos":["n","vs","vt"]}]},"sdata":[]}

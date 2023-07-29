@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"狭き門","p":true}],"r_ele":[{"r":"せまきもん","p":true}],"sense":[{"gloss":"the strait gate (in the Bible), the narrow gate","pos":["exp","n"]},{"gloss":"high barrier (to enter a highly competitive school, company, etc.), difficult hurdle, difficulty, obstacle","pos":["exp","n"]}]},"sdata":[{"j":"↑狭↑↓|せま↓き↑門↑↓もん|↓より↑入↑↓い↓れ。","e":"Enter by the narrow gate."}]}

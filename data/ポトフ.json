@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポトフ","p":true}],"sense":[{"gloss":"pot-au-feu","pos":["n"],"l":"fre"}]},"sdata":[]}

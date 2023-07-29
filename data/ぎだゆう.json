@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"義太夫","p":true}],"r_ele":[{"r":"ぎだゆう","p":true}],"sense":[{"gloss":"gidayū (type of reciting used in the puppet theater)","pos":["n"],"x":["義太夫節"]}],"m":["abbr"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スターズアンドストライプス","p":true},{"r":"スターズ・アンド・ストライプス"}],"sense":[{"gloss":"Stars and Stripes (US flag)","pos":["n"],"x":["星条旗・せいじょうき・1"]},{"gloss":"Stars and Stripes (newspaper)","pos":["n"]}]},"sdata":[]}

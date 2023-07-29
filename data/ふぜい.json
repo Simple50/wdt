@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風情","p":true}],"r_ele":[{"r":"ふぜい","p":true},{"r":"ふうじょう"}],"sense":[{"gloss":"taste, elegance, charm","pos":["n"]},{"gloss":"appearance, air","pos":["n"]},{"gloss":"the likes of ..., lowly people such as ...","pos":["suf"],"m":["hum","derog"]}]},"sdata":[]}

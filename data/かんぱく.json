@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"関白","p":true}],"r_ele":[{"r":"かんぱく","p":true}],"sense":[{"gloss":"chief advisor to the Emperor (adviser)","pos":["n"]}]},"sdata":[]}

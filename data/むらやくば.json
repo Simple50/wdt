@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"村役場","p":true}],"r_ele":[{"r":"むらやくば","p":true}],"sense":[{"gloss":"village office, local administration office in a village","pos":["n"],"x":["町役場・まちやくば"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リンケージ","p":true}],"sense":[{"gloss":"linkage","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロモーター","p":true}],"sense":[{"gloss":"promoter","pos":["n"]}]},"sdata":[]}

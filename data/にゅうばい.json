@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"梅雨入り","p":true},{"e":"入梅","p":true}],"r_ele":[{"r":"つゆいり","p":true},{"r":"にゅうばい","p":true},{"r":"ついり"}],"sense":[{"gloss":"entering the rainy season, beginning of the rainy season","pos":["n","vs","vi"],"x":["梅雨明け"]}]},"sdata":[]}

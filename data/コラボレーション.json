@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コラボレーション","p":true}],"sense":[{"gloss":"collaboration","pos":["n","vs","vi"]}]},"sdata":[{"j":"スポーツブランドとアニメの|コラボレーション|が↑発表↑↓はっぴょう↓された。","e":"A sports brand and anime collab has been announced."}]}

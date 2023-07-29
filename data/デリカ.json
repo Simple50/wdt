@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デリカ","p":true}],"sense":[{"gloss":"delicatessen","pos":["adj-na","n"],"x":["デリカテセン"]}],"m":["abbr"]},"sdata":[{"j":"|デリカ|テッセンから↑火災↑↓かさい↓が↑発生↑↓はっせい↓し、↑灰↑↓はい↓の↑山↑↓やま↓を↑残↑↓のこ↓して↑全焼↑↓ぜんしょう↓した。","e":"A delicatessen caught fire and burned down, leaving a heap of ashes."}]}

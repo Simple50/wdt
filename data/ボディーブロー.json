@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボディーブロー","p":true},{"r":"ボディブロー"},{"r":"ボディー・ブロー"},{"r":"ボディ・ブロー"}],"sense":[{"gloss":"body blow (e.g. boxing)","pos":["n"]}]},"sdata":[]}

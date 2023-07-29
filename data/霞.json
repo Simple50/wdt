@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"霞","p":true},{"e":"翳み"},{"e":"翳"}],"r_ele":[{"r":"かすみ","p":true}],"sense":[{"gloss":"haze (esp. in spring), mist","pos":["n"],"x":["霧・1"]},{"gloss":"dimness (of sight)","pos":["n"]}],"m":["uk"]},"kdata":{"霞":{"on":["カ","ゲ"],"kun":["かすみ","かす.む"],"meanings":["be hazy","grow dim","blurred"],"freq":1603,"comp":[["叚","雨"]],"jlpt":0,"t":2222}},"sdata":[]}

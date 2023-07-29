@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"そうなると","p":true}],"sense":[{"gloss":"if that is the case, if it becomes so, when it becomes so","pos":["exp"]}]},"sdata":[{"j":"|そうなると|かなりきつい↑仕事↑↓しごと↓ということになる。","e":"It all amounts to a lot of hard work."}]}

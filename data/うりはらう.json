@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売り払う","p":true},{"e":"売払う"}],"r_ele":[{"r":"うりはらう","p":true}],"sense":[{"gloss":"to sell off, to sell completely","pos":["v5u","vt"]}]},"sdata":[]}

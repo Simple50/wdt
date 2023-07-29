@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社交界","p":true}],"r_ele":[{"r":"しゃこうかい","p":true}],"sense":[{"gloss":"high society","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓がはじめて↑社交↑↓|しゃこう↓↑界↑↓かい|↓に↑登場↑↓とうじょう↓した↑事↑↓こと↓はその↑時↑↓とき↓↑期↑↓き↓の↑社交↑↓|しゃこう↓↑界↑↓かい|↓↑最大↑↓さいだい↓の↑出来事↑↓できごと↓だった。","e":"Her debut was the biggest social event of the season."}]}

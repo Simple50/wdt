@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"語り物","p":true}],"r_ele":[{"r":"かたりもの","p":true}],"sense":[{"gloss":"a narrative","pos":["n"]}]},"sdata":[]}

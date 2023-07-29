@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファイナルセット","p":true},{"r":"ファイナル・セット"}],"sense":[{"gloss":"final set","pos":["n"]}]},"sdata":[]}

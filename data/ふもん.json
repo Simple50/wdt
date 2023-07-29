@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不問","p":true}],"r_ele":[{"r":"ふもん","p":true}],"sense":[{"gloss":"not asking (about), letting go unquestioned, disregarding, ignoring, overlooking","pos":["n","n-suf"],"x":["不問に付する・ふもんにふする","不問に付す・ふもんにふす"]}]},"sdata":[]}

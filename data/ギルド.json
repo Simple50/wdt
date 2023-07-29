@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ギルド","p":true}],"sense":[{"gloss":"guild","pos":["n"]}]},"sdata":[{"j":"↑評議↑↓ひょうぎ↓↑会↑↓かい↓で↑正規↑↓せいき↓|ギルド|に↑認↑↓みと↓めてもらえばいいのに。","e":"It would be nice if the council recognized you as an official guild."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空中分解","p":true}],"r_ele":[{"r":"くうちゅうぶんかい","p":true}],"sense":[{"gloss":"mid-air breakage, mid-air disintegration","pos":["n","vs","vi"]}]},"sdata":[]}

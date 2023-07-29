@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奥まって","p":true}],"r_ele":[{"r":"おくまって","p":true}],"sense":[{"gloss":"secluded, innermost","pos":["exp"]}]},"kdata":{"奥":{"on":["オウ"],"kun":["おく","おく.まる","くま"],"jlpt":2,"meanings":["core","heart","interior"],"freq":1018,"comp":[["大","米","冂"]],"d":["噢"],"t":1483}},"sdata":[]}

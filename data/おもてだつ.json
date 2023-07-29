@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"表立つ","p":true},{"e":"表だつ"}],"r_ele":[{"r":"おもてだつ","p":true}],"sense":[{"gloss":"to become public, to become known, to come out in the open","pos":["v5t","vi"]},{"gloss":"to be formal, to be official","pos":["v5t","vi"]}]},"sdata":[]}

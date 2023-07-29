@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボルテージ","p":true},{"r":"ボルテイジ"}],"sense":[{"gloss":"voltage","pos":["n"]},{"gloss":"excitement, enthusiasm","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オンエア","p":true},{"r":"オン・エア"}],"sense":[{"gloss":"on air, on the air","pos":["n","vs"]}]},"sdata":[{"j":"テレビはできるだけ↑録画↑↓ろくが↓じゃなくて|オンエア|で↑見↑↓み↓ることにしている。","e":"I try to watch live TV as much as possible instead of recordings."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"緩衝地帯","p":true}],"r_ele":[{"r":"かんしょうちたい","p":true}],"sense":[{"gloss":"buffer zone","pos":["n"]}],"m":["yoji"]},"sdata":[]}

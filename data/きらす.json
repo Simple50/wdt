@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切らす","p":true}],"r_ele":[{"r":"きらす","p":true}],"sense":[{"gloss":"to run out of, to be short of, to be out of stock","pos":["v5s","vt"]},{"gloss":"to be out of (e.g. breath), to lose (one's patience, concentration, etc.)","pos":["v5s","vt"]}]},"sdata":[{"j":"きら|きらす|る↑太陽↑↓たいよう↓が↑輝↑↓かがや↓いていた。","e":"The bright sun was shining."}]}

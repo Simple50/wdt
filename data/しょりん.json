@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書林","p":true}],"r_ele":[{"r":"しょりん","p":true}],"sense":[{"gloss":"vast stock of books, bookstore, bookshop","pos":["n"]}]},"sdata":[]}

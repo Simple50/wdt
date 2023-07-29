@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヤンガージェネレーション","p":true},{"r":"ヤンガー・ジェネレーション"}],"sense":[{"gloss":"younger generation","pos":["n"]}]},"sdata":[]}

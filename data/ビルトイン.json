@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビルトイン","p":true}],"sense":[{"gloss":"built-in","pos":["adj-f","n","vs","vt"]}]},"sdata":[]}

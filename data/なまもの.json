@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生物","p":true},{"e":"生もの"}],"r_ele":[{"r":"なまもの","p":true}],"sense":[{"gloss":"raw food, perishables","pos":["n"]}]},"sdata":[]}

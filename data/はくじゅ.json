@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白寿","p":true}],"r_ele":[{"r":"はくじゅ","p":true}],"sense":[{"gloss":"99th birthday","pos":["n"]}]},"sdata":[]}

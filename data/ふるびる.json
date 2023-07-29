@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"古びる","p":true}],"r_ele":[{"r":"ふるびる","p":true}],"sense":[{"gloss":"to look old, to get old","pos":["v1","vi"]}]},"sdata":[]}

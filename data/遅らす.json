@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遅らす","p":true},{"e":"後らす"},{"e":"遅す","i":["io"]}],"r_ele":[{"r":"おくらす","p":true}],"sense":[{"gloss":"to delay, to postpone, to slow down, to retard","pos":["v5s","vt"]}]},"kdata":{"遅":{"on":["チ"],"kun":["おく.れる","おく.らす","おそ.い"],"jlpt":3,"meanings":["slow","late","back","later"],"freq":833,"comp":[["尸","羊","辶"]],"s":"送,迷","t":1625}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カルメラ","p":true},{"r":"カルメル"}],"sense":[{"gloss":"foam candy from heated brown sugar mixed with baking soda, honeycomb toffee, sponge toffee","pos":["n"],"f":["food"],"l":"por: caramelo"}]},"sdata":[]}

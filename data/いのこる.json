@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"居残る","p":true}],"r_ele":[{"r":"いのこる","p":true}],"sense":[{"gloss":"to stay behind, to remain, to work overtime","pos":["v5r","vi"]}]},"sdata":[{"j":"ホワイト↑先生↑↓せんせい↓はトムに↑放課後↑↓ほうかご↓↑居残↑↓|いのこ↓る|ように↑命令↑↓めいれい↓した。","e":"Ms. White ordered that Tom should stay after school."}]}

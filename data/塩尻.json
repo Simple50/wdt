@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"塩尻","p":true}],"r_ele":[{"r":"しおじり","p":true}],"sense":[{"gloss":"cone-shaped","pos":["n"]}]},"kdata":{"塩":{"on":["エン"],"kun":["しお"],"jlpt":2,"meanings":["salt"],"freq":1148,"comp":[["𠂉","口","皿","土"]],"t":1698},"尻":{"on":["コウ"],"kun":["しり"],"meanings":["buttocks","hips","butt","rear"],"freq":1692,"comp":[["九","尸"]],"d":["髛"],"jlpt":2,"t":228}},"sdata":[]}

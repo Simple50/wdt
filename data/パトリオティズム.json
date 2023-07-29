@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パトリオティズム","p":true}],"sense":[{"gloss":"patriotism","pos":["n"]}]},"sdata":[]}

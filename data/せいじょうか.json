@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"正常化","p":true}],"r_ele":[{"r":"せいじょうか","p":true}],"sense":[{"gloss":"normalization, normalisation","pos":["n","vs"]}]},"sdata":[]}

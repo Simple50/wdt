@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強火","p":true}],"r_ele":[{"r":"つよび","p":true}],"sense":[{"gloss":"high flame (cooking), high heat, strong heat","pos":["n"],"ant":["弱火"]}]},"sdata":[{"j":"ふたをして↑始↑↓はじ↓めは↑強火↑↓|つよび|↓、↑沸騰↑↓ふっとう↓したら↑中火↑↓ちゅうび↓にして↑約↑↓やく↓７↑分間↑↓ふんかん↓↑煮↑↓に↓ます。","e":"Put the lid on and start at high flame, when it boils set to medium flame and boil for about seven minutes."}]}

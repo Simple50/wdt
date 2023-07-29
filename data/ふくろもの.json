@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"袋物","p":true}],"r_ele":[{"r":"ふくろもの","p":true}],"sense":[{"gloss":"bags and purses (handbags)","pos":["n"]}]},"sdata":[]}

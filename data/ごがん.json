@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"護岸","p":true}],"r_ele":[{"r":"ごがん","p":true}],"sense":[{"gloss":"river dike","pos":["n"]}]},"sdata":[]}

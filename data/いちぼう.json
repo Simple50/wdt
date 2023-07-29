@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一望","p":true},{"e":"一眸","i":["rK"]}],"r_ele":[{"r":"いちぼう","p":true}],"sense":[{"gloss":"one sweep (of the eye), sweeping view, unbroken view","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちはとても↑高↑↓たか↓く↑上↑↓のぼ↓ったので、↑町↑↓まち↓を↑一望↑↓|いちぼう|↓することが↑出来↑↓でき↓た。","e":"We went up so high that we could get the whole view of the city."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先細り","p":true}],"r_ele":[{"r":"さきぼそり","p":true}],"sense":[{"gloss":"dwindling, declining, diminishing, tapering off","pos":["n","vs","vi","adj-na"]},{"gloss":"tapering (to a point)","pos":["n","vs","vi","adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"買い上げる","p":true},{"e":"買上げる"}],"r_ele":[{"r":"かいあげる","p":true}],"sense":[{"gloss":"to buy (of a government, public agency, etc. from a private citizen), to purchase","pos":["v1","vt"]},{"gloss":"to buy up (all of something)","pos":["v1","vt"]}]},"sdata":[]}

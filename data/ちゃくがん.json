@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"着岸","p":true}],"r_ele":[{"r":"ちゃくがん","p":true}],"sense":[{"gloss":"reaching the shore, docking a boat","pos":["n","vs","vi"]}]},"sdata":[]}

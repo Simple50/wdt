@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シンクタンク","p":true},{"r":"シンク・タンク"}],"sense":[{"gloss":"think tank","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"職務質問","p":true}],"r_ele":[{"r":"しょくむしつもん","p":true}],"sense":[{"gloss":"police questioning","pos":["n","vs"]}]},"sdata":[{"j":"↑警察官↑↓けいさつかん↓に↑職務↑↓|しょくむ↓↑質問↑↓しつもん|↓されました。","e":"I was questioned by a police officer."}]}

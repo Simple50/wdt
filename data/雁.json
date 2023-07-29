@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雁","p":true},{"e":"鴈"}],"r_ele":[{"r":"がん","p":true},{"r":"かり"},{"r":"ガン"},{"r":"カリ"}],"sense":[{"gloss":"wild goose","pos":["n"]},{"gloss":"glans, head of a penis","pos":["n"],"m":["abbr","col"]}],"m":["uk"]},"kdata":{"雁":{"on":["ガン"],"kun":["かり","かりがね"],"meanings":["wild goose"],"freq":2192,"comp":[["厂","亻","隹"]],"d":["贋","軅"],"jlpt":0}},"sdata":[]}

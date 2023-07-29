@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待ち合わせ場所","p":true}],"r_ele":[{"r":"まちあわせばしょ","p":true}],"sense":[{"gloss":"meeting place","pos":["n"]}]},"sdata":[{"j":"「ここ、↑覚↑↓おぼ↓えてる？」「↑集団↑↓しゅうだん↓↑登校↑↓とうこう↓の↑待↑↓|ま↓ちあわせ↑場所↑↓ばしょ|↓だな」","e":"Remember here? \"It's where we gathered for going to school in groups.\""}]}

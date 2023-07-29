@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北上","p":true}],"r_ele":[{"r":"ほくじょう","p":true}],"sense":[{"gloss":"going north","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑台風↑↓たいふう↓↑１１↑↓じゅういち↓↑号↑↓ごう↓は、↑毎時↑↓まいじ↓↑２０↑↓にじゅっ↓キロメートルの↑速↑↓はや↓さで↑北上↑↓|ほくじょう|↓↑中↑↓ちゅう↓です。","e":"Typhoon No.11 is moving up north at twenty kilometers per hour."}]}

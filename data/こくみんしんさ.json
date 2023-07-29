@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国民審査","p":true}],"r_ele":[{"r":"こくみんしんさ","p":true}],"sense":[{"gloss":"national review, national referendum on the appointment or re-appointment of Supreme Court judges, held at the same time as general elections to the House of Representatives","pos":["n"],"f":["law"]}]},"sdata":[]}

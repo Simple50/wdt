@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"頻発","p":true}],"r_ele":[{"r":"ひんぱつ","p":true}],"sense":[{"gloss":"frequent occurrence","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑大都市↑↓だいとし↓では↑殺人↑↓さつじん↓↑事件↑↓じけん↓が↑頻発↑↓|ひんぱつ|↓している。","e":"Murders are very common in big cities."}]}

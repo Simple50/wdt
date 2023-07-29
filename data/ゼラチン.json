@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゼラチン","p":true},{"r":"ジェラチン","i":["ik"]}],"sense":[{"gloss":"gelatin, gelatine","pos":["n","adj-no"]}]},"sdata":[{"j":"|ゼラチン|は、↑冷↑↓ひ↓えると↑固↑↓かた↓まる↑性質↑↓せいしつ↓があります。","e":"Gelatine has the property of setting as it cools."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デノミ","p":true}],"sense":[{"gloss":"denomination (reducing the face value of currency after inflation)","pos":["n"]}],"m":["abbr"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"跳ね上がる","p":true},{"e":"はね上がる"},{"e":"跳ね上る"}],"r_ele":[{"r":"はねあがる","p":true}],"sense":[{"gloss":"to jump up, to spring up","pos":["v5r","vi"]},{"gloss":"to jump (market, price, etc.), to rise sharply, to skyrocket","pos":["v5r","vi"]},{"gloss":"to act rashly, to jump the gun","pos":["v5r","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピープルズキャピタリズム","p":true},{"r":"ピープルズ・キャピタリズム"}],"sense":[{"gloss":"people's capitalism","pos":["n"]}]},"sdata":[]}

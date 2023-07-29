@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浮力","p":true}],"r_ele":[{"r":"ふりょく","p":true}],"sense":[{"gloss":"buoyancy, floating power","pos":["n"]}]},"sdata":[{"j":"↑塩水↑↓えんすい↓の↑方↑↓ほう↓が↑淡水↑↓たんすい↓よりも↑浮力↑↓|ふりょく|↓が↑大↑↓おお↓きい。","e":"Salt water is more buoyant than fresh water."}]}

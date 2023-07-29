@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生涯教育","p":true}],"r_ele":[{"r":"しょうがいきょういく","p":true}],"sense":[{"gloss":"lifelong education, continuing education, further education","pos":["n"]}]},"sdata":[{"j":"↑生涯↑↓|しょうがい↓↑教育↑↓きょういく|↓は↑絶↑↓た↓え↑間↑↓ま↓ない↑再↑↓さい↓↑訓練↑↓くんれん↓を↑意味↑↓いみ↓する。","e":"Lifelong education means perpetual retraining."}]}

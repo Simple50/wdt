@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民芸","p":true}],"r_ele":[{"r":"みんげい","p":true}],"sense":[{"gloss":"folk craft, folk art","pos":["n"]}]},"sdata":[]}

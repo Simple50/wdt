@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小中学生","p":true}],"r_ele":[{"r":"しょうちゅうがくせい","p":true}],"sense":[{"gloss":"elementary and middle school pupils","pos":["n"]}]},"sdata":[{"j":"↑小中学生↑↓|しょうちゅうがくせい|↓なんて、まだまだ↑善悪↑↓ぜんあく↓の↑見分↑↓みわ↓けも、↑現実↑↓げんじつ↓と↑仮想↑↓かそう↓の↑見分↑↓みわ↓けもつかない。","e":"Elementary and primary school children don't yet know good from evil or reality from fiction."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"往路","p":true}],"r_ele":[{"r":"おうろ","p":true}],"sense":[{"gloss":"outward journey","pos":["n"]}]},"sdata":[]}

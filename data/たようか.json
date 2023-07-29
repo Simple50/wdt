@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"多様化","p":true}],"r_ele":[{"r":"たようか","p":true}],"sense":[{"gloss":"diversification","pos":["n","vs"]}]},"sdata":[]}

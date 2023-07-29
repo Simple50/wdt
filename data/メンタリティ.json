@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メンタリティ","p":true},{"r":"メンタリティー","p":true}],"sense":[{"gloss":"mentality","pos":["n"]}]},"sdata":[]}

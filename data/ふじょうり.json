@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不条理","p":true}],"r_ele":[{"r":"ふじょうり","p":true}],"sense":[{"gloss":"absurd, irrational, unreasonable, illogical","pos":["adj-na","n"]},{"gloss":"absurdity (philosophy)","pos":["n"]}]},"sdata":[]}

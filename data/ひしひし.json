@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"犇犇","i":["rK"]},{"e":"犇々","i":["rK"]},{"e":"緊緊","i":["rK"]},{"e":"緊々","i":["rK"]}],"r_ele":[{"r":"ひしひし","p":true},{"r":"ヒシヒシ"}],"sense":[{"gloss":"acutely (feel), keenly, severely","pos":["adv","adv-to"]},{"gloss":"tightly, hard","pos":["adv","adv-to"]}],"m":["uk"]},"sdata":[]}

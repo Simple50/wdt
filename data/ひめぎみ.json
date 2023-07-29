@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"姫君","p":true}],"r_ele":[{"r":"ひめぎみ","p":true}],"sense":[{"gloss":"daughter of a person of high rank (esp. eldest daughter)","pos":["n"]}],"m":["hon"]},"sdata":[{"j":"↑姫君↑↓|ひめぎみ|↓は↑皇帝↑↓こうてい↓に↑寛恕↑↓かんじょ↓を↑請↑↓こ↓いました。","e":"The princess begged forgiveness from the emperor."}]}

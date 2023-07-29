@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"探し回る","p":true},{"e":"探しまわる"},{"e":"捜し回る","p":true},{"e":"探し廻る","i":["rK"]},{"e":"捜し廻る","i":["rK"]}],"r_ele":[{"r":"さがしまわる","p":true}],"sense":[{"gloss":"to search about for, to hunt around for, to look high and low for, to look everywhere for","pos":["v5r","vt"]}]},"sdata":[]}

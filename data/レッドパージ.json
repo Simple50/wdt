@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レッドパージ","p":true},{"r":"レッド・パージ"}],"sense":[{"gloss":"red purge","pos":["n"]}]},"sdata":[]}

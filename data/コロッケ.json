@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コロッケ","p":true}],"sense":[{"gloss":"croquette","pos":["n"],"f":["food"],"l":"fre"}]},"sdata":[]}

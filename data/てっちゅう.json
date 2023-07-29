@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄柱","p":true}],"r_ele":[{"r":"てっちゅう","p":true}],"sense":[{"gloss":"iron pole","pos":["n"]}]},"sdata":[]}

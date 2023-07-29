@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肩代わり","p":true},{"e":"肩がわり"},{"e":"肩代り"},{"e":"肩替り"},{"e":"肩替わり"}],"r_ele":[{"r":"かたがわり","p":true}],"sense":[{"gloss":"taking over another's debt, shouldering someone else's burden, subrogation","pos":["n","vs","vt","vi"]}]},"sdata":[]}

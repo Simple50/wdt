@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"迎え撃つ","p":true},{"e":"邀え撃つ","i":["rK"]},{"e":"迎え討つ","i":["sK"]},{"e":"迎えうつ","i":["sK"]},{"e":"迎え打つ","i":["sK"]},{"e":"迎撃つ","i":["sK"]}],"r_ele":[{"r":"むかえうつ","p":true}],"sense":[{"gloss":"to meet (the enemy) and attack, to engage (the approaching enemy), to confront, to intercept","pos":["v5t","vt"]}]},"sdata":[]}

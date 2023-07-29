@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出尽す"},{"e":"出尽くす","p":true}],"r_ele":[{"r":"でつくす","p":true}],"sense":[{"gloss":"to be all out, to exhaust","pos":["v5s"]}]},"sdata":[]}

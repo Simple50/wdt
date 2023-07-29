@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イースタングリップ","p":true},{"r":"イースタン・グリップ"}],"sense":[{"gloss":"eastern grip (in tennis)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"裏目","p":true}],"r_ele":[{"r":"うらめ","p":true}],"sense":[{"gloss":"reverse side","pos":["n"]},{"gloss":"opposite (of the expected)","pos":["n"],"x":["裏目に出る"]},{"gloss":"purl stitch (knitting)","pos":["n"]}]},"sdata":[{"j":"↑計画↑↓けいかく↓は↑裏目↑↓|うらめ|↓に↑出↑↓で↓て↑我々↑↓われわれ↓は↑大損↑↓おおそん↓をした。","e":"The plan backfired on us and we lost a lot of money."}]}

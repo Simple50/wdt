@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"止血","p":true}],"r_ele":[{"r":"しけつ","p":true}],"sense":[{"gloss":"stopping of bleeding, stanching, hemostasis, haemostasis","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑止血↑↓|しけつ|↓するために↑何↑↓なに↓かやらなくちゃ。","e":"Something has to be done to stop the bleeding."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トラップ","p":true}],"sense":[{"gloss":"trap","pos":["n"]}]},"sdata":[{"j":"これはス|トラップ|です。","e":"This is a strap."},{"j":"メアリーはス|トラップ|レスドレスを↑身↑↓み↓にまとっていた。","e":"Mary wore a strapless dress."},{"j":"メアリーはス|トラップ|レスのドレスを↑着↑↓き↓てたよ。","e":"Mary wore a strapless dress."}]}

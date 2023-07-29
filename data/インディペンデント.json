@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インディペンデント","p":true}],"sense":[{"gloss":"independent","pos":["adj-na","n"]}]},"sdata":[]}

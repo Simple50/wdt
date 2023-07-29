@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分捕り品","p":true},{"e":"分捕品"}],"r_ele":[{"r":"ぶんどりひん","p":true}],"sense":[{"gloss":"loot, booty, plunder, spoils","pos":["n"]}]},"sdata":[]}

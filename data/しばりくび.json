@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縛り首","p":true}],"r_ele":[{"r":"しばりくび","p":true}],"sense":[{"gloss":"(death by) hanging","pos":["n"]}]},"sdata":[]}

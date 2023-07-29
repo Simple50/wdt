@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別名","p":true}],"r_ele":[{"r":"べつめい","p":true},{"r":"べつみょう"}],"sense":[{"gloss":"another name, different name, synonym","pos":["n"]},{"gloss":"alias, pseudonym, pen name, nom de plume","pos":["n"]}]},"sdata":[]}

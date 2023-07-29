@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガウシアン","p":true}],"sense":[{"gloss":"Gaussian","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"預かり所","p":true}],"r_ele":[{"r":"あずかりじょ","p":true},{"r":"あずかりしょ"}],"sense":[{"gloss":"cloakroom, parcel room","pos":["n"]}]},"sdata":[]}

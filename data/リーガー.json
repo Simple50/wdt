@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リーガー","p":true}],"sense":[{"gloss":"leaguer (e.g. major leaguer)","pos":["n"],"f":["baseb"]}]},"sdata":[]}

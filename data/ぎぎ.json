@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"疑義","p":true}],"r_ele":[{"r":"ぎぎ","p":true}],"sense":[{"gloss":"doubt","pos":["n"]}]},"sdata":[]}

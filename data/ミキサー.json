@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミキサー","p":true},{"r":"ミキサ"}],"sense":[{"gloss":"mixer","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑野菜↑↓やさい↓を↑食↑↓た↓べる↑代↑↓か↓わりに、|ミキサー|にかけて↑飲↑↓の↓む。","e":"Instead of eating vegetables, he puts them in a blender and drinks them."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仮処分","p":true}],"r_ele":[{"r":"かりしょぶん","p":true}],"sense":[{"gloss":"provisional disposition, temporary injunction","pos":["n"],"f":["law"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先んじる","p":true}],"r_ele":[{"r":"さきんじる","p":true}],"sense":[{"gloss":"to precede, to forestall, to anticipate","pos":["v1","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クロノスコープ","p":true}],"sense":[{"gloss":"chronoscope","pos":["n"]}]},"sdata":[]}

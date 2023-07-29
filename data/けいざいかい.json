@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"経済界","p":true}],"r_ele":[{"r":"けいざいかい","p":true}],"sense":[{"gloss":"economic world, financial circles, business community","pos":["n"]}]},"sdata":[{"j":"↑経済↑↓|けいざい↓↑回復↑↓かい|ふく↓の↑遅↑↓おく↓れは↑自動車↑↓じどうしゃ↓の↑売↑↓う↓り↑上↑↓あ↓げを↑急落↑↓きゅうらく↓させました。","e":"Slow economic recovery has sent auto sales plummeting."}]}

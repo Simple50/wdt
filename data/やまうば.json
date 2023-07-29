@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山姥","p":true}],"r_ele":[{"r":"やまうば","p":true},{"r":"やまんば"}],"sense":[{"gloss":"mountain witch, yamauba","pos":["n"]}]},"sdata":[]}

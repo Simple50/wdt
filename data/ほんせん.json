@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本線","p":true}],"r_ele":[{"r":"ほんせん","p":true}],"sense":[{"gloss":"main line, trunk line","pos":["n"]}]},"sdata":[]}

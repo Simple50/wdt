@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安楽死","p":true}],"r_ele":[{"r":"あんらくし","p":true}],"sense":[{"gloss":"euthanasia","pos":["n","vs","vi"]}]},"sdata":[]}

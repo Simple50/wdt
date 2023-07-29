@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ミドル級","p":true}],"r_ele":[{"r":"ミドルきゅう","p":true}],"sense":[{"gloss":"middleweight class","pos":["n"]}]},"kdata":{"級":{"on":["キュウ"],"jlpt":1,"meanings":["class","rank","grade"],"freq":785,"comp":[["糸","及"]],"t":1146}},"sdata":[]}

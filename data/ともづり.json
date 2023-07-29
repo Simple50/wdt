@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"友釣り","p":true},{"e":"友釣"}],"r_ele":[{"r":"ともづり","p":true}],"sense":[{"gloss":"live decoy fishing (esp. for sweetfish)","pos":["n"]}]},"sdata":[]}

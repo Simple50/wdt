@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"置き換える","p":true},{"e":"置きかえる"},{"e":"置き替える"}],"r_ele":[{"r":"おきかえる","p":true}],"sense":[{"gloss":"to replace, to move, to change the position of","pos":["v1","vt"]}]},"sdata":[]}

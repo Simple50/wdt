@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"彫り上げる","p":true}],"r_ele":[{"r":"ほりあげる","p":true}],"sense":[{"gloss":"to emboss, to carve in relief, to finish carving of engraving","pos":["v1"]}]},"sdata":[]}

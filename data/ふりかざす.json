@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"振りかざす","p":true},{"e":"振り翳ざす"},{"e":"振り翳す"}],"r_ele":[{"r":"ふりかざす","p":true}],"sense":[{"gloss":"to raise (esp. overhead), to brandish (e.g. sword), to flourish","pos":["v5s","vt"]},{"gloss":"to wield (e.g. power, authority), to proclaim one's principles","pos":["v5s","vt"]}]},"sdata":[]}

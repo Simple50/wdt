@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絶対温度","p":true}],"r_ele":[{"r":"ぜったいおんど","p":true}],"sense":[{"gloss":"absolute temperature, measure of temperature from absolute zero (-273C)","pos":["n"],"x":["ケルビン"]}]},"sdata":[]}

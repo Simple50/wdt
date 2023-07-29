@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"きちっと","p":true}],"sense":[{"gloss":"exactly, perfectly","pos":["adv","vs"],"x":["きちんと・1"]}],"m":["on-mim"]},"sdata":[{"j":"↑靴↑↓くつ↓を↑脱↑↓ぬ↓いだら|きちっと|↑揃↑↓そろ↓えておきなさい。","e":"If you are taking your shoes off, please put them in their place."}]}

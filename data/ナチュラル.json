@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナチュラル","p":true}],"sense":[{"gloss":"natural","pos":["adj-na","n"]},{"gloss":"natural (sign)","pos":["n"],"f":["music"],"x":["本位記号"]}]},"sdata":[]}

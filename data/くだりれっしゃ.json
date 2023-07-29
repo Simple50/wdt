@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下り列車","p":true}],"r_ele":[{"r":"くだりれっしゃ","p":true}],"sense":[{"gloss":"down-train, train heading toward the ending point of its route","pos":["n"]}]},"sdata":[]}

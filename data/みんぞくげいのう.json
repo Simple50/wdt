@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民俗芸能","p":true}],"r_ele":[{"r":"みんぞくげいのう","p":true}],"sense":[{"gloss":"folk entertainment","pos":["n"]}]},"sdata":[]}

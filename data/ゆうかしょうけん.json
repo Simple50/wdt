@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"有価証券","p":true}],"r_ele":[{"r":"ゆうかしょうけん","p":true}],"sense":[{"gloss":"marketable securities, stocks and bonds","pos":["n"]}]},"sdata":[]}

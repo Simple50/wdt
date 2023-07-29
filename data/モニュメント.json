@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モニュメント","p":true}],"sense":[{"gloss":"monument","pos":["n"]}]},"sdata":[]}

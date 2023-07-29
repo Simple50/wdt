@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虫垂炎","p":true}],"r_ele":[{"r":"ちゅうすいえん","p":true}],"sense":[{"gloss":"appendicitis","pos":["n"],"f":["med"]}]},"sdata":[{"j":"「どうだった？」「↑急性↑↓きゅうせい↓↑虫垂炎↑↓|ちゅうすいえん|↓だって」","e":"How did it go? \"They said it was acute appendicitis.\""}]}

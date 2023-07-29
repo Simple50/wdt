@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"代替わり","p":true},{"e":"代替り"},{"e":"代変わり"},{"e":"代変り"},{"e":"代替","i":["io"]}],"r_ele":[{"r":"だいがわり","p":true}],"sense":[{"gloss":"taking over (e.g. store or family's headship)","pos":["n"]},{"gloss":"subrogation, substitution of one person for another (usu. a creditor)","pos":["n"]}]},"sdata":[]}

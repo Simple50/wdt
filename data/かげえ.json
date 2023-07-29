@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"影絵","p":true},{"e":"影画","i":["rK"]}],"r_ele":[{"r":"かげえ","p":true}],"sense":[{"gloss":"shadow picture, silhouette, shadowgraph","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スクイズ","p":true}],"sense":[{"gloss":"squeeze (play)","pos":["n","vs"],"f":["baseb"]},{"gloss":"(in scuba diving) discomfort or pain caused by increasing water pressure compressing body air spaces and pushing body tissue inward","pos":["n","vs"]}]},"sdata":[]}

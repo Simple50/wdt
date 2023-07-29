@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サバイバル","p":true}],"sense":[{"gloss":"survival","pos":["n"]}]},"sdata":[]}

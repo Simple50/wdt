@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄線","p":true}],"r_ele":[{"r":"てっせん","p":true}],"sense":[{"gloss":"iron (steel) wire","pos":["n"]},{"gloss":"Chinese clematis, Clematis florida, leather flower","pos":["n"]}]},"sdata":[{"j":"デリカ|テッセン|から↑火災↑↓かさい↓が↑発生↑↓はっせい↓し、↑灰↑↓はい↓の↑山↑↓やま↓を↑残↑↓のこ↓して↑全焼↑↓ぜんしょう↓した。","e":"A delicatessen caught fire and burned down, leaving a heap of ashes."}]}

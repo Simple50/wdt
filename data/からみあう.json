@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絡み合う","p":true},{"e":"からみ合う"}],"r_ele":[{"r":"からみあう","p":true}],"sense":[{"gloss":"to intertwine, to become entangled, to get tangled (together)","pos":["v5u","vi"]},{"gloss":"to become intertwined (of matters, interests, etc.), to become connected, to become linked","pos":["v5u","vi"]}]},"sdata":[]}

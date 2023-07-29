@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"都市国家","p":true}],"r_ele":[{"r":"としこっか","p":true}],"sense":[{"gloss":"city-state","pos":["n"]}]},"sdata":[{"j":"シンガポールは↑都市↑↓|とし↓↑国家↑↓こっか|↓だ。","e":"Singapore is a city-state."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和名","p":true},{"e":"倭名","i":["rK"]}],"r_ele":[{"r":"わみょう","p":true},{"r":"わめい"}],"sense":[{"gloss":"Japanese name (esp. of plants and animals)","pos":["n"]}]},"sdata":[]}

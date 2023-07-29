@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入館料","p":true}],"r_ele":[{"r":"にゅうかんりょう","p":true}],"sense":[{"gloss":"admission fee","pos":["n"]}]},"sdata":[]}

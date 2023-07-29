@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サービスエリア","p":true},{"r":"サービス・エリア"}],"sense":[{"gloss":"service area, toll road rest stop, rest area","pos":["n"]}]},"sdata":[]}

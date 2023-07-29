@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瞠目","p":true}],"r_ele":[{"r":"どうもく","p":true}],"sense":[{"gloss":"gazing at (in wonderment)","pos":["n","vs","vi"]}]},"sdata":[{"j":"しらない↑人↑↓ひと↓のなかにいると、↑私↑↓わたし↓は|どうもく|つろげない。","e":"I can never feel at ease among strangers."}]}

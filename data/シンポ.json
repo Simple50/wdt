@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シンポ","p":true}],"sense":[{"gloss":"symposium","pos":["n"],"x":["シンポジウム"]}],"m":["abbr"]},"sdata":[]}

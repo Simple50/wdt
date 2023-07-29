@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電鉄","p":true}],"r_ele":[{"r":"でんてつ","p":true}],"sense":[{"gloss":"electric railway","pos":["n"]}]},"sdata":[]}

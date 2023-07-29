@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"若武者","p":true}],"r_ele":[{"r":"わかむしゃ","p":true}],"sense":[{"gloss":"young warrior","pos":["n"]}]},"sdata":[]}

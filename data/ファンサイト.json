@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファンサイト","p":true},{"r":"ファン・サイト"}],"sense":[{"gloss":"fan site (WWW), fansite","pos":["n"],"f":["comp"]}]},"sdata":[]}

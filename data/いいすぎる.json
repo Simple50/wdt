@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"言い過ぎる","p":true},{"e":"言いすぎる"},{"e":"言過ぎる","p":true}],"r_ele":[{"r":"いいすぎる","p":true}],"sense":[{"gloss":"to talk or say too much, to go too far, to overstate, to exaggerate","pos":["v1","vt"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑友達↑↓ともだち↓に↑無理↑↓むり↓を↑言↑↓|い↓いすぎる|。","e":"She imposes on her friends too often."}]}

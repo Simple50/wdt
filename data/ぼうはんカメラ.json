@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防犯カメラ","p":true}],"r_ele":[{"r":"ぼうはんカメラ","p":true}],"sense":[{"gloss":"security camera","pos":["n"]}]},"sdata":[{"j":"↑知↑↓し↓ってるよ。どうせ↑防犯↑↓|ぼうはん↓カメラ|が↑昨日↑↓きのう↓↑君↑↓くん↓の↑姿↑↓すがた↓を↑捉↑↓とら↓えていましたから。","e":"I know. After all, the security camera caught you yesterday."}]}

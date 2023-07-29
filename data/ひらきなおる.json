@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"開き直る","p":true},{"e":"開きなおる","i":["sK"]},{"e":"開き治る","i":["sK"]}],"r_ele":[{"r":"ひらきなおる","p":true}],"sense":[{"gloss":"to become defiant, to fight back, to turn upon, to take the offensive","pos":["v5r","vi"]}]},"sdata":[]}

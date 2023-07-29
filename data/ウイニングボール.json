@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウイニングボール","p":true},{"r":"ウィニングボール"},{"r":"ウイニング・ボール"},{"r":"ウィニング・ボール"}],"sense":[{"gloss":"winning ball","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"センターの↑選手↑↓せんしゅ↓は|ウイニングボール|をガッチリとった。","e":"The center fielder made a firm catch for the winning out."}]}

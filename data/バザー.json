@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バザー","p":true},{"r":"バザール","p":true}],"sense":[{"gloss":"bazaar, bazar","pos":["n"]}]},"sdata":[{"j":"|バザー|は↑盛況↑↓せいきょう↓のうちに↑終↑↓お↓わった。","e":"The bazaar ended a great success."}]}

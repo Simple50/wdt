@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実働","p":true}],"r_ele":[{"r":"じつどう","p":true}],"sense":[{"gloss":"actual work","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プラント","p":true}],"sense":[{"gloss":"plant (i.e. equipment, machinery, etc.)","pos":["n"]},{"gloss":"plant, vegetation","pos":["n"]}]},"sdata":[{"j":"↑消防↑↓しょうぼう↓↑士↑↓し↓たちはその↑工業↑↓こうぎょう↓|プラント|における↑火災↑↓かさい↓を↑鎮火↑↓ちんか↓させることができなかった。","e":"The firefighters could not put out the fire at the industrial plant."}]}

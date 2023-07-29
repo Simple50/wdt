@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実害","p":true}],"r_ele":[{"r":"じつがい","p":true}],"sense":[{"gloss":"real harm, actual damage","pos":["n"]}]},"sdata":[{"j":"↑君↑↓きみ↓が↑一緒↑↓いっしょ↓だったおかげで↑休日↑↓きゅう|じつ↓がい|っそう↑楽↑↓たの↓しめた。","e":"I enjoyed the holiday all the better for being with you."},{"j":"あらゆる↑真実↑↓しん|じつ↓がい|つでも↑語↑↓かた↓られるとは↑限↑↓かぎ↓らない。","e":"Not every truth can be told all the time."}]}

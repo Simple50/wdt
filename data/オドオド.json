@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オドオド","p":true},{"r":"おどおど"}],"sense":[{"gloss":"timidly, nervously, hesitantly, trembling (with fear), fearfully, anxiously","pos":["adv","adv-to","vs"]}],"m":["on-mim"]},"sdata":[{"j":"|オドオド|してないで、はっきり↑言↑↓い↓ってしまえば？「↑好↑↓す↓きだ」って。","e":"Tell her you like her. Don't be afraid. She won't bite you."}]}

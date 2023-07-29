@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増便","p":true}],"r_ele":[{"r":"ぞうびん","p":true}],"sense":[{"gloss":"increase in the number of flights","pos":["n","vs","vt","vi"]}]},"sdata":[]}

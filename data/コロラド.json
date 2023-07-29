@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コロラド","p":true}],"sense":[{"gloss":"Colorado","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は|コロラド|に↑大↑↓おお↓きな↑農場↑↓のうじょう↓を↑持↑↓も↓っている。","e":"He has a large farm in Colorado."}]}

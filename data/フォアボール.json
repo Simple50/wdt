@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フォアボール","p":true},{"r":"フォア・ボール"}],"sense":[{"gloss":"base on balls, pass, walk","pos":["n"],"f":["baseb"],"l":"eng: four balls"}]},"sdata":[]}

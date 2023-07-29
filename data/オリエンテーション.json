@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オリエンテーション","p":true}],"sense":[{"gloss":"orientation","pos":["n"]}]},"sdata":[{"j":"↑新入生↑↓しんにゅうせい↓↑向↑↓む↓けの|オリエンテーション|を↑行↑↓おこな↓う。","e":"We will have a period of orientation for freshmen."}]}

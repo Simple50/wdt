@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラード","p":true}],"sense":[{"gloss":"lard","pos":["n"],"f":["food"]}]},"sdata":[{"j":"カリーニング|ラード|は↑旧名↑↓きゅうめい↓をケーニヒスベルクという。","e":"Kaliningrad was once called Koenigsberg."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"唐草","p":true}],"r_ele":[{"r":"からくさ","p":true}],"sense":[{"gloss":"arabesque pattern","pos":["n"],"m":["abbr"],"x":["唐草模様"]},{"gloss":"toothed medick (Medicago polymorpha)","pos":["n"],"x":["馬肥やし・1"]}]},"sdata":[]}

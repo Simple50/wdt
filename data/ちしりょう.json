@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"致死量","p":true}],"r_ele":[{"r":"ちしりょう","p":true}],"sense":[{"gloss":"lethal dose","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"干上がる","p":true},{"e":"干あがる"},{"e":"ひ上がる"},{"e":"乾上がる"},{"e":"乾あがる"}],"r_ele":[{"r":"ひあがる","p":true}],"sense":[{"gloss":"to dry up, to parch, to ebb away","pos":["v5r","vi"]}]},"sdata":[]}

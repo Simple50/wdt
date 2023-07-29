@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"王政復古","p":true}],"r_ele":[{"r":"おうせいふっこ","p":true}],"sense":[{"gloss":"restoration of imperial rule","pos":["n"],"m":["yoji"]},{"gloss":"Restoration (England)","pos":["n"],"m":["hist"]}]},"sdata":[]}

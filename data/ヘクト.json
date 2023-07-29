@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘクト","p":true}],"sense":[{"gloss":"hecto-, 10^2","pos":["n","pref"]}]},"sdata":[]}

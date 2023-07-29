@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"木管","p":true}],"r_ele":[{"r":"もっかん","p":true}],"sense":[{"gloss":"wooden pipe","pos":["n"]},{"gloss":"wooden bobbin","pos":["n"]},{"gloss":"woodwind instrument","pos":["n"],"m":["abbr"],"x":["木管楽器"]}]},"sdata":[]}

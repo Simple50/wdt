@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＮＥＥＴ","p":true}],"r_ele":[{"r":"ニート","p":true}],"sense":[{"gloss":"NEET (young person not in education, employment or training)","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑俺↑↓おれ↓は↑相変↑↓あいか↓わらず|ニート|してますよ。","e":"I'm still a NEET."},{"j":"トム、↑３０↑↓さんじゅう↓にもなってまだ|ニート|やってるんだぜ。","e":"In spite of the fact that Tom is thirty, he's still dependent on his parents."}]}

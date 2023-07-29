@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"表層","p":true}],"r_ele":[{"r":"ひょうそう","p":true}],"sense":[{"gloss":"surface, outer layer","pos":["n"],"ant":["深層"]}]},"sdata":[]}

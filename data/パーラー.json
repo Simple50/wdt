@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パーラー","p":true}],"sense":[{"gloss":"parlor, parlour","pos":["n"]}]},"sdata":[]}

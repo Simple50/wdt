@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コピーライト","p":true}],"sense":[{"gloss":"copyright","pos":["n"],"x":["著作権"]}]},"sdata":[]}

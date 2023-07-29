@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盤石","p":true},{"e":"磐石"}],"r_ele":[{"r":"ばんじゃく","p":true}],"sense":[{"gloss":"huge rock","pos":["n"]},{"gloss":"firmness, solidity","pos":["n","adj-no","adj-na"]}]},"sdata":[]}

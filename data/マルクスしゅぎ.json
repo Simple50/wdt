@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"マルクス主義","p":true}],"r_ele":[{"r":"マルクスしゅぎ","p":true}],"sense":[{"gloss":"Marxism","pos":["n"]}]},"sdata":[]}

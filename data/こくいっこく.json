@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刻一刻","p":true}],"r_ele":[{"r":"こくいっこく","p":true}],"sense":[{"gloss":"moment by moment, hour by hour","pos":["adv","adv-to"]}]},"sdata":[]}

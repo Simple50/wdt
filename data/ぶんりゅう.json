@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分流","p":true}],"r_ele":[{"r":"ぶんりゅう","p":true}],"sense":[{"gloss":"distributary, tributary, branched flow (river, current, etc.)","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"稚拙","p":true}],"r_ele":[{"r":"ちせつ","p":true}],"sense":[{"gloss":"unskillful, childish, immature, naive, artless, clumsy, crude","pos":["adj-na","n"]}]},"sdata":[{"j":"↑人↑↓ひと↓の↑好↑↓この↓みにはいちい|ち↑説明↑↓せつ|めい↓がつけられぬもの。","e":"There is no accounting for tastes."}]}

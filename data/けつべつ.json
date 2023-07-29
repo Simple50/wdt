@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"決別","p":true},{"e":"訣別"}],"r_ele":[{"r":"けつべつ","p":true}],"sense":[{"gloss":"separation, farewell, parting","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑仲間↑↓なかま↓と↑決別↑↓|けつべつ|↓してから、↑他↑↓た↓のプレイヤーを↑邪魔↑↓じゃま↓するようになった・・。","e":"After the break-up with her game partners she started to make trouble for other players."}]}

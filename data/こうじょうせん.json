@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"甲状腺","p":true},{"e":"甲状せん","i":["sK"]}],"r_ele":[{"r":"こうじょうせん","p":true}],"sense":[{"gloss":"thyroid (gland)","pos":["n"],"f":["anat"]}]},"sdata":[]}

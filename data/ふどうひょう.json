@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浮動票","p":true}],"r_ele":[{"r":"ふどうひょう","p":true}],"sense":[{"gloss":"swing vote","pos":["n"]}]},"sdata":[]}

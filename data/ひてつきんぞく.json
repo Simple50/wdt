@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"非鉄金属","p":true}],"r_ele":[{"r":"ひてつきんぞく","p":true}],"sense":[{"gloss":"non-ferrous metal","pos":["n"]}]},"sdata":[]}

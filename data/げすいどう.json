@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下水道","p":true}],"r_ele":[{"r":"げすいどう","p":true}],"sense":[{"gloss":"sewer, sewer system, sewerage, drain","pos":["n"]}]},"sdata":[{"j":"そして↑汚水↑↓おすい↓を↑流↑↓なが↓すために↑地下↑↓ちか↓に↑下水道↑↓|げすいどう|↓を↑持↑↓も↓っていた。","e":"The house has pipes under the ground to carry dirty water away."}]}

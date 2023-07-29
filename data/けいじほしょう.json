@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刑事補償","p":true}],"r_ele":[{"r":"けいじほしょう","p":true}],"sense":[{"gloss":"criminal indemnity","pos":["n"]}]},"sdata":[]}

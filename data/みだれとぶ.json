@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱れ飛ぶ","p":true}],"r_ele":[{"r":"みだれとぶ","p":true}],"sense":[{"gloss":"to fly wildly about","pos":["v5b","vi"]}]},"sdata":[]}

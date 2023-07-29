@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホームヘルパー","p":true},{"r":"ホーム・ヘルパー"}],"sense":[{"gloss":"care worker, caregiver, carer","pos":["n"],"l":"eng: home helper"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学齢","p":true}],"r_ele":[{"r":"がくれい","p":true}],"sense":[{"gloss":"school age","pos":["n"]}]},"kdata":{"学":{"on":["ガク"],"kun":["まな.ぶ"],"jlpt":5,"meanings":["study","learning","science"],"freq":63,"comp":[["子","龸"]],"s":"宇,字","t":641},"齢":{"on":["レイ"],"kun":["よわい","とし"],"jlpt":2,"meanings":["age"],"freq":770,"comp":[["歯","令"]],"t":2219}},"sdata":[]}

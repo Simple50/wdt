@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"牛丼","p":true}],"r_ele":[{"r":"ぎゅうどん","p":true}],"sense":[{"gloss":"gyudon, rice covered with sliced beef, usu. with vegetables","pos":["n"],"x":["丼ぶり・2"]}]},"sdata":[]}

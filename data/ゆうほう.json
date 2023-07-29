@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"友邦","p":true}],"r_ele":[{"r":"ゆうほう","p":true}],"sense":[{"gloss":"friendly nation","pos":["n"]}]},"sdata":[]}

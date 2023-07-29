@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目頭","p":true},{"e":"目がしら"}],"r_ele":[{"r":"めがしら","p":true},{"r":"まがしら","i":["ok"]}],"sense":[{"gloss":"inner canthus, inner corner of the eye","pos":["n"],"x":["目尻"]}]},"sdata":[]}

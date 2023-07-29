@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連れ込み宿","p":true},{"e":"連込み宿"}],"r_ele":[{"r":"つれこみやど","p":true}],"sense":[{"gloss":"hotel catering for lovers, hotel that rents rooms by the hour","pos":["n"]}]},"sdata":[]}

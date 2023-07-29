@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"図説","p":true}],"r_ele":[{"r":"ずせつ","p":true}],"sense":[{"gloss":"illustration, diagram","pos":["n","vs","vt"]}]},"sdata":[]}

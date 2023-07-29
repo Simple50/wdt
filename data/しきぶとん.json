@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敷き布団","p":true},{"e":"敷布団","p":true},{"e":"敷き蒲団"},{"e":"敷蒲団"},{"e":"敷ぶとん"}],"r_ele":[{"r":"しきぶとん","p":true}],"sense":[{"gloss":"futon (laid on the floor), (Japanese) mattress, underquilt, sleeping mat","pos":["n"],"x":["掛蒲団"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"享年","p":true}],"r_ele":[{"r":"きょうねん","p":true}],"sense":[{"gloss":"one's age at death","pos":["n","n-pref"]}]},"sdata":[{"j":"トムさんの↑享年↑↓|きょうねん|↓は↑九↑↓きゅう↓↑十↑↓じゅう↓↑七↑↓なな↓↑歳↑↓さい↓です。","e":"Tom died when he was 97."},{"j":"トムは↑享年↑↓|きょうねん|↓↑３０↑↓さんじゅう↓という↑若↑↓わか↓さでこの↑世↑↓よ↓を↑去↑↓さ↓った。","e":"Tom passed away at the tender age of 30."}]}

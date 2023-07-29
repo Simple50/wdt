@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マットレス","p":true}],"sense":[{"gloss":"mattress, mattress pad (under a futon)","pos":["n"]}]},"sdata":[{"j":"↑新↑↓あたら↓しい|マットレス|がいるな。","e":"I need a new mattress."},{"j":"|マットレス|の↑下↑↓した↓に↑隠↑↓かく↓しました。","e":"I hid it under the mattress."},{"j":"↑本当↑↓ほんとう↓に|マットレス|の↑下↑↓した↓にお↑金↑↓かね↓↑隠↑↓かく↓してるの？","e":"Do you really hide your money under the mattress?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安全弁","p":true},{"e":"安全瓣","i":["oK"]}],"r_ele":[{"r":"あんぜんべん","p":true}],"sense":[{"gloss":"safety valve","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"権益","p":true}],"r_ele":[{"r":"けんえき","p":true}],"sense":[{"gloss":"(one's) interests","pos":["n"]}]},"sdata":[{"j":"↑検疫↑↓|けんえき|↓↑中↑↓ちゅう↓です。","e":"I'm under quarantine."}]}

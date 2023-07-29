@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"茶碗","p":true},{"e":"茶わん","p":true}],"r_ele":[{"r":"ちゃわん","p":true}],"sense":[{"gloss":"rice bowl, tea cup, teacup","pos":["n"]}]},"kdata":{"茶":{"on":["チャ","サ"],"jlpt":4,"meanings":["tea"],"freq":1116,"comp":[["艹","𠆢","ホ"]],"d":["搽"],"t":952}},"sdata":[{"j":"この|↑茶↑↓ちゃ↓わん|はなんとすばらしいのでしょう。","e":"How nice this cup is!"}]}

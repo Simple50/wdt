@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初段","p":true}],"r_ele":[{"r":"しょだん","p":true}],"sense":[{"gloss":"first rank in the senior class (in martial arts, go, etc.), lowest rank, one dan","pos":["n"]}]},"sdata":[]}

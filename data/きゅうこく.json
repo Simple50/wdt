@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"救国","p":true}],"r_ele":[{"r":"きゅうこく","p":true}],"sense":[{"gloss":"salvation of one's country","pos":["n"]}]},"sdata":[{"j":"↑言↑↓い↓うまでもないが、ノルウェーは↑世界↑↓せかい↓↑第↑↓だい↓↑二↑↓に↓の↑原油↑↓げんゆ↓↑供給↑↓きょう|きゅう↓↑国↑↓こく|↓となっている。","e":"Needless to say, Norway has become the world's second largest oil supplier."}]}

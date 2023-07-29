@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宙乗り","p":true}],"r_ele":[{"r":"ちゅうのり","p":true}],"sense":[{"gloss":"midair stunt, aerial stunts","pos":["n"]}]},"sdata":[{"j":"↑宇宙↑↓う|ちゅう↓の↑利用↑↓り|よう↓は、↑日本↑↓にっぽん↓の↑参加↑↓さんか↓に↑関↑↓かん↓する↑限↑↓かぎ↓りでは、↑非↑↓ひ↓↑軍事↑↓ぐんじ↓↑的↑↓てき↓↑目的↑↓もくてき↓に↑限定↑↓げんてい↓されるべきである。","e":"The use of space must be limited to non-military purposes, as far as Japan's involvement is concerned."}]}

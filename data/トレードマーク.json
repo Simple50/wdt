@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トレードマーク","p":true}],"sense":[{"gloss":"trademark","pos":["n"],"x":["商標・しょうひょう"]}]},"sdata":[]}

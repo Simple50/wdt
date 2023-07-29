@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カーニバル","p":true},{"r":"カルナバル"}],"sense":[{"gloss":"carnival","pos":["n"]}]},"sdata":[{"j":"１↑ヶ月↑↓かげつ↓↑前↑↓まえ↓にベニスにいたら、↑私↑↓わたし↓たちはその|カーニバル|に↑参加↑↓さんか↓できたのですが。","e":"If we had been in Venice a month prior, we could have taken part in the carnival."},{"j":"リオの|カーニバル|は↑二月↑↓にがつ↓に↑開催↑↓かいさい↓される。","e":"Rio's carnival is held in February."}]}

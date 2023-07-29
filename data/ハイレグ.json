@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイレグ","p":true},{"r":"ハイ・レグ"}],"sense":[{"gloss":"high-leg leotard","pos":["n"]}]},"sdata":[]}

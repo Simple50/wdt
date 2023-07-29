@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"晴れやかな笑顔","p":true}],"r_ele":[{"r":"はれやかなえがお","p":true}],"sense":[{"gloss":"beaming smile","pos":["n"]}]},"sdata":[]}

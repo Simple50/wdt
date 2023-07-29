@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アルミホイル","p":true},{"r":"アルホイル","i":["ik"]},{"r":"アルミ・ホイル"}],"sense":[{"gloss":"aluminum foil, aluminium foil, tin foil","pos":["n"]}],"m":["abbr"]},"sdata":[]}

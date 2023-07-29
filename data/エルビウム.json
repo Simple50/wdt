@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エルビウム","p":true}],"sense":[{"gloss":"erbium (Er)","pos":["n"]}]},"sdata":[]}

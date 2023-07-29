@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"儒学","p":true}],"r_ele":[{"r":"じゅがく","p":true}],"sense":[{"gloss":"Confucianism","pos":["n"]}]},"kdata":{"儒":{"on":["ジュ"],"jlpt":1,"meanings":["Confucian"],"freq":2162,"comp":[["亻","需"]],"t":2096},"学":{"on":["ガク"],"kun":["まな.ぶ"],"jlpt":5,"meanings":["study","learning","science"],"freq":63,"comp":[["子","龸"]],"s":"宇,字","t":641}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小数点","p":true},{"e":"少数点","i":["iK"]}],"r_ele":[{"r":"しょうすうてん","p":true}],"sense":[{"gloss":"decimal point, radix point","pos":["n"]}]},"sdata":[]}

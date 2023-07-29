@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生ビール","p":true}],"r_ele":[{"r":"なまビール","p":true}],"sense":[{"gloss":"unpasteurized beer, draft beer, draught beer","pos":["n"]}]},"sdata":[{"j":"↑暑↑↓あつ↓い↑日↑↓ひ↓の↑生↑↓|なま↓ビール|の↑味↑↓あじ↓はまた↑格別↑↓かくべつ↓だ。","e":"Draft beer tastes especially good on a hot day."}]}

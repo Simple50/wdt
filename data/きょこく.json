@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"挙国","p":true}],"r_ele":[{"r":"きょこく","p":true}],"sense":[{"gloss":"the whole nation","pos":["n"]}]},"sdata":[]}

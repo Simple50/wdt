@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デンバー","p":true},{"r":"デンヴァー"}],"sense":[{"gloss":"Denver","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちには|デンバー|に↑休暇↑↓きゅうか↓↑用↑↓よう↓の↑別荘↑↓べっそう↓があります。","e":"We have a holiday cottage in Denver."},{"j":"↑優子↑↓ゆうこ↓さんはいつ|デンバー|に↑来↑↓く↓るのかなあ。","e":"When will Yuko come to Denver?"}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デーモン","p":true}],"sense":[{"gloss":"demon","pos":["n"]},{"gloss":"daemon (in Unix, etc.)","pos":["n"],"f":["comp"]}]},"sdata":[]}

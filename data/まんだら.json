@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"曼荼羅","p":true},{"e":"曼陀羅"}],"r_ele":[{"r":"まんだら","p":true},{"r":"まだら"},{"r":"マンダラ"}],"sense":[{"gloss":"mandala","pos":["n"],"f":["Buddh"]}],"m":["uk"]},"sdata":[]}

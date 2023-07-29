@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"咲き誇る","p":true},{"e":"咲きほこる"},{"e":"咲誇る"}],"r_ele":[{"r":"さきほこる","p":true}],"sense":[{"gloss":"to be in full bloom, to blossom in full glory, to be in fullness of bloom","pos":["v5r","vi"]}]},"sdata":[]}

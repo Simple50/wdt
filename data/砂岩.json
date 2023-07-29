@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砂岩","p":true}],"r_ele":[{"r":"さがん","p":true},{"r":"しゃがん"}],"sense":[{"gloss":"sandstone","pos":["n"]}]},"kdata":{"砂":{"on":["サ","シャ"],"kun":["すな"],"jlpt":2,"meanings":["sand"],"freq":1146,"comp":[["少","石"]],"t":929},"岩":{"on":["ガン"],"kun":["いわ"],"jlpt":2,"meanings":["boulder","rock","cliff"],"freq":787,"comp":[["山","石"]],"t":488}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水産庁","p":true}],"r_ele":[{"r":"すいさんちょう","p":true}],"sense":[{"gloss":"(Japanese) Fisheries Agency","pos":["n"]}]},"sdata":[]}

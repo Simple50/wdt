@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蕨","p":true}],"r_ele":[{"r":"わらび","p":true}],"sense":[{"gloss":"bracken","pos":["n"]}]},"sdata":[{"j":"↑見↑↓み↓て！「|わらび|」を↑売↑↓う↓ってるよ。↑山菜↑↓さんさい↓が↑採↑↓と↓れる↑季↑↓き↓↑節↑↓せつ↓ね。","e":"Look! They're selling Warabi. It must be harvesting season."}]}

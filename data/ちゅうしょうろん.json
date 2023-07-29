@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抽象論","p":true}],"r_ele":[{"r":"ちゅうしょうろん","p":true}],"sense":[{"gloss":"an abstract argument","pos":["n"]}]},"sdata":[]}

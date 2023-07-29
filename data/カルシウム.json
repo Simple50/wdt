@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カルシウム","p":true}],"sense":[{"gloss":"calcium (Ca)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑食事↑↓しょくじ↓には|カルシウム|が↑欠↑↓か↓けている。","e":"Calcium is absent from his diet."}]}

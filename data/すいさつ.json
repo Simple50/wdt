@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"推察","p":true}],"r_ele":[{"r":"すいさつ","p":true}],"sense":[{"gloss":"guess, conjecture, surmise","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑表情↑↓ひょうじょう↓から↑本当↑↓ほんとう↓に↑怒↑↓おこ↓っているのだと↑推察↑↓|すいさつ|↓した。","e":"I gathered from his expression that he was very angry."}]}

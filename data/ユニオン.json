@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ユニオン","p":true}],"sense":[{"gloss":"union","pos":["n"]}]},"sdata":[{"j":"１５↑分↑↓ふん↓までに|ユニオン|↑駅↑↓えき↓にいてもらえるかしら。","e":"Do you think you can get me to Union Station by a quarter after?"}]}

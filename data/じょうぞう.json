@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"醸造","p":true}],"r_ele":[{"r":"じょうぞう","p":true}],"sense":[{"gloss":"brewing","pos":["n","vs","vt"]}]},"sdata":[{"j":"ビールは↑麦芽↑↓ばくが↓から↑醸造↑↓|じょうぞう|↓される。","e":"Beer is brewed from malt."}]}

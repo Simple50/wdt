@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伝令","p":true}],"r_ele":[{"r":"でんれい","p":true}],"sense":[{"gloss":"delivering an order, dispatch of an order","pos":["n"]},{"gloss":"messenger, orderly, runner","pos":["n"]}]},"sdata":[]}

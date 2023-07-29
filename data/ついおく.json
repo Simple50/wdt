@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追憶","p":true}],"r_ele":[{"r":"ついおく","p":true}],"sense":[{"gloss":"recollection, reminiscence","pos":["n","vs","vt","adj-no"]}]},"sdata":[]}

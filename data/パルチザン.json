@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パルチザン","p":true}],"sense":[{"gloss":"partisan","pos":["n"],"l":"fre"}]},"sdata":[]}

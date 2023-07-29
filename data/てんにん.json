@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"転任","p":true},{"e":"轉任","i":["oK"]}],"r_ele":[{"r":"てんにん","p":true}],"sense":[{"gloss":"change of post","pos":["n","vs","vi"]}]},"sdata":[]}

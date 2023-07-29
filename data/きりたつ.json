@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り立つ","p":true},{"e":"切立つ"},{"e":"切りたつ"},{"e":"きり立つ"}],"r_ele":[{"r":"きりたつ","p":true}],"sense":[{"gloss":"to rise perpendicularly, to tower steeply","pos":["v5t","vi"]}]},"sdata":[]}

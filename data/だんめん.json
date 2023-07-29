@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"断面","p":true}],"r_ele":[{"r":"だんめん","p":true}],"sense":[{"gloss":"section, cross section, profile","pos":["n"]}]},"sdata":[]}

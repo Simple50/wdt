@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"閉山","p":true}],"r_ele":[{"r":"へいざん","p":true}],"sense":[{"gloss":"ending the climbing season, closure of a mountain to climbers","pos":["n","vs","vt","vi"]},{"gloss":"closing a mine, discontinuation of mining","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"この↑鉱山↑↓こうざん↓は↑来月↑↓らいげつ↓↑閉山↑↓|へいざん|↓になる。","e":"This mine will close down next month."}]}

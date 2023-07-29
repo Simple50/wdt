@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銘打つ","p":true}],"r_ele":[{"r":"めいうつ","p":true}],"sense":[{"gloss":"to engrave an inscription, to call (designate) itself, to mark, to label","pos":["v5t","vi"]}]},"sdata":[]}

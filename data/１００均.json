@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"１００均","p":true},{"e":"百均"}],"r_ele":[{"r":"ひゃっきん","p":true}],"sense":[{"gloss":"hundred-yen store, 100 yen shop","pos":["n"],"x":["１００円均一ショップ","１００円均一"]}],"m":["abbr"]},"kdata":{"均":{"on":["キン"],"kun":["なら.す"],"jlpt":2,"meanings":["level","average"],"freq":715,"comp":[["匀","土"]],"d":["筠","鋆"],"t":470}},"sdata":[]}

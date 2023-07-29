@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"功労","p":true}],"r_ele":[{"r":"こうろう","p":true}],"sense":[{"gloss":"meritorious deed, services","pos":["n"]}]},"sdata":[{"j":"あの↑支部↑↓しぶ↓は↑炭鉱↑↓たん|こう↓↑労働↑↓ろう|どう↓↑組合↑↓くみあい↓に↑属↑↓ぞく↓している。","e":"That branch is affiliated to the miners' union."}]}

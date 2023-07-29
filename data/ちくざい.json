@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蓄財","p":true}],"r_ele":[{"r":"ちくざい","p":true}],"sense":[{"gloss":"amassing of wealth","pos":["n","vs","vt","vi"]}]},"sdata":[]}

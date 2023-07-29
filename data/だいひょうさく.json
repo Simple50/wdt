@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"代表作","p":true}],"r_ele":[{"r":"だいひょうさく","p":true}],"sense":[{"gloss":"most important work (of a writer, artist, etc.), representative work, masterpiece","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファクトリー","p":true},{"r":"ファクトリ"}],"sense":[{"gloss":"factory","pos":["n"]}]},"sdata":[{"j":"チーズケーキ|ファクトリー|で、チーズケーキをたらふく↑食↑↓た↓べてみたい。","e":"I'd like to eat cheesecake to my heart's content at The Cheesecake Factory."}]}

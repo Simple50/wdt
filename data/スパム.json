@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スパム","p":true}],"sense":[{"gloss":"Spam (trademarked luncheon meat, made mostly from ham)","pos":["n"]},{"gloss":"spam (unsolicited email messages)","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"|スパム|フォルダを↑確認↑↓かくにん↓してみて。","e":"Look in your spam folder."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レビュー","p":true},{"r":"レヴュー"}],"sense":[{"gloss":"review","pos":["n","vs","vt"]}]},"sdata":[]}

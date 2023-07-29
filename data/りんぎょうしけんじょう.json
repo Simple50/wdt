@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"林業試験場","p":true}],"r_ele":[{"r":"りんぎょうしけんじょう","p":true}],"sense":[{"gloss":"experimental forestry station","pos":["n"]}]},"sdata":[]}

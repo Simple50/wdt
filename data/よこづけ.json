@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横付け","p":true},{"e":"横づけ"}],"r_ele":[{"r":"よこづけ","p":true}],"sense":[{"gloss":"bringing alongside (ship, vehicle, etc.), coming alongside, mooring","pos":["n","vs","vt"]}]},"sdata":[]}

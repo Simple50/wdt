@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デメリット","p":true}],"sense":[{"gloss":"disadvantage, drawback, demerit, bad point, minus","pos":["n"],"ant":["メリット"]}]},"sdata":[{"j":"|デメリット|が↑多↑↓おお↓すぎます。","e":"It has too many disadvantages."},{"j":"↑二↑↓に↓、↑三↑↓さん↓|デメリット|がありますね。","e":"There are a few disadvantages to it."}]}

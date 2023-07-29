@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"兵学","p":true}],"r_ele":[{"r":"へいがく","p":true}],"sense":[{"gloss":"military science, strategy, tactics","pos":["n"]}]},"sdata":[]}

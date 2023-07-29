@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空車","p":true}],"r_ele":[{"r":"くうしゃ","p":true},{"r":"からぐるま"}],"sense":[{"gloss":"empty conveyance, empty taxi, free taxi","pos":["n"],"ant":["実車・1"]},{"gloss":"having spaces available (of a parking lot)","pos":["n"],"ant":["満車"]}]},"sdata":[{"j":"バスは↑空車↑↓|くうしゃ|↓だった。","e":"The bus was empty."}]}

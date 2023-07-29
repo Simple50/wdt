@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"難燃加工","p":true}],"r_ele":[{"r":"なんねんかこう","p":true}],"sense":[{"gloss":"fireproof","pos":["n"]}]},"sdata":[]}

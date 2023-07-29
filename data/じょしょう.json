@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"女将","p":true}],"r_ele":[{"r":"おかみ"},{"r":"じょしょう","p":true},{"r":"にょしょう"}],"sense":[{"gloss":"proprietress (of a traditional Japanese inn, restaurant, or shop), landlady, hostess, mistress, female innkeeper","pos":["n"]}]},"sdata":[]}

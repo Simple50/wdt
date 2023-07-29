@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"窒扶斯","i":["ateji","rK"]}],"r_ele":[{"r":"チフス","p":true},{"r":"チブス","i":["ok"]},{"r":"チプス","i":["ok"]}],"sense":[{"gloss":"typhoid fever, typhus","pos":["n"],"l":"ger: Typhus,dut"}],"m":["uk"]},"sdata":[{"j":"↑腸↑↓ちょう↓|チフス|は↑怖↑↓こわ↓い↑病気↑↓びょうき↓。","e":"Typhoid is a scary disease."}]}

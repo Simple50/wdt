@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人情味","p":true}],"r_ele":[{"r":"にんじょうみ","p":true}],"sense":[{"gloss":"human interest, kindness","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天幕","p":true}],"r_ele":[{"r":"てんまく","p":true}],"sense":[{"gloss":"decorative curtain hung from the ceiling","pos":["n"]},{"gloss":"tent, pavilion, marquee","pos":["n"]}]},"sdata":[]}

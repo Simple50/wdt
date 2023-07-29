@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"選び出す","p":true}],"r_ele":[{"r":"えらびだす","p":true}],"sense":[{"gloss":"to select, to pick out","pos":["v5s","vt"]}]},"sdata":[{"j":"この↑劇↑↓げき↓に↑最適↑↓さいてき↓の↑役者↑↓やくしゃ↓を↑選↑↓|えら↓び↑出↑↓だ↓す|のは↑簡単↑↓かんたん↓ではない。","e":"It's not easy to pick out the best actors for this play."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オカリナ","p":true}],"sense":[{"gloss":"ocarina (type of flute)","pos":["n"],"l":"ita"}]},"sdata":[{"j":"↑父↑↓ちち↓の↑日↑↓ひ↓に↑娘↑↓むすめ↓から|オカリナ|をもらった。↑正直↑↓しょうじき↓↑言↑↓い↓っていらない。どこからこんなチョイスを↑思↑↓おも↓いつくのか↑不思議↑↓ふしぎ↓だ。","e":"I got an ocarina from my daughter on Father's Day. Frankly, though, I don't need it. I wonder where she could have come up with such a present."}]}

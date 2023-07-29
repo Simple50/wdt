@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"性感帯","p":true}],"r_ele":[{"r":"せいかんたい","p":true}],"sense":[{"gloss":"erogenous zone","pos":["n"]}]},"sdata":[]}

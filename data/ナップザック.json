@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナップザック","p":true},{"r":"ナップサック"}],"sense":[{"gloss":"backpack, knapsack, rucksack","pos":["n"],"l":"ger: Knappsack"}]},"sdata":[{"j":"|ナップザック|を↑背負↑↓せお↓った↑中年↑↓ちゅうねん↓の↑女性↑↓じょせい↓が↑一↑↓ひと↓↑人↑↓り↓、↑座↑↓すわ↓るところを↑探↑↓さが↓しているようだった。","e":"A middle-aged woman with a knapsack on her back seemed to be looking for a place to sit down."}]}

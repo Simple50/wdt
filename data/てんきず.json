@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天気図","p":true}],"r_ele":[{"r":"てんきず","p":true}],"sense":[{"gloss":"weather map","pos":["n"]}]},"sdata":[]}

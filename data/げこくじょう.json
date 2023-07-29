@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下克上","p":true},{"e":"下剋上"}],"r_ele":[{"r":"げこくじょう","p":true}],"sense":[{"gloss":"juniors dominating seniors, inferiors overthrowing their superiors, retainer supplanting his lord","pos":["n"]}]},"sdata":[]}

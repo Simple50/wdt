@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"余録","p":true}],"r_ele":[{"r":"よろく","p":true}],"sense":[{"gloss":"unofficial record, rumour, rumor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"問屋","p":true}],"r_ele":[{"r":"とんや","p":true},{"r":"といや"}],"sense":[{"gloss":"wholesale store, wholesale dealer, wholesaler","pos":["n"]}]},"sdata":[{"j":"そうは↑問屋↑↓|とんや|↓がおろさないぞ。","e":"You won't get it so easily."}]}

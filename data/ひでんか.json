@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"妃殿下","p":true}],"r_ele":[{"r":"ひでんか","p":true}],"sense":[{"gloss":"princess, Her Royal Highness","pos":["n"]}],"m":["hon"]},"sdata":[]}

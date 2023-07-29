@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低める","p":true}],"r_ele":[{"r":"ひくめる","p":true}],"sense":[{"gloss":"to lower, to be lowered","pos":["v1","vt"]}]},"sdata":[]}

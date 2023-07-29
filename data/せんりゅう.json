@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"川柳","p":true}],"r_ele":[{"r":"せんりゅう","p":true}],"sense":[{"gloss":"senryū, comic haiku, humorous seventeen-mora poem","pos":["n"]}]},"sdata":[]}

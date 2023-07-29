@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"痛風","p":true}],"r_ele":[{"r":"つうふう","p":true}],"sense":[{"gloss":"gout","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑痛風↑↓|つうふう|↓を↑病↑↓や↓んでいる。","e":"She is affected with the gout."}]}

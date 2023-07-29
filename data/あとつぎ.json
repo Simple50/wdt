@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"跡継ぎ","p":true},{"e":"後継ぎ"},{"e":"跡継"},{"e":"後継"}],"r_ele":[{"r":"あとつぎ","p":true}],"sense":[{"gloss":"heir, inheritor","pos":["n"]},{"gloss":"successor","pos":["n"]}]},"sdata":[]}

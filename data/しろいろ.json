@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白色","p":true}],"r_ele":[{"r":"しろいろ","p":true},{"r":"はくしょく"}],"sense":[{"gloss":"white","pos":["n","adj-no"]}]},"sdata":[]}

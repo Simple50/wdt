@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"臨界","p":true}],"r_ele":[{"r":"りんかい","p":true}],"sense":[{"gloss":"boundary","pos":["n"]},{"gloss":"(nuclear) criticality","pos":["n"],"f":["physics"]},{"gloss":"critical (mass, pressure, temperature, state, point, etc.)","pos":["adj-f"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"情報産業","p":true}],"r_ele":[{"r":"じょうほうさんぎょう","p":true}],"sense":[{"gloss":"information industry","pos":["n"]}]},"sdata":[{"j":"↑技術↑↓ぎじゅつ↓↑革新↑↓かくしん↓は↑情報↑↓|じょうほう↓↑産業↑↓さんぎょう|↓に↑急速↑↓きゅうそく↓な↑進歩↑↓しんぽ↓をもたらした。","e":"Technological innovation brought about the rapid progress of the information industry."}]}

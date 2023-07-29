@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チャペル","p":true}],"sense":[{"gloss":"chapel","pos":["n"]}]},"sdata":[]}

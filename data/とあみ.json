@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"投網","p":true},{"e":"投げ網"}],"r_ele":[{"r":"とあみ","p":true},{"r":"なげあみ"}],"sense":[{"gloss":"cast net, casting net","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はせっせ|と↑編↑↓あ↓み|↑物↑↓もの↓に↑精↑↓せい↓を↑出↑↓だ↓していた。","e":"She was busy with her knitting."},{"j":"↑妹↑↓いもうと↓は↑朝↑↓あさ↓からずっ|と↑編↑↓あ↓み|↑物↑↓もの↓をしている。","e":"My sister has been knitting since this morning."}]}

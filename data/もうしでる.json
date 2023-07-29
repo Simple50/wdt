@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"申し出る","p":true},{"e":"申出る"}],"r_ele":[{"r":"もうしでる","p":true}],"sense":[{"gloss":"to offer, to propose, to suggest, to put forward, to request, to ask (for), to apply (for), to report (to), to notify","pos":["v1","vt"]}]},"sdata":[]}

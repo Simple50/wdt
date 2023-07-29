@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"港湾局","p":true}],"r_ele":[{"r":"こうわんきょく","p":true}],"sense":[{"gloss":"Port and Harbor Authority","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"式次第","p":true}],"r_ele":[{"r":"しきしだい","p":true}],"sense":[{"gloss":"program of a ceremony (programme)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"に当たっては","p":true}],"r_ele":[{"r":"にあたっては","p":true}],"sense":[{"gloss":"when it comes to, concerning","pos":["exp"]}],"m":["uk"]},"kdata":{"当":{"on":["トウ"],"kun":["あ.たる","あ.たり","あ.てる","あ.て","まさ.に","まさ.にべし"],"jlpt":3,"meanings":["hit","right","appropriate","himself"],"freq":91,"d":["档","𥹥"],"t":355}},"sdata":[]}

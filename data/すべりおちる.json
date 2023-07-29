@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滑り落ちる","p":true}],"r_ele":[{"r":"すべりおちる","p":true}],"sense":[{"gloss":"to slip off","pos":["v1"]}]},"sdata":[]}

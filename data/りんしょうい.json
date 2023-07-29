@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"臨床医","p":true}],"r_ele":[{"r":"りんしょうい","p":true}],"sense":[{"gloss":"clinician","pos":["n"]}]},"sdata":[]}

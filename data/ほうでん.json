@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"放電","p":true}],"r_ele":[{"r":"ほうでん","p":true}],"sense":[{"gloss":"electrical discharge","pos":["n","vs","vi"]}]},"sdata":[]}

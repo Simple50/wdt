@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニアミス","p":true},{"r":"ニア・ミス"}],"sense":[{"gloss":"near miss","pos":["n"]},{"gloss":"just missing (each other)","pos":["n"],"m":["col"]}]},"sdata":[]}

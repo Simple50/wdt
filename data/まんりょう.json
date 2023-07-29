@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"満了","p":true}],"r_ele":[{"r":"まんりょう","p":true}],"sense":[{"gloss":"expiration, termination","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"ここの↑自慢↑↓じ|まん↓↑料理↑↓りょう|り↓はなに？","e":"What's your speciality?"},{"j":"ここの↑自慢↑↓じ|まん↓↑料理↑↓りょう|り↓はなに？","e":"What's your specialty?"}]}

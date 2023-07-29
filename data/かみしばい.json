@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紙芝居","p":true}],"r_ele":[{"r":"かみしばい","p":true}],"sense":[{"gloss":"kamishibai, storytelling with pictures, form of Japanese street theater and storytelling (popular from the 1930s to the 1950s)","pos":["n"]}]},"sdata":[]}

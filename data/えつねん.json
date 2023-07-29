@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"越年","p":true}],"r_ele":[{"r":"えつねん","p":true},{"r":"おつねん"}],"sense":[{"gloss":"seeing the old year out, greeting the New Year, passing the winter, hibernation","pos":["n","vs","vi"]},{"gloss":"playing more than the usual 12 rounds in one game","pos":["n","vs","vi"],"f":["hanaf"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連句","p":true},{"e":"聯句"}],"r_ele":[{"r":"れんく","p":true}],"sense":[{"gloss":"linked verse, couplet","pos":["n"]}]},"sdata":[]}

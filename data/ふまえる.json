@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"踏まえる","p":true}],"r_ele":[{"r":"ふまえる","p":true}],"sense":[{"gloss":"to be based on, to take into account, to build upon, to have origin in","pos":["v1","vt"]},{"gloss":"to have one's feet firmly planted on, to plant oneself on","pos":["v1","vt"]}]},"sdata":[]}

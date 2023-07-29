@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神主","p":true}],"r_ele":[{"r":"かんぬし","p":true},{"r":"かむぬし"}],"sense":[{"gloss":"Shinto priest","pos":["n"],"f":["Shinto"],"m":["sens"]},{"gloss":"chief Shinto priest (of a shrine)","pos":["n"],"f":["Shinto"],"m":["sens"]},{"gloss":"Welsh onion, pun in Buddhist monk jargon","pos":["n"],"x":["葱・ねぎ"]}]},"sdata":[]}

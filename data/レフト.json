@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レフト","p":true}],"sense":[{"gloss":"left","pos":["n"]}]},"sdata":[{"j":"|レフト|が↑好↑↓こう↓↑走↑↓そう↓して↑大↑↓だい↓↑飛球↑↓ひきゅう↓を↑捕↑↓と↓った。","e":"The left fielder ran hard and caught the long fly."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝相","p":true}],"r_ele":[{"r":"ねぞう","p":true}],"sense":[{"gloss":"sleeping posture","pos":["n"]}]},"sdata":[]}

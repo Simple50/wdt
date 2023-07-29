@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同格","p":true}],"r_ele":[{"r":"どうかく","p":true}],"sense":[{"gloss":"the same rank, equality","pos":["n","adj-no","adj-na"]},{"gloss":"apposition","pos":["n"],"f":["gramm"]}]},"sdata":[{"j":"↑名前↑↓なまえ↓は|どう↑書↑↓か↓く|の？","e":"How do you spell your name?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公文書","p":true}],"r_ele":[{"r":"こうぶんしょ","p":true}],"sense":[{"gloss":"official document, archives","pos":["n"]}]},"sdata":[]}

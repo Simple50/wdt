@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"議定書","p":true}],"r_ele":[{"r":"ぎていしょ","p":true}],"sense":[{"gloss":"protocol","pos":["n"]}]},"sdata":[{"j":"↑多↑↓おお↓くの↑国↑↓くに↓が1997↑年↑↓ねん↓に↑京都↑↓きょうと↓↑議定↑↓|ぎてい↓↑書↑↓しょ|↓に↑調印↑↓ちょういん↓した。","e":"Many nations had signed the treaty in 1997 in Kyoto, Japan."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特殊撮影","p":true}],"r_ele":[{"r":"とくしゅさつえい","p":true}],"sense":[{"gloss":"special effects, SFX","pos":["n"]}]},"sdata":[]}

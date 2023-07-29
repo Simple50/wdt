@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"繰り上げる","p":true},{"e":"繰上げる"}],"r_ele":[{"r":"くりあげる","p":true}],"sense":[{"gloss":"to move up, to advance","pos":["v1","vt"]}]},"sdata":[{"j":"↑科学↑↓かがく↓が↑我々↑↓われわれ↓の↑生活↑↓せいかつ↓↑様式↑↓ようしき↓を↑作↑↓つ|く↓り↑上↑↓あ↓げる|。","e":"Science builds our lifestyle."}]}

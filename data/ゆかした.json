@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"床下","p":true}],"r_ele":[{"r":"ゆかした","p":true}],"sense":[{"gloss":"under the floor","pos":["n","adj-no"]}]},"sdata":[{"j":"↑床下↑↓|ゆかした|↓にパイプを↑通↑↓とお↓す。","e":"Run pipes under the floor."},{"j":"↑私↑↓わたし↓たちは↑床下↑↓|ゆかした|↓の↑虫↑↓むし↓を↑駆除↑↓くじょ↓するため↑業者↑↓ぎょうしゃ↓を↑雇↑↓やと↓いました。","e":"We hired a company to get rid of the insects under our house."}]}

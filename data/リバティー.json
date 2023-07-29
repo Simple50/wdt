@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リバティー","p":true}],"sense":[{"gloss":"liberty","pos":["n"]}]},"sdata":[]}

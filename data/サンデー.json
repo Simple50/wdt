@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンデー","p":true}],"sense":[{"gloss":"sundae","pos":["n"],"f":["food"]}]},"sdata":[]}

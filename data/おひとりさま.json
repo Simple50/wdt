@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お一人様","p":true},{"e":"お一人さま"},{"e":"御一人様"}],"r_ele":[{"r":"おひとりさま","p":true}],"sense":[{"gloss":"one person, one customer","pos":["n"],"m":["hon"]},{"gloss":"unmarried and childless older woman","pos":["n"],"m":["col"],"x":["負け犬・2"]}]},"sdata":[]}

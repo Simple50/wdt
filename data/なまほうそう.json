@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生放送","p":true}],"r_ele":[{"r":"なまほうそう","p":true}],"sense":[{"gloss":"live broadcast","pos":["n","vs","vt"]}]},"sdata":[{"j":"これ、↑生放送↑↓|なまほうそう|↓なの？","e":"Is this a live broadcast?"},{"j":"これは↑生放送↑↓|なまほうそう|↓です。","e":"This is a live broadcast."}]}

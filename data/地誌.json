@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地誌","p":true}],"r_ele":[{"r":"ちし","p":true}],"sense":[{"gloss":"topography","pos":["n"]}]},"kdata":{"地":{"on":["チ","ジ"],"jlpt":4,"meanings":["ground","earth"],"freq":40,"comp":[["土","也"]],"t":335},"誌":{"on":["シ"],"jlpt":2,"meanings":["document","records"],"freq":851,"comp":[["言","志"]],"s":"認","t":1922}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白骨","p":true}],"r_ele":[{"r":"はっこつ","p":true}],"sense":[{"gloss":"white (bleached) bone, skeleton","pos":["n"]}]},"sdata":[{"j":"↑数↑↓すう↓↑年↑↓ねん↓↑前↑↓まえ↓、↑近所↑↓きんじょ↓の↑空↑↓あ↓き↑地↑↓ち↓で↑白骨↑↓|はっこつ|↓↑死体↑↓したい↓が↑発見↑↓はっけん↓された。","e":"Several years ago, a bleached body was discovered in a vacant plot in the neighbourhood."}]}

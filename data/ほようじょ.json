@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"保養所","p":true}],"r_ele":[{"r":"ほようじょ","p":true},{"r":"ほようしょ"}],"sense":[{"gloss":"recreation facility (usu. corporate-owned and for the exclusive use of the corporation's employees), rest home, retreat center","pos":["n"]}]},"sdata":[]}

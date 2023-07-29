@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先走る","p":true}],"r_ele":[{"r":"さきばしる","p":true}],"sense":[{"gloss":"to act first, to act precipitously, to be rash, to get ahead of oneself, to jump the gun","pos":["v5r","vi"]}]},"sdata":[]}

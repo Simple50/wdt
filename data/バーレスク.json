@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バーレスク","p":true}],"sense":[{"gloss":"burlesque","pos":["n"]}]},"sdata":[]}

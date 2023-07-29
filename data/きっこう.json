@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"拮抗","p":true},{"e":"頡頏","i":["rK"]}],"r_ele":[{"r":"きっこう","p":true}],"sense":[{"gloss":"rivalry (between two equally strong sides), struggle for supremacy, competing (with), vying (with), contending (with), being an equal match (for)","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火付け役","p":true},{"e":"火つけ役"}],"r_ele":[{"r":"ひつけやく","p":true}],"sense":[{"gloss":"instigator, originator, initiator, torch bearer, incendiary, agitator, troublemaker","pos":["n"]}]},"sdata":[]}

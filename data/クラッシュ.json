@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クラッシュ","p":true}],"sense":[{"gloss":"crash","pos":["n","vs"]},{"gloss":"kurash (wrestling)","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓のパソコンはウイルスで|クラッシュ|してしまった。","e":"My computer crashed due to a virus."}]}

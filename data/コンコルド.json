@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンコルド","p":true}],"sense":[{"gloss":"concord","pos":["n"]},{"gloss":"Concord","pos":["n"]},{"gloss":"Concorde","pos":["n"],"l":"fre"}]},"sdata":[{"j":"↑超↑↓ちょう↓↑高速↑↓こうそく↓が|コンコルド|↑機↑↓き↓の↑特徴↑↓とくちょう↓だ。","e":"Great speed is a feature of the Concorde."}]}

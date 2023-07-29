@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本格化","p":true}],"r_ele":[{"r":"ほんかくか","p":true}],"sense":[{"gloss":"regularization, regularisation, getting up speed, proceeding at full tilt","pos":["n","vs"]}]},"sdata":[]}

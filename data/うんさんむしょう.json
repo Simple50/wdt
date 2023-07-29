@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雲散霧消","p":true}],"r_ele":[{"r":"うんさんむしょう","p":true}],"sense":[{"gloss":"vanishing like mist","pos":["n","vs","vi"]}],"m":["yoji"]},"sdata":[{"j":"この↑議論↑↓ぎろん↓の↑妥当↑↓だとう↓↑性↑↓せい↓に↑関↑↓かん↓する↑疑問↑↓ぎもん↓はデータを↑見↑↓み↓れば↑雲散霧消↑↓|うんさんむしょう|↓する。","e":"Any doubts about the validity of this argument are promptly forgotten once we see the data."}]}

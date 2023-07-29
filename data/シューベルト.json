@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シューベルト","p":true}],"sense":[{"gloss":"Schubert","pos":["n"]}]},"sdata":[]}

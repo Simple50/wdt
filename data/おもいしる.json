@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い知る","p":true}],"r_ele":[{"r":"おもいしる","p":true}],"sense":[{"gloss":"to realize, to realise","pos":["v5r","vt"]}]},"sdata":[]}

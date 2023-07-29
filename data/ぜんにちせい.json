@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"全日制","p":true}],"r_ele":[{"r":"ぜんにちせい","p":true}],"sense":[{"gloss":"the full-day (school system)","pos":["n"]}]},"sdata":[]}

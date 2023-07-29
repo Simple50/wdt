@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低木","p":true}],"r_ele":[{"r":"ていぼく","p":true}],"sense":[{"gloss":"shrub, shrubbery","pos":["n"]}]},"sdata":[]}

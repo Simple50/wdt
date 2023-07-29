@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"南氷洋","p":true}],"r_ele":[{"r":"なんひょうよう","p":true},{"r":"なんぴょうよう"}],"sense":[{"gloss":"Antarctic Ocean","pos":["n"]}]},"sdata":[]}

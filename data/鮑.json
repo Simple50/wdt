@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鮑","p":true},{"e":"鰒"},{"e":"石決明"},{"e":"蚫"}],"r_ele":[{"r":"あわび","p":true},{"r":"アワビ"}],"sense":[{"gloss":"abalone, ear shell","pos":["n"]}],"m":["uk"]},"kdata":{"鮑":{"on":["ホ","ホウ"],"kun":["あわび"],"meanings":["abalone"],"comp":[["包","魚"]],"freq":3533}},"sdata":[]}

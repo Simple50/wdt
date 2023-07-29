@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小骨","p":true}],"r_ele":[{"r":"こぼね","p":true}],"sense":[{"gloss":"small bones","pos":["n","adj-no"]}]},"sdata":[{"j":"この↑魚↑↓さかな↓はずいぶん↑小骨↑↓|こぼね|↓が↑多↑↓おお↓いな。","e":"This fish has a lot of small bones in it."},{"j":"この↑魚↑↓さかな↓、↑小骨↑↓|こぼね|↓が↑多↑↓おお↓いね。","e":"This fish has a lot of small bones in it."}]}

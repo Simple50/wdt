@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"健康食品","p":true}],"r_ele":[{"r":"けんこうしょくひん","p":true}],"sense":[{"gloss":"health foods","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑健康↑↓|けんこう↓↑食品↑↓しょくひん|↓に↑関心↑↓かんしん↓を↑持↑↓も↓っている。","e":"She is concerned with health foods."}]}

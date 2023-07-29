@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"企む","p":true}],"r_ele":[{"r":"たくらむ","p":true}],"sense":[{"gloss":"to scheme, to plan, to play a trick, to invent, to conspire, to frame up","pos":["v5m","vt"]}],"m":["uk"]},"kdata":{"企":{"on":["キ"],"kun":["くわだ.てる","たくら.む"],"jlpt":1,"meanings":["undertake","scheme","design","attempt","plan"],"freq":278,"comp":[["𠆢","止"]],"t":302}},"sdata":[]}

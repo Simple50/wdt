@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主眼","p":true}],"r_ele":[{"r":"しゅがん","p":true}],"sense":[{"gloss":"main purpose, chief aim, focus","pos":["n"]},{"gloss":"main point, gist, essence","pos":["n"]}]},"sdata":[{"j":"どっちに↑主眼↑↓|しゅがん|↓をおくかでどちらでもいいでしょ。","e":"Depending on which you think of as the main point, either is OK."}]}

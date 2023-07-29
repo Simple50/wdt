@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"監査役","p":true}],"r_ele":[{"r":"かんさやく","p":true}],"sense":[{"gloss":"auditor, inspector","pos":["n"]}]},"sdata":[]}

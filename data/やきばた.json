@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼き畑","p":true},{"e":"焼畑"}],"r_ele":[{"r":"やきばた","p":true},{"r":"やきはた"},{"r":"やきばたけ"},{"r":"やいばた","i":["ok"]}],"sense":[{"gloss":"land made arable by the slash-and-burn method, swidden, slash-and-burn farming","pos":["n"]}]},"sdata":[]}

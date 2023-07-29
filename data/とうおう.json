@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"東欧","p":true}],"r_ele":[{"r":"とうおう","p":true}],"sense":[{"gloss":"Eastern Europe","pos":["n"],"x":["西欧・1"]}]},"sdata":[]}

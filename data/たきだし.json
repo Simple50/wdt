@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"炊き出し","p":true},{"e":"炊出し","p":true},{"e":"焚き出し"},{"e":"焚出し"}],"r_ele":[{"r":"たきだし","p":true}],"sense":[{"gloss":"food distribution (esp. cooked rice)","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はプラスチックの↑玩具↑↓おもちゃ↓のバットで↑大↑↓おお↓きな↑蛇↑↓へび↓をた|たき↑出↑↓だ↓し|た。","e":"She beat off a big snake with a plastic toy bat."}]}

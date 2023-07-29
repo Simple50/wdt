@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"航空宇宙技術研究所","p":true}],"r_ele":[{"r":"こうくううちゅうぎじゅつけんきゅうじょ","p":true}],"sense":[{"gloss":"National Aerospace Laboratory, NAL","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"魚群","p":true}],"r_ele":[{"r":"ぎょぐん","p":true}],"sense":[{"gloss":"school of fish","pos":["n"]}]},"sdata":[]}

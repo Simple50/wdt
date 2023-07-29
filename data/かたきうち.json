@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敵討ち","p":true},{"e":"敵討"},{"e":"仇討ち"},{"e":"かたき討ち"}],"r_ele":[{"r":"かたきうち","p":true}],"sense":[{"gloss":"vengeance, revenge, retaliation","pos":["n","vs","vi"],"x":["仇討ち"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無届け","p":true},{"e":"無届"}],"r_ele":[{"r":"むとどけ","p":true}],"sense":[{"gloss":"without notice, without leave (e.g. absence)","pos":["n"]},{"gloss":"unregistered, unreported (e.g. marriage, business, etc.)","pos":["n"]}]},"sdata":[]}

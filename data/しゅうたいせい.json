@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"集大成","p":true}],"r_ele":[{"r":"しゅうたいせい","p":true}],"sense":[{"gloss":"(large) compilation","pos":["n","vs"]},{"gloss":"culmination (of hard work)","pos":["n"]}]},"sdata":[]}

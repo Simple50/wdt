@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旧盆","p":true}],"r_ele":[{"r":"きゅうぼん","p":true}],"sense":[{"gloss":"Bon Festival of the lunar calendar","pos":["n"]}]},"sdata":[]}

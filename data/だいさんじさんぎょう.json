@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"第三次産業","p":true}],"r_ele":[{"r":"だいさんじさんぎょう","p":true}],"sense":[{"gloss":"tertiary industry","pos":["n"]}]},"sdata":[]}

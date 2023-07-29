@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山荘","p":true}],"r_ele":[{"r":"さんそう","p":true}],"sense":[{"gloss":"mountain villa, mountain retreat, mountain cottage","pos":["n"]}]},"sdata":[{"j":"そのあてもないのに、↑父親↑↓ちちおや↓の↑財産↑↓ざい|さん↓↑相続↑↓そう|ぞく↓を↑口↑↓くち↓にするとは、ボッブも↑根↑↓ね↓も↑葉↑↓は↓もないことをいう↑人↑↓ひと↓だ。","e":"Bob went about building his castle in Spain when he spoke of inheriting his father's wealth."}]}

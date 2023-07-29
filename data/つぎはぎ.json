@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"継ぎ接ぎ"},{"e":"継ぎはぎ","p":true},{"e":"継接ぎ"}],"r_ele":[{"r":"つぎはぎ","p":true},{"r":"ツギハギ"}],"sense":[{"gloss":"patching (clothing), darning","pos":["n","vs"]},{"gloss":"cobbling together (other people's writings, thoughts, etc.), gathering","pos":["n","vs","adj-no"]}],"m":["uk"]},"sdata":[]}

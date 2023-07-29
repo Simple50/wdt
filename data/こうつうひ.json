@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"交通費","p":true}],"r_ele":[{"r":"こうつうひ","p":true}],"sense":[{"gloss":"traveling expenses, travelling expenses, carfare","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちの↑毎月↑↓まいつき↓の↑収入↑↓しゅうにゅう↓は、↑食料↑↓しょくりょう↓、↑部屋↑↓へや↓↑代↑↓だい↓、↑衣料↑↓いりょう↓、↑交通↑↓|こうつう↓↑費↑↓ひ|↓などをカバーできなければならない。","e":"Our monthly income has to cover food, rent, clothing, transportation, and so on."}]}

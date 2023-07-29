@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"元禄","p":true}],"r_ele":[{"r":"げんろく","p":true}],"sense":[{"gloss":"Genroku era (1688.9.30-1704.3.13)","pos":["n"]}],"m":["hist"]},"sdata":[]}

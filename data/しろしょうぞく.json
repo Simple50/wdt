@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白装束","p":true}],"r_ele":[{"r":"しろしょうぞく","p":true}],"sense":[{"gloss":"white clothing","pos":["n"]}]},"sdata":[]}

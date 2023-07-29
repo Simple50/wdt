@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"頭金","p":true}],"r_ele":[{"r":"あたまきん","p":true}],"sense":[{"gloss":"down payment, deposit","pos":["n"]}]},"sdata":[{"j":"お↑金↑↓かね↓を↑貯↑↓た↓めて↑頭金↑↓|あたまきん|↓を↑作↑↓つく↓れますか。","e":"Can you save enough money for the down payment?"},{"j":"↑二↑↓に↓↑人↑↓にん↓はローンの↑頭金↑↓|あたまきん|↓を↑捻出↑↓ねんしゅつ↓できなかった。","e":"The couple wasn't able to produce the down payment for the loan."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"画用紙","p":true}],"r_ele":[{"r":"がようし","p":true}],"sense":[{"gloss":"drawing paper","pos":["n"]}]},"sdata":[{"j":"↑蜂↑↓はち↓|が↑容赦↑↓ようし|ゃ↓なく↑襲↑↓おそ↓ってきた。","e":"A swarm of bees attacked us without mercy."},{"j":"メアリーは↑自分↑↓じぶん↓|が↑容姿↑↓ようし|↓↑端麗↑↓たんれい↓であると↑分↑↓わ↓かっていた。","e":"Mary knew that she was good-looking."}]}

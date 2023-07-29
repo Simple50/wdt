@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"表立って","p":true},{"e":"表だって"}],"r_ele":[{"r":"おもてだって","p":true}],"sense":[{"gloss":"publicly, openly, ostensibly, formally","pos":["exp"]}]},"sdata":[]}

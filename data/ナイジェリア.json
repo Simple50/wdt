@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナイジェリア","p":true}],"sense":[{"gloss":"Nigeria","pos":["n"]}]},"sdata":[{"j":"|ナイジェリア|はかつてイギリスの↑植民↑↓しょくみん↓↑地↑↓ち↓であった。","e":"At one time Nigeria was a British colony."}]}

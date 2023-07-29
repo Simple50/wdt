@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"馬尼剌","i":["ateji"]}],"r_ele":[{"r":"マニラ","p":true}],"sense":[{"gloss":"Manila (Philippines)","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑船↑↓ふね↓は↑明日↑↓あした↓|マニラ|に↑向↑↓む↓けて↑出発↑↓しゅっぱつ↓する。","e":"The ship is about to sail for Manila tomorrow."},{"j":"トムは|マニラ|↑封筒↑↓ふうとう↓をメアリーに↑渡↑↓わた↓した。","e":"Tom gave the manila envelope to Mary."}]}

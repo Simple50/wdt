@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"澄み切った","p":true},{"e":"澄みきった"}],"r_ele":[{"r":"すみきった","p":true}],"sense":[{"gloss":"perfectly clear","pos":["adj-f"]}]},"sdata":[]}

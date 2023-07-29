@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グリークラブ","p":true},{"r":"グリー・クラブ"}],"sense":[{"gloss":"glee club","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は|グリークラブ|のメンバーです。","e":"I'm a member of the glee club."},{"j":"|グリークラブ|に↑入↑↓はい↓るつもりなの？","e":"Are you going to join the glee club?"}]}

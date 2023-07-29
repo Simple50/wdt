@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"明星","p":true}],"r_ele":[{"r":"みょうじょう","p":true}],"sense":[{"gloss":"morning star, Venus","pos":["n"],"x":["金星・きんせい"]},{"gloss":"preeminent person (within their own field), star (of the stage, silver screen, etc.)","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちはそれを↑宵↑↓よい↓の↑明星↑↓|みょうじょう|↓と↑呼↑↓よ↓ぶ。","e":"We call it the Evening Star."}]}

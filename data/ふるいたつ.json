@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奮い立つ","p":true}],"r_ele":[{"r":"ふるいたつ","p":true}],"sense":[{"gloss":"to cheer up, to be encouraged (by), to be in high spirits","pos":["v5t","vi"],"x":["勇み立つ・いさみたつ"]}]},"sdata":[]}

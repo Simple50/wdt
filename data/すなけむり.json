@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砂煙","p":true}],"r_ele":[{"r":"すなけむり","p":true}],"sense":[{"gloss":"cloud of sand (dust, etc.)","pos":["n"]}]},"sdata":[]}

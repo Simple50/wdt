@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウィジェット","p":true}],"sense":[{"gloss":"widget","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"↑Ｗｅｂ↑↓うぇぶ↓マーケティングの↑弱点↑↓じゃくてん↓を↑克服↑↓こくふく↓する|ウィジェット|。","e":"The widget that overcomes Web-Marketing's weaknesses."}]}

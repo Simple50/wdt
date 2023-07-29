@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"底堅い","p":true}],"r_ele":[{"r":"そこがたい","p":true}],"sense":[{"gloss":"stable (market) after having bottomed out","pos":["adj-i"]}]},"sdata":[]}

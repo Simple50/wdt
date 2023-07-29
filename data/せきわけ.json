@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"関脇","p":true}],"r_ele":[{"r":"せきわけ","p":true}],"sense":[{"gloss":"wrestler of the third highest rank","pos":["n"],"f":["sumo"]}]},"sdata":[]}

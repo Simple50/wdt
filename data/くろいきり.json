@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒い霧","p":true}],"r_ele":[{"r":"くろいきり","p":true}],"sense":[{"gloss":"thick fog (of suspicion), black veil of secrecy, covered-up crime, unethical act, etc.","pos":["exp","n"]}]},"sdata":[]}

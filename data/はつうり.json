@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初売り","p":true}],"r_ele":[{"r":"はつうり","p":true}],"sense":[{"gloss":"first business conducted by retailers in the New Year","pos":["n"],"x":["初買い"]}]},"sdata":[]}

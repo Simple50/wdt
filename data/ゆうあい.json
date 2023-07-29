@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"友愛","p":true}],"r_ele":[{"r":"ゆうあい","p":true}],"sense":[{"gloss":"fraternity, friendship","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑友愛会↑↓|ゆうあい|かい↓の↑会員↑↓かいいん↓だ。","e":"He is a member of the fraternity."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薬師如来","p":true}],"r_ele":[{"r":"やくしにょらい","p":true}],"sense":[{"gloss":"Bhaisajyaguru (buddha able to cure all ills)","pos":["n"]}]},"sdata":[]}

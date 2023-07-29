@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"憤る","p":true}],"r_ele":[{"r":"いきどおる","p":true}],"sense":[{"gloss":"to be angry, to resent, to be enraged, to be indignant","pos":["v5r","vi"]}]},"kdata":{"憤":{"on":["フン"],"kun":["いきどお.る"],"jlpt":1,"meanings":["aroused","resent","be indignant","anger"],"freq":1863,"comp":[["賁","忄"]],"t":1998}},"sdata":[]}

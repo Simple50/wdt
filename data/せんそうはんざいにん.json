@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戦争犯罪人","p":true}],"r_ele":[{"r":"せんそうはんざいにん","p":true}],"sense":[{"gloss":"war criminal","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薬草","p":true}],"r_ele":[{"r":"やくそう","p":true}],"sense":[{"gloss":"medicinal herb","pos":["n"]}]},"sdata":[{"j":"トムね、↑本↑↓ほん↓をフランス↑語↑↓ご↓に↑訳↑↓|やく↓そう|としたんだ。","e":"Tom tried to translate a book into French."}]}

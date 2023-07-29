@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プレイリスト","p":true}],"sense":[{"gloss":"playlist","pos":["n"]}]},"sdata":[{"j":"あれ？この↑曲↑↓きょく↓・・・。|プレイリスト|が↑一周↑↓いっしゅう↓してるな。","e":"Eh? This tune ... The playlist has looped."}]}

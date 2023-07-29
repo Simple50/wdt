@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒ずむ","p":true}],"r_ele":[{"r":"くろずむ","p":true}],"sense":[{"gloss":"to blacken, to darken","pos":["v5m","vi"]}]},"kdata":{"黒":{"on":["コク"],"kun":["くろ","くろ.ずむ","くろ.い"],"jlpt":4,"meanings":["black"],"freq":573,"comp":[["里","灬"]],"d":["纒"],"v":"黑","t":1423}},"sdata":[]}

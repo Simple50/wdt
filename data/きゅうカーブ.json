@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"急カーブ","p":true}],"r_ele":[{"r":"きゅうカーブ","p":true}],"sense":[{"gloss":"sharp curve, sharp turn","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑右↑↓みぎ↓に↑急↑↓|きゅう↓カーブ|した。","e":"He made a sharp turn to the right."}]}

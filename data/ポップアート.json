@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポップアート","p":true},{"r":"ポップ・アート"}],"sense":[{"gloss":"pop art","pos":["n"]}]},"sdata":[]}

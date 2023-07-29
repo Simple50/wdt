@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銅板","p":true}],"r_ele":[{"r":"どうばん","p":true}],"sense":[{"gloss":"sheet copper","pos":["n"]}]},"sdata":[]}

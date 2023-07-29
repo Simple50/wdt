@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エッセンス","p":true}],"sense":[{"gloss":"essence, extract","pos":["n"]}]},"sdata":[]}

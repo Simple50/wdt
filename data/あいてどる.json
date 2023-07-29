@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相手取る","p":true},{"e":"相手どる"}],"r_ele":[{"r":"あいてどる","p":true}],"sense":[{"gloss":"to challenge (esp. in a lawsuit), to take on an opponent (in negotiations, contest, etc.)","pos":["exp","v5r","vt"]}]},"sdata":[]}

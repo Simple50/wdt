@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極楽","p":true}],"r_ele":[{"r":"ごくらく","p":true}],"sense":[{"gloss":"Sukhavati (Amitabha's Pure Land)","pos":["n"],"f":["Buddh"],"m":["abbr"],"x":["極楽浄土"]},{"gloss":"paradise, heaven on earth","pos":["n"]}]},"sdata":[{"j":"↑地獄↑↓じごく↓↑極楽↑↓|ごくらく|↓は↑心↑↓こころ↓にあり。","e":"Heaven and hell exist in the hearts of man."}]}

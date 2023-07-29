@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不利益","p":true}],"r_ele":[{"r":"ふりえき","p":true}],"sense":[{"gloss":"disadvantage, handicap, drawback, inadvisability, inexpediency, loss","pos":["n","adj-na"]}]},"sdata":[]}

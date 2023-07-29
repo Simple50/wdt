@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マーキュリー","p":true},{"r":"メルクリウス"}],"sense":[{"gloss":"Mercury (Roman god)","pos":["n"],"x":["ヘルメス"]},{"gloss":"Mercury (planet)","pos":["n"],"f":["astron"],"x":["水星・すいせい"]},{"gloss":"mercury (Hg)","pos":["n"],"x":["水銀・すいぎん"]}]},"sdata":[]}

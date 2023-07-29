@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"工作機械","p":true}],"r_ele":[{"r":"こうさくきかい","p":true}],"sense":[{"gloss":"machine tool","pos":["n"]}]},"sdata":[]}

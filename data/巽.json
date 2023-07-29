@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巽","p":true}],"r_ele":[{"r":"そん","p":true}],"sense":[{"gloss":"xun (one of the trigrams of the I Ching: wind, southeast)","pos":["n"]}]},"kdata":{"巽":{"on":["ソン"],"kun":["たつみ"],"meanings":["southeast"],"freq":2061,"comp":[["共","己"]],"d":["選","撰","饌","僎","噀","簨","蟤","譔","鐉","潠"],"jlpt":0}},"sdata":[]}

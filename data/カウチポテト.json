@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カウチポテト","p":true},{"r":"カウチ・ポテト"}],"sense":[{"gloss":"couch potato, television addict","pos":["n"]}]},"sdata":[{"j":"|カウチポテト|には、↑私↑↓わたし↓はなりたくない。","e":"A couch potato is something that I don't want to be."}]}

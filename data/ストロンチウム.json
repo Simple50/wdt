@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ストロンチウム","p":true}],"sense":[{"gloss":"strontium (Sr)","pos":["n"]}]},"sdata":[{"j":"|ストロンチウム|↑９０↑↓きゅうじゅう↓：|ストロンチウム|の↑放射↑↓ほうしゃ↓↑性↑↓せい↓↑同位↑↓どうい↓↑体↑↓たい↓の↑一↑↓ひと↓つ；↑放射↑↓ほうしゃ↓↑性↑↓せい↓↑降下↑↓こうか↓↑物↑↓ぶつ↓に↑含↑↓ふく↓まれ↑人体↑↓じんたい↓に↑有害↑↓ゆうがい↓。","e":"Strontium 90: One of the radioisotopes of strontium; part of radioactive fallout, harmful to human health."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無抵抗","p":true}],"r_ele":[{"r":"むていこう","p":true}],"sense":[{"gloss":"nonresistance","pos":["adj-na","n"]}]},"sdata":[]}

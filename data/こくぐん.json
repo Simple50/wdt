@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国軍","p":true}],"r_ele":[{"r":"こくぐん","p":true}],"sense":[{"gloss":"national armed forces","pos":["n"]}]},"sdata":[]}

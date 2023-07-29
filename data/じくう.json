@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"時空","p":true}],"r_ele":[{"r":"じくう","p":true}],"sense":[{"gloss":"space-time","pos":["n","adj-no"]}]},"sdata":[]}

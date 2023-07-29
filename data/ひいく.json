@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肥育","p":true}],"r_ele":[{"r":"ひいく","p":true}],"sense":[{"gloss":"fattening","pos":["n","vs","vt"]}]},"sdata":[]}

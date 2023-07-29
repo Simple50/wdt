@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"投票所","p":true}],"r_ele":[{"r":"とうひょうしょ","p":true},{"r":"とうひょうじょ"}],"sense":[{"gloss":"polling place, polling station","pos":["n"]}]},"sdata":[]}

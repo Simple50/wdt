@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍手","p":true}],"r_ele":[{"r":"ぐんて","p":true}],"sense":[{"gloss":"cotton gloves, working gloves","pos":["n"]}]},"sdata":[{"j":"「これは・・・」「↑軍手↑↓|ぐんて|↓とスコップ。↑園芸↑↓えんげい↓↑部↑↓ぶ↓↑基本↑↓きほん↓↑道具↑↓どうぐ↓のひとつだよ」","e":"This is ... \"Working glove and trowel. One of a gardening club's basic tools\""}]}

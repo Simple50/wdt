@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"必読","p":true}],"r_ele":[{"r":"ひつどく","p":true}],"sense":[{"gloss":"must-read, required reading","pos":["n","adj-no"]}]},"sdata":[]}

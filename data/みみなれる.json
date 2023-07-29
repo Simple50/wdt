@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"耳慣れる","p":true},{"e":"耳馴れる","i":["rK"]},{"e":"耳なれる","i":["sK"]}],"r_ele":[{"r":"みみなれる","p":true}],"sense":[{"gloss":"to become familiar (to one's ears)","pos":["v1","vi"]}]},"sdata":[]}

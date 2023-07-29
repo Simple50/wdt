@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アソシエーション","p":true},{"r":"アソシエイション"}],"sense":[{"gloss":"association","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盲導犬","p":true}],"r_ele":[{"r":"もうどうけん","p":true}],"sense":[{"gloss":"guide dog, seeing-eye dog","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑盲導犬↑↓|もうどうけん|↓として↑訓練↑↓くんれん↓された↑犬↑↓いぬ↓を↑飼↑↓か↓っている。","e":"I have a dog trained as a seeing eye dog."},{"j":"↑盲導犬↑↓|もうどうけん|↓は↑目↑↓め↓の↑見↑↓み↓えない↑人↑↓ひと↓を↑助↑↓たす↓ける。","e":"Guide dogs help blind people."}]}

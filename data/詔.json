@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詔","p":true},{"e":"勅","p":true},{"e":"御言宣"}],"r_ele":[{"r":"みことのり","p":true},{"r":"ちょく","p":true},{"r":"しょう"}],"sense":[{"gloss":"imperial decree, imperial edict","pos":["n"]}]},"kdata":{"詔":{"on":["ショウ"],"kun":["みことのり"],"jlpt":1,"meanings":["imperial edict"],"freq":2239,"comp":[["召","言"]]}},"sdata":[]}

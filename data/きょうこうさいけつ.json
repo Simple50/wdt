@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強行採決","p":true}],"r_ele":[{"r":"きょうこうさいけつ","p":true}],"sense":[{"gloss":"forced passage of a bill, steamroller voting, steamrollering","pos":["n","vs","vt"]}]},"sdata":[]}

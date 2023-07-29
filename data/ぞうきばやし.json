@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雑木林","p":true}],"r_ele":[{"r":"ぞうきばやし","p":true},{"r":"ぞうぼくりん"}],"sense":[{"gloss":"grove of miscellaneous trees, copse, coppice, thicket","pos":["n"]}]},"sdata":[]}

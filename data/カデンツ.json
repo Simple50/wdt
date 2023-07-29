@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カデンツ","p":true}],"sense":[{"gloss":"cadence","pos":["n"],"f":["music"],"l":"ger: Kadenz"}]},"sdata":[]}

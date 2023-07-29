@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アイスホッケー","p":true},{"r":"アイス・ホッケー"}],"sense":[{"gloss":"ice hockey","pos":["n"]}]},"sdata":[{"j":"|アイスホッケー|はわくわくするスポーツです。","e":"Ice hockey is an exciting sport."},{"j":"トムは|アイスホッケー|をしたよ。","e":"Tom played ice hockey."}]}

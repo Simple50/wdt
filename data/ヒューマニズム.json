@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヒューマニズム","p":true}],"sense":[{"gloss":"humanism","pos":["n"]}]},"sdata":[]}

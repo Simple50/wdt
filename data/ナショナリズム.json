@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナショナリズム","p":true}],"sense":[{"gloss":"nationalism","pos":["n"]}]},"sdata":[{"j":"|ナショナリズム|をファシズムと↑同一↑↓どういつ↓↑視↑↓し↓してはいけない。","e":"You can't equate nationalism with fascism."}]}

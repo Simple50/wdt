@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前倒し","p":true}],"r_ele":[{"r":"まえだおし","p":true}],"sense":[{"gloss":"moving forward (e.g. plans), acceleration (e.g. of payment schedule), front-loading","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"町人","p":true}],"r_ele":[{"r":"ちょうにん","p":true},{"r":"まちにん","i":["ok"]}],"sense":[{"gloss":"chōnin (Edo-period social class of town-dwelling commoners, esp. landowning merchants), townspeople, townsfolk, tradespeople","pos":["n"]}],"m":["hist"]},"sdata":[]}

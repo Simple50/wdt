@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押しつぶす","p":true},{"e":"押し潰す"},{"e":"圧し潰す"},{"e":"押潰す","i":["io"]},{"e":"圧潰す","i":["io"]},{"e":"圧しつぶす"}],"r_ele":[{"r":"おしつぶす","p":true}],"sense":[{"gloss":"to squash, to crush, to flatten","pos":["v5s","vt"]}]},"sdata":[]}

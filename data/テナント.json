@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テナント","p":true}],"sense":[{"gloss":"tenant (usu. office block, shopping center, etc.)","pos":["n"]}]},"sdata":[]}

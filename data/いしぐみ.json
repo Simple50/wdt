@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"石組み","p":true},{"e":"石組"}],"r_ele":[{"r":"いしぐみ","p":true}],"sense":[{"gloss":"arrangement of stones in a garden","pos":["n"]}]},"sdata":[]}

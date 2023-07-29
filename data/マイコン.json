@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マイコン","p":true}],"sense":[{"gloss":"microcomputer, personal computer, home computer","pos":["n"],"f":["comp"],"m":["abbr"],"x":["マイクロコンピュータ"]},{"gloss":"micro-controller, micro-processor, MCU","pos":["n"]},{"gloss":"moving (animated) icon","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は、ジミーに|マイコン|をかってやった。","e":"I bought Jimmy a home computer."}]}

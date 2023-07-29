@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一味違う","p":true},{"e":"ひと味違う"}],"r_ele":[{"r":"ひとあじちがう","p":true}],"sense":[{"gloss":"to be somewhat different (from before, from others, etc.)","pos":["exp","v5u"]}]},"sdata":[]}

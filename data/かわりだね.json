@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変わり種","p":true},{"e":"変り種"}],"r_ele":[{"r":"かわりだね","p":true}],"sense":[{"gloss":"something out of the ordinary, variant, variety, exception, novelty","pos":["n"]},{"gloss":"person with an unusual character or background, unique figure, exceptional type, eccentric, oddball","pos":["n"]}]},"sdata":[]}

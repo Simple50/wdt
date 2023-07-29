@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"割り引く","p":true},{"e":"割引く"}],"r_ele":[{"r":"わりびく","p":true}],"sense":[{"gloss":"to discount, to reduce (the price), to take off (a percentage)","pos":["v5k","vt"]},{"gloss":"to take with a grain of salt, to not take at face value, to discount","pos":["v5k","vt"]}]},"sdata":[]}

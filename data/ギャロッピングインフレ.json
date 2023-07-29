@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ギャロッピングインフレ","p":true},{"r":"ギャロッピング・インフレ"}],"sense":[{"gloss":"galloping inflation","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不信任","p":true}],"r_ele":[{"r":"ふしんにん","p":true}],"sense":[{"gloss":"non-confidence, lack of confidence","pos":["n"]}]},"sdata":[]}

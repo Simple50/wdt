@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"動脈硬化","p":true}],"r_ele":[{"r":"どうみゃくこうか","p":true}],"sense":[{"gloss":"arteriosclerosis, hardening of the arteries","pos":["n","vs"],"f":["med"]}]},"sdata":[]}

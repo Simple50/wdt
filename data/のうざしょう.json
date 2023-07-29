@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脳挫傷","p":true}],"r_ele":[{"r":"のうざしょう","p":true}],"sense":[{"gloss":"cerebral contusion","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑脳↑↓|のう↓↑挫傷↑↓ざしょう|↓を↑起↑↓お↓こした。","e":"I had a cerebral contusion."}]}

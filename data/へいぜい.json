@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平生","p":true}],"r_ele":[{"r":"へいぜい","p":true}],"sense":[{"gloss":"usual, ordinary","pos":["adj-no","n","adv"]}]},"sdata":[]}

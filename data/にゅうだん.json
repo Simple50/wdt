@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入団","p":true}],"r_ele":[{"r":"にゅうだん","p":true}],"sense":[{"gloss":"joining (a group, team, etc.), enrollment, enrolment","pos":["n","vs","vi"],"ant":["退団"]}]},"sdata":[]}

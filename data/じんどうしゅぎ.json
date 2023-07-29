@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人道主義","p":true}],"r_ele":[{"r":"じんどうしゅぎ","p":true}],"sense":[{"gloss":"humanism, humanitarianism","pos":["n"]}],"m":["yoji"]},"sdata":[]}

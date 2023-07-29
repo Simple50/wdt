@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大司教","p":true}],"r_ele":[{"r":"だいしきょう","p":true}],"sense":[{"gloss":"archbishop (Catholic)","pos":["n"],"x":["大主教"]}]},"sdata":[]}

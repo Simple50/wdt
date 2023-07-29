@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"将来的","p":true}],"r_ele":[{"r":"しょうらいてき","p":true}],"sense":[{"gloss":"future, possible, potential, prospective","pos":["adj-na"]}]},"sdata":[{"j":"↑将来↑↓|しょうらい↓↑的↑↓てき|↓には、ここに↑地下鉄↑↓ちかてつ↓の↑駅↑↓えき↓ができると↑思↑↓おも↓うんだ。","e":"In the future, I think there'll be a subway station here."}]}

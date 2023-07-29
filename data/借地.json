@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"借地","p":true}],"r_ele":[{"r":"しゃくち","p":true}],"sense":[{"gloss":"leased land","pos":["n","vs","vt","vi"]}]},"kdata":{"借":{"on":["シャク"],"kun":["か.りる"],"jlpt":4,"meanings":["borrow","rent"],"freq":932,"comp":[["昔","亻"]],"t":1014},"地":{"on":["チ","ジ"],"jlpt":4,"meanings":["ground","earth"],"freq":40,"comp":[["土","也"]],"t":335}},"sdata":[]}

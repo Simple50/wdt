@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"朝焼け","p":true},{"e":"朝焼","i":["io"]}],"r_ele":[{"r":"あさやけ","p":true}],"sense":[{"gloss":"morning glow, sunrise colors, sunrise colours","pos":["n"]}]},"sdata":[]}

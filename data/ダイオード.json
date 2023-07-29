@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダイオード","p":true},{"r":"ダイオド"}],"sense":[{"gloss":"diode","pos":["n"]}]},"sdata":[]}

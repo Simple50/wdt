@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"反陽子","p":true}],"r_ele":[{"r":"はんようし","p":true}],"sense":[{"gloss":"antiproton","pos":["n"],"f":["physics"]}]},"sdata":[]}

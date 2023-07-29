@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き当てる","p":true},{"e":"引当てる"},{"e":"引当る","i":["io"]}],"r_ele":[{"r":"ひきあてる","p":true}],"sense":[{"gloss":"to draw (the winning ticket)","pos":["v1","vt"]},{"gloss":"to apply, to compare, to put (oneself in someone's position)","pos":["v1","vt"],"x":["当てはめる"]}]},"sdata":[]}

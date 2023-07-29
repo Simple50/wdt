@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不死身","p":true}],"r_ele":[{"r":"ふじみ","p":true}],"sense":[{"gloss":"invulnerability, immortality, insensibility to pain","pos":["adj-na","n"]}]},"sdata":[{"j":"アキレスはかかとを↑除↑↓のぞ↓いては↑不死身↑↓|ふじみ|↓だった。","e":"Apart from his heel, Achilles was invulnerable."},{"j":"↑本当↑↓ほんとう↓に↑不死身↑↓|ふじみ|↓になりたいか？","e":"Do you really want to be immortal?"}]}

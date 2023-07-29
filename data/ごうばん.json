@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合板","p":true}],"r_ele":[{"r":"ごうはん","p":true},{"r":"ごうばん","p":true}],"sense":[{"gloss":"veneer board, plywood","pos":["n"]},{"gloss":"joint publication","pos":["n"]}]},"sdata":[]}

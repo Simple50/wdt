@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平年並み","p":true}],"r_ele":[{"r":"へいねんなみ","p":true}],"sense":[{"gloss":"similar to that of an average year, in line with an average year, normal","pos":["adj-no"]}]},"sdata":[{"j":"↑農作物↑↓のうさくもつ↓は↑平年↑↓|へいねん↓↑並↑↓な↓み|だ。","e":"The crops are up to the average."}]}

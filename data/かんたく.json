@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"干拓","p":true}],"r_ele":[{"r":"かんたく","p":true}],"sense":[{"gloss":"land reclamation (from sea)","pos":["n","vs","vt"]}]},"sdata":[]}

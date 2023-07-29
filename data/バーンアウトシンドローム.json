@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バーンアウトシンドローム","p":true},{"r":"バーンアウト・シンドローム"}],"sense":[{"gloss":"burn-out syndrome","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホームイン","p":true},{"r":"ホーム・イン"}],"sense":[{"gloss":"getting home","pos":["n","vs","vi"],"f":["baseb"],"l":"eng: home in"}]},"sdata":[]}

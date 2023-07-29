@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"八景","p":true}],"r_ele":[{"r":"はっけい","p":true}],"sense":[{"gloss":"eight picturesque sights","pos":["n"]}]},"sdata":[]}

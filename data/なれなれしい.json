@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"馴れ馴れしい","p":true},{"e":"馴々しい","i":["sK"]}],"r_ele":[{"r":"なれなれしい","p":true}],"sense":[{"gloss":"overly familiar, overfamiliar, too friendly, too free, cheeky","pos":["adj-i"]}]},"sdata":[{"j":"↑初対面↑↓しょたいめん↓なのに、あの|なれなれしい|↑態度↑↓たいど↓は↑何↑↓なに↓なんだ。","e":"You're acting like you know me; this is the first time we've met!"}]}

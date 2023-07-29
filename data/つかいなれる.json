@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"使い慣れる","p":true},{"e":"使いなれる"},{"e":"使い馴れる"}],"r_ele":[{"r":"つかいなれる","p":true}],"sense":[{"gloss":"to get accustomed to using","pos":["v1"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒星","p":true}],"r_ele":[{"r":"くろぼし","p":true}],"sense":[{"gloss":"black spot, black dot, bull's-eye","pos":["n"]},{"gloss":"mark indicating a defeat","pos":["n"],"f":["sumo"],"x":["負け星・まけぼし"]},{"gloss":"loss, failure, mistake, faux pas","pos":["n"]}]},"sdata":[]}

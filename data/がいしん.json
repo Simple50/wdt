@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外信","p":true}],"r_ele":[{"r":"がいしん","p":true}],"sense":[{"gloss":"external communication","pos":["n"]}]},"sdata":[]}

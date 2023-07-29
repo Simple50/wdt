@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シルクロード","p":true},{"r":"シルク・ロード"}],"sense":[{"gloss":"Silk Road","pos":["n"]}]},"sdata":[{"j":"ガラス↑製品↑↓せいひん↓はペルシャから|シルクロード|を↑通↑↓とお↓ってきました。","e":"Glasswork came from Persia by way of the Silk Road."},{"j":"↑私↑↓わたし↓は|シルクロード|を↑訪↑↓おとず↓れたい↑気↑↓き↓が↑大↑↓おお↓きいにある。","e":"I have a good mind to visit the Silk Road."}]}

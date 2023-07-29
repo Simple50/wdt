@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベクトル","p":true}],"sense":[{"gloss":"vector","pos":["n"],"f":["math","physics"],"l":"ger: Vektor"}]},"sdata":[]}

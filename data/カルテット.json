@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カルテット","p":true},{"r":"クァルテット"},{"r":"クワルテット"}],"sense":[{"gloss":"quartet","pos":["n"],"f":["music"],"l":"ita: quartetto"}]},"sdata":[]}

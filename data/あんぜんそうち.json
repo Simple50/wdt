@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安全装置","p":true}],"r_ele":[{"r":"あんぜんそうち","p":true}],"sense":[{"gloss":"safety device","pos":["n"]}]},"sdata":[{"j":"この↑機械↑↓きかい↓には↑安全↑↓|あんぜん↓↑装置↑↓そうち|↓が↑付↑↓つ↓いていない。","e":"This machine doesn't have a safety device."}]}

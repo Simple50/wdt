@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロダクション","p":true}],"sense":[{"gloss":"production","pos":["n"]}]},"sdata":[{"j":"あの↑若↑↓わか↓い↑歌手↑↓かしゅ↓は、|プロダクション|が↑育↑↓そだ↓て↑上↑↓あ↓げた。","e":"The agent built up the young singer."}]}

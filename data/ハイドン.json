@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイドン","p":true}],"sense":[{"gloss":"Haydn","pos":["n"]}]},"sdata":[]}

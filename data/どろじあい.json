@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"泥仕合","p":true},{"e":"泥試合","i":["iK"]}],"r_ele":[{"r":"どろじあい","p":true}],"sense":[{"gloss":"mudslinging contest, mudslinging match","pos":["n"]}]},"sdata":[{"j":"↑選挙↑↓せんきょ↓↑戦↑↓せん↓はとうとう↑泥試合↑↓|どろじあい|↓になってしまった。","e":"The political campaign has turned into a dirty fight at last."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同率","p":true}],"r_ele":[{"r":"どうりつ","p":true}],"sense":[{"gloss":"the same ratio or percentage","pos":["n"]}]},"sdata":[]}

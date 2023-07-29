@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"若返る","p":true}],"r_ele":[{"r":"わかがえる","p":true}],"sense":[{"gloss":"to be rejuvenated, to feel young again","pos":["v5r","vi"]}]},"sdata":[]}

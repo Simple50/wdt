@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペンクラブ","p":true},{"r":"ペン・クラブ"}],"sense":[{"gloss":"PEN club, club for poets, play-wrights, essayists, editors, novelists","pos":["n"]}]},"sdata":[]}

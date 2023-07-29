@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"草分け","p":true}],"r_ele":[{"r":"くさわけ","p":true}],"sense":[{"gloss":"pathfinder, trailblazer, early settler","pos":["n"]},{"gloss":"pioneer, founder, originator, groundbreaker","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はこの↑分野↑↓ぶんや↓では↑草分↑↓|くさわ↓け|だ。","e":"He is a trailblazer in this field."}]}

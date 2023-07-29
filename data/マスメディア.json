@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マスメディア","p":true},{"r":"マス・メディア"}],"sense":[{"gloss":"mass media","pos":["n"]}]},"sdata":[{"j":"↑政府↑↓せいふ↓はともすれば|マスメディア|を↑統制↑↓とうせい↓したがる。","e":"The government tends to control the media."}]}

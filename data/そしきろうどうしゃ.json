@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"組織労働者","p":true}],"r_ele":[{"r":"そしきろうどうしゃ","p":true}],"sense":[{"gloss":"organized labour (organised, labor), unionized labour","pos":["n"]}]},"sdata":[]}

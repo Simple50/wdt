@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブルペン","p":true},{"r":"ブル・ペン"}],"sense":[{"gloss":"bull pen","pos":["n"],"f":["baseb"]}]},"sdata":[]}

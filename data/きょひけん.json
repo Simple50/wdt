@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"拒否権","p":true}],"r_ele":[{"r":"きょひけん","p":true}],"sense":[{"gloss":"right of veto","pos":["n"]}]},"sdata":[{"j":"↑大統領↑↓だいとうりょう↓はその↑法案↑↓ほうあん↓に↑対↑↓たい↓して↑拒否↑↓|きょひ↓↑権↑↓けん|↓を↑行使↑↓こうし↓しましたが、↑議会↑↓ぎかい↓が↑再度↑↓さいど↓それを↑無効↑↓むこう↓にしました。","e":"The President vetoed the bill, but Congress overrode his veto."}]}

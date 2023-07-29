@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り上げる","p":true},{"e":"切上げる"},{"e":"切りあげる","i":["sK"]}],"r_ele":[{"r":"きりあげる","p":true}],"sense":[{"gloss":"to close (at a certain point), to cut short, to stop early, to finish (at a convenient spot)","pos":["v1","vt"]},{"gloss":"to round up (number)","pos":["v1","vt"]},{"gloss":"to revalue (currency)","pos":["v1","vt"]}]},"sdata":[]}

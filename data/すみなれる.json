@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"住み慣れる","p":true},{"e":"住み馴れる"}],"r_ele":[{"r":"すみなれる","p":true}],"sense":[{"gloss":"to get used to living in","pos":["v1"]}]},"sdata":[]}

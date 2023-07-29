@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"年末調整","p":true}],"r_ele":[{"r":"ねんまつちょうせい","p":true}],"sense":[{"gloss":"year-end tax adjustment","pos":["n"]}]},"sdata":[]}

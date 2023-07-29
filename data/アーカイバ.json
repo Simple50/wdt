@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アーカイバ","p":true},{"r":"アーカイバー"}],"sense":[{"gloss":"archiver","pos":["n"],"f":["comp"]}]},"sdata":[]}

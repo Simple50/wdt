@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"復活祭","p":true}],"r_ele":[{"r":"ふっかつさい","p":true}],"sense":[{"gloss":"Easter","pos":["n"]}]},"sdata":[{"j":"↑復活↑↓|ふっかつ↓↑祭↑↓さい|↓、おめでとうございます。","e":"Happy Easter!"},{"j":"↑私↑↓わたし↓は↑復活↑↓|ふっかつ↓↑祭↑↓さい|↓のパレードを↑見↑↓み↓て↑楽↑↓たの↓しんだ。","e":"I enjoyed watching the Easter Parade."},{"j":"↑復活↑↓|ふっかつ↓↑祭↑↓さい|↓はもうすぐだ。","e":"Easter is near at hand."}]}

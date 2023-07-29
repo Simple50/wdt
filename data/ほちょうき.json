@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"補聴器","p":true}],"r_ele":[{"r":"ほちょうき","p":true}],"sense":[{"gloss":"hearing aid","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓はこの↑補聴器↑↓|ほちょうき|↓に２↑万↑↓まん↓↑円↑↓えん↓↑支払↑↓しはら↓った。","e":"I paid twenty thousand yen for this hearing aid."}]}

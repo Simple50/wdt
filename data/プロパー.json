@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロパー","p":true}],"sense":[{"gloss":"proper","pos":["adj-na"]},{"gloss":"propagandist, propaganda","pos":["n"],"m":["abbr"]},{"gloss":"full time (staff), career (job title) (e.g. someone who has worked in the same area from the start)","pos":["n"]},{"gloss":"regular price, net price","pos":["n"]}]},"sdata":[]}

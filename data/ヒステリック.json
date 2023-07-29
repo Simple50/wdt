@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヒステリック","p":true}],"sense":[{"gloss":"hysterical, hysteric","pos":["adj-na"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑簡単↑↓かんたん↓に|ヒステリック|になる。","e":"I get hysterical easily."},{"j":"ドイツ↑人↑↓じん↓の↑放射線↑↓ほうしゃせん↓に↑対↑↓たい↓して↑抱↑↓いだ↓く↑恐怖↑↓きょうふ↓は|ヒステリック|なレベルに↑達↑↓たっ↓した。","e":"The level of fear that the Germans now have towards nuclear power has reached hysterical levels."}]}

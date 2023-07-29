@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シリコン","p":true}],"sense":[{"gloss":"silicon (Si)","pos":["n"],"x":["ケイ素"]},{"gloss":"silicone (synthetic polymer)","pos":["n"],"x":["シリコーン"]}]},"sdata":[{"j":"アルミニウム、マグネシウム、|シリコン|などの↑粉末↑↓ふんまつ↓が↑爆発↑↓ばくはつ↓する。","e":"Powders of aluminium, magnesium, silicon, etc. explode."}]}

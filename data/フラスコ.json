@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フラスコ","p":true}],"sense":[{"gloss":"(laboratory) flask","pos":["n"],"l":"por: frasco"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"考え込む","p":true},{"e":"考えこむ"}],"r_ele":[{"r":"かんがえこむ","p":true}],"sense":[{"gloss":"to ponder, to brood","pos":["v5m","vi"]}]},"sdata":[]}

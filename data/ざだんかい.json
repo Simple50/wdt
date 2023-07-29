@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"座談会","p":true}],"r_ele":[{"r":"ざだんかい","p":true}],"sense":[{"gloss":"symposium, round-table discussion","pos":["n"]}]},"sdata":[]}

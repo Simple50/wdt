@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"素振り","p":true}],"r_ele":[{"r":"すぶり","p":true}],"sense":[{"gloss":"practice-swinging (sword, bat, tennis racket, etc.)","pos":["n"]}]},"sdata":[]}

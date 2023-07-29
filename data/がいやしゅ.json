@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外野手","p":true}],"r_ele":[{"r":"がいやしゅ","p":true}],"sense":[{"gloss":"outfielder","pos":["n"],"f":["baseb"]}]},"sdata":[]}

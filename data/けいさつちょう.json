@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"警察庁","p":true}],"r_ele":[{"r":"けいさつちょう","p":true}],"sense":[{"gloss":"National Police Agency","pos":["n"]}]},"sdata":[]}

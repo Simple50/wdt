@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"全域","p":true}],"r_ele":[{"r":"ぜんいき","p":true}],"sense":[{"gloss":"the whole area, all areas","pos":["n"]}]},"sdata":[{"j":"あそこに↑全然↑↓ぜん|ぜん↓↑行↑↓い↓き|たくない。","e":"I don't want to go there at all."}]}

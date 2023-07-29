@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"柚子","p":true},{"e":"柚","p":true}],"r_ele":[{"r":"ゆず","p":true},{"r":"ゆ","i":["ok"]},{"r":"ゆう","i":["ok"]},{"r":"ユズ","p":true}],"sense":[{"gloss":"yuzu (Citrus ichangensis x C. reticulata)","pos":["n"]}],"m":["uk"]},"sdata":[]}

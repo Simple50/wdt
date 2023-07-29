@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"難物","p":true}],"r_ele":[{"r":"なんぶつ","p":true}],"sense":[{"gloss":"hard problem, person hard to please, hard nut to crack","pos":["n"]}]},"sdata":[]}

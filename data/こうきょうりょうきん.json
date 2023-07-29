@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公共料金","p":true}],"r_ele":[{"r":"こうきょうりょうきん","p":true}],"sense":[{"gloss":"public utilities charge","pos":["n"]}]},"sdata":[{"j":"↑４月↑↓しがつ↓から↑公共↑↓|こうきょう↓↑料金↑↓りょうきん|↓が↑値上↑↓ねあ↓げになる。","e":"Public utility charges will go up next April."}]}

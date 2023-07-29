@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歌い上げる","p":true},{"e":"歌いあげる"}],"r_ele":[{"r":"うたいあげる","p":true}],"sense":[{"gloss":"to sing at the top of one's voice, to belt out a song","pos":["v1","vt"]},{"gloss":"to express one's feelings fully in a poem, to praise in poetry","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出獄","p":true}],"r_ele":[{"r":"しゅつごく","p":true}],"sense":[{"gloss":"release (from prison)","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑終戦↑↓しゅうせん↓↑直後↑↓ちょくご↓に↑出獄↑↓|しゅつごく|↓した。","e":"He was released from prison immediately after the war."}]}

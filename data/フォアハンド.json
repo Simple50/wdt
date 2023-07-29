@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フォアハンド","p":true}],"sense":[{"gloss":"forehand","pos":["n"],"f":["sports"],"x":["バックハンド"]}]},"sdata":[]}

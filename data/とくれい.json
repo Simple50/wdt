@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特例","p":true}],"r_ele":[{"r":"とくれい","p":true}],"sense":[{"gloss":"special case, exception","pos":["n"]}]},"sdata":[]}

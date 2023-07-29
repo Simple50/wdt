@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打つ手","p":true}],"r_ele":[{"r":"うつて","p":true}],"sense":[{"gloss":"way to do (something)","pos":["n"]}]},"sdata":[{"j":"↑打↑↓|う↓つ↑手↑↓て|↓がないね。","e":"I'm all out of tricks."},{"j":"もう↑打↑↓|う↓つ↑手↑↓て|↓がないんだよ。","e":"There's nothing to be done about it."}]}

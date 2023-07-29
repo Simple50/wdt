@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漂白剤","p":true}],"r_ele":[{"r":"ひょうはくざい","p":true}],"sense":[{"gloss":"bleaching agent, bleach","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不透明","p":true}],"r_ele":[{"r":"ふとうめい","p":true}],"sense":[{"gloss":"opaque, obscure, murky, turbid","pos":["adj-na"]},{"gloss":"opacity, obscurity","pos":["n"]},{"gloss":"unclear, unpredictable, uncertain","pos":["adj-na"]}]},"sdata":[]}

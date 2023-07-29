@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オフサイド","p":true}],"sense":[{"gloss":"offside","pos":["n"],"f":["sports"]}]},"sdata":[{"j":"|オフサイド|・・・じゃない！やったー！","e":"An offside... No! We did it-!"}]}

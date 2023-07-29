@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"月額","p":true}],"r_ele":[{"r":"げつがく","p":true}],"sense":[{"gloss":"monthly amount (sum)","pos":["n"]}]},"sdata":[{"j":"↑非常↑↓ひじょう↓に↑高↑↓たか↓い↑収入↑↓しゅうにゅう↓を↑得↑↓え↓るチャンスがあるビジネス、↑月額↑↓|げつがく|↓１００↑万↑↓まん↓↑円↑↓えん↓↑可能↑↓かのう↓！！","e":"There's the chance to get a huge income in this business, a million yen a month is possible!"}]}

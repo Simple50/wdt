@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"五十三次","p":true}],"r_ele":[{"r":"ごじゅうさんつぎ","p":true}],"sense":[{"gloss":"fifty-three stations on the Tōkaidō (Edo-Kyoto highway in Edo-period Japan)","pos":["n"],"x":["東海道五十三次"]}],"m":["hist","abbr"]},"sdata":[]}

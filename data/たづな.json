@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手綱","p":true}],"r_ele":[{"r":"たづな","p":true}],"sense":[{"gloss":"reins, bridle","pos":["n"]},{"gloss":"control, the reins (on)","pos":["n"]}]},"sdata":[{"j":"↑競馬↑↓けいば↓の↑騎手↑↓きしゅ↓は、レースが↑始↑↓はじ↓まる↑前↑↓まえ↓、はやる↑馬↑↓うま↓を↑抑↑↓おさ↓えて、↑手綱↑↓|たづな|↓を↑握↑↓にぎ↓りしめる。","e":"Before the horse race begins, the jockeys grip the reins tightly to restrain the impatient horses."}]}

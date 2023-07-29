@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"時代劇","p":true}],"r_ele":[{"r":"じだいげき","p":true}],"sense":[{"gloss":"historical play, period drama","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑時代↑↓|じだい↓↑劇↑↓げき|↓を↑見↑↓み↓にその↑劇場↑↓げきじょう↓へ↑行↑↓い↓った。","e":"I went to the theater to see a period drama."}]}

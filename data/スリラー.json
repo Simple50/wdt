@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スリラー","p":true}],"sense":[{"gloss":"thriller (movie, story)","pos":["n"]}]},"sdata":[{"j":"ジャックの↑冒険↑↓ぼうけん↓は、↑多↑↓おお↓くの|スリラー|↑物↑↓ぶつ↓の↑主人公↑↓しゅじんこう↓の↑冒険↑↓ぼうけん↓よりも↑素晴↑↓すば↓らしい。","e":"Jack's adventures are more amazing than those of the hero in many thrillers."}]}

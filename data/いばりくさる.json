@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"威張りくさる"},{"e":"威張り腐る","p":true}],"r_ele":[{"r":"いばりくさる","p":true}],"sense":[{"gloss":"to throw one's weight around, to be puffed up","pos":["v5r"]}]},"sdata":[]}

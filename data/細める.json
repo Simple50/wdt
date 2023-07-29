@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細める","p":true}],"r_ele":[{"r":"ほそめる","p":true}],"sense":[{"gloss":"to make narrow","pos":["v1","vt"]}]},"kdata":{"細":{"on":["サイ"],"kun":["ほそ.い","ほそ.る","こま.か","こま.かい"],"jlpt":2,"meanings":["dainty","get thin","taper","slender","narrow","detailed","precise"],"freq":537,"comp":[["糸","田"]],"d":["𦹀"],"t":1356}},"sdata":[]}

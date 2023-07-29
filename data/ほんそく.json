@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本則","p":true}],"r_ele":[{"r":"ほんそく","p":true}],"sense":[{"gloss":"rules, original rules","pos":["n"]}]},"sdata":[]}

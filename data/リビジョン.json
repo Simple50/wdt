@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リビジョン","p":true}],"sense":[{"gloss":"revision","pos":["n"]}]},"sdata":[]}

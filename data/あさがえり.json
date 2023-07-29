@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"朝帰り","p":true}],"r_ele":[{"r":"あさがえり","p":true}],"sense":[{"gloss":"coming home in the morning (after staying out all night)","pos":["n","vs"]}]},"sdata":[]}

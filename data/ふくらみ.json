@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"膨らみ","p":true},{"e":"脹らみ"}],"r_ele":[{"r":"ふくらみ","p":true}],"sense":[{"gloss":"swelling, bulge, puff","pos":["n"]}]},"sdata":[{"j":"ローンが|ふくらみ|そうな↑気配↑↓けはい↓を↑見↑↓み↓せていますね。","e":"I see a surge in loan growth."}]}

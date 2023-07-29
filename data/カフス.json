@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カフス","p":true}],"sense":[{"gloss":"cuffs","pos":["n"]}]},"sdata":[]}

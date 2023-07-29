@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オールスターキャスト","p":true},{"r":"オールスター・キャスト"}],"sense":[{"gloss":"all-star cast","pos":["n"]}]},"sdata":[]}

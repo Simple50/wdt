@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"源流","p":true}],"r_ele":[{"r":"げんりゅう","p":true}],"sense":[{"gloss":"source (e.g. of a river), headwaters","pos":["n"]},{"gloss":"origin of something continuous (language, culture, etc.)","pos":["n"]}]},"sdata":[]}

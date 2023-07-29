@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"製作費","p":true}],"r_ele":[{"r":"せいさくひ","p":true}],"sense":[{"gloss":"manufacturing cost, production cost","pos":["n"],"x":["制作費・せいさくひ"]}]},"sdata":[]}

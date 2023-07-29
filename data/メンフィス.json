@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メンフィス","p":true}],"sense":[{"gloss":"Memphis","pos":["n"]}]},"sdata":[{"j":"１９６８↑年↑↓ねん↓↑４月↑↓しがつ↓、キング↑牧師↑↓ぼくし↓はテネシー↑州↑↓しゅう↓|メンフィス|にいた。","e":"In April of 1968, Rev. King was in Memphis, Tennessee."}]}

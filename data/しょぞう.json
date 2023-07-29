@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"所蔵","p":true}],"r_ele":[{"r":"しょぞう","p":true}],"sense":[{"gloss":"(in one's) possession","pos":["n","vs","vt","adj-no"]}]},"sdata":[{"j":"その↑図書館↑↓としょかん↓は↑多↑↓おお↓くの↑書物↑↓しょもつ↓を↑所蔵↑↓|しょぞう|↓している。","e":"The library has many books."},{"j":"↑博物館↑↓はくぶつかん↓には↑興味深↑↓きょうみぶか↓い↑展示↑↓てんじ↓↑品↑↓ひん↓が↑所蔵↑↓|しょぞう|↓されている。","e":"There are some interesting exhibits in the museum."}]}

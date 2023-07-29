@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自由業","p":true}],"r_ele":[{"r":"じゆうぎょう","p":true}],"sense":[{"gloss":"self-employed profession (e.g. actor, artist), liberal profession","pos":["n"],"x":["フリーランサー"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逆戻り","p":true}],"r_ele":[{"r":"ぎゃくもどり","p":true}],"sense":[{"gloss":"retrogression, reversal, relapse, doubling back, backtracking","pos":["n","vs","vi"]}]},"sdata":[]}

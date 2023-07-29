@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別れ話","p":true}],"r_ele":[{"r":"わかればなし","p":true}],"sense":[{"gloss":"talk about divorce or separation","pos":["n"]}]},"sdata":[{"j":"トムは↑彼女↑↓かのじょ↓に↑別↑↓|わか↓れ↑話↑↓ばなし|↓を↑切↑↓き↓り↑出↑↓だ↓した。","e":"Tom started talking to his girlfriend about breaking up."}]}

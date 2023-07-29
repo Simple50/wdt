@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"値切る","p":true},{"e":"直切る"}],"r_ele":[{"r":"ねぎる","p":true}],"sense":[{"gloss":"to drive a bargain, to beat down the price, to haggle","pos":["v5r","vt"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑値切↑↓|ねぎ↓る|のがうまいんだ。","e":"She's good at bargaining the price down."}]}

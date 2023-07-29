@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"籐","p":true}],"r_ele":[{"r":"とう","p":true},{"r":"トウ"}],"sense":[{"gloss":"rattan, (rattan) cane (e.g. used in wicker furniture)","pos":["n"]}]},"kdata":{"籐":{"on":["トウ"],"meanings":["rattan","cane"],"comp":[["滕","𥫗"]],"freq":3709}},"sdata":[]}

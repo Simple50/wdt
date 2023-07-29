@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上皮","p":true}],"r_ele":[{"r":"うわかわ","p":true},{"r":"じょうひ"}],"sense":[{"gloss":"outer layer (e.g. of skin), cuticle, epidermis, bark, rind, crust, film (on the surface of a liquid), scum","pos":["n","adj-no"]},{"gloss":"epithelium","pos":["n","adj-no"],"f":["anat"]}]},"sdata":[]}

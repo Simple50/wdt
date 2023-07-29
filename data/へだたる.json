@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隔たる","p":true},{"e":"距たる"}],"r_ele":[{"r":"へだたる","p":true}],"sense":[{"gloss":"to be distant","pos":["v5r","vi"]}]},"sdata":[]}

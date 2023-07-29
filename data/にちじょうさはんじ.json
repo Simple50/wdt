@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日常茶飯事","p":true}],"r_ele":[{"r":"にちじょうさはんじ","p":true}],"sense":[{"gloss":"everyday occurrence","pos":["n"]}]},"sdata":[]}

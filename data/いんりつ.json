@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"韻律","p":true}],"r_ele":[{"r":"いんりつ","p":true}],"sense":[{"gloss":"metre (of a poem), meter, rhythm","pos":["n"]},{"gloss":"prosody","pos":["n"],"f":["ling"]}]},"sdata":[{"j":"↑言葉↑↓ことば↓による↑詩↑↓し↓とは、↑要約↑↓ようやく↓して↑言↑↓い↓えば、↑韻律↑↓|いんりつ|↓↑的↑↓てき↓↑美↑↓び↓の↑創造↑↓そうぞう↓であるとしたい。","e":"I would define, in brief, the poetry of words as the Rhythmical Creation of Beauty."}]}

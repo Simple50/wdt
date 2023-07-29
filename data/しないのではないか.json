@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"しないのではないか","p":true},{"r":"ないのではないか"}],"sense":[{"gloss":"I think (something) won't (something), probably (something) isn't (something)","pos":["exp"]}]},"sdata":[{"j":"↑他↑↓た↓の↑人↑↓ひと↓が↑失敗↑↓しっぱい↓したからといって、↑自分↑↓じぶん↓も↑成功↑↓せいこう↓|しないのではないか|と↑思↑↓おも↓う↑必要↑↓ひつよう↓はない。","e":"You don't have to think you aren't going to make it just because others have failed."}]}

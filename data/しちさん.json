@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"七三","p":true}],"r_ele":[{"r":"しちさん","p":true}],"sense":[{"gloss":"7 or 3 ratio, hair parted on one side","pos":["n"]}]},"sdata":[]}

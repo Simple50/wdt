@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"データバンク","p":true},{"r":"データ・バンク"}],"sense":[{"gloss":"data bank","pos":["n"],"f":["comp"]}]},"sdata":[]}

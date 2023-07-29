@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き換える","p":true},{"e":"引き替える"},{"e":"引換える"},{"e":"引替える"}],"r_ele":[{"r":"ひきかえる","p":true}],"sense":[{"gloss":"to exchange (things), to convert (currency)","pos":["v1","vt"]},{"gloss":"to be in contrast (to), to contrast (with)","pos":["v1","vi"],"x":["に引き換え"]}]},"sdata":[]}

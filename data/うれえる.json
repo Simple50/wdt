@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"憂える","p":true},{"e":"愁える"}],"r_ele":[{"r":"うれえる","p":true}],"sense":[{"gloss":"to worry about, to be anxious about, to be concerned about","pos":["v1","vt"]},{"gloss":"to lament, to grieve, to feel sorrow for","pos":["v1","vt"]}]},"sdata":[]}

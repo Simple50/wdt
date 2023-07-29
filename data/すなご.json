@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砂子","p":true},{"e":"沙子"}],"r_ele":[{"r":"すなご","p":true}],"sense":[{"gloss":"gold dust, silver dust","pos":["n"]},{"gloss":"sand, grit","pos":["n"],"x":["砂・すな"]}]},"sdata":[]}

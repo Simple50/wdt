@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"惚ける","p":true},{"e":"恍ける"}],"r_ele":[{"r":"とぼける","p":true}],"sense":[{"gloss":"to play dumb, to feign ignorance, to play innocent, to have a blank facial expression","pos":["v1","vi"]},{"gloss":"to play the fool","pos":["v1","vi"]},{"gloss":"to be in one's dotage","pos":["v1","vi"]}],"m":["uk"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"単色","p":true}],"r_ele":[{"r":"たんしょく","p":true}],"sense":[{"gloss":"single colour (color), monochrome","pos":["n","adj-no"]}]},"sdata":[{"j":"いっ|たん↑職業↑↓しょく|ぎょう↓を↑決↑↓き↓めたらむやみに↑変↑↓か↓えてはいけない。","e":"Once you decide to enter a profession, you can't change your mind on a whim."}]}

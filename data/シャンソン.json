@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シャンソン","p":true}],"sense":[{"gloss":"chanson","pos":["n"],"l":"fre"}]},"sdata":[]}

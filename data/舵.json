@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"舵","p":true},{"e":"梶","i":["oK"]},{"e":"楫","i":["oK"]},{"e":"檝","i":["oK"]}],"r_ele":[{"r":"かじ","p":true}],"sense":[{"gloss":"rudder, helm","pos":["n"]}]},"kdata":{"舵":{"on":["ダ","タ"],"kun":["かじ"],"meanings":["rudder","helm","wheel"],"freq":2225,"comp":[["它","舟"]],"jlpt":0}},"sdata":[]}

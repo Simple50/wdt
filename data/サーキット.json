@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サーキット","p":true}],"sense":[{"gloss":"(electric) circuit","pos":["n"]},{"gloss":"(racing) circuit, race track","pos":["n"]},{"gloss":"circuit (of events or venues)","pos":["n"]}]},"sdata":[]}

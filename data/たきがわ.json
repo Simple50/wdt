@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滝川","p":true}],"r_ele":[{"r":"たきがわ","p":true}],"sense":[{"gloss":"rapids","pos":["n"]}]},"sdata":[]}

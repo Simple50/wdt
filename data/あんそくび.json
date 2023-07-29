@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安息日","p":true}],"r_ele":[{"r":"あんそくび","p":true},{"r":"あんそくにち"},{"r":"あんそくじつ"}],"sense":[{"gloss":"(Judeo-Christian) Sabbath","pos":["n"]}]},"sdata":[]}

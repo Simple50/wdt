@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寒椿","p":true}],"r_ele":[{"r":"かんつばき","p":true}],"sense":[{"gloss":"camellia-like plant native to China","pos":["n"]}]},"kdata":{"寒":{"on":["カン"],"kun":["さむ.い"],"jlpt":3,"meanings":["cold"],"freq":1456,"comp":[["冫","𡨄"]],"t":1487},"椿":{"on":["チン","チュン"],"kun":["つばき"],"meanings":["camellia"],"freq":1829,"comp":[["春","木"]],"jlpt":0}},"sdata":[]}

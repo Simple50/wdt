@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吟遊詩人","p":true}],"r_ele":[{"r":"ぎんゆうしじん","p":true}],"sense":[{"gloss":"troubadour, minstrel","pos":["n"]}]},"sdata":[]}

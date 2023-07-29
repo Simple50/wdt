@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イリュージョン","p":true},{"r":"イルージョン"}],"sense":[{"gloss":"illusion","pos":["n"]}]},"sdata":[]}

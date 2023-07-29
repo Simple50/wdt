@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウルフ","p":true},{"r":"ウォルフ"}],"sense":[{"gloss":"wolf","pos":["n"]}]},"sdata":[{"j":"「そっかぁ、アルクさんはワー|ウルフ|なんですね」「↑俺↑↓おれ↓は↑混血↑↓こんけつ↓だから↑変身↑↓へんしん↓したりはしねーよ」","e":"Oh, right, you're a werewolf, aren't you? \"I'm mixed blood, so I don't transform or anything.\""}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"議会政治","p":true}],"r_ele":[{"r":"ぎかいせいじ","p":true}],"sense":[{"gloss":"parliamentarism, parliamentary government","pos":["n"]}]},"sdata":[]}

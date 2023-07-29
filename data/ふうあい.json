@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風合い","p":true},{"e":"風合"}],"r_ele":[{"r":"ふうあい","p":true}],"sense":[{"gloss":"texture (cloth, fabric, paper), feel, appearance","pos":["n"]}]},"sdata":[]}

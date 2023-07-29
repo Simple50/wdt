@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煙たい","p":true},{"e":"烟たい","i":["rK"]}],"r_ele":[{"r":"けむたい","p":true},{"r":"けぶたい"}],"sense":[{"gloss":"smoky","pos":["adj-i"]},{"gloss":"awkward, uncomfortable, ill at ease","pos":["adj-i"]}]},"sdata":[{"j":"あの↑人↑↓ひと↓は↑煙↑↓|けむ↓たい|。","e":"I feel awkward in his presence."},{"j":"ここん↑中↑↓なか↓、めちゃ↑煙↑↓|けむ↓たい|な。","e":"It's very smoky in here."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"野放し","p":true}],"r_ele":[{"r":"のばなし","p":true}],"sense":[{"gloss":"pasturing, letting (an animal) run loose","pos":["n","adj-no"]},{"gloss":"letting (someone) do as they please, leaving (something) to take its own course, letting (an issue) go unchecked, leaving uncontrolled, leaving at large (e.g. a criminal)","pos":["n","adj-no"]}]},"sdata":[]}

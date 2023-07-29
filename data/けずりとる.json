@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"削り取る","p":true},{"e":"削りとる"}],"r_ele":[{"r":"けずりとる","p":true}],"sense":[{"gloss":"to shave off, to scrape off","pos":["v5r"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"義援金","p":true},{"e":"義捐金"}],"r_ele":[{"r":"ぎえんきん","p":true}],"sense":[{"gloss":"donation money (esp. disaster relief or charity), contribution","pos":["n"]}]},"sdata":[]}

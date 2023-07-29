@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見応え","p":true},{"e":"見ごたえ"}],"r_ele":[{"r":"みごたえ","p":true}],"sense":[{"gloss":"(being) worth seeing, impressive","pos":["n","adj-no"]}]},"sdata":[]}

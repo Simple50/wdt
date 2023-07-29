@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直結","p":true}],"r_ele":[{"r":"ちょっけつ","p":true}],"sense":[{"gloss":"direct connection, direct link","pos":["n","vs","vt","vi","adj-no"]}]},"sdata":[]}

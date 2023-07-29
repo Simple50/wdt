@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病害","p":true}],"r_ele":[{"r":"びょうがい","p":true}],"sense":[{"gloss":"(crop) damage owing to disease or blight","pos":["n"]}]},"sdata":[]}

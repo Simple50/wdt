@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熟成","p":true}],"r_ele":[{"r":"じゅくせい","p":true}],"sense":[{"gloss":"maturing, ripening, aging, ageing, curing, fermenting","pos":["n","vs","vi"]}]},"sdata":[{"j":"ワインはたるの↑中↑↓なか↓に↑入↑↓い↓れて↑熟成↑↓|じゅくせい|↓させる。","e":"Wine is put in casks to age."},{"j":"↑熟成↑↓|じゅくせい|↓したチーズの↑方↑↓ほう↓が↑好↑↓す↓きだ。","e":"I prefer mature cheese."}]}

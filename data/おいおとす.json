@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い落とす","p":true}],"r_ele":[{"r":"おいおとす","p":true}],"sense":[{"gloss":"to disperse, to take a castle","pos":["v5s"]}]},"sdata":[]}

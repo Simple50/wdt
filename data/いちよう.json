@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一様","p":true}],"r_ele":[{"r":"いちよう","p":true}],"sense":[{"gloss":"uniform, equal, even, the same, identical","pos":["adj-na","adj-no","n"],"ant":["多様"]},{"gloss":"common, ordinary, usual","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"↑富↑↓とみ↓は↑幸福↑↓こうふく↓の↑一↑↓|いち↓↑要因↑↓よう|いん↓ではあろう。","e":"Wealth may be a factor of happiness."}]}

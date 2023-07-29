@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"降り積もる","p":true},{"e":"降積もる"}],"r_ele":[{"r":"ふりつもる","p":true}],"sense":[{"gloss":"to fall and pile up (e.g. snow), to lie thick","pos":["v5r"]}]},"sdata":[{"j":"↑雪↑↓ゆき↓がしんしんと↑降↑↓|ふ↓り↑積↑↓つ↓もる|・・・オレの↑体↑↓からだ↓に。","e":"Snow falls silently and piles up ... on top of me."}]}

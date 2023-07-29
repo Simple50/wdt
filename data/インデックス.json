@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インデックス","p":true},{"r":"インデキス","i":["ik"]}],"sense":[{"gloss":"index","pos":["n"]}]},"sdata":[]}

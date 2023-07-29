@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し花","p":true},{"e":"おし花"}],"r_ele":[{"r":"おしばな","p":true}],"sense":[{"gloss":"pressed flower","pos":["n"]}]},"sdata":[]}

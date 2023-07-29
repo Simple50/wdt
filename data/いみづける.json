@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"意味づける"},{"e":"意味付ける","p":true}],"r_ele":[{"r":"いみづける","p":true}],"sense":[{"gloss":"to give meaning (to), to assess the significance (of)","pos":["v1","vt"]}]},"sdata":[]}

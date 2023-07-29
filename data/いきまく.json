@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"息巻く","p":true},{"e":"息まく","i":["sK"]},{"e":"意気まく","i":["sK"]},{"e":"意気巻く","i":["sK"]}],"r_ele":[{"r":"いきまく","p":true}],"sense":[{"gloss":"to rage, to storm (at), to be furious","pos":["v5k","vi"]},{"gloss":"to enthuse, to speak enthusiastically, to speak with vigour, to get worked up","pos":["v5k","vi"]}]},"sdata":[]}

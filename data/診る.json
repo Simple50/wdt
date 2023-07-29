@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"診る","p":true}],"r_ele":[{"r":"みる","p":true}],"sense":[{"gloss":"to examine (medically)","pos":["v1","vt"]}]},"kdata":{"診":{"on":["シン"],"kun":["み.る"],"jlpt":1,"meanings":["checkup","seeing","diagnose","examine"],"freq":1019,"comp":[["言","㐱"]],"t":1604}},"sdata":[]}

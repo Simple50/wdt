@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水銀","p":true}],"r_ele":[{"r":"すいぎん","p":true}],"sense":[{"gloss":"mercury (Hg)","pos":["n","adj-no"]}]},"sdata":[]}

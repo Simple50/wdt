@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二七日","p":true}],"r_ele":[{"r":"ふたなぬか","p":true},{"r":"ふたなのか"}],"sense":[{"gloss":"second week's memorial services","pos":["n"]}]},"sdata":[]}

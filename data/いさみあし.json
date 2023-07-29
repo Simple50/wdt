@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勇み足","p":true}],"r_ele":[{"r":"いさみあし","p":true}],"sense":[{"gloss":"overeagerness, rashness","pos":["n"]},{"gloss":"forward step-out","pos":["n"],"f":["sumo"]}]},"sdata":[]}

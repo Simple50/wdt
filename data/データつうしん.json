@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"データ通信","p":true}],"r_ele":[{"r":"データつうしん","p":true}],"sense":[{"gloss":"data communication","pos":["n"],"f":["comp"]}]},"sdata":[]}

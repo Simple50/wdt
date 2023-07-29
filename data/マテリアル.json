@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マテリアル","p":true},{"r":"マティリアル"}],"sense":[{"gloss":"material","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"芸術祭","p":true}],"r_ele":[{"r":"げいじゅつさい","p":true}],"sense":[{"gloss":"art festival","pos":["n"]}]},"sdata":[]}

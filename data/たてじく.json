@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縦軸","p":true}],"r_ele":[{"r":"たてじく","p":true},{"r":"じゅうじく"}],"sense":[{"gloss":"vertical axis, vertical line","pos":["n"]},{"gloss":"vertical shaft, spindle","pos":["n"]},{"gloss":"connection between past and present","pos":["n"]}]},"sdata":[]}

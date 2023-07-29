@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブルセラ","p":true},{"r":"ブラセラ","i":["ik"]}],"sense":[{"gloss":"used women's clothing such as bloomers and high-school sailor-suit uniforms (esp. as a source of sexual arousal)","pos":["n"]}],"m":["sl"]},"sdata":[]}

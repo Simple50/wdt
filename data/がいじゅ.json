@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外需","p":true}],"r_ele":[{"r":"がいじゅ","p":true}],"sense":[{"gloss":"foreign demand","pos":["n"]}]},"sdata":[{"j":"↑見↑↓み↓た↑目↑↓め↓には↑優↑↓やさ↓しそうだけど、↑彼↑↓かれ↓って↑皆↑↓みんな↓から↑外柔内剛↑↓|がいじゅ|うないごう↓の↑結構↑↓けっこう↓なタフネゴシエータと↑言↑↓い↓われているよ。","e":"He seems like a softy on the surface, but at the core he's got an iron will that makes him an extremely tough negotiator."}]}

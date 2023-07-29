@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"有識者","p":true}],"r_ele":[{"r":"ゆうしきしゃ","p":true}],"sense":[{"gloss":"expert, knowledgeable person, authority (on a subject)","pos":["n"]}]},"sdata":[{"j":"タトエバ：↑私↑↓わたし↓たちは↑私↑↓わたし↓たちのそれぞれの↑言語↑↓げんご↓に↑有識者↑↓|ゆうしきしゃ|↓であってみる↑場所↑↓ばしょ↓…ええと、やってみる。","e":"Tatoeba: Where we try to be experts in our respective languages and... well, we try."}]}

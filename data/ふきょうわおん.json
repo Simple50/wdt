@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不協和音","p":true}],"r_ele":[{"r":"ふきょうわおん","p":true}],"sense":[{"gloss":"discord, dissonance, cacophony","pos":["n"],"f":["music"]},{"gloss":"discord (in a relationship), disagreement, disharmony","pos":["n"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"快速","p":true}],"r_ele":[{"r":"かいそく","p":true}],"sense":[{"gloss":"high speed, rapidity","pos":["n","adj-no"]},{"gloss":"rapid-service train (not as fast as express), rapid train","pos":["n"],"m":["abbr"],"x":["快速電車"]}]},"sdata":[]}

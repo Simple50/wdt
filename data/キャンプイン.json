@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャンプイン","p":true},{"r":"キャンプ・イン"}],"sense":[{"gloss":"beginning training camp","pos":["n"],"l":"eng: camp in"}]},"sdata":[]}

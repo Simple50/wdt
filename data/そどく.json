@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"素読","p":true}],"r_ele":[{"r":"そどく","p":true}],"sense":[{"gloss":"reading (a text) aloud without trying to understand it","pos":["n","vs","vt"]}]},"sdata":[]}

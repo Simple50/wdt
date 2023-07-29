@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シャンデリア","p":true},{"r":"シャンデリヤ","i":["sk"]}],"sense":[{"gloss":"chandelier","pos":["n"]}]},"sdata":[{"j":"ガラス↑製↑↓せい↓の|シャンデリア|がテーブルの↑真上↑↓まうえ↓に↑下↑↓さ↓がっていた。","e":"A crystal chandelier was hanging over the table."},{"j":"↑天井↑↓てんじょう↓から↑美↑↓うつく↓しい|シャンデリア|が↑下↑↓さ↓がっていた。","e":"There was a beautiful chandelier hanging from the ceiling."}]}

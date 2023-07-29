@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボードセーリング","p":true},{"r":"ボードセイリング"}],"sense":[{"gloss":"boardsailing, windsurfing","pos":["n"]}]},"sdata":[]}

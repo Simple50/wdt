@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＮＥＥＴ","p":true}],"r_ele":[{"r":"ニート","p":true}],"sense":[{"gloss":"NEET (young person not in education, employment or training)","pos":["n"]}],"m":["uk"]},"sdata":[]}

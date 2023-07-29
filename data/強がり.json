@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強がり","p":true}],"r_ele":[{"r":"つよがり","p":true}],"sense":[{"gloss":"show of courage, bluff","pos":["n"]}]},"kdata":{"強":{"on":["キョウ","ゴウ"],"kun":["つよ.い","つよ.まる","つよ.める","し.いる","こわ.い"],"jlpt":4,"meanings":["strong"],"freq":112,"comp":[["弘","虫"]],"t":1274}},"sdata":[]}

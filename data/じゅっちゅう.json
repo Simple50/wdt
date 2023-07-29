@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"術中","p":true}],"r_ele":[{"r":"じゅっちゅう","p":true}],"sense":[{"gloss":"trick, trap, stratagem","pos":["n"]},{"gloss":"intraoperative, during surgery","pos":["adj-no"],"f":["med"]}]},"sdata":[{"j":"↑私↑↓わたし↓↑達↑↓たち↓は↑彼↑↓かれ↓の↑術中↑↓|じゅっちゅう|↓にはまらないように↑注意↑↓ちゅうい↓しなければならない。","e":"We'll have to be careful not to play into his hands."}]}

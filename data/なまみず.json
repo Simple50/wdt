@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生水","p":true}],"r_ele":[{"r":"なまみず","p":true}],"sense":[{"gloss":"unboiled water","pos":["n"]}]},"sdata":[]}

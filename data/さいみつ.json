@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細密","p":true}],"r_ele":[{"r":"さいみつ","p":true}],"sense":[{"gloss":"detailed knowledge, finely detailed","pos":["adj-na","n"]}]},"sdata":[]}

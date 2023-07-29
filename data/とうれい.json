@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"答礼","p":true}],"r_ele":[{"r":"とうれい","p":true}],"sense":[{"gloss":"return of a courtesy, returning one's thanks, return salute, return call","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白亜紀","p":true}],"r_ele":[{"r":"はくあき","p":true}],"sense":[{"gloss":"Cretaceous Period","pos":["n"]}]},"sdata":[]}

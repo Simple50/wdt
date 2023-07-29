@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"教条主義","p":true}],"r_ele":[{"r":"きょうじょうしゅぎ","p":true}],"sense":[{"gloss":"dogmatism","pos":["n"]}]},"sdata":[]}

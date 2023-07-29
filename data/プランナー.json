@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プランナー","p":true}],"sense":[{"gloss":"planner","pos":["n"]},{"gloss":"game designer","pos":["n"],"x":["ゲームプランナー"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らはまもなくトッ|プランナー|に↑追↑↓お↓いつくだろう。","e":"They will catch up with the lead runner soon."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"混ぜ合わす","p":true}],"r_ele":[{"r":"まぜあわす","p":true}],"sense":[{"gloss":"to mix together, to blend, to compound","pos":["v5s"]}]},"sdata":[]}

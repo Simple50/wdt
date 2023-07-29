@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雌花","p":true}],"r_ele":[{"r":"めばな","p":true},{"r":"しか"}],"sense":[{"gloss":"female flower, pistillate flower","pos":["n"],"f":["bot"],"x":["雄花"]}]},"sdata":[]}

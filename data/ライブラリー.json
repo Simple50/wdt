@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ライブラリー","p":true},{"r":"ライブラリ"}],"sense":[{"gloss":"library","pos":["n"],"x":["図書館・としょかん"]},{"gloss":"book series","pos":["n"],"x":["叢書"]},{"gloss":"library (software, modules, images, etc.)","pos":["n"],"f":["comp"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"食べ残す","p":true}],"r_ele":[{"r":"たべのこす","p":true}],"sense":[{"gloss":"to leave a dish half-eaten","pos":["v5s","vt"]}]},"sdata":[]}

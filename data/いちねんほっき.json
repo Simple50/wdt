@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一念発起","p":true},{"e":"一念ほっき"}],"r_ele":[{"r":"いちねんほっき","p":true}],"sense":[{"gloss":"being resolved to (do something), having a wholehearted intention","pos":["n","vs","vi"]}],"m":["yoji"]},"sdata":[]}

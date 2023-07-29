@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公聴会","p":true}],"r_ele":[{"r":"こうちょうかい","p":true}],"sense":[{"gloss":"public hearing","pos":["n"]}]},"sdata":[]}

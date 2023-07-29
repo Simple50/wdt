@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワンマン","p":true},{"r":"ワン・マン"}],"sense":[{"gloss":"one-man (show, team, etc.)","pos":["adj-f"]},{"gloss":"tyrant, dictatorial person","pos":["n","adj-na","adj-no"]},{"gloss":"conductorless bus (i.e. having only a driver), conductorless train","pos":["n"],"m":["abbr"],"x":["ワンマンカー"]}]},"sdata":[]}

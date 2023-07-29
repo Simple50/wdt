@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"泊まり込み","p":true},{"e":"泊り込み"}],"r_ele":[{"r":"とまりこみ","p":true}],"sense":[{"gloss":"staying somewhere (overnight) due to circumstances","pos":["n"]}]},"sdata":[]}

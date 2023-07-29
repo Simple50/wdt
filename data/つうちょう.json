@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通帳","p":true}],"r_ele":[{"r":"つうちょう","p":true}],"sense":[{"gloss":"passbook, bankbook","pos":["n"]}]},"sdata":[{"j":"バターをぬったパンを、↑彼↑↓かれ↓らは↑普通↑↓ふ|つう↓↑朝食↑↓ちょう|しょく↓にしている。","e":"Bread and butter is their usual breakfast."},{"j":"あなたはふ|つう↑朝食↑↓ちょう|しょく↓に↑紅茶↑↓こうちゃ↓を↑飲↑↓の↓みますか。","e":"Do you usually have tea for breakfast?"}]}

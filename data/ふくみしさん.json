@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"含み資産","p":true}],"r_ele":[{"r":"ふくみしさん","p":true}],"sense":[{"gloss":"hidden assets","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白子","p":true}],"r_ele":[{"r":"しらこ","p":true},{"r":"しろこ"}],"sense":[{"gloss":"soft roe, milt","pos":["n"]},{"gloss":"albino","pos":["n"]}]},"sdata":[]}

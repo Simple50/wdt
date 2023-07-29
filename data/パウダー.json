@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パウダー","p":true}],"sense":[{"gloss":"powder","pos":["n"]}]},"sdata":[{"j":"|パウダー|スノー・スキーは↑好↑↓す↓きですか。","e":"Do you like powder-snow skiing?"}]}

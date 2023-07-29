@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チアガール","p":true},{"r":"チア・ガール"}],"sense":[{"gloss":"cheerleader","pos":["n"],"l":"eng: cheer girl"}]},"sdata":[{"j":"アンは|チアガール|です。","e":"Ann is a cheerleader."},{"j":"↑彼女↑↓かのじょ↓は|チアガール|の↑中↑↓なか↓で↑最↑↓もっと↓もじょうずに↑踊↑↓おど↓ることができる。","e":"She can dance the best of all the cheerleaders."}]}

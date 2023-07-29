@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"色っぽい","p":true}],"r_ele":[{"r":"いろっぽい","p":true}],"sense":[{"gloss":"amorous, sexy, voluptuous, erotic","pos":["adj-i"]}]},"sdata":[{"j":"↑色↑↓|いろ↓っぽい|↑女性↑↓じょせい↓。","e":"She is a fox."},{"j":"↑男性↑↓だんせい↓は↑色↑↓|いろ↓っぽい|↑女性↑↓じょせい↓が↑大好↑↓だいす↓きなのです。","e":"Men love amorous women."}]}

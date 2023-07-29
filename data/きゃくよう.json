@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"客用","p":true}],"r_ele":[{"r":"きゃくよう","p":true}],"sense":[{"gloss":"for use of customers or guests","pos":["n"]}]},"sdata":[]}

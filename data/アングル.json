@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アングル","p":true}],"sense":[{"gloss":"angle","pos":["n"]}]},"sdata":[{"j":"バーミューダトライ|アングル|での↑失踪↑↓しっそう↓は↑不可解↑↓ふかかい↓です。","e":"The disappearances in the Bermuda Triangle are inexplicable."}]}

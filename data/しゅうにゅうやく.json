@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"収入役","p":true}],"r_ele":[{"r":"しゅうにゅうやく","p":true}],"sense":[{"gloss":"government treasurer","pos":["n"]}]},"sdata":[]}

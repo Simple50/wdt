@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アッパー","p":true}],"sense":[{"gloss":"upper, upward","pos":["adj-f"]},{"gloss":"upper (of a shoe)","pos":["n"]},{"gloss":"uppercut","pos":["n"],"m":["abbr"],"x":["アッパーカット"]},{"gloss":"upper (drug), stimulant","pos":["n"],"m":["col"],"x":["ダウナー・2"]}]},"sdata":[{"j":"エクスタシーは|アッパー|↑系↑↓けい↓のドラッグだ。","e":"Ecstasy is a stimulant type of drug."}]}

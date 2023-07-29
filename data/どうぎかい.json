@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"道議会","p":true}],"r_ele":[{"r":"どうぎかい","p":true}],"sense":[{"gloss":"Hokkaido Prefectural Assembly","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラッピング","p":true}],"sense":[{"gloss":"wrapping","pos":["n","vs","vt"]}]},"sdata":[{"j":"クリスマスプレゼントみたいに|ラッピング|してください。","e":"Please wrap it like a Christmas present."},{"j":"↑別々↑↓べつべつ↓に|ラッピング|してもらってもいいですか？","e":"Could you wrap them up separately?"},{"j":"お↑店↑↓みせ↓の↑人↑↓ひと↓が、プレゼントを|ラッピング|してくれたんだ。","e":"The salesgirl wrapped the gift for me."}]}

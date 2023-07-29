@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"輸銀","p":true}],"r_ele":[{"r":"ゆぎん","p":true}],"sense":[{"gloss":"import-export bank","pos":["n"]}]},"kdata":{"輸":{"on":["ユ","シュ"],"jlpt":2,"meanings":["transport","send","be inferior"],"freq":371,"comp":[["俞","車"]],"s":"輪","t":2148},"銀":{"on":["ギン"],"kun":["しろがね"],"jlpt":4,"meanings":["silver"],"freq":395,"comp":[["艮","金"]],"t":1938}},"sdata":[]}

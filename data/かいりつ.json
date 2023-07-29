@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戒律","p":true}],"r_ele":[{"r":"かいりつ","p":true}],"sense":[{"gloss":"(religious) precept, discipline, commandment, mitzvah","pos":["n"]}]},"sdata":[]}

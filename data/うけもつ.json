@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受け持つ","p":true}],"r_ele":[{"r":"うけもつ","p":true}],"sense":[{"gloss":"to take (be in) charge of","pos":["v5t","vt"]}]},"sdata":[{"j":"↑費用↑↓ひよう↓を↑受↑↓|う↓け↑持↑↓も↓つ|↑者↑↓もの↓に↑決定↑↓けってい↓↑権↑↓けん↓がある。","e":"He who pays the piper calls the tune."}]}

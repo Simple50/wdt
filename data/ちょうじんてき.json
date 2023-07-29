@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"超人的","p":true}],"r_ele":[{"r":"ちょうじんてき","p":true}],"sense":[{"gloss":"superhuman","pos":["adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑世界↑↓せかい↓↑平和↑↓へいわ↓のために↑超↑↓|ちょう↓↑人的↑↓じんてき|↓な↑努力↑↓どりょく↓をした。","e":"He made superhuman efforts to maintain world peace."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"祝い事","p":true},{"e":"祝事"},{"e":"祝いごと"}],"r_ele":[{"r":"いわいごと","p":true},{"r":"はぎごと","i":["ok"]}],"sense":[{"gloss":"celebration, auspicious occasion","pos":["n"]}]},"sdata":[]}

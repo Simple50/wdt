@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分業","p":true}],"r_ele":[{"r":"ぶんぎょう","p":true}],"sense":[{"gloss":"division of labor, division of labour, specialization, specialisation, assembly-line production","pos":["n","vs","vt","vi"]}]},"sdata":[]}

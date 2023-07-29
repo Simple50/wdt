@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"撫でる","p":true}],"r_ele":[{"r":"なでる","p":true}],"sense":[{"gloss":"to stroke, to caress, to brush gently, to pat, to rub","pos":["v1","vt"]},{"gloss":"to comb (hair), to smooth down","pos":["v1","vt"]}]},"kdata":{"撫":{"on":["ブ","フ"],"kun":["な.でる"],"meanings":["stroke","pat","smooth down"],"freq":2402,"comp":[["扌","無"]],"jlpt":0}},"sdata":[]}

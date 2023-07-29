@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"居留","p":true}],"r_ele":[{"r":"きょりゅう","p":true}],"sense":[{"gloss":"residence, reside","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"嫡出","p":true}],"r_ele":[{"r":"ちゃくしゅつ","p":true},{"r":"てきしゅつ"}],"sense":[{"gloss":"legitimate birth","pos":["n","adj-no"]}]},"sdata":[]}

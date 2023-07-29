@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"林野庁","p":true}],"r_ele":[{"r":"りんやちょう","p":true}],"sense":[{"gloss":"Forestry Agency","pos":["n"]}]},"sdata":[]}

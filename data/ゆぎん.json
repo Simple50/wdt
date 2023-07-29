@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"輸銀","p":true}],"r_ele":[{"r":"ゆぎん","p":true}],"sense":[{"gloss":"import-export bank","pos":["n"]}]},"sdata":[]}

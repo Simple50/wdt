@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"集い","p":true}],"r_ele":[{"r":"つどい","p":true}],"sense":[{"gloss":"meeting, get-together (e.g. among friends)","pos":["n"]}]},"kdata":{"集":{"on":["シュウ"],"kun":["あつ.まる","あつ.める","つど.う"],"jlpt":4,"meanings":["gather","meet","congregate","swarm","flock"],"freq":210,"comp":[["隹","木"]],"d":["襍","潗","穕"],"s":"隻","t":1645}},"sdata":[]}

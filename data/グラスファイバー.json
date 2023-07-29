@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グラスファイバー","p":true},{"r":"グラス・ファイバー"}],"sense":[{"gloss":"glass fiber, glass fibre","pos":["n"]}]},"sdata":[{"j":"↑博文↑↓ひろぶみ↓は↑天井↑↓てんじょう↓に|グラスファイバー|の↑断熱↑↓だんねつ↓↑材↑↓ざい↓を↑入↑↓い↓れた。","e":"Hirofumi installed fibreglass insulation in the ceiling."}]}

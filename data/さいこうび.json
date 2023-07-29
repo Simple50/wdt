@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最後尾","p":true}],"r_ele":[{"r":"さいこうび","p":true}],"sense":[{"gloss":"end (e.g. of a line), tail end, rear, backmost part","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑列↑↓れつ↓の↑最↑↓|さい↓↑後尾↑↓こうび|↓に↑並↑↓なら↓んでしまった。","e":"She went to the back of the line."},{"j":"↑列↑↓れつ↓の↑最↑↓|さい↓↑後尾↑↓こうび|↓に↑行↑↓い↓ってください。","e":"Go to the end of the line."}]}

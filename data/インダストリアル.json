@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インダストリアル","p":true},{"r":"インダストゥリアル","i":["ik"]}],"sense":[{"gloss":"industrial","pos":["adj-na","n"]}]},"sdata":[]}

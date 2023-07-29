@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原寸","p":true}],"r_ele":[{"r":"げんすん","p":true}],"sense":[{"gloss":"actual size, full size","pos":["n","adj-no"]}]},"sdata":[]}

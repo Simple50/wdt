@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勇猛","p":true}],"r_ele":[{"r":"ゆうもう","p":true},{"r":"ゆうみょう","i":["ok"]}],"sense":[{"gloss":"daring, brave, bold, valiant, intrepid, dauntless","pos":["adj-na","n"]}]},"sdata":[]}

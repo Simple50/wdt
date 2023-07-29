@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三面","p":true}],"r_ele":[{"r":"さんめん","p":true}],"sense":[{"gloss":"three sides, three faces, page three (of a newspaper)","pos":["n"]}]},"sdata":[]}

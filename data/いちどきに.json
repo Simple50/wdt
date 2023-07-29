@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一時に","p":true}],"r_ele":[{"r":"いちどきに","p":true},{"r":"いちじに"},{"r":"いっときに"}],"sense":[{"gloss":"at the same time, at a time, at one time, simultaneously","pos":["adv"]}]},"sdata":[]}

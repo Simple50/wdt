@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ミドル級","p":true}],"r_ele":[{"r":"ミドルきゅう","p":true}],"sense":[{"gloss":"middleweight class","pos":["n"]}]},"sdata":[]}

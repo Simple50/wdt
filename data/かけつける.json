@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆けつける","p":true},{"e":"駆け付ける"},{"e":"駆付ける"}],"r_ele":[{"r":"かけつける","p":true}],"sense":[{"gloss":"to run to, to come running, to rush (someplace), to hasten","pos":["v1","vi"]}]},"sdata":[]}

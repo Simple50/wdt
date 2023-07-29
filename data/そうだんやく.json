@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相談役","p":true}],"r_ele":[{"r":"そうだんやく","p":true}],"sense":[{"gloss":"counselor, counsellor, adviser, advisor","pos":["n"]}]},"sdata":[]}

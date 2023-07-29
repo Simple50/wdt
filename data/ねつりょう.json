@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱量","p":true}],"r_ele":[{"r":"ねつりょう","p":true}],"sense":[{"gloss":"quantity of heat (e.g. in calories, BTU, etc.), heat value, calorific value","pos":["n"]},{"gloss":"(degree of) enthusiasm, zeal, passion","pos":["n"]}]},"sdata":[]}

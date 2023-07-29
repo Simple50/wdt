@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピラニア","p":true}],"sense":[{"gloss":"piranha","pos":["n"],"l":"por"}]},"sdata":[]}

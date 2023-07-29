@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立ち食い","p":true},{"e":"立食い"},{"e":"立ち喰い"},{"e":"立喰い"}],"r_ele":[{"r":"たちぐい","p":true}],"sense":[{"gloss":"eating while standing, eating at a (street) stall","pos":["n","vs","vt"],"x":["立ち飲み"]}]},"sdata":[{"j":"すぐそこでそばを↑立↑↓|た↓ち↑食↑↓ぐ↓い|してきた。","e":"I had a bowl of noodles at a street nearby."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボーダーライン","p":true},{"r":"ボーダー・ライン"}],"sense":[{"gloss":"border line","pos":["n"]}]},"sdata":[]}

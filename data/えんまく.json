@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煙幕","p":true}],"r_ele":[{"r":"えんまく","p":true}],"sense":[{"gloss":"smokescreen","pos":["n"]}]},"sdata":[]}

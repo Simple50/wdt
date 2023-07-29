@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メディカルエンジニアリング","p":true},{"r":"メディカル・エンジニアリング"}],"sense":[{"gloss":"medical engineering","pos":["n"]}]},"sdata":[]}

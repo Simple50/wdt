@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"苦り切る","p":true}],"r_ele":[{"r":"にがりきる","p":true}],"sense":[{"gloss":"to look sour (disgusted)","pos":["v5r","vi"]}]},"sdata":[]}

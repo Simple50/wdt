@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"測候所","p":true}],"r_ele":[{"r":"そっこうじょ","p":true}],"sense":[{"gloss":"weather measurement station","pos":["n"]}]},"sdata":[]}

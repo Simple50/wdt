@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空域","p":true}],"r_ele":[{"r":"くういき","p":true}],"sense":[{"gloss":"airspace","pos":["n"]}]},"sdata":[]}

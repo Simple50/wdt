@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"竜宮","p":true},{"e":"龍宮"}],"r_ele":[{"r":"りゅうぐう","p":true}],"sense":[{"gloss":"Palace of the Dragon King, palace from the story of Urashima Tarō (said to be located at the bottom of the sea)","pos":["n"]}]},"sdata":[]}

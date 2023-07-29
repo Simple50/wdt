@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"居住者","p":true}],"r_ele":[{"r":"きょじゅうしゃ","p":true}],"sense":[{"gloss":"resident, inhabitant","pos":["n"]}]},"sdata":[{"j":"↑植民↑↓しょくみん↓↑地↑↓ち↓↑時代↑↓じだい↓には、↑外国↑↓がいこく↓↑人↑↓じん↓↑居住↑↓|きょじゅう↓↑者↑↓しゃ|↓に↑限定↑↓げんてい↓されたかなり↑排他↑↓はいた↓↑的↑↓てき↓な↑場所↑↓ばしょ↓でした。","e":"During the colonial period, the place was rather exclusionary, admitting only foreign residents."}]}

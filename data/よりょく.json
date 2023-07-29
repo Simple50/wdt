@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"余力","p":true}],"r_ele":[{"r":"よりょく","p":true}],"sense":[{"gloss":"remaining strength, surplus energy, reserve power","pos":["n"]},{"gloss":"money to spare","pos":["n"]}]},"sdata":[]}

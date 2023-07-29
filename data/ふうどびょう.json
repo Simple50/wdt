@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風土病","p":true}],"r_ele":[{"r":"ふうどびょう","p":true}],"sense":[{"gloss":"endemic disease, local disease","pos":["n"]}]},"sdata":[{"j":"↑風土病↑↓|ふうどびょう|↓に↑対↑↓たい↓する↑予防↑↓よぼう↓↑接種↑↓せっしゅ↓を↑受↑↓う↓けていたのは１００↑人↑↓にん↓↑中↑↓ちゅう↓１↑人↑↓にん↓にも↑満↑↓み↓たないということが↑見出↑↓みいだ↓された。","e":"It was discovered that less than one child in a hundred had been inoculated against endemic disease."}]}

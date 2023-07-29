@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジュラルミン","p":true},{"r":"ジェラルミン"}],"sense":[{"gloss":"duralumin","pos":["n"]}]},"sdata":[]}

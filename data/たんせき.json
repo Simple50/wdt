@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"胆石","p":true}],"r_ele":[{"r":"たんせき","p":true}],"sense":[{"gloss":"gallstones","pos":["n"]}]},"sdata":[{"j":"↑週末↑↓しゅうまつ↓に↑胆石↑↓|たんせき|↓が↑動↑↓うご↓いて、↑七転八倒↑↓しちてんはっとう↓の↑苦↑↓くる↓しみを↑味↑↓あじ↓わったよ。","e":"I spent the weekend writhing in agony when my gallstone started to move."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"菜種","p":true}],"r_ele":[{"r":"なたね","p":true}],"sense":[{"gloss":"rapeseed, coleseed","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちが↑進化↑↓しんか↓したらどん|な↑種↑↓たね|↓の↑動物↑↓どうぶつ↓になるだろうか。","e":"What kinds of animals will evolve from us?"}]}

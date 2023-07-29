@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二百二十日","p":true}],"r_ele":[{"r":"にひゃくはつか","p":true}],"sense":[{"gloss":"220th day, end of the storm period","pos":["n"]}]},"sdata":[]}

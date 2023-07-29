@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海外経済協力基金","p":true}],"r_ele":[{"r":"かいがいけいざいきょうりょくききん","p":true}],"sense":[{"gloss":"Overseas Economic Cooperation Fund","pos":["n"]}]},"sdata":[]}

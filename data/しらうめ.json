@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白梅","p":true}],"r_ele":[{"r":"しらうめ","p":true},{"r":"はくばい"}],"sense":[{"gloss":"white plum blossoms, white Japanese apricot, white-blossomed plum","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガストアルバイター","p":true}],"sense":[{"gloss":"foreign worker","pos":["n"],"l":"ger: Gastarbeiter"}]},"sdata":[]}

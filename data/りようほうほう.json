@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"利用方法","p":true}],"r_ele":[{"r":"りようほうほう","p":true}],"sense":[{"gloss":"how to use, method for using, way of using","pos":["n"]}]},"sdata":[]}

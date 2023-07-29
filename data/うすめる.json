@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄める","p":true}],"r_ele":[{"r":"うすめる","p":true}],"sense":[{"gloss":"to dilute, to water down","pos":["v1","vt"]}]},"sdata":[]}

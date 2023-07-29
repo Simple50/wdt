@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心配り","p":true},{"e":"心くばり"}],"r_ele":[{"r":"こころくばり","p":true}],"sense":[{"gloss":"exerting care, attention, consideration, thoughtfulness","pos":["n","vs"]}]},"sdata":[]}

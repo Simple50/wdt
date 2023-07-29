@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バースト","p":true}],"sense":[{"gloss":"burst (tire, pipe, etc.), rupture, blowout","pos":["n","vs","vi"]},{"gloss":"burst (radiation, signal, etc.)","pos":["n","vs","vi"]}]},"sdata":[]}

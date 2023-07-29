@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"助長","p":true}],"r_ele":[{"r":"じょちょう","p":true}],"sense":[{"gloss":"promotion, encouragement, fostering, furtherance","pos":["n","vs","vt"]},{"gloss":"unwanted help (usu. unintentionally harmful), unnecessary help, disservice","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殉職","p":true}],"r_ele":[{"r":"じゅんしょく","p":true}],"sense":[{"gloss":"dying at one's post, being killed in the line of duty","pos":["n","vs","vi"]}]},"sdata":[]}

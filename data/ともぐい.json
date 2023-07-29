@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"共食い","p":true}],"r_ele":[{"r":"ともぐい","p":true}],"sense":[{"gloss":"cannibalism (in animals), feeding on each other","pos":["n","vs","vi"]},{"gloss":"cannibalization, mutually harmful competition, internecine struggle, dog-eat-dog competition, suicidal conflict","pos":["n","vs","vi"]}]},"sdata":[]}

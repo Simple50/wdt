@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農相","p":true}],"r_ele":[{"r":"のうしょう","p":true}],"sense":[{"gloss":"Minister of Agriculture","pos":["n"],"x":["農林水産大臣","農林大臣","農商務大臣"]}],"m":["abbr"]},"sdata":[{"j":"↑蓄膿症↑↓ちく|のうしょう|↓です。","e":"I have sinus trouble."}]}

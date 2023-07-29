@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"憩う","p":true}],"r_ele":[{"r":"いこう","p":true}],"sense":[{"gloss":"to rest, to relax, to repose","pos":["v5u","vi"]}]},"kdata":{"憩":{"on":["ケイ"],"kun":["いこ.い","いこ.う"],"jlpt":1,"meanings":["rest","recess","relax","repose"],"freq":1731,"comp":[["心","舌","自"]],"t":2104}},"sdata":[]}

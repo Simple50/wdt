@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無生物","p":true}],"r_ele":[{"r":"むせいぶつ","p":true}],"sense":[{"gloss":"inanimate object","pos":["n"]}]},"sdata":[{"j":"たいていの↑海↑↓うみ↓に↑住↑↓す↓|む↑生物↑↓せいぶつ|↓が↑汚染↑↓おせん↓による↑影響↑↓えいきょう↓を↑受↑↓う↓けている。","e":"Most living creatures in the sea are affected by pollution."}]}

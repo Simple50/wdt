@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名月","p":true},{"e":"明月","p":true}],"r_ele":[{"r":"めいげつ","p":true}],"sense":[{"gloss":"harvest moon (trad. 15th day of the 8th lunar month)","pos":["n"],"x":["中秋の名月・ちゅうしゅうのめいげつ","中秋・ちゅうしゅう・1"]},{"gloss":"bright moon, full moon","pos":["n"]}]},"sdata":[]}

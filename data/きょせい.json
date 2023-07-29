@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"去勢","p":true}],"r_ele":[{"r":"きょせい","p":true}],"sense":[{"gloss":"castration, neutering, gelding, sterilization","pos":["n","vs","vt"]},{"gloss":"enervation, emasculation, taming","pos":["n","vs","vt"]}]},"sdata":[{"j":"「わはははは、↑心配↑↓しんぱい↓するなっ！」オレはあえて↑虚勢↑↓|きょせい|↓を↑張↑↓は↓った。","e":"Ha-ha-ha-hah! No worry! I brazenly bluffed."}]}

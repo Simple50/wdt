@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大掛かり","p":true},{"e":"大がかり"},{"e":"大掛り"}],"r_ele":[{"r":"おおがかり","p":true}],"sense":[{"gloss":"large-scale","pos":["adj-na","n"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓は↑大掛↑↓|おおが↓かり|な↑大衆↑↓たいしゅう↓の↑抵抗↑↓ていこう↓に↑直面↑↓ちょくめん↓した。","e":"We came up against massive popular resistance."}]}

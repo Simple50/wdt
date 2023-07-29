@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"機密保護","p":true}],"r_ele":[{"r":"きみつほご","p":true}],"sense":[{"gloss":"security (e.g. data, password, etc.)","pos":["n"],"f":["comp"]}]},"sdata":[]}

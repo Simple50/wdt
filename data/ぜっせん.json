@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"舌戦","p":true}],"r_ele":[{"r":"ぜっせん","p":true}],"sense":[{"gloss":"war of words","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑発言↑↓はつげん↓が↑舌戦↑↓|ぜっせん|↓の↑火蓋↑↓ひぶた↓を↑切↑↓き↓った。","e":"He opened up the verbal battle."},{"j":"↑彼↑↓かれ↓の↑発言↑↓はつげん↓が↑舌戦↑↓|ぜっせん|↓の↑火蓋↑↓ひぶた↓をきったことになった。","e":"He opened up the verbal battle."}]}

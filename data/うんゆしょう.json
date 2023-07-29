@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"運輸省","p":true}],"r_ele":[{"r":"うんゆしょう","p":true}],"sense":[{"gloss":"Ministry of Transport","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダイナミズム","p":true}],"sense":[{"gloss":"dynamism","pos":["n"]}]},"sdata":[]}

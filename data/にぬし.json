@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荷主","p":true}],"r_ele":[{"r":"にぬし","p":true}],"sense":[{"gloss":"shipper, consignor","pos":["n"]}]},"sdata":[]}

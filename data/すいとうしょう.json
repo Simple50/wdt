@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水頭症","p":true}],"r_ele":[{"r":"すいとうしょう","p":true}],"sense":[{"gloss":"hydrocephalus","pos":["n"]}]},"sdata":[]}

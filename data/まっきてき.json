@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"末期的","p":true}],"r_ele":[{"r":"まっきてき","p":true}],"sense":[{"gloss":"terminal, final","pos":["adj-na"]}]},"sdata":[]}

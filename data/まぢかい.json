@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"間近い","p":true},{"e":"真近い","i":["iK"]}],"r_ele":[{"r":"まぢかい","p":true}],"sense":[{"gloss":"near at hand","pos":["adj-i"]}]},"sdata":[]}

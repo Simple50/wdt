@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敷石","p":true},{"e":"敷き石"},{"e":"甃石"},{"e":"鋪石"}],"r_ele":[{"r":"しきいし","p":true}],"sense":[{"gloss":"paving stone, pavement","pos":["n"]}]},"sdata":[{"j":"↑次↑↓つぎ↓の↑議論↑↓ぎろん↓は↑出生↑↓しゅっしょう↓↑前↑↓まえ↓の↑組織↑↓そ|しき↓↑移植↑↓いし|ょく↓に↑関↑↓かん↓するものである。","e":"The next discussion concerns the transplantation of prenatal tissues."}]}

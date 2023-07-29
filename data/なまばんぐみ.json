@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生番組","p":true}],"r_ele":[{"r":"なまばんぐみ","p":true}],"sense":[{"gloss":"live program, live programme","pos":["n"]}]},"sdata":[]}

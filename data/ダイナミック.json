@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダイナミック","p":true}],"sense":[{"gloss":"dynamic","pos":["adj-na","n"]}]},"sdata":[]}

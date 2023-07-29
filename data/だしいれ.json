@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出し入れ","p":true}],"r_ele":[{"r":"だしいれ","p":true}],"sense":[{"gloss":"deposit and withdraw, taking in and out","pos":["n","vs","vt"]}]},"sdata":[]}

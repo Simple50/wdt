@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"議会主義","p":true}],"r_ele":[{"r":"ぎかいしゅぎ","p":true}],"sense":[{"gloss":"parliamentarism","pos":["n"]}]},"sdata":[]}

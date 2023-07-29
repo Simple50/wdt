@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縫い目","p":true},{"e":"縫目","p":true}],"r_ele":[{"r":"ぬいめ","p":true}],"sense":[{"gloss":"seam, stitch, suture","pos":["n"]}]},"sdata":[{"j":"この↑間違↑↓まちが↓いを↑修正↑↓しゅうせい↓するためにこの↑縫↑↓|ぬ↓い↑目↑↓め|↓をほどかなくてはならない。","e":"In order to fix this mistake we'll have to tear out this seam."},{"j":"ブランケットの↑縫↑↓|ぬ↓い↑目↑↓め|↓がほつれてる。","e":"The blanket's seam has unraveled."}]}

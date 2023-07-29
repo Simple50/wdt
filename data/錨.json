@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"錨","p":true},{"e":"碇"}],"r_ele":[{"r":"いかり","p":true}],"sense":[{"gloss":"anchor","pos":["n"]}]},"kdata":{"錨":{"on":["ビョウ","ミョウ"],"kun":["いかり"],"meanings":["anchor","grapnel"],"comp":[["金","苗"]],"freq":3245}},"sdata":[{"j":"↑船↑↓ふね↓は|↑錨|↑↓いかり↓を↑下↑↓お↓ろした。","e":"The ship dropped anchor."}]}

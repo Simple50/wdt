@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウォン","p":true},{"r":"ウオン","p":true}],"sense":[{"gloss":"won (Korean currency)","pos":["n"],"l":"kor"}]},"sdata":[]}

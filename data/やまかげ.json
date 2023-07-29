@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山陰","p":true}],"r_ele":[{"r":"やまかげ","p":true},{"r":"さんいん"}],"sense":[{"gloss":"place in the shade of a mountain, shelter of the mountains","pos":["n"]},{"gloss":"mountain recess","pos":["n"]}]},"sdata":[]}

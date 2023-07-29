@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北向き","p":true}],"r_ele":[{"r":"きたむき","p":true}],"sense":[{"gloss":"facing north, northern exposure","pos":["n"]}]},"sdata":[]}

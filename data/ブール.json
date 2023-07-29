@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブール","p":true}],"sense":[{"gloss":"boule (round loaf of white bread)","pos":["n"],"l":"fre"},{"gloss":"boules (game)","pos":["n"]}]},"sdata":[{"j":"クアラルン|ブール|は↑訪↑↓おとず↓れる↑価値↑↓かち↓がある。","e":"Kuala Lumpur is worth visiting."},{"j":"カ|ブール|はアフガニスタンの↑首都↑↓しゅと↓です。","e":"Kabul is the capital of Afghanistan."}]}

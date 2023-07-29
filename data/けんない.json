@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"県内","p":true}],"r_ele":[{"r":"けんない","p":true}],"sense":[{"gloss":"within the prefecture","pos":["adj-no"]}]},"sdata":[{"j":"↑動物↑↓どうぶつ↓↑園↑↓えん↓までは↑徒歩↑↓とほ↓↑圏内↑↓|けんない|↓ですか？","e":"Is the zoo walking distance from here?"},{"j":"↑学校↑↓がっこう↓から↑徒歩↑↓とほ↓↑圏内↑↓|けんない|↓に↑住↑↓す↓んでいます。","e":"I live within walking distance of school."}]}

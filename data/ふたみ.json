@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二見","p":true}],"r_ele":[{"r":"ふたみ","p":true}],"sense":[{"gloss":"forked (road, river)","pos":["adj-no"]}]},"sdata":[]}

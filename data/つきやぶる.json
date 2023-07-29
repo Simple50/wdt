@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き破る","p":true},{"e":"突破る"}],"r_ele":[{"r":"つきやぶる","p":true}],"sense":[{"gloss":"to break through, to penetrate, to pierce","pos":["v5r","vt"]}]},"sdata":[]}

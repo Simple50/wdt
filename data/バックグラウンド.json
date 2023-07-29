@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バックグラウンド","p":true}],"sense":[{"gloss":"background","pos":["n"]}]},"sdata":[]}

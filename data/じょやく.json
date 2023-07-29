@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"助役","p":true}],"r_ele":[{"r":"じょやく","p":true}],"sense":[{"gloss":"assistant official","pos":["n"]}]},"sdata":[]}

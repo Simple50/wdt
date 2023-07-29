@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"珠算","p":true},{"e":"玉算"}],"r_ele":[{"r":"しゅざん","p":true},{"r":"たまざん"}],"sense":[{"gloss":"calculation on an abacus","pos":["n"]}]},"sdata":[]}

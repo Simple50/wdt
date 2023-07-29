@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幕切れ","p":true}],"r_ele":[{"r":"まくぎれ","p":true}],"sense":[{"gloss":"fall of the curtain, end of an act","pos":["n"],"ant":["幕開き・1"]},{"gloss":"end, ending, close","pos":["n"],"ant":["幕開け・2"]}]},"sdata":[{"j":"それは↑幕切↑↓|まくぎ↓れ|の↑一瞬↑↓いっしゅん↓の↑出来事↑↓できごと↓であった。","e":"It happened just when the curtain was falling."}]}

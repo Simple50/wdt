@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"左四つ","p":true}],"r_ele":[{"r":"ひだりよつ","p":true}],"sense":[{"gloss":"hold in which both wrestlers obtain an underarm grip with the left hand and an over-arm grip with the right","pos":["n"],"f":["sumo"]}]},"sdata":[]}

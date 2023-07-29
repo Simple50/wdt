@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"造営","p":true}],"r_ele":[{"r":"ぞうえい","p":true}],"sense":[{"gloss":"building (a temple, palace, etc.), construction, erection","pos":["n","vs","vt"]}]},"sdata":[]}

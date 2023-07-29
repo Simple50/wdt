@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"住み替える","p":true},{"e":"住替える"}],"r_ele":[{"r":"すみかえる","p":true}],"sense":[{"gloss":"to move house, to move to a new house (or apartment, etc.)","pos":["v1","vt"]}]},"sdata":[]}

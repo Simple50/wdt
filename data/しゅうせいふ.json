@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"州政府","p":true}],"r_ele":[{"r":"しゅうせいふ","p":true}],"sense":[{"gloss":"state government","pos":["n"]}]},"sdata":[{"j":"↑州↑↓|しゅう↓↑政府↑↓せいふ|↓は↑彼↑↓かれ↓から↑市民↑↓しみん↓↑権↑↓けん↓を↑剥奪↑↓はくだつ↓した。","e":"The state government deprived him of his civil rights."}]}

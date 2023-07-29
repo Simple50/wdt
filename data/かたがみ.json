@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"型紙","p":true}],"r_ele":[{"r":"かたがみ","p":true}],"sense":[{"gloss":"pattern paper (for dressmaking)","pos":["n"]},{"gloss":"stencil","pos":["n"]}]},"sdata":[]}

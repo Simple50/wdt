@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卸売物価","p":true},{"e":"卸し売り物価"}],"r_ele":[{"r":"おろしうりぶっか","p":true}],"sense":[{"gloss":"wholesale price","pos":["n"]}]},"sdata":[{"j":"↑卸売↑↓|おろしうり↓↑物価↑↓ぶっか|↓は↑基本↑↓きほん↓↑的↑↓てき↓に↑安定↑↓あんてい↓している。","e":"Wholesale prices are basically flat."}]}

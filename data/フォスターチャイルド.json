@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フォスターチャイルド","p":true},{"r":"フォスター・チャイルド"}],"sense":[{"gloss":"foster child","pos":["n"]}]},"sdata":[]}

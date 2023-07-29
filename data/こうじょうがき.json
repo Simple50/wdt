@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口上書","p":true},{"e":"口上書き"}],"r_ele":[{"r":"こうじょうしょ"},{"r":"こうじょうがき","p":true}],"sense":[{"gloss":"verbal note (notes verbale), written statement","pos":["n"]}]},"sdata":[{"j":"↑生活↑↓せいかつ↓↑水準↑↓すいじゅん↓の↑向上↑↓|こうじょう↓が↑急務↑↓き|ゅうむ↓である。","e":"There is an urgent need for improved living conditions."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腹痛","p":true}],"r_ele":[{"r":"ふくつう","p":true},{"r":"はらいた"}],"sense":[{"gloss":"stomach ache, abdominal pain","pos":["n"]}]},"sdata":[{"j":"↑最近↑↓さいきん↓、↑腹痛↑↓|ふくつう|↓はありましたか？","e":"Have you had abdominal pain recently?"}]}

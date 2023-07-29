@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"塩害","p":true}],"r_ele":[{"r":"えんがい","p":true}],"sense":[{"gloss":"salt damage (from seawater, sea air, etc.)","pos":["n"]}]},"sdata":[{"j":"↑口内炎↑↓こうない|えん↓が↑痛↑↓い|た↓くて、あまり↑食↑↓た↓べられないんだ。","e":"My canker hurts, so I can't really eat."}]}

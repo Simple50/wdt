@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旗揚げ","p":true},{"e":"旗揚"},{"e":"旗挙げ","i":["rK"]},{"e":"旗挙","i":["rK"]}],"r_ele":[{"r":"はたあげ","p":true}],"sense":[{"gloss":"raising an army, raising a banner","pos":["n","vs","vi"]},{"gloss":"launching a new group, launching a business, launching a new party","pos":["n","vs","vi"]}]},"sdata":[]}

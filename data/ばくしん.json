@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"爆心","p":true}],"r_ele":[{"r":"ばくしん","p":true}],"sense":[{"gloss":"center of an explosion, centre of an explosion","pos":["n"]}]},"sdata":[]}

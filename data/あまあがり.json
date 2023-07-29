@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雨上がり","p":true},{"e":"雨あがり"},{"e":"雨上り"}],"r_ele":[{"r":"あめあがり"},{"r":"あまあがり","p":true}],"sense":[{"gloss":"after the rain","pos":["n"]}]},"sdata":[]}

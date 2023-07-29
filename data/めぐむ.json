@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恵む","p":true},{"e":"恤む","i":["rK"]}],"r_ele":[{"r":"めぐむ","p":true}],"sense":[{"gloss":"to bless, to show mercy to","pos":["v5m","vt"]},{"gloss":"to give (money, etc.)","pos":["v5m","vt"]}]},"sdata":[]}

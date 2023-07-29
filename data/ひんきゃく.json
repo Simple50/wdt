@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"賓客","p":true}],"r_ele":[{"r":"ひんきゃく","p":true},{"r":"ひんかく"}],"sense":[{"gloss":"guest of honour, guest of honor, privileged guest, visitor","pos":["n"]}]},"sdata":[]}

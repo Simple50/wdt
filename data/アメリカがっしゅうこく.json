@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"アメリカ合衆国","p":true}],"r_ele":[{"r":"アメリカがっしゅうこく","p":true}],"sense":[{"gloss":"United States of America","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名著","p":true}],"r_ele":[{"r":"めいちょ","p":true}],"sense":[{"gloss":"famous book, masterpiece (literary work)","pos":["n"]}]},"sdata":[]}

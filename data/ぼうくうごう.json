@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防空壕","p":true}],"r_ele":[{"r":"ぼうくうごう","p":true}],"sense":[{"gloss":"air-raid shelter, bomb shelter","pos":["n"]}]},"sdata":[]}

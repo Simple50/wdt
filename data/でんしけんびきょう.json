@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電子顕微鏡","p":true}],"r_ele":[{"r":"でんしけんびきょう","p":true}],"sense":[{"gloss":"electron microscope","pos":["n"]}]},"sdata":[]}

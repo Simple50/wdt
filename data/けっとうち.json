@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"血糖値","p":true}],"r_ele":[{"r":"けっとうち","p":true}],"sense":[{"gloss":"blood sugar level","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バーゲンセール","p":true},{"r":"バーゲン・セール"}],"sense":[{"gloss":"bargain sale","pos":["n"]}]},"sdata":[{"j":"|バーゲンセール|を↑利用↑↓りよう↓してセーターを↑３↑↓さん↓↑枚↑↓まい↓↑買↑↓か↓った。","e":"I took advantage of a sale and bought three sweaters."},{"j":"|バーゲンセール|を↑利用↑↓りよう↓してお↑金↑↓かね↓を↑節約↑↓せつやく↓しよう。","e":"Let's take advantage of the bargain sale and save money."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"猪","p":true}],"r_ele":[{"r":"いのしし","p":true},{"r":"イノシシ"}],"sense":[{"gloss":"wild boar, wild pig","pos":["n"]}],"m":["uk"]},"kdata":{"猪":{"on":["チョ"],"kun":["い","いのしし"],"meanings":["boar"],"freq":1684,"comp":[["犭","者"]],"d":["潴","蕏"],"jlpt":0,"t":1428}},"sdata":[]}

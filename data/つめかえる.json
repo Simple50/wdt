@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詰め替える","p":true},{"e":"詰替える"},{"e":"詰め換える"},{"e":"詰換える"}],"r_ele":[{"r":"つめかえる","p":true}],"sense":[{"gloss":"to repack, to refill","pos":["v1","vt"]}]},"sdata":[]}

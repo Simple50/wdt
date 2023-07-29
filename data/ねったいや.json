@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱帯夜","p":true}],"r_ele":[{"r":"ねったいや","p":true}],"sense":[{"gloss":"sultry night, sweltering night, night in which temperature doesn't fall below 25 degrees C","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メンス","p":true}],"sense":[{"gloss":"menses","pos":["n"],"l":"ger: Menstruation"}]},"sdata":[]}

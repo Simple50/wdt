@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"政党政治","p":true}],"r_ele":[{"r":"せいとうせいじ","p":true}],"sense":[{"gloss":"party politics","pos":["n"]}]},"sdata":[]}

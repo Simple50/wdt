@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恩給","p":true}],"r_ele":[{"r":"おんきゅう","p":true}],"sense":[{"gloss":"pension (esp. public servant's)","pos":["n","adj-no"]},{"gloss":"a lord giving a land holding to a vassal","pos":["n"],"m":["arch"],"x":["恩地"]}]},"sdata":[]}

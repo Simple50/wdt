@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刈り取る","p":true},{"e":"刈取る"}],"r_ele":[{"r":"かりとる","p":true}],"sense":[{"gloss":"to mow, to reap, to harvest","pos":["v5r","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サルバルサン","p":true}],"sense":[{"gloss":"Salvarsan (brand of arsphenamine)","pos":["n"],"f":["pharm","tradem"]}]},"sdata":[]}

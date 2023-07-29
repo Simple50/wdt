@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファジー","p":true},{"r":"ファジィ"}],"sense":[{"gloss":"fuzzy","pos":["adj-na"]}]},"sdata":[]}

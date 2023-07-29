@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腰砕け","p":true}],"r_ele":[{"r":"こしくだけ","p":true}],"sense":[{"gloss":"collapsing in the middle of a bout","pos":["n"],"f":["sumo"]},{"gloss":"breaking down (while in the middle of something), faltering halfway","pos":["n"]}]},"sdata":[]}

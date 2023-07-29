@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"結実","p":true}],"r_ele":[{"r":"けつじつ","p":true}],"sense":[{"gloss":"fruition, fructification, bearing fruit","pos":["n","vs","vi"]},{"gloss":"bearing fruit (of efforts, plans, etc.), coming to fruition, yielding success, paying off, realization, realisation, fruit (e.g. of hard work), result","pos":["n","vs","vi"]}]},"sdata":[]}

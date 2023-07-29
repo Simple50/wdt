@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍拡","p":true}],"r_ele":[{"r":"ぐんかく","p":true}],"sense":[{"gloss":"military expansion, arms buildup","pos":["n"],"x":["軍備拡張"]}],"m":["abbr"]},"sdata":[]}

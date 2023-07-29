@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"呉越同舟","p":true}],"r_ele":[{"r":"ごえつどうしゅう","p":true}],"sense":[{"gloss":"bitter enemies in the same boat, rivals finding themselves together by chance","pos":["n"],"x":["呉越・ごえつ"]}],"m":["yoji"]},"sdata":[{"j":"ドジャースとジャイアンツが↑呉越同舟↑↓|ごえつどうしゅう|↓でやってきた。","e":"The Dodgers and Giants, traditional rivals, arrived together."}]}

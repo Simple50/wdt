@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流動食","p":true}],"r_ele":[{"r":"りゅうどうしょく","p":true}],"sense":[{"gloss":"liquid food (diet)","pos":["n"]}]},"sdata":[{"j":"↑流動↑↓|りゅうどう↓↑食↑↓しょく|↓を↑取↑↓と↓ってください。","e":"You should take liquid food."}]}

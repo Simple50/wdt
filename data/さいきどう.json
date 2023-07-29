@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再起動","p":true}],"r_ele":[{"r":"さいきどう","p":true}],"sense":[{"gloss":"restart, reboot","pos":["n","vs","vt"],"f":["comp"]}]},"sdata":[{"j":"コンピューターを↑再↑↓|さい↓↑起動↑↓きどう|↓してください。","e":"Please restart your computer."},{"j":"パソコンを↑再↑↓|さい↓↑起動↑↓きどう|↓してください。","e":"Please restart your computer."}]}

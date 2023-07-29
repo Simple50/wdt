@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポシェット","p":true},{"r":"ポジェット","i":["ik"]}],"sense":[{"gloss":"pochette, pouch (usu. hung from the shoulder by a long cord)","pos":["n"],"l":"fre"}]},"sdata":[]}

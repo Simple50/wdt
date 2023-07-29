@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"烏帽子","p":true}],"r_ele":[{"r":"えぼし","p":true}],"sense":[{"gloss":"eboshi, black-lacquered headgear made of silk, cloth or paper, originally worn by court nobles in ancient Japan","pos":["n"]}],"m":["hist"]},"sdata":[]}

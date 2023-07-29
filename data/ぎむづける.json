@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"義務付ける","p":true},{"e":"義務づける"}],"r_ele":[{"r":"ぎむづける","p":true}],"sense":[{"gloss":"to obligate, to make compulsory, to require, to mandate","pos":["v1","vt"]}]},"sdata":[]}

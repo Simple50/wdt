@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"未開発","p":true}],"r_ele":[{"r":"みかいはつ","p":true}],"sense":[{"gloss":"undeveloped (countries), backward, unentered","pos":["n"]}]},"sdata":[]}

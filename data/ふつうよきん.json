@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"普通預金","p":true}],"r_ele":[{"r":"ふつうよきん","p":true}],"sense":[{"gloss":"ordinary bank account","pos":["n"]}]},"sdata":[]}

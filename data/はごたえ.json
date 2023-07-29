@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歯ごたえ","p":true},{"e":"歯応え","p":true}],"r_ele":[{"r":"はごたえ","p":true}],"sense":[{"gloss":"chewiness, firmness, feel of food while being chewed","pos":["n"]},{"gloss":"challenge (e.g. work, book), toughness","pos":["n"]}]},"sdata":[]}

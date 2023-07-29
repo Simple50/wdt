@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オーソドックス","p":true}],"sense":[{"gloss":"orthodox","pos":["adj-na","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダーリン","p":true}],"sense":[{"gloss":"darling","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑恋人↑↓こいびと↓を「|ダーリン|」と↑呼↑↓よ↓びます。","e":"I call my sweetheart darling."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"消印","p":true},{"e":"消し印","i":["io"]}],"r_ele":[{"r":"けしいん","p":true}],"sense":[{"gloss":"postmark, (postal) cancellation mark","pos":["n"]}]},"sdata":[]}

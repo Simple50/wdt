@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"菓子パン","p":true}],"r_ele":[{"r":"かしパン","p":true}],"sense":[{"gloss":"baked sweet goods (e.g. Danish pastry, melon bread), sweet pastry, sweet bread","pos":["n"]}]},"sdata":[]}

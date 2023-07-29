@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流し網","p":true}],"r_ele":[{"r":"ながしあみ","p":true}],"sense":[{"gloss":"drift net","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モービルハウス","p":true},{"r":"モービル・ハウス"}],"sense":[{"gloss":"mobile house","pos":["n"]}]},"sdata":[]}

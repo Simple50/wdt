@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"商工会議所","p":true}],"r_ele":[{"r":"しょうこうかいぎしょ","p":true}],"sense":[{"gloss":"Chamber of Commerce and Industry","pos":["n"]}]},"sdata":[]}

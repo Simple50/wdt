@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"復刻","p":true},{"e":"覆刻"},{"e":"複刻"}],"r_ele":[{"r":"ふっこく","p":true}],"sense":[{"gloss":"republication, reissue, reprinting, reproduction","pos":["n","vs","vt"]}]},"sdata":[]}

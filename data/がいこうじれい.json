@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外交辞令","p":true}],"r_ele":[{"r":"がいこうじれい","p":true}],"sense":[{"gloss":"diplomatic turn of phrase, diplomatic language, tactful way of expressing something","pos":["n","adj-no"]}],"m":["yoji"]},"sdata":[{"j":"それは↑外交↑↓|がいこう↓↑辞令↑↓じれい|↓だ。","e":"Those words are mere diplomatic niceties."}]}

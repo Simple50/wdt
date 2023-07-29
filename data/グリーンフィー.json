@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グリーンフィー","p":true},{"r":"グリーン・フィー"}],"sense":[{"gloss":"green fee","pos":["n"],"f":["golf"]}]},"sdata":[]}

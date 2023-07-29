@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"負けん気","p":true}],"r_ele":[{"r":"まけんき","p":true}],"sense":[{"gloss":"competitive spirit, spirit of rivalry","pos":["n"]}]},"sdata":[]}

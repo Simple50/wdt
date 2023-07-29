@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仏塔","p":true}],"r_ele":[{"r":"ぶっとう","p":true}],"sense":[{"gloss":"stupa, pagoda","pos":["n"]}]},"sdata":[]}

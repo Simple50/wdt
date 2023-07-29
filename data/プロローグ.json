@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロローグ","p":true},{"r":"プロログ"}],"sense":[{"gloss":"prologue, prolog","pos":["n"]},{"gloss":"Prolog (Programming in Logic)","pos":["n"],"f":["comp"]}]},"sdata":[]}

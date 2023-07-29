@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陶芸","p":true}],"r_ele":[{"r":"とうげい","p":true}],"sense":[{"gloss":"ceramic art, ceramics","pos":["n"]}]},"sdata":[{"j":"その↑陶芸↑↓|とうげい|↓↑家↑↓か↓は↑腕↑↓うで↓が↑落↑↓お↓ちた。","e":"The potter's lost his cunning."},{"j":"↑土曜日↑↓どようび↓、↑去年↑↓きょねん↓から↑通↑↓かよ↓い↑始↑↓はじ↓めた↑陶芸↑↓|とうげい|↓↑教室↑↓きょうしつ↓。","e":"Saturday is the pottery class I've been attending since last year."}]}

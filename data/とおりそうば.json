@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通り相場","p":true}],"r_ele":[{"r":"とおりそうば","p":true}],"sense":[{"gloss":"going price, general custom","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ライフワーク","p":true}],"sense":[{"gloss":"lifework, life's work","pos":["n"]}]},"sdata":[{"j":"その↑学者↑↓がくしゃ↓は|ライフワーク|を↑続↑↓つづ↓けた。","e":"The scholar carried on his lifework."},{"j":"その↑学者↑↓がくしゃ↓は７０↑才↑↓さい↓で|ライフワーク|を↑完成↑↓かんせい↓した。","e":"The scholar carried out his lifework at the age of seventy."}]}

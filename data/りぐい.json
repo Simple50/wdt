@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"利食い","p":true}],"r_ele":[{"r":"りぐい","p":true}],"sense":[{"gloss":"profit-taking","pos":["n","vs","vi"],"f":["finc"]}]},"sdata":[]}

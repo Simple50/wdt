@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学閥","p":true}],"r_ele":[{"r":"がくばつ","p":true}],"sense":[{"gloss":"alma mater clique, old school tie","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"慰める","p":true}],"r_ele":[{"r":"なぐさめる","p":true}],"sense":[{"gloss":"to comfort, to console, to amuse","pos":["v1","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑彼女↑↓かのじょ↓を↑慰↑↓|なぐさ↓める|ことができる。","e":"I can comfort her."},{"j":"↑僕↑↓ぼく↓らはトムを↑慰↑↓|なぐさ↓める|↑必要↑↓ひつよう↓がある。","e":"We need to comfort Tom."}]}

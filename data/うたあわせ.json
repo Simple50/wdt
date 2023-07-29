@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歌合","p":true},{"e":"歌合わせ"},{"e":"歌合せ"}],"r_ele":[{"r":"うたあわせ","p":true}],"sense":[{"gloss":"poetry contest","pos":["n"]}]},"sdata":[]}

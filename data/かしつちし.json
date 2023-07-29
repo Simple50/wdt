@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"過失致死","p":true}],"r_ele":[{"r":"かしつちし","p":true}],"sense":[{"gloss":"involuntary manslaughter, accidental homicide, negligent homicide","pos":["n"]}]},"sdata":[]}

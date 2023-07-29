@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホステス","p":true}],"sense":[{"gloss":"hostess","pos":["n"]},{"gloss":"barmaid","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はエア|ホステス|と↑結婚↑↓けっこん↓した。","e":"He married an air hostess."},{"j":"↑魅力↑↓みりょく↓↑的↑↓てき↓な|ホステス|のために↑乾杯↑↓かんぱい↓！","e":"Let's drink to our charming hostess!"}]}

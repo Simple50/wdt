@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蔵相","p":true}],"r_ele":[{"r":"ぞうしょう","p":true}],"sense":[{"gloss":"Minister of Finance","pos":["n"],"x":["大蔵大臣"]}]},"sdata":[]}

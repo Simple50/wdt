@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニューサウスウェールズ","p":true},{"r":"ニュー・サウス・ウェールズ"}],"sense":[{"gloss":"New South Wales","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突っ立つ","p":true},{"e":"つっ立つ"}],"r_ele":[{"r":"つったつ","p":true}],"sense":[{"gloss":"to stick up (hair, etc.), to stand up straight","pos":["v5t","vi"]},{"gloss":"to stand up abruptly, to jump to one's feet","pos":["v5t","vi"]},{"gloss":"to stand in one place, doing nothing in particular, to stand around, to stand flat-footed","pos":["v5t","vi"]}]},"sdata":[]}

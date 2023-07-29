@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"演技力","p":true}],"r_ele":[{"r":"えんぎりょく","p":true}],"sense":[{"gloss":"acting ability, talent as a performer","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無重量","p":true}],"r_ele":[{"r":"むじゅうりょう","p":true}],"sense":[{"gloss":"weightlessness, zero gravity","pos":["n"]}]},"sdata":[]}

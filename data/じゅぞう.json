@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受像","p":true}],"r_ele":[{"r":"じゅぞう","p":true}],"sense":[{"gloss":"(television) reception, receiving (a picture)","pos":["n","vs","vt"],"x":["送像"]}]},"sdata":[{"j":"この↑工場↑↓こうじょう↓ではテレビ↑受像↑↓|じゅぞう|↓↑機↑↓き↓を↑製造↑↓せいぞう↓しています。","e":"They are manufacturing TV sets in this factory."}]}

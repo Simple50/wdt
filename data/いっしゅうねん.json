@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一周年","p":true}],"r_ele":[{"r":"いっしゅうねん","p":true}],"sense":[{"gloss":"one full year","pos":["n"]}]},"sdata":[{"j":"トムとメアリーは↑交際↑↓こうさい↓↑一↑↓|いっ↓↑周年↑↓しゅうねん|↓を↑記念↑↓きねん↓して、ロマンチックなディナーをとった。","e":"Tom and Mary had a romantic dinner to celebrate the first anniversary of their being together."}]}

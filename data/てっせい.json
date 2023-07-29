@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄製","p":true}],"r_ele":[{"r":"てっせい","p":true},{"r":"てつせい"}],"sense":[{"gloss":"made of iron","pos":["adj-no","n"]}]},"sdata":[]}

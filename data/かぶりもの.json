@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"被り物","p":true},{"e":"かぶり物"},{"e":"被りもの"},{"e":"被物"},{"e":"冠り物"},{"e":"冠物"}],"r_ele":[{"r":"かぶりもの","p":true}],"sense":[{"gloss":"headgear, headdress","pos":["n"]},{"gloss":"(novelty) mask, head mask","pos":["n"]}]},"sdata":[]}

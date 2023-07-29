@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実費","p":true}],"r_ele":[{"r":"じっぴ","p":true}],"sense":[{"gloss":"actual expenses, out-of-pocket expenses","pos":["n"]},{"gloss":"cost price","pos":["n"]}]},"sdata":[]}

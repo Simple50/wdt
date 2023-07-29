@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フロック","p":true}],"sense":[{"gloss":"fluke, chance, unexpected event, lucky shot (e.g. in billiards)","pos":["n"]}]},"sdata":[]}

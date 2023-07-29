@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ネスト","p":true}],"sense":[{"gloss":"nest, hive, rookery","pos":["n"]},{"gloss":"hideout, refuge, retreat","pos":["n"]},{"gloss":"nesting (software, data structures)","pos":["n","vs"],"f":["comp"]}]},"sdata":[{"j":"ゼ|ネスト|で↑国↑↓くに↓↑中↑↓ちゅう↓の↑機能↑↓きのう↓が↑麻痺↑↓まひ↓した。","e":"The general strike paralyzed the whole country."}]}

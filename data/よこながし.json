@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横流し","p":true}],"r_ele":[{"r":"よこながし","p":true}],"sense":[{"gloss":"diversion into illegal channels, putting on the black market, selling through illegal channels","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内出血","p":true}],"r_ele":[{"r":"ないしゅっけつ","p":true}],"sense":[{"gloss":"internal bleeding, internal haemorrhage, internal hemorrhage","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑内出血↑↓|ないしゅっけつ|↓している↑気↑↓き↓がするのですが。","e":"I'm afraid I have internal bleeding."},{"j":"↑内出血↑↓|ないしゅっけつ|↓している↑気↑↓き↓がするのですが。","e":"I'm afraid that I have internal bleeding."}]}

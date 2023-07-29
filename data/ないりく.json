@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内陸","p":true}],"r_ele":[{"r":"ないりく","p":true}],"sense":[{"gloss":"inland","pos":["n","adj-no"]}]},"sdata":[]}

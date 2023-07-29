@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一大事","p":true}],"r_ele":[{"r":"いちだいじ","p":true}],"sense":[{"gloss":"important matter, matter of great importance, serious affair, major incident, emergency","pos":["n"]}]},"sdata":[{"j":"↑結婚↑↓けっこん↓するのって、↑一大事↑↓|いちだいじ|↓だよ。","e":"Getting married is a serious matter."}]}

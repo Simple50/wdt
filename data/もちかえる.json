@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持ち帰る","p":true},{"e":"持帰る"}],"r_ele":[{"r":"もちかえる","p":true}],"sense":[{"gloss":"to take home, to carry home, to bring back home, to take out (e.g. food)","pos":["v5r","vt"]}]},"sdata":[{"j":"ミツバチは、においのサンプルを↑巣↑↓す↓に↑持↑↓|も↓ち↑帰↑↓かえ↓る|ことによって↑食糧↑↓しょくりょう↓のありかを↑伝↑↓つた↓える。","e":"Bees communicate the location of food by carrying odor samples back to the hive."}]}

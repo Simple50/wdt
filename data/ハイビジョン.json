@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイビジョン","p":true},{"r":"ハイビション"}],"sense":[{"gloss":"HDTV, high-definition television","pos":["n"],"l":"eng: hi-vision"}]},"sdata":[]}

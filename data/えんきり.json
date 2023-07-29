@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縁切り","p":true}],"r_ele":[{"r":"えんきり","p":true}],"sense":[{"gloss":"separation, divorce, severing of connections","pos":["n","vs","vi"]}]},"sdata":[]}

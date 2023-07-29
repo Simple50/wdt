@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"修道院","p":true}],"r_ele":[{"r":"しゅうどういん","p":true}],"sense":[{"gloss":"monastery, convent, cloister, abbey","pos":["n"]}]},"sdata":[{"j":"↑当時↑↓とうじ↓は↑修道↑↓しゅうどう↓↑僧↑↓そう↓↑達↑↓たち↓が↑修道院↑↓|しゅうどういん|↓でよくテニスをしていた。","e":"Monks used to play tennis in monasteries."}]}

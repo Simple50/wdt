@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目張り","p":true},{"e":"目貼り"}],"r_ele":[{"r":"めばり","p":true}],"sense":[{"gloss":"weather strip, weather stripping, sealing up (a window)","pos":["n","vs"]},{"gloss":"putting on eyeliner (in theatre)","pos":["n","vs"]}]},"sdata":[]}

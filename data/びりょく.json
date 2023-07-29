@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"微力","p":true}],"r_ele":[{"r":"びりょく","p":true}],"sense":[{"gloss":"little power, little influence","pos":["n"]},{"gloss":"(one's) poor ability, limited ability, what little one can do","pos":["n"],"m":["hum"]}]},"sdata":[]}

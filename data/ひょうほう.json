@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"兵法","p":true}],"r_ele":[{"r":"へいほう"},{"r":"ひょうほう","p":true}],"sense":[{"gloss":"art of war, strategy, tactics","pos":["n"]}]},"sdata":[]}

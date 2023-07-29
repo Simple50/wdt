@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エッセイ","p":true},{"r":"エッセー","p":true},{"r":"エッセィ"}],"sense":[{"gloss":"essay","pos":["n","adj-no"]}]},"sdata":[{"j":"↑定期↑↓ていき↓↑試験↑↓しけん↓を↑受↑↓う↓けるほかに、↑長↑↓なが↓い|エッセー|も↑提出↑↓ていしゅつ↓しなければならない。","e":"In addition to taking the regular tests, we have to hand in a long essay."}]}

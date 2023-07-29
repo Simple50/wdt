@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"施工","p":true}],"r_ele":[{"r":"せこう","p":true},{"r":"しこう"}],"sense":[{"gloss":"construction, constructing, carrying out, work, formation, workmanship, execution","pos":["n","vs","vt","vi"]}]},"sdata":[]}

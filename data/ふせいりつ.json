@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不成立","p":true}],"r_ele":[{"r":"ふせいりつ","p":true}],"sense":[{"gloss":"failure, rejection, rupture","pos":["n"]}]},"sdata":[]}

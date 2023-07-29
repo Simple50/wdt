@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"壮麗","p":true}],"r_ele":[{"r":"そうれい","p":true}],"sense":[{"gloss":"splendour, splendor, pompousness, magnificence","pos":["adj-na","n"]}]},"sdata":[{"j":"↑王↑↓おう↓は↑壮麗↑↓|そうれい|↓な↑宮殿↑↓きゅうでん↓で↑有名↑↓ゆうめい↓だった。","e":"The king was famous for his splendid palace."}]}

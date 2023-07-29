@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミラクル","p":true}],"sense":[{"gloss":"miracle","pos":["n"],"x":["奇跡"]}]},"sdata":[]}

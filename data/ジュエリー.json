@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジュエリー","p":true},{"r":"ジューリー"},{"r":"ジュウリー"}],"sense":[{"gloss":"jewelry, jewellery","pos":["n"]}]},"sdata":[{"j":"↑宝↑↓たから↓↑箱↑↓ばこ↓にはたくさんの|ジュエリー|が↑入↑↓はい↓ってたんだ。","e":"There were many jewels in the treasure chest."}]}

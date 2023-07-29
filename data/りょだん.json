@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旅団","p":true}],"r_ele":[{"r":"りょだん","p":true}],"sense":[{"gloss":"brigade","pos":["n"]}]},"sdata":[]}

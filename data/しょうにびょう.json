@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小児病","p":true}],"r_ele":[{"r":"しょうにびょう","p":true}],"sense":[{"gloss":"childhood diseases","pos":["n"]}]},"sdata":[{"j":"あなたの↑寄附↑↓きふ↓は↑小児↑↓|しょうに↓↑病院↑↓びょう|いん↓を↑建設↑↓けんせつ↓する↑補助↑↓ほじょ↓として、↑大↑↓おお↓いに↑役立↑↓やくだ↓つでしょう。","e":"Your gift will go far towards helping to build the children's hospital."}]}

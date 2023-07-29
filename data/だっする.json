@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脱する","p":true}],"r_ele":[{"r":"だっする","p":true}],"sense":[{"gloss":"to escape from, to get out","pos":["vs-s"]}]},"sdata":[]}

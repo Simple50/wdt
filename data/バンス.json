@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バンス","p":true}],"sense":[{"gloss":"advance","pos":["n"]}],"m":["abbr"]},"sdata":[]}

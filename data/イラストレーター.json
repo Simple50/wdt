@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イラストレーター","p":true},{"r":"イラストレータ"}],"sense":[{"gloss":"illustrator","pos":["n"]}]},"sdata":[{"j":"トムは|イラストレーター|なんだ。","e":"Tom is an illustrator."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"劇中劇","p":true}],"r_ele":[{"r":"げきちゅうげき","p":true}],"sense":[{"gloss":"play within a play","pos":["n"]}]},"sdata":[]}

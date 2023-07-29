@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腹腔","p":true}],"r_ele":[{"r":"ふっこう"},{"r":"ふくこう"},{"r":"ふくくう","p":true}],"sense":[{"gloss":"abdominal cavity","pos":["n","adj-no"],"f":["anat"]}]},"sdata":[]}

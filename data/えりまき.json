@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"襟巻き","p":true},{"e":"襟巻"},{"e":"えり巻き","i":["sK"]}],"r_ele":[{"r":"えりまき","p":true},{"r":"エリマキ"}],"sense":[{"gloss":"scarf (esp. one worn for warmth), muffler","pos":["n"]}]},"sdata":[{"j":"↑本当↑↓ほんとう↓に↑悪↑↓わる↓いんだけど、↑君↑↓きみ↓の↑襟巻↑↓|えりま↓き|、どっかに↑置↑↓お↓いてきてしまったらしいんだよ。","e":"I'm really sorry, but I seem to have misplaced your scarf."}]}

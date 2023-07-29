@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"交える","p":true},{"e":"混える","i":["iK"]},{"e":"雑える","i":["iK"]}],"r_ele":[{"r":"まじえる","p":true}],"sense":[{"gloss":"to mix, to combine, to include","pos":["v1","vt"]},{"gloss":"to exchange (words, fire, etc.)","pos":["v1","vt"]},{"gloss":"to cross (e.g. swords), to join together","pos":["v1","vt"]}]},"sdata":[]}

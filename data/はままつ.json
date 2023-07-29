@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浜松","p":true}],"r_ele":[{"r":"はままつ","p":true}],"sense":[{"gloss":"Hamamatsu (city)","pos":["n"]}]},"sdata":[{"j":"↑毎年↑↓まいとし↓、↑浜松↑↓|はままつ|↓で↑凧↑↓たこ↓↑揚↑↓あ↓げ↑大会↑↓たいかい↓が↑開↑↓ひら↓かれる。","e":"Each year Hamamatsu has a kite festival."}]}

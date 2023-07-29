@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シオニズム","p":true}],"sense":[{"gloss":"Zionism","pos":["n"]}]},"sdata":[]}

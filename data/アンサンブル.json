@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンサンブル","p":true}],"sense":[{"gloss":"ensemble","pos":["n"],"f":["music"],"l":"fre"},{"gloss":"coordination, harmony (between performers)","pos":["n"],"f":["music"]},{"gloss":"ensemble (of clothes), outfit, suit","pos":["n"]}]},"sdata":[{"j":"わたしはギター|アンサンブル|でバスギターを↑弾↑↓ひ↓いている。","e":"I play bass guitar in a guitar ensemble."}]}

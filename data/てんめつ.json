@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"点滅","p":true}],"r_ele":[{"r":"てんめつ","p":true}],"sense":[{"gloss":"switching on and off (of a light), flashing, blinking, flickering","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"バックミラーに↑赤↑↓あか↓いランプが↑点滅↑↓|てんめつ|↓しているのが↑見↑↓み↓えた↑時↑↓とき↓は、ガックリきたね。","e":"I saw flashing red lights in my rear-view mirror and my heart sank."}]}

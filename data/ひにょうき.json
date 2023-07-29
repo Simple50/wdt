@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"泌尿器","p":true}],"r_ele":[{"r":"ひにょうき","p":true},{"r":"ひつにょうき"}],"sense":[{"gloss":"urinary organs","pos":["n"]}]},"sdata":[]}

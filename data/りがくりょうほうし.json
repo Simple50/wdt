@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"理学療法士","p":true}],"r_ele":[{"r":"りがくりょうほうし","p":true}],"sense":[{"gloss":"physiotherapist, physical therapist","pos":["n"]}]},"sdata":[]}

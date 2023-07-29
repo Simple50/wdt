@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"准将","p":true}],"r_ele":[{"r":"じゅんしょう","p":true}],"sense":[{"gloss":"commodore, brigadier general","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ソリスト","p":true}],"sense":[{"gloss":"soloist","pos":["n"],"f":["music"],"l":"fre: soliste"}]},"sdata":[]}

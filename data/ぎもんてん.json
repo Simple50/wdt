@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"疑問点","p":true}],"r_ele":[{"r":"ぎもんてん","p":true}],"sense":[{"gloss":"point of uncertainty, unclarified issue, doubt","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"喚く","p":true},{"e":"叫く","i":["rK"]}],"r_ele":[{"r":"わめく","p":true}],"sense":[{"gloss":"to shout, to cry (out), to yell, to scream, to clamour","pos":["v5k","vi"]}],"m":["uk"]},"kdata":{"喚":{"on":["カン"],"kun":["わめ.く"],"jlpt":1,"meanings":["yell","cry","call","scream","summon"],"freq":1120,"comp":[["奐","口"]],"t":1468}},"sdata":[]}

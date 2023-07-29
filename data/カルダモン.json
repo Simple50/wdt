@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カルダモン","p":true}],"sense":[{"gloss":"cardamom, cardamon","pos":["n"]}]},"sdata":[]}

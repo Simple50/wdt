@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"複式","p":true}],"r_ele":[{"r":"ふくしき","p":true}],"sense":[{"gloss":"double-entry (e.g. bookkeeping)","pos":["n"]}]},"sdata":[]}

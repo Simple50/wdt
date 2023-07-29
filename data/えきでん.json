@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駅伝","p":true}],"r_ele":[{"r":"えきでん","p":true}],"sense":[{"gloss":"long-distance relay race","pos":["n"],"m":["abbr"],"x":["駅伝競走"]},{"gloss":"stagecoach, post horse","pos":["n"]}]},"sdata":[]}

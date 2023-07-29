@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煮汁","p":true}],"r_ele":[{"r":"にじる","p":true}],"sense":[{"gloss":"broth","pos":["n"]}]},"sdata":[]}

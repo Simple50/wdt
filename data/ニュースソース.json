@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニュースソース","p":true},{"r":"ニュース・ソース"}],"sense":[{"gloss":"news source","pos":["n"]}]},"sdata":[]}

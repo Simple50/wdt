@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パスケース","p":true},{"r":"パス・ケース"}],"sense":[{"gloss":"commuter pass container, holder for a season ticket","pos":["n"],"x":["定期入れ・ていきいれ"],"l":"eng: pass case"}]},"sdata":[]}

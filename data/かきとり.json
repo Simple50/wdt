@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書き取り","p":true},{"e":"書取","p":true}],"r_ele":[{"r":"かきとり","p":true}],"sense":[{"gloss":"writing down from other written material, writing kanji text from hiragana","pos":["n"]},{"gloss":"transcription (of spoken material), dictation","pos":["n"]}]},"sdata":[{"j":"↑今日↑↓きょう↓は↑漢字↑↓かんじ↓の↑書↑↓|か↓き↑取↑↓と↓り|がある。","e":"We have a kanji dictation test today."}]}

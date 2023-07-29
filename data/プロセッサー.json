@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロセッサー","p":true},{"r":"プロセッサ"}],"sense":[{"gloss":"processor","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"ワード|プロセッサー|の↑使↑↓つか↓い↑方↑↓かた↓を↑知↑↓し↓っていますか。","e":"Do you know how to use a word processor?"}]}

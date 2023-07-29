@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新約聖書","p":true}],"r_ele":[{"r":"しんやくせいしょ","p":true}],"sense":[{"gloss":"New Testament","pos":["n"],"f":["Christn"]}]},"sdata":[]}

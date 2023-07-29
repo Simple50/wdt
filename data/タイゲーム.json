@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タイゲーム","p":true},{"r":"タイ・ゲーム"}],"sense":[{"gloss":"tie game, tied game","pos":["n"],"f":["sports"]}]},"sdata":[]}

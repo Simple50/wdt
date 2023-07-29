@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペール","p":true}],"sense":[{"gloss":"pale","pos":["adj-f"]}]},"sdata":[{"j":"|ペール|エールはアルコール↑含有↑↓がんゆう↓↑量↑↓りょう↓の↑少↑↓すく↓ないビールだ。","e":"Pale ale is a low-alcohol beer."},{"j":"「これは↑何↑↓なに↓↑色↑↓いろ↓？」「|ペール|オレンジだよ」","e":"What color is this? \"It's pale orange.\""}]}

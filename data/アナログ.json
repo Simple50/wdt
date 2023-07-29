@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アナログ","p":true}],"sense":[{"gloss":"analog, analogue","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

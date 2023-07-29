@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旅程","p":true}],"r_ele":[{"r":"りょてい","p":true}],"sense":[{"gloss":"itinerary, travel plans","pos":["n"]},{"gloss":"distance (of a trip), journey","pos":["n"]}]},"sdata":[]}

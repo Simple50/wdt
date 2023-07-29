@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き付ける"},{"e":"突きつける","p":true}],"r_ele":[{"r":"つきつける","p":true}],"sense":[{"gloss":"to thrust before, to thrust at","pos":["v1","vt"]}]},"kdata":{"突":{"on":["トツ","カ"],"kun":["つ.く"],"jlpt":3,"meanings":["stab","protruding","thrust","pierce","prick","collision","sudden"],"freq":521,"comp":[["犬","穴"]],"d":["揬","葖"],"t":744}},"sdata":[]}

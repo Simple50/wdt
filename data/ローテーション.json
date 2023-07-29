@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ローテーション","p":true}],"sense":[{"gloss":"rotation","pos":["n"]}]},"sdata":[{"j":"５↑人↑↓にん↓の↑選手↑↓せんしゅ↓で|ローテーション|を↑組↑↓く↓んだ。","e":"Five pitchers are to take the mound in rotation."}]}

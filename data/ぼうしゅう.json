@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防臭","p":true}],"r_ele":[{"r":"ぼうしゅう","p":true}],"sense":[{"gloss":"odor-resistant, odour-resistant","pos":["n"]}]},"sdata":[{"j":"↑今週↑↓こんしゅう↓は↑火災↑↓かさい↓↑予防↑↓よ|ぼう↓↑週間↑↓しゅう|かん↓です。","e":"This is Fire Prevention Week."}]}

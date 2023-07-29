@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"進み出る","p":true}],"r_ele":[{"r":"すすみでる","p":true}],"sense":[{"gloss":"to step forward, to volunteer","pos":["v1","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガリウム","p":true}],"sense":[{"gloss":"gallium (Ga)","pos":["n","adj-no"]}]},"sdata":[]}

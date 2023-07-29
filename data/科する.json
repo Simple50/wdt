@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"科する","p":true}],"r_ele":[{"r":"かする","p":true}],"sense":[{"gloss":"to inflict, to impose (a fine, etc.)","pos":["vs-s","vt"]}]},"kdata":{"科":{"on":["カ"],"jlpt":3,"meanings":["department","course","section"],"freq":531,"comp":[["斗","禾"]],"d":["蝌","萪","嵙"],"s":"料","t":936}},"sdata":[]}

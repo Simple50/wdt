@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自作農","p":true}],"r_ele":[{"r":"じさくのう","p":true}],"sense":[{"gloss":"landed farmer, owner farmer","pos":["n"]}]},"sdata":[]}

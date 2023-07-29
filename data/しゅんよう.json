@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"春陽","p":true}],"r_ele":[{"r":"しゅんよう","p":true}],"sense":[{"gloss":"spring sunshine, springtime","pos":["n"]}]},"sdata":[]}

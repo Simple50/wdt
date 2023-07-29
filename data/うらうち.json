@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"裏打ち","p":true}],"r_ele":[{"r":"うらうち","p":true}],"sense":[{"gloss":"lining, backing","pos":["n","vs","vt"]},{"gloss":"backing up (e.g. a theory), support, bolstering","pos":["n","vs","vt"]}]},"sdata":[]}

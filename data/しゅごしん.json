@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"守護神","p":true}],"r_ele":[{"r":"しゅごじん"},{"r":"しゅごしん","p":true}],"sense":[{"gloss":"guardian deity","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"送風","p":true}],"r_ele":[{"r":"そうふう","p":true}],"sense":[{"gloss":"ventilation","pos":["n","vs","vi"]}]},"sdata":[]}

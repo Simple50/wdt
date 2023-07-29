@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"賠償金","p":true}],"r_ele":[{"r":"ばいしょうきん","p":true}],"sense":[{"gloss":"indemnities, reparations","pos":["n"]}]},"sdata":[{"j":"↑賠償↑↓|ばいしょう↓↑金↑↓きん|↓えぐいことになるな。","e":"The compensation is going to be a heck of a lot of money."}]}

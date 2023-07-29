@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伝送","p":true}],"r_ele":[{"r":"でんそう","p":true}],"sense":[{"gloss":"transmission, communication, circulation, dissemination, diffusion, propagation, delivery","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑電線↑↓でんせん↓は↑電気↑↓でんき↓を↑伝送↑↓|でんそう|↓するものです。","e":"Wires transmit electricity."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"力負け","p":true},{"e":"力負","i":["io"]}],"r_ele":[{"r":"ちからまけ","p":true}],"sense":[{"gloss":"losing by being overmatched, being defeated by a stronger opponent","pos":["n","vs","vi"]},{"gloss":"losing by misusing one's powers, defeat as a result of trying too hard","pos":["n","vs","vi"]}]},"sdata":[]}

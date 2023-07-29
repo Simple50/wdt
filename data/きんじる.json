@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"禁じる","p":true}],"r_ele":[{"r":"きんじる","p":true}],"sense":[{"gloss":"to prohibit","pos":["v1","vt"]}]},"sdata":[{"j":"↑君↑↓きみ↓の↑喫煙↑↓きつえん↓を↑禁↑↓|きん↓じる|。","e":"I forbid you to smoke."}]}

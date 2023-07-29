@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"香辛料","p":true}],"r_ele":[{"r":"こうしんりょう","p":true}],"sense":[{"gloss":"spice, spices, condiment","pos":["n"]}]},"sdata":[{"j":"↑韓国↑↓かんこく↓↑料理↑↓りょうり↓は、↑香辛料↑↓|こうしんりょう|↓のきいた↑味↑↓あじ↓でよく↑知↑↓し↓られている。","e":"Korean food is noted for its spicy flavor."}]}

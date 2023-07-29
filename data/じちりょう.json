@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自治領","p":true}],"r_ele":[{"r":"じちりょう","p":true}],"sense":[{"gloss":"self-governing dominion","pos":["n"]}]},"sdata":[]}

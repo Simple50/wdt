@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"標榜","p":true},{"e":"標ぼう"}],"r_ele":[{"r":"ひょうぼう","p":true}],"sense":[{"gloss":"standing for, advocating, championing, professing (to be)","pos":["n","vs","vt"]}]},"sdata":[]}

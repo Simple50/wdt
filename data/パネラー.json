@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パネラー","p":true}],"sense":[{"gloss":"panellist (panelist)","pos":["n"],"l":"eng: paneler"}]},"sdata":[]}

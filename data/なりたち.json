@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"成り立ち","p":true},{"e":"成立ち"}],"r_ele":[{"r":"なりたち","p":true}],"sense":[{"gloss":"the way in which something came about, origin","pos":["n"]},{"gloss":"structure, organization, the way something is constructed","pos":["n"]}]},"sdata":[{"j":"この↑学校↑↓がっこう↓の↑成↑↓|な↓り↑立↑↓た↓ち|をお↑話↑↓はなし↓しましょう。","e":"Let me tell you about the origin of this school."}]}

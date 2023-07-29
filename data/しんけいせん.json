@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神経戦","p":true}],"r_ele":[{"r":"しんけいせん","p":true}],"sense":[{"gloss":"war of nerves","pos":["n"]}]},"sdata":[]}

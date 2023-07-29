@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブラインド","p":true}],"sense":[{"gloss":"window blind, blinds","pos":["n"]},{"gloss":"blind","pos":["n"],"f":["cards"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は|ブラインド|を↑引↑↓ひ↓きおろした。","e":"She pulled down the blinds."},{"j":"↑彼女↑↓かのじょ↓は|ブラインド|を↑降↑↓お↓ろした。","e":"She pulled the blinds down."},{"j":"|ブラインド|デートなんてしたことないよ。","e":"I've never been on a blind date."}]}

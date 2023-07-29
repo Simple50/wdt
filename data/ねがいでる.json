@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"願い出る","p":true}],"r_ele":[{"r":"ねがいでる","p":true}],"sense":[{"gloss":"to ask for, to apply for, to make an application for, to file a request for, to submit (e.g. one's resignation)","pos":["v1","vt"]}]},"sdata":[]}

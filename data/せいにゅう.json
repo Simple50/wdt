@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生乳","p":true}],"r_ele":[{"r":"せいにゅう","p":true}],"sense":[{"gloss":"raw milk","pos":["n"]}]},"sdata":[]}

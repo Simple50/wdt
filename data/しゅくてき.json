@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宿敵","p":true}],"r_ele":[{"r":"しゅくてき","p":true}],"sense":[{"gloss":"old enemy, longtime enemy, arch-enemy, traditional rival, longstanding foe","pos":["n"]}]},"sdata":[]}

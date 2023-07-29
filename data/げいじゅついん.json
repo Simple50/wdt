@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"芸術院","p":true}],"r_ele":[{"r":"げいじゅついん","p":true}],"sense":[{"gloss":"academy of arts, arts academy","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縫い付ける","p":true},{"e":"縫いつける"}],"r_ele":[{"r":"ぬいつける","p":true}],"sense":[{"gloss":"to sew on","pos":["v1","vt"]}]},"sdata":[]}

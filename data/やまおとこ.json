@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山男","p":true}],"r_ele":[{"r":"やまおとこ","p":true}],"sense":[{"gloss":"giant, woodsman, alpinist","pos":["n"]}]},"sdata":[]}

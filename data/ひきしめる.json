@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き締める","p":true},{"e":"引きしめる"},{"e":"引締める","p":true}],"r_ele":[{"r":"ひきしめる","p":true}],"sense":[{"gloss":"to tighten, to stiffen, to brace, to strain","pos":["v1","vt"]}]},"sdata":[]}

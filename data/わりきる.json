@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"割り切る","p":true},{"e":"割切る"}],"r_ele":[{"r":"わりきる","p":true}],"sense":[{"gloss":"to find a clear solution, to come to a clean decision, to give a clear explanation, to reason out, to conclude, to be pragmatic, to be practical","pos":["v5r","vt"]},{"gloss":"to divide exactly (without remainder), to divide evenly","pos":["v5r","vt"]}]},"sdata":[]}

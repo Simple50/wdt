@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンディエゴ","p":true},{"r":"サン・ディエゴ"}],"sense":[{"gloss":"San Diego","pos":["n"]}]},"sdata":[{"j":"|サンディエゴ|２↑枚↑↓まい↓ください。","e":"Two tickets to San Diego, please."},{"j":"↑弟↑↓おとうと↓は|サンディエゴ|に↑住↑↓す↓んでいます。","e":"My brother is living in San Diego."},{"j":"↑兄↑↓あに↓は|サンディエゴ|に↑住↑↓す↓んでいます。","e":"My brother is living in San Diego."}]}

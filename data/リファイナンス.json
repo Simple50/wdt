@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リファイナンス","p":true}],"sense":[{"gloss":"refinance","pos":["n"]}]},"sdata":[]}

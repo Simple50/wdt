@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冥福","p":true},{"e":"めい福"}],"r_ele":[{"r":"めいふく","p":true},{"r":"みょうふく"}],"sense":[{"gloss":"happiness in the next world","pos":["n"]}]},"sdata":[{"j":"ご↑冥福↑↓|めいふく|↓をお↑祈↑↓いの↓りします。","e":"May his soul rest in peace."},{"j":"ご↑冥福↑↓|めいふく|↓をお↑祈↑↓いの↓り↑致↑↓いた↓します。","e":"May your soul rest in peace."}]}

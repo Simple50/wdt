@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脚光","p":true}],"r_ele":[{"r":"きゃっこう","p":true}],"sense":[{"gloss":"footlight, limelight","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グレコローマンスタイル","p":true},{"r":"グレコローマン・スタイル"}],"sense":[{"gloss":"Greco-Roman wrestling, Greco-Roman style, classic wrestling","pos":["n"],"f":["sports"]}]},"sdata":[]}

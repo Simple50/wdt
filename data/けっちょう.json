@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"結腸","p":true}],"r_ele":[{"r":"けっちょう","p":true}],"sense":[{"gloss":"colon","pos":["n"],"f":["anat"]}]},"sdata":[]}

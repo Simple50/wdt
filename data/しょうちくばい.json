@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"松竹梅","p":true}],"r_ele":[{"r":"しょうちくばい","p":true}],"sense":[{"gloss":"pine, bamboo and plum (an auspicious grouping)","pos":["n"],"x":["歳寒三友"]},{"gloss":"high, middle and low (ranking), top, middle and bottom, upper, medium, lower, first, second and third (class)","pos":["n"]}]},"sdata":[]}

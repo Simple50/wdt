@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベター","p":true}],"sense":[{"gloss":"better, preferable","pos":["adj-na"]}]},"sdata":[]}

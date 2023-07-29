@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不渡り","p":true}],"r_ele":[{"r":"ふわたり","p":true}],"sense":[{"gloss":"dishonouring (a bill), dishonoring, bouncing (a cheque, check), non-payment","pos":["n"]}]},"sdata":[{"j":"この↑小切手↑↓こぎって↓は↑不渡↑↓|ふわた↓り|になりました。","e":"This check was not honored."}]}

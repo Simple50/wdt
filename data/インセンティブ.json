@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インセンティブ","p":true},{"r":"インセンティヴ"}],"sense":[{"gloss":"incentive","pos":["n"]}]},"sdata":[{"j":"↑米国↑↓べいこく↓において「リベート」は、↑主↑↓おも↓にメーカーが↑消費↑↓しょうひ↓↑者↑↓しゃ↓に↑直接↑↓ちょくせつ↓↑提供↑↓ていきょう↓する|インセンティブ|↑手段↑↓しゅだん↓として↑広↑↓ひろ↓く↑認識↑↓にんしき↓されている。","e":"In America 'rebate' is widely recognized, generally as an incentive where makers give back directly to consumers."}]}

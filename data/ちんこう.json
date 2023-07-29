@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"沈降","p":true}],"r_ele":[{"r":"ちんこう","p":true}],"sense":[{"gloss":"sedimentation (e.g. of red blood cells), precipitation, settling","pos":["n","vs","vi"]},{"gloss":"subsidence (e.g. of land), sinking, submerging","pos":["n","vs","vi"]}]},"sdata":[]}

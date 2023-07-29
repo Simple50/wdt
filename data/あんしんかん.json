@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安心感","p":true}],"r_ele":[{"r":"あんしんかん","p":true}],"sense":[{"gloss":"sense of security","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓と↑一緒↑↓いっしょ↓だと↑安心↑↓|あんしん↓↑感↑↓かん|↓がある。","e":"I feel secure with him."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"開発部","p":true}],"r_ele":[{"r":"かいはつぶ","p":true}],"sense":[{"gloss":"Development Department","pos":["n"]}]},"sdata":[]}

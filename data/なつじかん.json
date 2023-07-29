@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夏時間","p":true}],"r_ele":[{"r":"なつじかん","p":true}],"sense":[{"gloss":"daylight saving time, daylight savings time, summer time","pos":["n"]}]},"sdata":[]}

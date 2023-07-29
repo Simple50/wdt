@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オープンセット","p":true},{"r":"オープン・セット"}],"sense":[{"gloss":"open set","pos":["n"]}]},"sdata":[]}

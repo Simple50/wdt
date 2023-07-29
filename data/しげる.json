@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"茂る","p":true},{"e":"繁る"},{"e":"滋る","i":["oK"]}],"r_ele":[{"r":"しげる","p":true}],"sense":[{"gloss":"to grow thickly, to be in full leaf, to be rampant, to luxuriate, to be luxurious","pos":["v5r","vi"]}]},"sdata":[]}

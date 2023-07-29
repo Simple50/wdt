@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り仕切る","p":true},{"e":"取りしきる"},{"e":"取仕切る"}],"r_ele":[{"r":"とりしきる","p":true}],"sense":[{"gloss":"to manage (all by oneself), to control, to run, to take charge of","pos":["v5r","vt"]}]},"sdata":[]}

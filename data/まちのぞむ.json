@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待ち望む","p":true},{"e":"待望む"}],"r_ele":[{"r":"まちのぞむ","p":true}],"sense":[{"gloss":"to wait eagerly for, to look forward to","pos":["v5m","vt"]}]},"sdata":[]}

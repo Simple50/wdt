@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"廃校","p":true}],"r_ele":[{"r":"はいこう","p":true}],"sense":[{"gloss":"closing of a school, closed school","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓|は↑意向↑↓いこう|↓を↑遠回↑↓とおまわ↓しに↑言↑↓い↓った。","e":"He hinted at his intention."},{"j":"うちの↑学校↑↓がっこう↓、↑来年↑↓らいねん↓には↑廃校↑↓|はいこう|↓になっちゃうんだ。","e":"Our school is closing next year."}]}

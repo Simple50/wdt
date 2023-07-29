@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"請求権","p":true}],"r_ele":[{"r":"せいきゅうけん","p":true}],"sense":[{"gloss":"claim rights","pos":["n"]}]},"sdata":[]}

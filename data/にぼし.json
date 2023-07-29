@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煮干"},{"e":"煮干し","p":true}],"r_ele":[{"r":"にぼし","p":true}],"sense":[{"gloss":"(small crunchy) dried sardines","pos":["n"]}]},"sdata":[]}

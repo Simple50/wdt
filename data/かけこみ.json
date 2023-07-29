@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆け込み","p":true},{"e":"駆込み"},{"e":"駈け込み","i":["rK"]},{"e":"駈込み","i":["rK"]},{"e":"駆けこみ","i":["sK"]},{"e":"かけ込み","i":["sK"]}],"r_ele":[{"r":"かけこみ","p":true}],"sense":[{"gloss":"running in, rushing into","pos":["n"]},{"gloss":"last-minute rush","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ルミネッセンス","p":true},{"r":"ルミネセンス"}],"sense":[{"gloss":"luminescence","pos":["n"]}]},"sdata":[]}

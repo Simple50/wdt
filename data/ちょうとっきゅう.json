@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"超特急","p":true}],"r_ele":[{"r":"ちょうとっきゅう","p":true}],"sense":[{"gloss":"super express","pos":["n"]}]},"sdata":[{"j":"↑超↑↓|ちょう↓↑特急↑↓とっきゅう|↓のぞみはひかりより↑速↑↓はや↓く↑走↑↓はし↓る。","e":"The superexpress Nozomi runs faster than the Hikari."}]}

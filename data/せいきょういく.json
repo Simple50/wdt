@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"性教育","p":true}],"r_ele":[{"r":"せいきょういく","p":true}],"sense":[{"gloss":"sex education","pos":["n"]}]},"sdata":[]}

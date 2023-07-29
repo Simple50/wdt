@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スターター","p":true},{"r":"スタータ","i":["sk"]}],"sense":[{"gloss":"starter (person who gives the signal for the start of a race)","pos":["n"]},{"gloss":"starter (player in a starting lineup)","pos":["n"],"f":["sports"]},{"gloss":"starter (motor)","pos":["n"]}]},"sdata":[]}

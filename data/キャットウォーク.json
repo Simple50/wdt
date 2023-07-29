@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャットウォーク","p":true},{"r":"キャットウオーク"}],"sense":[{"gloss":"catwalk (narrow walkway above a stage, along the side of a bridge, etc.)","pos":["n"]},{"gloss":"(indoor) cat playground, cat shelves, cat bridge","pos":["n"]},{"gloss":"catwalk (at a fashion show), runway","pos":["n"],"x":["ランウェイ・1"]}]},"sdata":[]}

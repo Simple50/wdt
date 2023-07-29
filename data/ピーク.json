@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピーク","p":true}],"sense":[{"gloss":"peak","pos":["n"]},{"gloss":"peek","pos":["n","vs"]}]},"sdata":[{"j":"↑朝↑↓あさ↓のラッシュは↑今↑↓いま↓が|ピーク|だ。","e":"The morning rush is at its peak now."}]}

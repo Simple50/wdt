@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生存競争","p":true}],"r_ele":[{"r":"せいぞんきょうそう","p":true}],"sense":[{"gloss":"struggle for existence","pos":["n"]}],"m":["yoji"]},"sdata":[]}

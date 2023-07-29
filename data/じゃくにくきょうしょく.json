@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弱肉強食","p":true}],"r_ele":[{"r":"じゃくにくきょうしょく","p":true}],"sense":[{"gloss":"survival of the fittest, the law of the jungle, the weak are meat the strong do eat","pos":["n"]}],"m":["yoji"]},"sdata":[{"j":"↑弱肉強食↑↓|じゃくにくきょうしょく|↓。","e":"The weak are food for the strong."},{"j":"↑弱肉強食↑↓|じゃくにくきょうしょく|↓だろうね。","e":"Only the strong will survive."}]}

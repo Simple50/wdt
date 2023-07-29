@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直立","p":true}],"r_ele":[{"r":"ちょくりつ","p":true}],"sense":[{"gloss":"standing upright, standing straight, standing erect","pos":["n","vs","vi","adj-no"]},{"gloss":"rising perpendicularly, rising straight up, towering high","pos":["n","vs","vi","adj-no"]}]},"sdata":[]}

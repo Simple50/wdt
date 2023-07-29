@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詰め寄る","p":true},{"e":"詰寄る"},{"e":"詰めよる","i":["sK"]},{"e":"つめ寄る","i":["sK"]}],"r_ele":[{"r":"つめよる","p":true}],"sense":[{"gloss":"to draw near, to draw closer","pos":["v5r","vi"]},{"gloss":"to press (e.g. for an answer), to hound","pos":["v5r","vi"]}]},"sdata":[]}

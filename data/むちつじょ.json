@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無秩序","p":true}],"r_ele":[{"r":"むちつじょ","p":true}],"sense":[{"gloss":"disorder, chaos, confusion","pos":["adj-na","n"]}]},"sdata":[{"j":"みんなが↑規則↑↓きそく↓に↑忠実↑↓ちゅうじつ↓でないと↑無秩序↑↓|むちつじょ|↓になる。","e":"There will be chaos unless we all adhere to the rules."}]}

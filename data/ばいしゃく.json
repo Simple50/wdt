@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"媒酌","p":true},{"e":"媒妁"}],"r_ele":[{"r":"ばいしゃく","p":true}],"sense":[{"gloss":"matchmaking, acting as a go-between","pos":["n","vs"]}]},"sdata":[]}

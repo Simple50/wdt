@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"偽証","p":true}],"r_ele":[{"r":"ぎしょう","p":true}],"sense":[{"gloss":"false evidence, perjury, false testimony","pos":["n","vs","vt","vi","adj-no"]}]},"sdata":[{"j":"↑男性↑↓だんせい↓よりも↑女性↑↓じょせい↓のほうが↑偽証罪↑↓|ぎしょう|ざい↓を↑犯↑↓おか↓す。","e":"More women than men commit perjury."}]}

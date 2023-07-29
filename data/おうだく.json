@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"応諾","p":true}],"r_ele":[{"r":"おうだく","p":true}],"sense":[{"gloss":"consent, compliance","pos":["n","vs","vt","vi"]}]},"sdata":[]}

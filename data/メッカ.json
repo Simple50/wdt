@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メッカ","p":true},{"r":"マッカ"}],"sense":[{"gloss":"Mecca, Makkah","pos":["n"]},{"gloss":"mecca, centre for some field or activity (center)","pos":["n"]}]},"sdata":[{"j":"エルサレムは、|メッカ|・メディナに↑次↑↓つ↓ぐイスラム↑教↑↓きょう↓↑第↑↓だい↓↑3↑↓さん↓の↑聖地↑↓せいち↓である。","e":"Jerusalem is the third holy city in Islam, following Mecca and Medina."}]}

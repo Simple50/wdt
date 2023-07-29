@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鬼子母神","p":true}],"r_ele":[{"r":"きしもじん","p":true},{"r":"きしぼじん"}],"sense":[{"gloss":"Hariti (goddess of childbirth and children)","pos":["n"]}]},"sdata":[]}

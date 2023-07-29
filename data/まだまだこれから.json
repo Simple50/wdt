@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"まだまだこれから","p":true}],"sense":[{"gloss":"it's not over yet, you haven't seen anything yet, it's not over until the fat lady sings, it's too soon to tell, we're not out of the woods","pos":["exp"]}]},"sdata":[{"j":"↑教育↑↓きょういく↓の↑改革↑↓かいかく↓は|まだまだこれから|だ。","e":"Educational reforms still have a long way to go."}]}

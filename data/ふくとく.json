@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"福徳","p":true}],"r_ele":[{"r":"ふくとく","p":true}],"sense":[{"gloss":"fortune, happiness and prosperity","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓の↑服↑↓|ふく↓とく|つはよく↑似合↑↓にあ↓っていた。","e":"Her dress and shoes were a good match."}]}

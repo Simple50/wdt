@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天文台","p":true}],"r_ele":[{"r":"てんもんだい","p":true}],"sense":[{"gloss":"astronomical observatory","pos":["n"]}]},"sdata":[{"j":"その↑天文台↑↓|てんもんだい|↓はよい↑位置↑↓いち↓にある。","e":"That observatory stands in a good location."}]}

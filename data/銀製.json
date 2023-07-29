@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銀製","p":true}],"r_ele":[{"r":"ぎんせい","p":true}],"sense":[{"gloss":"made of silver","pos":["n","adj-no"]}]},"kdata":{"銀":{"on":["ギン"],"kun":["しろがね"],"jlpt":4,"meanings":["silver"],"freq":395,"comp":[["艮","金"]],"t":1938},"製":{"on":["セイ"],"jlpt":1,"meanings":["made in...","manufacture"],"freq":488,"comp":[["制","衣"]],"t":1920}},"sdata":[]}

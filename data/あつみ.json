@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"厚み","p":true},{"e":"厚味"}],"r_ele":[{"r":"あつみ","p":true}],"sense":[{"gloss":"thickness","pos":["n"]},{"gloss":"profundity, depth","pos":["n"]}]},"sdata":[]}

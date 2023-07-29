@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"泣かす","p":true}],"r_ele":[{"r":"なかす","p":true}],"sense":[{"gloss":"to make someone cry, to move someone to tears","pos":["v5s"],"x":["泣かせる"]},{"gloss":"to grieve","pos":["v5s"]}]},"kdata":{"泣":{"on":["キュウ"],"kun":["な.く"],"jlpt":1,"meanings":["cry","weep","moan"],"freq":1380,"comp":[["立","氵"]],"t":726}},"sdata":[]}

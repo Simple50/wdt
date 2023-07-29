@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エペ","p":true}],"sense":[{"gloss":"épée (fencing)","pos":["n"],"f":["sports"],"x":["レイピア"],"l":"fre"}]},"sdata":[]}

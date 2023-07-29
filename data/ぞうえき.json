@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増益","p":true}],"r_ele":[{"r":"ぞうえき","p":true}],"sense":[{"gloss":"increased (profit)","pos":["n","vs","vi"]}]},"sdata":[{"j":"「↑調子↑↓ちょうし↓はどう？」「↑絶好調↑↓ぜっこうちょう↓だよ。↑着実↑↓ちゃくじつ↓に↑増収↑↓ぞうしゅう↓↑増益↑↓|ぞうえき|↓を↑続↑↓つづ↓けているよ」","e":"How are things going? \"Terrific. Income and profit are continuing to rise steadily.\""}]}

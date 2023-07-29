@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"身銭","p":true}],"r_ele":[{"r":"みぜに","p":true}],"sense":[{"gloss":"one's own money","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑決↑↓けっ↓して↑身銭↑↓|みぜに|↓を↑切↑↓き↓るような↑人↑↓ひと↓ではない。","e":"He is the last person to pay out of his own pocket."}]}

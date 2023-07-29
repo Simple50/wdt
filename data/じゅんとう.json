@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"順当","p":true}],"r_ele":[{"r":"じゅんとう","p":true}],"sense":[{"gloss":"proper, right, reasonable","pos":["adj-na","n"]}]},"sdata":[]}

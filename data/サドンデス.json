@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サドンデス","p":true},{"r":"サドン・デス"}],"sense":[{"gloss":"sudden death","pos":["n"]},{"gloss":"sudden-death (playoff), golden goal playoff","pos":["n"],"f":["sports"]}]},"sdata":[]}

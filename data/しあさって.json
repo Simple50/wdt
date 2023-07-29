@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"明々後日"},{"e":"明明後日","p":true}],"r_ele":[{"r":"しあさって","p":true},{"r":"みょうみょうごにち"}],"sense":[{"gloss":"in three days' time, two days after tomorrow","pos":["n","adv"]}]},"sdata":[{"j":"↑明明後日↑↓|しあさって|↓にまた↑上↑↓あ↓げる。","e":"And I will raise it again in three days."}]}

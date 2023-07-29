@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"両足","p":true}],"r_ele":[{"r":"りょうそく","p":true},{"r":"りょうあし"},{"r":"もろあし"}],"sense":[{"gloss":"both feet","pos":["n"]},{"gloss":"both legs","pos":["n"]}]},"sdata":[]}

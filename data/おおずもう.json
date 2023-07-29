@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大相撲","p":true}],"r_ele":[{"r":"おおずもう","p":true}],"sense":[{"gloss":"professional sumo wrestling","pos":["n"]}]},"sdata":[]}

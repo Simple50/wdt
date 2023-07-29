@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"認否","p":true}],"r_ele":[{"r":"にんぴ","p":true}],"sense":[{"gloss":"approval or disapproval, admission or denial","pos":["n"]}]},"sdata":[]}

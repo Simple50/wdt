@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍機","p":true}],"r_ele":[{"r":"ぐんき","p":true}],"sense":[{"gloss":"military secret, classified military material","pos":["n"]},{"gloss":"military aircraft","pos":["n"]}]},"sdata":[]}

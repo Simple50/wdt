@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"碌に","p":true},{"e":"陸に","i":["rK"]}],"r_ele":[{"r":"ろくに","p":true}],"sense":[{"gloss":"(not) well, (not) properly, (not) enough, (not) sufficiently, (not) satisfactorily, (not) decently","pos":["adv"]}],"m":["uk"]},"kdata":{"碌":{"on":["ロク"],"kun":["ろく.な"],"meanings":["satisfactory"],"comp":[["石","录"]],"freq":4087}},"sdata":[]}

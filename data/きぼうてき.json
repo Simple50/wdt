@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"希望的","p":true}],"r_ele":[{"r":"きぼうてき","p":true}],"sense":[{"gloss":"wishful","pos":["adj-na"]}]},"sdata":[]}

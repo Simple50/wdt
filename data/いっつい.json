@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一対","p":true}],"r_ele":[{"r":"いっつい","p":true}],"sense":[{"gloss":"pair, couple","pos":["n","adj-no"]}]},"sdata":[{"j":"↑天使↑↓てんし↓には↑一対↑↓|いっつい|↓の↑翼↑↓つばさ↓が、↑悪魔↑↓あくま↓にはしっぽがある。","e":"Angels have pairs of wings, and demons have tails."}]}

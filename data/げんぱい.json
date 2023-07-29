@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"減配","p":true}],"r_ele":[{"r":"げんぱい","p":true}],"sense":[{"gloss":"reduction in a dividend, smaller ration","pos":["n","vs","vt"]}]},"sdata":[]}

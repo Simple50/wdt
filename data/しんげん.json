@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"震源","p":true}],"r_ele":[{"r":"しんげん","p":true}],"sense":[{"gloss":"hypocentre (of an earthquake), hypocenter","pos":["n","adj-no"],"x":["震央"]}]},"sdata":[]}

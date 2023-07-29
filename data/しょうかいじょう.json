@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紹介状","p":true}],"r_ele":[{"r":"しょうかいじょう","p":true}],"sense":[{"gloss":"letter of introduction","pos":["n"]}]},"sdata":[{"j":"この↑紹介↑↓|しょうかい↓↑状↑↓じょう|↓は↑叔父↑↓おじ↓によってかかれた。","e":"My uncle wrote this letter of introduction."},{"j":"↑彼↑↓かれ↓は↑取引↑↓とりひき↓↑先↑↓さき↓に↑照会↑↓|しょうかい↓↑状↑↓じょう|↓を↑書↑↓か↓いた。","e":"He wrote a letter of inquiry to his business contact."}]}

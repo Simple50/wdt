@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワラント","p":true},{"r":"ウォラント"},{"r":"ウォーラント"}],"sense":[{"gloss":"warrant","pos":["n"],"f":["finc"]}]},"sdata":[]}

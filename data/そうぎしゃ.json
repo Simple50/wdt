@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"葬儀社","p":true}],"r_ele":[{"r":"そうぎしゃ","p":true}],"sense":[{"gloss":"undertaker's office, funeral home, funeral parlor","pos":["n"]}]},"sdata":[]}

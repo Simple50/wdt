@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"張り切る","p":true}],"r_ele":[{"r":"はりきる","p":true}],"sense":[{"gloss":"to be in high spirits, to be full of vigor (vigour), to be enthusiastic, to be eager, to stretch to breaking point","pos":["v5r"]}]},"sdata":[]}

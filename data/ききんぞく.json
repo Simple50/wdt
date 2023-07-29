@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貴金属","p":true}],"r_ele":[{"r":"ききんぞく","p":true}],"sense":[{"gloss":"precious metal","pos":["n"]}]},"sdata":[{"j":"↑金↑↓きん↓は↑貴金属↑↓|ききんぞく|↓だ。","e":"Gold is a precious metal."}]}

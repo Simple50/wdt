@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"珍品","p":true}],"r_ele":[{"r":"ちんぴん","p":true}],"sense":[{"gloss":"curio, rare article","pos":["n"]}]},"sdata":[]}

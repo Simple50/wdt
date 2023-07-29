@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンバーター","p":true},{"r":"コンバータ"}],"sense":[{"gloss":"converter","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"図案","p":true}],"r_ele":[{"r":"ずあん","p":true}],"sense":[{"gloss":"design, sketch","pos":["n","adj-no"]}]},"sdata":[{"j":"この↑基本↑↓きほん↓↑単語↑↓たんご↓は↑必↑↓かなら↓|ず↑暗記↑↓あん|き↓しなさい。","e":"Don't fail to learn these basic words by heart."},{"j":"↑彼↑↓かれ↓は↑象牙↑↓ぞうげ↓に↑図案↑↓|ずあん|↓を↑彫↑↓ほ↓った。","e":"He carved designs in ivory."}]}

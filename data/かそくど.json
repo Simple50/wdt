@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"加速度","p":true}],"r_ele":[{"r":"かそくど","p":true}],"sense":[{"gloss":"acceleration","pos":["n"]}]},"sdata":[]}

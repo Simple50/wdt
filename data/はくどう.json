@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白銅","p":true}],"r_ele":[{"r":"はくどう","p":true}],"sense":[{"gloss":"nickel and copper alloy","pos":["n"]}]},"sdata":[]}

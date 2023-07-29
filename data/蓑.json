@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蓑","p":true}],"r_ele":[{"r":"みの","p":true}],"sense":[{"gloss":"straw raincoat","pos":["n"]}]},"kdata":{"蓑":{"on":["サ","サイ"],"kun":["みの"],"meanings":["straw raincoat"],"comp":[["衰","艹"]],"jlpt":0,"freq":3040}},"sdata":[]}

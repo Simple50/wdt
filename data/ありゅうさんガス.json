@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"亜硫酸ガス","p":true}],"r_ele":[{"r":"ありゅうさんガス","p":true}],"sense":[{"gloss":"sulphurous acid gas, sulfurous acid gas, sulphur dioxide gas, sulfur dioxide gas","pos":["n"]}]},"sdata":[]}

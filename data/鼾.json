@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鼾","p":true}],"r_ele":[{"r":"いびき","p":true},{"r":"イビキ"}],"sense":[{"gloss":"snoring, snore","pos":["n"]}],"m":["uk"]},"kdata":{"鼾":{"on":["カン"],"kun":["いびき"],"meanings":["snoring"],"comp":[["鼻","干"]]}},"sdata":[]}

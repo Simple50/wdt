@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"改まった","p":true}],"r_ele":[{"r":"あらたまった","p":true}],"sense":[{"gloss":"ceremonious, formal","pos":["adj-f"],"x":["改まる・3"]}]},"kdata":{"改":{"on":["カイ"],"kun":["あらた.める","あらた.まる"],"jlpt":2,"meanings":["reformation","change","modify","mend","renew","examine","inspect","search"],"freq":147,"comp":[["攵","己"]],"t":517}},"sdata":[]}

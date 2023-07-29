@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"皆殺し","p":true},{"e":"鏖"}],"r_ele":[{"r":"みなごろし","p":true}],"sense":[{"gloss":"massacre, annihilation, wholesale slaughter","pos":["n"]}]},"sdata":[]}

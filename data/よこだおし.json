@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横倒し","p":true}],"r_ele":[{"r":"よこだおし","p":true}],"sense":[{"gloss":"falling over, toppling sideways","pos":["n"]}]},"sdata":[{"j":"↑横倒↑↓|よこだお↓し|になった↑自動車↑↓じどうしゃ↓が↑通行↑↓つうこう↓の↑妨↑↓さまた↓げになった。","e":"A car lying on its side blocked the passage."}]}

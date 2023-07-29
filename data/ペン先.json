@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ペン先","p":true}],"r_ele":[{"r":"ペンさき","p":true}],"sense":[{"gloss":"pen nibs","pos":["n"]}]},"kdata":{"先":{"on":["セン"],"kun":["さき","ま.ず"],"jlpt":5,"meanings":["before","ahead","previous","future","precedence"],"freq":173,"comp":[["𠂒","儿"]],"d":["洗","銑","筅","跣","冼","詵","侁","濳","兟","駪"],"s":"失,朱,矢","t":310}},"sdata":[]}

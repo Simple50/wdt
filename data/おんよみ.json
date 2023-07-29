@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"音読み","p":true}],"r_ele":[{"r":"おんよみ","p":true}],"sense":[{"gloss":"on reading, on'yomi, Chinese-derived reading of a kanji","pos":["n","vs","vt"],"x":["訓読み"]}]},"sdata":[]}

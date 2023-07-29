@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絵筆","p":true}],"r_ele":[{"r":"えふで","p":true}],"sense":[{"gloss":"paintbrush","pos":["n"]}]},"sdata":[{"j":"↑水↑↓みず↓は３２↑度↑↓ど↓↑Ｆ↑↓|えふ↓で|↑凍↑↓こお↓る。","e":"Water freezes at 32 degrees Fahrenheit."},{"j":"↑彼↑↓かれ↓は↑絵筆↑↓|えふで|↓をカンバスにさっと↑走↑↓はし↓らせた。","e":"He swept his brush across the canvas."}]}

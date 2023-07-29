@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勧進帳","p":true}],"r_ele":[{"r":"かんじんちょう","p":true}],"sense":[{"gloss":"temple solicitation book","pos":["n"]}]},"sdata":[]}

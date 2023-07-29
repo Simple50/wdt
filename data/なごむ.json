@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和む","p":true}],"r_ele":[{"r":"なごむ","p":true}],"sense":[{"gloss":"to be softened, to calm down","pos":["v5m","vi"]}]},"sdata":[]}

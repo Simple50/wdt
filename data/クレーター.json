@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレーター","p":true},{"r":"クレータ"}],"sense":[{"gloss":"crater","pos":["n"]},{"gloss":"pockmark","pos":["n"],"m":["col"],"x":["ニキビ跡"]}]},"sdata":[{"j":"↑月↑↓つき↓にはたくさんの|クレーター|がある。","e":"There are many craters on the moon."}]}

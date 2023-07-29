@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"築き上げる","p":true},{"e":"築きあげる"}],"r_ele":[{"r":"きずきあげる","p":true}],"sense":[{"gloss":"to build up, to establish (one's reputation)","pos":["v1","vt"]}]},"sdata":[{"j":"↑堅実↑↓けんじつ↓な↑草↑↓くさ↓の↑根↑↓ね↓レベルの↑運動↑↓うんどう↓を↑築↑↓|きず↓きあげる|ことに↑集中↑↓しゅうちゅう↓しなければならない。","e":"We must focus on building a solid grass-roots movement."}]}

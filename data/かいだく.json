@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"快諾","p":true}],"r_ele":[{"r":"かいだく","p":true}],"sense":[{"gloss":"ready consent","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓の↑申↑↓もう↓し↑出↑↓で↓を↑快諾↑↓|かいだく|↓した。","e":"He readily agreed to my proposal."}]}

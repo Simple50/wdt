@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"工作員","p":true}],"r_ele":[{"r":"こうさくいん","p":true}],"sense":[{"gloss":"spy, agent provocateur, covert operative","pos":["n"]},{"gloss":"maker, builder, constructor","pos":["n"]}]},"sdata":[]}

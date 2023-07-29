@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"写真屋","p":true}],"r_ele":[{"r":"しゃしんや","p":true}],"sense":[{"gloss":"photo studio, photographer","pos":["n"]},{"gloss":"camera shop, photography supplies shop","pos":["n"]},{"gloss":"photo processing shop, photo finishing shop","pos":["n"]}]},"sdata":[{"j":"ホテルの↑中↑↓なか↓に↑写真↑↓|しゃしん↓↑屋↑↓や|↓はありますか。","e":"Is there a photo shop in the hotel?"}]}

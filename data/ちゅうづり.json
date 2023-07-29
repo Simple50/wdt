@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宙吊り"},{"e":"宙づり","p":true},{"e":"宙釣り"}],"r_ele":[{"r":"ちゅうづり","p":true}],"sense":[{"gloss":"hanging in midair, suspended in midair","pos":["n","adj-no"]},{"gloss":"midair stunt, aerial stunt","pos":["n"],"x":["宙乗り"]}]},"sdata":[]}

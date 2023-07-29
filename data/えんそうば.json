@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"円相場","p":true}],"r_ele":[{"r":"えんそうば","p":true}],"sense":[{"gloss":"yen exchange rate","pos":["n"]}]},"sdata":[{"j":"ドルに↑対↑↓たい↓する↑円↑↓|えん↓↑相場↑↓そうば|↓があがった。","e":"The exchange rate for the yen against the dollar has risen."}]}

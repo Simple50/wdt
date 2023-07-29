@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"復調","p":true}],"r_ele":[{"r":"ふくちょう","p":true}],"sense":[{"gloss":"recovery, return to form, regaining one's (usual) form","pos":["n","vs","vi"]},{"gloss":"demodulation","pos":["n","vs","vi"],"f":["telec"]}]},"sdata":[]}

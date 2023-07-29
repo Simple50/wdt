@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り立った","p":true}],"r_ele":[{"r":"きりたった","p":true}],"sense":[{"gloss":"steep, precipitous","pos":["adj-f"]}]},"sdata":[{"j":"その↑切↑↓|き↓り↑立↑↓た↓った|↑崖↑↓がけ↓には↑近↑↓ちか↓づかないで。","e":"Keep away from the vertical cliff!"},{"j":"「その↑切↑↓|き↓り↑立↑↓た↓った|↑崖↑↓がけ↓には↑近↑↓ちか↓づかないで」と↑彼女↑↓かのじょ↓が↑叫↑↓さけ↓んだ。","e":"Keep away from the vertical cliff! she shouted."}]}

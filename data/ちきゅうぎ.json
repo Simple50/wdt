@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地球儀","p":true}],"r_ele":[{"r":"ちきゅうぎ","p":true}],"sense":[{"gloss":"Earth globe (model), terrestrial globe","pos":["n"]}]},"sdata":[]}

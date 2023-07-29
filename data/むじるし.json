@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無印","p":true}],"r_ele":[{"r":"むじるし","p":true}],"sense":[{"gloss":"unlabeled, unbranded","pos":["adj-no"]}]},"sdata":[]}

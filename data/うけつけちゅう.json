@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受付中","p":true},{"e":"受け付け中"},{"e":"受付け中"}],"r_ele":[{"r":"うけつけちゅう","p":true}],"sense":[{"gloss":"currently accepting (applications, etc.)","pos":["adv"]}]},"sdata":[]}

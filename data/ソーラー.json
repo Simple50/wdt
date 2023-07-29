@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ソーラー","p":true}],"sense":[{"gloss":"solar","pos":["n"]}]},"sdata":[{"j":"↑何↑↓なん↓↑台↑↓だい↓かの↑車↑↓くるま↓は、↑屋根↑↓やね↓に|ソーラー|パネルが↑付↑↓つ↓いている。","e":"Some cars have solar panels on the roof."}]}

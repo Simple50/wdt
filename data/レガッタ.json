@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レガッタ","p":true}],"sense":[{"gloss":"regatta","pos":["n"]}]},"sdata":[]}

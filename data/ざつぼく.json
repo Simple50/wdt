@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雑木","p":true}],"r_ele":[{"r":"ぞうき"},{"r":"ざつぼく","p":true},{"r":"ぞうぼく"}],"sense":[{"gloss":"various kinds of small trees, assorted trees","pos":["n"]}]},"sdata":[]}

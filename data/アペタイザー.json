@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アペタイザー","p":true}],"sense":[{"gloss":"appetizer, appetiser","pos":["n"]}]},"sdata":[]}

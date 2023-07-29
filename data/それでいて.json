@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"それでいて","p":true}],"sense":[{"gloss":"and yet, despite (all) that","pos":["conj"]}]},"sdata":[{"j":"|それでいて|↑自分↑↓じぶん↓は↑船乗↑↓ふなの↓りだという。","e":"And he calls himself a sailor."}]}

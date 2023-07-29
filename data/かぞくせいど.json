@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"家族制度","p":true}],"r_ele":[{"r":"かぞくせいど","p":true}],"sense":[{"gloss":"family system, the family (as an institution)","pos":["n"]}]},"sdata":[]}

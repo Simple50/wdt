@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電算","p":true}],"r_ele":[{"r":"でんそろ","p":true}],"sense":[{"gloss":"electronic calculator combined with a soroban","pos":["n"]}]},"sdata":[]}

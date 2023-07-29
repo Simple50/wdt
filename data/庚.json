@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"庚","p":true}],"r_ele":[{"r":"かのえ","p":true},{"r":"こう"}],"sense":[{"gloss":"7th in rank, seventh sign of the Chinese calendar","pos":["n"]}]},"kdata":{"庚":{"on":["コウ"],"kun":["かのえ"],"meanings":["7th","7th calendar sign"],"comp":[["广","人","彐"]],"d":["賡","鶊"],"jlpt":0,"freq":2864}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インスリン","p":true},{"r":"インシュリン","p":true}],"sense":[{"gloss":"insulin","pos":["n"]}]},"sdata":[]}

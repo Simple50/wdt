@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"潤む","p":true}],"r_ele":[{"r":"うるむ","p":true}],"sense":[{"gloss":"to be wet, to be moist","pos":["v5m","vi"]},{"gloss":"to get dim, to become blurred, to get cloudy, to get muddy, to be bleared","pos":["v5m","vi"]},{"gloss":"to become tear-choked","pos":["v5m","vi"]}]},"sdata":[]}

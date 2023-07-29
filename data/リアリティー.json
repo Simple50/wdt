@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リアリティ"},{"r":"リアリティー","p":true}],"sense":[{"gloss":"reality","pos":["n"]}]},"sdata":[]}

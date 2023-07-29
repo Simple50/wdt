@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奥山","p":true}],"r_ele":[{"r":"おくやま","p":true}],"sense":[{"gloss":"remote mountain, mountain recesses","pos":["n"]}]},"sdata":[{"j":"いろはにほへと ちりぬるを わかよたれそ つねならむ うゐの|おくやま| けふこえて あさきゆめみし ゑひもせすん","e":"The quick brown fox jumps over the lazy dog."}]}

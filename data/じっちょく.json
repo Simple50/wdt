@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実直","p":true}],"r_ele":[{"r":"じっちょく","p":true}],"sense":[{"gloss":"honest, steady","pos":["adj-na","n"]}]},"sdata":[{"j":"トムはこの↑上↑↓うえ↓なく↑実直↑↓|じっちょく|↓な↑男↑↓おとこ↓だ。","e":"Tom is a man of absolute sincerity."},{"j":"↑僕↑↓ぼく↓はこの↑上↑↓うえ↓なく↑実直↑↓|じっちょく|↓な↑男↑↓おとこ↓だ。","e":"I am a man of absolute sincerity."}]}

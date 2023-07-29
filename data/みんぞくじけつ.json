@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民族自決","p":true}],"r_ele":[{"r":"みんぞくじけつ","p":true}],"sense":[{"gloss":"self-determination of peoples","pos":["n"]}],"m":["yoji"]},"sdata":[]}

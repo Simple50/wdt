@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白粉","p":true}],"r_ele":[{"r":"おしろい","p":true}],"sense":[{"gloss":"(face) powder","pos":["n"]}]},"sdata":[]}

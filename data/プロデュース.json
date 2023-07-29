@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロデュース","p":true}],"sense":[{"gloss":"to produce (e.g. movie, play, show, event, musical recording, etc.), to design (e.g. new commercial product, restaurant concept, etc.), to create","pos":["vs","vt"]},{"gloss":"production, creation, design","pos":["n","adj-f"],"x":["プロデュース料・プロデュースりょう"]}]},"sdata":[{"j":"↑音楽↑↓おんがく↓を|プロデュース|します。","e":"I produce music."}]}

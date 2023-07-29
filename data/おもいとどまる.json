@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思いとどまる","p":true},{"e":"思い止まる"},{"e":"思い留まる"},{"e":"思い止どまる","i":["sK"]}],"r_ele":[{"r":"おもいとどまる","p":true}],"sense":[{"gloss":"to give up (an idea or plan), to abandon, to refrain from (doing), to change one's mind","pos":["v5r","vt"]}]},"sdata":[]}

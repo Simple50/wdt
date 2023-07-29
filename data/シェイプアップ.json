@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シェイプアップ","p":true},{"r":"シェープアップ"}],"sense":[{"gloss":"getting in shape, improving one's figure","pos":["n","vs","vi","vt"],"l":"eng: shape up"}]},"sdata":[]}

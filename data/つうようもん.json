@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通用門","p":true}],"r_ele":[{"r":"つうようもん","p":true}],"sense":[{"gloss":"side gate, side door, service entrance","pos":["n"]}]},"sdata":[]}

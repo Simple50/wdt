@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気弱","p":true}],"r_ele":[{"r":"きよわ","p":true}],"sense":[{"gloss":"timid, fainthearted","pos":["adj-na","n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑生↑↓う↓まれつ|き↑弱↑↓よわ|↓い。","e":"She is weak by nature."},{"j":"↑彼女↑↓かのじょ↓は↑生↑↓う↓まれつ|き↑弱↑↓よわ|↓い。","e":"She's weak by nature."}]}

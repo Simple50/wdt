@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煩わしい","p":true}],"r_ele":[{"r":"わずらわしい","p":true}],"sense":[{"gloss":"troublesome, annoying, complicated","pos":["adj-i"]}]},"sdata":[]}

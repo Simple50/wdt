@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レザー","p":true},{"r":"レーザー"}],"sense":[{"gloss":"leather","pos":["n"]},{"gloss":"razor","pos":["n"]}]},"sdata":[{"j":"このブ|レザー|にあうブラウスがほしいのですが。","e":"I would like to get a blouse to go with this blazer."}]}

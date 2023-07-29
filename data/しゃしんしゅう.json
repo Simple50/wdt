@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"写真集","p":true}],"r_ele":[{"r":"しゃしんしゅう","p":true}],"sense":[{"gloss":"photo book (esp. one featuring photos of female celebrities, models), photobook","pos":["n"]}]},"sdata":[]}

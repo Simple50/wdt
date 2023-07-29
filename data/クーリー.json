@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"苦力"}],"r_ele":[{"r":"クーリー","p":true},{"r":"クリー"}],"sense":[{"gloss":"coolie","pos":["n"],"l":"chi: kǔlì"}],"m":["hist","uk"]},"sdata":[]}

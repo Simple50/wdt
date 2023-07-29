@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大募集","p":true}],"r_ele":[{"r":"だいぼしゅう","p":true}],"sense":[{"gloss":"mass recruitment","pos":["n"]}]},"sdata":[]}

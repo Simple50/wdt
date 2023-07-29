@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豊饒","p":true},{"e":"豊穰","i":["oK"]}],"r_ele":[{"r":"ほうじょう","p":true},{"r":"ほうにょう","i":["ok"]},{"r":"ぶにょう","i":["ok"]},{"r":"ふにょう","i":["ok"]}],"sense":[{"gloss":"fertile, productive, fruitful","pos":["adj-na","n"]}]},"sdata":[]}

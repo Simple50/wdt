@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総攻撃","p":true}],"r_ele":[{"r":"そうこうげき","p":true}],"sense":[{"gloss":"all-out attack, general offensive","pos":["n","vs","vt"]}]},"sdata":[]}

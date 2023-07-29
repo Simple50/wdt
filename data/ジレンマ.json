@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジレンマ","p":true},{"r":"ディレンマ"}],"sense":[{"gloss":"dilemma","pos":["n"]}]},"sdata":[]}

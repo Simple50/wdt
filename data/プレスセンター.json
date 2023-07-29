@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プレスセンター","p":true},{"r":"プレス・センター"}],"sense":[{"gloss":"press center, press centre","pos":["n"]}]},"sdata":[]}

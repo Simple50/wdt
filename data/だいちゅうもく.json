@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大注目","p":true}],"r_ele":[{"r":"だいちゅうもく","p":true}],"sense":[{"gloss":"(paying) a great deal of attention (to)","pos":["n","vs","vt","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肥やし","p":true},{"e":"肥し"}],"r_ele":[{"r":"こやし","p":true}],"sense":[{"gloss":"manure, night soil, dung, fertiliser, fertilizer","pos":["n"]},{"gloss":"something that will help one develop in the future","pos":["n"]}]},"sdata":[]}

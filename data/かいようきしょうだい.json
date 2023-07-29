@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海洋気象台","p":true}],"r_ele":[{"r":"かいようきしょうだい","p":true}],"sense":[{"gloss":"marine meteorological observatory","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"終焉","p":true},{"e":"終えん"}],"r_ele":[{"r":"しゅうえん","p":true}],"sense":[{"gloss":"end (of life), death, demise","pos":["n"]},{"gloss":"(peacefully) spending one's final years","pos":["n"]}]},"sdata":[{"j":"↑終演↑↓|しゅうえん|↓は↑何↑↓なん↓↑時↑↓じ↓ですか。","e":"What time does the curtain fall?"}]}

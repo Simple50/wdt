@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き抜ける","p":true},{"e":"突抜ける"}],"r_ele":[{"r":"つきぬける","p":true}],"sense":[{"gloss":"to pierce through, to break through","pos":["v1","vi"]}]},"sdata":[{"j":"マイクロ↑波↑↓は↓はオーブンの↑中↑↓なか↓の↑食物↑↓しょくもつ↓を↑突↑↓|つ↓き↑抜↑↓ぬ↓ける|。","e":"Microwaves penetrate the food in the oven."}]}

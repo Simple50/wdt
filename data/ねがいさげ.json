@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"願い下げ","p":true}],"r_ele":[{"r":"ねがいさげ","p":true}],"sense":[{"gloss":"cancellation, withdrawal","pos":["n"]},{"gloss":"asking to be excused, begging off, not taking, refusing","pos":["n"]}]},"sdata":[{"j":"お↑前↑↓まえ↓らの↑憐↑↓あわ↓れみなんぞ↑願↑↓|ねが↓い↑下↑↓さ↓げ|だ。","e":"I don't want your pity."}]}

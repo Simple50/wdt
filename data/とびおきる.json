@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飛び起きる","p":true}],"r_ele":[{"r":"とびおきる","p":true}],"sense":[{"gloss":"to jump up to one's feet","pos":["v1","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"潜伏","p":true}],"r_ele":[{"r":"せんぷく","p":true}],"sense":[{"gloss":"concealment, hiding, ambush","pos":["n","vs","vi"]},{"gloss":"incubation, latency, dormancy","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑容疑↑↓ようぎ↓↑者↑↓しゃ↓は↑三↑↓さん↓↑週間↑↓しゅうかん↓↑山↑↓やま↓に↑潜伏↑↓|せんぷく|↓していた。","e":"The suspect was hiding out in the mountains for three weeks."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フラワーアレンジメント","p":true},{"r":"フラワー・アレンジメント"}],"sense":[{"gloss":"flower arrangement","pos":["n"]}]},"sdata":[{"j":"ジェーンは|フラワーアレンジメント|に↑興味↑↓きょうみ↓があるんだ。","e":"Jane is interested in flower arrangement."},{"j":"|フラワーアレンジメント|の↑勉強↑↓べんきょう↓をしたいんだ。","e":"I'd like to learn how to arrange flowers."}]}

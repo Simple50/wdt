@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弁天","p":true},{"e":"辨天","i":["rK"]},{"e":"辯天","i":["rK"]}],"r_ele":[{"r":"べんてん","p":true}],"sense":[{"gloss":"Benten (goddess of arts and wisdom)","pos":["n"]}]},"sdata":[]}

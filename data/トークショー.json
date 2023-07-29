@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トークショー","p":true},{"r":"トーク・ショー"}],"sense":[{"gloss":"talk show","pos":["n"]}]},"sdata":[]}

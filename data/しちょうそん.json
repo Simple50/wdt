@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"市町村","p":true}],"r_ele":[{"r":"しちょうそん","p":true}],"sense":[{"gloss":"cities, towns and villages, municipalities","pos":["n"]}]},"sdata":[]}

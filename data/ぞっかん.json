@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"続刊","p":true}],"r_ele":[{"r":"ぞっかん","p":true}],"sense":[{"gloss":"continuing publication","pos":["n","vs","vt"]}]},"sdata":[]}

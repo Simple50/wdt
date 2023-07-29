@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マエストロ","p":true}],"sense":[{"gloss":"maestro","pos":["n"],"l":"ita"}]},"sdata":[]}

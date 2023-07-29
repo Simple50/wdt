@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファッショナブル","p":true}],"sense":[{"gloss":"fashionable","pos":["adj-na"]}]},"sdata":[]}

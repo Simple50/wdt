@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レトロ","p":true}],"sense":[{"gloss":"retro, nostalgic, old-fashioned","pos":["adj-na","n"]}]},"sdata":[{"j":"この↑喫茶店↑↓きっさてん↓は、↑独特↑↓どくとく↓の|レトロ|さが↑若者↑↓わかもの↓にうけている。","e":"The retro feel of this cafe is a hit with young people."}]}

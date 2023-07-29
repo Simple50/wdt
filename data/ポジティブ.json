@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポジティブ","p":true},{"r":"ポジティヴ"}],"sense":[{"gloss":"positive (e.g. thinking)","pos":["adj-na"],"ant":["ネガティブ・1"]},{"gloss":"positive (photography)","pos":["n"]},{"gloss":"positive (electrical polarity)","pos":["n"],"x":["陽極・ようきょく"]}]},"sdata":[{"j":"いつも|ポジティブ|でいようと↑努力↑↓どりょく↓してるんだ。","e":"I try to be positive all the time."}]}

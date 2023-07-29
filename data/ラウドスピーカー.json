@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラウドスピーカー","p":true}],"sense":[{"gloss":"loudspeaker","pos":["n"]}]},"sdata":[]}

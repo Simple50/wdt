@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蕨","p":true}],"r_ele":[{"r":"わらび","p":true}],"sense":[{"gloss":"bracken","pos":["n"]}]},"kdata":{"蕨":{"on":["ケツ"],"kun":["わらび"],"meanings":["bracken (plant)","bracken","fernbrake"],"freq":2307,"comp":[["厥","艹"]],"jlpt":0}},"sdata":[]}

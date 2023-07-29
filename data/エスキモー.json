@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エスキモー","p":true}],"sense":[{"gloss":"Eskimo","pos":["n"],"x":["イヌイット"]}]},"sdata":[]}

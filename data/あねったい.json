@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"亜熱帯","p":true}],"r_ele":[{"r":"あねったい","p":true}],"sense":[{"gloss":"subtropics","pos":["n"]}]},"sdata":[]}

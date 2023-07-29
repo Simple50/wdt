@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"楯突く","p":true},{"e":"盾突く"},{"e":"たて突く"},{"e":"盾つく"},{"e":"楯つく"}],"r_ele":[{"r":"たてつく","p":true}],"sense":[{"gloss":"to defy, to disobey, to rebel against, to oppose, to resist","pos":["v5k","vi"]}]},"sdata":[]}

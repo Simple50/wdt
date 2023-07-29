@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セキュリティ","p":true},{"r":"セキュリティー","p":true}],"sense":[{"gloss":"security","pos":["n"]}]},"sdata":[]}

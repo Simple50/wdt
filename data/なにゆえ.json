@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"何故","p":true},{"e":"何ゆえ"}],"r_ele":[{"r":"なぜ","p":true},{"r":"なにゆえ","p":true}],"sense":[{"gloss":"why, how","pos":["adv"]}],"m":["uk"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増殖","p":true}],"r_ele":[{"r":"ぞうしょく","p":true}],"sense":[{"gloss":"increase, multiplication, propagation, proliferation","pos":["n","vs","vt","vi"]}]},"sdata":[]}

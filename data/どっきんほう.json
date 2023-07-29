@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独禁法","p":true}],"r_ele":[{"r":"どっきんほう","p":true}],"sense":[{"gloss":"antitrust law, Antitrust Act","pos":["n"],"x":["独占禁止法"]}],"m":["abbr"]},"sdata":[]}

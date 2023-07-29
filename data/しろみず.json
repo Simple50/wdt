@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白水","p":true}],"r_ele":[{"r":"しろみず","p":true}],"sense":[{"gloss":"color of water after washing rice (colour)","pos":["n"]}]},"sdata":[]}

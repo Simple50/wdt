@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘルツ","p":true}],"sense":[{"gloss":"Hz, hertz (unit of frequency)","pos":["n"]},{"gloss":"heart","pos":["n"],"l":"ger: Herz"}]},"sdata":[]}

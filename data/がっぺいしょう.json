@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合併症","p":true}],"r_ele":[{"r":"がっぺいしょう","p":true}],"sense":[{"gloss":"complication","pos":["n"],"f":["med"]}]},"sdata":[]}

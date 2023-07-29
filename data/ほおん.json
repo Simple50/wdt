@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"保温","p":true}],"r_ele":[{"r":"ほおん","p":true}],"sense":[{"gloss":"retaining warmth, keeping heat in, heat insulation","pos":["n","vs","vi","vt"]}]},"sdata":[{"j":"USBバスパワーで↑暖↑↓あたた↓かい↑飲↑↓の↓み↑物↑↓もの↓の↑入↑↓はい↓ったカップを↑保温↑↓|ほおん|↓しておくという↑製品↑↓せいひん↓が↑発売↑↓はつばい↓された。","e":"A product has been launched that uses the power from the USB to keep hot drinks warm."}]}

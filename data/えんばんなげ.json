@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"円盤投げ","p":true},{"e":"円盤投"}],"r_ele":[{"r":"えんばんなげ","p":true}],"sense":[{"gloss":"discus throw","pos":["n"]}]},"sdata":[]}

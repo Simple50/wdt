@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薬代","p":true}],"r_ele":[{"r":"くすりだい","p":true},{"r":"やくだい"}],"sense":[{"gloss":"charge for medicine","pos":["n"]}]},"sdata":[]}

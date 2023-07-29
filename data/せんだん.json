@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"船団","p":true}],"r_ele":[{"r":"せんだん","p":true}],"sense":[{"gloss":"fleet (fishing, naval, etc.), convoy, group of ships","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"迫力","p":true}],"r_ele":[{"r":"はくりょく","p":true}],"sense":[{"gloss":"impressiveness, impact, force, intensity, appeal, strength, punch, edge, vigor","pos":["n"]}]},"sdata":[]}

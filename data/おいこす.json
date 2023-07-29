@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い越す","p":true},{"e":"追越す"},{"e":"追いこす"}],"r_ele":[{"r":"おいこす","p":true}],"sense":[{"gloss":"to pass (e.g. car), to overtake","pos":["v5s","vt"],"x":["追い抜く・おいぬく・1"]},{"gloss":"to surpass, to outstrip, to get ahead of, to outdistance","pos":["v5s","vt"],"x":["追い抜く・おいぬく・2"]}]},"sdata":[]}

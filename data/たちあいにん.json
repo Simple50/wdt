@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立会人","p":true},{"e":"立ち会い人","i":["sK"]}],"r_ele":[{"r":"たちあいにん","p":true}],"sense":[{"gloss":"witness, observer","pos":["n"]}]},"sdata":[]}

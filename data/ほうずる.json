@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"報ずる","p":true}],"r_ele":[{"r":"ほうずる","p":true}],"sense":[{"gloss":"to inform, to report","pos":["vz","vt"]}]},"sdata":[]}

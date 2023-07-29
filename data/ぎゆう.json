@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"義勇","p":true}],"r_ele":[{"r":"ぎゆう","p":true}],"sense":[{"gloss":"heroism, loyalty and courage","pos":["n"]}]},"sdata":[]}

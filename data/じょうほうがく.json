@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"情報学","p":true}],"r_ele":[{"r":"じょうほうがく","p":true}],"sense":[{"gloss":"informatics","pos":["n"]}]},"sdata":[]}

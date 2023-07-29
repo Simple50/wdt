@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱血","p":true}],"r_ele":[{"r":"ねっけつ","p":true}],"sense":[{"gloss":"hot blood, warm blood","pos":["n"]},{"gloss":"zeal, fervor, fervour, ardor, ardour, enthusiasm","pos":["n"]}]},"sdata":[{"j":"↑熱血漢↑↓|ねっけつ|かん↓は↑心筋梗塞↑↓しんきんこうそく↓を↑起↑↓おこ↓しやすい。","e":"The hot-blooded are prone to heart attacks."}]}

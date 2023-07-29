@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ルネサンス","p":true},{"r":"ルネッサンス","p":true},{"r":"ルネッサーンス"}],"sense":[{"gloss":"Renaissance","pos":["n"],"l":"fre"}]},"sdata":[{"j":"|ルネサンス|は↑人間↑↓にんげん↓の↑尊厳↑↓そんげん↓を↑確立↑↓かくりつ↓した。","e":"The Renaissance established the dignity of man."},{"j":"その↑彫刻↑↓ちょうこく↓↑家↑↓か↓は|ルネサンス|↑派↑↓は↓に↑属↑↓ぞく↓する。","e":"The sculptor belongs to the Renaissance school."}]}

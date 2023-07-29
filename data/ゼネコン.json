@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゼネコン","p":true}],"sense":[{"gloss":"general contractor, main contractor, major construction company","pos":["n"],"l":"eng: gene(ral) con(tractor)"}]},"sdata":[]}

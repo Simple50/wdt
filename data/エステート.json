@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エステート","p":true}],"sense":[{"gloss":"estate","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青竹","p":true}],"r_ele":[{"r":"あおだけ","p":true}],"sense":[{"gloss":"green bamboo","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"共々","p":true},{"e":"共共"}],"r_ele":[{"r":"ともども","p":true}],"sense":[{"gloss":"together, in company","pos":["adv"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑彼↑↓かれ↓|ともども|その↑企業↑↓きぎょう↓に↑参加↑↓さんか↓した。","e":"I share with him in the enterprise."}]}

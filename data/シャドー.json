@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シャドー","p":true},{"r":"シャドウ"}],"sense":[{"gloss":"shadow","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はアイ|シャドー|をつけている。","e":"She's wearing eye shadow."},{"j":"↑日本語↑↓にほんご↓を↑喋↑↓しゃべ↓れるようになりたいから、↑暇↑↓ひま↓があったら、|シャドー|イングしよっと。","e":"I want to be able to speak Japanese, so when I have the spare time, I'll do some shadowing."}]}

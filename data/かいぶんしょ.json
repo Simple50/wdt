@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"怪文書","p":true}],"r_ele":[{"r":"かいぶんしょ","p":true}],"sense":[{"gloss":"dubious document, anonymous document containing defamatory statements","pos":["n"]}]},"sdata":[]}

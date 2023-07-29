@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勝ち得る","p":true},{"e":"勝得る"},{"e":"贏ち得る"}],"r_ele":[{"r":"かちえる","p":true}],"sense":[{"gloss":"to achieve, to win, to gain, to attain","pos":["v1","vt"]}]},"sdata":[{"j":"やっと、マリオさんが↑姫↑↓ひめ↓さまの↑愛↑↓あい↓を↑勝↑↓|か↓ち↑得↑↓え↓る|ことができた。","e":"At last, Mario managed to win the princess's love."}]}

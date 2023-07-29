@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銀盤","p":true}],"r_ele":[{"r":"ぎんばん","p":true}],"sense":[{"gloss":"skating rink, ice surface","pos":["n"]},{"gloss":"silver plate","pos":["n"]}]},"sdata":[]}

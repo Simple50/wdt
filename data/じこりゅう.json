@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自己流","p":true}],"r_ele":[{"r":"じこりゅう","p":true}],"sense":[{"gloss":"one's own style, self-taught manner","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はどうしてもそれを↑自己流↑↓|じこりゅう|↓に↑料理↑↓りょうり↓したがった。","e":"She would cook it in her own way."},{"j":"ギターを↑自己流↑↓|じこりゅう|↓で↑覚↑↓おぼ↓えてるんだ。","e":"I've taught myself to play the guitar."}]}

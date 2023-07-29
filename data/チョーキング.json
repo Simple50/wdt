@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チョーキング","p":true}],"sense":[{"gloss":"choking","pos":["n"]},{"gloss":"chalking","pos":["n"]},{"gloss":"bending (a guitar string)","pos":["n"]}]},"sdata":[]}

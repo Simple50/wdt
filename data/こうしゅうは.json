@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高周波","p":true}],"r_ele":[{"r":"こうしゅうは","p":true}],"sense":[{"gloss":"high frequency, HF","pos":["n"]}]},"sdata":[]}

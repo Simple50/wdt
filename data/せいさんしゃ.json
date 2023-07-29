@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生産者","p":true}],"r_ele":[{"r":"せいさんしゃ","p":true}],"sense":[{"gloss":"producer, grower, maker, manufacturer","pos":["n"]}]},"sdata":[]}

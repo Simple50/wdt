@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"牝馬","p":true},{"e":"雌馬"}],"r_ele":[{"r":"ひんば","p":true},{"r":"めうま"},{"r":"めま"}],"sense":[{"gloss":"mare, filly","pos":["n"]}]},"sdata":[{"j":"↑棹立↑↓さおだ↓ちした↑栗毛↑↓くりげ↓の↑牝馬↑↓|ひんば|↓は↑嘶↑↓いなな↓き、↑騎手↑↓きしゅ↓を↑落↑↓お↓とそうとした。","e":"The prancing chestnut mare whinnied as she tried to get rid of the rider."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガーディアン","p":true}],"sense":[{"gloss":"guardian","pos":["n"]}]},"sdata":[{"j":"↑金↑↓きん↓のゴーレムは↑宝↑↓たから↓を↑守↑↓まも↓るための|ガーディアン|です。","e":"Gold golems are guardians used to guard treasure."}]}

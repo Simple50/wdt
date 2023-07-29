@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実刑","p":true}],"r_ele":[{"r":"じっけい","p":true}],"sense":[{"gloss":"prison sentence (without a stay of execution)","pos":["n"]}]},"sdata":[]}

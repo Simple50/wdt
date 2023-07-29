@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"アミノ酸","p":true}],"r_ele":[{"r":"アミノさん","p":true}],"sense":[{"gloss":"amino acid","pos":["n"]}]},"sdata":[]}

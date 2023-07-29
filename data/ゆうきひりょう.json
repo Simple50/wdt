@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"有機肥料","p":true}],"r_ele":[{"r":"ゆうきひりょう","p":true}],"sense":[{"gloss":"organic fertilizer, organic fertiliser","pos":["n"]}]},"sdata":[]}

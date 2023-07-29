@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"常套手段","p":true},{"e":"常とう手段","i":["sK"]},{"e":"上等手段","i":["sK"]}],"r_ele":[{"r":"じょうとうしゅだん","p":true}],"sense":[{"gloss":"one's habitual practice, usual measure, old trick","pos":["n"]}],"m":["yoji"]},"sdata":[]}

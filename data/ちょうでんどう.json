@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"超伝導","p":true},{"e":"超電導","p":true}],"r_ele":[{"r":"ちょうでんどう","p":true}],"sense":[{"gloss":"superconductivity, super-conductivity","pos":["n"]}]},"sdata":[]}

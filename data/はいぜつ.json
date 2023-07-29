@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"廃絶","p":true}],"r_ele":[{"r":"はいぜつ","p":true}],"sense":[{"gloss":"abolition, elimination","pos":["n","vs"]},{"gloss":"extinction, discontinuation","pos":["n","vs"]}]},"sdata":[{"j":"↑私↑↓わたし↓↑達↑↓たち↓は↑核兵器↑↓かくへいき↓の↑廃絶↑↓|はいぜつ|↓を↑願↑↓ねが↓っている。","e":"All of us would like to get rid of nuclear weapons."}]}

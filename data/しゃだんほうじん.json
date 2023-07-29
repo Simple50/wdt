@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社団法人","p":true}],"r_ele":[{"r":"しゃだんほうじん","p":true}],"sense":[{"gloss":"corporate juridical person, incorporated body, corporation","pos":["n"],"f":["law"],"x":["財団法人"]}]},"sdata":[]}

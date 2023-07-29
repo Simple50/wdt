@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"激増","p":true}],"r_ele":[{"r":"げきぞう","p":true}],"sense":[{"gloss":"sharp increase, sudden rise","pos":["n","vs","vi"]}]},"sdata":[]}

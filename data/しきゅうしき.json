@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"始球式","p":true}],"r_ele":[{"r":"しきゅうしき","p":true}],"sense":[{"gloss":"ceremonial first pitch","pos":["n"],"f":["baseb"]}]},"sdata":[]}

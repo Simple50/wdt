@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詰将棋"},{"e":"詰め将棋","p":true}],"r_ele":[{"r":"つめしょうぎ","p":true}],"sense":[{"gloss":"composed shogi problem","pos":["n"],"f":["shogi"],"x":["詰む・2"]}]},"sdata":[]}

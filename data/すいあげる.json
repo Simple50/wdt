@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吸い上げる","p":true},{"e":"吸いあげる"},{"e":"吸上げる"}],"r_ele":[{"r":"すいあげる","p":true}],"sense":[{"gloss":"to suck up, to pump up, to draw up, to absorb, to extract","pos":["v1","vt"]},{"gloss":"to siphon off (profits, etc.), to exploit","pos":["v1","vt"]},{"gloss":"to take up others' opinions, hopes, etc.","pos":["v1","vt"]}]},"sdata":[]}

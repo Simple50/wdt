@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"疎か","p":true}],"r_ele":[{"r":"おろそか","p":true}],"sense":[{"gloss":"negligent, neglectful, careless, remiss","pos":["adj-na"],"x":["疎かにする・おろそかにする"]}],"m":["uk"]},"kdata":{"疎":{"on":["ソ","ショ"],"kun":["うと.い","うと.む","まば.ら"],"jlpt":1,"meanings":["neglect","alienate","rough","shun","sparse","penetrate"],"freq":1572,"comp":[["𤴔","束"]],"t":1564}},"sdata":[]}

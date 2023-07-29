@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瓩","i":["ateji","rK"]}],"r_ele":[{"r":"キログラム","p":true}],"sense":[{"gloss":"kilogram, kilogramme","pos":["n"],"l":"fre"}],"m":["uk"]},"sdata":[{"j":"↑私↑↓わたし↓の↑体重↑↓たいじゅう↓は５８|キログラム|です。","e":"My weight is 58 kilograms."},{"j":"↑私↑↓わたし↓の↑体重↑↓たいじゅう↓は５８|キログラム|です。","e":"I weigh 58 kilograms."}]}

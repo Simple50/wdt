@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"辻説法","p":true}],"r_ele":[{"r":"つじせっぽう","p":true}],"sense":[{"gloss":"street preaching","pos":["n"]}]},"sdata":[]}

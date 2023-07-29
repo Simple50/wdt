@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"密談","p":true}],"r_ele":[{"r":"みつだん","p":true}],"sense":[{"gloss":"private talk, confidential talk, secret talk","pos":["n","vs","vt","vi"]}]},"sdata":[]}

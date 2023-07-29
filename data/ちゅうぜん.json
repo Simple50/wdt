@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中前","p":true}],"r_ele":[{"r":"ちゅうぜん","p":true}],"sense":[{"gloss":"front of center field, front of centre field","pos":["n"]}]},"sdata":[{"j":"↑星雲↑↓せいうん↓は↑宇宙↑↓う|ちゅう↓↑全体↑↓ぜん|たい↓に↑散↑↓ち↓らされ、それらは↑全↑↓まった↓くバラバラの↑大↑↓おお↓きさです。","e":"Galaxies are scattered throughout the universe and they vary greatly in size."}]}

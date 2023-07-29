@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"買い戻す","p":true},{"e":"買戻す"}],"r_ele":[{"r":"かいもどす","p":true}],"sense":[{"gloss":"to buy back, to redeem","pos":["v5s","vt"]}]},"sdata":[{"j":"それを↑買↑↓|か↓い↑戻↑↓もど↓す|のに５ポンドかかった。","e":"It cost him five pounds to buy it back."}]}

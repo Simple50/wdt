@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"補欠","p":true},{"e":"補闕"}],"r_ele":[{"r":"ほけつ","p":true}],"sense":[{"gloss":"filling a vacancy, supplementation","pos":["n","adj-no"]},{"gloss":"substitute, deputy, alternate, spare","pos":["n"]}]},"sdata":[]}

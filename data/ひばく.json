@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"被爆","p":true}],"r_ele":[{"r":"ひばく","p":true}],"sense":[{"gloss":"being bombed","pos":["n","vs"]},{"gloss":"being A-bombed, being nuked, being exposed to radiation (from an atomic blast)","pos":["n","vs"],"x":["被曝"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓は↑唯一↑↓ゆいいつ↓の↑被爆↑↓|ひばく|↓↑国↑↓こく↓である。","e":"Japan is the only nation to have been hit by nuclear bombs."}]}

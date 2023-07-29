@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"罹る","p":true}],"r_ele":[{"r":"かかる","p":true}],"sense":[{"gloss":"to contract (a disease), to suffer from","pos":["v5r","vi"]}],"m":["uk"]},"kdata":{"罹":{"on":["リ","ラ"],"kun":["かか.る"],"meanings":["catch","get"],"comp":[["惟","罒"]],"jlpt":-1,"freq":2730}},"sdata":[]}

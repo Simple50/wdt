@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オリジナリティー","p":true},{"r":"オリジナリティ"}],"sense":[{"gloss":"originality","pos":["n"]}]},"sdata":[{"j":"|オリジナリティー|とは、↑既↑↓すで↓にわかっている↑事↑↓こと↓を、↑普通↑↓ふつう↓の↑方法↑↓ほうほう↓ではない↑方法↑↓ほうほう↓で↑組↑↓く↓み↑合↑↓あ↓わせることである。","e":"Originality is taking something that already known and combining in a extraordinary way."}]}

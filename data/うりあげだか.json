@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売上高","p":true},{"e":"売り上げ高"}],"r_ele":[{"r":"うりあげだか","p":true}],"sense":[{"gloss":"sales, amount sold, proceeds","pos":["n"]}]},"sdata":[{"j":"↑総↑↓そう↓↑売上↑↓|うりあげ↓↑高↑↓だか|↓の↑点↑↓てん↓から↑見↑↓み↓て、あの↑会社↑↓かいしゃ↓はとてもうまくいっている。","e":"That company is doing very well in terms of total sales."}]}

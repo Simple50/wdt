@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"呼び水","p":true},{"e":"呼水"}],"r_ele":[{"r":"よびみず","p":true}],"sense":[{"gloss":"pump-priming, rousing, stimulation","pos":["n"]}]},"sdata":[]}

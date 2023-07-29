@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原始人","p":true}],"r_ele":[{"r":"げんしじん","p":true}],"sense":[{"gloss":"primitive man","pos":["n"]}]},"sdata":[{"j":"↑原始↑↓|げんし↓↑人↑↓じん|↓はその↑猛獣↑↓もうじゅう↓を↑見↑↓み↓ておびえた。","e":"The primitive man was frightened at the sign of the beast."},{"j":"↑原始↑↓|げんし↓↑人↑↓じん|↓はどう↑猛↑↓もう↓な↑獣↑↓しし↓を↑見↑↓み↓ておびえた。","e":"The primitive man was frightened at the sight of a savage beast."}]}

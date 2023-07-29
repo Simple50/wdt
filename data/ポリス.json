@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポリス","p":true}],"sense":[{"gloss":"police","pos":["n"]},{"gloss":"polis (ancient Greek city state)","pos":["n"],"l":"gre: polis"},{"gloss":"-city","pos":["suf"],"x":["テクノポリス","メトロポリス"]}]},"sdata":[]}

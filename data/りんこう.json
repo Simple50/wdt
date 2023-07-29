@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"臨港","p":true}],"r_ele":[{"r":"りんこう","p":true}],"sense":[{"gloss":"facing (along) the harbor (harbour)","pos":["n","adj-no"]}]},"sdata":[]}

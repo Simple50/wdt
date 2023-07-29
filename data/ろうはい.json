@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老廃","p":true}],"r_ele":[{"r":"ろうはい","p":true}],"sense":[{"gloss":"superannuation","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑二郎↑↓じ|ろう↓は↑今↑↓い|ま↓いません。","e":"Jiro is not in."},{"j":"↑二郎↑↓じ|ろう↓は↑今↑↓い|ま↓いません。","e":"Jiro is not here."},{"j":"↑二郎↑↓じ|ろう↓は↑今↑↓い|ま↓いません。","e":"Jiro isn't here now."}]}

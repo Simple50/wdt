@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パワフル","p":true}],"sense":[{"gloss":"powerful","pos":["adj-na","n"]}]},"sdata":[]}

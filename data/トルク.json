@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トルク","p":true}],"sense":[{"gloss":"torque","pos":["n"],"f":["physics"]}]},"sdata":[]}

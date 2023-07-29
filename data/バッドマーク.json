@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バッドマーク","p":true},{"r":"バッド・マーク"}],"sense":[{"gloss":"bad mark","pos":["n"]}]},"sdata":[]}

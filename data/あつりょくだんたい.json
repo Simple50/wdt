@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"圧力団体","p":true}],"r_ele":[{"r":"あつりょくだんたい","p":true}],"sense":[{"gloss":"pressure group, lobby","pos":["n"]}]},"sdata":[]}

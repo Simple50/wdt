@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"存廃","p":true}],"r_ele":[{"r":"そんぱい","p":true}],"sense":[{"gloss":"maintenance or abolition (of a system, institution, etc.), existence","pos":["n"]}]},"sdata":[]}

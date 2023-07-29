@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アフリカーンス","p":true}],"sense":[{"gloss":"Afrikaans (language)","pos":["n"],"x":["アフリカーンス語"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し目買い","p":true}],"r_ele":[{"r":"おしめがい","p":true}],"sense":[{"gloss":"buying when the market is down","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"女流","p":true}],"r_ele":[{"r":"じょりゅう","p":true}],"sense":[{"gloss":"woman (writer, artist, aviator, etc.)","pos":["n"]}]},"sdata":[{"j":"それがまさに↑彼女↑↓かの|じょ↓↑流↑↓りゅう|↓だ。","e":"That is just her way."}]}

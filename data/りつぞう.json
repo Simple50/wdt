@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立像","p":true}],"r_ele":[{"r":"りつぞう","p":true}],"sense":[{"gloss":"standing statue, standing image","pos":["n"],"x":["座像"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り下げる","p":true},{"e":"きり下げる"},{"e":"切りさげる"}],"r_ele":[{"r":"きりさげる","p":true}],"sense":[{"gloss":"to cut down, to prune, to reduce, to cut and hang down, to cut shorter","pos":["v1","vt"]},{"gloss":"to round down (e.g. fraction)","pos":["v1","vt"]}]},"sdata":[]}

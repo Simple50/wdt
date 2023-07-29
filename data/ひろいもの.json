@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"拾い物","p":true},{"e":"拾いもの"}],"r_ele":[{"r":"ひろいもの","p":true}],"sense":[{"gloss":"a find","pos":["n"]},{"gloss":"windfall, bargain","pos":["n"]}]},"sdata":[]}

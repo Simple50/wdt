@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒巻","p":true},{"e":"苞苴"},{"e":"新巻"}],"r_ele":[{"r":"あらまき","p":true}],"sense":[{"gloss":"salted salmon, fish wrapped in (bamboo) leaves","pos":["n"]}]},"sdata":[]}

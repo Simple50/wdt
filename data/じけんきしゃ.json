@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事件記者","p":true}],"r_ele":[{"r":"じけんきしゃ","p":true}],"sense":[{"gloss":"police reporter","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三部作","p":true}],"r_ele":[{"r":"さんぶさく","p":true}],"sense":[{"gloss":"trilogy","pos":["n"]}]},"sdata":[]}

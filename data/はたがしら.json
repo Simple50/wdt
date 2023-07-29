@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旗頭","p":true}],"r_ele":[{"r":"はたがしら","p":true}],"sense":[{"gloss":"leader, boss","pos":["n"]},{"gloss":"upper part of a flag","pos":["n"]},{"gloss":"(Okinawa) bamboo poles with an attached vertical flag and an elaborate display at the top that are used during the annual fertility and thanks-giving festivals","pos":["n"]}]},"sdata":[]}

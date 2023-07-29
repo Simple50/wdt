@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハロゲン","p":true}],"sense":[{"gloss":"halogen","pos":["n","adj-no"]}]},"sdata":[]}

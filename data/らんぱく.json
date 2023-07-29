@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卵白","p":true}],"r_ele":[{"r":"らんぱく","p":true}],"sense":[{"gloss":"white of an egg, albumen","pos":["n"]}]},"sdata":[]}

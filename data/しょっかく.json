@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"触覚","p":true}],"r_ele":[{"r":"しょっかく","p":true}],"sense":[{"gloss":"sense of touch","pos":["n"]},{"gloss":"tactile, haptic","pos":["adj-f"]},{"gloss":"hair style with long bangs","pos":["n"]}]},"sdata":[]}

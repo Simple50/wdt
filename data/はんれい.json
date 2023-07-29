@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"判例","p":true}],"r_ele":[{"r":"はんれい","p":true}],"sense":[{"gloss":"(judicial) precedent","pos":["n"]}]},"sdata":[{"j":"↑投稿↑↓とうこう↓↑一覧↑↓いちらん↓の↑下↑↓した↓の↑凡例↑↓|はんれい|↓を↑見↑↓み↓て↑原因↑↓げんいん↓が↑分↑↓わ↓かりました。","e":"When I looked at the explanatory notes under the posts list I realized what was causing it."}]}

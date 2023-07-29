@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別働隊"},{"e":"別動隊","p":true}],"r_ele":[{"r":"べつどうたい","p":true}],"sense":[{"gloss":"flying column, detached force","pos":["n"]}]},"sdata":[]}

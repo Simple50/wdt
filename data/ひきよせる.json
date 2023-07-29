@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き寄せる","p":true},{"e":"引寄せる","i":["io"]},{"e":"引きよせる"}],"r_ele":[{"r":"ひきよせる","p":true}],"sense":[{"gloss":"to draw or pull something towards oneself (e.g. chair)","pos":["v1","vt"]}]},"sdata":[]}

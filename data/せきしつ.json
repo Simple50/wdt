@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"石室","p":true}],"r_ele":[{"r":"せきしつ","p":true},{"r":"いしむろ"}],"sense":[{"gloss":"stone hut, rock chamber","pos":["n"]},{"gloss":"tomb, stone burial chamber","pos":["n"]}]},"sdata":[{"j":"その↑少年↑↓しょうねん↓は、８↑日間↑↓にちかん↓↑欠席↑↓けっ|せき↓し↑続↑↓つ|づ↓けている。","e":"The boy has been absent from school for eight days."}]}

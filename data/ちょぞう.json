@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貯蔵","p":true}],"r_ele":[{"r":"ちょぞう","p":true}],"sense":[{"gloss":"storage, preservation","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑貯蔵庫↑↓|ちょぞう|こ↓のドアのそばの↑刈↑↓が↓り↑残↑↓のこ↓した↑伸↑↓の↓びた↑芝↑↓しば↓はどうなんだい。","e":"What about the tall grass you left over by the cellar door?"}]}

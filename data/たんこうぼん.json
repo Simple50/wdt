@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"単行本","p":true}],"r_ele":[{"r":"たんこうぼん","p":true}],"sense":[{"gloss":"standalone book (i.e. not part of an anthology, series, etc.), (book published as a) single volume","pos":["n"]},{"gloss":"tankōbon, individual volume of a manga series","pos":["n"]}]},"sdata":[]}

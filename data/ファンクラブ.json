@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファンクラブ","p":true},{"r":"ファン・クラブ"}],"sense":[{"gloss":"fan club","pos":["n"]}]},"sdata":[]}

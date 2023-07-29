@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"親不孝","p":true},{"e":"親不幸","i":["iK"]}],"r_ele":[{"r":"おやふこう","p":true}],"sense":[{"gloss":"lack of filial piety, disobedience to one's parents","pos":["n","vs","vi","adj-na"],"ant":["親孝行"]}]},"sdata":[]}

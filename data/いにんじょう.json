@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"委任状","p":true}],"r_ele":[{"r":"いにんじょう","p":true}],"sense":[{"gloss":"commission, proxy, power of attorney, authorization","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売り渡し","p":true}],"r_ele":[{"r":"うりわたし","p":true}],"sense":[{"gloss":"sale, selling","pos":["n"]}]},"sdata":[{"j":"↑自分↑↓じぶん↓の↑本↑↓ほん↓を↑安↑↓やす↓く↑売↑↓|う↓り↑渡↑↓わた↓し|たんだ。","e":"I sold my books cheaply."}]}

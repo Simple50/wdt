@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"１１９番","p":true},{"e":"一一九番","p":true}],"r_ele":[{"r":"ひゃくじゅうきゅうばん","p":true}],"sense":[{"gloss":"119 (ambulance and fire brigade emergency telephone number in Japan)","pos":["n"]}]},"sdata":[{"j":"↑火災↑↓かさい↓の↑時↑↓とき↓には↑１１９↑↓|ひゃくじゅうきゅう↓↑番↑↓ばん|↓へ↑電話↑↓でんわ↓を。","e":"In case of fire, call 119."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"世帯数","p":true}],"r_ele":[{"r":"せたいすう","p":true}],"sense":[{"gloss":"number of households","pos":["n"]}]},"sdata":[]}

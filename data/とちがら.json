@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土地柄","p":true}],"r_ele":[{"r":"とちがら","p":true}],"sense":[{"gloss":"nature of the locality, character of a place, local colour, local color","pos":["n"]}]},"sdata":[]}

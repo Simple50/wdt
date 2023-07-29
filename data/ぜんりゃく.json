@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前略","p":true}],"r_ele":[{"r":"ぜんりゃく","p":true}],"sense":[{"gloss":"dispensing with the preliminaries ...","pos":["exp"]},{"gloss":"omitting the previous part","pos":["n","vs","vi"]}]},"sdata":[]}

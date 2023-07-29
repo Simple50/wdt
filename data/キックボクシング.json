@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キックボクシング","p":true}],"sense":[{"gloss":"kickboxing, kick-boxing","pos":["n"]}]},"sdata":[]}

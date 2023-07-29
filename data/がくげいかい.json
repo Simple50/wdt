@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学芸会","p":true}],"r_ele":[{"r":"がくげいかい","p":true}],"sense":[{"gloss":"school arts festival","pos":["n"]}]},"sdata":[]}

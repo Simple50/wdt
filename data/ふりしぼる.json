@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"振り絞る","p":true},{"e":"振りしぼる"},{"e":"振絞る"}],"r_ele":[{"r":"ふりしぼる","p":true}],"sense":[{"gloss":"to use to the full (one's voice, energy, etc.), to muster all of (one's strength, courage, etc.), to summon all of, to exert fully, to strain (one's voice)","pos":["v5r","vt"]}]},"sdata":[]}

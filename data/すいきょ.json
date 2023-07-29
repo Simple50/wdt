@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"推挙","p":true},{"e":"吹挙","i":["oK"]}],"r_ele":[{"r":"すいきょ","p":true}],"sense":[{"gloss":"recommendation (of a person for a position), nomination","pos":["n","vs","vt"]}]},"sdata":[{"j":"バリー・テイラーの↑名↑↓な↓が↑議長↑↓ぎちょう↓↑職↑↓しょく↓に↑推挙↑↓|すいきょ|↓されている。","e":"Barry Taylor's name has been put forward for the post of chairman."}]}

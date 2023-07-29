@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勇む","p":true}],"r_ele":[{"r":"いさむ","p":true}],"sense":[{"gloss":"to be in high spirits, to be encouraged, to be lively, to cheer up","pos":["v5m","vi"]}]},"kdata":{"勇":{"on":["ユウ"],"kun":["いさ.む"],"jlpt":2,"meanings":["courage","cheer up","be in high spirits","bravery","heroism"],"freq":1319,"comp":[["力","甬"]],"d":["湧","踴","愑"],"s":"男","t":823}},"sdata":[]}

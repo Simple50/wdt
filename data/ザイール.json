@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ザイール","p":true}],"sense":[{"gloss":"Zaire (now Democratic Republic of the Congo)","pos":["n"]},{"gloss":"zaire (currency of the Democratic Republic of the Congo)","pos":["n"]}]},"sdata":[]}

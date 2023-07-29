@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コバルトブルー","p":true},{"r":"コバルト・ブルー"}],"sense":[{"gloss":"cobalt blue","pos":["n"]}]},"sdata":[]}

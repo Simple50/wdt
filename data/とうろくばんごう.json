@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"登録番号","p":true}],"r_ele":[{"r":"とうろくばんごう","p":true}],"sense":[{"gloss":"registration number","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土俵際","p":true}],"r_ele":[{"r":"どひょうぎわ","p":true}],"sense":[{"gloss":"edge of the ring","pos":["n"],"f":["sumo"]},{"gloss":"verge, brink, critical moment, last moment","pos":["n"]}]},"sdata":[]}

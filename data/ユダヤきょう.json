@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ユダヤ教","p":true}],"r_ele":[{"r":"ユダヤきょう","p":true}],"sense":[{"gloss":"Judaism","pos":["n"]}]},"sdata":[]}

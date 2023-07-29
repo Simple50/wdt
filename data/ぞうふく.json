@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増幅","p":true}],"r_ele":[{"r":"ぞうふく","p":true}],"sense":[{"gloss":"amplification","pos":["n","vs","vt","vi"],"f":["elec"]},{"gloss":"magnification, amplification, making larger","pos":["n","vs","vt","vi"]}]},"sdata":[]}

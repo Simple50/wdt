@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リミテッド","p":true},{"r":"リミティッド"}],"sense":[{"gloss":"limited","pos":["adj-na","adj-no"]}]},"sdata":[]}

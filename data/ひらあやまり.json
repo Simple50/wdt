@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平謝り","p":true}],"r_ele":[{"r":"ひらあやまり","p":true}],"sense":[{"gloss":"earnest apology, humble apology, apologizing profusely","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓はその↑人↑↓ひと↓に↑平謝↑↓|ひらあやま↓り|に↑謝↑↓あやま↓った。","e":"I showed him my deepest regret."},{"j":"↑私↑↓わたし↓は↑自分↑↓じぶん↓の↑遅刻↑↓ちこく↓を↑平謝↑↓|ひらあやま↓り|に↑謝↑↓あやま↓った。","e":"I apologized profusely for my being late."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二人連れ","p":true}],"r_ele":[{"r":"ふたりづれ","p":true}],"sense":[{"gloss":"party of two","pos":["n"]}]},"sdata":[]}

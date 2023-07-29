@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"但し","p":true}],"r_ele":[{"r":"ただし","p":true}],"sense":[{"gloss":"but, however, provided that","pos":["conj"]}],"m":["uk"]},"kdata":{"但":{"on":["タン"],"kun":["ただ.し"],"jlpt":1,"meanings":["however","but"],"freq":2404,"comp":[["亻","旦"]],"t":432}},"sdata":[]}

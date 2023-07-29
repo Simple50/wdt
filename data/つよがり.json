@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強がり","p":true}],"r_ele":[{"r":"つよがり","p":true}],"sense":[{"gloss":"show of courage, bluff","pos":["n"]}]},"sdata":[]}

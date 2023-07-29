@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夜遊び","p":true}],"r_ele":[{"r":"よあそび","p":true}],"sense":[{"gloss":"nightlife, night amusements","pos":["n","vs","vi"]}]},"sdata":[]}

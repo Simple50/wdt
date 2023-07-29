@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"働かす","p":true}],"r_ele":[{"r":"はたらかす","p":true}],"sense":[{"gloss":"to put someone to work, to make someone work","pos":["v5s","vt"],"x":["働かせる・1"]}]},"sdata":[{"j":"↑分別↑↓ふんべつ↓ある↑人↑↓ひと↓というのは↑良識↑↓りょうしき↓を↑働↑↓|はたら↓かす|↑人↑↓ひと↓である。","e":"A sensible person is one who uses good sense."}]}

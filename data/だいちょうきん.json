@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大腸菌","p":true}],"r_ele":[{"r":"だいちょうきん","p":true}],"sense":[{"gloss":"Escherichia coli (E. coli)","pos":["n"]},{"gloss":"colon bacterium","pos":["n"]}]},"sdata":[]}

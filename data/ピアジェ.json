@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピアジェ","p":true}],"sense":[{"gloss":"Piaget","pos":["n"]}]},"sdata":[]}

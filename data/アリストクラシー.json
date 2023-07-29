@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アリストクラシー","p":true}],"sense":[{"gloss":"aristocracy","pos":["n"]}]},"sdata":[]}

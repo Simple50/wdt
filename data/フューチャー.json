@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フューチャー","p":true}],"sense":[{"gloss":"future","pos":["n"]}]},"sdata":[]}

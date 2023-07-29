@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大量殺人","p":true}],"r_ele":[{"r":"たいりょうさつじん","p":true}],"sense":[{"gloss":"mass killing, mass murder, bloodbath","pos":["n"]}]},"sdata":[]}

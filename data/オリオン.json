@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オリオン","p":true}],"sense":[{"gloss":"Orion","pos":["n"]}]},"sdata":[{"j":"↑星座↑↓せいざ↓は↑全然↑↓ぜんぜん↓↑詳↑↓くわ↓しくないな。|オリオン|↑座↑↓ざ↓とカシオペア↑座↑↓ざ↓くらいしか↑見↑↓み↓てもわからない。あと↑北斗七星↑↓ほくとしちせい↓もわかる。","e":"I know nothing about constellations. I can only recognize Orion and Cassiopeia. Oh, and the Big Dipper, too."}]}

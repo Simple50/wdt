@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"光沢","p":true}],"r_ele":[{"r":"こうたく","p":true}],"sense":[{"gloss":"brilliance, polish, lustre, luster, glossy finish (of photographs)","pos":["n"]}]},"sdata":[{"j":"この↑指輪↑↓ゆびわ↓は↑光沢↑↓|こうたく|↓をうしなった。","e":"This ring lost its luster."},{"j":"↑光沢↑↓|こうたく|↓↑紙↑↓し↓がいいな。","e":"I like glossy paper."},{"j":"↑光沢↑↓|こうたく|↓のある↑紙↑↓かみ↓が↑好↑↓す↓き。","e":"I like glossy paper."}]}

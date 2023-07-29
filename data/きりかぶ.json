@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り株","p":true},{"e":"切株"}],"r_ele":[{"r":"きりかぶ","p":true}],"sense":[{"gloss":"stump, stubble","pos":["n"]}]},"sdata":[{"j":"でも、↑私↑↓わたし↓には↑何↑↓なに↓も↑残↑↓のこ↓ってない、ただの↑古↑↓ふる↓い↑切↑↓|き↓り↑株↑↓かぶ|↓です。","e":"But I have nothing left. I am just an old stump."}]}

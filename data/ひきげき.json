@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悲喜劇","p":true}],"r_ele":[{"r":"ひきげき","p":true}],"sense":[{"gloss":"tragicomedy","pos":["n"]}]},"sdata":[]}

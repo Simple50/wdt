@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絶叫","p":true}],"r_ele":[{"r":"ぜっきょう","p":true}],"sense":[{"gloss":"scream, shriek, shout, exclamation","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑私↑↓わたし↓が↑悪↑↓わる↓いと↑絶叫↑↓|ぜっきょう|↓した。","e":"She screamed that I was to blame."}]}

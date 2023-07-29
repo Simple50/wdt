@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初級","p":true}],"r_ele":[{"r":"しょきゅう","p":true}],"sense":[{"gloss":"elementary level, beginner level","pos":["n","adj-no"]}]},"sdata":[{"j":"この↑辞書↑↓じしょ↓は↑初級↑↓|しょきゅう|↓↑者↑↓しゃ↓に、いやそれどころか↑上級↑↓じょうきゅう↓↑者↑↓しゃ↓にも↑役↑↓やく↓に↑立↑↓た↓つ。","e":"This dictionary is useful to beginners, yes, and to advanced learners."}]}

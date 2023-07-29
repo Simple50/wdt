@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"梅園","p":true}],"r_ele":[{"r":"ばいえん","p":true},{"r":"うめぞの"}],"sense":[{"gloss":"Japanese apricot orchard, plum orchard, plum garden, ume orchard","pos":["n"],"x":["梅・うめ・1"]}]},"sdata":[]}

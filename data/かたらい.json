@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"語らい","p":true}],"r_ele":[{"r":"かたらい","p":true}],"sense":[{"gloss":"talk, chat","pos":["n"]},{"gloss":"troth, lovers' vow","pos":["n"]}]},"sdata":[]}

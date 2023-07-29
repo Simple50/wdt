@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別館","p":true}],"r_ele":[{"r":"べっかん","p":true}],"sense":[{"gloss":"annex (to a building), annexe, extension, supplementary building","pos":["n"]}]},"sdata":[{"j":"↑別館↑↓|べっかん|↓は↑本館↑↓ほんかん↓の↑北側↑↓きたがわ↓にある。","e":"The annex is on the north of the original building."}]}

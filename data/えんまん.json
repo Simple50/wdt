@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"円満","p":true}],"r_ele":[{"r":"えんまん","p":true}],"sense":[{"gloss":"harmonious, peaceful, happy, amicable, smooth, free from trouble","pos":["adj-na","n"]}]},"sdata":[{"j":"↑家庭↑↓かてい↓は↑円満↑↓|えんまん|↓だ。","e":"I have peace at home."},{"j":"↑争議↑↓そうぎ↓は↑円満↑↓|えんまん|↓に↑解決↑↓かいけつ↓した。","e":"The dispute was settled peacefully."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エキセントリック","p":true},{"r":"エクセントリック"}],"sense":[{"gloss":"eccentric","pos":["adj-na"]}]},"sdata":[{"j":"↑今日↑↓きょう↓のアイツは、|エキセントリック|すぎてついていけない。","e":"That guy today, he's being too eccentric - I can't keep up with him."}]}

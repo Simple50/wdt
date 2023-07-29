@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャバレー","p":true},{"r":"キャバレイ"}],"sense":[{"gloss":"cabaret","pos":["n"],"l":"fre"}]},"sdata":[]}

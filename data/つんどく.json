@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積ん読","p":true},{"e":"積読"},{"e":"つん読"}],"r_ele":[{"r":"つんどく","p":true}],"sense":[{"gloss":"buying books and not reading them, stockpiling books, tsundoku","pos":["n","vs"]},{"gloss":"books bought but not read","pos":["n"]}]},"sdata":[]}

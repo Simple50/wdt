@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"商慣習","p":true}],"r_ele":[{"r":"しょうかんしゅう","p":true}],"sense":[{"gloss":"commercial practice","pos":["n"]}]},"sdata":[]}

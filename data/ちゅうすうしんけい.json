@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中枢神経","p":true}],"r_ele":[{"r":"ちゅうすうしんけい","p":true}],"sense":[{"gloss":"central nerves","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酒盛り","p":true},{"e":"酒盛"}],"r_ele":[{"r":"さかもり","p":true}],"sense":[{"gloss":"drinking bout, merrymaking","pos":["n","vs","vi"]}]},"sdata":[]}

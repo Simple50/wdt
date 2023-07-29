@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パパイヤ","p":true},{"r":"パパイア"}],"sense":[{"gloss":"papaya (Carica papaya), pawpaw","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"停泊","p":true},{"e":"碇泊"}],"r_ele":[{"r":"ていはく","p":true}],"sense":[{"gloss":"anchorage, anchoring, mooring","pos":["n","vs","vi"]}]},"sdata":[{"j":"その↑船↑↓ふね↓は↑港↑↓みなと↓に↑停泊↑↓|ていはく|↓している。","e":"The ship is at anchor in the harbor."},{"j":"↑審判↑↓しんぱん↓の↑判定↑↓はん|てい↓は↑覆↑↓く|つがえ↓らない。","e":"The judge's decision is final."}]}

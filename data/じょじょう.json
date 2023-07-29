@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"叙情","p":true},{"e":"抒情"}],"r_ele":[{"r":"じょじょう","p":true}],"sense":[{"gloss":"lyricism, description of one's feelings","pos":["n","adj-no"],"ant":["叙事・じょじ"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑叙事詩↑↓じょじし↓よりも↑叙情詩↑↓|じょじょう|し↓の↑方↑↓ほう↓が↑好↑↓す↓きだ。","e":"I like lyric better than epic."}]}

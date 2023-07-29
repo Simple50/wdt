@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無医村","p":true}],"r_ele":[{"r":"むいそん","p":true}],"sense":[{"gloss":"village lacking a doctor, doctorless village","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑医者↑↓いしゃ↓になり↑無医村↑↓|むいそん|↓へ↑行↑↓い↓こうと↑決意↑↓けつい↓した。","e":"He made up his mind to be a doctor and go to a doctorless village."}]}

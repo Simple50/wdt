@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"活性炭","p":true}],"r_ele":[{"r":"かっせいたん","p":true}],"sense":[{"gloss":"activated charcoal, activated carbon","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本初","p":true}],"r_ele":[{"r":"にほんはつ","p":true},{"r":"にっぽんはつ"}],"sense":[{"gloss":"first (of its kind) in Japan","pos":["n","adj-no"]}]},"sdata":[]}

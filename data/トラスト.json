@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トラスト","p":true}],"sense":[{"gloss":"trust","pos":["n"]}]},"sdata":[{"j":"その↑洋服↑↓ようふく↓は↑赤↑↓あか↓と↑白↑↓しろ↓のコン|トラスト|が↑美↑↓うつく↓しい。","e":"The dress has a beautiful contrast between red and white."}]}

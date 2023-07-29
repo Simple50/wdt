@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"転出","p":true}],"r_ele":[{"r":"てんしゅつ","p":true}],"sense":[{"gloss":"moving out (to), moving to a different place","pos":["n","vs","vi"],"ant":["転入・1"]},{"gloss":"transfer (to a new post), being transferred","pos":["n","vs","vi"]}]},"sdata":[]}

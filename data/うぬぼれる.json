@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自惚れる","p":true},{"e":"己惚れる","i":["rK"]}],"r_ele":[{"r":"うぬぼれる","p":true}],"sense":[{"gloss":"to be conceited","pos":["v1","vi"]}],"m":["uk"]},"sdata":[{"j":"↑褒↑↓ほ↓めると↑彼女↑↓かのじょ↓は|うぬぼれる|よ。","e":"Too much praise will turn her head."},{"j":"|うぬぼれる|な。","e":"Don't flatter yourself."}]}

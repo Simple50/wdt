@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イスタンブール","p":true},{"r":"イスタンブル"}],"sense":[{"gloss":"Istanbul","pos":["n"]}]},"sdata":[]}

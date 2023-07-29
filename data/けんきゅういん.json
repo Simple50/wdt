@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"研究員","p":true}],"r_ele":[{"r":"けんきゅういん","p":true}],"sense":[{"gloss":"researcher, lab worker","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"律儀"},{"e":"律義","p":true}],"r_ele":[{"r":"りちぎ","p":true}],"sense":[{"gloss":"upright, honest, faithful, conscientious, sincere","pos":["adj-na","n"]}]},"sdata":[]}

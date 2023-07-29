@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無造作","p":true},{"e":"無雑作"}],"r_ele":[{"r":"むぞうさ","p":true}],"sense":[{"gloss":"easy, simple, ready","pos":["adj-na","n"]},{"gloss":"casual, off-hand, easy-going, careless, artless","pos":["adj-na","n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑髪↑↓かみ↓を↑無造作↑↓|むぞうさ|↓に↑束↑↓たば↓ねている。","e":"She is doing her hair simply."}]}

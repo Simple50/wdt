@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浮沈","p":true}],"r_ele":[{"r":"ふちん","p":true}],"sense":[{"gloss":"floating and sinking, rise and fall, ebb and flow, ups and downs","pos":["n","vs","vi"]}]},"sdata":[]}

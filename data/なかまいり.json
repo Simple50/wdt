@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仲間入り","p":true}],"r_ele":[{"r":"なかまいり","p":true}],"sense":[{"gloss":"joining a group","pos":["n","vs","vi"]}]},"sdata":[{"j":"その↑僧↑↓そう↓は↑子供↑↓こども↓↑達↑↓たち↓の↑遊↑↓あそ↓びに↑仲間入↑↓|なかまい↓り|した。","e":"The priest participated in the children's games."}]}

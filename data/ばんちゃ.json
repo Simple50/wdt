@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"番茶","p":true}],"r_ele":[{"r":"ばんちゃ","p":true}],"sense":[{"gloss":"coarse tea","pos":["n"],"x":["玉露・1","煎茶・2"]}]},"sdata":[{"j":"↑物↑↓もの↓には↑時節↑↓じせつ↓、↑番茶↑↓|ばんちゃ|↓も↑出花↑↓でばな↓。","e":"There is a time for all things."}]}

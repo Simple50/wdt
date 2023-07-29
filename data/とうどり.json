@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"頭取","p":true}],"r_ele":[{"r":"とうどり","p":true}],"sense":[{"gloss":"(bank) president","pos":["n"]},{"gloss":"greenroom manager (in a theater)","pos":["n"]}]},"sdata":[{"j":"その↑頭取↑↓|とうどり|↓は↑尊敬↑↓そんけい↓を↑集↑↓あつ↓めていた。","e":"The bank director was held in high regard."},{"j":"↑彼↑↓かれ↓は↑銀行↑↓ぎんこう↓の↑頭取↑↓|とうどり|↓だ。","e":"He's the president of the bank."}]}

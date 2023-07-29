@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"甚だしい","p":true},{"e":"甚しい","i":["io"]}],"r_ele":[{"r":"はなはだしい","p":true}],"sense":[{"gloss":"extreme, excessive, terrible, intense, severe, serious, tremendous, heavy (damage)","pos":["adj-i"]}]},"sdata":[{"j":"あんなことを↑彼女↑↓かのじょ↓に↑言↑↓い↓うなんて↑非常識↑↓ひじょうしき↓も↑甚↑↓|はなは↓だしい|。","e":"It's quite absurd of you to tell her that sort of thing."}]}

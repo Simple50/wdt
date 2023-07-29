@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金銀","p":true}],"r_ele":[{"r":"きんぎん","p":true}],"sense":[{"gloss":"gold and silver","pos":["n"]},{"gloss":"money","pos":["n"]}]},"sdata":[]}

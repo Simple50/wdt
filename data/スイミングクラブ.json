@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スイミングクラブ","p":true},{"r":"スイミング・クラブ"}],"sense":[{"gloss":"swimming club","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は|スイミングクラブ|の↑会員↑↓かいいん↓です。","e":"I'm a member of the swimming club."}]}

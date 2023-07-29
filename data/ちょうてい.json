@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"調停","p":true}],"r_ele":[{"r":"ちょうてい","p":true}],"sense":[{"gloss":"arbitration, conciliation, mediation","pos":["n","vs","vt","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑両↑↓りょう↓↑当事↑↓とうじ↓↑者↑↓しゃ↓の↑間↑↓ま↓を↑調停↑↓|ちょうてい|↓した。","e":"He mediated between the two parties."},{"j":"ヘリコプターが↑超↑↓|ちょう↓↑低空↑↓てい|くう↓↑飛行↑↓ひこう↓をしています。","e":"The helicopter is flying very low."}]}

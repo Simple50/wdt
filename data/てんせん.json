@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"転戦","p":true}],"r_ele":[{"r":"てんせん","p":true}],"sense":[{"gloss":"moving from one battlefield to another, fighting on successive fronts, fighting in various battles","pos":["n","vs","vi"]}]},"sdata":[]}

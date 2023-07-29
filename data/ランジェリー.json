@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ランジェリー","p":true}],"sense":[{"gloss":"lingerie","pos":["n"],"l":"fre"}]},"sdata":[]}

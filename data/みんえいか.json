@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民営化","p":true}],"r_ele":[{"r":"みんえいか","p":true}],"sense":[{"gloss":"privatization, privatisation","pos":["n","vs"]}]},"sdata":[]}

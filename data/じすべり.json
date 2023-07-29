@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地滑り","p":true},{"e":"地辷り"},{"e":"地すべり"}],"r_ele":[{"r":"じすべり","p":true}],"sense":[{"gloss":"landslide","pos":["n"]}]},"sdata":[{"j":"あの↑地滑↑↓|じすべ↓り|↑事故↑↓じこ↓は↑多↑↓おお↓くの↑不幸↑↓ふこう↓を↑生↑↓う↓んだ。","e":"That landslide produced a lot of misery."}]}

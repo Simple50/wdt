@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ユニバーシアード","p":true}],"sense":[{"gloss":"Universiade, international multi-sport event for university athletes","pos":["n"]}]},"sdata":[]}

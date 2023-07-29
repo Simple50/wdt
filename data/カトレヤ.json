@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カトレヤ","p":true},{"r":"カトレア"}],"sense":[{"gloss":"cattleya (type of orchid)","pos":["n"],"l":"lat"}]},"sdata":[]}

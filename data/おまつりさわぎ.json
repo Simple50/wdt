@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お祭り騒ぎ","p":true},{"e":"お祭りさわぎ"},{"e":"お祭騒ぎ"},{"e":"御祭騒ぎ"},{"e":"御祭り騒ぎ"}],"r_ele":[{"r":"おまつりさわぎ","p":true}],"sense":[{"gloss":"festival merrymaking, revelry","pos":["n"]}]},"sdata":[{"j":"パーティーは|お↑祭↑↓まつ↓り↑騒↑↓さわ↓ぎ|で↑終↑↓お↓わった。","e":"The party ended up becoming a great revelry."}]}

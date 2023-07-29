@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"呪縛","p":true}],"r_ele":[{"r":"じゅばく","p":true}],"sense":[{"gloss":"spell (that restricts one's movements), binding spell","pos":["n","vs","vt"]}]},"sdata":[]}

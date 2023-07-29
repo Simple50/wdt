@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"硫酸","p":true}],"r_ele":[{"r":"りゅうさん","p":true}],"sense":[{"gloss":"sulfuric acid, sulphuric acid","pos":["n"]}]},"sdata":[{"j":"↑硫酸↑↓|りゅうさん|↓は↑古↑↓ふる↓くは「↑緑礬油↑↓りょくばんゆ↓」と↑呼↑↓よ↓ばれていた。","e":"Sulphuric acid was formally referred to as Melanterite oil."}]}

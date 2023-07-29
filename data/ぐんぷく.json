@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍服","p":true}],"r_ele":[{"r":"ぐんぷく","p":true}],"sense":[{"gloss":"military uniform","pos":["n"]}]},"sdata":[]}

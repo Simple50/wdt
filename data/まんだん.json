@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漫談","p":true}],"r_ele":[{"r":"まんだん","p":true}],"sense":[{"gloss":"chat, desultory conversation","pos":["n","vs"]}]},"sdata":[]}

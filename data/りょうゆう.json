@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"領有","p":true}],"r_ele":[{"r":"りょうゆう","p":true}],"sense":[{"gloss":"possession (esp. of a territory)","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓は↑北方領土↑↓ほっぽうりょうど↓の↑領有↑↓|りょうゆう|↓を↑主張↑↓しゅちょう↓している。","e":"Japan claims the Northern Territories for its own."}]}

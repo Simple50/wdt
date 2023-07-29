@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"倭人","p":true},{"e":"和人"}],"r_ele":[{"r":"わじん","p":true}],"sense":[{"gloss":"Japanese person","pos":["n"]}],"m":["hist"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エディション","p":true}],"sense":[{"gloss":"edition","pos":["n"]}]},"sdata":[{"j":"ちょっと↑割高↑↓わりだか↓だけど、ぬいぐるみが↑欲↑↓ほ↓しかったのでコレクターズ|エディション|の↑方↑↓ほう↓を↑買↑↓か↓うことにした。","e":"It was quite expensive, but I really wanted that plushy, so I decided to buy the collector's edition of it."}]}

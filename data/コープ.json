@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コープ","p":true}],"sense":[{"gloss":"co-op, co-operative","pos":["n"]}]},"sdata":[{"j":"サブマリンのペリス|コープ|が↑水中↑↓すいちゅう↓からにょっきり↑突↑↓つ↓き↑出↑↓で↓ていた。","e":"The submarine's periscope was sticking right out of the water."},{"j":"↑Cannibal↑↓カンニバル↓ ↑Corpse↑↓|コープ|ス↓はアメリカのデスメタルバンドです。","e":"Cannibal Corpse is an American death metal band."}]}

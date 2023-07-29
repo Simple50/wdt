@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"封じ手","p":true}],"r_ele":[{"r":"ふうじて","p":true}],"sense":[{"gloss":"sealed move, next move written down and kept sealed in an envelope until the game is resumed the following day","pos":["n"],"f":["shogi","go"]},{"gloss":"forbidden maneuver (in sumo, martial arts, etc.), forbidden technique","pos":["n"]}]},"sdata":[]}

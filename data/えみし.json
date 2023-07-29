@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蝦夷","p":true}],"r_ele":[{"r":"えみし","p":true},{"r":"えぞ","p":true},{"r":"エミシ"}],"sense":[{"gloss":"Emishi, Ezo, non-Yamato peoples in northern Japan","pos":["n"]},{"gloss":"Yezo, Hokkaido, Sakhalin and the Kuril Islands","pos":["n"],"x":["蝦夷地・1"]}],"m":["hist"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マンドリン","p":true}],"sense":[{"gloss":"mandolin","pos":["n"]}]},"sdata":[]}

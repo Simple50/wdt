@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"芸域","p":true}],"r_ele":[{"r":"げいいき","p":true}],"sense":[{"gloss":"range of skills","pos":["n"]}]},"sdata":[]}

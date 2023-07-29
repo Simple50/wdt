@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無機物","p":true}],"r_ele":[{"r":"むきぶつ","p":true}],"sense":[{"gloss":"inorganic substance","pos":["n"]}]},"sdata":[{"j":"↑石↑↓いし↓は↑無機物↑↓|むきぶつ|↓である。","e":"A stone is dead matter."}]}

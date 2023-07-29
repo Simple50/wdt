@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"開店休業","p":true}],"r_ele":[{"r":"かいてんきゅうぎょう","p":true}],"sense":[{"gloss":"being open but having virtually no business","pos":["n"]}]},"sdata":[]}

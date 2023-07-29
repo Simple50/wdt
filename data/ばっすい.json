@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抜粋","p":true},{"e":"抜萃"},{"e":"抜枠","i":["iK"]}],"r_ele":[{"r":"ばっすい","p":true}],"sense":[{"gloss":"extract, excerpt, selection","pos":["n","vs","vt","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はその↑詩↑↓し↓から↑一節↑↓いっせつ↓を↑抜粋↑↓|ばっすい|↓した。","e":"He extracted a passage from the poem."},{"j":"↑本↑↓ほん↓の↑要点↑↓ようてん↓を↑抜粋↑↓|ばっすい|↓した。","e":"I made an abstract of a book."}]}

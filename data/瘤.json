@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瘤","p":true}],"r_ele":[{"r":"こぶ","p":true}],"sense":[{"gloss":"bump, lump, protuberance, swelling","pos":["n"]}],"m":["uk"]},"kdata":{"瘤":{"on":["リュウ","ル"],"kun":["こぶ"],"meanings":["lump","swelling"],"freq":2373,"comp":[["留","疒"]],"jlpt":-1}},"sdata":[]}

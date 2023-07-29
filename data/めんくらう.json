@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"面食らう","p":true},{"e":"面喰らう"},{"e":"面くらう","i":["sK"]}],"r_ele":[{"r":"めんくらう","p":true}],"sense":[{"gloss":"to be confused, to be bewildered, to be taken aback","pos":["v5u","vi"]}]},"sdata":[]}

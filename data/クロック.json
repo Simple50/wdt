@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クロック","p":true}],"sense":[{"gloss":"clock","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新春","p":true}],"r_ele":[{"r":"しんしゅん","p":true}],"sense":[{"gloss":"New Year","pos":["n"]}]},"sdata":[]}

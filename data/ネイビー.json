@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ネイビー","p":true},{"r":"ネービー"}],"sense":[{"gloss":"navy","pos":["n"],"x":["海軍"]},{"gloss":"navy blue","pos":["n","adj-no"],"m":["abbr"],"x":["ネイビーブルー"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アクロバット","p":true}],"sense":[{"gloss":"acrobat","pos":["n"]},{"gloss":"acrobatics","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はびっくりするほどの|アクロバット|ができる。","e":"He can do the most amazing acrobatics."}]}

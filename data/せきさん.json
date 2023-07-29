@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積算","p":true}],"r_ele":[{"r":"せきさん","p":true}],"sense":[{"gloss":"addition, adding up","pos":["n","vs","vt"]},{"gloss":"integration","pos":["n","vs","vt"]},{"gloss":"estimate, quantity survey","pos":["n","vs","vt"]}]},"sdata":[]}

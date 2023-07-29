@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プッシュ","p":true}],"sense":[{"gloss":"push","pos":["n","vs","vt"]}]},"sdata":[{"j":"|プッシュ|ホンの↑電話機↑↓でんわき↓を↑持↑↓も↓っています。","e":"I have push button phones."},{"j":"この|プッシュ|ホンもそれなりに↑役↑↓やく↓に↑立↑↓た↓つのが↑分↑↓わ↓かった。","e":"This push-button phone turned out to be useful in its way."}]}

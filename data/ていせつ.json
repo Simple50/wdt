@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"定説","p":true}],"r_ele":[{"r":"ていせつ","p":true}],"sense":[{"gloss":"established theory, accepted opinion, accepted explanation","pos":["n"]}]},"sdata":[]}

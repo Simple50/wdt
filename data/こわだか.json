@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"声高","p":true}],"r_ele":[{"r":"こわだか","p":true}],"sense":[{"gloss":"loud (of a voice)","pos":["adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はその↑銃↑↓じゅう↓に↑触↑↓ふ↓れてはいけないと↑声高↑↓|こわだか|↓に↑言↑↓い↓った。","e":"He exclaimed that I should not touch the gun."},{"j":"↑労働↑↓ろうどう↓↑者↑↓しゃ↓↑達↑↓たち↓は↑声高↑↓|こわだか|↓に↑賃上↑↓ちんあ↓げを↑要求↑↓ようきゅう↓した。","e":"Workers made loud demands for higher wages."}]}

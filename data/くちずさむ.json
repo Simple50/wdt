@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口ずさむ","p":true},{"e":"口遊む","i":["rK"]},{"e":"口吟む","i":["rK"]}],"r_ele":[{"r":"くちずさむ","p":true}],"sense":[{"gloss":"to hum (a tune), to sing to oneself, to croon","pos":["v5m","vt"]}]},"sdata":[]}

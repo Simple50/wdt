@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"割り箸","p":true},{"e":"割箸"},{"e":"割りばし"},{"e":"わり箸"}],"r_ele":[{"r":"わりばし","p":true}],"sense":[{"gloss":"dispensable chopsticks, throwaway chopsticks","pos":["n"]}]},"sdata":[{"j":"↑和食↑↓わしょく↓のレストランへ↑行↑↓い↓くたびに、↑割↑↓|わ↓り↑箸↑↓ばし|↓を↑家↑↓いえ↓へもって↑帰↑↓かえ↓ります。","e":"Whenever I go to a Japanese restaurant, I take the disposable chopsticks home with me."}]}

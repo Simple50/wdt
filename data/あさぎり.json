@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"朝霧","p":true}],"r_ele":[{"r":"あさぎり","p":true}],"sense":[{"gloss":"morning fog, morning mist","pos":["n"],"x":["夕霧"]}]},"sdata":[{"j":"↑遠↑↓とお↓くからだと↑富士山↑↓ふじさん↓が↑朝霧↑↓|あさぎり|↓の↑中↑↓なか↓にそびえているのが↑見↑↓み↓えます。","e":"In the distance you can see Mt. Fuji through the morning mist."}]}

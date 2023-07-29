@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"音盤","p":true}],"r_ele":[{"r":"おんばん","p":true}],"sense":[{"gloss":"phonograph record, gramophone record","pos":["n"],"x":["レコード盤"]}]},"sdata":[]}

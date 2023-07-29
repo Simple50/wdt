@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"品名","p":true}],"r_ele":[{"r":"ひんめい","p":true}],"sense":[{"gloss":"product name, name of an article","pos":["n"]}]},"sdata":[]}

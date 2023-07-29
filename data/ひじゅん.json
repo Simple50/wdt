@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"批准","p":true}],"r_ele":[{"r":"ひじゅん","p":true}],"sense":[{"gloss":"ratification","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンクチュアリ","p":true},{"r":"サンクチュアリー"}],"sense":[{"gloss":"sanctuary","pos":["n"]},{"gloss":"Sanctuary (faction of the Constitutional Democratic Party of Japan), Akamatsu faction, Akamatsu group","pos":["n"],"x":["立憲民主党・1"]}]},"sdata":[]}

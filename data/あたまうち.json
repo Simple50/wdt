@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"頭打ち","p":true}],"r_ele":[{"r":"あたまうち","p":true},{"r":"ずうち"}],"sense":[{"gloss":"reaching a peak, reaching the limit, plateauing, maxing out","pos":["n"]}]},"sdata":[{"j":"↑離婚↑↓りこん↓↑率↑↓りつ↓はやがて↑頭打↑↓|あたまう↓ち|になるでしょう。","e":"Divorce rates might reach a plateau soon."}]}

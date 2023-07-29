@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原判決","p":true}],"r_ele":[{"r":"げんはんけつ","p":true}],"sense":[{"gloss":"original judgement, judgment in prior instance","pos":["n"],"f":["law"]}]},"sdata":[{"j":"↑最高裁↑↓さいこうさい↓は↑原↑↓|げん↓↑判決↑↓はんけつ|↓をくつがえしました。","e":"The Supreme Court overturned a previous decision."}]}

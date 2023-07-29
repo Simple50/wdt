@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逆上せる","p":true},{"e":"上気せる","i":["rK"]}],"r_ele":[{"r":"のぼせる","p":true}],"sense":[{"gloss":"to feel dizzy, to have blood rush to one's head","pos":["v1","vi"]},{"gloss":"to lose one's cool","pos":["v1","vi"]},{"gloss":"to be obsessed, to be infatuated","pos":["v1","vi"]},{"gloss":"to become conceited","pos":["v1","vi"]}],"m":["uk"]},"sdata":[]}

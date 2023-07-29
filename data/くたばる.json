@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"くたばる","p":true}],"sense":[{"gloss":"to kick the bucket, to drop dead, to die, to croak","pos":["v5r","vi"],"m":["derog"]},{"gloss":"to be pooped, to be exhausted, to be knackered","pos":["v5r","vi"]}]},"sdata":[]}

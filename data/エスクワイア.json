@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エスクワイア","p":true}],"sense":[{"gloss":"esquire","pos":["n"]}]},"sdata":[]}

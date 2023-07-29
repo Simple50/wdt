@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一安心","p":true},{"e":"ひと安心"}],"r_ele":[{"r":"ひとあんしん","p":true}],"sense":[{"gloss":"feeling of relief (for the time being), peace of mind (for now)","pos":["n","vs","vi"]}]},"sdata":[]}

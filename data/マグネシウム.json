@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マグネシウム","p":true}],"sense":[{"gloss":"magnesium (Mg)","pos":["n"]}]},"sdata":[{"j":"アルミニウム、|マグネシウム|、シリコンなどの↑粉末↑↓ふんまつ↓が↑爆発↑↓ばくはつ↓する。","e":"Powders of aluminium, magnesium, silicon, etc. explode."},{"j":"イチジクには|マグネシウム|が↑含↑↓ふく↓まれています。","e":"Figs contain magnesium."}]}

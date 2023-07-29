@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地吹雪","p":true}],"r_ele":[{"r":"じふぶき","p":true}],"sense":[{"gloss":"snow blown up from the ground","pos":["n"]}]},"sdata":[]}

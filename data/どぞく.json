@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土俗","p":true}],"r_ele":[{"r":"どぞく","p":true}],"sense":[{"gloss":"local customs","pos":["n"]}]},"sdata":[{"j":"エウォンド↑語↑↓ご↓はカメルーンに↑居住↑↓きょじゅう↓するエウォン|ド↑族↑↓ぞく|↓によって↑話↑↓はな↓される↑言語↑↓げんご↓である。","e":"Ewondo is the language spoken by the Ewondo tribe of Cameroon."}]}

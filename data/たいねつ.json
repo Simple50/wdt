@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"耐熱","p":true}],"r_ele":[{"r":"たいねつ","p":true}],"sense":[{"gloss":"heat-resisting","pos":["n","adj-no"]}]},"sdata":[]}

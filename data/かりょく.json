@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火力","p":true}],"r_ele":[{"r":"かりょく","p":true}],"sense":[{"gloss":"heating power, thermal power","pos":["n"]},{"gloss":"firepower","pos":["n"],"f":["mil"]}]},"sdata":[{"j":"↑火力↑↓|かりょく|↓とお↑鍋↑↓なべ↓と↑貝↑↓かい↓の↑種類↑↓しゅるい↓によるわ。","e":"It depends on the strength of the flame, the pan used and the type of ingredients."}]}

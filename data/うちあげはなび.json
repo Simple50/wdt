@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち上げ花火","p":true}],"r_ele":[{"r":"うちあげはなび","p":true}],"sense":[{"gloss":"skyrocket (firework)","pos":["n"]}]},"sdata":[{"j":"↑昨日↑↓きのう↓の↑打↑↓|う↓ち↑上↑↓あ↓げ↑花火↑↓はなび|↓きれいだったね。","e":"The fireworks yesterday were so pretty."}]}

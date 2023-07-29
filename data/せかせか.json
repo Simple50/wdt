@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"せかせか","p":true}],"sense":[{"gloss":"restlessly, hurriedly, agitatedly, fidgeting","pos":["adv","adv-to","vs"]}],"m":["on-mim"]},"sdata":[{"j":"↑君↑↓きみ↓はもう↑少↑↓すこ↓し|せかせか|するのをやめなければいけない。","e":"You must be less impatient."},{"j":"トムはいつも|せかせか|している。","e":"Tom is always in a hurry."}]}

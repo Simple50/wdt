@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日替わり","p":true},{"e":"日替り","p":true},{"e":"日変わり"},{"e":"日変り"}],"r_ele":[{"r":"ひがわり","p":true}],"sense":[{"gloss":"changing every day","pos":["n","adj-no"]}]},"sdata":[{"j":"↑日替↑↓|ひが↓わり|↑定食↑↓ていしょく↓にしませんか。","e":"How about getting the special of the day?"}]}

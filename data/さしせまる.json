@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"差し迫る","p":true},{"e":"さし迫る"},{"e":"差迫る","i":["io"]}],"r_ele":[{"r":"さしせまる","p":true}],"sense":[{"gloss":"to be urgent, to be pressing, to be imminent","pos":["v5r","vi"]}]},"sdata":[]}

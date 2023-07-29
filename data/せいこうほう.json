@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"正攻法","p":true}],"r_ele":[{"r":"せいこうほう","p":true}],"sense":[{"gloss":"frontal attack","pos":["n"]}]},"sdata":[]}

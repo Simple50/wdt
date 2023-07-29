@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"混血児","p":true}],"r_ele":[{"r":"こんけつじ","p":true}],"sense":[{"gloss":"child of mixed parentage, mixed-race child","pos":["n"]}],"m":["sens"]},"sdata":[]}

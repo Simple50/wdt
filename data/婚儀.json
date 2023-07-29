@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"婚儀","p":true}],"r_ele":[{"r":"こんぎ","p":true}],"sense":[{"gloss":"wedding ceremony","pos":["n"]}]},"kdata":{"婚":{"on":["コン"],"jlpt":3,"meanings":["marriage"],"freq":767,"comp":[["昏","女"]],"t":1257},"儀":{"on":["ギ"],"jlpt":1,"meanings":["ceremony","rule","affair","case","a matter"],"freq":739,"comp":[["義","亻"]],"s":"義,犠","t":1977}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歯がゆい","p":true},{"e":"歯痒い","p":true}],"r_ele":[{"r":"はがゆい","p":true}],"sense":[{"gloss":"(feeling) impatient, irritated, irritating, frustrated, frustrating, vexed, vexing","pos":["adj-i"]}]},"sdata":[]}

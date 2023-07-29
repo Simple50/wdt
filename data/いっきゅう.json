@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一級","p":true}],"r_ele":[{"r":"いっきゅう","p":true}],"sense":[{"gloss":"one grade, first-class, primary","pos":["adj-na","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白鷺","p":true}],"r_ele":[{"r":"しらさぎ","p":true},{"r":"はくろ"}],"sense":[{"gloss":"heron with all-white plumage (incl. egrets), white heron","pos":["n"]}]},"sdata":[]}

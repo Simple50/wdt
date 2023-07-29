@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"港湾","p":true}],"r_ele":[{"r":"こうわん","p":true}],"sense":[{"gloss":"harbour, harbor","pos":["n"]}]},"sdata":[{"j":"↑近代↑↓きんだい↓↑的↑↓てき↓な↑港湾↑↓|こうわん|↓↑施設↑↓しせつ↓がないために、↑多↑↓おお↓くの↑船積↑↓ふなづ↓み↑業者↑↓ぎょうしゃ↓が↑不便↑↓ふべん↓を↑被↑↓こうむ↓った。","e":"The lack of modern post facilities caused trouble for many shippers."}]}

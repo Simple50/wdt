@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バーコード","p":true},{"r":"バー・コード"}],"sense":[{"gloss":"bar code","pos":["n"]},{"gloss":"comb over (on a balding man), combover","pos":["n"],"m":["sl","abbr"],"x":["バーコードヘア"]}]},"sdata":[]}

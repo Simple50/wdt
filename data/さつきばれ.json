@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"五月晴れ","p":true},{"e":"五月晴"},{"e":"皐月晴れ"},{"e":"さつき晴れ"}],"r_ele":[{"r":"さつきばれ","p":true}],"sense":[{"gloss":"fine weather during the rainy season","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミリバール","p":true}],"sense":[{"gloss":"millibar","pos":["n"]}]},"sdata":[]}

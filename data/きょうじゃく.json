@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強弱","p":true}],"r_ele":[{"r":"きょうじゃく","p":true}],"sense":[{"gloss":"strength and weakness, (degree of) strength","pos":["n"]},{"gloss":"stress (of a sound), loudness","pos":["n"]}]},"sdata":[]}

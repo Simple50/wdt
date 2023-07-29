@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浸る","p":true},{"e":"漬る"}],"r_ele":[{"r":"ひたる","p":true}],"sense":[{"gloss":"to be soaked in, to be flooded, to be submerged","pos":["v5r","vi"]},{"gloss":"to be immersed in (joy, memories, alcohol, etc.), to give oneself over to, to bask in","pos":["v5r","vi"]}]},"sdata":[]}

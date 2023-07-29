@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敗血症","p":true},{"e":"肺血症","i":["iK"]}],"r_ele":[{"r":"はいけつしょう","p":true}],"sense":[{"gloss":"blood poisoning, septicemia, sepsis","pos":["n"],"f":["med"]}]},"sdata":[]}

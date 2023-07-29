@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秋祭り","p":true},{"e":"秋祭"}],"r_ele":[{"r":"あきまつり","p":true}],"sense":[{"gloss":"autumn festival, fall festival","pos":["n"]}]},"sdata":[]}

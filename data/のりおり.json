@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗り降り","p":true}],"r_ele":[{"r":"のりおり","p":true}],"sense":[{"gloss":"getting on and off (a vehicle), boarding and alighting","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは、ここでバスを↑乗↑↓|の↓り↑降↑↓お↓り|します。","e":"We get on and off the bus here."}]}

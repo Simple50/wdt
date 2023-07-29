@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハウジング","p":true}],"sense":[{"gloss":"housing (i.e. accommodation)","pos":["n"]},{"gloss":"housing (equipment, etc.), cabinet","pos":["n"]},{"gloss":"hosting (e.g. computer services)","pos":["n"]}]},"sdata":[]}

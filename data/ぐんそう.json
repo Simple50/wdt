@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍曹","p":true}],"r_ele":[{"r":"ぐんそう","p":true}],"sense":[{"gloss":"sergeant","pos":["n"],"f":["mil"]}]},"sdata":[{"j":"↑大尉↑↓たいい↓は↑軍曹↑↓|ぐんそう|↓よりも↑階級↑↓かいきゅう↓が↑上↑↓うえ↓だ。","e":"A captain is above a sergeant."}]}

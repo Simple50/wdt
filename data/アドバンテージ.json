@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アドバンテージ","p":true},{"r":"アドヴァンテージ"},{"r":"アドバンテッジ"}],"sense":[{"gloss":"advantage","pos":["n"]},{"gloss":"advantage (in soccer, rugby, etc.), advantage rule","pos":["n"],"f":["sports"]},{"gloss":"advantage (in tennis)","pos":["n"],"f":["sports"]}]},"sdata":[]}

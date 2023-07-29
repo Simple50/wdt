@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小回り","p":true}],"r_ele":[{"r":"こまわり","p":true}],"sense":[{"gloss":"tight turn","pos":["n"]},{"gloss":"adaptability, flexibility, maneuverability","pos":["n","adj-no"]}]},"sdata":[]}

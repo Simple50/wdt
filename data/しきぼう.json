@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"指揮棒","p":true}],"r_ele":[{"r":"しきぼう","p":true}],"sense":[{"gloss":"conductor's stick, conductor's baton","pos":["n"]}]},"sdata":[]}

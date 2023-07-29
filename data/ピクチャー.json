@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピクチャー","p":true},{"r":"ピクチャ"}],"sense":[{"gloss":"picture","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オクラ","p":true}],"sense":[{"gloss":"okra (Abelmoschus esculentus)","pos":["n"]}]},"sdata":[{"j":"あなたは|オクラ|と↑納豆↑↓なっとう↓はどちらがよりねばねばしているかわかりますか。","e":"Do you know which of okra and natto is more gooey?"}]}

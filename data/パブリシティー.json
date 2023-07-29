@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パブリシティー","p":true},{"r":"パブリシティ"}],"sense":[{"gloss":"publicity","pos":["n"]}]},"sdata":[]}

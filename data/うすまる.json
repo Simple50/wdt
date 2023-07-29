@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄まる","p":true}],"r_ele":[{"r":"うすまる","p":true}],"sense":[{"gloss":"to become weak","pos":["v5r","vi"]}]},"sdata":[]}

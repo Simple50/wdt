@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出生","p":true}],"r_ele":[{"r":"しゅっしょう","p":true},{"r":"しゅっせい","p":true}],"sense":[{"gloss":"birth","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑出生↑↓|しゅっせい|↓↑率↑↓りつ↓と↑死亡↑↓しぼう↓↑率↑↓りつ↓は、ほぼ↑等↑↓ひと↓しかった。","e":"The birth rate and death rate were nearly equal."}]}

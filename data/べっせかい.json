@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別世界","p":true}],"r_ele":[{"r":"べっせかい","p":true}],"sense":[{"gloss":"another world","pos":["n"]}]},"sdata":[]}

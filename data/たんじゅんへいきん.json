@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"単純平均","p":true}],"r_ele":[{"r":"たんじゅんへいきん","p":true}],"sense":[{"gloss":"simple average, arithmetic average","pos":["n"]}]},"sdata":[]}

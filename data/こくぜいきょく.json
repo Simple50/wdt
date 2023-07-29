@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国税局","p":true}],"r_ele":[{"r":"こくぜいきょく","p":true}],"sense":[{"gloss":"revenue office, taxation bureau","pos":["n"]}]},"sdata":[]}

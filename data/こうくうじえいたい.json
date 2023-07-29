@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"航空自衛隊","p":true}],"r_ele":[{"r":"こうくうじえいたい","p":true}],"sense":[{"gloss":"Japan Air Self-Defense Force, JASDF","pos":["n"],"f":["mil"]}]},"sdata":[]}

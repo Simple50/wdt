@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シフォン","p":true}],"sense":[{"gloss":"chiffon","pos":["n","adj-no"],"l":"fre"}]},"sdata":[]}

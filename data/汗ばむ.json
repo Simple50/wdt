@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"汗ばむ","p":true}],"r_ele":[{"r":"あせばむ","p":true}],"sense":[{"gloss":"to be sweaty","pos":["v5m","vi"]}]},"kdata":{"汗":{"on":["カン"],"kun":["あせ"],"jlpt":2,"meanings":["sweat","perspire"],"freq":1502,"comp":[["干","氵"]],"t":371}},"sdata":[{"j":"↑今日↑↓きょう↓は|↑汗↑↓あせ↓ばむ|ような↑陽気↑↓ようき↓だ。","e":"It's warm enough today to bring out a slight sweat."}]}

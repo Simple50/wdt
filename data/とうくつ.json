@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盗掘","p":true}],"r_ele":[{"r":"とうくつ","p":true}],"sense":[{"gloss":"illegal digging, illegal mining, grave robbing, tomb robbing","pos":["n","vs","vt"]}]},"sdata":[]}

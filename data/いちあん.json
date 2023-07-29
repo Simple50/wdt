@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一案","p":true}],"r_ele":[{"r":"いちあん","p":true}],"sense":[{"gloss":"idea, plan","pos":["n"]}]},"sdata":[{"j":"それは↑確↑↓たし↓かに↑一案↑↓|いちあん|↓です。","e":"That's certainly one possibility."}]}

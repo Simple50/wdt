@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"屈伸","p":true}],"r_ele":[{"r":"くっしん","p":true}],"sense":[{"gloss":"bending and stretching, flexing and extending","pos":["n","vs","vt","vi"]}]},"sdata":[]}

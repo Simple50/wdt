@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"橋脚","p":true}],"r_ele":[{"r":"きょうきゃく","p":true}],"sense":[{"gloss":"bridge pier, pontoon bridge","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一挙に","p":true}],"r_ele":[{"r":"いっきょに","p":true}],"sense":[{"gloss":"at a stroke, with a single swoop","pos":["adv"]}]},"sdata":[]}

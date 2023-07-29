@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一家言","p":true}],"r_ele":[{"r":"いっかげん","p":true},{"r":"いっかごと"}],"sense":[{"gloss":"private opinion, personal view, personal opinion","pos":["n"]}]},"sdata":[{"j":"ウィスキーについては↑一家言↑↓|いっかげん|↓ある。","e":"I have my own opinion on whisky."}]}

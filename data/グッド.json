@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グッド","p":true}],"sense":[{"gloss":"good","pos":["adj-na","n"]}]},"sdata":[{"j":"|グッド|タイミング。","e":"Good timing."},{"j":"「|グッド|アイデア」と↑思↑↓おも↓ったのはたった↑３↑↓さん↓↑人↑↓にん↓だった。","e":"Only three people thought it was a good idea."}]}

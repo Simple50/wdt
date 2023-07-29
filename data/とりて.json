@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"捕り手","p":true},{"e":"捕手"}],"r_ele":[{"r":"とりて","p":true}],"sense":[{"gloss":"policeman, official in charge of imprisoning offenders","pos":["n"],"m":["arch"]},{"gloss":"art of defeating (and capturing) an opponent with one's bare hands","pos":["n"],"f":["MA"]}]},"sdata":[]}

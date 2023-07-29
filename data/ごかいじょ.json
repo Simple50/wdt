@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"碁会所","p":true}],"r_ele":[{"r":"ごかいじょ","p":true},{"r":"ごかいしょ"}],"sense":[{"gloss":"commercial go-playing parlour (parlor)","pos":["n"]}]},"sdata":[{"j":"↑貿易↑↓ぼうえき↓↑障壁↑↓しょうへき↓は↑戦争↑↓せんそう↓↑終結↑↓しゅうけつ↓↑後↑↓|ご↓↑解除↑↓かいじょ|↓されました。","e":"Trade barriers were lifted after the war ended."}]}

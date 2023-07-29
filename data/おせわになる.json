@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お世話になる","p":true},{"e":"御世話になる"}],"r_ele":[{"r":"おせわになる","p":true}],"sense":[{"gloss":"to receive favor, to receive assistance, to receive help, to be looked after, to be taken care of, to become dependent (on), to become much obliged (to someone), to become indebted","pos":["exp","v5r"],"x":["世話になる"]}],"m":["pol"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘッドコーチ","p":true},{"r":"ヘッド・コーチ"}],"sense":[{"gloss":"head coach","pos":["n"]}]},"sdata":[{"j":"トムは↑臨時↑↓りんじ↓|ヘッドコーチ|に↑指名↑↓しめい↓された。","e":"Tom has been named interim head coach."}]}

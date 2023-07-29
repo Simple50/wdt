@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聖域","p":true}],"r_ele":[{"r":"せいいき","p":true}],"sense":[{"gloss":"sacred precincts, sanctuary, consecrated ground, holy ground","pos":["n","adj-no"]},{"gloss":"issue that is regarded as being off-limits, matter that is not up for discussion","pos":["n"]}]},"sdata":[]}

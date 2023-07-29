@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"混紡","p":true}],"r_ele":[{"r":"こんぼう","p":true}],"sense":[{"gloss":"mixed yarn, mixed spinning","pos":["n","vs","vt"]}]},"sdata":[]}

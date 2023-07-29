@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乾パン","p":true}],"r_ele":[{"r":"かんパン","p":true}],"sense":[{"gloss":"cracker, hard biscuit, hardtack","pos":["n"]}]},"kdata":{"乾":{"on":["カン","ケン"],"kun":["かわ.く","かわ.かす","ほ.す","ひ.る","いぬい"],"jlpt":2,"meanings":["drought","dry","dessicate","drink up","heaven","emperor"],"freq":1453,"comp":[["𠦝","乞"]],"t":1230}},"sdata":[]}

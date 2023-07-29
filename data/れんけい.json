@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連携","p":true}],"r_ele":[{"r":"れんけい","p":true}],"sense":[{"gloss":"cooperation, coordination, link","pos":["n","vs","vi"]}]},"sdata":[{"j":"アレックスを↑教↑↓おし↓えるために、ペパーバーグは↑特別↑↓とくべつ↓な↑訓練↑↓くん|れん↓↑形式↑↓けい|しき↓を↑用↑↓もち↓いた。","e":"To teach Alex, Pepperberg used a special form of training."},{"j":"サッカーは↑連携↑↓|れんけい|↓が↑大切↑↓たいせつ↓だ。","e":"Teamwork is important in soccer."}]}

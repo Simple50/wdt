@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き落とし","p":true},{"e":"引き落し"},{"e":"引落とし","i":["io"]},{"e":"引落","i":["io"]}],"r_ele":[{"r":"ひきおとし","p":true}],"sense":[{"gloss":"debit, withdrawal","pos":["n"]},{"gloss":"pulling (one's opponent) down, frontal pull-down, hiki-otoshi","pos":["n"],"f":["sumo"]}]},"sdata":[]}

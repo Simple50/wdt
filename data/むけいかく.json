@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無計画","p":true}],"r_ele":[{"r":"むけいかく","p":true}],"sense":[{"gloss":"lacking a plan, haphazard","pos":["adj-na","n"]}]},"sdata":[]}

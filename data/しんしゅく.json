@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伸縮","p":true}],"r_ele":[{"r":"しんしゅく","p":true}],"sense":[{"gloss":"expansion and contraction, elasticity, flexibility","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"この↑水着↑↓みずぎ↓は↑伸縮↑↓|しんしゅく|↓↑性↑↓せい↓のある↑素材↑↓そざい↓でできている。","e":"This swimming suit is made of elastic material."}]}

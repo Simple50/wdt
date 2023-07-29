@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"凍らす","p":true}],"r_ele":[{"r":"こおらす","p":true}],"sense":[{"gloss":"to freeze, to refrigerate","pos":["v5s","vt"]}]},"kdata":{"凍":{"on":["トウ"],"kun":["こお.る","こご.える","こご.る","い.てる","し.みる"],"jlpt":2,"meanings":["frozen","congeal","refrigerate"],"freq":1284,"comp":[["冫","東"]],"s":"涼","t":1022}},"sdata":[]}

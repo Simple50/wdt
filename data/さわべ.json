@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"沢辺","p":true}],"r_ele":[{"r":"さわべ","p":true}],"sense":[{"gloss":"edge of a swamp","pos":["n"]}]},"sdata":[]}

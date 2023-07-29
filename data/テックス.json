@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テックス","p":true}],"sense":[{"gloss":"soft fiberboard, soft fibreboard","pos":["n"]},{"gloss":"cloth, fabric, material","pos":["n"]},{"gloss":"tex, unit of linear mass density of fibres","pos":["n"]}]},"sdata":[]}

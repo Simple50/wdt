@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンディアン","p":true}],"sense":[{"gloss":"-endian (i.e. big-endian or little-endian)","pos":["suf"],"f":["comp"]}]},"sdata":[]}

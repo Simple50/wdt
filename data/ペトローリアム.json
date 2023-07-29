@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペトローリアム","p":true}],"sense":[{"gloss":"petroleum","pos":["n"]}]},"sdata":[]}

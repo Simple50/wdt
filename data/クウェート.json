@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"科威都","i":["ateji","rK"]}],"r_ele":[{"r":"クウェート","p":true},{"r":"クウェイト"}],"sense":[{"gloss":"Kuwait","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"このタンカーは|クウェート|↑行↑↓い↓きです。","e":"This tanker is bound for Kuwait."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デオキシルボ","p":true},{"r":"デオキシリボ"}],"sense":[{"gloss":"deoxyribo (nucleic acid)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し切り","p":true},{"e":"押切り"},{"e":"押切"}],"r_ele":[{"r":"おしきり","p":true}],"sense":[{"gloss":"straw cutter, short mane","pos":["n"]},{"gloss":"pressing and cutting","pos":["n"]}]},"sdata":[]}

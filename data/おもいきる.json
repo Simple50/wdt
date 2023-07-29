@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い切る","p":true},{"e":"思いきる"}],"r_ele":[{"r":"おもいきる","p":true}],"sense":[{"gloss":"to give up all thoughts of, to abandon, to despair of","pos":["v5r","vt"]},{"gloss":"to make up one's mind, to take a momentous decision","pos":["v5r","vi"]}]},"sdata":[]}

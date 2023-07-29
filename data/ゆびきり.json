@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"指切り","p":true},{"e":"指きり"}],"r_ele":[{"r":"ゆびきり","p":true}],"sense":[{"gloss":"pinky swear (i.e. linking little fingers to confirm a promise), pinky promise","pos":["n","vs","vi"]}]},"sdata":[{"j":"|ゆびきり|げんまん。","e":"Let's make a pact."},{"j":"「↑指↑↓|ゆび↓きり|げんまんは？」「はい。↑指↑↓|ゆび↓きり|げんまん。↑指↑↓ゆび↓↑切↑↓き↓った」","e":"Promise? \"Yes, I promise.\""}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雨模様","p":true}],"r_ele":[{"r":"あまもよう","p":true},{"r":"あめもよう"}],"sense":[{"gloss":"signs of rain, threat of rain","pos":["n"]}]},"sdata":[]}

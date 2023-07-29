@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"検察官","p":true}],"r_ele":[{"r":"けんさつかん","p":true}],"sense":[{"gloss":"public prosecutor","pos":["n"]}]},"sdata":[]}

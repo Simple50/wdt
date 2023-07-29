@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"回帰線","p":true}],"r_ele":[{"r":"かいきせん","p":true}],"sense":[{"gloss":"tropics (of Cancer and Capricorn)","pos":["n"]},{"gloss":"regression line","pos":["n"],"f":["math"]}]},"sdata":[]}

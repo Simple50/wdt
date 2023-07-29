@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"激甚","p":true},{"e":"劇甚"}],"r_ele":[{"r":"げきじん","p":true}],"sense":[{"gloss":"intenseness, violence, severity, vehemence, keenness","pos":["adj-na","n"]}]},"sdata":[]}

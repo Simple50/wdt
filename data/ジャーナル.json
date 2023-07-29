@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャーナル","p":true}],"sense":[{"gloss":"journal, log","pos":["n"],"f":["comp"]}]},"sdata":[]}

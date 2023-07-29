@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"淡水魚","p":true}],"r_ele":[{"r":"たんすいぎょ","p":true}],"sense":[{"gloss":"freshwater fish","pos":["n"]}]},"sdata":[{"j":"その↑川↑↓かわ↓には↑淡水魚↑↓|たんすいぎょ|↓がうようよしていた。","e":"The river was alive with fresh water fish."},{"j":"これは↑確↑↓たし↓か↑淡水魚↑↓|たんすいぎょ|↓だと↑思↑↓おも↓います。","e":"I believe this fish is a freshwater fish."}]}

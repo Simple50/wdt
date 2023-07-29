@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"市場占有率","p":true}],"r_ele":[{"r":"しじょうせんゆうりつ","p":true}],"sense":[{"gloss":"market share","pos":["n"],"x":["マーケットシェア"]}]},"sdata":[]}

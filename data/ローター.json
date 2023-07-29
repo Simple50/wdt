@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ローター","p":true}],"sense":[{"gloss":"rotor","pos":["n"]},{"gloss":"love egg, egg vibrator (sex toy)","pos":["n"]}]},"sdata":[]}

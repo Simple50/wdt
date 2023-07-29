@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"張り合う","p":true},{"e":"張合う"}],"r_ele":[{"r":"はりあう","p":true}],"sense":[{"gloss":"to compete (with each other), to contend for, to vie for, to rival","pos":["v5u","vi"]}]},"sdata":[{"j":"ビバリーヒルズのような↑高級↑↓こうきゅう↓↑住宅↑↓じゅうたく↓↑地↑↓ち↓で↑見栄↑↓みえ↓を↑張↑↓|は↓り↑合↑↓あ↓う|のは↑高↑↓たか↓くつく。","e":"Keeping up with the Joneses is expensive in rich town like Beverly Hills."}]}

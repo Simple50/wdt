@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"試金石","p":true}],"r_ele":[{"r":"しきんせき","p":true}],"sense":[{"gloss":"touchstone, Lydian stone","pos":["n"]},{"gloss":"touchstone (e.g. of success), test, litmus test","pos":["n"]}]},"sdata":[{"j":"↑夢↑↓ゆめ↓は↑我々↑↓われわれ↓の↑性格↑↓せいかく↓の↑試金石↑↓|しきんせき|↓である。","e":"Dreams are the touchstones of our characters."}]}

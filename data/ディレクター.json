@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ディレクター","p":true},{"r":"ディレクタ"}],"sense":[{"gloss":"director","pos":["n"]}]},"sdata":[]}

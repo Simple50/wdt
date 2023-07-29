@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セレクション","p":true}],"sense":[{"gloss":"selection","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煩わしい","p":true}],"r_ele":[{"r":"わずらわしい","p":true}],"sense":[{"gloss":"troublesome, annoying, complicated","pos":["adj-i"]}]},"kdata":{"煩":{"on":["ハン","ボン"],"kun":["わずら.う","わずら.わす","うるさ.がる","うるさ.い"],"jlpt":1,"meanings":["anxiety","trouble","worry","pain","ill","annoy","nuisance","irksome"],"freq":2081,"comp":[["火","頁"]],"d":["薠"],"t":1747}},"sdata":[]}

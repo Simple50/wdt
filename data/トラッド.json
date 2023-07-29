@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トラッド","p":true}],"sense":[{"gloss":"traditional (esp. fashion), trad","pos":["adj-na"]},{"gloss":"traditional jazz, trad jazz, Dixieland jazz","pos":["n"],"f":["music"],"x":["デキシーランドジャズ"]}],"m":["abbr"]},"sdata":[]}

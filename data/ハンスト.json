@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハンスト","p":true}],"sense":[{"gloss":"hunger strike","pos":["n","vs"],"x":["ハンガーストライキ"]}],"m":["abbr"]},"sdata":[{"j":"↑政治↑↓せいじ↓↑犯↑↓はん↓たちは↑待遇↑↓たいぐう↓↑改善↑↓かいぜん↓を↑求↑↓もと↓めて|ハンスト|をしています。","e":"Political prisoners are on a hunger strike for better conditions."},{"j":"|ハンスト|↑中↑↓ちゅう↓です。","e":"I'm on a hunger strike."}]}

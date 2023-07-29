@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打力","p":true}],"r_ele":[{"r":"だりょく","p":true}],"sense":[{"gloss":"batting power","pos":["n"]}]},"sdata":[]}

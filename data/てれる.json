@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"照れる","p":true}],"r_ele":[{"r":"てれる","p":true}],"sense":[{"gloss":"to be shy, to be bashful, to feel awkward, to feel embarrassed","pos":["v1","vi"]}]},"sdata":[{"j":"うまくいけば↑僕↑↓ぼく↓らはここに↑建↑↓た↓|てれる|。","e":"Hopefully, we can build on this."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハスキー","p":true}],"sense":[{"gloss":"husky, huskie","pos":["adj-na"]}]},"sdata":[]}

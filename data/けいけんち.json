@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"経験値","p":true}],"r_ele":[{"r":"けいけんち","p":true}],"sense":[{"gloss":"amount of experience, experience level","pos":["n"]},{"gloss":"experience point, exp, XP","pos":["n"],"f":["vidg"]}]},"sdata":[]}

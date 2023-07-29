@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"交感神経","p":true}],"r_ele":[{"r":"こうかんしんけい","p":true}],"sense":[{"gloss":"sympathetic nerves","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"町役場","p":true}],"r_ele":[{"r":"まちやくば","p":true}],"sense":[{"gloss":"town hall","pos":["n"]}]},"sdata":[{"j":"これが↑町役↑↓|まちやく↓↑場↑↓ば|↓です。","e":"This is the Town Hall."}]}

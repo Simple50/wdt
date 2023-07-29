@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主務","p":true}],"r_ele":[{"r":"しゅむ","p":true}],"sense":[{"gloss":"person in charge","pos":["n"]},{"gloss":"competent (authority, minister, etc.)","pos":["adj-f"]}]},"sdata":[{"j":"オリンピック↑選手↑↓せんしゅ↓は、↑大会↑↓たいかい↓↑期間↑↓きかん↓↑中↑↓ちゅう↓は↑選手↑↓せん|しゅ↓↑村↑↓む|ら↓で↑生活↑↓せいかつ↓します。","e":"Olympic athletes live in the Olympic village for the duration of the games."}]}

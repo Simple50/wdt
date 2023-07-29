@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"響めく","p":true},{"e":"響く"},{"e":"響動めく"}],"r_ele":[{"r":"どよめく","p":true}],"sense":[{"gloss":"to resound","pos":["v5k","vi"]},{"gloss":"to make a stir","pos":["v5k","vi"]}],"m":["uk"]},"sdata":[]}

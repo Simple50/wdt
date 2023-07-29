@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コミックス","p":true}],"sense":[{"gloss":"comics","pos":["n"]}]},"sdata":[{"j":"ワンピースの|コミックス|は↑人気↑↓にんき↓だ。","e":"One Piece is popular."}]}

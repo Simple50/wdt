@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"閉経","p":true}],"r_ele":[{"r":"へいけい","p":true}],"sense":[{"gloss":"menopause","pos":["n"]}]},"sdata":[{"j":"ほとんど↑全↑↓すべ↓ての↑社会↑↓しゃかい↓が↑今日↑↓きょう↓では、↑何↑↓なん↓らかの↑硬貨↑↓こうか↓と↑紙幣↑↓しへい↓に↑基↑↓もと↓づいた↑貨幣↑↓か|へい↓↑経済↑↓けい|ざい↓を↑持↑↓も↓っている。","e":"Almost all societies now have a money economy based on coins and paper bills of one kind or another."}]}

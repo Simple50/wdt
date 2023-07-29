@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"住まう","p":true},{"e":"棲まう","i":["rK"]},{"e":"住う","i":["io","rK"]}],"r_ele":[{"r":"すまう","p":true}],"sense":[{"gloss":"to live, to reside, to inhabit","pos":["v5u","vi"]}]},"kdata":{"住":{"on":["ジュウ","ヂュウ","チュウ"],"kun":["す.む","す.まう","-ず.まい"],"jlpt":4,"meanings":["dwell","reside","live","inhabit"],"freq":270,"comp":[["亻","主"]],"s":"往","t":435}},"sdata":[]}

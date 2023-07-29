@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"しくじる","p":true}],"sense":[{"gloss":"to fail, to blunder, to mess up, to screw up","pos":["v5r","vi"]},{"gloss":"to be dismissed, to be fired","pos":["v5r","vi"]}]},"sdata":[{"j":"なす↑価値↑↓かち↓のあることは|しくじる|↑価値↑↓かち↓がある。","e":"If a thing is worth doing it is worth doing badly."}]}

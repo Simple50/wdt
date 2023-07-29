@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"音域","p":true}],"r_ele":[{"r":"おんいき","p":true}],"sense":[{"gloss":"range (of a voice or instrument), register, compass","pos":["n"]}]},"sdata":[]}

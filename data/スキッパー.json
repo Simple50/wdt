@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スキッパー","p":true}],"sense":[{"gloss":"skipper","pos":["n"]}]},"sdata":[{"j":"その↑犬↑↓いぬ↓を|スキッパー|と↑呼↑↓よ↓ぼう。","e":"Let's call the dog Skipper."}]}

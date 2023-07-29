@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"認め印","p":true},{"e":"認印","i":["io"]}],"r_ele":[{"r":"みとめいん","p":true}],"sense":[{"gloss":"private seal, personal seal, unregistered seal, informal seal, signet","pos":["n"]}]},"sdata":[]}

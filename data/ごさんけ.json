@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"御三家","p":true},{"e":"ご三家"}],"r_ele":[{"r":"ごさんけ","p":true}],"sense":[{"gloss":"three branches of the Tokugawa family (Owari, Kii and Mito)","pos":["n"],"x":["三家・2"]},{"gloss":"big three, top three","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一室","p":true}],"r_ele":[{"r":"いっしつ","p":true}],"sense":[{"gloss":"one room","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑八重洲↑↓やえす↓ホテルに↑一室↑↓|いっしつ|↓をとった。","e":"He took a room at the Yaesu Hotel."}]}

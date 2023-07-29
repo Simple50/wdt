@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マッシュルーム","p":true},{"r":"マシュルーム","i":["ik"]}],"sense":[{"gloss":"common mushroom (Agaricus bisporus), white mushroom","pos":["n"]}]},"sdata":[{"j":"|マッシュルーム|が↑大好↑↓だいす↓きです。","e":"I love mushrooms."},{"j":"|マッシュルーム|が↑好↑↓す↓きです。","e":"I like mushrooms."}]}

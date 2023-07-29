@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受け答え","p":true}],"r_ele":[{"r":"うけこたえ","p":true}],"sense":[{"gloss":"reply, response, answer","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑受↑↓|う↓け↑答↑↓こた↓え|は、↑頷↑↓うなず↓くだけで↑十分↑↓じゅうぶん↓な↑場合↑↓ばあい↓もあります。","e":"Sometimes it's enough simply to nod in response."}]}

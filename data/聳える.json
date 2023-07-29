@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聳える","p":true}],"r_ele":[{"r":"そびえる","p":true}],"sense":[{"gloss":"to rise (of a building, mountain, etc.), to tower, to soar","pos":["v1","vi"]}],"m":["uk"]},"kdata":{"聳":{"on":["ショウ"],"kun":["そび.える"],"meanings":["rise","tower"],"comp":[["從","耳"]],"jlpt":-1,"freq":3704}},"sdata":[]}

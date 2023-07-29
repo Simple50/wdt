@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"玉突き","p":true},{"e":"球撞き"},{"e":"玉つき"},{"e":"玉突","i":["io"]}],"r_ele":[{"r":"たまつき","p":true}],"sense":[{"gloss":"billiards, pool","pos":["n"]},{"gloss":"serial collisions (of cars)","pos":["n"]}]},"sdata":[]}

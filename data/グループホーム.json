@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グループホーム","p":true},{"r":"グループ・ホーム"}],"sense":[{"gloss":"group home","pos":["n"]}]},"sdata":[]}

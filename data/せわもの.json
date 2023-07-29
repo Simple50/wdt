@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"世話物","p":true}],"r_ele":[{"r":"せわもの","p":true}],"sense":[{"gloss":"sewamono (Edo-period drama about contemporary life)","pos":["n"]}]},"sdata":[]}

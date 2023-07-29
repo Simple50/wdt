@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"常用漢字","p":true}],"r_ele":[{"r":"じょうようかんじ","p":true}],"sense":[{"gloss":"jōyō kanji, kanji for common use, list of 2,136 kanji designated for common use (introduced in 1981, revised in 2010)","pos":["n"]}]},"sdata":[]}

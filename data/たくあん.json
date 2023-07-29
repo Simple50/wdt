@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"沢庵","p":true}],"r_ele":[{"r":"たくあん","p":true},{"r":"たくわん"}],"sense":[{"gloss":"pickled daikon radish","pos":["n"],"x":["沢庵漬け"]}],"m":["abbr","uk"]},"sdata":[{"j":"↑私↑↓わたし↓には↑全↑↓まっ|た↓く↑案↑↓あん|↓がありません。","e":"I have no plans whatever."},{"j":"この↑沢庵↑↓|たくあん|↓は↑塩気↑↓しおけ↓が↑足↑↓た↓りない。","e":"The pickled radish needs a touch of salt."}]}

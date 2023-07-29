@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"若松","p":true}],"r_ele":[{"r":"わかまつ","p":true}],"sense":[{"gloss":"young pine, New Year's symbolic pine decoration","pos":["n"]}]},"sdata":[]}

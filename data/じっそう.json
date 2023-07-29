@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実相","p":true}],"r_ele":[{"r":"じっそう","p":true}],"sense":[{"gloss":"reality, real state of affairs, true state of affairs","pos":["n"]},{"gloss":"true form of all things as they are, ultimate reality","pos":["n"],"f":["Buddh"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重ね着","p":true}],"r_ele":[{"r":"かさねぎ","p":true}],"sense":[{"gloss":"layering (clothing), wearing one garment over another","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑次↑↓つぎ↓のイベントは↑寒↑↓さむ↓いので、↑重↑↓|かさ↓ね↑着↑↓ぎ|↓をして↑来↑↓き↓て↑下↑↓くだ↓さい。","e":"Since the next event will be cold, please dress warmly."}]}

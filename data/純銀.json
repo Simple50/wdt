@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"純銀","p":true}],"r_ele":[{"r":"じゅんぎん","p":true}],"sense":[{"gloss":"pure silver","pos":["n"]}]},"kdata":{"純":{"on":["ジュン"],"jlpt":2,"meanings":["genuine","purity","innocence","net (profit)"],"freq":1044,"comp":[["糸","屯"]],"d":["蒓"],"t":1144},"銀":{"on":["ギン"],"kun":["しろがね"],"jlpt":4,"meanings":["silver"],"freq":395,"comp":[["艮","金"]],"t":1938}},"sdata":[]}

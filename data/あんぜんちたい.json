@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安全地帯","p":true}],"r_ele":[{"r":"あんぜんちたい","p":true}],"sense":[{"gloss":"safety zone","pos":["n"]},{"gloss":"traffic island","pos":["n"]}]},"sdata":[{"j":"↑最近↑↓さいきん↓は↑安全↑↓|あんぜん↓↑地帯↑↓ちたい|↓が↑必↑↓かなら↓ずしも↑安全↑↓あんぜん↓ではない。","e":"Nowadays, a safety zone is not always safe."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チャイルド","p":true}],"sense":[{"gloss":"child","pos":["n"]}]},"sdata":[]}

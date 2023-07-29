@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"首脳部","p":true},{"e":"主脳部","i":["iK"]}],"r_ele":[{"r":"しゅのうぶ","p":true}],"sense":[{"gloss":"executives, top management, governing body","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アングラ","p":true}],"sense":[{"gloss":"underground, unconventional, radical, shady","pos":["adj-no","n"],"x":["アンダーグラウンド"]}],"m":["abbr"]},"sdata":[]}

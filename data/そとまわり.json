@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外回り","p":true}],"r_ele":[{"r":"そとまわり","p":true}],"sense":[{"gloss":"circumference, perimeter","pos":["n"]},{"gloss":"work outside the office","pos":["n","vs"]},{"gloss":"outer tracks (in a loop or curve)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チェアマン","p":true}],"sense":[{"gloss":"chairman","pos":["n"]}]},"sdata":[]}

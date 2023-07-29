@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガスボンベ","p":true}],"sense":[{"gloss":"gas cylinder","pos":["n"],"l":"ger: Gasbombe"}]},"sdata":[]}

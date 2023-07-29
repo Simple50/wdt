@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農林水産省","p":true}],"r_ele":[{"r":"のうりんすいさんしょう","p":true}],"sense":[{"gloss":"Ministry of Agriculture, Forestry and Fisheries, MAFF","pos":["n"]}]},"sdata":[]}

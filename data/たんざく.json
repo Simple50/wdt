@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"短冊","p":true},{"e":"短尺","i":["rK"]},{"e":"短籍","i":["rK"]}],"r_ele":[{"r":"たんざく","p":true},{"r":"たんじゃく"}],"sense":[{"gloss":"tanzaku, long, narrow strip of paper on which Japanese poems are written (vertically)","pos":["n"]},{"gloss":"thin rectangle","pos":["n"],"m":["abbr"],"x":["短冊形"]}]},"sdata":[]}

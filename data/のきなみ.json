@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軒並み","p":true},{"e":"軒並","p":true}],"r_ele":[{"r":"のきなみ","p":true}],"sense":[{"gloss":"row of houses","pos":["n"]},{"gloss":"every house, each house, every door","pos":["n"]},{"gloss":"all, totally, altogether, across the board","pos":["n","adv"]}]},"sdata":[]}

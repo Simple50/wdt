@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陶酔","p":true}],"r_ele":[{"r":"とうすい","p":true}],"sense":[{"gloss":"intoxication","pos":["n","vs","vi"]},{"gloss":"being carried away by, being enraptured by","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はもっ|と↑薄↑↓うす↓い|↑緑色↑↓りょくしょく↓が↑好↑↓す↓きなのです。","e":"He likes green in a lighter shade."}]}

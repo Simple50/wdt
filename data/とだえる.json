@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"途絶える","p":true},{"e":"跡絶える"}],"r_ele":[{"r":"とだえる","p":true}],"sense":[{"gloss":"to stop, to cease, to come to an end, to cut off","pos":["v1","vi"]}]},"sdata":[]}

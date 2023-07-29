@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"非合法","p":true}],"r_ele":[{"r":"ひごうほう","p":true}],"sense":[{"gloss":"illegal, unlawful","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"↑奴隷↑↓どれい↓↑制度↑↓せいど↓が↑非合法↑↓|ひごうほう|↓となってから１↑世紀↑↓せいき↓↑以上↑↓いじょう↓になる。","e":"It is over a century since slavery was made illegal."}]}

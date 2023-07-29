@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冠動脈","p":true}],"r_ele":[{"r":"かんどうみゃく","p":true}],"sense":[{"gloss":"coronary artery","pos":["n"]}]},"sdata":[]}

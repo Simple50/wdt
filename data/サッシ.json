@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サッシ","p":true},{"r":"サッシュ"}],"sense":[{"gloss":"sash, sliding window frame (esp. metal)","pos":["n"]}]},"sdata":[]}

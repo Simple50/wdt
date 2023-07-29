@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雨天順延","p":true}],"r_ele":[{"r":"うてんじゅんえん","p":true}],"sense":[{"gloss":"rescheduled in case of rain","pos":["n"]}]},"sdata":[]}

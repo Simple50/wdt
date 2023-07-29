@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"係官","p":true},{"e":"係り官"}],"r_ele":[{"r":"かかりかん","p":true}],"sense":[{"gloss":"official in charge","pos":["n"]}]},"sdata":[{"j":"↑係官↑↓|かかりかん|↓は↑私↑↓わたし↓を↑通↑↓とお↓してくれた。","e":"The official in charge let me in."}]}

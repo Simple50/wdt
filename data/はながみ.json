@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鼻紙","p":true},{"e":"花紙"}],"r_ele":[{"r":"はながみ","p":true}],"sense":[{"gloss":"tissue paper, facial tissue, paper handkerchief","pos":["n"],"x":["ティッシュ"]}]},"sdata":[{"j":"↑机↑↓つくえ↓の↑上↑↓じょう↓に↑花↑↓|はな↓が↑見↑↓み|↓える。","e":"I see a flower on the desk."},{"j":"↑花瓶↑↓かびん↓に↑珍↑↓めずら↓しい↑花↑↓|はな↓が↑見↑↓み|↓える。","e":"I see a rare flower in the vase."}]}

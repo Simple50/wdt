@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防衛施設庁","p":true}],"r_ele":[{"r":"ぼうえいしせつちょう","p":true}],"sense":[{"gloss":"(Japanese) Defense Facilities Administration Agency (Defence)","pos":["n"]}]},"sdata":[]}

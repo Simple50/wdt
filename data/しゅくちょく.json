@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宿直","p":true}],"r_ele":[{"r":"しゅくちょく","p":true},{"r":"とのい"}],"sense":[{"gloss":"night watch, night guard, night shift","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑今夜↑↓こんや↓は↑彼↑↓かれ↓が↑宿直↑↓|しゅくちょく|↓です。","e":"He is on night duty tonight."}]}

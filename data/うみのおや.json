@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生みの親","p":true},{"e":"産みの親"}],"r_ele":[{"r":"うみのおや","p":true}],"sense":[{"gloss":"biological parent","pos":["exp","n"]},{"gloss":"founder, creator","pos":["exp","n"]}]},"sdata":[]}

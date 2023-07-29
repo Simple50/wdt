@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"拙速","p":true}],"r_ele":[{"r":"せっそく","p":true}],"sense":[{"gloss":"rough-and-ready, knocked-up, hasty, slipshod, slapdash","pos":["adj-na","n"],"ant":["巧遅"]}]},"sdata":[]}

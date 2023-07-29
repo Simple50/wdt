@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"願わくは","p":true},{"e":"希わくは"}],"r_ele":[{"r":"ねがわくは","p":true}],"sense":[{"gloss":"I pray, I wish","pos":["adv"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィーバー","p":true}],"sense":[{"gloss":"fever (state of excitement)","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑大学生↑↓だいがくせい↓なんだし，もっと|フィーバー|しようぜ！","e":"Since we're college students, let's go all out!"}]}

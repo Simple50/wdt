@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"賃金格差","p":true}],"r_ele":[{"r":"ちんぎんかくさ","p":true}],"sense":[{"gloss":"wage differential","pos":["n"]}]},"sdata":[]}

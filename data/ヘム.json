@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘム","p":true}],"sense":[{"gloss":"hem","pos":["n"]},{"gloss":"heme","pos":["n"]}]},"sdata":[]}

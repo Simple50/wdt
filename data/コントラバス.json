@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コントラバス","p":true}],"sense":[{"gloss":"bass, contrabass, double bass","pos":["n"],"l":"ger: Kontrabass"}]},"sdata":[]}

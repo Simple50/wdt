@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"際立つ","p":true},{"e":"際だつ"}],"r_ele":[{"r":"きわだつ","p":true}],"sense":[{"gloss":"to be prominent, to be conspicuous, to stand out, to be outstanding, to be remarkable, to be striking, to be notable","pos":["v5t","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煮える","p":true}],"r_ele":[{"r":"にえる","p":true}],"sense":[{"gloss":"to be boiled, to be cooked","pos":["v1","vi"]}]},"kdata":{"煮":{"on":["シャ"],"kun":["に.る","-に","に.える","に.やす"],"jlpt":1,"meanings":["boil","cook"],"freq":1565,"comp":[["者","灬"]],"t":1559}},"sdata":[{"j":"タマネギはジャガイモよりはやく|↑煮↑↓に↓える|。","e":"Onions cook more quickly than potatoes."}]}

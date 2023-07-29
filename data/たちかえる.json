@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立ち返る","p":true},{"e":"立ち帰る"},{"e":"立返る"},{"e":"立帰る"},{"e":"立ちかえる","i":["sK"]},{"e":"たち帰る","i":["sK"]}],"r_ele":[{"r":"たちかえる","p":true}],"sense":[{"gloss":"to come back (to), to return to a starting point","pos":["v5r","vi"]}]},"sdata":[{"j":"しかしこの↑問題↑↓もんだい↓にはまたあとで↑立↑↓|た↓ち↑帰↑↓かえ↓る|ことにします。","e":"But this is an issue to which we return later."}]}

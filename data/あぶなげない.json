@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"危なげない","p":true}],"r_ele":[{"r":"あぶなげない","p":true}],"sense":[{"gloss":"safe, certain","pos":["adj-i"]}]},"sdata":[]}

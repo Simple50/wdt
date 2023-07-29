@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防毒","p":true}],"r_ele":[{"r":"ぼうどく","p":true}],"sense":[{"gloss":"gasproofing","pos":["n"]}]},"sdata":[]}

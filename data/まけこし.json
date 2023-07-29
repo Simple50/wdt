@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"負け越し","p":true}],"r_ele":[{"r":"まけこし","p":true}],"sense":[{"gloss":"having more losses than wins","pos":["n"],"f":["sports"],"ant":["勝ち越し・1"]}]},"sdata":[]}

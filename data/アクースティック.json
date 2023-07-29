@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アコースティック","p":true},{"r":"アクースティック","p":true},{"r":"アコウスティック"}],"sense":[{"gloss":"acoustic","pos":["n","adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"多数決","p":true}],"r_ele":[{"r":"たすうけつ","p":true}],"sense":[{"gloss":"majority decision, majority vote, majority rule","pos":["n"]}]},"sdata":[{"j":"↑多数決↑↓|たすうけつ|↓↑原理↑↓げんり↓が↑民主↑↓みんしゅ↓↑主義↑↓しゅぎ↓の↑根本↑↓こんぽん↓↑原則↑↓げんそく↓だ。","e":"Majority rule is a basic principle of democracy."}]}

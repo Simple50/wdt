@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"くじ引き","p":true},{"e":"籤引き","p":true},{"e":"籤引","p":true}],"r_ele":[{"r":"くじびき","p":true}],"sense":[{"gloss":"lottery, drawn lot","pos":["n","vs","vi"]}]},"sdata":[]}

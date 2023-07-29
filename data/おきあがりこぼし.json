@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"起き上がりこぼし","p":true},{"e":"起き上がり小法師","p":true},{"e":"起き上り小法師"},{"e":"起上小法師"}],"r_ele":[{"r":"おきあがりこぼし","p":true}],"sense":[{"gloss":"tumbler, self-righting doll","pos":["n"],"x":["不倒翁"]}]},"sdata":[]}

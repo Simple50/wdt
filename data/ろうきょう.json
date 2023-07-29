@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老境","p":true}],"r_ele":[{"r":"ろうきょう","p":true}],"sense":[{"gloss":"old age","pos":["n","adj-no"]}]},"sdata":[]}

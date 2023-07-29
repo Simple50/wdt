@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風雲","p":true}],"r_ele":[{"r":"ふううん","p":true}],"sense":[{"gloss":"winds and clouds, nature, the elements","pos":["n"]},{"gloss":"situation, state of affairs","pos":["n"]}]},"sdata":[]}

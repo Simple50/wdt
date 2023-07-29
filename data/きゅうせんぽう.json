@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"急先鋒","p":true}],"r_ele":[{"r":"きゅうせんぽう","p":true}],"sense":[{"gloss":"van (of a movement), vanguard, forefront","pos":["n"]}]},"sdata":[]}

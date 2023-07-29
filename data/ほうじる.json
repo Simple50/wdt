@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"報じる","p":true}],"r_ele":[{"r":"ほうじる","p":true}],"sense":[{"gloss":"to inform, to report","pos":["v1","vt"],"x":["知らせる","報告"]},{"gloss":"to repay, to return","pos":["v1","vi"],"x":["報いる・1"]}]},"sdata":[]}

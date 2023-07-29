@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虚弱","p":true}],"r_ele":[{"r":"きょじゃく","p":true}],"sense":[{"gloss":"feebleness, weakness, imbecility","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"エマは↑虚弱↑↓|きょじゃく|↓↑体質↑↓たいしつ↓だ。","e":"Emma has a very poor constitution."},{"j":"↑彼↑↓かれ↓は↑強健↑↓きょうけん↓どころか↑実↑↓じつ↓に↑虚弱↑↓|きょじゃく|↓だった。","e":"So far from being robust, he was extremely weak."}]}

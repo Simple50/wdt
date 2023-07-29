@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書き留める","p":true},{"e":"書きとめる"},{"e":"書留める"},{"e":"書き止める","i":["iK"]}],"r_ele":[{"r":"かきとめる"},{"r":"かきとどめる","p":true}],"sense":[{"gloss":"to write down, to make a note of, to put on record, to chronicle","pos":["v1","vt"]}]},"sdata":[]}

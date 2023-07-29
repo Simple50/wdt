@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ぶっきら棒","p":true}],"r_ele":[{"r":"ぶっきらぼう","p":true}],"sense":[{"gloss":"curt, blunt, brusque","pos":["adj-na","n"]}],"m":["uk"]},"kdata":{"棒":{"on":["ボウ"],"jlpt":2,"meanings":["rod","stick","cane","pole","club","line"],"freq":1455,"comp":[["木","奉"]],"s":"俸","t":1531}},"sdata":[]}

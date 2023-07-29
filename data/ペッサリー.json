@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペッサリー","p":true}],"sense":[{"gloss":"pessary, contraceptive diaphragm for vaginal use","pos":["n"]}]},"sdata":[]}

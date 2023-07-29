@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空陸","p":true}],"r_ele":[{"r":"くうりく","p":true}],"sense":[{"gloss":"land and air, land and air forces","pos":["n"]}]},"sdata":[{"j":"↑皆↑↓みな↓、↑空理空論↑↓|くうりく|うろん↓ばかり↑言↑↓い↓って、↑時間↑↓じかん↓の↑無駄↑↓むだ↓だよ、この↑会議↑↓かいぎ↓は。","e":"This meeting is a waste of time. Everybody is just talking in vague theoretical terms."}]}

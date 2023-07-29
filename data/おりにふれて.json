@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折に触れて","p":true},{"e":"折にふれて","p":true},{"e":"折りに触れて","p":true},{"e":"折りにふれて"}],"r_ele":[{"r":"おりにふれて","p":true}],"sense":[{"gloss":"at every opportunity, whenever possible, whenever the occasion arises, from time to time, occasionally","pos":["exp"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学務","p":true}],"r_ele":[{"r":"がくむ","p":true}],"sense":[{"gloss":"school affairs","pos":["n"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓↑研究↑↓けんきゅう↓↑気質↑↓きしつ↓だから↑語学↑↓ご|がく↓↑向↑↓む|↓いてないと↑思↑↓おも↓う。","e":"I've a researcher's turn of mind, so I don't think language study suits me."}]}

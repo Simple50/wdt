@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"辻堂","p":true}],"r_ele":[{"r":"つじどう","p":true}],"sense":[{"gloss":"wayside shrine","pos":["n"]}]},"sdata":[]}

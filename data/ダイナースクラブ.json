@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダイナースクラブ","p":true},{"r":"ダイナース・クラブ"}],"sense":[{"gloss":"Diner's Club (credit card)","pos":["n"]}]},"sdata":[]}

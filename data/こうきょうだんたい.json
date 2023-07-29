@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公共団体","p":true}],"r_ele":[{"r":"こうきょうだんたい","p":true}],"sense":[{"gloss":"public organization, public organisation","pos":["n","adj-no"]}]},"sdata":[]}

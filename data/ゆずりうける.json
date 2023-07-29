@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"譲り受ける","p":true},{"e":"譲りうける","i":["sK"]},{"e":"譲受ける","i":["sK"]},{"e":"ゆずり受ける","i":["sK"]}],"r_ele":[{"r":"ゆずりうける","p":true}],"sense":[{"gloss":"to take over, to obtain by transfer, to inherit, to receive","pos":["v1","vt"]},{"gloss":"to buy, to purchase","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焦げ付き","p":true}],"r_ele":[{"r":"こげつき","p":true}],"sense":[{"gloss":"a bad debt","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押しかけ女房"},{"e":"押し掛け女房","p":true},{"e":"押掛け女房"}],"r_ele":[{"r":"おしかけにょうぼう","p":true}],"sense":[{"gloss":"woman who forced her husband into marriage","pos":["n"]}]},"sdata":[]}

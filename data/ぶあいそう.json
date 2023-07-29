@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無愛想","p":true},{"e":"不愛想"}],"r_ele":[{"r":"ぶあいそう","p":true}],"sense":[{"gloss":"unsociable, unfriendly, blunt, surly, curt, cold, brusque","pos":["adj-na","n"]}]},"sdata":[{"j":"トムね、↑無愛想↑↓|ぶあいそう|↓だったよ。","e":"Tom was unfriendly."}]}

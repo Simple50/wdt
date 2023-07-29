@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殉教","p":true}],"r_ele":[{"r":"じゅんきょう","p":true}],"sense":[{"gloss":"martyrdom","pos":["n","vs","vi"]}]},"sdata":[{"j":"ヘレブラント↑博士↑↓はかせ↓はそのすぐれた↑大学↑↓だいがく↓の↑准↑↓|じゅん↓↑教授↑↓きょう|じゅ↓である。","e":"Dr. Hellebrandt is an associate professor in that excellent university."}]}

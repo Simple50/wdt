@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"築城","p":true}],"r_ele":[{"r":"ちくじょう","p":true}],"sense":[{"gloss":"castle construction, building a castle, fortification","pos":["n","vs","vt","vi"]}]},"sdata":[]}

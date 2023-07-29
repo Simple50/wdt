@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主観的","p":true}],"r_ele":[{"r":"しゅかんてき","p":true}],"sense":[{"gloss":"subjective","pos":["adj-na"],"ant":["客観的"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑文章↑↓ぶんしょう↓はとても↑主観↑↓|しゅかん↓↑的↑↓てき|↓だ。","e":"His writing is very subjective."}]}

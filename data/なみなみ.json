@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"並々","p":true},{"e":"並並"},{"e":"並み並み"}],"r_ele":[{"r":"なみなみ","p":true}],"sense":[{"gloss":"ordinary","pos":["adv","n"]}]},"sdata":[{"j":"ウエイターは↑私↑↓わたし↓たちのグラスに|なみなみ|と↑注↑↓ちゅう↓いだ。","e":"The waiter filled our glasses to the brim."}]}

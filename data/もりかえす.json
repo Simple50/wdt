@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盛り返す","p":true}],"r_ele":[{"r":"もりかえす","p":true}],"sense":[{"gloss":"to rally, to make a comeback","pos":["v5s","vt"]}]},"sdata":[]}

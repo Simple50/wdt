@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追善","p":true}],"r_ele":[{"r":"ついぜん","p":true}],"sense":[{"gloss":"mass for the dead, Buddhist service held on the anniversary of someone's death","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑予約↑↓よやく↓↑購読↑↓こうどく↓↑料↑↓りょう↓は↑今年↑↓ことし↓↑末↑↓ま|つ↓↑以前↑↓いぜん|↓に↑全↑↓すべ↓て↑払↑↓はら↓ってください。","e":"All subscriptions must be paid before the end of this year."}]}

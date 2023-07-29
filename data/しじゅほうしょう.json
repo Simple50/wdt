@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紫綬褒章","p":true},{"e":"紫綬褒賞","i":["iK"]}],"r_ele":[{"r":"しじゅほうしょう","p":true}],"sense":[{"gloss":"Medal of Honor with Purple Ribbon (awarded for scholarly or artistic achievement)","pos":["n"]}]},"sdata":[]}

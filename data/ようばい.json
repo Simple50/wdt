@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"溶媒","p":true}],"r_ele":[{"r":"ようばい","p":true}],"sense":[{"gloss":"solvent","pos":["n","adj-no"]}]},"sdata":[]}

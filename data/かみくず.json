@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紙くず"},{"e":"紙屑","p":true}],"r_ele":[{"r":"かみくず","p":true}],"sense":[{"gloss":"wastepaper, scrap of paper, paper scraps","pos":["n"]}]},"sdata":[{"j":"その↑部屋↑↓へや↓は↑紙↑↓|かみ↓くず|だらけだった。","e":"The room was littered with scraps of paper."}]}

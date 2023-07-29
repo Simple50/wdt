@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気心","p":true}],"r_ele":[{"r":"きごころ","p":true}],"sense":[{"gloss":"temper, disposition","pos":["n"]}]},"sdata":[{"j":"その↑大臣↑↓だいじん↓は↑気心↑↓|きごころ|↓の↑知↑↓し↓れた↑仲間↑↓なかま↓を↑重要↑↓じゅうよう↓な↑地位↑↓ちい↓につけました。","e":"The minister appointed one of his cronies to a key position."},{"j":"↑彼↑↓かれ↓は↑出来心↑↓で|きごころ|↓で↑盗↑↓ぬす↓みをした。","e":"He fell prey to an impulse to steal."}]}

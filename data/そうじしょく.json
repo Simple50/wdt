@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総辞職","p":true}],"r_ele":[{"r":"そうじしょく","p":true}],"sense":[{"gloss":"mass resignation","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑内閣↑↓ないかく↓の↑総↑↓|そう↓↑辞職↑↓じしょく|↓があると↑思↑↓おも↓う。","e":"My guess is that there will be a resignation of the cabinet."}]}

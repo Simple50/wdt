@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"統合幕僚会議","p":true}],"r_ele":[{"r":"とうごうばくりょうかいぎ","p":true}],"sense":[{"gloss":"Joint Staff Council","pos":["n"]}]},"sdata":[]}

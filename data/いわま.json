@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"岩間","p":true}],"r_ele":[{"r":"いわま","p":true}],"sense":[{"gloss":"among rocks","pos":["n"]}]},"sdata":[{"j":"いくらやってみてもあの↑岩↑↓|いわ↓ま|で↑泳↑↓およ↓ぐことはできない。","e":"Try as we may, we cannot swim to the rock."},{"j":"いくらやってみてもあの↑岩↑↓|いわ↓ま|で↑泳↑↓およ↓ぐことはできない。","e":"No matter how hard I try, I can't swim to that rock."}]}

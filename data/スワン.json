@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スワン","p":true}],"sense":[{"gloss":"swan","pos":["n"]}]},"sdata":[{"j":"|スワン|↑先生↑↓せんせい↓は↑私↑↓わたし↓たちの↑英語↑↓えいご↓の↑先生↑↓せんせい↓だ。","e":"Ms. Swan is our English teacher."}]}

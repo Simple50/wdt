@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蔓延る","p":true},{"e":"蔓る","i":["rK"]}],"r_ele":[{"r":"はびこる","p":true}],"sense":[{"gloss":"to become overgrown, to grow thick","pos":["v5r","vi"]},{"gloss":"to spread, to run rampant, to thrive, to prevail, to become powerful","pos":["v5r","vi"]}],"m":["uk"]},"sdata":[]}

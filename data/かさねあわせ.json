@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重ね合わせ","p":true}],"r_ele":[{"r":"かさねあわせ","p":true}],"sense":[{"gloss":"superposition","pos":["n"]}]},"sdata":[{"j":"↑穂↑↓ほ↓↑木↑↓き↓を↑台木↑↓だいぎ↓に↑差↑↓さ↓し↑込↑↓こ↓む↑際↑↓さい↓、↑形成↑↓けいせい↓↑層↑↓そう↓を↑重↑↓|かさ↓ね↑合↑↓あ↓わせ|るようにします。","e":"When inserting the budwood into the root stock, make the cambium layers overlap."}]}

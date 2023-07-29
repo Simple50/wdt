@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仮住まい","p":true},{"e":"仮住い"},{"e":"仮住居"}],"r_ele":[{"r":"かりずまい","p":true}],"sense":[{"gloss":"temporary residence","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"建て売り","p":true},{"e":"建売り"},{"e":"建売","i":["io"]}],"r_ele":[{"r":"たてうり","p":true}],"sense":[{"gloss":"constructing and selling a ready-built house","pos":["n","vs"]}]},"sdata":[]}

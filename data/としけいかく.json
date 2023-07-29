@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"都市計画","p":true}],"r_ele":[{"r":"としけいかく","p":true}],"sense":[{"gloss":"city planning, urban planning, town planning","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑都市↑↓|とし↓↑計画↑↓けいかく|↓の↑分野↑↓ぶんや↓の↑専門↑↓せんもん↓↑家↑↓か↓だ。","e":"He is an expert in the area of city planning."}]}

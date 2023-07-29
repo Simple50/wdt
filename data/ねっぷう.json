@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱風","p":true}],"r_ele":[{"r":"ねっぷう","p":true}],"sense":[{"gloss":"hot wind","pos":["n"]}]},"sdata":[{"j":"↑電車↑↓でんしゃ↓が↑近↑↓ちか↓づくと、トンネルから↑一↑↓いち↓↑陣↑↓じん↓の↑熱風↑↓|ねっぷう|↓が↑吹↑↓ふ↓きつけた。","e":"There was a gust of hot wind from the tunnel as the train approached."}]}

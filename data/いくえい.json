@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"育英","p":true}],"r_ele":[{"r":"いくえい","p":true}],"sense":[{"gloss":"education of gifted young people, providing financial support to gifted students","pos":["n"]},{"gloss":"education","pos":["n"],"x":["教育・1"]}]},"sdata":[]}

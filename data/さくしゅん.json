@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"昨春","p":true}],"r_ele":[{"r":"さくしゅん","p":true}],"sense":[{"gloss":"last spring, the spring of last year","pos":["n","adv"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"固定票","p":true}],"r_ele":[{"r":"こていひょう","p":true}],"sense":[{"gloss":"solid (an assured, a safe) vote, solid (assured) support","pos":["n"]}]},"sdata":[]}

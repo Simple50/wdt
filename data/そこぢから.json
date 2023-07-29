@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"底力","p":true}],"r_ele":[{"r":"そこぢから","p":true}],"sense":[{"gloss":"hidden reserves of strength, latent energy, potentiality, real strength","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑声↑↓こえ↓には↑底力↑↓|そこぢから|↓がある。","e":"He has a deep voice."}]}

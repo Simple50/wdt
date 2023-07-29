@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勝ち越す","p":true},{"e":"勝越す"}],"r_ele":[{"r":"かちこす","p":true}],"sense":[{"gloss":"to have more wins than losses, to lead an opponent (e.g. by two games), to be ahead (in wins), to take the lead","pos":["v5s","vi"],"ant":["負け越す"]},{"gloss":"to take the lead (in points, goals, etc. during a match)","pos":["v5s","vi"]}]},"sdata":[]}

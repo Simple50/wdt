@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"年男","p":true}],"r_ele":[{"r":"としおとこ","p":true}],"sense":[{"gloss":"man born in a year with the same Chinese zodiac sign as the current year","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンスクリット","p":true}],"sense":[{"gloss":"Sanskrit","pos":["n"]}]},"sdata":[]}

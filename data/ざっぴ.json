@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雑費","p":true}],"r_ele":[{"r":"ざっぴ","p":true}],"sense":[{"gloss":"miscellaneous expenses","pos":["n"]}]},"sdata":[]}

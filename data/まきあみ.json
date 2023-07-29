@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"まき網"},{"e":"巻き網","p":true},{"e":"巻網"},{"e":"旋網"}],"r_ele":[{"r":"まきあみ","p":true}],"sense":[{"gloss":"purse seine, round haul net","pos":["n"],"f":["fish"]}]},"sdata":[]}

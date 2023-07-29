@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"終局","p":true}],"r_ele":[{"r":"しゅうきょく","p":true}],"sense":[{"gloss":"end, close, conclusion","pos":["n","adj-no"]},{"gloss":"end of a game of go, shogi, etc.","pos":["n"]}]},"sdata":[{"j":"↑人生↑↓じんせい↓の↑終局↑↓|しゅうきょく|↓↑的↑↓てき↓な↑大↑↓おお↓きな↑目的↑↓もくてき↓は↑知識↑↓ちしき↓を↑獲得↑↓かくとく↓することではなくて↑行動↑↓こうどう↓することである。","e":"The great end of life is not knowledge but action."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"兵糧","p":true},{"e":"兵粮","i":["oK"]}],"r_ele":[{"r":"ひょうろう","p":true}],"sense":[{"gloss":"(army) provisions, food","pos":["n"]}]},"sdata":[]}

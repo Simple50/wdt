@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極北","p":true}],"r_ele":[{"r":"きょくほく","p":true}],"sense":[{"gloss":"extreme north, North Pole","pos":["n"]}]},"sdata":[]}

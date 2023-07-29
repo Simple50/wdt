@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遠泳","p":true}],"r_ele":[{"r":"えんえい","p":true}],"sense":[{"gloss":"long-distance swimming","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"輸出超過","p":true}],"r_ele":[{"r":"ゆしゅつちょうか","p":true}],"sense":[{"gloss":"excess of exports","pos":["n"]}]},"sdata":[]}

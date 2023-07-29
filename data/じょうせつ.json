@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"常設","p":true}],"r_ele":[{"r":"じょうせつ","p":true}],"sense":[{"gloss":"standing (committee), permanent (exhibit)","pos":["n","vs","vt","adj-no"]}]},"sdata":[]}

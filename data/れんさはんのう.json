@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連鎖反応","p":true}],"r_ele":[{"r":"れんさはんのう","p":true}],"sense":[{"gloss":"chain reaction","pos":["n"]},{"gloss":"nuclear chain reaction","pos":["n"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最たるもの"},{"e":"最たる物","p":true}],"r_ele":[{"r":"さいたるもの","p":true}],"sense":[{"gloss":"the most extreme","pos":["exp","n"]}]},"sdata":[{"j":"↑適切↑↓てきせつ↓な↑話題↑↓わだい↓の↑最↑↓|さい↓たるもの|は↑天気↑↓てんき↓です。","e":"Top among suitable topics is the weather."}]}

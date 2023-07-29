@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新築マンション","p":true}],"r_ele":[{"r":"しんちくマンション","p":true}],"sense":[{"gloss":"newly built apartment house, newly built condominium","pos":["n"]}]},"sdata":[]}

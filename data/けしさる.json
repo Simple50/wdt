@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"消し去る","p":true}],"r_ele":[{"r":"けしさる","p":true}],"sense":[{"gloss":"to get rid of, to erase, to dispel, to eradicate, to wipe away","pos":["v5r","vt"]}]},"sdata":[{"j":"↑検閲↑↓けんえつ↓とは：↑真実↑↓しんじつ↓を↑消↑↓|け↓し↑去↑↓さ↓る|ことである。","e":"Censorship erases truth."}]}

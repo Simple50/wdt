@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ランダム","p":true}],"sense":[{"gloss":"random","pos":["adj-na","n"]},{"gloss":"random sampling","pos":["n"],"m":["abbr"],"x":["ランダムサンプリング"]}]},"sdata":[]}

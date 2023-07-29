@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"村議会","p":true}],"r_ele":[{"r":"そんぎかい","p":true}],"sense":[{"gloss":"village assembly","pos":["n"]}]},"sdata":[]}

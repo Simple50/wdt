@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トレンド","p":true}],"sense":[{"gloss":"trend","pos":["n"]}]},"sdata":[{"j":"ここでの↑問題↑↓もんだい↓は、↑社会↑↓しゃかい↓の|トレンド|を↑概観↑↓がいかん↓できるような↑枠組↑↓わくぐ↓みを↑創出↑↓そうしゅつ↓することである。","e":"The question here is one of creating the framework with which we can outline the social trend."},{"j":"これが↑今↑↓いま↓の|トレンド|でしょ。","e":"This is the current trend."}]}

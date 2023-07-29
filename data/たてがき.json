@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縦書き","p":true},{"e":"縦書","p":true}],"r_ele":[{"r":"たてがき","p":true}],"sense":[{"gloss":"writing vertically, vertical writing","pos":["n"],"x":["横書き"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バムバム","p":true}],"sense":[{"gloss":"bawm bawm (phenomenon) (name of Japanese pop song)","pos":["n"]}]},"sdata":[]}

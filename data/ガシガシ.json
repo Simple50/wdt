@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガシガシ","p":true},{"r":"がしがし"}],"sense":[{"gloss":"boisterously, roughly, briskly","pos":["adv","adv-to"]}],"m":["on-mim"]},"sdata":[]}

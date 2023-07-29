@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"座り込み","p":true}],"r_ele":[{"r":"すわりこみ","p":true}],"sense":[{"gloss":"sit-in (protest), sit-down (strike)","pos":["n"]}]},"sdata":[{"j":"しばらくして↑小↑↓ちい↓さい↑黒↑↓くろ↓いウサギは↑食↑↓た↓べるのを↑止↑↓と↓めて↑座↑↓|すわ↓り↑込↑↓こ↓み|ました。それはとても↑悲↑↓かな↓しそうにみえた。","e":"After a while, the little black rabbit stopped eating, sat down, and looked very sad."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄則","p":true}],"r_ele":[{"r":"てっそく","p":true}],"sense":[{"gloss":"ironclad rule, inviolable rule, invariable principle, iron law","pos":["n"]}]},"sdata":[{"j":"↑新聞↑↓しんぶん↓↑記事↑↓きじ↓では、↑伝聞↑↓でんぶん↓↑情報↑↓じょうほう↓は↑伝聞↑↓でんぶん↓とわかるように↑書↑↓か↓くことが↑鉄則↑↓|てっそく|↓だ。","e":"It is a firm rule in newspaper articles that second-hand information is clearly noted as such."}]}

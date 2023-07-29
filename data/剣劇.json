@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"剣劇","p":true}],"r_ele":[{"r":"けんげき","p":true}],"sense":[{"gloss":"sword play, samurai drama","pos":["n"]}]},"kdata":{"剣":{"on":["ケン"],"kun":["つるぎ"],"jlpt":1,"meanings":["sabre","sword","blade","clock hand"],"freq":1305,"comp":[["㑒","刂"]],"t":1025},"劇":{"on":["ゲキ"],"jlpt":2,"meanings":["drama","play"],"freq":662,"comp":[["豦","刂"]],"t":1979}},"sdata":[]}

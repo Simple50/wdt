@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"呼び止める","p":true},{"e":"呼びとめる"},{"e":"呼び留める"},{"e":"呼止める"},{"e":"呼留める"}],"r_ele":[{"r":"よびとめる","p":true}],"sense":[{"gloss":"to (call and) stop, to call (someone) to stop, to hail (e.g. a taxi)","pos":["v1","vt"]}]},"sdata":[{"j":"タクシーを↑呼↑↓|よ↓び↑止↑↓と↓める|ために↑手↑↓て↓をあげた。","e":"I hailed a taxi."}]}

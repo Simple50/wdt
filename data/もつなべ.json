@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"もつ鍋","p":true},{"e":"モツ鍋"}],"r_ele":[{"r":"もつなべ","p":true},{"r":"モツなべ"}],"sense":[{"gloss":"hot pot stew made with offal, vegetables and (often) miso","pos":["n"],"f":["food"],"x":["もつ"]}]},"sdata":[]}

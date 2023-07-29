@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"観念的","p":true}],"r_ele":[{"r":"かんねんてき","p":true}],"sense":[{"gloss":"conceptual, ideational, notional","pos":["adj-na"]},{"gloss":"theoretical, academic","pos":["adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑福祉↑↓ふくし↓の↑概念↑↓がいねん↓はかなり↑観念↑↓|かんねん↓↑的↑↓てき|↓だ。","e":"His notion of welfare is pretty abstract."}]}

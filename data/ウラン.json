@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウラン","p":true}],"sense":[{"gloss":"uranium (U)","pos":["n"],"l":"ger: Uran"}]},"sdata":[{"j":"|ウラン|の↑原子↑↓げんし↓↑番号↑↓ばんごう↓は92です。","e":"The atomic number of uranium is 92."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上げ下ろし","p":true}],"r_ele":[{"r":"あげおろし","p":true}],"sense":[{"gloss":"raising and lowering, loading and unloading","pos":["n","vs","vt"]}]},"sdata":[]}

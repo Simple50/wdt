@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"偶像","p":true}],"r_ele":[{"r":"ぐうぞう","p":true}],"sense":[{"gloss":"image, idol, statue","pos":["n"]}]},"sdata":[]}

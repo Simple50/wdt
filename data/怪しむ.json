@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"怪しむ","p":true}],"r_ele":[{"r":"あやしむ","p":true}],"sense":[{"gloss":"to suspect","pos":["v5m","vt"]}]},"kdata":{"怪":{"on":["カイ","ケ"],"kun":["あや.しい","あや.しむ"],"jlpt":1,"meanings":["suspicious","mystery","apparition"],"freq":1634,"comp":[["圣","忄"]],"t":670}},"sdata":[]}

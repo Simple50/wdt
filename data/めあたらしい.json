@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目新しい","p":true}],"r_ele":[{"r":"めあたらしい","p":true}],"sense":[{"gloss":"original, novel, new","pos":["adj-i"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑目新↑↓|めあたら↓しい|↑提案↑↓ていあん↓はみんなに↑受↑↓う↓け↑入↑↓い↓れられた。","e":"His novel proposal was accepted by everybody."},{"j":"↑目新↑↓|めあたら↓しい|ことにチャレンジするのが↑大好↑↓だいす↓きでね。","e":"I love trying new things."}]}

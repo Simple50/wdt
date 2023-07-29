@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ペン先","p":true}],"r_ele":[{"r":"ペンさき","p":true}],"sense":[{"gloss":"pen nibs","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"丸顔","p":true},{"e":"円顔"}],"r_ele":[{"r":"まるがお","p":true}],"sense":[{"gloss":"round face, moon face","pos":["n","adj-no"]}]},"sdata":[]}

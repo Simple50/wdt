@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダンスホール","p":true},{"r":"ダンス・ホール"}],"sense":[{"gloss":"dance hall, ballroom","pos":["n"]}]},"sdata":[]}

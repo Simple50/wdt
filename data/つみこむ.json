@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積み込む","p":true},{"e":"積込む"}],"r_ele":[{"r":"つみこむ","p":true}],"sense":[{"gloss":"to load (with goods, cargo), to put on board, to stow aboard","pos":["v5m","vt"]}]},"sdata":[]}

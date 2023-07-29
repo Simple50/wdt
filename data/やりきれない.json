@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"やり切れない","p":true},{"e":"遣り切れない"}],"r_ele":[{"r":"やりきれない","p":true}],"sense":[{"gloss":"unable to finish (on time, etc.)","pos":["adj-i"]},{"gloss":"unbearable, intolerable, beyond endurance, too much","pos":["adj-i"]}],"m":["uk"]},"sdata":[]}

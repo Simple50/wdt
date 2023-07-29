@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘレニズム","p":true}],"sense":[{"gloss":"Hellenism","pos":["n"]}]},"sdata":[]}

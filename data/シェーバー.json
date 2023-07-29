@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シェーバー","p":true},{"r":"シェイバー"}],"sense":[{"gloss":"shaver","pos":["n"]}]},"sdata":[{"j":"↑電気↑↓でんき↓|シェーバー|から↑火↑↓ひ↓が↑出↑↓で↓ました。","e":"My electric razor is on fire."},{"j":"↑肌↑↓はだ↓に|シェーバー|を↑滑↑↓すべ↓らす↑度↑↓たび↓に↑確↑↓たし↓かに↑滑↑↓なめ↓らか～な↑感↑↓かん↓じがします。","e":"It certainly feels smooth when you run the shaver over your skin."}]}

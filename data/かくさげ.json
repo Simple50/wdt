@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"格下げ","p":true}],"r_ele":[{"r":"かくさげ","p":true}],"sense":[{"gloss":"demotion, downgrading","pos":["n","vs","vt"]}]},"sdata":[{"j":"もう、そんな↑顔↑↓かお↓をするなら、またただの↑友達↑↓ともだち↓に↑格下↑↓|かくさ↓げ|するわよ。","e":"Oh, you! If you go around with a face like that, I'll have to demote you back down to 'friend' again."}]}

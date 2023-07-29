@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンジェル","p":true},{"r":"エンゼル","p":true}],"sense":[{"gloss":"angel","pos":["n"]},{"gloss":"angel investor","pos":["n"]}]},"sdata":[]}

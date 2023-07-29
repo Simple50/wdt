@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鎮魂","p":true}],"r_ele":[{"r":"ちんこん","p":true},{"r":"たましずめ"}],"sense":[{"gloss":"repose of a soul","pos":["n","vs","vt"]},{"gloss":"ceremony for the repose of a departed soul","pos":["n"]}]},"sdata":[]}

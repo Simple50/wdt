@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オクターブ","p":true},{"r":"オクターヴ"}],"sense":[{"gloss":"octave","pos":["n"],"f":["music"],"l":"fre"}]},"sdata":[{"j":"↑俺↑↓おれ↓キーチェンジしたら↑音↑↓おと↓↑取↑↓と↓れないんだよね。↑原↑↓はら↓↑曲↑↓きょく↓のキーで↑行↑↓おこな↓ってたまに|オクターブ|↑下↑↓さ↓げて↑歌↑↓うた↓うっていう↑方↑↓ほう↓がいい。","e":"If I change key, I can't hold the pitch. It's better if we go with the original key, and I sometimes sing an octave lower."}]}

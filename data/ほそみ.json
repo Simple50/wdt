@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細身","p":true}],"r_ele":[{"r":"ほそみ","p":true}],"sense":[{"gloss":"narrow, thin (sized), slender","pos":["n","adj-no"]}]},"sdata":[]}

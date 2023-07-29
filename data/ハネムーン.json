@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハネムーン","p":true}],"sense":[{"gloss":"honeymoon","pos":["n"]}]},"sdata":[{"j":"↑二人↑↓ふたり↓は|ハネムーン|に↑出↑↓で↓かけた。","e":"The couple went off on their honeymoon."},{"j":"|ハネムーン|でオーストラリアに↑行↑↓い↓きたいね。","e":"It would be nice to go to Australia for the honeymoon."}]}

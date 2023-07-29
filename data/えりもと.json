@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"襟元","p":true},{"e":"衿元"},{"e":"襟もと"},{"e":"えり元"}],"r_ele":[{"r":"えりもと","p":true}],"sense":[{"gloss":"(around the) neck, nape","pos":["n"]},{"gloss":"collar (at the front)","pos":["n"]}]},"sdata":[{"j":"その↑人↑↓ひと↓は↑私↑↓わたし↓の|えりもと|をつかもうとした。","e":"The man tried to catch hold of me by the collar."}]}

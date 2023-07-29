@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"決め球","p":true}],"r_ele":[{"r":"きめだま","p":true}],"sense":[{"gloss":"winning pitch","pos":["n"]}]},"sdata":[]}

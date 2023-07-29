@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"あり合わせ","p":true},{"e":"有り合わせ","p":true},{"e":"あり合せ"},{"e":"有り合せ"},{"e":"有りあわせ"}],"r_ele":[{"r":"ありあわせ","p":true}],"sense":[{"gloss":"on hand, readily available","pos":["adj-no","n"]}],"m":["uk"]},"sdata":[{"j":"↑夕飯↑↓ゆうはん↓は、|ありあわせ|のもので↑間↑↓ま↓に↑合↑↓あ↓わせます。","e":"Instead of going out shopping, I'll make dinner using food that we already have."}]}

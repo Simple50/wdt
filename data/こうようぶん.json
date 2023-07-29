@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公用文","p":true}],"r_ele":[{"r":"こうようぶん","p":true}],"sense":[{"gloss":"official terminology","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目算","p":true}],"r_ele":[{"r":"もくさん","p":true}],"sense":[{"gloss":"rough estimate, rough calculation","pos":["n","vs"]},{"gloss":"expectation, anticipation, plan","pos":["n"]}]},"sdata":[{"j":"↑犬↑↓いぬ↓は↑一目散↑↓いち|もくさん|↓に↑逃↑↓に↓げ↑出↑↓だ↓した。","e":"The dog ran off as fast as it could."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漁労","p":true},{"e":"漁撈"}],"r_ele":[{"r":"ぎょろう","p":true}],"sense":[{"gloss":"fishing, fishery","pos":["n"]}]},"sdata":[]}

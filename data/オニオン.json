@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オニオン","p":true}],"sense":[{"gloss":"onion (Allium cepa)","pos":["n"],"x":["玉ねぎ"]}]},"sdata":[{"j":"↑得意↑↓とくい↓↑料理↑↓りょうり↓は|オニオン|グラタンスープです。","e":"My specialty is French onion gratin soup."}]}

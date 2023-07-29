@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"会社更生法","p":true}],"r_ele":[{"r":"かいしゃこうせいほう","p":true}],"sense":[{"gloss":"Corporate Rehabilitation Law","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"濡らす","p":true},{"e":"濡す","i":["io"]}],"r_ele":[{"r":"ぬらす","p":true}],"sense":[{"gloss":"to wet, to moisten, to dampen, to soak, to dip","pos":["v5s","vt"]}]},"sdata":[{"j":"トムは↑自分↑↓じぶん↓の↑足↑↓あし↓を↑濡↑↓|ぬ↓らす|のが↑嫌↑↓きら↓いだ。","e":"Tom hates to get his feet wet."},{"j":"↑携帯↑↓けいたい↓を↑濡↑↓|ぬ↓らす|なよ。","e":"Don't get the phone wet."}]}

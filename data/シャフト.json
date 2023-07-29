@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シャフト","p":true}],"sense":[{"gloss":"shaft (e.g. machinery), axle","pos":["n"]},{"gloss":"shaft (of a golf club)","pos":["n"]},{"gloss":"mine shaft, pit","pos":["n"]}]},"sdata":[{"j":"この|シャフト|はピストンとつながっている。","e":"This shaft links with a piston."},{"j":"ここから、エレベーター|シャフト|を↑見下↑↓みお↓ろせます。","e":"From here, you can look down the elevator shaft."}]}

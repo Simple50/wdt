@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"側壁","p":true}],"r_ele":[{"r":"そくへき","p":true}],"sense":[{"gloss":"side wall","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"足手まとい","p":true},{"e":"足手纏い"},{"e":"足でまとい"},{"e":"足手纒い"}],"r_ele":[{"r":"あしでまとい","p":true},{"r":"あしてまとい"}],"sense":[{"gloss":"impediment, burden, encumbrance, hindrance, drag","pos":["adj-na","n"]}]},"sdata":[{"j":"↑足手↑↓|あしで↓まとい|になりたくないの。","e":"I don't want to be a burden."}]}

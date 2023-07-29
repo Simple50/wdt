@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アーミー","p":true},{"r":"アーミィ"}],"sense":[{"gloss":"army","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肌色","p":true},{"e":"膚色","i":["rK"]},{"e":"はだ色","i":["sK"]}],"r_ele":[{"r":"はだいろ","p":true}],"sense":[{"gloss":"flesh colour (of a Japanese person), flesh color, pale orange","pos":["n","adj-no"],"m":["sens"]},{"gloss":"(one's) skin color, skin colour, skin tone","pos":["n"]}]},"sdata":[]}

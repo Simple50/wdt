@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和英","p":true}],"r_ele":[{"r":"わえい","p":true}],"sense":[{"gloss":"Japanese-English","pos":["n"]},{"gloss":"Japanese-English dictionary","pos":["n"],"m":["abbr"],"x":["和英辞典"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銀杯","p":true},{"e":"銀盃"}],"r_ele":[{"r":"ぎんぱい","p":true}],"sense":[{"gloss":"silver cup","pos":["n"]}]},"sdata":[]}

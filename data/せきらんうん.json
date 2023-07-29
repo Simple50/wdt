@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積乱雲","p":true}],"r_ele":[{"r":"せきらんうん","p":true}],"sense":[{"gloss":"cumulonimbus cloud","pos":["n"]}]},"sdata":[]}

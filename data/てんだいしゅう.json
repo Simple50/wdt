@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天台宗","p":true}],"r_ele":[{"r":"てんだいしゅう","p":true}],"sense":[{"gloss":"Tendai sect (of Buddhism)","pos":["n"]}]},"sdata":[]}

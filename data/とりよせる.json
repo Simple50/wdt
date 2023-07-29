@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り寄せる","p":true},{"e":"取寄せる"}],"r_ele":[{"r":"とりよせる","p":true}],"sense":[{"gloss":"to order, to send away for, to have (something) sent to one","pos":["v1","vt"]},{"gloss":"to pull (something) closer","pos":["v1","vt"]}]},"sdata":[{"j":"インターネットで↑願書↑↓がんしょ↓を↑取↑↓|と↓り↑寄↑↓よ↓せる|といいよ。","e":"Have them send you an application form over the Internet."}]}

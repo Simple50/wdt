@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ギブアップ","p":true},{"r":"ギブ・アップ"}],"sense":[{"gloss":"give up","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑苦↑↓くる↓しかったら|ギブアップ|して、お↑姉↑↓ねえ↓さんのお↑願↑↓ねが↓いを↑聞↑↓き↓きなさいっ。","e":"If you can't take it, give up and do what I, your older sister, asked of you."},{"j":"あの↑人↑↓ひと↓たちやっと|ギブアップ|したよ。","e":"They have finally given in."}]}

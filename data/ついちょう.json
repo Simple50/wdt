@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追徴","p":true}],"r_ele":[{"r":"ついちょう","p":true}],"sense":[{"gloss":"supplementary charge, additional collection","pos":["n","vs","vt"]}]},"sdata":[]}

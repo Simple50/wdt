@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロップジェット","p":true}],"sense":[{"gloss":"propjet","pos":["n"]}]},"sdata":[]}

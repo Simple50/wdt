@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"進行状況","p":true}],"r_ele":[{"r":"しんこうじょうきょう","p":true}],"sense":[{"gloss":"state of progress","pos":["n"]}]},"sdata":[{"j":"↑進行↑↓|しんこう↓↑状況↑↓じょうきょう|↓は↑毎日↑↓まいにち↓↑確認↑↓かくにん↓され、データベースに↑記録↑↓きろく↓されます。","e":"Progress is monitored daily and stored in a database."}]}

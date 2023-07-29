@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直接税","p":true}],"r_ele":[{"r":"ちょくせつぜい","p":true}],"sense":[{"gloss":"direct tax","pos":["n"]}]},"sdata":[{"j":"↑税↑↓ぜい↓は↑直接↑↓|ちょくせつ↓↑税↑↓ぜい|↓と↑間接↑↓かんせつ↓↑税↑↓ぜい↓からなっている。","e":"Taxes consist of direct taxes and indirect ones."},{"j":"↑直接↑↓|ちょくせつ↓↑税↑↓ぜい|↓に↑反対↑↓はんたい↓する↑意見↑↓いけん↓が↑支配↑↓しはい↓↑的↑↓てき↓だった。","e":"Opinion against the direct tax was dominant."}]}

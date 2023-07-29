@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハードトップ","p":true}],"sense":[{"gloss":"hardtop","pos":["n"]}]},"sdata":[]}

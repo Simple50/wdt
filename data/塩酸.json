@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"塩酸","p":true}],"r_ele":[{"r":"えんさん","p":true}],"sense":[{"gloss":"hydrochloric acid","pos":["n"]}]},"kdata":{"塩":{"on":["エン"],"kun":["しお"],"jlpt":2,"meanings":["salt"],"freq":1148,"comp":[["𠂉","口","皿","土"]],"t":1698},"酸":{"on":["サン"],"kun":["す.い"],"jlpt":1,"meanings":["acid","bitterness","sour","tart"],"freq":1218,"comp":[["酉","夋"]],"t":1937}},"sdata":[]}

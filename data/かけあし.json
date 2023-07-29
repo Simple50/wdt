@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆け足","p":true},{"e":"駆足"},{"e":"駈け足"},{"e":"駈足"},{"e":"かけ足"}],"r_ele":[{"r":"かけあし","p":true}],"sense":[{"gloss":"running fast, double time","pos":["n"]},{"gloss":"cantering","pos":["n"]},{"gloss":"doing things in a hurry","pos":["n"]}]},"sdata":[{"j":"トムは↑駆↑↓|か↓け↑足↑↓あし|↓で↑階段↑↓かいだん↓を↑上↑↓のぼ↓っていった。","e":"Tom ran up the stairs."}]}

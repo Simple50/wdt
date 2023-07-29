@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し切る","p":true},{"e":"押切る"},{"e":"押しきる"}],"r_ele":[{"r":"おしきる","p":true}],"sense":[{"gloss":"to overcome (opposition), to push past, to force one's way","pos":["v5r","vt"]},{"gloss":"to press and cut","pos":["v5r","vt"]}]},"sdata":[]}

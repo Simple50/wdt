@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"告別","p":true}],"r_ele":[{"r":"こくべつ","p":true}],"sense":[{"gloss":"farewell, leave-taking","pos":["n","vs","vi"]}]},"sdata":[]}

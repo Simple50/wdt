@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"近距離","p":true}],"r_ele":[{"r":"きんきょり","p":true}],"sense":[{"gloss":"short distance","pos":["n"]}]},"sdata":[]}

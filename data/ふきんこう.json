@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不均衡","p":true}],"r_ele":[{"r":"ふきんこう","p":true}],"sense":[{"gloss":"imbalance, lack of balance, lopsidedness, disproportion, inequality, disparity","pos":["adj-na","n"]}]},"sdata":[{"j":"↑貿易↑↓ぼうえき↓↑不↑↓|ふ↓↑均衡↑↓きんこう|↓が↑大↑↓おお↓きな↑問題↑↓もんだい↓であるように↑思↑↓おも↓える。","e":"The trade imbalance bulks large in our minds."}]}

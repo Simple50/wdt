@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独裁政治","p":true}],"r_ele":[{"r":"どくさいせいじ","p":true}],"sense":[{"gloss":"dictatorship, despotic government","pos":["n","adj-no"]}]},"sdata":[]}

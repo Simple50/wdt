@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"団体交渉","p":true}],"r_ele":[{"r":"だんたいこうしょう","p":true}],"sense":[{"gloss":"collective bargaining","pos":["n"]}]},"sdata":[]}

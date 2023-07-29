@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"廃品","p":true}],"r_ele":[{"r":"はいひん","p":true}],"sense":[{"gloss":"waste, garbage","pos":["n"]}]},"sdata":[]}

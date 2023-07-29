@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低姿勢","p":true}],"r_ele":[{"r":"ていしせい","p":true}],"sense":[{"gloss":"(keeping a) low profile","pos":["n"]}]},"sdata":[]}

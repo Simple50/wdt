@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農学部","p":true}],"r_ele":[{"r":"のうがくぶ","p":true}],"sense":[{"gloss":"department of agriculture","pos":["n"]}]},"sdata":[]}

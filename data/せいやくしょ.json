@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"誓約書","p":true}],"r_ele":[{"r":"せいやくしょ","p":true}],"sense":[{"gloss":"written oath, covenant, pledge","pos":["n"]}]},"sdata":[{"j":"この↑誓約↑↓|せいやく↓↑書↑↓しょ|↓には↑法的↑↓ほうてき↓↑拘束↑↓こうそく↓↑力↑↓りょく↓はありません。","e":"This written pledge is not legally binding."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心不全","p":true}],"r_ele":[{"r":"しんふぜん","p":true}],"sense":[{"gloss":"heart failure","pos":["n"],"f":["med"]}]},"sdata":[{"j":"↑三村↑↓みつむら↓・↑泰之↑↓やすゆき↓↑氏↑↓し↓（みむら・やすゆき＝コニチカ↑株式会社↑↓かぶしきがいしゃ↓↑取締役↑↓とりしまりやく↓）↑三↑↓さん↓↑日↑↓にち↓、↑心不全↑↓|しんふぜん|↓で↑死去↑↓しきょ↓。４５↑歳↑↓さい↓。","e":"Mimura Yasuyuki (Konichika LTD, Managing Director) died of heart attack on the third, age 45."}]}

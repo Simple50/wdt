@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蝲蛄","i":["rK"]},{"e":"蜊蛄","i":["oK"]},{"e":"躄蟹","i":["oK"]}],"r_ele":[{"r":"ざりがに"},{"r":"ザリガニ","p":true}],"sense":[{"gloss":"crayfish (esp. Japanese crayfish, Cambaroides japonicus or red swamp crayfish, Procambarus clarkii), crawfish","pos":["n"],"x":["ニホンザリガニ","アメリカザリガニ"]}],"m":["uk"]},"sdata":[]}

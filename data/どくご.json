@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独語","p":true}],"r_ele":[{"r":"どくご","p":true}],"sense":[{"gloss":"monologue, soliloquy","pos":["n","vs"]},{"gloss":"German (language)","pos":["n"],"x":["ドイツ語"]}]},"sdata":[{"j":"ジムは↑仏語↑↓ふつご↓と↑独語↑↓|どくご|↓が↑自由↑↓じゆう↓に↑使↑↓つか↓える。","e":"Jim mastered French and German."},{"j":"あの↑婦人↑↓ふじん↓はひ|どく↑傲慢↑↓ご|うまん↓だ。","e":"That lady is haughty to a great degree."}]}

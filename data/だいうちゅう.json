@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大宇宙","p":true}],"r_ele":[{"r":"だいうちゅう","p":true}],"sense":[{"gloss":"macrocosmos, macrocosm, the universe, the cosmos","pos":["n"],"x":["小宇宙"]}]},"sdata":[]}

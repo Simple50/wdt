@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"順風満帆","p":true}],"r_ele":[{"r":"じゅんぷうまんぱん","p":true},{"r":"じゅんぷうまんぽ","i":["ik"]}],"sense":[{"gloss":"smooth sailing","pos":["n"]}],"m":["yoji"]},"sdata":[]}

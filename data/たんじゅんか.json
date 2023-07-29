@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"単純化","p":true}],"r_ele":[{"r":"たんじゅんか","p":true}],"sense":[{"gloss":"simplification","pos":["n","vs"]}]},"sdata":[{"j":"↑優↑↓すぐ↓れた↑作家↑↓さっか↓は、↑複雑↑↓ふくざつ↓なものを↑単純↑↓|たんじゅん↓↑化↑↓か|↓できる↑必要↑↓ひつよう↓があるのです。","e":"A good writer needs to be able to simplify complicated things."}]}

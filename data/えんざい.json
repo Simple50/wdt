@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冤罪","p":true},{"e":"えん罪"},{"e":"寃罪","i":["iK"]}],"r_ele":[{"r":"えんざい","p":true}],"sense":[{"gloss":"false charge, false accusation, misrepresentation","pos":["n"]}]},"sdata":[]}

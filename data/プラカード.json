@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プラカード","p":true}],"sense":[{"gloss":"placard","pos":["n"]}]},"sdata":[]}

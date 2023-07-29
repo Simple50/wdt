@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アポインテシステム","p":true}],"sense":[{"gloss":"appointment system","pos":["n"]}],"m":["abbr"]},"sdata":[]}

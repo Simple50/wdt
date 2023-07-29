@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"降らす","p":true}],"r_ele":[{"r":"ふらす","p":true}],"sense":[{"gloss":"to send (rain), to shed","pos":["v5s","vt"]}]},"kdata":{"降":{"on":["コウ","ゴ"],"kun":["お.りる","お.ろす","ふ.る","ふ.り","くだ.る","くだ.す"],"jlpt":3,"meanings":["descend","precipitate","fall","surrender"],"freq":596,"comp":[["阝","夅"]],"s":"隆","t":1192}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"草丈","p":true}],"r_ele":[{"r":"くさたけ","p":true}],"sense":[{"gloss":"rice plant's height","pos":["n"]}]},"sdata":[]}

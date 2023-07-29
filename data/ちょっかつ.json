@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直轄","p":true}],"r_ele":[{"r":"ちょっかつ","p":true}],"sense":[{"gloss":"direct control","pos":["n","vs","vt","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エレガンス","p":true}],"sense":[{"gloss":"elegance","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑飾↑↓かざ↓り↑気↑↓け↓のない↑格好↑↓かっこう↓をしてはいる。しかし↑育↑↓そだ↓ちから↑来↑↓く↓る|エレガンス|は↑隠↑↓かく↓せないものだ。","e":"She's wearing plain clothes. However, she cannot hide the elegance that comes from her upbringing."}]}

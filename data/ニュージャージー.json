@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニュージャージー","p":true},{"r":"ニュー・ジャージー"}],"sense":[{"gloss":"New Jersey","pos":["n"]}]},"sdata":[]}

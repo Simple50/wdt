@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"普通選挙","p":true}],"r_ele":[{"r":"ふつうせんきょ","p":true}],"sense":[{"gloss":"universal suffrage","pos":["n"]}]},"sdata":[]}

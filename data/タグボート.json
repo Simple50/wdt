@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タグボート","p":true}],"sense":[{"gloss":"tugboat","pos":["n"]}]},"sdata":[]}

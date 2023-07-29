@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポテンシャル","p":true}],"sense":[{"gloss":"potential","pos":["n"]}]},"sdata":[{"j":"|ポテンシャル|を↑振↑↓ふ↓り↑絞↑↓しぼ↓っているかと↑言↑↓い↓われるとそこまでではない。","e":"I'm not at my full potential."}]}

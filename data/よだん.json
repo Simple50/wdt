@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"余談","p":true}],"r_ele":[{"r":"よだん","p":true}],"sense":[{"gloss":"digression","pos":["n"]}]},"sdata":[{"j":"↑余談↑↓|よだん|↓だが、この↑念↑↓ねん↓↑発火↑↓はっか↓↑能力↑↓のうりょく↓のことをパイロキネシスというらしい。","e":"By the by, this ability to will fire into existence is apparently called pyrokinesis."}]}

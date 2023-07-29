@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入超","p":true}],"r_ele":[{"r":"にゅうちょう","p":true}],"sense":[{"gloss":"excess of imports","pos":["n"],"x":["輸入超過"]}],"m":["abbr"]},"sdata":[]}

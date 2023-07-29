@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小手投げ","p":true}],"r_ele":[{"r":"こてなげ","p":true}],"sense":[{"gloss":"armlock throw, forearm throw","pos":["n"],"f":["sumo"]}]},"sdata":[]}

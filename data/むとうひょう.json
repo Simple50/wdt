@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無投票","p":true}],"r_ele":[{"r":"むとうひょう","p":true}],"sense":[{"gloss":"without a vote","pos":["n"]}]},"sdata":[]}

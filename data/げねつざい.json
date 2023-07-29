@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"解熱剤","p":true}],"r_ele":[{"r":"げねつざい","p":true}],"sense":[{"gloss":"fever medicine, antipyretic, antifebrile","pos":["n"]}]},"sdata":[]}

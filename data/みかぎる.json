@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見限る","p":true}],"r_ele":[{"r":"みかぎる","p":true}],"sense":[{"gloss":"to give up on, to turn one's back (on), to abandon, to forsake, to dump (e.g. romantic partner)","pos":["v5r","vt"]}]},"sdata":[]}

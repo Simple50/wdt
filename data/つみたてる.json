@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積み立てる","p":true},{"e":"積立てる"}],"r_ele":[{"r":"つみたてる","p":true}],"sense":[{"gloss":"to accumulate, to save","pos":["v1","vt"]}]},"sdata":[]}

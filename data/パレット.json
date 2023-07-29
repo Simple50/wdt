@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パレット","p":true}],"sense":[{"gloss":"palette","pos":["n"]},{"gloss":"pallet","pos":["n"]}]},"sdata":[{"j":"カラー・キー・プログラム・システムでは↑全↑↓すべ↓ての↑色↑↓いろ↓が「クール|パレット|」と「ウォーム|パレット|」の↑２↑↓ふた↓つに↑分↑↓わ↓けられる。","e":"With the colour key program system, all colours are divided into two palettes, the \"cool palette\" and the \"warm palette\"."}]}

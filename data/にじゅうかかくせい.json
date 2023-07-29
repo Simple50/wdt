@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二重価格制","p":true}],"r_ele":[{"r":"にじゅうかかくせい","p":true}],"sense":[{"gloss":"dual price system","pos":["n"]}]},"sdata":[]}

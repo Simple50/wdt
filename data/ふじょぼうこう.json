@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"婦女暴行","p":true}],"r_ele":[{"r":"ふじょぼうこう","p":true}],"sense":[{"gloss":"sexual assault (of a woman), rape","pos":["n"]}]},"sdata":[]}

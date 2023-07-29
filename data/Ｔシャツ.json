@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"Ｔシャツ","p":true}],"r_ele":[{"r":"ティーシャツ","p":true}],"sense":[{"gloss":"T-shirt, tee shirt","pos":["n"]}]},"sdata":[]}

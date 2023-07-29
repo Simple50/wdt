@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"選りすぐり","p":true}],"r_ele":[{"r":"よりすぐり","p":true},{"r":"えりすぐり"}],"sense":[{"gloss":"special selection, finest pick, top pick","pos":["n","adj-no"]}]},"sdata":[]}

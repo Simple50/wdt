@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上背","p":true}],"r_ele":[{"r":"うわぜい","p":true}],"sense":[{"gloss":"stature, height","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はほぼ６フィート↑上背↑↓|うわぜい|↓だ。","e":"He is almost six feet tall."}]}

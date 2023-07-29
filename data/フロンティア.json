@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フロンティア","p":true}],"sense":[{"gloss":"frontier (esp. the American frontier)","pos":["n"]},{"gloss":"frontier (of a field), forefront (of science, technology)","pos":["n"]}]},"sdata":[]}

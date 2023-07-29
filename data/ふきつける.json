@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吹き付ける","p":true},{"e":"吹きつける"},{"e":"吹付ける"},{"e":"吹き着ける"}],"r_ele":[{"r":"ふきつける","p":true}],"sense":[{"gloss":"to blow against, to spray (paint, etc.) (onto a surface)","pos":["v1","vt"]}]},"sdata":[{"j":"↑吹↑↓|ふ↓き↑付↑↓つ↓ける|↑冷↑↓つめ↓たい↑風↑↓かぜ↓が↑骨身↑↓ほねみ↓にしみた。","e":"The icy wind cut us to the bones."}]}

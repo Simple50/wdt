@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フェンシング","p":true}],"sense":[{"gloss":"fencing","pos":["n"]}]},"sdata":[{"j":"かつてオリンピックの|フェンシング|↑競技↑↓きょうぎ↓で↑優勝↑↓ゆうしょう↓したパル・シュミット↑氏↑↓し↓がハンガリー↑大統領↑↓だいとうりょう↓に↑選出↑↓せんしゅつ↓された。","e":"Former Olympic fencing champion Pál Schmitt has been elected President of Hungary."}]}

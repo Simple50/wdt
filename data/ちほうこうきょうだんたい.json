@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地方公共団体","p":true}],"r_ele":[{"r":"ちほうこうきょうだんたい","p":true}],"sense":[{"gloss":"local public body, local government","pos":["n"]}]},"sdata":[]}

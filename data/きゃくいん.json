@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"客員","p":true}],"r_ele":[{"r":"きゃくいん","p":true},{"r":"かくいん"}],"sense":[{"gloss":"guest member, associate member, honorary member","pos":["n"]}]},"sdata":[{"j":"↑脚韻↑↓|きゃくいん|↓と↑平仄↑↓ひょうそく↓が↑漢詩↑↓かんし↓の↑基本↑↓きほん↓↑的↑↓てき↓ルールとなっています。","e":"Rhyme and meter form the essential rules of Chinese poetry."}]}

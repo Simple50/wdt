@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青田買い","p":true}],"r_ele":[{"r":"あおたがい","p":true}],"sense":[{"gloss":"speculatively buying a rice harvest, while the fields are still green","pos":["n"]},{"gloss":"recruiting of university students before the agreed date","pos":["n"]}]},"sdata":[]}

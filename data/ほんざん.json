@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本山","p":true}],"r_ele":[{"r":"ほんざん","p":true}],"sense":[{"gloss":"head temple","pos":["n"]},{"gloss":"this temple","pos":["n"]}]},"sdata":[]}

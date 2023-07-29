@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"綿棒","p":true},{"e":"めん棒"}],"r_ele":[{"r":"めんぼう","p":true}],"sense":[{"gloss":"cotton swab","pos":["n"]}]},"sdata":[]}

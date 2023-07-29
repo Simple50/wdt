@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"核爆発","p":true}],"r_ele":[{"r":"かくばくはつ","p":true}],"sense":[{"gloss":"nuclear explosion","pos":["n"]}]},"sdata":[]}

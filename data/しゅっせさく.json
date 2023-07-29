@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出世作","p":true}],"r_ele":[{"r":"しゅっせさく","p":true}],"sense":[{"gloss":"work of art or literature that brings fame","pos":["n"]}]},"sdata":[]}

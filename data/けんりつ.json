@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"県立","p":true}],"r_ele":[{"r":"けんりつ","p":true}],"sense":[{"gloss":"prefectural, managed by a prefectural government","pos":["adj-no","n"]}]},"sdata":[]}

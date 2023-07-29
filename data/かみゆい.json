@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"髪結い","p":true},{"e":"髪結"}],"r_ele":[{"r":"かみゆい","p":true},{"r":"かみい"}],"sense":[{"gloss":"hairdresser, hairdressing","pos":["n"]}]},"sdata":[]}

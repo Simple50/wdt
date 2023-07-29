@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"舞姫","p":true}],"r_ele":[{"r":"まいひめ","p":true},{"r":"ぶき"}],"sense":[{"gloss":"female dancer, dancing girl, danseuse","pos":["n"]}]},"sdata":[{"j":"さてさて、みなさんは↑舞姫↑↓|まいひめ|↓というアニメを↑知↑↓し↓っているでしょうか？","e":"Well then, does everybody know the anime called Mai Hime?"}]}

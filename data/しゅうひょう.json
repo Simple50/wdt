@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"集票","p":true}],"r_ele":[{"r":"しゅうひょう","p":true}],"sense":[{"gloss":"gathering votes, garnering votes, pulling in votes","pos":["n","vs","vt","vi"]},{"gloss":"ballot collection, vote-counting","pos":["n","vs","vt","vi"]}]},"sdata":[]}

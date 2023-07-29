@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"川面","p":true},{"e":"河面"},{"e":"川づら"}],"r_ele":[{"r":"かわづら","p":true},{"r":"かわも"}],"sense":[{"gloss":"river surface, surface of a river","pos":["n"]}]},"sdata":[]}

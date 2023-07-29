@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アメラグ","p":true}],"sense":[{"gloss":"American football","pos":["n"],"x":["アメフト","アメリカンフットボール"]}],"m":["dated"]},"sdata":[]}

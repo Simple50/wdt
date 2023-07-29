@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"船会社","p":true}],"r_ele":[{"r":"ふながいしゃ","p":true}],"sense":[{"gloss":"steamship (shipping) company","pos":["n"]}]},"sdata":[]}

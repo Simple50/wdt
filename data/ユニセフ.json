@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＵＮＩＣＥＦ"}],"r_ele":[{"r":"ユニセフ","p":true}],"sense":[{"gloss":"United Nations Children's Fund (formerly Children's Emergency Fund), UNICEF","pos":["n"]}]},"sdata":[]}

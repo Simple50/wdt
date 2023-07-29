@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジョーカー","p":true}],"sense":[{"gloss":"joker","pos":["n"],"f":["cards"]},{"gloss":"joker, funny guy","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は、|ジョーカー|を↑持↑↓も↓っています。","e":"He has the Joker."},{"j":"|ジョーカー|はオールマイティーでいいよね？","e":"The Joker is the wild card, OK?"},{"j":"↑私↑↓わたし↓は、|ジョーカー|を↑持↑↓も↓ってるから。","e":"I have an ace up my sleeve."}]}

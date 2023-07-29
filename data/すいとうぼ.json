@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出納簿","p":true}],"r_ele":[{"r":"すいとうぼ","p":true}],"sense":[{"gloss":"cashbook","pos":["n"]}]},"sdata":[]}

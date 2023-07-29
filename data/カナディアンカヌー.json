@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カナディアンカヌー","p":true},{"r":"カナディアン・カヌー"}],"sense":[{"gloss":"Canadian canoe","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トランスポンダー","p":true},{"r":"トランスポンダ"}],"sense":[{"gloss":"transponder","pos":["n"]}]},"sdata":[]}

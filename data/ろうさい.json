@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"労災","p":true}],"r_ele":[{"r":"ろうさい","p":true}],"sense":[{"gloss":"work-related injury, work-related illness, work-related death, on-the-job accident","pos":["n"],"x":["労働災害"]},{"gloss":"workers' compensation insurance","pos":["n"],"x":["労災保険"]}],"m":["abbr"]},"sdata":[]}

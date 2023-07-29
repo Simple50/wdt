@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弱震","p":true}],"r_ele":[{"r":"じゃくしん","p":true}],"sense":[{"gloss":"mild earthquake","pos":["n"]}]},"sdata":[]}

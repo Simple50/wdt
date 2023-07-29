@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金山","p":true}],"r_ele":[{"r":"きんざん","p":true}],"sense":[{"gloss":"gold mine","pos":["n"],"x":["金山・かなやま"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑預金↑↓よ|きん↓↑残高↑↓ざん|だか↓はどうなっていますか。","e":"What's the balance of my account?"}]}

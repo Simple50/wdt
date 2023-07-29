@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見切り発車","p":true}],"r_ele":[{"r":"みきりはっしゃ","p":true}],"sense":[{"gloss":"starting a train (or bus, etc.) before all the passengers are on board","pos":["n","vs","vi"]},{"gloss":"making a snap decision, starting an action without considering objections to it any longer","pos":["n","vs","vi"]}]},"sdata":[]}

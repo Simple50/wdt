@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リノール","p":true}],"sense":[{"gloss":"linoleic","pos":["adj-f"],"x":["リノール酸・リノールさん"]}]},"sdata":[]}

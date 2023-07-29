@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"じゃん拳","p":true},{"e":"ジャン拳"}],"r_ele":[{"r":"じゃんけん","p":true},{"r":"ジャンけん"},{"r":"ジャンケン","p":true}],"sense":[{"gloss":"rock-paper-scissors (game), janken","pos":["n","vs","vi"]}],"m":["uk"]},"kdata":{"拳":{"on":["ケン","ゲン"],"kun":["こぶし"],"jlpt":1,"meanings":["fist"],"freq":1935,"comp":[["丷","夫","手"]],"t":1208}},"sdata":[]}

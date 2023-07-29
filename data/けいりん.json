@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"競輪","p":true}],"r_ele":[{"r":"けいりん","p":true},{"r":"ケイリン"}],"sense":[{"gloss":"keirin, cycle racing event, usu. 2 km with a paced start and sprint finish","pos":["n"]}]},"sdata":[]}

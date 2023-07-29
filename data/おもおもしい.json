@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重々しい","p":true},{"e":"重重しい"}],"r_ele":[{"r":"おもおもしい","p":true}],"sense":[{"gloss":"serious, grave, dignified, solemn","pos":["adj-i"]}]},"sdata":[]}

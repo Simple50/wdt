@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雪辱","p":true}],"r_ele":[{"r":"せつじょく","p":true}],"sense":[{"gloss":"vindication of honour, vindication of honor, making up for loss, revenge","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑君↑↓きみ↓に↑雪辱↑↓|せつじょく|↓のチャンスを↑与↑↓あた↓えよう。","e":"We'll give you your revenge."}]}

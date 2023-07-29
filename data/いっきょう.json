@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一興","p":true}],"r_ele":[{"r":"いっきょう","p":true}],"sense":[{"gloss":"amusement, fun, brief entertainment","pos":["n"]}]},"sdata":[{"j":"それもまた↑一興↑↓|いっきょう|↓。","e":"It will be also interesting."}]}

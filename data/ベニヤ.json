@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベニヤ","p":true},{"r":"ベニア"}],"sense":[{"gloss":"veneer","pos":["n"]},{"gloss":"plywood","pos":["n"]}]},"sdata":[{"j":"|ベニヤ|↑板↑↓いた↓で↑十分↑↓じゅうぶん↓だとのこと、↑教↑↓おし↓えられたとおり|ベニヤ|↑板↑↓いた↓で↑作↑↓つく↓ることにします。","e":"Having been informed that plywood is sufficient, I will make it with plywood, as instructed."}]}

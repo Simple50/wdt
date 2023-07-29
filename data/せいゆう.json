@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"声優","p":true}],"r_ele":[{"r":"せいゆう","p":true}],"sense":[{"gloss":"voice actor or actress (radio, animation, etc.)","pos":["n"]}]},"sdata":[{"j":"↑女性↑↓じょ|せい↓↑優先↑↓ゆう|せん↓。","e":"Ladies first."},{"j":"「↑西遊↑↓|せいゆう|↓↑記↑↓き↓」の↑中↑↓なか↓には↑錬金術↑↓れんきんじゅつ↓の↑話↑↓はなし↓が↑数多↑↓かずおお↓く↑登場↑↓とうじょう↓します。","e":"Many tales of alchemy show up in \"Journey to the West\"."}]}

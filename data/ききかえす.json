@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聞き返す","p":true},{"e":"訊き返す"},{"e":"きき返す"}],"r_ele":[{"r":"ききかえす","p":true}],"sense":[{"gloss":"to listen repeatedly, to listen again","pos":["v5s","vt"]},{"gloss":"to ask a question in return","pos":["v5s","vt"]},{"gloss":"to ask again, to ask for a repeated explanation","pos":["v5s","vt"]}]},"sdata":[]}

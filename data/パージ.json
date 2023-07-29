@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パージ","p":true}],"sense":[{"gloss":"purging (data)","pos":["n","vs","vt"],"f":["comp"]},{"gloss":"purge (esp. of public officials)","pos":["n","vs","vt"],"x":["公職追放"]}]},"sdata":[]}

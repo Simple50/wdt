@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"素案","p":true},{"e":"礎案","i":["sK"]}],"r_ele":[{"r":"そあん","p":true}],"sense":[{"gloss":"rough plan, draft","pos":["n"]}]},"sdata":[]}

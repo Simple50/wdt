@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サブマリン","p":true}],"sense":[{"gloss":"submarine","pos":["n"]}]},"sdata":[{"j":"|サブマリン|のペリスコープが↑水中↑↓すいちゅう↓からにょっきり↑突↑↓つ↓き↑出↑↓で↓ていた。","e":"The submarine's periscope was sticking right out of the water."}]}

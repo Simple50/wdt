@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原著","p":true}],"r_ele":[{"r":"げんちょ","p":true}],"sense":[{"gloss":"the original work","pos":["n"]}]},"sdata":[]}

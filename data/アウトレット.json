@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アウトレット","p":true},{"r":"アウトゥレット"}],"sense":[{"gloss":"outlet (store that sells seconds, discontinued lines, etc.)","pos":["n"]},{"gloss":"electrical outlet","pos":["n"],"x":["コンセント"]}]},"sdata":[]}

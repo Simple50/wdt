@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アルバトロス","p":true}],"sense":[{"gloss":"albatross (seabird)","pos":["n"],"x":["アホウドリ"]},{"gloss":"albatross (score), double eagle","pos":["n"],"f":["golf"]}]},"sdata":[]}

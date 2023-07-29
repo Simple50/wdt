@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レンジャー","p":true},{"r":"レインジャー"},{"r":"レーンジャー"}],"sense":[{"gloss":"ranger","pos":["n"]}]},"sdata":[{"j":"|レンジャー|が↑道↑↓みち↓を↑拓↑↓ひら↓く。","e":"The Rangers lead the way."},{"j":"1986↑年↑↓ねん↓↑1月↑↓いちがつ↓28↑日↑↓にち↓に、チャ|レンジャー|が↑爆発↑↓ばくはつ↓しました。","e":"Challenger exploded on January 28th 1986."},{"j":"トムはパーク|レンジャー|なんだ。","e":"Tom is a park ranger."}]}

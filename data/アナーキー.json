@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アナーキー","p":true}],"sense":[{"gloss":"anarchy","pos":["n","adj-na"]}]},"sdata":[]}

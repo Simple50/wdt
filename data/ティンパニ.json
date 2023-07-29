@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ティンパニ","p":true},{"r":"ティンパニー"}],"sense":[{"gloss":"timpani, tympany","pos":["n"],"l":"ita: timpani"}]},"sdata":[]}

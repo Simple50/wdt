@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"労作","p":true}],"r_ele":[{"r":"ろうさく","p":true}],"sense":[{"gloss":"toil, labor, labour, laborious task","pos":["n","vs"]},{"gloss":"painstaking piece of work, (a) work involving considerable effort","pos":["n"]}]},"sdata":[]}

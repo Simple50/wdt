@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダッチワイフ","p":true},{"r":"ダッチ・ワイフ"}],"sense":[{"gloss":"life-sized doll used for masturbation","pos":["n"],"l":"eng: Dutch wife"},{"gloss":"cage (rattan or cane) used in bed in the tropics","pos":["n"]},{"gloss":"bolster used for warmth when sleeping","pos":["n"]}]},"sdata":[]}

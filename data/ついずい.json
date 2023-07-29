@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追随","p":true}],"r_ele":[{"r":"ついずい","p":true}],"sense":[{"gloss":"following (in the footsteps of)","pos":["n","vs","vi"]},{"gloss":"catching up with, coming level with","pos":["n","vs","vi"]}]},"sdata":[]}

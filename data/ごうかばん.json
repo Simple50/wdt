@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豪華版","p":true}],"r_ele":[{"r":"ごうかばん","p":true}],"sense":[{"gloss":"deluxe edition","pos":["n"]}]},"sdata":[]}

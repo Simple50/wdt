@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中間色","p":true}],"r_ele":[{"r":"ちゅうかんしょく","p":true}],"sense":[{"gloss":"intermediate color, intermediate colour, neutral color or tint, neutral colour","pos":["n"]}]},"sdata":[]}

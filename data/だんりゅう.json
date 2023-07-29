@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暖流","p":true}],"r_ele":[{"r":"だんりゅう","p":true}],"sense":[{"gloss":"warm current","pos":["n"]}]},"sdata":[{"j":"↑暖流↑↓|だんりゅう|↓が↑四国↑↓しこく↓の↑沖↑↓おき↓を↑流↑↓なが↓れている。","e":"A warm current runs off the coast of Shikoku."}]}

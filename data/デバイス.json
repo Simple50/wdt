@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デバイス","p":true},{"r":"ディバイス"}],"sense":[{"gloss":"device","pos":["n"]}]},"sdata":[{"j":"トムはiPadは↑欲↑↓ほ↓しくない。↑彼↑↓かれ↓が↑欲↑↓ほ↓しいのはFlashをサポートした↑携帯↑↓けいたい↓|デバイス|だ。","e":"Tom doesn't want an iPad. He wants a portable device that supports Flash."}]}

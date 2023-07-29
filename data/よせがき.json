@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寄せ書き","p":true},{"e":"寄書き"},{"e":"寄書"}],"r_ele":[{"r":"よせがき","p":true}],"sense":[{"gloss":"collection of words or drawings by several people on a single sheet of paper","pos":["n","vs","vi"]}]},"sdata":[]}

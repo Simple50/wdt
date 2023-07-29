@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一方通行","p":true}],"r_ele":[{"r":"いっぽうつうこう","p":true}],"sense":[{"gloss":"one-way traffic","pos":["n","adj-no"]}],"m":["yoji"]},"sdata":[{"j":"↑母↑↓かあ↓さん、そこ↑入↑↓はい↓っちゃだめだよ。そこ↑一方↑↓|いっぽう↓↑通行↑↓つうこう|↓だよ。","e":"Don't go in there, Mom. It's a one-way street."},{"j":"ここは↑一方↑↓|いっぽう↓↑通行↑↓つうこう|↓ですか？","e":"Is this a one-way street?"}]}

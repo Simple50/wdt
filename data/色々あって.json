@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"色々あって","p":true}],"r_ele":[{"r":"いろいろあって","p":true}],"sense":[{"gloss":"what with this and that, for a number of reasons","pos":["exp"],"x":["色々・1"]}],"m":["uk"]},"kdata":{"色":{"on":["ショク","シキ"],"kun":["いろ"],"jlpt":4,"meanings":["color","colour","prettiness"],"freq":621,"comp":[["巴"]],"d":["絶","艶","艷","栬","脃","艴","赩","銫","靘"],"s":"免","t":393}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"炭火","p":true}],"r_ele":[{"r":"すみび","p":true}],"sense":[{"gloss":"charcoal fire","pos":["n"]}]},"sdata":[]}

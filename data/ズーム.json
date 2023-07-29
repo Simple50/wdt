@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ズーム","p":true}],"sense":[{"gloss":"zoom","pos":["n"]}]},"sdata":[{"j":"これが|ズーム|のボタンだよ。","e":"This is the zoom button."}]}

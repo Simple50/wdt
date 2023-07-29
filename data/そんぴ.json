@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"存否","p":true}],"r_ele":[{"r":"ぞんぴ"},{"r":"そんぴ","p":true}],"sense":[{"gloss":"(whether) existent or non-existent, life or death","pos":["n"]}]},"sdata":[]}

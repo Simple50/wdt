@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"磯辺","p":true},{"e":"磯べ"}],"r_ele":[{"r":"いそべ","p":true}],"sense":[{"gloss":"seashore, beach","pos":["n"]},{"gloss":"food wrapped in nori","pos":["n"],"x":["磯辺揚げ"]}]},"sdata":[]}

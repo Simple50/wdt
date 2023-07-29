@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テンポ","p":true}],"sense":[{"gloss":"tempo","pos":["n"],"f":["music"],"l":"ita"}]},"sdata":[{"j":"その↑試合↑↓しあい↓は|テンポ|が↑遅↑↓おそ↓くおまけに↑退屈↑↓たいくつ↓だった。","e":"The game was slow, and it was also boring."},{"j":"リズムは↑軽快↑↓けいかい↓で|テンポ|は↑速↑↓はや↓く、その↑曲↑↓きょく↓は↑若者↑↓わかもの↓に↑好↑↓この↓まれている。","e":"The rhythm is light, and the tempo fast - that song is liked by young people."}]}

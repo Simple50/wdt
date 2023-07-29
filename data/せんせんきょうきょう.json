@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戦々恐々","p":true},{"e":"戦戦恐恐"},{"e":"戦々兢々"},{"e":"戦戦兢兢"}],"r_ele":[{"r":"せんせんきょうきょう","p":true}],"sense":[{"gloss":"trembling with fear, filled with trepidation","pos":["adj-na","adj-no","adj-t","adv-to"]}],"m":["yoji"]},"sdata":[]}

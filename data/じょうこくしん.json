@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上告審","p":true}],"r_ele":[{"r":"じょうこくしん","p":true}],"sense":[{"gloss":"appeal hearing","pos":["n"]}]},"sdata":[]}

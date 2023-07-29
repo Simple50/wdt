@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ユーカリ","p":true}],"sense":[{"gloss":"eucalyptus","pos":["n"],"l":"lat: eu,gre: kaluptos"}],"m":["abbr"]},"sdata":[{"j":"コアラは|ユーカリ|の↑葉↑↓は↓を↑食↑↓た↓べるんだよ。","e":"Koalas eat eucalyptus leaves."}]}

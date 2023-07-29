@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"副収入","p":true}],"r_ele":[{"r":"ふくしゅうにゅう","p":true}],"sense":[{"gloss":"additional income","pos":["n"]}]},"sdata":[]}

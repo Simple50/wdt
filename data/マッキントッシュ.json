@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マッキントッシュ","p":true}],"sense":[{"gloss":"Macintosh (brand of personal computer manufactured by Apple)","pos":["n"],"f":["tradem"]},{"gloss":"mackintosh (raincoat)","pos":["n"]},{"gloss":"McIntosh (apple)","pos":["n"],"x":["旭"]}]},"sdata":[]}

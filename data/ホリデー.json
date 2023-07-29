@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホリデー","p":true},{"r":"ホリデイ","p":true},{"r":"ホリディ","i":["ik"]}],"sense":[{"gloss":"holiday","pos":["n"]}]},"sdata":[]}

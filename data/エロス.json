@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エロス","p":true},{"r":"エロース"}],"sense":[{"gloss":"eros, physical love, sexual desire","pos":["n"],"l":"grc"},{"gloss":"Eros (god)","pos":["n"],"f":["grmyth"]},{"gloss":"(Platonic) Eros","pos":["n"],"f":["phil"]},{"gloss":"Eros (asteroid)","pos":["n"],"f":["astron"]}]},"sdata":[]}

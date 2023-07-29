@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初める","p":true}],"r_ele":[{"r":"そめる","p":true}],"sense":[{"gloss":"to begin to","pos":["aux-v","v1"]}]},"kdata":{"初":{"on":["ショ"],"kun":["はじ.め","はじ.めて","はつ","はつ-","うい-","-そ.める","-ぞ.め"],"jlpt":3,"meanings":["first time","beginning"],"freq":152,"comp":[["衤","刀"]],"t":445}},"sdata":[{"j":"↑秋風↑↓あきかぜ↓が↑立↑↓た↓ち|↑初↑↓そ↓める|。","e":"An autumn breeze begins to blow."}]}

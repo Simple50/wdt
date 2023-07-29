@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エチケット","p":true}],"sense":[{"gloss":"courtesy, etiquette, good manners, politeness","pos":["n"],"l":"fre: étiquette"},{"gloss":"(wine) label","pos":["n"]}]},"sdata":[{"j":"それは|エチケット|の↑問題↑↓もんだい↓だ。","e":"It's a matter of etiquette."},{"j":"↑彼↑↓かれ↓らが|エチケット|を↑知↑↓し↓らないことに↑彼女↑↓かのじょ↓はがっかりした。","e":"She was dismayed at their ignorance in etiquette."}]}

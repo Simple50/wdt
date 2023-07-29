@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"去就","p":true}],"r_ele":[{"r":"きょしゅう","p":true}],"sense":[{"gloss":"leaving or staying","pos":["n"]},{"gloss":"(one's) course of action, (one's) position, (one's) attitude","pos":["n"]}]},"sdata":[]}

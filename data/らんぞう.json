@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"濫造"},{"e":"乱造","p":true}],"r_ele":[{"r":"らんぞう","p":true}],"sense":[{"gloss":"overproduction, careless manufacture, churning out (substandard goods)","pos":["n","vs","vt"]}]},"sdata":[]}

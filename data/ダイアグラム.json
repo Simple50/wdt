@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダイアグラム","p":true},{"r":"ダイヤグラム"}],"sense":[{"gloss":"diagram","pos":["n"]}]},"sdata":[]}

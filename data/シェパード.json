@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シェパード","p":true},{"r":"セパード"}],"sense":[{"gloss":"shepherd","pos":["n"]},{"gloss":"German shepherd","pos":["n"],"x":["ジャーマンシェパード"]}]},"sdata":[{"j":"その|シェパード|は、びっこをひきながら↑道↑↓みち↓を↑歩↑↓ある↓いていた。","e":"The German Shepherd was limping down the street."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"断らず","p":true}],"r_ele":[{"r":"ことわらず","p":true}],"sense":[{"gloss":"without permission","pos":["exp"]}]},"sdata":[{"j":"ジョンは↑誰↑↓だれ↓にも↑断↑↓|ことわ↓らず|に、パイを↑数↑↓すう↓↑切↑↓き↓れ↑勝手↑↓がって↓に↑取↑↓と↓って↑食↑↓た↓べた。","e":"John helped himself to several pieces of pie without asking."}]}

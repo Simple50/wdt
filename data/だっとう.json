@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脱党","p":true}],"r_ele":[{"r":"だっとう","p":true}],"sense":[{"gloss":"defection from or leaving a (political) party","pos":["n","vs","vi"]}]},"sdata":[]}

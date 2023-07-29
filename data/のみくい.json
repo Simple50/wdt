@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飲み食い","p":true}],"r_ele":[{"r":"のみくい","p":true}],"sense":[{"gloss":"food and drink, eating and drinking","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑飲↑↓|の↓み↑食↑↓く↓い|するものが↑十分↑↓じゅうぶん↓ある↑限↑↓かぎ↓り↑彼↑↓かれ↓は↑何↑↓なに↓も↑気↑↓き↓にしない。","e":"He doesn't care, provided he has enough to eat and drink."}]}

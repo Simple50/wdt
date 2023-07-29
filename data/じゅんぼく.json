@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"純朴","p":true},{"e":"淳朴","i":["rK"]},{"e":"醇朴","i":["rK"]}],"r_ele":[{"r":"じゅんぼく","p":true}],"sense":[{"gloss":"simple and honest, unsophisticated, naive, homely","pos":["adj-na","n"]}]},"sdata":[]}

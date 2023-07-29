@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バトンタッチ","p":true},{"r":"バトン・タッチ"}],"sense":[{"gloss":"baton handoff, baton pass, passing the baton (in a relay race)","pos":["n","vs"],"f":["sports"],"l":"eng: baton touch"},{"gloss":"handing over (a job, responsibility over something, etc.), passing the baton","pos":["n","vs"],"m":["id"]}]},"sdata":[]}

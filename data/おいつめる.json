@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い詰める","p":true},{"e":"追いつめる"}],"r_ele":[{"r":"おいつめる","p":true}],"sense":[{"gloss":"to corner, to drive to the wall, to run down, to track down, to chase after","pos":["v1","vt"]}]},"sdata":[]}

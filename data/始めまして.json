@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初めまして","p":true},{"e":"始めまして","p":true}],"r_ele":[{"r":"はじめまして","p":true}],"sense":[{"gloss":"nice to meet you, I'm glad to make your acquaintance, how do you do?","pos":["exp"]}],"m":["pol","uk"]},"kdata":{"始":{"on":["シ"],"kun":["はじ.める","-はじ.める","はじ.まる"],"jlpt":4,"meanings":["begin","commence"],"freq":244,"comp":[["女","台"]],"t":637}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"それはさておき","p":true}],"sense":[{"gloss":"apart from that, to return to the topic, enough of that","pos":["exp"],"x":["扠置く"]}]},"sdata":[{"j":"|それはさておき|、↑他↑↓た↓に↑必要↑↓ひつよう↓なものはないか。","e":"Aside from that, is there anything else you want?"}]}

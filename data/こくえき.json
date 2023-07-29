@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国益","p":true}],"r_ele":[{"r":"こくえき","p":true}],"sense":[{"gloss":"national interest","pos":["n"]}]},"sdata":[]}

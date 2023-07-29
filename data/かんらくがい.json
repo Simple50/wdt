@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歓楽街","p":true}],"r_ele":[{"r":"かんらくがい","p":true}],"sense":[{"gloss":"pleasure quarter","pos":["n"]}]},"sdata":[]}

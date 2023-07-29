@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三味線","p":true}],"r_ele":[{"r":"しゃみせん","p":true},{"r":"さみせん"}],"sense":[{"gloss":"shamisen, samisen, three-stringed Japanese lute","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑三味線↑↓|しゃみせん|↓による↑新↑↓あたら↓しいジャズの↑演奏↑↓えんそう↓↑法↑↓ほう↓を↑始↑↓はじ↓めた。","e":"She originated a new way of playing jazz on the shamisen."}]}

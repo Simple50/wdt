@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"懐石料理","p":true}],"r_ele":[{"r":"かいせきりょうり","p":true}],"sense":[{"gloss":"traditional Japanese meal brought in courses","pos":["n"],"x":["会席料理"]},{"gloss":"tea-ceremony dishes","pos":["n"]}]},"sdata":[]}

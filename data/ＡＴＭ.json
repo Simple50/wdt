@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＡＴＭ","p":true}],"r_ele":[{"r":"エーティーエム","p":true}],"sense":[{"gloss":"automatic teller machine, ATM, automated teller machine","pos":["n"]},{"gloss":"asynchronous transfer mode, ATM","pos":["n"]},{"gloss":"anti-tank missile, ATM","pos":["n"]}]},"sdata":[]}

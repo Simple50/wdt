@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トランクス","p":true}],"sense":[{"gloss":"trunks (swimming, boxing, etc.)","pos":["n"]},{"gloss":"trunks (underwear), boxers, boxer shorts","pos":["n"]}]},"sdata":[]}

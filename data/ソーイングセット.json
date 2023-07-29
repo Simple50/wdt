@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ソーイングセット","p":true},{"r":"ソーイング・セット"}],"sense":[{"gloss":"sewing kit, sewing set","pos":["n"]}]},"sdata":[]}

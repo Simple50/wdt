@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"処遇","p":true}],"r_ele":[{"r":"しょぐう","p":true}],"sense":[{"gloss":"treatment (of a person), dealing with","pos":["n","vs","vt"]}]},"sdata":[]}

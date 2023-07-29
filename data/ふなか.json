@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不仲","p":true}],"r_ele":[{"r":"ふなか","p":true}],"sense":[{"gloss":"discord, (on) bad terms (with)","pos":["n","adj-no","adj-na"]}]},"sdata":[{"j":"↑結婚↑↓けっこん↓↑生活↑↓せいかつ↓は↑夫婦↑↓ふう|ふ↓↑仲↑↓なか|↓が↑良↑↓よ↓ければ↑天国↑↓てんごく↓であり、↑夫婦↑↓ふう|ふ↓↑仲↑↓なか|↓が↑悪↑↓わる↓ければこの↑世↑↓よ↓の↑地獄↑↓じごく↓である。","e":"Marriage, in peace, is this world's paradise; in strife, this life's purgatory."}]}

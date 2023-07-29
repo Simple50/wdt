@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"張り合い","p":true},{"e":"張合い"}],"r_ele":[{"r":"はりあい","p":true}],"sense":[{"gloss":"competition, rivalry","pos":["n"]},{"gloss":"something worth doing, something worthwhile","pos":["n"]}]},"sdata":[]}

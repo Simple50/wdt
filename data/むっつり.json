@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"むっつり","p":true}],"sense":[{"gloss":"sullenly, taciturnly, morosely, gloomily, silently","pos":["adv-to","adv","vs"],"m":["on-mim"]},{"gloss":"taciturn person, uncommunicative person","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は|むっつり|とした↑表情↑↓ひょうじょう↓を↑浮↑↓う↓かべていた。","e":"She had a sullen look on her face."}]}

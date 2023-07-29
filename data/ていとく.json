@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"提督","p":true}],"r_ele":[{"r":"ていとく","p":true}],"sense":[{"gloss":"admiral, commodore","pos":["n"]}]},"sdata":[{"j":"トラファルガー↑広場↑↓ひろば↓にはネルソン↑提督↑↓|ていとく|↓の↑彫像↑↓ちょうぞう↓がある。","e":"There is a statue of Nelson in Trafalgar Square."}]}

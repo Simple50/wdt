@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アベイラビリティ","p":true},{"r":"アベイラビリティー"}],"sense":[{"gloss":"availability","pos":["n"]}]},"sdata":[]}

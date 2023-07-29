@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"払い込む","p":true}],"r_ele":[{"r":"はらいこむ","p":true}],"sense":[{"gloss":"to deposit, to pay in","pos":["v5m","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平和部隊","p":true}],"r_ele":[{"r":"へいわぶたい","p":true}],"sense":[{"gloss":"the Peace Corps","pos":["n"]}]},"sdata":[{"j":"↑平和↑↓|へいわ↓↑部隊↑↓ぶたい|↓にいる↑頃↑↓ころ↓に↑彼女↑↓かのじょ↓は↑教職↑↓きょうしょく↓の↑第一歩↑↓だいいっぽ↓を↑踏↑↓ふ↓み↑出↑↓だ↓した。","e":"She got her feet wet teaching while she was in the Peace Corps."}]}

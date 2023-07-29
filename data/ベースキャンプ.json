@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベースキャンプ","p":true},{"r":"ベース・キャンプ"}],"sense":[{"gloss":"base camp","pos":["n"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓は↑吹雪↑↓ふぶき↓の↑中↑↓なか↓を|ベースキャンプ|に↑戻↑↓もど↓るのに↑苦労↑↓くろう↓した。","e":"We found it very hard going back to our base camp in the blizzard."}]}

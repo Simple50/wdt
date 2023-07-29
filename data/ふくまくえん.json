@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腹膜炎","p":true}],"r_ele":[{"r":"ふくまくえん","p":true}],"sense":[{"gloss":"peritonitis","pos":["n"]}]},"sdata":[]}

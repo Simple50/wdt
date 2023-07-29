@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"既成概念","p":true}],"r_ele":[{"r":"きせいがいねん","p":true}],"sense":[{"gloss":"stereotype, preconceived idea, preconceived notion","pos":["n"]}],"m":["yoji"]},"sdata":[{"j":"↑既成↑↓|きせい↓↑概念↑↓がいねん|↓を↑壊↑↓こわ↓そう！","e":"Let's break stereotypes!"}]}

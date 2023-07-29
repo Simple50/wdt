@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"葉桜","p":true}],"r_ele":[{"r":"はざくら","p":true}],"sense":[{"gloss":"cherry tree in leaf, cherry tree whose blossoms have fallen, revealing the young leaves","pos":["n"]}]},"sdata":[{"j":"↑桜↑↓さくら↓もすっかり↑葉桜↑↓|はざくら|↓になってしまいました。","e":"All of the blossoms have fallen from the cherry trees."}]}

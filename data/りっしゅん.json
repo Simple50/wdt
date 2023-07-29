@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立春","p":true}],"r_ele":[{"r":"りっしゅん","p":true}],"sense":[{"gloss":"first day of spring (according to the traditional lunisolar calendar, approx. February 4)","pos":["n"],"x":["二十四節気"]}]},"sdata":[]}

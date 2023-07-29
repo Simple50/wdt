@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"減反","p":true},{"e":"減段"}],"r_ele":[{"r":"げんたん","p":true}],"sense":[{"gloss":"reduction (of crop size), reduction of acreage (under cultivation)","pos":["n","vs","vt","vi"]}]},"sdata":[]}

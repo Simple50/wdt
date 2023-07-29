@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水彩画","p":true}],"r_ele":[{"r":"すいさいが","p":true}],"sense":[{"gloss":"watercolor painting, watercolour painting","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑水彩↑↓|すいさい↓↑画↑↓が|↓が↑好↑↓す↓きです。","e":"I like the picture painted in water colors."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"四分五裂","p":true}],"r_ele":[{"r":"しぶんごれつ","p":true},{"r":"しぶごれつ"}],"sense":[{"gloss":"torn asunder, disrupted and disorganized","pos":["n","vs"]}],"m":["yoji"]},"sdata":[]}

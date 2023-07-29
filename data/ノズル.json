@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノズル","p":true}],"sense":[{"gloss":"nozzle","pos":["n"]}]},"sdata":[]}

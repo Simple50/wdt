@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豊漁","p":true}],"r_ele":[{"r":"ほうりょう","p":true}],"sense":[{"gloss":"good catch, good haul","pos":["n"]}]},"sdata":[{"j":"インターネットは↑情報↑↓じょう|ほう↓↑量↑↓りょう|↓が↑多↑↓おお↓いので、↑使↑↓つか↓えない↑情報↑↓じょうほう↓も↑沢山↑↓たくさん↓あります。","e":"The Internet has a lot of information and thus also a lot of useless information."}]}

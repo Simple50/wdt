@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"退任","p":true}],"r_ele":[{"r":"たいにん","p":true}],"sense":[{"gloss":"retirement, resignation, stepping down","pos":["n","vs","vi"]}]},"sdata":[{"j":"あいつは↑本当↑↓ほんとう↓におめで|たい↑人間↑↓にん|げん↓だ。","e":"He is really a perfect idiot."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"惜しみ無く","p":true},{"e":"惜しみなく"}],"r_ele":[{"r":"おしみなく","p":true}],"sense":[{"gloss":"without stint, freely","pos":["adv"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑金↑↓きん↓を↑惜↑↓|お↓しみなく|↑使↑↓つか↓う。","e":"He is lavish with his money."}]}

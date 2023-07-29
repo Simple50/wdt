@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"純文学","p":true}],"r_ele":[{"r":"じゅんぶんがく","p":true}],"sense":[{"gloss":"pure literature, belles-lettres","pos":["n"]}]},"sdata":[]}

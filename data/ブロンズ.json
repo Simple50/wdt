@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブロンズ","p":true}],"sense":[{"gloss":"bronze","pos":["n","adj-no"]}]},"sdata":[{"j":"その↑像↑↓ぞう↓は|ブロンズ|で↑鋳造↑↓ちゅうぞう↓されていた。","e":"The statue was cast in bronze."},{"j":"↑彼女↑↓かのじょ↓は↑日焼↑↓ひや↓けして|ブロンズ|↑色↑↓しょく↓になった。","e":"The sun has bronzed her skin."}]}

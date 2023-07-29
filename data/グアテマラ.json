@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グアテマラ","p":true},{"r":"グァテマラ"}],"sense":[{"gloss":"Guatemala","pos":["n"]}]},"sdata":[]}

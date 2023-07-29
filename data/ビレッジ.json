@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビレッジ","p":true},{"r":"ヴィレッジ"}],"sense":[{"gloss":"village","pos":["n"]}]},"sdata":[]}

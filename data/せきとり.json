@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"関取","p":true}],"r_ele":[{"r":"せきとり","p":true}],"sense":[{"gloss":"ranking wrestler in the makuuchi (senior-grade) or juryo (junior-grade) divisions","pos":["n"],"f":["sumo"]}]},"sdata":[]}

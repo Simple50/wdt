@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山肌","p":true},{"e":"山膚"},{"e":"山はだ"}],"r_ele":[{"r":"やまはだ","p":true}],"sense":[{"gloss":"mountain's surface, bare surface of a mountain","pos":["n"]}]},"sdata":[]}

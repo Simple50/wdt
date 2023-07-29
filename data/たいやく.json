@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"対訳","p":true}],"r_ele":[{"r":"たいやく","p":true}],"sense":[{"gloss":"original text with its translation printed side by side or on opposite page","pos":["n","vs"]}]},"sdata":[{"j":"インドネシア↑語↑↓ご↓の↑文↑↓ぶん↓は↑英文↑↓えいぶん↓の↑対訳↑↓|たいやく|↓としては↑完璧↑↓かんぺき↓です。","e":"The Indonesian sentence is a perfect side by side translation of its English counterpart."}]}

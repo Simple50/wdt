@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直進","p":true}],"r_ele":[{"r":"ちょくしん","p":true}],"sense":[{"gloss":"going straight on, going straight ahead","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑直進↑↓|ちょくしん|↓してください。","e":"Go straight ahead."}]}

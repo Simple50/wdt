@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大っきい","p":true}],"r_ele":[{"r":"おっきい","p":true}],"sense":[{"gloss":"big, large, great","pos":["adj-i"],"x":["小っちゃい"]}],"m":["uk","col"]},"sdata":[{"j":"ブラジルって|おっきい|よね？","e":"Brazil is huge, right?"},{"j":"オーストラリアって|おっきい|よね？","e":"Australia is huge, right?"}]}

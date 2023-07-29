@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"田園都市","p":true}],"r_ele":[{"r":"でんえんとし","p":true}],"sense":[{"gloss":"garden city","pos":["n"]}]},"sdata":[]}

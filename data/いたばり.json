@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"板張り","p":true}],"r_ele":[{"r":"いたばり","p":true}],"sense":[{"gloss":"boarding, wooden floor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し倒す","p":true},{"e":"押倒す"},{"e":"押したおす"}],"r_ele":[{"r":"おしたおす","p":true}],"sense":[{"gloss":"to pin down, to knock down, to push (and hold) someone down (esp. with sexual connotations)","pos":["v5s","vt"]}]},"sdata":[]}

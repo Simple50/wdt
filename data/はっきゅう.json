@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発給","p":true}],"r_ele":[{"r":"はっきゅう","p":true}],"sense":[{"gloss":"issuance (e.g. of a passport), issuing","pos":["n","vs","vt"]}]},"sdata":[{"j":"ビザの↑再↑↓さい↓↑発給↑↓|はっきゅう|↓をお↑願↑↓ねが↓いしたいのですが。","e":"Could you please issue me a visa again?"},{"j":"↑私↑↓わたし↓は↑薄給↑↓|はっきゅう|↓で↑何↑↓なに↓とか↑暮↑↓く↓らしています。","e":"I manage to live on a small income."}]}

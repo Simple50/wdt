@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地割れ","p":true}],"r_ele":[{"r":"じわれ","p":true}],"sense":[{"gloss":"cracks or fissures in the ground","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑朱↑↓しゅ↓に↑交↑↓ま|じ↓われ|ば↑赤↑↓あか↓くなる。","e":"He who touches pitch shall be defiled therewith."}]}

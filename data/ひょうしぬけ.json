@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"拍子抜け","p":true},{"e":"拍子ぬけ","i":["sK"]},{"e":"拍子抜","i":["sK"]}],"r_ele":[{"r":"ひょうしぬけ","p":true}],"sense":[{"gloss":"anticlimax, let-down, disappointment, loss of interest","pos":["n","vs","vi","adj-no"]}]},"sdata":[{"j":"↑君↑↓きみ↓が↑来↑↓こ↓れないと↑聞↑↓き↓いたときは、↑拍子抜↑↓|ひょうしぬ↓け|してしまったよ。","e":"I was disappointed when I heard that you couldn't come."}]}

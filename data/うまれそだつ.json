@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生まれ育つ","p":true},{"e":"生れ育つ"}],"r_ele":[{"r":"うまれそだつ","p":true}],"sense":[{"gloss":"to be born and raised (in), to be born and brought up, to be born and bred","pos":["v5t","vi"]}]},"sdata":[]}

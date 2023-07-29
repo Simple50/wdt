@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホスピス","p":true}],"sense":[{"gloss":"hospice","pos":["n"]}]},"sdata":[]}

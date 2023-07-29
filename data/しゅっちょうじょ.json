@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出張所","p":true}],"r_ele":[{"r":"しゅっちょうじょ","p":true}],"sense":[{"gloss":"branch office, agency, sub-branch","pos":["n"]}]},"sdata":[]}

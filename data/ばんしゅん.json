@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"晩春","p":true}],"r_ele":[{"r":"ばんしゅん","p":true}],"sense":[{"gloss":"late spring","pos":["adv","n"]},{"gloss":"third month of the lunar calendar","pos":["adv","n"],"m":["obs"]}]},"sdata":[]}

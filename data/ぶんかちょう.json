@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文化庁","p":true}],"r_ele":[{"r":"ぶんかちょう","p":true}],"sense":[{"gloss":"Agency for Cultural Affairs","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一個人","p":true}],"r_ele":[{"r":"いっこじん","p":true},{"r":"いちこじん"}],"sense":[{"gloss":"private person, individual","pos":["n"]}]},"sdata":[]}

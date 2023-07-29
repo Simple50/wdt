@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"教則本","p":true}],"r_ele":[{"r":"きょうそくぼん","p":true}],"sense":[{"gloss":"manual, practice book","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"叢立ち"},{"e":"総立ち","p":true},{"e":"群立ち"}],"r_ele":[{"r":"そうだち","p":true},{"r":"むらだち"}],"sense":[{"gloss":"standing in a group, standing up in unison","pos":["n"]}]},"sdata":[]}

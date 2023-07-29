@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不実","p":true}],"r_ele":[{"r":"ふじつ","p":true}],"sense":[{"gloss":"perfidiousness, faithlessness, inconstancy, insincerity, falsehood","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑彼女↑↓かのじょ↓の↑不実↑↓|ふじつ|↓をたしなめた。","e":"He chided her for her unfaithfulness."}]}

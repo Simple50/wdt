@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"跳ね返る","p":true},{"e":"はね返る"}],"r_ele":[{"r":"はねかえる","p":true}],"sense":[{"gloss":"to rebound, to recoil, to spring back up, to bounce back","pos":["v5r","vi"]},{"gloss":"to splash","pos":["v5r","vi"]},{"gloss":"to have a repercussion, to have a reciprocal effect","pos":["v5r","vi"]}]},"sdata":[]}

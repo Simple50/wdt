@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ギャル","p":true}],"sense":[{"gloss":"(young) woman adhering to a fashion style usually characterized by dyed hair and gaudy clothing, gyaru","pos":["n"],"l":"eng: gal"},{"gloss":"gal, girl, young woman","pos":["n"],"m":["col"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"職業意識","p":true}],"r_ele":[{"r":"しょくぎょういしき","p":true}],"sense":[{"gloss":"professional sense","pos":["n"]}]},"sdata":[]}

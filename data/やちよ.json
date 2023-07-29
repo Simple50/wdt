@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"八千代","p":true}],"r_ele":[{"r":"やちよ","p":true}],"sense":[{"gloss":"very long period, forever","pos":["n"]},{"gloss":"eight thousand years","pos":["n"]}]},"sdata":[]}

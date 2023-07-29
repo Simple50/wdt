@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オルグ","p":true}],"sense":[{"gloss":"organizer, organiser","pos":["n"],"m":["abbr"],"x":["オルガナイザー"]},{"gloss":"organizing, organising, organization, organisation","pos":["n","vs","vt"]}]},"sdata":[]}

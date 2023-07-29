@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"読み直す","p":true},{"e":"読みなおす"}],"r_ele":[{"r":"よみなおす","p":true}],"sense":[{"gloss":"to read (a book, etc.) over again","pos":["v5s"]}]},"sdata":[]}

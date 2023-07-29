@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クック","p":true}],"sense":[{"gloss":"cook","pos":["n"]}]},"sdata":[{"j":"|クック|↑船長↑↓せんちょう↓はその↑原住民↑↓げんじゅうみん↓↑達↑↓たち↓の↑手厚↑↓てあつ↓いもてなしに↑感謝↑↓かんしゃ↓した。","e":"Captain Cook thanked the natives for their hospitality."},{"j":"|クック|↑船長↑↓せんちょう↓がそれらの↑島↑↓しま↓を↑発見↑↓はっけん↓した。","e":"Captain Cook discovered those islands."},{"j":"メアリーは|クック|ッと↑笑↑↓わら↓った。","e":"Mary giggled."}]}

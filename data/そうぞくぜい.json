@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相続税","p":true}],"r_ele":[{"r":"そうぞくぜい","p":true}],"sense":[{"gloss":"inheritance tax, death duty","pos":["n"]}]},"sdata":[{"j":"いったいどれくらいの↑相続↑↓|そうぞく↓↑税↑↓ぜい|↓を↑払↑↓はら↓うことになるんだろう。","e":"I really wonder how much the inheritance tax will amount to."}]}

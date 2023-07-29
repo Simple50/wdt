@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"科学技術庁","p":true}],"r_ele":[{"r":"かがくぎじゅつちょう","p":true}],"sense":[{"gloss":"Science and Technology Agency (1956-2001)","pos":["n"],"x":["文部科学省"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"膨らます","p":true}],"r_ele":[{"r":"ふくらます","p":true}],"sense":[{"gloss":"to swell, to expand, to inflate, to bulge","pos":["v5s","vt"]}]},"sdata":[{"j":"イースト↑菌↑↓きん↓がパン↑生地↑↓きじ↓を↑膨↑↓|ふく↓らます|。","e":"Yeast makes dough rise."}]}

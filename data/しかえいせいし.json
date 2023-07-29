@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歯科衛生士","p":true}],"r_ele":[{"r":"しかえいせいし","p":true}],"sense":[{"gloss":"dental hygienist","pos":["n"]}]},"sdata":[{"j":"↑椅子↑↓いす↓に↑横↑↓よこ↓たわる↑私↑↓わたし↓に、↑歯科↑↓|しか↓↑衛生↑↓えいせい↓↑士↑↓し|↓の↑女性↑↓じょせい↓が「はい、お↑口↑↓くち↓を↑開↑↓あ↓けてください」と↑言↑↓い↓ったのです。","e":"The woman dental hygienist said to me, lying down in the chair, \"Right, please open your mouth.\""}]}

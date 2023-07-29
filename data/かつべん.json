@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"活弁","p":true}],"r_ele":[{"r":"かつべん","p":true}],"sense":[{"gloss":"narrator in Japanese silent cinema","pos":["n"]}]},"sdata":[]}

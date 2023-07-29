@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軽減","p":true}],"r_ele":[{"r":"けいげん","p":true}],"sense":[{"gloss":"abatement, reduction","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑男性↑↓だんせい↓の↑割礼↑↓かつれい↓が、↑性器↑↓せいき↓ヘルペスや↑癌↑↓がん↓の↑原因↑↓げんいん↓にもなるウイルス↑感染↑↓かんせん↓のリスクを↑軽減↑↓|けいげん|↓します。","e":"Male circumcision decreases the risk of viral infections that cause herpes and cancer."}]}

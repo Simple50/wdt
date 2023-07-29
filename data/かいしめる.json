@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"買い占める","p":true},{"e":"買占める"}],"r_ele":[{"r":"かいしめる","p":true}],"sense":[{"gloss":"to buy up","pos":["v1","vt"]}]},"sdata":[]}

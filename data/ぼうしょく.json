@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暴食","p":true}],"r_ele":[{"r":"ぼうしょく","p":true}],"sense":[{"gloss":"overeating, gluttony","pos":["n","vs","vt"]}]},"sdata":[]}

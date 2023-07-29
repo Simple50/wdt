@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼け出される","p":true}],"r_ele":[{"r":"やけだされる","p":true}],"sense":[{"gloss":"to be burned out (of one's home)","pos":["v1","vi"]}]},"sdata":[]}

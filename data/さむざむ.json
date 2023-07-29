@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寒々","p":true},{"e":"寒寒"}],"r_ele":[{"r":"さむざむ","p":true}],"sense":[{"gloss":"wintry, very cold-looking (e.g. landscape)","pos":["adv-to","vs"]},{"gloss":"bleak (e.g. room, street), desolate, empty (of furnishings)","pos":["adv-to","vs"]}]},"sdata":[]}

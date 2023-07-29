@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピーピングトム","p":true},{"r":"ピーピング・トム"}],"sense":[{"gloss":"Peeping Tom","pos":["n"],"x":["覗き魔・のぞきま"]}]},"sdata":[]}

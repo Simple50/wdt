@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファイナル","p":true}],"sense":[{"gloss":"final","pos":["n"]}]},"sdata":[{"j":"|ファイナル|ファンタジーは↑映画↑↓えいが↓でなくゲームソフトです。","e":"Final Fantasy is not a movie, but a videogame."}]}

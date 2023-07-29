@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"策謀","p":true}],"r_ele":[{"r":"さくぼう","p":true}],"sense":[{"gloss":"strategy, artifice","pos":["n","vs","vt"]}]},"sdata":[]}

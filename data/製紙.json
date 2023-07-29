@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"製紙","p":true}],"r_ele":[{"r":"せいし","p":true}],"sense":[{"gloss":"papermaking, paper manufacture","pos":["n"]}]},"kdata":{"製":{"on":["セイ"],"jlpt":1,"meanings":["made in...","manufacture"],"freq":488,"comp":[["制","衣"]],"t":1920},"紙":{"on":["シ"],"kun":["かみ"],"jlpt":4,"meanings":["paper"],"freq":559,"comp":[["糸","氏"]],"t":1145}},"sdata":[]}

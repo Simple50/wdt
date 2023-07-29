@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貸し切り","p":true},{"e":"貸切り","p":true},{"e":"貸切"}],"r_ele":[{"r":"かしきり","p":true}],"sense":[{"gloss":"reserving (for exclusive use), (full) booking, chartering, block reservation","pos":["n","adj-no"]}]},"sdata":[{"j":"↑貸↑↓|か↓し↑切↑↓き↓り|バスを↑一↑↓いち↓↑台↑↓だい↓↑都合↑↓つごう↓して↑欲↑↓ほ↓しいんですが。","e":"I want to charter a bus."}]}

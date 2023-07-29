@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内科学","p":true}],"r_ele":[{"r":"ないかがく","p":true}],"sense":[{"gloss":"internal medicine","pos":["n"]}]},"sdata":[{"j":"↑仮説↑↓かせつ↓の|ない↑科学↑↓かがく|↓など↑想像↑↓そうぞう↓もできない。","e":"We cannot conceive science without a hypothesis."}]}

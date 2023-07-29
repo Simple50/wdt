@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジェスイット","p":true}],"sense":[{"gloss":"Jesuit","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピストン","p":true}],"sense":[{"gloss":"piston, plunger","pos":["n"]}]},"sdata":[{"j":"このシャフトは|ピストン|とつながっている。","e":"This shaft links with a piston."}]}

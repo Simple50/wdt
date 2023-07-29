@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィスカルポリシー","p":true},{"r":"フィスカル・ポリシー"}],"sense":[{"gloss":"fiscal policy","pos":["n"]}]},"sdata":[]}

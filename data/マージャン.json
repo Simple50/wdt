@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"麻雀","p":true},{"e":"麻将","i":["iK"]}],"r_ele":[{"r":"マージャン","p":true},{"r":"まーじゃん","i":["ik"]},{"r":"まあじゃん","i":["ik"]}],"sense":[{"gloss":"mah-jongg, mahjong","pos":["n"],"l":"chi: májiàng"}]},"sdata":[{"j":"↑麻雀↑↓|マージャン|↓が↑大好↑↓だいす↓きです。","e":"I like mahjong."}]}

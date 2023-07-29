@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卓越","p":true}],"r_ele":[{"r":"たくえつ","p":true}],"sense":[{"gloss":"preeminence, excellence, superiority, transcendence","pos":["n","vs","vi"]}]},"sdata":[{"j":"ピカソは↑卓越↑↓|たくえつ|↓した↑画家↑↓がか↓だ。","e":"Picasso is an eminent painter."},{"j":"スポーツと↑演芸↑↓えんげい↓の↑分野↑↓ぶんや↓でのオーストラリア↑人↑↓じん↓の↑卓越↑↓|たくえつ|↓。","e":"Australians excel at sports and entertainment."}]}

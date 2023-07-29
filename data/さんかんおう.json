@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三冠王","p":true}],"r_ele":[{"r":"さんかんおう","p":true}],"sense":[{"gloss":"winner of triple crown","pos":["n"],"f":["baseb"]}]},"sdata":[]}

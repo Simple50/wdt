@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大商い","p":true}],"r_ele":[{"r":"おおあきない","p":true}],"sense":[{"gloss":"heavy turnover (trading)","pos":["n"]}]},"sdata":[]}

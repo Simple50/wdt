@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"棄却","p":true}],"r_ele":[{"r":"ききゃく","p":true}],"sense":[{"gloss":"rejection, dismissal, turning down, abandoning, renunciation","pos":["n","vs","vt"]}]},"sdata":[]}

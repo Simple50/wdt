@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"即売","p":true}],"r_ele":[{"r":"そくばい","p":true}],"sense":[{"gloss":"sale on the spot","pos":["n","vs","vt"]}]},"sdata":[{"j":"その↑商品↑↓しょうひん↓は↑即売↑↓|そくばい|↓されるだろう。","e":"The goods will be sold on the spot."}]}

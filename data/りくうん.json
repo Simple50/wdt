@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陸運","p":true}],"r_ele":[{"r":"りくうん","p":true}],"sense":[{"gloss":"land transportation","pos":["n"]}]},"sdata":[]}

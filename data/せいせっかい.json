@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生石灰","p":true}],"r_ele":[{"r":"せいせっかい","p":true}],"sense":[{"gloss":"quick lime","pos":["n"]}]},"sdata":[]}

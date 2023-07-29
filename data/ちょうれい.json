@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"朝礼","p":true}],"r_ele":[{"r":"ちょうれい","p":true}],"sense":[{"gloss":"morning assembly (at a company, school, etc.), morning gathering","pos":["n"],"x":["終礼・しゅうれい"]}]},"sdata":[{"j":"うちの↑上司↑↓じょうし↓ときたら、↑朝令暮改↑↓|ちょうれい|ぼかい↓なんだから、↑仕事↑↓しごと↓がちっとも↑進↑↓すす↓まないよ。","e":"When it comes to my supervisor, he's very inconsistent, so we never get any work done."}]}

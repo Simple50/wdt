@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"オリーブ色","p":true},{"e":"オリーヴ色"}],"r_ele":[{"r":"オリーブいろ","p":true},{"r":"オリーヴいろ"}],"sense":[{"gloss":"olive (colour), olive brown","pos":["n","adj-no"]}]},"sdata":[]}

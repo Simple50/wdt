@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"身重","p":true}],"r_ele":[{"r":"みおも","p":true}],"sense":[{"gloss":"pregnant","pos":["adj-no","n"]}]},"sdata":[]}

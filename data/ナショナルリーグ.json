@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナショナルリーグ","p":true},{"r":"ナショナル・リーグ"}],"sense":[{"gloss":"National League","pos":["n"],"f":["baseb"],"x":["アメリカンリーグ"]}]},"sdata":[]}

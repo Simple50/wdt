@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"野外劇","p":true}],"r_ele":[{"r":"やがいげき","p":true}],"sense":[{"gloss":"pageant","pos":["n"]}]},"sdata":[]}

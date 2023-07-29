@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脱色","p":true}],"r_ele":[{"r":"だっしょく","p":true}],"sense":[{"gloss":"decolourization, decolorization, decolourisation, decolorisation, bleaching","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"サロンで↑髪↑↓かみ↓を↑脱色↑↓|だっしょく|↓してもらわないとな。","e":"I need to get my hair bleached at the salon."}]}

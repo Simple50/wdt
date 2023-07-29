@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前方後円墳","p":true}],"r_ele":[{"r":"ぜんぽうこうえんふん","p":true}],"sense":[{"gloss":"keyhole-shaped tumulus (form of ancient Imperial grave)","pos":["n"]}]},"sdata":[]}

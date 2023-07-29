@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"師範学校","p":true}],"r_ele":[{"r":"しはんがっこう","p":true}],"sense":[{"gloss":"normal school (Japan; 1872-1947), teachers' training college","pos":["n"]}],"m":["hist"]},"sdata":[]}

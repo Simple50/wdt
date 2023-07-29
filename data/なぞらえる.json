@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"準える","p":true},{"e":"擬える"},{"e":"准える"}],"r_ele":[{"r":"なぞらえる","p":true},{"r":"なずらえる"}],"sense":[{"gloss":"to liken to, to compare to","pos":["v1","vt"]},{"gloss":"to pattern after, to model after, to imitate","pos":["v1","vt"]}]},"sdata":[{"j":"↑本↑↓ほん↓は↑友↑↓とも↓に|なぞらえる|ことが↑出来↑↓でき↓る。","e":"A book can be compared to a friend."}]}

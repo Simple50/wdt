@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コロニー","p":true}],"sense":[{"gloss":"colony","pos":["n"]}]},"sdata":[{"j":"↑地球↑↓ちきゅう↓↑側↑↓がわ↓の↑圧政↑↓あっせい↓に↑苦↑↓くる↓しむ|コロニー|の↑人々↑↓ひとびと↓の↑中↑↓なか↓で、テロによる↑現状↑↓げんじょう↓↑打破↑↓だは↓を↑目論↑↓もくろ↓む↑勢力↑↓せいりょく↓が↑誕生↑↓たんじょう↓。","e":"Among the people of the colonies suffering under Earth's tyranny a force emerges intending to overthrow the status quo through terrorism."}]}

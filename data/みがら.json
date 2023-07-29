@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"身柄","p":true}],"r_ele":[{"r":"みがら","p":true}],"sense":[{"gloss":"one's person","pos":["n"]}]},"sdata":[{"j":"↑悪名↑↓あくめい↓↑高↑↓たか↓い↑反乱↑↓はんらん↓↑兵↑↓へい↓はついに↑捕↑↓と↓らえられ、↑拘置↑↓こうち↓↑所↑↓しょ↓に↑身柄↑↓|みがら|↓を↑拘束↑↓こうそく↓された。","e":"The notorious rebel was ultimately captured and confined to jail."},{"j":"↑君↑↓き|み↓がラ|ンチをおごる↑番↑↓ばん↓だよ。","e":"It's your turn to pay for lunch."}]}

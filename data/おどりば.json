@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"踊り場","p":true},{"e":"踊場"}],"r_ele":[{"r":"おどりば","p":true}],"sense":[{"gloss":"place for dancing, dance floor","pos":["n"]},{"gloss":"landing (of a staircase)","pos":["n"]},{"gloss":"leveling off (e.g. in the economy), cooling off, (period of) stagnation, lull, plateau","pos":["n"]}]},"sdata":[]}

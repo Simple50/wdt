@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"俳壇","p":true}],"r_ele":[{"r":"はいだん","p":true}],"sense":[{"gloss":"the world of the haiku","pos":["n"]}]},"sdata":[{"j":"サトヤマ↑先生↑↓せんせい↓の↑作品↑↓さくひん↓が↑俳壇↑↓|はいだん|↓に↑強烈↑↓きょうれつ↓なパンチを↑与↑↓あた↓えた。","e":"Mr. Satoyama's work made a big impression in the world of haiku."}]}

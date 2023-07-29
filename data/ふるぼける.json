@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"古ぼける","p":true},{"e":"古惚ける"}],"r_ele":[{"r":"ふるぼける","p":true}],"sense":[{"gloss":"to look old, to become musty, to wear out","pos":["v1","vi"]}]},"sdata":[]}

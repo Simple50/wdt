@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貧農","p":true}],"r_ele":[{"r":"ひんのう","p":true}],"sense":[{"gloss":"poor farmer, needy peasant","pos":["n"]}]},"sdata":[]}

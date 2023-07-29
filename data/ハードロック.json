@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハードロック","p":true},{"r":"ハード・ロック"}],"sense":[{"gloss":"hard rock","pos":["n"],"f":["music"]}]},"sdata":[{"j":"バイクに↑乗↑↓の↓るのと|ハードロック|のコンサートが↑大好↑↓だいす↓き。","e":"I love biking and hard rock concerts."}]}

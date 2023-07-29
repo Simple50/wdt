@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"改札口","p":true}],"r_ele":[{"r":"かいさつぐち","p":true}],"sense":[{"gloss":"ticket barrier, ticket gate, wicket","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑私↑↓わたし↓に↑別↑↓わか↓れを↑告↑↓つ↓げて↑改札↑↓|かいさつ↓↑口↑↓ぐち|↓を↑通↑↓とお↓って↑行↑↓い↓った。","e":"She said good-bye to me and went through the ticket gate."}]}

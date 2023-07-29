@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縮れる","p":true}],"r_ele":[{"r":"ちぢれる","p":true}],"sense":[{"gloss":"to be wavy, to be curled, to be frizzled","pos":["v1","vi"]}]},"kdata":{"縮":{"on":["シュク"],"kun":["ちぢ.む","ちぢ.まる","ちぢ.める","ちぢ.れる","ちぢ.らす"],"jlpt":1,"meanings":["shrink","contract","shrivel","wrinkle","reduce"],"freq":909,"comp":[["糸","宿"]],"t":2189}},"sdata":[]}

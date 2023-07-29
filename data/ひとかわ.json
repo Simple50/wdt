@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一皮","p":true}],"r_ele":[{"r":"ひとかわ","p":true}],"sense":[{"gloss":"unmasking","pos":["n"]}]},"sdata":[{"j":"↑文明↑↓ぶんめい↓↑人↑↓じん↓も↑一皮↑↓|ひとかわ|↓むけば↑野蛮↑↓やばん↓↑人↑↓じん↓。","e":"Look under the skin of a civilized man and you will find a barbarian."}]}

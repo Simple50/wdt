@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不世出","p":true}],"r_ele":[{"r":"ふせいしゅつ","p":true}],"sense":[{"gloss":"rare, extraordinary, unparalleled, unparallelled","pos":["n"]}]},"sdata":[]}

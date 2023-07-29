@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連関","p":true},{"e":"聯関","i":["rK"]}],"r_ele":[{"r":"れんかん","p":true}],"sense":[{"gloss":"connection, relation, linkage","pos":["n","vs","vi"]}]},"sdata":[]}

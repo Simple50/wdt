@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自動制御","p":true}],"r_ele":[{"r":"じどうせいぎょ","p":true}],"sense":[{"gloss":"automatic control","pos":["n","adj-no","vs","vt"]}]},"sdata":[]}

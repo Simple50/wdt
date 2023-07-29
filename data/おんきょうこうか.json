@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"音響効果","p":true}],"r_ele":[{"r":"おんきょうこうか","p":true}],"sense":[{"gloss":"sound effects","pos":["n"]},{"gloss":"acoustics","pos":["n"]}]},"sdata":[]}

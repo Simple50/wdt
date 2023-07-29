@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フリーエージェント","p":true},{"r":"フリー・エージェント"}],"sense":[{"gloss":"free agent","pos":["n"]}]},"sdata":[{"j":"アメリカでは↑毎年↑↓まいとし↓↑多数↑↓たすう↓の|フリーエージェント|がチームを↑移↑↓うつ↓る。","e":"In America, scores of free agents switch teams every year."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"話し込む","p":true},{"e":"話込む","p":true}],"r_ele":[{"r":"はなしこむ","p":true}],"sense":[{"gloss":"to be deep in talk","pos":["v5m","vt"]}]},"sdata":[]}

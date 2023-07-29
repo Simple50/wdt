@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"封建主義","p":true}],"r_ele":[{"r":"ほうけんしゅぎ","p":true}],"sense":[{"gloss":"feudalism","pos":["n"]}]},"sdata":[]}

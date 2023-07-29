@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原簿","p":true}],"r_ele":[{"r":"げんぼ","p":true}],"sense":[{"gloss":"ledger, original record, register","pos":["n"]}]},"sdata":[{"j":"↑事務↑↓じむ↓↑員↑↓いん↓は↑原簿↑↓|げんぼ|↓に↑記入↑↓きにゅう↓した。","e":"The clerk made an entry in his ledger."},{"j":"↑木↑↓き↓を↑叩↑↓たた↓いて↑壊↑↓こわ↓すと↑原木↑↓|げんぼ|く↓が↑手↑↓て↓に↑入↑↓はい↓る。","e":"Punching trees gives me wood."}]}

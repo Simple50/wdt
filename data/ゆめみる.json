@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夢見る","p":true},{"e":"夢みる"}],"r_ele":[{"r":"ゆめみる","p":true}],"sense":[{"gloss":"to dream (of)","pos":["v1","vt"]}]},"sdata":[]}

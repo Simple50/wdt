@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"霧雨","p":true}],"r_ele":[{"r":"きりさめ","p":true}],"sense":[{"gloss":"drizzle, light rain","pos":["n"]}]},"sdata":[{"j":"↑昨日↑↓きのう↓は、↑霧雨↑↓|きりさめ|↓が↑降↑↓ふ↓りました。","e":"Yesterday it drizzled."}]}

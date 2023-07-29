@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブレンド","p":true}],"sense":[{"gloss":"blend","pos":["n","vs","vt"]}]},"sdata":[{"j":"このコーヒーはジャワとブラジルの|ブレンド|だ。","e":"This coffee is a blend of Java and Brazil."},{"j":"↑私↑↓わたし↓はこの|ブレンド|のコーヒーが↑好↑↓す↓きだ。","e":"I like this blend of coffee."},{"j":"↑僕↑↓ぼく↓はダブルスのトーナメントで|ブレンド|ンと↑組↑↓く↓んだ。","e":"I teamed up with Brendon for the doubles tournament."}]}

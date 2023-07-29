@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シトロン","p":true}],"sense":[{"gloss":"citron (Citrus medica)","pos":["n"]}]},"sdata":[]}

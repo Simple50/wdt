@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アーバン","p":true}],"sense":[{"gloss":"urban","pos":["adj-f","n"]}]},"sdata":[]}

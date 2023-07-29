@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レポート","p":true},{"r":"リポート","p":true}],"sense":[{"gloss":"report, paper","pos":["n","vs","vt"]},{"gloss":"reportage","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の|リポート|はたった↑今↑↓いま↓↑提出↑↓ていしゅつ↓された。","e":"His report has just been handed in."}]}

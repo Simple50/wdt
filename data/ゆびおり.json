@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"指折り","p":true},{"e":"指折","i":["io"]}],"r_ele":[{"r":"ゆびおり","p":true}],"sense":[{"gloss":"leading, prominent, eminent, foremost, distinguished","pos":["adj-no"]},{"gloss":"counting on one's fingers","pos":["n"],"x":["指折り数える・1"]}]},"sdata":[{"j":"そこは↑世界↑↓せかい↓でも↑指折↑↓|ゆびお↓り|の↑美↑↓うつく↓しい↑街↑↓まち↓です。","e":"It's one of the most beautiful cities in the world."}]}

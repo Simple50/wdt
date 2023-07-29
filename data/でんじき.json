@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電磁気","p":true}],"r_ele":[{"r":"でんじき","p":true}],"sense":[{"gloss":"electromagnetism","pos":["n"],"f":["physics"]}]},"sdata":[]}

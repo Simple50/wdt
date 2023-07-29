@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"祭礼","p":true},{"e":"祭禮","i":["oK"]}],"r_ele":[{"r":"さいれい","p":true}],"sense":[{"gloss":"(religious) festival","pos":["n"]}]},"sdata":[]}

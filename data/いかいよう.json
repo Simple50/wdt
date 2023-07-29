@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"胃潰瘍","p":true}],"r_ele":[{"r":"いかいよう","p":true}],"sense":[{"gloss":"stomach ulcer, gastric ulcer","pos":["n"],"f":["med"]}]},"sdata":[]}

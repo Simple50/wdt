@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逸れる","p":true}],"r_ele":[{"r":"はぐれる","p":true}],"sense":[{"gloss":"to lose sight of (one's companions), to stray from","pos":["v1","vi"]},{"gloss":"to miss (one's chance to ...)","pos":["aux-v","v1"]}],"m":["uk"]},"sdata":[{"j":"↑誰↑↓だれ↓もがあまり↑構↑↓かま↓ってくれないとその↑少女↑↓しょうじょ↓|はぐれる|だろう。","e":"The little girl will go astray if no one cares much about her."}]}

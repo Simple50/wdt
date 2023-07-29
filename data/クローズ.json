@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クローズ","p":true}],"sense":[{"gloss":"close, closing","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑今日↑↓きょう↓この↑番組↑↓ばんぐみ↓でハッカーの↑問題↑↓もんだい↓を|クローズ|アップするんだって。","e":"This program is going to focus on computer hacking issues today."}]}

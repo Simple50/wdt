@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"約束通り","p":true},{"e":"約束どおり"}],"r_ele":[{"r":"やくそくどおり","p":true}],"sense":[{"gloss":"as promised","pos":["adv","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑約束↑↓|やくそく↓↑通↑↓どお↓り|にきた。","e":"He came according to his promise."},{"j":"↑約束↑↓|やくそく↓どおり|にピアノをひいた。","e":"She played the piano as promised."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メロドラマ","p":true},{"r":"メロ・ドラマ"}],"sense":[{"gloss":"melodrama, soap opera","pos":["n"]}]},"sdata":[{"j":"↑愛↑↓あい↓はフランスでは↑喜劇↑↓きげき↓、↑英国↑↓えいこく↓では↑悲劇↑↓ひげき↓、イタリアでは↑歌劇↑↓かげき↓、そしてドイツでは|メロドラマ|である。","e":"Love is a comedy in France, a tragedy in England, an opera in Italy, and a melodrama in Germany."}]}

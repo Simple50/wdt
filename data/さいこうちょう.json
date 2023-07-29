@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最高潮","p":true}],"r_ele":[{"r":"さいこうちょう","p":true}],"sense":[{"gloss":"climax, peak, zenith, apex","pos":["n"]}]},"sdata":[{"j":"↑試合↑↓しあい↓は↑最高潮↑↓|さいこうちょう|↓に↑達↑↓たっ↓した。","e":"The game came to a climax."}]}

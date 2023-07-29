@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売り込み","p":true},{"e":"売込み"}],"r_ele":[{"r":"うりこみ","p":true}],"sense":[{"gloss":"sales promotion, hard selling","pos":["n"]}]},"sdata":[]}

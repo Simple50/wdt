@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"在京","p":true}],"r_ele":[{"r":"ざいきょう","p":true}],"sense":[{"gloss":"being in the capital (i.e. Tokyo, or formerly Kyoto)","pos":["n","vs","vi","adj-no"]}]},"sdata":[{"j":"この↑計画↑↓けいかく↓については↑現在↑↓げん|ざい↓↑協議↑↓きょう|ぎ↓↑中↑↓ちゅう↓です。","e":"This plan is currently under consideration."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絡まる","p":true}],"r_ele":[{"r":"からまる","p":true}],"sense":[{"gloss":"to be entwined, to be involved","pos":["v5r","vi"]}]},"kdata":{"絡":{"on":["ラク"],"kun":["から.む","から.まる"],"jlpt":2,"meanings":["entwine","coil around","get caught in"],"freq":806,"comp":[["各","糸"]],"s":"終","t":1585}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪しからず","p":true},{"e":"不悪"}],"r_ele":[{"r":"あしからず","p":true}],"sense":[{"gloss":"don't get me wrong, but ..., I'm sorry","pos":["adv"]}],"m":["uk"]},"sdata":[{"j":"「↑三↑↓さん↓↑度目↑↓どめ↓の↑正直↑↓しょうじき↓になるか？ならないか？」「ブブー。↑外↑↓はず↓れ。なりませんでした。↑悪↑↓|あ↓しからず|」","e":"Third time's the charm? No? \"Err err. Wrong. Guess not. Sorry.\""}]}

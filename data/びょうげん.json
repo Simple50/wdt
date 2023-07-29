@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病原","p":true},{"e":"病源"}],"r_ele":[{"r":"びょうげん","p":true}],"sense":[{"gloss":"origin of an illness, cause of a disease, pathogenesis, etiology","pos":["n","adj-no"]}]},"sdata":[]}

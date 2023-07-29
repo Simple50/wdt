@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パロディー","p":true},{"r":"パロディ"}],"sense":[{"gloss":"parody","pos":["n"]}]},"sdata":[]}

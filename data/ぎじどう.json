@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"議事堂","p":true}],"r_ele":[{"r":"ぎじどう","p":true}],"sense":[{"gloss":"assembly hall, parliament house, diet building, capitol, houses of parliament, congress hall","pos":["n"]}]},"sdata":[{"j":"↑銀行↑↓ぎんこう↓スキャンダルは↑国会↑↓こっかい↓↑議事堂↑↓|ぎじどう|↓をかけぬけました。","e":"A banking scandal is sweeping across Capitol Hill."}]}

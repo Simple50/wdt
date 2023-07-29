@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小宇宙","p":true}],"r_ele":[{"r":"しょううちゅう","p":true}],"sense":[{"gloss":"microcosmos, microcosm","pos":["n"],"x":["大宇宙"]}]},"sdata":[]}

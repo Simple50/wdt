@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンダーパー","p":true},{"r":"アンダー・パー"}],"sense":[{"gloss":"under par","pos":["n"],"f":["golf"]}]},"sdata":[]}

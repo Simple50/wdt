@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バンパー","p":true}],"sense":[{"gloss":"bumper","pos":["n"]}]},"sdata":[{"j":"|バンパー|が↑衝撃↑↓しょうげき↓をいくらか↑吸収↑↓きゅうしゅう↓してくれた。","e":"The car bumper absorbed some of the impact."},{"j":"「これを↑見↑↓み↓て」「え？」「|バンパー|の↑右側↑↓みぎがわ↓に↑衝突↑↓しょうとつ↓↑痕↑↓こん↓があるわ」","e":"Take a look at this. \"Eh?\" \"There's an impact mark on the right-hand side of the bumper.\""}]}

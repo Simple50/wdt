@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"よくあるご質問","p":true},{"e":"良くあるご質問"},{"e":"よくある御質問"},{"e":"良くある御質問"}],"r_ele":[{"r":"よくあるごしつもん","p":true}],"sense":[{"gloss":"frequently asked questions, FAQ","pos":["exp","n"]}]},"sdata":[]}

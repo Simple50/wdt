@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"製鉄所","p":true}],"r_ele":[{"r":"せいてつじょ","p":true},{"r":"せいてつしょ"}],"sense":[{"gloss":"ironworks, steelworks","pos":["n"]}]},"sdata":[]}

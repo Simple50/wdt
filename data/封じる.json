@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"封じる","p":true}],"r_ele":[{"r":"ふうじる","p":true}],"sense":[{"gloss":"to seal (letter)","pos":["v1","vt"]},{"gloss":"to prevent, to forbid, to block","pos":["v1","vt"]}]},"kdata":{"封":{"on":["フウ","ホウ"],"jlpt":2,"meanings":["seal","closing"],"freq":1143,"comp":[["寸","圭"]],"d":["幇","幫","湗","葑","犎","篈"],"t":847}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダンプカー","p":true},{"r":"ダンプ・カー"}],"sense":[{"gloss":"dump truck","pos":["n"],"l":"eng: dump car"}]},"sdata":[{"j":"|ダンプカー|と↑正面↑↓しょうめん↓↑衝突↑↓しょうとつ↓したタクシーはぐしゃぐしゃになった。","e":"The taxi collided head-on with a dump truck and was badly crushed."}]}

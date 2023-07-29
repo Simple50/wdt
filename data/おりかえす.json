@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折り返す","p":true},{"e":"折返す"}],"r_ele":[{"r":"おりかえす","p":true}],"sense":[{"gloss":"to turn up (hem, sleeves, etc.), to fold back (e.g. page)","pos":["v5s","vt"]},{"gloss":"to turn back, to double back, to return","pos":["v5s","vt"]},{"gloss":"to loopback (a signal, message, etc.)","pos":["v5s","vt"],"f":["comp"]}]},"sdata":[]}

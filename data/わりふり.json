@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"割り振り","p":true},{"e":"割振り"},{"e":"割りふり"}],"r_ele":[{"r":"わりふり","p":true}],"sense":[{"gloss":"allocation, assignment, allotment","pos":["n"]}]},"sdata":[]}

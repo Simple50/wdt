@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バファリン","p":true},{"r":"バッファリン"}],"sense":[{"gloss":"Bufferin (brand of buffered aspirin)","pos":["n"],"f":["tradem"],"x":["アスピリン"]}]},"sdata":[]}

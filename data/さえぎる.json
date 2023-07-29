@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遮る","p":true}],"r_ele":[{"r":"さえぎる","p":true},{"r":"さいぎる","i":["ok"]}],"sense":[{"gloss":"to interrupt, to obstruct (a view, someone's way, etc.), to block (light, wind, etc.), to intercept, to cut off","pos":["v5r","vt"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓には↑行↑↓ゆ↓く↑手↑↓て↓を|さえぎる|ものは↑何↑↓なに↓もない。","e":"Nothing bars our way."}]}

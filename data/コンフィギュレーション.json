@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンフィギュレーション","p":true},{"r":"コンフィグレーション"},{"r":"コンフィギュレション"}],"sense":[{"gloss":"configuration","pos":["n"],"f":["comp"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"男っぽい","p":true}],"r_ele":[{"r":"おとこっぽい","p":true}],"sense":[{"gloss":"manly, boyish","pos":["adj-i"]}]},"sdata":[{"j":"ジョーの↑男↑↓|おとこ↓っぽい|においでルイーザは↑気分↑↓きぶん↓が↑悪↑↓わる↓くなってしまった。","e":"Joe's masculine smell made Louisa sick."}]}

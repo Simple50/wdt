@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総理府","p":true}],"r_ele":[{"r":"そうりふ","p":true}],"sense":[{"gloss":"Prime Minister's office, PMO","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンノゼ","p":true}],"sense":[{"gloss":"San Jose","pos":["n"]}]},"sdata":[]}

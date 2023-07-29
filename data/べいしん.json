@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"米審","p":true}],"r_ele":[{"r":"べいしん","p":true}],"sense":[{"gloss":"Rice Price Deliberative Council","pos":["n"]}],"m":["abbr"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"長唄","p":true}],"r_ele":[{"r":"ながうた","p":true}],"sense":[{"gloss":"long epic song with shamisen accompaniment (developed in Edo in the early 17th century)","pos":["n"]}]},"sdata":[]}

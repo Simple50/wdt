@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人事異動","p":true}],"r_ele":[{"r":"じんじいどう","p":true}],"sense":[{"gloss":"personnel change, personnel shift, reshuffle, (annual) staff reassignment","pos":["n"]}]},"sdata":[]}

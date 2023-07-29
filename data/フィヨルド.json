@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィヨルド","p":true}],"sense":[{"gloss":"fjord","pos":["n"]}]},"sdata":[]}

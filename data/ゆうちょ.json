@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"郵貯","p":true}],"r_ele":[{"r":"ゆうちょ","p":true}],"sense":[{"gloss":"postal (post-office) savings (deposit)","pos":["n"],"x":["郵便貯金・ゆうびんちょきん"]}],"m":["abbr"]},"sdata":[{"j":"↑決↑↓けっ↓して↑悠長↑↓|ゆうちょ|う↓な↑仕事↑↓しごと↓ではない。","e":"This certainly isn't a job where you can take it easy."}]}

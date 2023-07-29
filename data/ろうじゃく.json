@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老若","p":true}],"r_ele":[{"r":"ろうにゃく","p":true},{"r":"ろうじゃく","p":true}],"sense":[{"gloss":"young and old, all ages","pos":["n","adj-na"]}]},"sdata":[]}

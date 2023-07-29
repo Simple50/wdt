@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初挑戦","p":true}],"r_ele":[{"r":"はつちょうせん","p":true}],"sense":[{"gloss":"first challenge, first try","pos":["n"]}]},"sdata":[]}

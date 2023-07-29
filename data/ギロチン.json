@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ギロチン","p":true},{"r":"ギヨチン"}],"sense":[{"gloss":"guillotine","pos":["n"],"l":"fre"}]},"sdata":[]}

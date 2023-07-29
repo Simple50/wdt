@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刑事事件","p":true},{"e":"刑事々件"}],"r_ele":[{"r":"けいじじけん","p":true}],"sense":[{"gloss":"criminal case","pos":["n"]}]},"sdata":[]}

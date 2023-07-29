@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"馬主","p":true}],"r_ele":[{"r":"うまぬし","p":true},{"r":"ばしゅ"},{"r":"ばぬし"}],"sense":[{"gloss":"owner of a horse (esp. racehorse)","pos":["n"]},{"gloss":"registered owner (of a racehorse)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乾物","p":true},{"e":"干物","i":["rK"]}],"r_ele":[{"r":"かんぶつ","p":true}],"sense":[{"gloss":"dry provisions, dried food, dried goods, groceries","pos":["n"]}]},"sdata":[]}

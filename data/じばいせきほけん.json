@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自賠責保険","p":true}],"r_ele":[{"r":"じばいせきほけん","p":true}],"sense":[{"gloss":"mandatory vehicle liability insurance","pos":["n"],"x":["自動車損害賠償責任保険"]}],"m":["abbr"]},"sdata":[]}

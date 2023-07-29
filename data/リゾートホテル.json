@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リゾートホテル","p":true},{"r":"リゾート・ホテル"}],"sense":[{"gloss":"resort hotel","pos":["n"]}]},"sdata":[]}

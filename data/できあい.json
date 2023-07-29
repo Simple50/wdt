@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出来合い","p":true}],"r_ele":[{"r":"できあい","p":true}],"sense":[{"gloss":"ready-made, common-law (wife)","pos":["n"]}]},"sdata":[]}

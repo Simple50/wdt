@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪口","p":true},{"e":"惡口","i":["oK"]}],"r_ele":[{"r":"わるぐち","p":true},{"r":"わるくち","p":true},{"r":"あっこう","p":true}],"sense":[{"gloss":"slander, bad-mouthing, abuse, insult, speaking ill (of)","pos":["n","vs"]}]},"sdata":[]}

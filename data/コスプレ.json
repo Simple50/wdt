@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コスプレ","p":true}],"sense":[{"gloss":"cosplay (dressing up as a character from an anime, manga, video game, etc.)","pos":["n"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓は↑心↑↓こころ↓の↑中↑↓なか↓ではずっと|コスプレ|ーヤーですよ。","e":"I'm still a cosplayer at heart."},{"j":"|コスプレ|の↑魅力↑↓みりょく↓は↑何↑↓なん↓ですか？","e":"What do you like so much about cosplaying?"}]}

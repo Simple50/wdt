@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持ち合わせる","p":true},{"e":"持ちあわせる"},{"e":"持ち合せる"}],"r_ele":[{"r":"もちあわせる","p":true}],"sense":[{"gloss":"to happen to have on hand or in stock","pos":["v1","vt"]}]},"sdata":[]}

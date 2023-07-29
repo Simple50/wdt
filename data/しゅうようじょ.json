@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"収容所","p":true}],"r_ele":[{"r":"しゅうようじょ","p":true}],"sense":[{"gloss":"housing facility, detention facility, internment camp, prisoner-of-war camp, concentration camp, refugee camp, asylum","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑収容↑↓|しゅうよう↓↑所↑↓じょ|↓から↑脱走↑↓だっそう↓した。","e":"I escaped from the detention center."}]}

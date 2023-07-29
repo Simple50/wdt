@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヒップ","p":true}],"sense":[{"gloss":"hips, buttocks, backside","pos":["n"]},{"gloss":"hip, trendy, cool, with it","pos":["adj-na"]}]},"sdata":[]}

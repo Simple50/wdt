@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滞空","p":true}],"r_ele":[{"r":"たいくう","p":true}],"sense":[{"gloss":"staying in the air, remaining airborne","pos":["n"]}]},"sdata":[]}

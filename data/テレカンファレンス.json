@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テレカンファレンス","p":true},{"r":"テレコンファレンス"}],"sense":[{"gloss":"teleconference","pos":["n"]}]},"sdata":[]}

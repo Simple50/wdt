@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"論戦","p":true}],"r_ele":[{"r":"ろんせん","p":true}],"sense":[{"gloss":"battle of words, debate, argument, dispute","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑学生↑↓がくせい↓はもち|ろん↑先生↑↓せん|せい↓も↑来↑↓き↓た。","e":"The teacher as well as his students has come."},{"j":"↑彼女↑↓かのじょ↓は↑次々↑↓つぎつぎ↓と↑論戦↑↓|ろんせん|↓に↑挑↑↓いど↓んでいる。","e":"She has waded into one controversy after another."}]}

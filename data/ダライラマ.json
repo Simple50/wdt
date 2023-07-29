@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"達頼喇嘛","i":["ateji","rK"]}],"r_ele":[{"r":"ダライラマ","p":true},{"r":"ダライ・ラマ"}],"sense":[{"gloss":"Dalai Lama","pos":["n"]}],"m":["uk"]},"sdata":[]}

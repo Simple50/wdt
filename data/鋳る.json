@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鋳る","p":true},{"e":"鑄る","i":["oK"]}],"r_ele":[{"r":"いる","p":true}],"sense":[{"gloss":"to cast, to mint, to coin","pos":["v1","vt"]}]},"kdata":{"鋳":{"on":["チュウ","イ","シュ","シュウ"],"kun":["い.る"],"jlpt":1,"meanings":["casting","mint"],"freq":2005,"comp":[["金","寿"]],"t":2070}},"sdata":[]}

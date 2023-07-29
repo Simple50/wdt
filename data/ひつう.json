@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悲痛","p":true}],"r_ele":[{"r":"ひつう","p":true}],"sense":[{"gloss":"grief, sorrow, extreme sadness, heartbreak","pos":["n","adj-na","adj-no"]}]},"sdata":[{"j":"↑非↑↓|ひ↓↑通知↑↓つう|ち↓は↑恐↑↓こわ↓いから↑出↑↓で↓ない↑方↑↓ほう↓がいいよ。","e":"'Number-withheld' calls are scary, it's best not to answer them."}]}

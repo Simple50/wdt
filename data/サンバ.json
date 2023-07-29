@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンバ","p":true}],"sense":[{"gloss":"samba","pos":["n"],"l":"por"}]},"sdata":[{"j":"|サンバ|はブラジルのリズムですね。","e":"Samba is a Brazilian rhythm, isn't it?"},{"j":"ワルツと|サンバ|は↑踊↑↓おど↓りです。","e":"The waltz and the samba are dances."}]}

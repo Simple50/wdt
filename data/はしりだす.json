@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"走り出す","p":true},{"e":"走りだす"}],"r_ele":[{"r":"はしりだす","p":true}],"sense":[{"gloss":"to begin to run, to start running, to break into a run","pos":["v5s"]}]},"sdata":[]}

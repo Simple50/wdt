@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"航空母艦","p":true}],"r_ele":[{"r":"こうくうぼかん","p":true}],"sense":[{"gloss":"aircraft carrier","pos":["n"]}]},"sdata":[]}

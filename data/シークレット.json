@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シークレット","p":true}],"sense":[{"gloss":"secret","pos":["n"]}]},"sdata":[{"j":"|シークレット|・サービスは↑大統領↑↓だいとうりょう↓の↑安全↑↓あんぜん↓に↑責任↑↓せきにん↓を↑負↑↓お↓わなくてはならない。","e":"The Secret Service has to answer for the safety of the president."}]}

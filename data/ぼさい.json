@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"募債","p":true}],"r_ele":[{"r":"ぼさい","p":true}],"sense":[{"gloss":"raising of a loan, loan floatation","pos":["n","vs","vi"]}]},"sdata":[]}

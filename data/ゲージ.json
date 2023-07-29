@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゲージ","p":true}],"sense":[{"gloss":"gauge","pos":["n"]}]},"sdata":[{"j":"↑満腹↑↓まんぷく↓|ゲージ|のドラムスティックが↑３↑↓さん↓↑本↑↓ぼん↓↑以下↑↓いか↓になるとダッシュできなくなります。","e":"You can't sprint if your food bar is at under three drumsticks."},{"j":"↑満腹↑↓まんぷく↓|ゲージ|のドラムスティッが↑３↑↓みっ↓つ↑以下↑↓いか↓になるとダッシュできなくなっちゃうんだ。","e":"You can't sprint if your food bar is at under three drumsticks."}]}

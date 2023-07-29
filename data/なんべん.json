@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"何遍","p":true},{"e":"何べん"}],"r_ele":[{"r":"なんべん","p":true}],"sense":[{"gloss":"how many times, how often","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秋口","p":true}],"r_ele":[{"r":"あきぐち","p":true}],"sense":[{"gloss":"beginning of autumn, beginning of fall","pos":["n"]}]},"sdata":[]}

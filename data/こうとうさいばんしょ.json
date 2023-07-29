@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高等裁判所","p":true}],"r_ele":[{"r":"こうとうさいばんしょ","p":true}],"sense":[{"gloss":"High Court","pos":["n"]}]},"sdata":[]}

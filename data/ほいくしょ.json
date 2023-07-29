@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"保育所","p":true}],"r_ele":[{"r":"ほいくしょ","p":true},{"r":"ほいくじょ"}],"sense":[{"gloss":"nursery school, nursery","pos":["n"]}]},"sdata":[]}

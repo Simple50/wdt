@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恩典","p":true}],"r_ele":[{"r":"おんてん","p":true}],"sense":[{"gloss":"favour, favor, act of grace, special privilege","pos":["n"]}]},"sdata":[]}

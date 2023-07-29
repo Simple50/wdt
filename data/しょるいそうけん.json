@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書類送検","p":true}],"r_ele":[{"r":"しょるいそうけん","p":true}],"sense":[{"gloss":"sending documents to a prosecutor, filing charges","pos":["n","vs","vt"]}]},"sdata":[]}

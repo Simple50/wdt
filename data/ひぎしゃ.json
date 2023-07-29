@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"被疑者","p":true}],"r_ele":[{"r":"ひぎしゃ","p":true}],"sense":[{"gloss":"suspect","pos":["n"],"f":["law"],"x":["容疑者"]}]},"sdata":[]}

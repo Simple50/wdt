@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水冷","p":true}],"r_ele":[{"r":"すいれい","p":true}],"sense":[{"gloss":"water cooling","pos":["n","adj-no"]}]},"sdata":[]}

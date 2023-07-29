@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"群雄割拠","p":true}],"r_ele":[{"r":"ぐんゆうかっきょ","p":true}],"sense":[{"gloss":"rivalry of local warlords, a number of powerful (talented, influential) persons standing by themselves in a given field","pos":["n","vs"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"環状線","p":true}],"r_ele":[{"r":"かんじょうせん","p":true}],"sense":[{"gloss":"loop line, (transportation) belt line","pos":["n"]}]},"sdata":[]}

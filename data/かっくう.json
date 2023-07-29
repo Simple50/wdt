@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滑空","p":true}],"r_ele":[{"r":"かっくう","p":true}],"sense":[{"gloss":"gliding (through the air)","pos":["n","vs","vi"]}]},"sdata":[{"j":"カモメは↑風↑↓かぜ↓に↑乗↑↓の↓って↑滑空↑↓|かっくう|↓した。","e":"The sea gull glided on the wind."}]}

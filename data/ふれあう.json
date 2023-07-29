@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"触れ合う","p":true},{"e":"触れあう"}],"r_ele":[{"r":"ふれあう","p":true}],"sense":[{"gloss":"to come into contact with, to touch (each other), to have a brush with","pos":["v5u","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓には↑子供↑↓こども↓と↑触↑↓|ふ↓れ↑合↑↓あ↓う|↑時間↑↓じかん↓がなかった。","e":"He didn't have time to spend with his children."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刈り込む","p":true},{"e":"刈込む"},{"e":"刈りこむ","i":["sK"]}],"r_ele":[{"r":"かりこむ","p":true}],"sense":[{"gloss":"to prune, to trim, to cut back, to clip","pos":["v5m","vt"]},{"gloss":"to reap (a crop) and put into storage, to harvest","pos":["v5m","vt"]},{"gloss":"to prune (a manuscript), to cut down","pos":["v5m","vt"]}]},"sdata":[]}

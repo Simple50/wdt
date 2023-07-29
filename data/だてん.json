@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打点","p":true}],"r_ele":[{"r":"だてん","p":true}],"sense":[{"gloss":"runs batted in, RBI","pos":["n"],"f":["baseb"]},{"gloss":"position of a ball when struck (e.g. in tennis, volleyball)","pos":["n"],"f":["sports"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑長↑↓なが↓い↑間↑↓あい|だ↓↑天井↑↓てん|じょう↓を↑見↑↓み↓つめていた。","e":"He gazed at the ceiling for a long time."}]}

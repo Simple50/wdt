@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"住み込む","p":true}],"r_ele":[{"r":"すみこむ","p":true}],"sense":[{"gloss":"to be a live-in employee, to live in, to live with","pos":["v5m","vi"]}]},"sdata":[]}

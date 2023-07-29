@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"封書","p":true}],"r_ele":[{"r":"ふうしょ","p":true}],"sense":[{"gloss":"sealed letter","pos":["n"]}]},"sdata":[]}

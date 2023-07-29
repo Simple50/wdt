@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小槌","p":true}],"r_ele":[{"r":"こづち","p":true}],"sense":[{"gloss":"(small) mallet, gavel","pos":["n"]}]},"sdata":[]}

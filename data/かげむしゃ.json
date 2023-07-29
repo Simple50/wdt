@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"影武者","p":true},{"e":"陰武者","i":["rK"]}],"r_ele":[{"r":"かげむしゃ","p":true}],"sense":[{"gloss":"body double, double","pos":["n"]},{"gloss":"wire puller, person behind the scenes, shadow commander","pos":["n"]}]},"sdata":[]}

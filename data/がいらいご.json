@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外来語","p":true}],"r_ele":[{"r":"がいらいご","p":true}],"sense":[{"gloss":"loanword (in Japanese, esp. those of Western origin), foreign-origin word","pos":["n"],"f":["ling"]}]},"sdata":[{"j":"↑最近↑↓さいきん↓の↑日本語↑↓にほんご↓って、↑外来↑↓|がいらい↓↑語↑↓ご|↓が↑多↑↓おお↓いよね。","e":"Modern Japanese has a lot of foreign words."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コリア","p":true}],"sense":[{"gloss":"Korea","pos":["n"],"x":["朝鮮"]}]},"sdata":[{"j":"|コリア|ンダー・↑唐辛子↑↓とうがらし↓・↑生姜↑↓しょうが↓を↑持↑↓も↓ってくるのを↑忘↑↓わす↓れないで。","e":"Don't forget to bring coriander, chili peppers, and ginger."},{"j":"|コリア|ンダー、チリペッパー、ジンジャーを↑忘↑↓わす↓れずに↑持↑↓も↓ってきてよ。","e":"Don't forget to bring coriander, chili peppers, and ginger."}]}

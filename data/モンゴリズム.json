@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モンゴリズム","p":true}],"sense":[{"gloss":"mongolism, Down's syndrome","pos":["n"],"x":["ダウン症候群"]}],"m":["obs"]},"sdata":[]}

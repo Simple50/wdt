@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書誌学","p":true}],"r_ele":[{"r":"しょしがく","p":true}],"sense":[{"gloss":"bibliography (study of books), bibliology","pos":["n"]}]},"sdata":[]}

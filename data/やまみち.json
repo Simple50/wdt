@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山道","p":true}],"r_ele":[{"r":"やまみち","p":true},{"r":"さんどう"},{"r":"せんどう"}],"sense":[{"gloss":"mountain road, mountain trail","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"半周","p":true}],"r_ele":[{"r":"はんしゅう","p":true}],"sense":[{"gloss":"semicircle, hemicycle, half globe","pos":["n"]},{"gloss":"to go halfway round (e.g. the earth)","pos":["vs"]}]},"sdata":[{"j":"トムは↑模範↑↓も|はん↓↑囚↑↓しゅう|↓だった。","e":"Tom was a model inmate."}]}

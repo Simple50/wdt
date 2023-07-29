@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"丸見え","p":true},{"e":"まる見え"},{"e":"丸みえ"}],"r_ele":[{"r":"まるみえ","p":true}],"sense":[{"gloss":"full view, plain sight, completely visible","pos":["n","adj-no"]}]},"sdata":[]}

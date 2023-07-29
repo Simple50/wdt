@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下唇","p":true}],"r_ele":[{"r":"したくちびる","p":true},{"r":"かしん"}],"sense":[{"gloss":"lower lip","pos":["n"]}]},"sdata":[]}

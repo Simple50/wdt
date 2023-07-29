@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シリンジ","p":true}],"sense":[{"gloss":"syringe","pos":["n"]}]},"sdata":[]}

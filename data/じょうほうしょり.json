@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"情報処理","p":true}],"r_ele":[{"r":"じょうほうしょり","p":true}],"sense":[{"gloss":"data processing, information processing","pos":["n"],"f":["comp"]}]},"sdata":[]}

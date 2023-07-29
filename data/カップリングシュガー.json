@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カップリングシュガー","p":true},{"r":"カップリング・シュガー"}],"sense":[{"gloss":"coupling sugar","pos":["n"]}]},"sdata":[]}

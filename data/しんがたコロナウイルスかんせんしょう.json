@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新型コロナウイルス感染症","p":true}],"r_ele":[{"r":"しんがたコロナウイルスかんせんしょう","p":true}],"sense":[{"gloss":"COVID-19, coronavirus disease 2019","pos":["n"],"x":["新型コロナウイルス"]}]},"sdata":[]}

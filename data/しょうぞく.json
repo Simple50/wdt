@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"装束","p":true}],"r_ele":[{"r":"しょうぞく","p":true},{"r":"そうぞく","i":["ok"]},{"r":"そうずく","i":["ok"]}],"sense":[{"gloss":"costume, dress, attire","pos":["n"]}]},"sdata":[]}

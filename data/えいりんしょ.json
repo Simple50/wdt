@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"営林署","p":true}],"r_ele":[{"r":"えいりんしょ","p":true}],"sense":[{"gloss":"forest service field office","pos":["n"]}]},"sdata":[]}

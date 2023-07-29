@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粗雑","p":true}],"r_ele":[{"r":"そざつ","p":true}],"sense":[{"gloss":"coarse, rough, crude","pos":["adj-na","n"]}]},"sdata":[{"j":"その↑方法↑↓ほうほう↓は↑粗雑↑↓|そざつ|↓なものであったが↑効果↑↓こうか↓↑的↑↓てき↓だった。","e":"The method was crude, but very effective."}]}

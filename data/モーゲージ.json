@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モーゲージ","p":true},{"r":"モーゲッジ"},{"r":"モアゲージ"}],"sense":[{"gloss":"mortgage","pos":["n"]}]},"sdata":[]}

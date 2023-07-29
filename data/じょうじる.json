@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗じる","p":true}],"r_ele":[{"r":"じょうじる","p":true}],"sense":[{"gloss":"to take advantage of, to follow blindly","pos":["v1"]},{"gloss":"to multiply","pos":["v1"],"f":["math"]}]},"sdata":[]}

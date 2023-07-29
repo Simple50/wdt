@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シニア","p":true}],"sense":[{"gloss":"senior","pos":["n"]}]},"sdata":[]}

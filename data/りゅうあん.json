@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"硫安","p":true}],"r_ele":[{"r":"りゅうあん","p":true}],"sense":[{"gloss":"ammonium sulfate","pos":["n"]}]},"sdata":[{"j":"↑龍安寺↑↓|りゅうあん|じ↓の↑岩↑↓いわ↓は↑何↑↓なん↓↑個↑↓こ↓↑見↑↓み↓えるの？","e":"How many rocks can you see at Ryoanji?"}]}

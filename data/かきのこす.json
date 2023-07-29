@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書き残す","p":true},{"e":"書残す"}],"r_ele":[{"r":"かきのこす","p":true}],"sense":[{"gloss":"to leave (a note, will, etc.) behind","pos":["v5s","vt"]},{"gloss":"to leave (a manuscript, etc.) unfinished, to leave half-written","pos":["v5s","vt"]},{"gloss":"to forget to write, to leave out","pos":["v5s","vt"]}]},"sdata":[]}

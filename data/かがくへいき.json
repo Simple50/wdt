@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"化学兵器","p":true}],"r_ele":[{"r":"かがくへいき","p":true}],"sense":[{"gloss":"chemical weapon","pos":["n"]}]},"sdata":[{"j":"↑条約↑↓じょうやく↓は↑化学↑↓|かがく↓↑兵器↑↓へいき|↓の↑使用↑↓しよう↓を↑禁止↑↓きんし↓している。","e":"The treaty bans the use of chemical weapons."}]}

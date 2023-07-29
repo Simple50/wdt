@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カラーコーディネーター","p":true},{"r":"カラー・コーディネーター"}],"sense":[{"gloss":"color coordinator, colour coordinator","pos":["n"]}]},"sdata":[]}

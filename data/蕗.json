@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蕗","p":true},{"e":"苳"},{"e":"款冬"},{"e":"菜蕗"}],"r_ele":[{"r":"ふき","p":true},{"r":"ふふき","i":["ok"]},{"r":"フキ"}],"sense":[{"gloss":"giant butterbur (Petasites japonicus), Japanese sweet coltsfoot","pos":["n"]}],"m":["uk"]},"kdata":{"蕗":{"on":["ロ","ル"],"kun":["ふき"],"meanings":["butterbur","bog rhubarb"],"comp":[["艹","路"]],"jlpt":0,"freq":3568}},"sdata":[]}

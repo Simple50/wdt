@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特撮","p":true}],"r_ele":[{"r":"とくさつ","p":true}],"sense":[{"gloss":"special effects, SFX","pos":["n","vs"],"m":["abbr"],"x":["特殊撮影"]},{"gloss":"tokusatsu (genre of live-action film or television drama that makes heavy use of special effects, e.g. Godzilla)","pos":["n"]}]},"sdata":[]}

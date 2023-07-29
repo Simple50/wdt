@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独断専行","p":true}],"r_ele":[{"r":"どくだんせんこう","p":true}],"sense":[{"gloss":"acting arbitrarily on one's own authority, acting arbitrarily without consultation","pos":["n","vs","vi"]}],"m":["yoji"]},"sdata":[]}

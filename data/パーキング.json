@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パーキング","p":true}],"sense":[{"gloss":"parking","pos":["n"]}]},"sdata":[{"j":"|パーキング|メーターに↑使↑↓つか↓いたいんです。","e":"I need it for the parking meter."}]}

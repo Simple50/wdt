@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブリーフ","p":true}],"sense":[{"gloss":"briefs","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓が|ブリーフ|ケースを↑脇↑↓わき↓に↑抱↑↓かか↓えてやってくるのが↑見↑↓み↓えた。","e":"I saw him coming with his briefcase under his arm."},{"j":"トムは↑机↑↓つくえ↓の↑上↑↓じょう↓に|ブリーフ|ケースを↑置↑↓お↓き↑忘↑↓わす↓れてきた。","e":"Tom left his briefcase on his desk."}]}

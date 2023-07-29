@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アスレチックス","p":true},{"r":"アスレティックス"}],"sense":[{"gloss":"athletics, sports","pos":["n"],"x":["アスレチック・1"]}]},"sdata":[]}

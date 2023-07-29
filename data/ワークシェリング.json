@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワークシェアリング"},{"r":"ワークシェリング","p":true}],"sense":[{"gloss":"work-sharing","pos":["n"]}]},"sdata":[]}

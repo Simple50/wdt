@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下っ腹","p":true}],"r_ele":[{"r":"したっぱら","p":true}],"sense":[{"gloss":"abdomen, stomach, under parts","pos":["n"]}]},"sdata":[]}

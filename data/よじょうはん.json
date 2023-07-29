@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"四畳半","p":true}],"r_ele":[{"r":"よじょうはん","p":true}],"sense":[{"gloss":"four and a half tatami mats, four-and-a-half-mat room","pos":["n"]},{"gloss":"small room esp. for assignations","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プリンセス","p":true}],"sense":[{"gloss":"princess","pos":["n"]}]},"sdata":[]}

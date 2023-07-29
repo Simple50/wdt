@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"背く","p":true},{"e":"叛く"}],"r_ele":[{"r":"そむく","p":true}],"sense":[{"gloss":"to run counter to, to go against, to disobey, to infringe","pos":["v5k","vi"]}]},"sdata":[{"j":"↑静↑↓しず↓かにして。↑明日↑↓あした↓こ|そ↑酬↑↓むく|↓われます。","e":"Stay calm. You'll have your reward tomorrow."}]}

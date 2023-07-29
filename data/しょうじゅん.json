@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"照準","p":true}],"r_ele":[{"r":"しょうじゅん","p":true}],"sense":[{"gloss":"sight (e.g. of a gun), aim, alignment","pos":["n"]}]},"sdata":[]}

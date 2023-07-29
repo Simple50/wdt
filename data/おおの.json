@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大野","p":true}],"r_ele":[{"r":"おおの","p":true}],"sense":[{"gloss":"large field","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓をランドルフ↑社↑↓しゃ↓の↑大野↑↓|おおの|↓↑氏↑↓し↓に↑紹介↑↓しょうかい↓していただけませんか。","e":"Could you introduce me to Mr Ono of Randolph, Ltd?"}]}

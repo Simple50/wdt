@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"少年院","p":true}],"r_ele":[{"r":"しょうねんいん","p":true}],"sense":[{"gloss":"reformatory, juvenile training school, reform school, youth detention center (centre)","pos":["n"]}]},"sdata":[]}

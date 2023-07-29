@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"月形","p":true}],"r_ele":[{"r":"つきがた","p":true}],"sense":[{"gloss":"crescent shape","pos":["n"]}]},"sdata":[{"j":"↑年月↑↓とし|つき↓が↑経↑↓た|↓った。","e":"Years passed."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼却","p":true}],"r_ele":[{"r":"しょうきゃく","p":true}],"sense":[{"gloss":"incineration, destroy by fire","pos":["n","vs","vt"]}]},"sdata":[]}

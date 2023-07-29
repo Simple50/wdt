@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"墓所","p":true}],"r_ele":[{"r":"ぼしょ"},{"r":"はかしょ"},{"r":"はかどころ","p":true}],"sense":[{"gloss":"graveyard","pos":["n"]}]},"sdata":[]}

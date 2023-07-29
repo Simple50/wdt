@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"美顔","p":true}],"r_ele":[{"r":"びがん","p":true}],"sense":[{"gloss":"beautiful face","pos":["n"]}]},"sdata":[{"j":"ジェニファーには↑審美↑↓しん|び↓↑眼↑↓がん|↓がある。","e":"Jennifer has a good eye for beauty."}]}

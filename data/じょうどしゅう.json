@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浄土宗","p":true}],"r_ele":[{"r":"じょうどしゅう","p":true}],"sense":[{"gloss":"Pure Land sect (of Buddhism), Jodo (sect)","pos":["n"]}]},"sdata":[]}

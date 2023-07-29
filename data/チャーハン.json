@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"炒飯"}],"r_ele":[{"r":"チャーハン","p":true}],"sense":[{"gloss":"Chinese-style fried rice","pos":["n"],"f":["food"],"l":"chi: chǎofàn"}],"m":["uk"]},"sdata":[{"j":"トムは|チャーハン|を↑食↑↓た↓べた。","e":"Tom ate fried rice."},{"j":"|チャーハン|が↑喰↑↓く↓いてー。","e":"I want to eat fried rice."}]}

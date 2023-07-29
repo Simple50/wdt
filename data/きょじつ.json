@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虚実","p":true}],"r_ele":[{"r":"きょじつ","p":true}],"sense":[{"gloss":"falsehood and truth, fiction and fact","pos":["n"]}]},"sdata":[]}

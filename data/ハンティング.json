@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハンティング","p":true}],"sense":[{"gloss":"hunting","pos":["n"]}]},"sdata":[]}

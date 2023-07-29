@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浪花節","p":true}],"r_ele":[{"r":"なにわぶし","p":true}],"sense":[{"gloss":"naniwabushi, variety of sung narrative popular during the Edo period","pos":["n"]}]},"sdata":[]}

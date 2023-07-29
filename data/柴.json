@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"柴","p":true}],"r_ele":[{"r":"しば","p":true}],"sense":[{"gloss":"brushwood, firewood","pos":["n"]}]},"kdata":{"柴":{"on":["サイ","シ"],"kun":["しば"],"meanings":["brush","firewood"],"freq":1638,"comp":[["此","木"]],"jlpt":0,"t":1229}},"sdata":[]}

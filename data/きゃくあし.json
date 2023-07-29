@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"客足","p":true}],"r_ele":[{"r":"きゃくあし","p":true}],"sense":[{"gloss":"customer traffic, customers, custom","pos":["n"]}]},"sdata":[{"j":"↑客足↑↓|きゃくあし|↓が↑遠↑↓とお↓のいた。","e":"Customers stopped coming to our shop."}]}

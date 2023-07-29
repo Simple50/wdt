@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国民年金","p":true}],"r_ele":[{"r":"こくみんねんきん","p":true}],"sense":[{"gloss":"national pension, government pension system","pos":["n","adj-no"]}]},"sdata":[]}

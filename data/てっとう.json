@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄塔","p":true}],"r_ele":[{"r":"てっとう","p":true}],"sense":[{"gloss":"steel tower","pos":["n"]},{"gloss":"electricity pylon, transmission tower","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑徹頭徹尾↑↓|てっとう|てつび↓あなたを↑支持↑↓しじ↓してきました。","e":"I have supported you throughout."}]}

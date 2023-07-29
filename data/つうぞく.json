@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通俗","p":true}],"r_ele":[{"r":"つうぞく","p":true}],"sense":[{"gloss":"popular, common","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

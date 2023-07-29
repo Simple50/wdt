@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱読","p":true},{"e":"濫読"}],"r_ele":[{"r":"らんどく","p":true}],"sense":[{"gloss":"indiscriminate reading, unsystematic reading, desultory reading, reading at random","pos":["n","vs","vt"]}]},"sdata":[]}

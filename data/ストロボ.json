@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ストロボ","p":true}],"sense":[{"gloss":"strobe lamp, stroboscope, stroboscopic lamp","pos":["n","adj-no"],"l":"eng: strobo"},{"gloss":"(camera) flash","pos":["n"]}]},"sdata":[{"j":"ここで|ストロボ|↑撮影↑↓さつえい↓をしてもいいですか。","e":"Is it all right to use a flash here?"}]}

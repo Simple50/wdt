@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バージン","p":true},{"r":"ヴァージン"}],"sense":[{"gloss":"virgin","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"饒舌"},{"e":"冗舌","p":true}],"r_ele":[{"r":"じょうぜつ","p":true},{"r":"にょうぜつ","i":["ok"]}],"sense":[{"gloss":"talkativeness, garrulity, loquacity","pos":["n","adj-na"]}]},"sdata":[{"j":"↑男↑↓おとこ↓の↑子↑↓こ↓は↑決↑↓けっ↓して↑饒舌↑↓|じょうぜつ|↓な↑方↑↓かた↓ではなかった。","e":"The boy certainly wasn't talkative."}]}

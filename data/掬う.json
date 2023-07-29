@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"掬う","p":true},{"e":"抄う","i":["rK"]}],"r_ele":[{"r":"すくう","p":true}],"sense":[{"gloss":"to scoop, to ladle out","pos":["v5u","vt"]}],"m":["uk"]},"kdata":{"掬":{"on":["キク","コク"],"kun":["きく.す","むす.ぶ","すく.う","たなごころ"],"meanings":["scoop up water with the hand"],"comp":[["匊","扌"]],"jlpt":0,"freq":3397}},"sdata":[]}

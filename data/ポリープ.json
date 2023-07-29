@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポリープ","p":true},{"r":"ポリプ"}],"sense":[{"gloss":"polyp","pos":["n"],"f":["med"]},{"gloss":"polyp","pos":["n"],"f":["zool"]}]},"sdata":[{"j":"↑鼻↑↓はな↓に|ポリープ|があるようです。","e":"I'm afraid I have a polyp in my nose."}]}

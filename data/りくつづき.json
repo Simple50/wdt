@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陸続き","p":true}],"r_ele":[{"r":"りくつづき","p":true}],"sense":[{"gloss":"being joined by land","pos":["n","adj-no"]}]},"sdata":[]}

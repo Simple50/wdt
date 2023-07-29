@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"法制局","p":true}],"r_ele":[{"r":"ほうせいきょく","p":true}],"sense":[{"gloss":"Cabinet Legislation Bureau","pos":["n"]}]},"sdata":[]}

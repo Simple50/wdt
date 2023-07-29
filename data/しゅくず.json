@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縮図","p":true}],"r_ele":[{"r":"しゅくず","p":true}],"sense":[{"gloss":"reduced drawing, miniature copy","pos":["n"]},{"gloss":"microcosm, microcosmos","pos":["n"]}]},"sdata":[]}

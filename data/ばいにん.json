@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売人","p":true}],"r_ele":[{"r":"ばいにん","p":true}],"sense":[{"gloss":"trader, smuggler, pusher, drug dealer, drug runner","pos":["n"]}]},"sdata":[{"j":"レイラの↑彼氏↑↓かれし↓は、ヤクの↑売人↑↓|ばいにん|↓だった。","e":"Layla's boyfriend was a drug dealer."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農繁期","p":true}],"r_ele":[{"r":"のうはんき","p":true}],"sense":[{"gloss":"busy farming season","pos":["n"]}]},"sdata":[]}

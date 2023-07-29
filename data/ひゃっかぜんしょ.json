@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"百科全書","p":true}],"r_ele":[{"r":"ひゃっかぜんしょ","p":true}],"sense":[{"gloss":"encyclopedia","pos":["n"],"x":["百科事典"]}]},"sdata":[]}

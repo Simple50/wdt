@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"周遊","p":true}],"r_ele":[{"r":"しゅうゆう","p":true}],"sense":[{"gloss":"(circular) tour, round trip, excursion","pos":["n","vs","vi"]}]},"sdata":[]}

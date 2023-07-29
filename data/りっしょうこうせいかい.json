@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立正佼成会","p":true}],"r_ele":[{"r":"りっしょうこうせいかい","p":true}],"sense":[{"gloss":"Rissho Kosei-kai (offshoot of Nichiren-Buddhism founded in 1938)","pos":["n"]}]},"sdata":[]}

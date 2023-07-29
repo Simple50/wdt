@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"設問","p":true}],"r_ele":[{"r":"せつもん","p":true}],"sense":[{"gloss":"posing a question","pos":["n","vs"]},{"gloss":"question","pos":["n","vs"]}]},"sdata":[]}

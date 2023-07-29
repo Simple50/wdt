@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベンツ","p":true}],"sense":[{"gloss":"vent (on a jacket)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑車↑↓くるま↓を２↑台↑↓だい↓↑持↑↓も↓っていて、１↑台↑↓だい↓は|ベンツ|で、もう１↑台↑↓だい↓はポルシェだ。","e":"He has two cars; one is a Benz and the other is a Porsche."}]}

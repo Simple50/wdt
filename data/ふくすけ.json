@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"福助","p":true}],"r_ele":[{"r":"ふくすけ","p":true}],"sense":[{"gloss":"large-headed dwarf statue, bringer of good luck","pos":["n"]}]},"sdata":[]}

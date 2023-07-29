@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"レギュラー出演","p":true}],"r_ele":[{"r":"レギュラーしゅつえん","p":true}],"sense":[{"gloss":"appearing as a regular (on a variety TV show)","pos":["n","vs","vi"]}]},"sdata":[]}

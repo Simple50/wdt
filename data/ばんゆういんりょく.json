@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"万有引力","p":true}],"r_ele":[{"r":"ばんゆういんりょく","p":true}],"sense":[{"gloss":"universal gravitation","pos":["n"],"f":["physics"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちはニュートンが↑万有引力↑↓|ばんゆういんりょく|↓の↑法則↑↓ほうそく↓を↑発見↑↓はっけん↓したと↑習↑↓なら↓った。","e":"We learned that Newton discovered the law of gravitation."}]}

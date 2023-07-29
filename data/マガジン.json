@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マガジン","p":true}],"sense":[{"gloss":"magazine","pos":["n"]}]},"sdata":[{"j":"タイム|マガジン|を↑持↑↓も↓ってきてください。","e":"Could you bring me a Time magazine?"},{"j":"あなたはタイム|マガジン|を↑持↑↓も↓っていますか？","e":"Do you have Time magazine?"}]}

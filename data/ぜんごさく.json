@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"善後策","p":true}],"r_ele":[{"r":"ぜんごさく","p":true}],"sense":[{"gloss":"remedial measure, relief measure, corrective measure, countermeasure, remedy","pos":["n"]}]},"sdata":[]}

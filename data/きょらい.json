@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"去来","p":true}],"r_ele":[{"r":"きょらい","p":true}],"sense":[{"gloss":"coming and going, recurring (esp. thoughts)","pos":["n","vs","vi"]}]},"sdata":[]}

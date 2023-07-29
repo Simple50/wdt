@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"笹原","p":true}],"r_ele":[{"r":"ささはら","p":true},{"r":"ささわら"}],"sense":[{"gloss":"field of bamboo grass","pos":["n"]}]},"sdata":[]}

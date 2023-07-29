@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"反面教師","p":true}],"r_ele":[{"r":"はんめんきょうし","p":true}],"sense":[{"gloss":"bad example from which one can learn, good example of what not to do (esp. how not to behave), negative example","pos":["n"]}],"m":["yoji"]},"sdata":[]}

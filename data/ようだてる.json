@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"用立てる","p":true}],"r_ele":[{"r":"ようだてる","p":true}],"sense":[{"gloss":"to make use of, to lend money","pos":["v1","vt"]}]},"sdata":[]}

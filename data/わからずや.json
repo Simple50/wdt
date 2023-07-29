@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分からず屋","p":true},{"e":"わからず屋"},{"e":"分らず屋"},{"e":"没分暁漢"}],"r_ele":[{"r":"わからずや","p":true},{"r":"ぼつぶんぎょうかん"}],"sense":[{"gloss":"obstinate person, blockhead","pos":["n"]}],"m":["yoji"]},"sdata":[]}

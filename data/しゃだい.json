@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"車台","p":true}],"r_ele":[{"r":"しゃだい","p":true}],"sense":[{"gloss":"chassis, car body","pos":["n"]}]},"sdata":[{"j":"ロケットは↑発射↑↓はっ|しゃ↓↑台↑↓だい|↓から↑打↑↓う↓ち↑上↑↓あ↓げられた。","e":"The rockets were fired from a launching pad."}]}

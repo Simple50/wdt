@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍馬","p":true}],"r_ele":[{"r":"ぐんば","p":true}],"sense":[{"gloss":"warhorse, army horse","pos":["n"]}]},"sdata":[]}

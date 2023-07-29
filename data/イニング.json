@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イニング","p":true},{"r":"インニング"}],"sense":[{"gloss":"inning","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"センターの↑選手↑↓せんしゅ↓はウ|イニング|ボールをガッチリとった。","e":"The center fielder made a firm catch for the winning out."},{"j":"その↑家↑↓いえ↓にはダ|イニング|、↑寝室↑↓しんしつ↓そして↑書斎↑↓しょさい↓があります。","e":"The house has a dining room, a bedroom and a study."}]}

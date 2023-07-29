@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"八本","p":true}],"r_ele":[{"r":"はちほん","p":true},{"r":"はっぽん"}],"sense":[{"gloss":"eight (long cylindrical things)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"党略","p":true}],"r_ele":[{"r":"とうりゃく","p":true}],"sense":[{"gloss":"party politics (tactics)","pos":["n"]}]},"sdata":[]}

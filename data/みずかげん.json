@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水加減","p":true}],"r_ele":[{"r":"みずかげん","p":true}],"sense":[{"gloss":"amount of water","pos":["n"]}]},"sdata":[]}

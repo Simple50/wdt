@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"玉音","p":true}],"r_ele":[{"r":"ぎょくおん","p":true},{"r":"ぎょくいん"}],"sense":[{"gloss":"the Emperor's voice","pos":["n"]},{"gloss":"beautiful voice, beautiful sound","pos":["n"]}]},"sdata":[]}

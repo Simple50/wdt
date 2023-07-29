@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"比重","p":true}],"r_ele":[{"r":"ひじゅう","p":true}],"sense":[{"gloss":"specific gravity, relative density","pos":["n"],"f":["physics"]},{"gloss":"relative importance, weight","pos":["n"]}]},"sdata":[]}

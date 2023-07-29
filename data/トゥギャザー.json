@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トゥギャザー","p":true}],"sense":[{"gloss":"together","pos":["n"]}]},"sdata":[]}

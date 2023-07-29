@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"沼田","p":true}],"r_ele":[{"r":"ぬまた","p":true},{"r":"ぬまだ"}],"sense":[{"gloss":"marshy rice field or paddy","pos":["n"]}]},"sdata":[{"j":"↑何↑↓なん↓↑分↑↓ふん↓か↑経↑↓た↓ったのか、それとも↑何↑↓なに↓↑時間↑↓じかん↓か↑経↑↓た↓ったのか、↑沼田↑↓|ぬまた|↓↑先生↑↓せんせい↓が↑家↑↓いえ↓に↑入↑↓はい↓ってきて、↑禎子↑↓さだこ↓の↑額↑↓がく↓に↑手↑↓て↓を↑当↑↓あ↓てた。","e":"Minutes or hours later Dr. Numata came in and felt Sadako's forehead."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仏殿","p":true}],"r_ele":[{"r":"ぶつでん","p":true}],"sense":[{"gloss":"Buddhist temple","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"元日","p":true}],"r_ele":[{"r":"がんじつ","p":true},{"r":"がんにち"}],"sense":[{"gloss":"New Year's Day","pos":["n"]}]},"sdata":[{"j":"↑元日↑↓|がんじつ|↓は↑何↑↓なに↓するの？","e":"What will you do on New Year's Day?"}]}

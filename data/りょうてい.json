@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"料亭","p":true}],"r_ele":[{"r":"りょうてい","p":true}],"sense":[{"gloss":"ryotei, traditional Japanese restaurant (esp. a luxurious one)","pos":["n"]}]},"sdata":[]}

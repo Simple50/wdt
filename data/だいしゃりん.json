@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大車輪","p":true}],"r_ele":[{"r":"だいしゃりん","p":true}],"sense":[{"gloss":"(gymnastical) giant swing, all-out effort, frenzied activity","pos":["n"]}]},"sdata":[{"j":"↑体操↑↓たいそう↓↑競技↑↓きょうぎ↓の↑中↑↓なか↓では、↑鉄棒↑↓てつぼう↓の↑大車輪↑↓|だいしゃりん|↓が↑好↑↓す↓きです。","e":"I like to see a gymnast do the giant swing on the high bar."}]}

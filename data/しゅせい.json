@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"守勢","p":true}],"r_ele":[{"r":"しゅせい","p":true}],"sense":[{"gloss":"(being on the) defensive","pos":["n","adj-no"]}]},"sdata":[{"j":"↑代議↑↓だいぎ↓↑民主↑↓みん|しゅ↓↑制↑↓せい|↓は↑１↑↓ひと↓つの↑政治↑↓せいじ↓↑形態↑↓けいたい↓である。","e":"Representative democracy is one form of government."}]}

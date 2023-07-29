@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フォーマル","p":true}],"sense":[{"gloss":"formal","pos":["adj-na","n"]}]},"sdata":[{"j":"↑何↑↓なに↓とまあ、|フォーマル|なパーティーにジーンズで↑現↑↓あらわ↓れるなんて、↑彼女↑↓かのじょ↓は↑顔↑↓かお↓から↑火↑↓ひ↓が↑出↑↓で↓る↑思↑↓おも↓いだったろうね。","e":"Boy, did she have egg on her face when she showed up at the formal party wearing blue jeans!"},{"j":"|フォーマル|ですか。","e":"Do we dress formal?"}]}

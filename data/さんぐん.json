@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三軍","p":true}],"r_ele":[{"r":"さんぐん","p":true}],"sense":[{"gloss":"great army, mighty host, whole army","pos":["n","adj-no"]}]},"sdata":[]}

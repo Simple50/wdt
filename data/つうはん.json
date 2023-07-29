@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通販","p":true}],"r_ele":[{"r":"つうはん","p":true}],"sense":[{"gloss":"online shopping, e-commerce, mail order","pos":["n","vs"],"x":["通信販売"]}],"m":["abbr"]},"sdata":[{"j":"↑通販↑↓|つうはん|↓で↑理想↑↓りそう↓↑的↑↓てき↓な↑枕↑↓まくら↓が↑買↑↓か↓えます。","e":"An ideal pillow is available from a mail-order house."}]}

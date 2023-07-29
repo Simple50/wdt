@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実入り","p":true}],"r_ele":[{"r":"みいり","p":true}],"sense":[{"gloss":"crop, harvest, ripeness","pos":["n"]},{"gloss":"income, profits","pos":["n"]},{"gloss":"loaded (e.g. intermodal containers in the transport industry)","pos":["n"],"x":["空コン"]}]},"sdata":[{"j":"あなたのご↑親切↑↓しんせつ↓↑痛↑↓いた↓|み↑入↑↓い↓り|ます。","e":"Your kindness really touches me."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"核の傘","p":true}],"r_ele":[{"r":"かくのかさ","p":true}],"sense":[{"gloss":"nuclear umbrella","pos":["exp","n"]}]},"kdata":{"核":{"on":["カク"],"jlpt":1,"meanings":["nucleus","core","kernel"],"freq":475,"comp":[["木","亥"]],"t":1092},"傘":{"on":["サン"],"kun":["かさ"],"jlpt":1,"meanings":["umbrella"],"freq":1694,"comp":[["𠈌","十","人"]],"s":"卒,率","t":1460}},"sdata":[]}

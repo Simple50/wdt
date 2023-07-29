@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"喫する","p":true}],"r_ele":[{"r":"きっする","p":true}],"sense":[{"gloss":"to eat, to drink, to smoke, to take","pos":["vs-s","vt"]},{"gloss":"to suffer (e.g. defeat), to receive a blow","pos":["vs-s","vt"]}]},"sdata":[]}

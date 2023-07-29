@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クルーザー","p":true}],"sense":[{"gloss":"cruiser (i.e. warship or cabin cruiser)","pos":["n"]}]},"sdata":[]}

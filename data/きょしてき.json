@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巨視的","p":true}],"r_ele":[{"r":"きょしてき","p":true}],"sense":[{"gloss":"macroscopic","pos":["adj-na"],"ant":["微視的"]},{"gloss":"comprehensive, all-including, broad","pos":["adj-na"]}]},"sdata":[]}

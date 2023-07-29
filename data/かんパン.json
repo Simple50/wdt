@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乾パン","p":true}],"r_ele":[{"r":"かんパン","p":true}],"sense":[{"gloss":"cracker, hard biscuit, hardtack","pos":["n"]}]},"sdata":[]}

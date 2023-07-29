@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"非常勤","p":true}],"r_ele":[{"r":"ひじょうきん","p":true}],"sense":[{"gloss":"part-time work","pos":["n"]}]},"sdata":[]}

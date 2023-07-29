@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍配","p":true}],"r_ele":[{"r":"ぐんばい","p":true}],"sense":[{"gloss":"gourd-shaped war fan","pos":["n"],"f":["mil"],"m":["abbr"],"x":["軍配団扇・1"]},{"gloss":"referee's fan","pos":["n"],"f":["sumo"],"m":["abbr"],"x":["軍配団扇・2","軍配が上がる・ぐんばいがあがる・1"]},{"gloss":"stratagem, tactics","pos":["n","vs"]}]},"sdata":[]}

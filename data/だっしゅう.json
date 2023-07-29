@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脱臭","p":true}],"r_ele":[{"r":"だっしゅう","p":true}],"sense":[{"gloss":"deodorization, deodorisation","pos":["n","vs","vt","vi","adj-no"]}]},"sdata":[]}

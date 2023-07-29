@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フリーキック","p":true},{"r":"フリー・キック"}],"sense":[{"gloss":"free kick","pos":["n"],"f":["sports"]}]},"sdata":[{"j":"トムって、↑本当↑↓ほんとう↓に|フリーキック|が↑上手↑↓うま↓いよなぁ。","e":"Tom is really good at free kicks."}]}

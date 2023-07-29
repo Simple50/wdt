@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秋晴れ","p":true},{"e":"秋晴"}],"r_ele":[{"r":"あきばれ","p":true},{"r":"しゅうせい"}],"sense":[{"gloss":"clear autumnal weather","pos":["n"]}]},"sdata":[{"j":"このところの↑美↑↓うつく↓しい↑秋晴↑↓|あきば↓れ|は、↑雨↑↓あめ↓の↑多↑↓おお↓かった↑夏↑↓なつ↓の↑埋↑↓う↓め↑合↑↓あ↓わせをしてくれている。","e":"This beautiful autumn weather we've been having makes up for the wet summer."}]}

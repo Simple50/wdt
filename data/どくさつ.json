@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"毒殺","p":true}],"r_ele":[{"r":"どくさつ","p":true}],"sense":[{"gloss":"poisoning, kill by poison","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑妻↑↓つま↓を↑毒殺↑↓|どくさつ|↓したと↑言↑↓い↓われている。","e":"He is alleged to have poisoned his wife."}]}

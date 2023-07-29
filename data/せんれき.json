@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戦歴","p":true}],"r_ele":[{"r":"せんれき","p":true}],"sense":[{"gloss":"military service, combat experience","pos":["n"]}]},"sdata":[{"j":"チャンピオンの↑戦歴↑↓|せんれき|↓は↑若↑↓わか↓い↑相手↑↓あいて↓の↑力↑↓ちから↓に↑屈↑↓くっ↓してしまいました。","e":"The champion's experience submitted to the young opponent's power."}]}

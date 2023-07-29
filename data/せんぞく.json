@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"専属","p":true}],"r_ele":[{"r":"せんぞく","p":true}],"sense":[{"gloss":"exclusive, attached to, specialist","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑特典↑↓とくてん↓の↑一↑↓ひと↓つとして↑専属↑↓|せんぞく|↓↑運転↑↓うんてん↓↑手↑↓しゅ↓がお↑客様↑↓きゃくさま↓に↑一↑↓いち↓↑人↑↓にん↓ずつ↑着↑↓つ↓きます。","e":"Special services include a personal driver for each guest."}]}

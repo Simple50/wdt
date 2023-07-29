@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中距離核戦力","p":true}],"r_ele":[{"r":"ちゅうきょりかくせんりょく","p":true}],"sense":[{"gloss":"intermediate-range nuclear forces","pos":["n"]}]},"sdata":[]}

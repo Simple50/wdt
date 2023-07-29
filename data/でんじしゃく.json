@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電磁石","p":true}],"r_ele":[{"r":"でんじしゃく","p":true}],"sense":[{"gloss":"electromagnet","pos":["n"]}]},"sdata":[]}

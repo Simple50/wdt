@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マルターゼ","p":true}],"sense":[{"gloss":"maltase","pos":["n"],"l":"ger"}]},"sdata":[]}

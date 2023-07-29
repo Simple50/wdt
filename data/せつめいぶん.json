@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"説明文","p":true}],"r_ele":[{"r":"せつめいぶん","p":true}],"sense":[{"gloss":"explanatory note","pos":["n"]}]},"sdata":[]}

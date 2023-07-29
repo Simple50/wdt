@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相関関係","p":true}],"r_ele":[{"r":"そうかんかんけい","p":true}],"sense":[{"gloss":"correlation, interrelation, intertwining","pos":["n"]}],"m":["yoji"]},"sdata":[]}

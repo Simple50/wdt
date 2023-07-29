@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極限","p":true}],"r_ele":[{"r":"きょくげん","p":true}],"sense":[{"gloss":"utmost limits, extremity","pos":["n"]},{"gloss":"limit","pos":["n"],"f":["math"]}]},"sdata":[{"j":"もう、↑極限↑↓|きょくげん|↓だ。","e":"I can't take any more!"}]}

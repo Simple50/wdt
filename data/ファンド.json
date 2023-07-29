@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファンド","p":true}],"sense":[{"gloss":"fund","pos":["n"]}]},"sdata":[]}

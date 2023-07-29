@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"写真機","p":true},{"e":"写真器","i":["iK"]}],"r_ele":[{"r":"しゃしんき","p":true}],"sense":[{"gloss":"(photographic) camera","pos":["n"],"x":["カメラ"]}],"m":["dated"]},"sdata":[{"j":"↑私↑↓わたし↓は↑彼↑↓かれ↓が↑写真↑↓|しゃしん↓↑機↑↓き|↓を↑盗↑↓ぬす↓んでいる↑現場↑↓げんば↓をとらえた。","e":"I caught him stealing the camera."}]}

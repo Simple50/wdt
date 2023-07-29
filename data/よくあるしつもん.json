@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"よくある質問","p":true},{"e":"良くある質問"}],"r_ele":[{"r":"よくあるしつもん","p":true}],"sense":[{"gloss":"frequently asked questions, FAQ","pos":["exp","n"]}]},"sdata":[{"j":"それは|よくある↑質問↑↓しつもん|↓だよ。","e":"That's a popular question."},{"j":"「|よくある↑質問↑↓しつもん|↓」はお↑読↑↓よ↓みになりましたか？","e":"Have you read the FAQ?"}]}

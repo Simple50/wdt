@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"嘲る","p":true},{"e":"嘲ける","i":["sK"]}],"r_ele":[{"r":"あざける","p":true}],"sense":[{"gloss":"to scoff, to laugh at, to make fun of, to ridicule, to jeer at","pos":["v5r","vt"]}]},"kdata":{"嘲":{"on":["チョウ","トウ"],"kun":["あざけ.る"],"meanings":["ridicule","insult"],"comp":[["朝","口"]],"jlpt":1,"t":2087,"freq":2937}},"sdata":[]}

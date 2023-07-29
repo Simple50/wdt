@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝袋","p":true}],"r_ele":[{"r":"ねぶくろ","p":true}],"sense":[{"gloss":"sleeping bag","pos":["n"]}]},"sdata":[]}

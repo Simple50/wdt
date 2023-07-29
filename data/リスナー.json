@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リスナー","p":true},{"r":"リスナ"}],"sense":[{"gloss":"(radio) listener","pos":["n"]}]},"sdata":[]}

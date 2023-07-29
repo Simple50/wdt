@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒っぽい","p":true},{"e":"粗っぽい"}],"r_ele":[{"r":"あらっぽい","p":true}],"sense":[{"gloss":"wild, violent, rough-mannered, rude","pos":["adj-i"]},{"gloss":"rough (e.g. work), crude, coarse, careless","pos":["adj-i"]}]},"sdata":[{"j":"ボクシングは↑必↑↓かなら↓ずしも↑荒↑↓|あら↓っぽい|スポーツではない。","e":"Boxing is not always a rough sport."}]}

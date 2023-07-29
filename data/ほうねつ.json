@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"放熱","p":true}],"r_ele":[{"r":"ほうねつ","p":true}],"sense":[{"gloss":"radiant heat, heat radiation, heat dissipation, thermolysis","pos":["n","vs","vi"]}]},"sdata":[]}

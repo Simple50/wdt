@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仏間","p":true}],"r_ele":[{"r":"ぶつま","p":true}],"sense":[{"gloss":"Buddhist family chapel, altar room","pos":["n"]}]},"sdata":[]}

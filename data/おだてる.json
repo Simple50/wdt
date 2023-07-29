@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煽てる","p":true}],"r_ele":[{"r":"おだてる","p":true}],"sense":[{"gloss":"to flatter, to soft-soap, to sweet talk, to cajole, to instigate","pos":["v1","vt"]}],"m":["uk"]},"sdata":[]}

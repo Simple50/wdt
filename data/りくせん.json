@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陸戦","p":true}],"r_ele":[{"r":"りくせん","p":true}],"sense":[{"gloss":"land war","pos":["n"]}]},"sdata":[{"j":"↑飛行機↑↓ひこうき↓はまさに↑離陸↑↓り|りく↓せん|としていた。","e":"The plane was on the point of taking off."},{"j":"↑飛行機↑↓ひこうき↓は↑離陸↑↓り|りく↓せん|ばかりであった。","e":"The airplane was just going to take off."}]}

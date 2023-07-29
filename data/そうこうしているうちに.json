@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"そうこうしている内に","p":true}],"r_ele":[{"r":"そうこうしているうちに","p":true}],"sense":[{"gloss":"meanwhile, in the meantime","pos":["exp","adv"],"x":["然う斯う・そうこう"]}],"m":["uk"]},"sdata":[{"j":"ほら，|そうこうしているうちに|どんどん↑時間↑↓じかん↓が↑過↑↓す↓ぎていくよ。","e":"Look, time goes on and on while we're doing this."},{"j":"|そうこうしているうちに|、↑夜↑↓よる↓になってしまった。","e":"Meanwhile, night had fallen."}]}

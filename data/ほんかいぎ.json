@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本会議","p":true}],"r_ele":[{"r":"ほんかいぎ","p":true}],"sense":[{"gloss":"plenary session, regular session","pos":["n"]}]},"sdata":[]}

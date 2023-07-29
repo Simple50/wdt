@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"循環器","p":true}],"r_ele":[{"r":"じゅんかんき","p":true}],"sense":[{"gloss":"circulatory organ","pos":["n"]}]},"sdata":[{"j":"↑肺↑↓はい↓、↑心臓↑↓しんぞう↓、↑静脈↑↓じょうみゃく↓、↑動脈↑↓どうみゃく↓、↑毛細血管↑↓もうさいけっかん↓により↑循環↑↓|じゅんかん↓↑器↑↓き|↓↑系↑↓けい↓が↑形成↑↓けいせい↓されています。","e":"Lungs, heart, veins, arteries and capillaries form the cardiovascular system."}]}

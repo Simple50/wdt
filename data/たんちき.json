@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"探知機","p":true},{"e":"探知器"}],"r_ele":[{"r":"たんちき","p":true}],"sense":[{"gloss":"detector, locator","pos":["n"]}]},"sdata":[]}

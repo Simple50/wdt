@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"育種","p":true}],"r_ele":[{"r":"いくしゅ","p":true}],"sense":[{"gloss":"breeding (of plants or animals)","pos":["n","vs","vt"]}]},"sdata":[]}

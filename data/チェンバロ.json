@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チェンバロ","p":true}],"sense":[{"gloss":"harpsichord","pos":["n"],"l":"ita: cembalo"}]},"sdata":[]}

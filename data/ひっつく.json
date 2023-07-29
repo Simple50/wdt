@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引っ付く","p":true},{"e":"引っつく"}],"r_ele":[{"r":"ひっつく","p":true}],"sense":[{"gloss":"to stick to, to cling to, to adhere to","pos":["v5k","vi"]},{"gloss":"to become intimate (of a man and woman), to get close, to get married","pos":["v5k","vi"],"m":["col"]}]},"sdata":[{"j":"↑濡↑↓ぬ↓れた↑服↑↓ふく↓はからだにぴったり|ひっつく|。","e":"Wet clothes cling to the body."}]}

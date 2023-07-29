@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アングロアメリカ","p":true},{"r":"アングロ・アメリカ"}],"sense":[{"gloss":"Anglo-America","pos":["n"]},{"gloss":"English-speaking part of America","pos":["n"]}]},"sdata":[]}

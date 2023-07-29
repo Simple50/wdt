@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土塀","p":true}],"r_ele":[{"r":"どべい","p":true}],"sense":[{"gloss":"mud wall, earthen wall, plaster wall","pos":["n"]}]},"sdata":[]}

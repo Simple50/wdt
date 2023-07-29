@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病変","p":true}],"r_ele":[{"r":"びょうへん","p":true}],"sense":[{"gloss":"lesion, pathological change","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キロワット","p":true}],"sense":[{"gloss":"kilowatt","pos":["n"]}]},"sdata":[]}

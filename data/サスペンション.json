@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サスペンション","p":true}],"sense":[{"gloss":"suspension (in a vehicle)","pos":["n"]},{"gloss":"suspension (mixture)","pos":["n"],"f":["chem"],"x":["懸濁液"]}]},"sdata":[]}

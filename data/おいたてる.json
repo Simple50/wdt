@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い立てる","p":true},{"e":"追いたてる"},{"e":"追立てる"}],"r_ele":[{"r":"おいたてる","p":true}],"sense":[{"gloss":"to drive on, to urge forward (e.g. cattle), to rouse (game from its cover), to shoo away","pos":["v1","vt"]},{"gloss":"to press a tenant to leave, to evict","pos":["v1","vt"]}]},"sdata":[]}

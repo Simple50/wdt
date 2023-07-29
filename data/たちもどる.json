@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立ち戻る","p":true},{"e":"立戻る"}],"r_ele":[{"r":"たちもどる","p":true}],"sense":[{"gloss":"to return, to come back","pos":["v5r","vi"],"x":["戻る・2"]}]},"sdata":[]}

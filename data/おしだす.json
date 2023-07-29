@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し出す","p":true},{"e":"押出す"}],"r_ele":[{"r":"おしだす","p":true}],"sense":[{"gloss":"to crowd out, to push out, to squeeze out","pos":["v5s","vt"]},{"gloss":"to start together, to set out en masse","pos":["v5s","vt"]},{"gloss":"to highlight, to draw attention to","pos":["v5s","vt"]}]},"sdata":[]}

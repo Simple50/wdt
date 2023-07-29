@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リキッド","p":true}],"sense":[{"gloss":"liquid","pos":["n"],"x":["液体"]},{"gloss":"liquid hair product","pos":["n"],"m":["abbr"],"x":["ヘアリキッド"]}]},"sdata":[{"j":"このクリームは、|リキッド|っぽくて↑使↑↓つか↓いやすい。","e":"This is more like a liquid than a facial cream. That makes it easy to use."}]}

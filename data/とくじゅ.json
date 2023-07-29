@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特需","p":true}],"r_ele":[{"r":"とくじゅ","p":true}],"sense":[{"gloss":"emergency demands, special procurement (particularly in time of war)","pos":["n"]}]},"sdata":[]}

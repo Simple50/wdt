@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"経験的","p":true}],"r_ele":[{"r":"けいけんてき","p":true}],"sense":[{"gloss":"experiential, empirical, experimental","pos":["adj-na"]}]},"sdata":[]}

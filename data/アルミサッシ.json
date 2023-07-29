@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アルミサッシ","p":true},{"r":"アルミ・サッシ"}],"sense":[{"gloss":"aluminium sash (aluminum) (i.e. window frame)","pos":["n"]}],"m":["abbr"]},"sdata":[]}

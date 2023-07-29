@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アタック","p":true}],"sense":[{"gloss":"attack, assault","pos":["n","vs"]},{"gloss":"attempt, try","pos":["n","vs"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はいつも↑何↑↓なに↓か↑新↑↓あたら↓しいことに|アタック|している。","e":"She always tries something new."},{"j":"↑彼↑↓かれ↓らは↑山頂↑↓さんちょう↓に|アタック|しました。","e":"They made an assault on the summit."}]}

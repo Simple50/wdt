@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生命線","p":true}],"r_ele":[{"r":"せいめいせん","p":true}],"sense":[{"gloss":"lifeline, matter of life or death, indispensable thing","pos":["n"]},{"gloss":"life line (in palm reading)","pos":["n"]}]},"sdata":[]}

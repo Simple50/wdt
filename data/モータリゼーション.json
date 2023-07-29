@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モータリゼーション","p":true}],"sense":[{"gloss":"motorization, motorisation","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"働きかける","p":true},{"e":"働き掛ける","p":true}],"r_ele":[{"r":"はたらきかける","p":true}],"sense":[{"gloss":"to work on (someone), to appeal to, to make approaches to, to pressure, to exert influence on, to seek action from","pos":["v1","vt"]},{"gloss":"to begin to work","pos":["v1","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吸入","p":true}],"r_ele":[{"r":"きゅうにゅう","p":true}],"sense":[{"gloss":"inhalation","pos":["n","vs","adj-no"]}]},"sdata":[{"j":"↑吸入↑↓|きゅうにゅう|↓↑器↑↓き↓は↑処方箋↑↓しょほうせん↓↑無↑↓な↓しで↑買↑↓か↓えますか？","e":"Can you buy an inhaler without a prescription?"}]}

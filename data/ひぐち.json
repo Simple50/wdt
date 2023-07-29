@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火口","p":true}],"r_ele":[{"r":"ひぐち","p":true}],"sense":[{"gloss":"burner, nozzle, origin of a fire","pos":["n"]}]},"sdata":[]}

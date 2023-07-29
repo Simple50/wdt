@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"警察権","p":true}],"r_ele":[{"r":"けいさつけん","p":true}],"sense":[{"gloss":"police powers","pos":["n"]}]},"sdata":[{"j":"↑政治↑↓せいじ↓↑犯↑↓はん↓は↑警察↑↓|けいさつ↓↑権力↑↓けん|りょく↓に↑反抗↑↓はんこう↓した。","e":"The political offender rebelled against the police authority."}]}

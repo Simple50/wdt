@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腰縄","p":true}],"r_ele":[{"r":"こしなわ","p":true}],"sense":[{"gloss":"leash, rope tied round prisoner's waists","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑少↑↓す|こ↓しナワ|トル↑語↑↓ご↓を↑知↑↓し↓っています。","e":"I know a little Nahuatl."}]}

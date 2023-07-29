@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リベラリズム","p":true}],"sense":[{"gloss":"liberalism","pos":["n"]}]},"sdata":[]}

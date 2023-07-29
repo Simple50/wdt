@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"笛吹き","p":true},{"e":"笛吹","i":["io"]}],"r_ele":[{"r":"ふえふき","p":true}],"sense":[{"gloss":"flute player, flutist, flautist, piper","pos":["n"]}]},"sdata":[]}

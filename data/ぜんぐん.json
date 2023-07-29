@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"全軍","p":true}],"r_ele":[{"r":"ぜんぐん","p":true}],"sense":[{"gloss":"whole army, whole team","pos":["n"]},{"gloss":"all armies, all teams","pos":["n"]}]},"sdata":[]}

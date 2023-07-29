@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コードレスホン","p":true},{"r":"コードレス・ホン"}],"sense":[{"gloss":"cordless phone","pos":["n"]}]},"sdata":[]}

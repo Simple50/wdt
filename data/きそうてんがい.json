@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奇想天外","p":true}],"r_ele":[{"r":"きそうてんがい","p":true}],"sense":[{"gloss":"fantastic, bizarre, incredible, unbelievable","pos":["adj-na","adj-no","n"]}],"m":["yoji"]},"sdata":[{"j":"このミステリーのトリックは、↑奇想天外↑↓|きそうてんがい|↓だ。","e":"This mystery has a plot twist that's completely novel."}]}

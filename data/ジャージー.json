@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャージー","p":true},{"r":"ジャージ"}],"sense":[{"gloss":"jersey (fabric)","pos":["n"]},{"gloss":"jersey, (sports) uniform top","pos":["n"],"f":["cloth"]},{"gloss":"sweatsuit, tracksuit","pos":["n"],"f":["cloth"]},{"gloss":"Jersey (cattle)","pos":["n"]}]},"sdata":[]}

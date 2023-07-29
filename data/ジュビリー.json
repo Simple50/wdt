@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジュビリー","p":true}],"sense":[{"gloss":"jubilee","pos":["n"]}]},"sdata":[]}

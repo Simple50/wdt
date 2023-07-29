@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"素描","p":true}],"r_ele":[{"r":"そびょう","p":true}],"sense":[{"gloss":"drawing, sketch","pos":["n","vs","vt"]},{"gloss":"outline, summary, synopsis","pos":["n","vs","vt"]}]},"sdata":[{"j":"レオナルド・ダ・ヴィンチの↑美術↑↓びじゅつ↓↑素描↑↓|そびょう|↓は↑約↑↓やく↓９００↑点↑↓てん↓↑現存↑↓げんそん↓しています。","e":"There remain approximately 900 art sketches by Leonardo da Vinci."}]}

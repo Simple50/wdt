@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"来援","p":true}],"r_ele":[{"r":"らいえん","p":true}],"sense":[{"gloss":"assistance, support","pos":["n","vs","vt"]}]},"sdata":[]}

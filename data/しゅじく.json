@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主軸","p":true}],"r_ele":[{"r":"しゅじく","p":true}],"sense":[{"gloss":"main spindle, main shaft","pos":["n"]},{"gloss":"linchpin, pivot","pos":["n"]},{"gloss":"principal axis, main axis","pos":["n"],"f":["math"]}]},"sdata":[]}

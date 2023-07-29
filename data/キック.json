@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キック","p":true}],"sense":[{"gloss":"kick","pos":["n","vs","vt"]}]},"sdata":[{"j":"１↑発↑↓はつ↓↑目↑↓め↓のロー|キック|はこの↑布石↑↓ふせき↓か！？","e":"The first low kick was the set-up for this!?"},{"j":"トムって、↑本当↑↓ほんとう↓にフリー|キック|が↑上手↑↓うま↓いよなぁ。","e":"Tom is really good at free kicks."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インターン","p":true}],"sense":[{"gloss":"intern, internship","pos":["n"]}]},"sdata":[{"j":"↑現地↑↓げんち↓↑企業↑↓きぎょう↓での|インターン|シップを↑体験↑↓たいけん↓する。","e":"I'm going to do an internship at a local company."},{"j":"↑夏↑↓なつ↓の|インターン|シップに↑応募↑↓おうぼ↓しました。","e":"I applied for a summer internship."}]}

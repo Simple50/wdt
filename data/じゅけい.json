@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受刑","p":true}],"r_ele":[{"r":"じゅけい","p":true}],"sense":[{"gloss":"punishment","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑受刑↑↓|じゅけい|↓↑者↑↓しゃ↓を↑訪↑↓たず↓ねて↑行↑↓い↓ったことある？","e":"Have you ever visited anyone in prison?"},{"j":"↑受刑↑↓|じゅけい|↓↑者↑↓しゃ↓を↑訪↑↓たず↓ねて↑行↑↓い↓ったことある？","e":"Have you ever visited someone in prison?"}]}

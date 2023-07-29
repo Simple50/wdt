@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テラス","p":true}],"sense":[{"gloss":"terrace","pos":["n"]}]},"sdata":[{"j":"|テラス|がいいのですが。","e":"Could we have a table on the terrace?"}]}

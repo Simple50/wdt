@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奥行き","p":true},{"e":"奥行","p":true}],"r_ele":[{"r":"おくゆき","p":true}],"sense":[{"gloss":"depth, length","pos":["n"]}]},"sdata":[{"j":"↑間口↑↓まぐち↓も↑広↑↓ひろ↓いが↑奥行↑↓|おくゆ↓き|も↑同様↑↓どうよう↓に↑深↑↓ふか↓い。","e":"It's as deep as it is wide."},{"j":"↑私↑↓わたし↓の↑本箱↑↓ほんばこ↓は↑大↑↓おお↓きな↑辞書↑↓じしょ↓が↑入↑↓はい↓る↑奥行↑↓|おくゆき|↓がある。","e":"My bookcase is deep enough to take large dictionaries."}]}

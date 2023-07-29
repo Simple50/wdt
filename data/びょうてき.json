@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病的","p":true}],"r_ele":[{"r":"びょうてき","p":true}],"sense":[{"gloss":"pathological, morbid, unhealthy, diseased, unwholesome, abnormal","pos":["adj-na","adj-no"]}]},"sdata":[]}

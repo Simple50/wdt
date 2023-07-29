@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隔絶","p":true}],"r_ele":[{"r":"かくぜつ","p":true}],"sense":[{"gloss":"isolation, separation, remoteness, seclusion, reclusion, inaccessibility, sequestration","pos":["n","vs","vt","vi"]}]},"sdata":[]}

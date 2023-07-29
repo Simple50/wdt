@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドクトリン","p":true}],"sense":[{"gloss":"doctrine","pos":["n"]}]},"sdata":[]}

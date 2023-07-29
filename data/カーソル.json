@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カーソル","p":true}],"sense":[{"gloss":"cursor","pos":["n"],"f":["comp"]}]},"sdata":[]}

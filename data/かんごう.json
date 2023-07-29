@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"環濠","p":true}],"r_ele":[{"r":"かんごう","p":true}],"sense":[{"gloss":"(circular) moat","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニッケル","p":true}],"sense":[{"gloss":"nickel (Ni)","pos":["n","adj-no"]}]},"sdata":[{"j":"|ニッケル|は↑硬↑↓かた↓い↑銀↑↓ぎん↓↑白色↑↓はくしょく↓の↑金属↑↓きんぞく↓です。","e":"Nickel is a hard, silver-white metal."},{"j":"|ニッケル|は５セント↑玉↑↓だま↓です。","e":"A nickel is a five-cent coin."},{"j":"それから|ニッケル|を↑取↑↓と↓るよ。","e":"Then I'd take the nickel out."}]}

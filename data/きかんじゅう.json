@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"機関銃","p":true}],"r_ele":[{"r":"きかんじゅう","p":true}],"sense":[{"gloss":"machine gun","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑機関↑↓|きかん↓↑銃↑↓じゅう|↓を↑持↑↓も↓って↑侵略↑↓しんりゃく↓↑者↑↓しゃ↓たちを↑寄↑↓よ↓せ↑付↑↓つ↓けなかった。","e":"He kept the invaders at bay with a machine gun."}]}

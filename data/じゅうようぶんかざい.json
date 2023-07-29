@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重要文化財","p":true}],"r_ele":[{"r":"じゅうようぶんかざい","p":true}],"sense":[{"gloss":"important cultural property, important cultural asset","pos":["n"],"x":["国宝"]}]},"sdata":[]}

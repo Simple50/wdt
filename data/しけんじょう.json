@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"試験場","p":true}],"r_ele":[{"r":"しけんじょう","p":true}],"sense":[{"gloss":"examination hall, examination room","pos":["n"]},{"gloss":"laboratory, experimental station, testing ground","pos":["n"]}]},"sdata":[]}

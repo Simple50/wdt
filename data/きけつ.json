@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"帰結","p":true}],"r_ele":[{"r":"きけつ","p":true}],"sense":[{"gloss":"consequence, result, conclusion","pos":["n","vs","vi"]},{"gloss":"apodosis","pos":["n"],"f":["gramm"]}]},"sdata":[{"j":"いざというと|き↑決意↑↓けつ|い↓がくじけた。","e":"My resolution dissolved at the last moment."}]}

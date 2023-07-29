@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"御用達","p":true},{"e":"ご用達"}],"r_ele":[{"r":"ごようたし","p":true},{"r":"ごようたつ"},{"r":"ごようだつ"},{"r":"ごようだち"}],"sense":[{"gloss":"purveyor (to the Imperial Household, etc.)","pos":["n-suf"]},{"gloss":"company (or restaurant, place, etc.) that caters to or is popular with a specific clientele","pos":["n-suf"]}]},"sdata":[]}

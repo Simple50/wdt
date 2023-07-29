@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アロハ","p":true}],"sense":[{"gloss":"aloha","pos":["int"],"l":"haw"},{"gloss":"aloha shirt","pos":["n"],"m":["abbr"]}]},"sdata":[{"j":"↑会社↑↓かいしゃ↓にパンタロンと|アロハ|シャツを↑着↑↓き↓てくる↑彼↑↓かれ↓は、かなりユニークな↑存在↑↓そんざい↓だ。","e":"He's a pretty unique guy, wearing bell bottoms and Hawaiian shirts to the office."}]}

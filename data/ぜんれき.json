@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前歴","p":true}],"r_ele":[{"r":"ぜんれき","p":true}],"sense":[{"gloss":"personal history","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑前歴↑↓|ぜんれき|↓について↑私↑↓わたし↓たちは↑調査↑↓ちょうさ↓した。","e":"We made inquiries into his past."}]}

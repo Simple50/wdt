@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"埋め立てる","p":true}],"r_ele":[{"r":"うめたてる","p":true}],"sense":[{"gloss":"to reclaim, to fill up","pos":["v1","vt"]}]},"sdata":[]}

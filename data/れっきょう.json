@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"列強","p":true}],"r_ele":[{"r":"れっきょう","p":true}],"sense":[{"gloss":"major powers of the world, great powers","pos":["n"]}]},"sdata":[]}

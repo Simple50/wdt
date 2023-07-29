@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遺伝子工学","p":true}],"r_ele":[{"r":"いでんしこうがく","p":true}],"sense":[{"gloss":"genetic engineering","pos":["n"],"f":["genet"]}]},"sdata":[]}

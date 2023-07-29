@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天王山","p":true}],"r_ele":[{"r":"てんのうざん","p":true},{"r":"てんおうざん"}],"sense":[{"gloss":"strategic point, crucial time, watershed, crunch","pos":["n"]}]},"sdata":[]}

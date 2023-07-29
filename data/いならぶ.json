@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"居並ぶ","p":true}],"r_ele":[{"r":"いならぶ","p":true}],"sense":[{"gloss":"to sit in a row, to be arrayed","pos":["v5b","vi"]}]},"sdata":[]}

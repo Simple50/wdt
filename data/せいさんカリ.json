@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青酸カリ","p":true}],"r_ele":[{"r":"せいさんカリ","p":true}],"sense":[{"gloss":"potassium cyanide","pos":["n"],"x":["青酸カリウム"]}],"m":["abbr"]},"sdata":[]}

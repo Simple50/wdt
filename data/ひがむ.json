@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"僻む","p":true}],"r_ele":[{"r":"ひがむ","p":true}],"sense":[{"gloss":"to have a warped view, to be jaundiced, to be prejudiced","pos":["v5m"]},{"gloss":"to feel that one has been unfairly treated","pos":["v5m"]},{"gloss":"to be jealous, to be envious, to have an inferiority complex","pos":["v5m"]}],"m":["uk"]},"sdata":[]}

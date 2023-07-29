@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"整合","p":true}],"r_ele":[{"r":"せいごう","p":true}],"sense":[{"gloss":"adjustment, coordination, integration, conformity","pos":["n","vs","vi","adj-no"]}]},"sdata":[]}

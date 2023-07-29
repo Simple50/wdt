@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"踏み込み","p":true}],"r_ele":[{"r":"ふみこみ","p":true}],"sense":[{"gloss":"dealing fully (with), going into (issue, etc.), stepping into, breaking or rushing into","pos":["n"]},{"gloss":"alcove","pos":["n"]}]},"sdata":[]}

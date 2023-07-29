@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"航空会社","p":true}],"r_ele":[{"r":"こうくうがいしゃ","p":true}],"sense":[{"gloss":"airline company","pos":["n"]}]},"sdata":[{"j":"この↑航空↑↓|こうくう↓↑会社↑↓がいしゃ|↓は↑貨物↑↓かもつ↓↑輸送↑↓ゆそう↓だけを↑取↑↓と↓り↑扱↑↓あつか↓っています。","e":"This aircraft company deals with freight only."}]}

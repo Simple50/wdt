@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"付け足す","p":true},{"e":"つけ足す"},{"e":"付足す"}],"r_ele":[{"r":"つけたす","p":true}],"sense":[{"gloss":"to add (to), to add on, to append","pos":["v5s","vt"]}]},"sdata":[]}

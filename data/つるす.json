@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吊るす","p":true},{"e":"吊す"}],"r_ele":[{"r":"つるす","p":true}],"sense":[{"gloss":"to hang, to hang up","pos":["v5s","vt"]}]},"sdata":[]}

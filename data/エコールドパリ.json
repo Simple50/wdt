@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エコールドパリ","p":true},{"r":"エコール・ド・パリ"}],"sense":[{"gloss":"School of Paris, École de Paris","pos":["n"],"l":"fre"}]},"sdata":[]}

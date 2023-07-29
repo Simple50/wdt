@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"曲芸","p":true}],"r_ele":[{"r":"きょくげい","p":true}],"sense":[{"gloss":"acrobatics","pos":["n"]}]},"sdata":[{"j":"サーカスのアシカは↑曲芸↑↓|きょくげい|↓を↑見↑↓み↓せた。","e":"The circus sea lion did a trick."}]}

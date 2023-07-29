@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"形式主義","p":true}],"r_ele":[{"r":"けいしきしゅぎ","p":true}],"sense":[{"gloss":"formalism","pos":["n","adj-no"]}]},"sdata":[]}

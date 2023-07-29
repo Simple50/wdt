@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スライディング","p":true}],"sense":[{"gloss":"sliding","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"センタリング","p":true}],"sense":[{"gloss":"centering, centring","pos":["n","vs"]}]},"sdata":[]}

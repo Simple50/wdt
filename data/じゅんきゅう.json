@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"準急","p":true}],"r_ele":[{"r":"じゅんきゅう","p":true}],"sense":[{"gloss":"semi-express train, local express train, sub-express train","pos":["n"]}],"m":["abbr"]},"sdata":[]}

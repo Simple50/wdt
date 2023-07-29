@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"育ち盛り","p":true}],"r_ele":[{"r":"そだちざかり","p":true}],"sense":[{"gloss":"growth period (in children)","pos":["n","adj-no"]}]},"sdata":[{"j":"↑育↑↓|そだ↓ち↑盛↑↓ざか↓り|の↑子供↑↓こども↓にはもっと↑多↑↓おお↓くの↑食物↑↓しょくもつ↓が↑必要↑↓ひつよう↓だ。","e":"A growing child requires more food."}]}

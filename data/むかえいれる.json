@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"迎え入れる","p":true}],"r_ele":[{"r":"むかえいれる","p":true}],"sense":[{"gloss":"to show in, to usher in","pos":["v1","vt"]}]},"sdata":[]}

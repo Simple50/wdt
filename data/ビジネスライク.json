@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビジネスライク","p":true}],"sense":[{"gloss":"businesslike, professional","pos":["adj-na"]}]},"sdata":[]}

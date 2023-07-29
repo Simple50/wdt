@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"借り受ける","p":true}],"r_ele":[{"r":"かりうける","p":true}],"sense":[{"gloss":"to borrow, to have a loan, to hire, to rent, to buy on credit","pos":["v1","vt"]}]},"sdata":[]}

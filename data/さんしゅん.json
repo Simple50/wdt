@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三春","p":true}],"r_ele":[{"r":"さんしゅん","p":true}],"sense":[{"gloss":"three spring months","pos":["n"]}]},"sdata":[]}

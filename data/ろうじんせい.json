@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老人性","p":true}],"r_ele":[{"r":"ろうじんせい","p":true}],"sense":[{"gloss":"senile","pos":["adj-na"]}]},"sdata":[]}

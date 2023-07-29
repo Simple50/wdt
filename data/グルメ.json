@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グルメ","p":true}],"sense":[{"gloss":"fine food, high-quality food","pos":["n","adj-no"],"l":"fre: gourmet"},{"gloss":"epicure, gastronome, gourmet","pos":["n"],"x":["美食家","食通・2"]}]},"sdata":[]}

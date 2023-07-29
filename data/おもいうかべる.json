@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い浮かべる","p":true}],"r_ele":[{"r":"おもいうかべる","p":true}],"sense":[{"gloss":"to be reminded of, to call to mind","pos":["v1"]}]},"sdata":[{"j":"↑家族↑↓かぞく↓のことを↑思↑↓|おも↓い↑浮↑↓う↓かべる|といえが↑恋↑↓こい↓しくなる。","e":"I feel homesick when I remember my family."}]}

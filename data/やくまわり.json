@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"役回り","p":true},{"e":"役まわり"}],"r_ele":[{"r":"やくまわり","p":true}],"sense":[{"gloss":"role, part, duty","pos":["n"]}]},"sdata":[]}

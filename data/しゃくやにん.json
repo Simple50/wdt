@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"借家人","p":true}],"r_ele":[{"r":"しゃくやにん","p":true},{"r":"しゃっかにん"}],"sense":[{"gloss":"tenant, renter","pos":["n"]}]},"sdata":[]}

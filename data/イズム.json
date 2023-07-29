@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イズム","p":true},{"r":"ズム"}],"sense":[{"gloss":"ism","pos":["n"]},{"gloss":"-ism","pos":["suf"]}]},"sdata":[]}

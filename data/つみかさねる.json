@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積み重ねる","p":true},{"e":"積重ねる"},{"e":"つみ重ねる"}],"r_ele":[{"r":"つみかさねる","p":true}],"sense":[{"gloss":"to pile up, to accumulate","pos":["v1","vt"]}]},"sdata":[]}

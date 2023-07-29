@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本塁打","p":true}],"r_ele":[{"r":"ほんるいだ","p":true}],"sense":[{"gloss":"home run","pos":["n"],"f":["baseb"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レプラ","p":true}],"sense":[{"gloss":"leprosy","pos":["n"],"l":"lat: lepra"}]},"sdata":[]}

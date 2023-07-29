@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"裏門","p":true}],"r_ele":[{"r":"うらもん","p":true}],"sense":[{"gloss":"back gate","pos":["n"]}]},"sdata":[]}

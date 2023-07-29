@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウェルダン","p":true},{"r":"ウエルダン"}],"sense":[{"gloss":"well-done (of meat)","pos":["n"],"f":["food"]}]},"sdata":[]}

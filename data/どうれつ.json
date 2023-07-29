@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同列","p":true}],"r_ele":[{"r":"どうれつ","p":true}],"sense":[{"gloss":"same row, same line, same file","pos":["n"]},{"gloss":"same rank, same level, same category, same treatment","pos":["n"]}]},"sdata":[]}

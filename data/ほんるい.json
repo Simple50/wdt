@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本塁","p":true}],"r_ele":[{"r":"ほんるい","p":true}],"sense":[{"gloss":"base, stronghold, main fort","pos":["n"]},{"gloss":"home base, home plate","pos":["n"],"f":["baseb"]}]},"sdata":[]}

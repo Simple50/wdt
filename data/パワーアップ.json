@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パワーアップ","p":true},{"r":"パワー・アップ"}],"sense":[{"gloss":"powering up","pos":["n","vs"],"l":"eng: power up"}]},"sdata":[]}

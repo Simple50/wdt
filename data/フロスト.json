@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フロスト","p":true}],"sense":[{"gloss":"frost","pos":["n"]}]},"sdata":[{"j":"|フロスト|↑氏↑↓し↓はその↑地位↑↓ちい↓につく↑資格↑↓しかく↓がある。","e":"Mr Frost is eligible for the post."}]}

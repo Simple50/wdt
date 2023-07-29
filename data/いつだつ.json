@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逸脱","p":true}],"r_ele":[{"r":"いつだつ","p":true}],"sense":[{"gloss":"deviation, departure","pos":["n","vs","vi"]},{"gloss":"omission","pos":["n","vs","vt","vi"]}]},"sdata":[]}

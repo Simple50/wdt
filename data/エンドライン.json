@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンドライン","p":true},{"r":"エンド・ライン"}],"sense":[{"gloss":"end line","pos":["n"],"f":["sports"]}]},"sdata":[]}

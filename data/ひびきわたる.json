@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"響き渡る","p":true},{"e":"響きわたる"}],"r_ele":[{"r":"ひびきわたる","p":true}],"sense":[{"gloss":"to resound, to echo, to reverberate","pos":["v5r","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弱り果てる","p":true}],"r_ele":[{"r":"よわりはてる","p":true}],"sense":[{"gloss":"to be exhausted, to be at a loss, to be worn out, to be helpless","pos":["v1","vi"]}]},"sdata":[]}

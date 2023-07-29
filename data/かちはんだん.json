@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"価値判断","p":true}],"r_ele":[{"r":"かちはんだん","p":true}],"sense":[{"gloss":"value judgement, value judgment","pos":["n"]}]},"sdata":[]}

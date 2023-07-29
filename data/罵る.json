@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"罵る","p":true}],"r_ele":[{"r":"ののしる","p":true}],"sense":[{"gloss":"to abuse (verbally), to curse at, to shout abuse at, to speak ill of","pos":["v5r","vt"]}]},"kdata":{"罵":{"on":["バ"],"kun":["ののし.る"],"meanings":["abuse","insult"],"freq":2467,"comp":[["罒","馬"]],"jlpt":1,"t":2091}},"sdata":[]}

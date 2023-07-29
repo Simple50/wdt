@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗り越す","p":true},{"e":"乗越す"}],"r_ele":[{"r":"のりこす","p":true}],"sense":[{"gloss":"to ride past (one's stop), to overshoot","pos":["v5s","vt"]},{"gloss":"to climb over, to get over","pos":["v5s","vt"],"x":["乗り越える・1"]},{"gloss":"to overtake (a vehicle), to pass","pos":["v5s","vt"],"m":["obs"]}]},"sdata":[]}

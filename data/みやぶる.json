@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見破る","p":true},{"e":"看破る"}],"r_ele":[{"r":"みやぶる","p":true}],"sense":[{"gloss":"to see through (a plot, lie, etc.), to penetrate into, to discover, to find out","pos":["v5r","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑彼↑↓かれ↓の↑正体↑↓しょうたい↓を↑見破↑↓|みやぶ↓る|ことは↑出来↑↓でき↓ませんでした。","e":"I could not find him out."}]}

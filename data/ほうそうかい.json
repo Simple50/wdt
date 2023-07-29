@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"法曹界","p":true}],"r_ele":[{"r":"ほうそうかい","p":true}],"sense":[{"gloss":"legal circles","pos":["n"]}]},"sdata":[]}

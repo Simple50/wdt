@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"川路","p":true}],"r_ele":[{"r":"かわじ","p":true}],"sense":[{"gloss":"river's course","pos":["n"]}]},"sdata":[]}

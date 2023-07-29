@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファシスト","p":true},{"r":"ファシスタ"}],"sense":[{"gloss":"fascist","pos":["n"]}]},"sdata":[]}

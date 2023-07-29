@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"基軸","p":true}],"r_ele":[{"r":"きじく","p":true}],"sense":[{"gloss":"basis, foundation, core, criterion, standard","pos":["n"]}]},"sdata":[]}

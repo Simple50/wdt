@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"純銀","p":true}],"r_ele":[{"r":"じゅんぎん","p":true}],"sense":[{"gloss":"pure silver","pos":["n"]}]},"sdata":[]}

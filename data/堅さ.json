@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"硬さ","p":true},{"e":"固さ","p":true},{"e":"堅さ","p":true}],"r_ele":[{"r":"かたさ","p":true}],"sense":[{"gloss":"firmness, hardness, stiffness, honesty","pos":["n"]}]},"kdata":{"堅":{"on":["ケン"],"kun":["かた.い","-がた.い"],"jlpt":1,"meanings":["strict","hard","solid","tough","tight","reliable"],"freq":1049,"comp":[["臤","土"]],"d":["樫","鰹","鏗","慳"],"t":1473}},"sdata":[]}

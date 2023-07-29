@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い立て","p":true}],"r_ele":[{"r":"おいたて","p":true}],"sense":[{"gloss":"ejection, eviction, dispossession","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓が↑出↑↓だ↓すの↑頼↑↓たの↓んで|おいた↑手紙↑↓て|がみ↓にさ、↑切手↑↓きって↓↑貼↑↓は↓るの↑忘↑↓わす↓れないでよ。","e":"Please don't forget to put stamps on the letters that I gave you to mail."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変わり身","p":true}],"r_ele":[{"r":"かわりみ","p":true}],"sense":[{"gloss":"change of attitude (stance, position)","pos":["n"]},{"gloss":"lightness of foot, ability to dodge out of the way of an attack","pos":["n"],"f":["sumo"]}]},"sdata":[{"j":"↑変↑↓|か↓わり↑身↑↓み|↓が↑早↑↓はや↓い。","e":"I'm quick to adapt to changing circumstances."}]}

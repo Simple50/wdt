@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"呼び込む","p":true},{"e":"呼びこむ"},{"e":"呼込む"}],"r_ele":[{"r":"よびこむ","p":true}],"sense":[{"gloss":"to call in, to invite, to bring in","pos":["v5m","vt"],"x":["呼び入れる・よびいれる"]}]},"sdata":[{"j":"タトエバにもっと↑日本語↑↓にほんご↓↑話者↑↓わしゃ↓を↑呼↑↓|よ↓び↑込↑↓こ↓む|↑方法↑↓ほうほう↓はないものでしょうか。","e":"I wonder if there's some way of attracting more Japanese speakers to Tatoeba?"}]}

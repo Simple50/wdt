@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り崩す","p":true},{"e":"取崩す"},{"e":"取りくずす","i":["sK"]}],"r_ele":[{"r":"とりくずす","p":true}],"sense":[{"gloss":"to demolish, to tear down, to pull down","pos":["v5s","vt"]},{"gloss":"to draw on (one's savings, etc.) little by little, to break into (a reserve fund, etc.), to eat into","pos":["v5s","vt"]}]},"sdata":[]}

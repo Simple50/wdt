@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"富国強兵","p":true}],"r_ele":[{"r":"ふこくきょうへい","p":true}],"sense":[{"gloss":"enrich the country, strengthen the army","pos":["n"]}],"m":["yoji","hist"]},"sdata":[]}

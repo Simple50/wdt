@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"予選","p":true}],"r_ele":[{"r":"よせん","p":true}],"sense":[{"gloss":"preliminary contest, qualifying round, trial, heat, primary","pos":["n","vs"]}]},"sdata":[{"j":"↑日本↑↓にほん↓↑代表↑↓だいひょう↓は↑惜↑↓お↓しくも↑予選↑↓|よせん|↓↑敗退↑↓はいたい↓となりました。","e":"Regretfully, the Japanese representative was eliminated at the preliminary stage."}]}

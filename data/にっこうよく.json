@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日光浴","p":true}],"r_ele":[{"r":"にっこうよく","p":true}],"sense":[{"gloss":"sunbathing","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はそのとき↑日光浴↑↓|にっこうよく|↓をしていました。","e":"At that time, she was bathing in the sun."},{"j":"↑彼女↑↓かのじょ↓はそのとき↑日光浴↑↓|にっこうよく|↓をしていました。","e":"She was sunbathing at that time."}]}

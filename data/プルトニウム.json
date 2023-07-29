@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プルトニウム","p":true}],"sense":[{"gloss":"plutonium (Pu)","pos":["n"]}]},"sdata":[]}

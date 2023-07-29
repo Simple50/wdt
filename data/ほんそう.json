@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奔走","p":true}],"r_ele":[{"r":"ほんそう","p":true}],"sense":[{"gloss":"running about, making every effort (to do), busying oneself (with), being busily engaged (in), good offices, efforts","pos":["n","vs","vi"]}]},"sdata":[]}

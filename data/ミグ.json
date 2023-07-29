@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＭｉＧ"}],"r_ele":[{"r":"ミグ","p":true}],"sense":[{"gloss":"Mig (Russian aeroplane, airplane), MIG","pos":["n"]}],"m":["uk"]},"sdata":[]}

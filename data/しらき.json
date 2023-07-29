@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白木","p":true}],"r_ele":[{"r":"しらき","p":true}],"sense":[{"gloss":"plain wood, unfinished woodwork","pos":["n"]}]},"sdata":[]}

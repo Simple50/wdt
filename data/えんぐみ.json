@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縁組","p":true},{"e":"縁組み"}],"r_ele":[{"r":"えんぐみ","p":true}],"sense":[{"gloss":"forming a familial relationship (through adoption, marriage, etc.)","pos":["n","vs","vi"]},{"gloss":"adoption","pos":["n"],"f":["law"],"x":["養子縁組"]}]},"sdata":[{"j":"↑縁組↑↓|えんぐみ|↓は↑天↑↓てん↓でなされる。","e":"Marriage is made in heaven."}]}

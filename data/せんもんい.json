@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"専門医","p":true}],"r_ele":[{"r":"せんもんい","p":true}],"sense":[{"gloss":"(medical) specialist","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは、ブラウン↑博士↑↓はかせ↓を↑合衆国↑↓がっしゅうこく↓で↑最高↑↓さいこう↓の↑心臓↑↓しんぞう↓↑病↑↓びょう↓の↑専門医↑↓|せんもんい|↓とみなしている。","e":"We regard Dr. Brown as the best heart specialist in the United States."}]}

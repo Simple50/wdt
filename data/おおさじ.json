@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大さじ","p":true},{"e":"大匙"}],"r_ele":[{"r":"おおさじ","p":true}],"sense":[{"gloss":"tablespoon","pos":["n"]}]},"sdata":[]}

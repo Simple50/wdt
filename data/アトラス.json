@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アトラス","p":true}],"sense":[{"gloss":"Atlas","pos":["n"]},{"gloss":"atlas","pos":["n"]}]},"sdata":[]}

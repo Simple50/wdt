@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンモナイト","p":true}],"sense":[{"gloss":"ammonite","pos":["n"]}]},"sdata":[]}

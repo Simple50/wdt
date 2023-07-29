@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"眼底","p":true}],"r_ele":[{"r":"がんてい","p":true}],"sense":[{"gloss":"fundus of the eye","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"母艦","p":true}],"r_ele":[{"r":"ぼかん","p":true}],"sense":[{"gloss":"mother ship","pos":["n"]}]},"kdata":{"母":{"on":["ボ"],"kun":["はは","も"],"jlpt":5,"meanings":["mother"],"freq":570,"d":["毒","苺","栂","姆","袰","每","拇","鉧"],"v":"毋","t":245},"艦":{"on":["カン"],"jlpt":1,"meanings":["warship"],"freq":1363,"comp":[["舟","監"]],"t":2297}},"sdata":[]}

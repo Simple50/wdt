@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地質学","p":true}],"r_ele":[{"r":"ちしつがく","p":true}],"sense":[{"gloss":"geology","pos":["n"]}]},"sdata":[{"j":"↑地質↑↓|ちしつ↓↑学者↑↓がく|しゃ↓が↑私↑↓わたし↓たちの↑農場↑↓のうじょう↓で↑石油↑↓せきゆ↓の↑実地↑↓じっち↓↑調査↑↓ちょうさ↓を↑行↑↓おこな↓った。","e":"The geologists explored for oil on our farm."},{"j":"トムは↑地質↑↓|ちしつ↓↑学↑↓がく|↓を↑専攻↑↓せんこう↓してた。","e":"Tom majored in geology."}]}

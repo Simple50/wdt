@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"木版","p":true}],"r_ele":[{"r":"もくはん","p":true}],"sense":[{"gloss":"wood-block printing, wood engraving","pos":["n"]}]},"sdata":[]}

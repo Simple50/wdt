@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特進","p":true}],"r_ele":[{"r":"とくしん","p":true}],"sense":[{"gloss":"special promotion (in rank or grade)","pos":["n","vs","vi"]}]},"sdata":[]}

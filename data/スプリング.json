@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スプリング","p":true}],"sense":[{"gloss":"spring","pos":["n"]}]},"sdata":[{"j":"ホワイト↑氏↑↓し↓は|スプリング|フィールドのあるホテルの↑支配人↑↓しはいにん↓でした。","e":"Mr White was the manager of a hotel in Springfield."},{"j":"ホワイト↑氏↑↓し↓は|スプリング|フィールドのあるホテルの↑支配人↑↓しはいにん↓でした。","e":"Mr. White was the manager of a hotel in Springfield."}]}

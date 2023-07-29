@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"痴呆症","p":true}],"r_ele":[{"r":"ちほうしょう","p":true}],"sense":[{"gloss":"dementia","pos":["n"],"f":["med"],"x":["認知症"]}],"m":["obs"]},"sdata":[]}

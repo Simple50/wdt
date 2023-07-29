@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デモクラシー","p":true},{"r":"デモクラシイ","i":["ik"]}],"sense":[{"gloss":"democracy","pos":["n"]}]},"sdata":[]}

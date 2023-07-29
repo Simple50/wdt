@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バラエティ","p":true},{"r":"バラエティー"},{"r":"ヴァラエティ","i":["sk"]},{"r":"ヴァラエティー","i":["sk"]}],"sense":[{"gloss":"variety","pos":["n"]},{"gloss":"variety show","pos":["n"],"m":["abbr"],"x":["バラエティーショー"]}]},"sdata":[]}

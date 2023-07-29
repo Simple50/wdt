@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"西南西","p":true}],"r_ele":[{"r":"せいなんせい","p":true}],"sense":[{"gloss":"west-southwest","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"贈収賄","p":true}],"r_ele":[{"r":"ぞうしゅうわい","p":true}],"sense":[{"gloss":"bribery, corruption","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑贈収賄↑↓|ぞうしゅうわい|↓を↑軽蔑↑↓けいべつ↓した。","e":"He disdained bribery."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スタンフォード","p":true}],"sense":[{"gloss":"Stanford","pos":["n"]}]},"sdata":[]}

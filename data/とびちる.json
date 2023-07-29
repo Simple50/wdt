@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飛び散る","p":true},{"e":"飛散る"}],"r_ele":[{"r":"とびちる","p":true}],"sense":[{"gloss":"to fly around, to scatter","pos":["v5r","vi"]}]},"sdata":[]}

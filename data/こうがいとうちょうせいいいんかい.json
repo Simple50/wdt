@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公害等調整委員会","p":true}],"r_ele":[{"r":"こうがいとうちょうせいいいんかい","p":true}],"sense":[{"gloss":"Environmental Dispute Coordination Commission","pos":["n"]}]},"sdata":[]}

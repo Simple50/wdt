@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民兵","p":true}],"r_ele":[{"r":"みんぺい","p":true}],"sense":[{"gloss":"militia, militiaman","pos":["n"]}]},"sdata":[]}

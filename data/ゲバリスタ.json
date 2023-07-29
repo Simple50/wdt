@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゲバリスタ","p":true}],"sense":[{"gloss":"Guevarista","pos":["n"],"l":"spa"}]},"sdata":[]}

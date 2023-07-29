@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駅長","p":true}],"r_ele":[{"r":"えきちょう","p":true}],"sense":[{"gloss":"station master","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にほん↓には↑猫↑↓ねこ↓が↑駅長↑↓|えきちょう|↓を↑務↑↓つと↓める↑駅↑↓えき↓がある。","e":"In Japan there are train stations with a cat for a stationmaster."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"円筒","p":true}],"r_ele":[{"r":"えんとう","p":true}],"sense":[{"gloss":"cylinder","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑株↑↓かぶ↓に１００↑万↑↓まん↓↑円↑↓|えん↓↑投資↑↓とう|し↓することができる。","e":"He can invest a million yen in stocks."},{"j":"↑彼↑↓かれ↓は↑株↑↓かぶ↓に５０↑万↑↓まん↓↑円↑↓|えん↓↑投資↑↓とう|し↓した。","e":"He invested 500,000 yen in stocks."}]}

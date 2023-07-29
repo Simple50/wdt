@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"作業環境","p":true}],"r_ele":[{"r":"さぎょうかんきょう","p":true}],"sense":[{"gloss":"work environment","pos":["n"]}]},"sdata":[]}

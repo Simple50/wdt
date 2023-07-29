@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デューティーフリー","p":true}],"sense":[{"gloss":"duty-free","pos":["n"]}]},"sdata":[]}

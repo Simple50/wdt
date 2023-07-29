@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファクシミリ","p":true}],"sense":[{"gloss":"facsimile","pos":["n"]},{"gloss":"fax, fax machine","pos":["n"],"x":["ファックス・1"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初婚","p":true}],"r_ele":[{"r":"しょこん","p":true}],"sense":[{"gloss":"first marriage","pos":["n"]}]},"sdata":[{"j":"トムの↑新↑↓あたら↓しい↑奥様↑↓おくさま↓ってね、↑初婚↑↓|しょこん|↓の↑時↑↓とき↓の↑娘↑↓むすめ↓さんよりも↑若↑↓わか↓いのよ。","e":"Tom's new wife is younger than his daughter from his first marriage."}]}

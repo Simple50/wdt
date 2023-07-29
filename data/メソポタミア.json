@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メソポタミア","p":true}],"sense":[{"gloss":"Mesopotamia","pos":["n"]}]},"sdata":[]}

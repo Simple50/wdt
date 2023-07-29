@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口利き","p":true},{"e":"口きき"}],"r_ele":[{"r":"くちきき","p":true}],"sense":[{"gloss":"mediation, good offices, intervention, mediator, middleman","pos":["n"]},{"gloss":"influential person, person of influence","pos":["n"]},{"gloss":"eloquence, eloquent person","pos":["n"],"m":["arch"]},{"gloss":"way of speaking","pos":["n"],"m":["arch"]}]},"sdata":[]}

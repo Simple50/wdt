@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クローズアップ","p":true}],"sense":[{"gloss":"close-up","pos":["n","vs","vt"]},{"gloss":"bringing attention to, bringing to the fore, putting under close scrutiny, highlighting","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑今日↑↓きょう↓この↑番組↑↓ばんぐみ↓でハッカーの↑問題↑↓もんだい↓を|クローズアップ|するんだって。","e":"This program is going to focus on computer hacking issues today."}]}

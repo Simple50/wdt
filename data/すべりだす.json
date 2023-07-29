@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滑り出す","p":true},{"e":"滑りだす","i":["sK"]},{"e":"すべり出す","i":["sK"]}],"r_ele":[{"r":"すべりだす","p":true}],"sense":[{"gloss":"to start sliding, to begin to slide, to begin to slip","pos":["v5s","vi"]},{"gloss":"to make a start, to start (off), to get under way","pos":["v5s","vi"]}]},"sdata":[]}

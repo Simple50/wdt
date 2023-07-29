@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勧業","p":true}],"r_ele":[{"r":"かんぎょう","p":true}],"sense":[{"gloss":"(encouragement of) industry","pos":["n"]}]},"sdata":[]}

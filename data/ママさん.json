@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ママさん","p":true}],"sense":[{"gloss":"female proprietress (of a bar, etc.)","pos":["n"],"x":["ママ・2"]},{"gloss":"mother, housewife","pos":["n","n-pref"]},{"gloss":"(female) pet owner, pet parent","pos":["n"]}]},"sdata":[]}

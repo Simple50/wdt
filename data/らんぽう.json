@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卵胞","p":true}],"r_ele":[{"r":"らんぽう","p":true},{"r":"らんほう"}],"sense":[{"gloss":"(ovarian) follicle","pos":["n"],"f":["anat"]}]},"sdata":[]}

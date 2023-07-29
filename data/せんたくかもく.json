@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"選択科目","p":true}],"r_ele":[{"r":"せんたくかもく","p":true}],"sense":[{"gloss":"elective subject or course","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちの↑高校↑↓こうこう↓では、フランス↑語↑↓ご↓が↑選択↑↓|せんたく↓↑科目↑↓かもく|↓です。","e":"At our high school, French is an elective."}]}

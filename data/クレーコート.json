@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレーコート","p":true},{"r":"クレー・コート"}],"sense":[{"gloss":"clay court (tennis)","pos":["n"],"f":["sports"]}]},"sdata":[]}

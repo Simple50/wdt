@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"住民税","p":true}],"r_ele":[{"r":"じゅうみんぜい","p":true}],"sense":[{"gloss":"municipal tax","pos":["n"]}]},"sdata":[]}

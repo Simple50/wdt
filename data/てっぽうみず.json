@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄砲水","p":true}],"r_ele":[{"r":"てっぽうみず","p":true}],"sense":[{"gloss":"flash flood","pos":["n"]}]},"sdata":[]}

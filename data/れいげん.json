@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冷厳","p":true}],"r_ele":[{"r":"れいげん","p":true}],"sense":[{"gloss":"grim, stern, stark, heartless","pos":["adj-na","n"]}]},"sdata":[{"j":"↑真理↑↓しんり↓は↑通例↑↓つう|れい↓↑現在↑↓げん|ざい↓↑時制↑↓じせい↓で↑表現↑↓ひょうげん↓される。","e":"Truth is usually expressed in the present tense."}]}

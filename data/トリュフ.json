@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トリュフ","p":true}],"sense":[{"gloss":"truffle","pos":["n"],"l":"fre: truffe"}]},"sdata":[]}

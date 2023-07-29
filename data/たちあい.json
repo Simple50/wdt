@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立会い","p":true},{"e":"立会"},{"e":"立ち会い","p":true}],"r_ele":[{"r":"たちあい","p":true}],"sense":[{"gloss":"presence (e.g. of an observer), observation, observer, witness","pos":["n"]},{"gloss":"trading session (at an exchange)","pos":["n"]}]},"sdata":[]}

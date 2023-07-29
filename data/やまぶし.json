@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山伏","p":true},{"e":"山臥","i":["rK"]}],"r_ele":[{"r":"やまぶし","p":true}],"sense":[{"gloss":"yamabushi, practitioner of Shugendō","pos":["n"],"x":["修験道"]},{"gloss":"itinerant Buddhist monk","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アーバニティー","p":true},{"r":"アーバニティ"}],"sense":[{"gloss":"urbanity","pos":["n"]}]},"sdata":[]}

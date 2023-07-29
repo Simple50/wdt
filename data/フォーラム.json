@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フォーラム","p":true}],"sense":[{"gloss":"forum","pos":["n"]}]},"sdata":[{"j":"この|フォーラム|は↑素晴↑↓すば↓らしいです。","e":"This forum is marvellous."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"耳鼻咽喉科","p":true}],"r_ele":[{"r":"じびいんこうか","p":true}],"sense":[{"gloss":"otorhinolaryngology, otolaryngology, ear, nose and throat department","pos":["n"]}]},"sdata":[{"j":"トムは、↑耳鼻咽喉科↑↓|じびいんこうか|↓の↑先生↑↓せんせい↓です。","e":"Tom is an otorhinolaryngologist."}]}

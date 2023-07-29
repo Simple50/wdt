@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"演出家","p":true}],"r_ele":[{"r":"えんしゅつか","p":true}],"sense":[{"gloss":"producer, director","pos":["n"]}]},"sdata":[]}

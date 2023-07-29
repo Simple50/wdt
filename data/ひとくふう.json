@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一工夫","p":true}],"r_ele":[{"r":"ひとくふう","p":true}],"sense":[{"gloss":"contrivance, bit of fiddling, little ingenuity","pos":["n","vs"]},{"gloss":"bit more (e.g. food)","pos":["n"]}]},"sdata":[]}

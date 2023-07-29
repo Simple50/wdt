@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"値崩れ","p":true}],"r_ele":[{"r":"ねくずれ","p":true}],"sense":[{"gloss":"price collapse","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑過度↑↓かど↓の↑供給↑↓きょうきゅう↓は↑値崩↑↓|ねくず↓れ|につながる。","e":"Excessive supply leads to a drop in prices."}]}

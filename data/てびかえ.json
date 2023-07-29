@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手控え","p":true}],"r_ele":[{"r":"てびかえ","p":true}],"sense":[{"gloss":"note, memorandum","pos":["n"]},{"gloss":"holding oneself back","pos":["n"]}]},"sdata":[]}

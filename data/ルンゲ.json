@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ルンゲ","p":true}],"sense":[{"gloss":"lung","pos":["n"],"l":"ger: Lunge"}]},"sdata":[]}

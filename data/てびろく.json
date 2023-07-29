@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手広く","p":true}],"r_ele":[{"r":"てびろく","p":true}],"sense":[{"gloss":"widely, extensively, on an extensive scale","pos":["adv"]}]},"sdata":[]}

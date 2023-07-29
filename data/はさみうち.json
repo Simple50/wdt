@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"挟み撃ち","p":true},{"e":"挟み打ち"}],"r_ele":[{"r":"はさみうち","p":true}],"sense":[{"gloss":"attack on both sides, pincer movement, double envelopment","pos":["n","vs","vt"]}]},"sdata":[]}

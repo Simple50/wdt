@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"云々","p":true},{"e":"云云"}],"r_ele":[{"r":"うんぬん","p":true}],"sense":[{"gloss":"and so on, and so forth, et cetera, and such, and the like","pos":["exp"]},{"gloss":"comment, criticism","pos":["n","vs"]}]},"sdata":[]}

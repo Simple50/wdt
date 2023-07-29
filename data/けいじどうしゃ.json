@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軽自動車","p":true}],"r_ele":[{"r":"けいじどうしゃ","p":true}],"sense":[{"gloss":"light motor vehicle (up to 660cc and 64bhp), k-car, kei car","pos":["n"],"x":["軽カー"]}]},"sdata":[]}

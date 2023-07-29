@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"光学式文字認識","p":true}],"r_ele":[{"r":"こうがくしきもじにんしき","p":true}],"sense":[{"gloss":"optical character recognition, OCR","pos":["n"],"f":["comp"]}]},"sdata":[]}

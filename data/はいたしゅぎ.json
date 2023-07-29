@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"排他主義","p":true}],"r_ele":[{"r":"はいたしゅぎ","p":true}],"sense":[{"gloss":"exclusivism, exclusionism","pos":["n","adj-no"]}]},"sdata":[]}

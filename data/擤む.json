@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"擤む","p":true,"i":["oK"]}],"r_ele":[{"r":"かむ","p":true}],"sense":[{"gloss":"to blow (one's nose)","pos":["v5m","vt"]}],"m":["uk"]},"kdata":{"擤":{"on":["コウ","キョウ"],"kun":["か.む"],"meanings":["to blow the nose with fingers"],"comp":[["扌","鼻"]]}},"sdata":[]}

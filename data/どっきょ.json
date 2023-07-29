@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独居","p":true}],"r_ele":[{"r":"どっきょ","p":true}],"sense":[{"gloss":"living alone, solitude, solitary life","pos":["n","vs","vi"]}]},"sdata":[]}

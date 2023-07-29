@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビーナス","p":true},{"r":"ヴィーナス","p":true},{"r":"ウェヌス"}],"sense":[{"gloss":"Venus (Roman goddess)","pos":["n"],"x":["アプロディーテー"]},{"gloss":"Venus (planet)","pos":["n"],"f":["astron"],"x":["金星・きんせい"]}]},"sdata":[{"j":"ミロの|ヴィーナス|は↑美↑↓び↓の↑極致↑↓きょくち↓だ。","e":"The Venus de Milo is the perfection of beauty."}]}

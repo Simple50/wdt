@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"丸本","p":true}],"r_ele":[{"r":"まるぼん"},{"r":"まるほん","p":true}],"sense":[{"gloss":"reciter's book, complete set of books","pos":["n"]}]},"sdata":[]}

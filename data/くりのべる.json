@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"繰り延べる","p":true},{"e":"繰延べる"}],"r_ele":[{"r":"くりのべる","p":true}],"sense":[{"gloss":"to postpone, to defer, to reschedule","pos":["v1","vt"]}]},"sdata":[]}

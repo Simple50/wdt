@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公明党","p":true}],"r_ele":[{"r":"こうめいとう","p":true}],"sense":[{"gloss":"Komeito (Japanese political party)","pos":["n"]}]},"sdata":[{"j":"↑安倍↑↓あべ↓↑内閣↑↓ないかく↓は、↑自由民主党↑↓じゆうみんしゅとう↓、↑公明党↑↓|こうめいとう|↓を↑与党↑↓よとう↓とする↑連立↑↓れんりつ↓↑内閣↑↓ないかく↓である。","e":"The Abe Cabinet is a coalition Cabinet where the Liberal Democratic Party and New Komei Party form the government."}]}

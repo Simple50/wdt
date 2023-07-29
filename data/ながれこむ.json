@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流れ込む","p":true}],"r_ele":[{"r":"ながれこむ","p":true}],"sense":[{"gloss":"to flow into, to pour into, to stream into","pos":["v5m","vi"]}]},"sdata":[{"j":"その↑水↑↓みず↓は↑池↑↓いけ↓に↑流↑↓|なが↓れ↑込↑↓こ↓む|。","e":"The water runs downward to the pond."},{"j":"この↑川↑↓かわ↓はオンタリオ↑湖↑↓こ↓に↑流↑↓|なが↓れ↑込↑↓こ↓む|。","e":"This river runs into Lake Ontario."}]}

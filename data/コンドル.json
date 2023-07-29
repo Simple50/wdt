@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンドル","p":true}],"sense":[{"gloss":"condor (incl. other New World vultures of family Cathartidae)","pos":["n"]},{"gloss":"Andean condor (Vultur gryphus)","pos":["n"]}]},"sdata":[{"j":"|コンドル|は↑動物↑↓どうぶつ↓↑園↑↓えん↓では↑決↑↓けっ↓して↑育↑↓そだ↓たない。","e":"Condors have never bred in zoos."}]}

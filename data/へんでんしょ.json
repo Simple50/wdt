@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変電所","p":true}],"r_ele":[{"r":"へんでんしょ","p":true}],"sense":[{"gloss":"transformer substation","pos":["n"]}]},"sdata":[]}

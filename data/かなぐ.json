@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金具","p":true}],"r_ele":[{"r":"かなぐ","p":true}],"sense":[{"gloss":"metal fittings, metal fixtures","pos":["n"]}]},"sdata":[]}

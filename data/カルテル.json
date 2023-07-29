@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カルテル","p":true}],"sense":[{"gloss":"cartel","pos":["n"],"f":["econ"],"l":"ger: Kartell"}]},"sdata":[]}

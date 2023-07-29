@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雲雀","p":true},{"e":"告天子","i":["rK"]}],"r_ele":[{"r":"ひばり","p":true},{"r":"こくてんし"},{"r":"こうてんし"},{"r":"ヒバリ"}],"sense":[{"gloss":"skylark (Alauda arvensis)","pos":["n"],"m":["uk"]},{"gloss":"Mongolian lark (Melanocorypha mongolica)","pos":["n"]}]},"sdata":[]}

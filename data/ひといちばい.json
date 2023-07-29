@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人一倍","p":true}],"r_ele":[{"r":"ひといちばい","p":true}],"sense":[{"gloss":"(much) more than others, exceedingly, extremely, unusually","pos":["adv","adj-no","n"]}]},"sdata":[{"j":"レギュラーになるなら、↑人一倍↑↓|ひといちばい|↓↑頑張↑↓がんば↓らなくっちゃ。","e":"If I'm to become a regular, I have to work twice as hard as the rest."}]}

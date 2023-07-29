@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銅線","p":true}],"r_ele":[{"r":"どうせん","p":true}],"sense":[{"gloss":"copper line, copper wire","pos":["n"]}]},"kdata":{"銅":{"on":["ドウ"],"kun":["あかがね"],"jlpt":2,"meanings":["copper"],"freq":1505,"comp":[["同","金"]],"s":"鍋","t":1940},"線":{"on":["セン"],"kun":["すじ"],"jlpt":2,"meanings":["line","track"],"freq":382,"comp":[["泉","糸"]],"t":2033}},"sdata":[]}

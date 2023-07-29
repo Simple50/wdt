@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病根","p":true}],"r_ele":[{"r":"びょうこん","p":true}],"sense":[{"gloss":"cause of a disease, root of an evil","pos":["n"]}]},"sdata":[]}

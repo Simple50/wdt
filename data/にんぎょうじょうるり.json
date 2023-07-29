@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人形浄瑠璃","p":true}],"r_ele":[{"r":"にんぎょうじょうるり","p":true}],"sense":[{"gloss":"Japanese puppet theatre in which recited narrative and dialog is accompanied by a shamisen (forerunner of bunraku)","pos":["n"],"x":["浄瑠璃","文楽"]}]},"sdata":[]}

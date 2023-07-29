@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積み残し","p":true}],"r_ele":[{"r":"つみのこし","p":true}],"sense":[{"gloss":"left-off cargo, passengers left behind","pos":["n"]},{"gloss":"rounding error, truncation error, remainder after truncation to an integer value","pos":["n"],"f":["math"]}]},"sdata":[]}

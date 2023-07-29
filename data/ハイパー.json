@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイパー","p":true}],"sense":[{"gloss":"hyper","pos":["adj-f"]}]},"sdata":[]}

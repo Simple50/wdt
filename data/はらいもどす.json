@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"払い戻す","p":true},{"e":"払戻す"}],"r_ele":[{"r":"はらいもどす","p":true}],"sense":[{"gloss":"to repay, to pay back, to refund, to reimburse","pos":["v5s","vt"]}]},"sdata":[]}

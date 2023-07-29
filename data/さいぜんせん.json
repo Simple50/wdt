@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最前線","p":true}],"r_ele":[{"r":"さいぜんせん","p":true}],"sense":[{"gloss":"front line, forefront","pos":["n"]}]},"sdata":[]}

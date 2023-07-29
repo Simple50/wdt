@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強ち"}],"r_ele":[{"r":"あながち","p":true}],"sense":[{"gloss":"(not) necessarily, (not) entirely, (not) altogether","pos":["adv"]}],"m":["uk"]},"sdata":[{"j":"↑彼↑↓かれ↓の↑言↑↓い↓うことは|あながち|↑間違↑↓まちが↓っていない。","e":"He is not altogether wrong."},{"j":"トムの↑主張↑↓しゅちょう↓も|あながち|↑見当↑↓けんとう↓↑外↑↓はず↓れではない↑気↑↓き↓がする。","e":"I have a feeling Tom's claim isn't entirely wrong."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"減収","p":true}],"r_ele":[{"r":"げんしゅう","p":true}],"sense":[{"gloss":"fall, decrease (in income)","pos":["n","vs","vi"]}]},"sdata":[]}

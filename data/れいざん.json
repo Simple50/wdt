@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"霊山","p":true}],"r_ele":[{"r":"れいざん","p":true}],"sense":[{"gloss":"sacred mountain","pos":["n"]}]},"sdata":[]}

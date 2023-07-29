@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粉飾","p":true},{"e":"扮飾"}],"r_ele":[{"r":"ふんしょく","p":true}],"sense":[{"gloss":"embellishment (e.g. of a story), ornamentation, decoration","pos":["n","vs"]},{"gloss":"putting on makeup","pos":["n","vs"],"m":["arch"]}]},"sdata":[]}

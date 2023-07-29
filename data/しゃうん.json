@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社運","p":true}],"r_ele":[{"r":"しゃうん","p":true}],"sense":[{"gloss":"company fortunes, future of a company","pos":["n"]}]},"sdata":[{"j":"どの↑学生↑↓がくせい↓も↑自動車↑↓じどう|しゃ↓↑運転↑↓うん|てん↓↑試験↑↓しけん↓に↑合格↑↓ごうかく↓した。","e":"Every student passed the driving test."}]}

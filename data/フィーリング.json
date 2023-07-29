@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィーリング","p":true}],"sense":[{"gloss":"feeling","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓と↑付↑↓つ↓き↑合↑↓あ↓うきっかけになったのは、なんとなく|フィーリング|が↑合↑↓あ↓ったからだ。","e":"I got together with her mainly because we seemed to share the same feelings about things."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"整形外科","p":true}],"r_ele":[{"r":"せいけいげか","p":true}],"sense":[{"gloss":"orthopedic surgery, orthopaedic surgery, orthopedics, orthopaedics","pos":["n"]},{"gloss":"plastic surgery, cosmetic surgery","pos":["n"],"m":["col"],"x":["形成外科","美容外科"]}]},"sdata":[]}

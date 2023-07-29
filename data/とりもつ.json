@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り持つ","p":true},{"e":"取持つ"},{"e":"執り持つ"},{"e":"執持つ"}],"r_ele":[{"r":"とりもつ","p":true}],"sense":[{"gloss":"to act as a go-between (for), to mediate, to arrange","pos":["v5t","vt"]},{"gloss":"to entertain (guests), to treat, to receive","pos":["v5t","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニット","p":true}],"sense":[{"gloss":"knit, knitted fabric, knitted garments","pos":["n"]}]},"sdata":[{"j":"２０ユ|ニット|↑以上↑↓いじょう↓↑注文↑↓ちゅうもん↓したら、↑値引↑↓ねび↓きしていただけますか。","e":"If we place an order for more than 20 units, would you reduce the price?"},{"j":"トムは↑黒↑↓くろ↓の|ニット|↑帽↑↓ぼう↓を↑深↑↓ふか↓くかぶっていた。","e":"Tom had his black knitted hat pulled far down."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"女性的","p":true}],"r_ele":[{"r":"じょせいてき","p":true}],"sense":[{"gloss":"feminine, effeminate","pos":["adj-na"]}]},"sdata":[{"j":"↑中↑↓ちゅう↓には↑女性↑↓|じょせい↓↑的↑↓てき|↓であると↑言↑↓い↓うよりも↑男性↑↓だんせい↓↑的↑↓てき↓に↑見↑↓み↓える↑女性↑↓じょせい↓もいる。","e":"Some women look more masculine than feminine."}]}

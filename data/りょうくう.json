@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"領空","p":true}],"r_ele":[{"r":"りょうくう","p":true}],"sense":[{"gloss":"territorial airspace","pos":["n"]}]},"sdata":[]}

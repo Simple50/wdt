@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カーリング","p":true}],"sense":[{"gloss":"curling","pos":["n"],"f":["sports"]}]},"sdata":[]}

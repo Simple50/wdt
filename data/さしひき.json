@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"差し引き","p":true},{"e":"差引き"},{"e":"差引","i":["io"]}],"r_ele":[{"r":"さしひき","p":true}],"sense":[{"gloss":"deduction, subtraction, balance","pos":["n","vs","vt"]},{"gloss":"ebb and flow, rise and fall","pos":["n","vs","vi"]}]},"sdata":[]}

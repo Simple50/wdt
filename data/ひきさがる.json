@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き下がる","p":true},{"e":"引きさがる"},{"e":"引下る"},{"e":"引き下る"},{"e":"引下がる"}],"r_ele":[{"r":"ひきさがる","p":true}],"sense":[{"gloss":"to withdraw, to leave, to retire","pos":["v5r","vi"]},{"gloss":"to back down, to give up","pos":["v5r","vi"]}]},"sdata":[]}

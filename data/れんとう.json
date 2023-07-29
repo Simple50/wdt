@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連投","p":true}],"r_ele":[{"r":"れんとう","p":true}],"sense":[{"gloss":"pitching in consecutive games","pos":["n","vs"],"f":["baseb"]},{"gloss":"making multiple posts (on a website), posting multiple comments","pos":["n","vs"]}]},"sdata":[]}

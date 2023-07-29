@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"楽曲","p":true}],"r_ele":[{"r":"がっきょく","p":true}],"sense":[{"gloss":"musical composition, tune","pos":["n"]}]},"sdata":[{"j":"↑一番↑↓いちばん↓↑好↑↓す↓きな↑楽曲↑↓|がっきょく|↓は↑何↑↓なに↓ですか？","e":"What's your favourite music?"},{"j":"↑一番↑↓いちばん↓↑好↑↓す↓きな↑楽曲↑↓|がっきょく|↓は↑何↑↓なに↓ですか？","e":"What's your favorite music?"}]}

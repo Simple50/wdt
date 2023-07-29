@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黎明","p":true}],"r_ele":[{"r":"れいめい","p":true}],"sense":[{"gloss":"daybreak, dawn, gray of the morning (grey)","pos":["n"]},{"gloss":"dawn (of a new age)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一巡","p":true}],"r_ele":[{"r":"いちじゅん","p":true}],"sense":[{"gloss":"one round, one tour, one circuit, one patrol","pos":["n","vs","vi"]}]},"sdata":[]}

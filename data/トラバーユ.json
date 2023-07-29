@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トラバーユ","p":true}],"sense":[{"gloss":"change of occupation, job change","pos":["n","vs"],"l":"fre: travail"},{"gloss":"labor, labour, work","pos":["n"]}]},"sdata":[]}

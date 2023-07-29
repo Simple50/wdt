@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スクラップ","p":true}],"sense":[{"gloss":"scrap","pos":["n","vs"]}]},"sdata":[{"j":"この↑車↑↓くるま↓はもうすぐ|スクラップ|だ。","e":"This car will soon have to go for scrap."}]}

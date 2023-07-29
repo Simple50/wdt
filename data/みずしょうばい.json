@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水商売","p":true}],"r_ele":[{"r":"みずしょうばい","p":true}],"sense":[{"gloss":"chancy trade or business with uncertain profitability","pos":["n"]},{"gloss":"night entertainment business (e.g. hostess bar), nightlife business","pos":["n"]}]},"sdata":[]}

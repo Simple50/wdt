@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バイヤー","p":true}],"sense":[{"gloss":"buyer","pos":["n"]}]},"sdata":[{"j":"インドの|バイヤー|と↑日本↑↓にっぽん↓のビジネスマンは↑新↑↓しん↓↑製品↑↓せいひん↓の↑値↑↓あたい↓をめぐって↑激↑↓はげ↓しいやりとりをした。","e":"An Indian buyer and a Japanese businessman haggled over the price of the new product."}]}

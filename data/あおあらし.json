@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青嵐","p":true}],"r_ele":[{"r":"あおあらし","p":true},{"r":"せいらん"}],"sense":[{"gloss":"wind blowing through fresh verdure","pos":["n"]},{"gloss":"mountain air","pos":["n"]}]},"sdata":[]}

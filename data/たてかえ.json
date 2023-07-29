@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立て替え","p":true},{"e":"立替え"},{"e":"立替","i":["io"]}],"r_ele":[{"r":"たてかえ","p":true}],"sense":[{"gloss":"advancing (someone) money, payment on someone's behalf (with the expectation of being reimbursed later)","pos":["n","vs","vt"]}]},"sdata":[]}

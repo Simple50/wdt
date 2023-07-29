@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低俗","p":true}],"r_ele":[{"r":"ていぞく","p":true}],"sense":[{"gloss":"vulgar, lowbrow, coarse","pos":["adj-na","n"],"ant":["高尚"]}]},"sdata":[]}

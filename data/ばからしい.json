@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"馬鹿らしい","p":true}],"r_ele":[{"r":"ばからしい","p":true},{"r":"バカらしい"}],"sense":[{"gloss":"absurd, foolish, stupid, silly, nonsense, ludicrous, preposterous, laughable, ridiculous","pos":["adj-i"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑馬鹿↑↓|ばか↓らしい|↑質問↑↓しつもん↓をされていらいらした。","e":"She got rattled by the stupid question."}]}

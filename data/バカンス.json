@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バカンス","p":true},{"r":"ヴァカンス"}],"sense":[{"gloss":"holidays, vacation","pos":["n"],"l":"fre: vacances"}]},"sdata":[{"j":"|バカンス|に↑行↑↓い↓くのが↑待↑↓ま↓ち↑遠↑↓どお↓しい。","e":"I can't wait to go on a vacation."},{"j":"↑4月↑↓しがつ↓の↑島↑↓しま↓には|バカンス|↑客↑↓きゃく↓は↑多↑↓おお↓くなかった。","e":"There weren't many visitors spending their vacations on the island in April."}]}

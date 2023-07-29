@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カドミウム","p":true}],"sense":[{"gloss":"cadmium (Cd)","pos":["n"]}]},"sdata":[]}

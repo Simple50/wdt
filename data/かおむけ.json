@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"顔向け","p":true}],"r_ele":[{"r":"かおむけ","p":true}],"sense":[{"gloss":"showing one's face in public, facing another person","pos":["n","vs"]}]},"sdata":[]}

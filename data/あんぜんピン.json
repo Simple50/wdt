@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安全ピン","p":true}],"r_ele":[{"r":"あんぜんピン","p":true}],"sense":[{"gloss":"safety pin","pos":["n"]}]},"sdata":[]}

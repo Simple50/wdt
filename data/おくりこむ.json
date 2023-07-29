@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"送り込む","p":true},{"e":"送りこむ"}],"r_ele":[{"r":"おくりこむ","p":true}],"sense":[{"gloss":"to send in","pos":["v5m","vt"]}]},"sdata":[]}

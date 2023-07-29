@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シーリング","p":true}],"sense":[{"gloss":"ceiling","pos":["n"]},{"gloss":"sealing (compound, act of, etc.)","pos":["n"]}]},"sdata":[]}

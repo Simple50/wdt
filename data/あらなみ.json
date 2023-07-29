@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒波","p":true}],"r_ele":[{"r":"あらなみ","p":true}],"sense":[{"gloss":"raging waves, stormy seas","pos":["n","adj-no"]},{"gloss":"hardships, troubles, adversities","pos":["n"]}]},"sdata":[{"j":"その↑船↑↓ふね↓は↑荒波↑↓|あらなみ|↓にあった。","e":"The ship encountered rough seas."},{"j":"↑小舟↑↓こぶね↓は↑荒波↑↓|あらなみ|↓で↑激↑↓はげ↓しく↑揺↑↓ゆ↓れた。","e":"The little boat bobbed on the rough sea."}]}

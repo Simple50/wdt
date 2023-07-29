@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メドレー","p":true}],"sense":[{"gloss":"medley","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はサイモンとガーファンクルの|メドレー|を↑歌↑↓うた↓った。","e":"He sang a medley of Simon and Garfunkel hits."}]}

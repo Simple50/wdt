@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"看る","p":true}],"r_ele":[{"r":"みる","p":true}],"sense":[{"gloss":"to look after (often medically), to take care of","pos":["v1","vt"]}]},"kdata":{"看":{"on":["カン"],"kun":["み.る"],"jlpt":1,"meanings":["watch over","see"],"freq":1060,"comp":[["龵","目"]],"t":927}},"sdata":[]}

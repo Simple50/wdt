@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売れ残り","p":true}],"r_ele":[{"r":"うれのこり","p":true}],"sense":[{"gloss":"unsold items, leftovers, remainders, remnants","pos":["n"]},{"gloss":"spinster, old maid","pos":["n"],"m":["col","sens"]}]},"sdata":[]}

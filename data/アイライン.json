@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アイライン","p":true},{"r":"アイ・ライン"}],"sense":[{"gloss":"eyeliner","pos":["n"],"l":"eng: eye line"}]},"sdata":[]}

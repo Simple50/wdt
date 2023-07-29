@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シンボリスト","p":true}],"sense":[{"gloss":"symbolist","pos":["n"]}]},"sdata":[]}

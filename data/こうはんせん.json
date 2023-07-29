@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後半戦","p":true}],"r_ele":[{"r":"こうはんせん","p":true}],"sense":[{"gloss":"second half","pos":["n"]}]},"sdata":[]}

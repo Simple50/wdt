@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見殺し","p":true}],"r_ele":[{"r":"みごろし","p":true}],"sense":[{"gloss":"letting (someone) die without helping","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓を↑見殺↑↓|みごろ↓し|にした。","e":"He sold me down the river."},{"j":"↑彼女↑↓かのじょ↓は↑息子↑↓むすこ↓を↑見殺↑↓|みごろ↓し|にした。","e":"She abandoned her son to his fate."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陶磁器","p":true}],"r_ele":[{"r":"とうじき","p":true}],"sense":[{"gloss":"porcelain, china, chinaware, ceramics, pottery","pos":["n"]}]},"sdata":[{"j":"その↑陶磁器↑↓|とうじき|↓は↑特別↑↓とくべつ↓な↑棚↑↓たな↓に↑陳列↑↓ちんれつ↓されていた。","e":"The china was displayed in a special cabinet."}]}

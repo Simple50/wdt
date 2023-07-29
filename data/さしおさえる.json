@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"差し押さえる","p":true},{"e":"差し押える"},{"e":"差押さえる"},{"e":"差押える"}],"r_ele":[{"r":"さしおさえる","p":true}],"sense":[{"gloss":"to seize, to impound, to garnish, to attach goods","pos":["v1","vt"]}]},"sdata":[]}

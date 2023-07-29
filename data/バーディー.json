@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バーディー","p":true}],"sense":[{"gloss":"birdie","pos":["n"],"f":["golf"]}]},"sdata":[]}

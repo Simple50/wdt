@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シリコーン","p":true}],"sense":[{"gloss":"silicone (synthetic polymer)","pos":["n"],"f":["chem"]}]},"sdata":[]}

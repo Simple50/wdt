@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発露","p":true}],"r_ele":[{"r":"はつろ","p":true}],"sense":[{"gloss":"appearance, expression, manifestation","pos":["n","vs","vt","vi"]}]},"sdata":[]}

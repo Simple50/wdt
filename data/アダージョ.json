@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アダージョ","p":true},{"r":"アダジオ"}],"sense":[{"gloss":"adagio","pos":["n"],"f":["music"],"l":"ita"}]},"sdata":[]}

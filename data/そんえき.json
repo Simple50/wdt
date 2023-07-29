@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"損益","p":true}],"r_ele":[{"r":"そんえき","p":true}],"sense":[{"gloss":"profit and loss, advantage and disadvantage","pos":["n"]}]},"sdata":[]}

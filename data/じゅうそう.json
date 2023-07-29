@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重層","p":true}],"r_ele":[{"r":"じゅうそう","p":true}],"sense":[{"gloss":"multistoried, multilayered","pos":["n","adj-no","vs","vi"]}]},"sdata":[{"j":"その↑姉妹↑↓しまい↓はヴァイオリンとピアノの↑二重奏↑↓に|じゅうそう|↓を↑演奏↑↓えんそう↓した。","e":"The sisters played a duet on the violin and piano."},{"j":"↑塩↑↓しお↓と↑重曹↑↓|じゅうそう|↓を↑水↑↓みず↓に↑加↑↓くわ↓えてください。","e":"Add salt and baking soda to the water."}]}

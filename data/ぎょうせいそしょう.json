@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行政訴訟","p":true}],"r_ele":[{"r":"ぎょうせいそしょう","p":true}],"sense":[{"gloss":"administrative litigation (action)","pos":["n"]}]},"sdata":[]}

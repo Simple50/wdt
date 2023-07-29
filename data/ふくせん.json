@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伏線","p":true}],"r_ele":[{"r":"ふくせん","p":true}],"sense":[{"gloss":"foreshadowing","pos":["n"]},{"gloss":"preparation, precautionary measures","pos":["n"]}]},"sdata":[]}

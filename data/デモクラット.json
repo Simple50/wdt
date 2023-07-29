@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デモクラット","p":true}],"sense":[{"gloss":"democrat","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"真一文字","p":true}],"r_ele":[{"r":"まいちもんじ","p":true}],"sense":[{"gloss":"straight, as the crow flies","pos":["n","adj-no"]}],"m":["yoji"]},"sdata":[]}

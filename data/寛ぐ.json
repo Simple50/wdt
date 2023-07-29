@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寛ぐ","p":true}],"r_ele":[{"r":"くつろぐ","p":true}],"sense":[{"gloss":"to relax, to feel at home","pos":["v5g","vi"]}],"m":["uk"]},"kdata":{"寛":{"on":["カン"],"kun":["くつろ.ぐ","ひろ.い","ゆる.やか"],"jlpt":1,"meanings":["tolerant","leniency","generosity","relax","feel at home","be at ease","broadminded"],"freq":1377,"comp":[["莧","宀"]],"t":1704}},"sdata":[]}

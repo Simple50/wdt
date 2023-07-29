@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見回す","p":true},{"e":"見まわす"},{"e":"見廻す","i":["rK"]}],"r_ele":[{"r":"みまわす","p":true}],"sense":[{"gloss":"to look around, to survey","pos":["v5s","vt"]}]},"sdata":[{"j":"あたりを↑見回↑↓|みまわ↓す|と、↑机↑↓つくえ↓の↑上↑↓じょう↓に↑手紙↑↓てがみ↓があるのに↑気↑↓き↓づいた。","e":"When I looked about, I found a letter on the desk."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"琉球","p":true}],"r_ele":[{"r":"りゅうきゅう","p":true}],"sense":[{"gloss":"Ryukyu, chain of southwestern Japanese islands comprising Okinawa Prefecture","pos":["n"],"x":["沖縄"]}]},"sdata":[]}

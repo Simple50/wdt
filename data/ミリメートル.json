@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粍","i":["ateji","rK"]}],"r_ele":[{"r":"ミリメートル","p":true},{"r":"ミリメーター"}],"sense":[{"gloss":"millimeter, millimetre","pos":["n"],"l":"fre: millimètre"}],"m":["uk"]},"sdata":[{"j":"この↑定規↑↓じょうぎ↓には|ミリメートル|の↑目盛↑↓めも↓りがある。","e":"This ruler has the scale in millimeters."}]}

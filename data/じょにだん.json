@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"序二段","p":true}],"r_ele":[{"r":"じょにだん","p":true}],"sense":[{"gloss":"jonidan (second lowest) division","pos":["n"]}]},"sdata":[]}

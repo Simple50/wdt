@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポンポン","p":true},{"r":"ぽんぽん"}],"sense":[{"gloss":"pompom, pompon, pom-pom, pom-pon","pos":["n"]}]},"sdata":[{"j":"トムは、|ポンポン|が↑痛↑↓いた↓いんだよ。","e":"Tom has a tummy ache."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薬学","p":true}],"r_ele":[{"r":"やくがく","p":true}],"sense":[{"gloss":"(study of) pharmacy, pharmaceutics","pos":["n"]}]},"sdata":[{"j":"↑薬剤師↑↓やくざいし↓になる↑目的↑↓もくてき↓で↑薬学↑↓|やくがく|↓を↑志望↑↓しぼう↓する↑人↑↓ひと↓は６↑年↑↓ねん↓↑制↑↓せい↓↑学科↑↓がっか↓を↑選↑↓えら↓んでください。","e":"People taking pharmacy with the intent of becoming chemists should choose the six year course."}]}

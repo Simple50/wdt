@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"矛先","p":true},{"e":"鉾先"},{"e":"ほこ先"},{"e":"鋒先"},{"e":"鋒"}],"r_ele":[{"r":"ほこさき","p":true}],"sense":[{"gloss":"point of a spear, spearhead","pos":["n"]},{"gloss":"focus (of one's attack, criticism, etc.), aim, target, brunt","pos":["n"]},{"gloss":"force (of an argument), edge","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火消し","p":true},{"e":"火消"}],"r_ele":[{"r":"ひけし","p":true}],"sense":[{"gloss":"extinguishing a fire","pos":["n"]},{"gloss":"(Edo-period) fireman","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"屈折","p":true}],"r_ele":[{"r":"くっせつ","p":true}],"sense":[{"gloss":"bending, curving, twisting, turning, winding","pos":["n","vs","vi"]},{"gloss":"warping (of feelings, logic, etc.), distortion, twisting","pos":["n","vs","vi"]},{"gloss":"refraction","pos":["n","vs","vi"]},{"gloss":"inflection","pos":["n","vs","vi"],"f":["ling"]}]},"sdata":[]}

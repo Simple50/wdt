@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"古寺","p":true}],"r_ele":[{"r":"こじ"},{"r":"ふるでら","p":true}],"sense":[{"gloss":"old temple","pos":["n"]}]},"sdata":[{"j":"↑東京↑↓とうきょう↓にはたくさんの↑古寺↑↓|ふるでら|↓があるんだ。","e":"Tokyo has many ancient temples."},{"j":"↑京都↑↓きょうと↓には↑古寺↑↓|ふるでら|↓がたくさんあります。","e":"There are many old temples in Kyoto."}]}

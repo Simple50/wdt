@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敷設","p":true},{"e":"布設"}],"r_ele":[{"r":"ふせつ","p":true}],"sense":[{"gloss":"laying (a railroad, pipes, naval mines, etc.), construction","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑鉄道↑↓てつどう↓がこの↑街↑↓まち↓に↑敷設↑↓|ふせつ|↓された。","e":"A railroad was constructed in this town."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不行き届き","p":true},{"e":"不行届き"}],"r_ele":[{"r":"ふゆきとどき","p":true}],"sense":[{"gloss":"negligence, carelessness, incompetence, mismanagement","pos":["adj-na","n"]}]},"sdata":[]}

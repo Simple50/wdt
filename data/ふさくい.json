@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不作為","p":true}],"r_ele":[{"r":"ふさくい","p":true}],"sense":[{"gloss":"forbearance, omission, nonfeasance, inaction","pos":["n"],"f":["law"],"ant":["作為・2"]}]},"sdata":[]}

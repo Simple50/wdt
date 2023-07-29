@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"噴煙","p":true}],"r_ele":[{"r":"ふんえん","p":true}],"sense":[{"gloss":"(eruption of) smoke","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"壁掛け","p":true},{"e":"壁かけ"},{"e":"壁掛"}],"r_ele":[{"r":"かべかけ","p":true}],"sense":[{"gloss":"wall-mounted ornament, wall decoration, wall hanging","pos":["n"]},{"gloss":"wall-mounted","pos":["adj-f"]}]},"sdata":[]}

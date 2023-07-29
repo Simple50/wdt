@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"単３","p":true},{"e":"単三"}],"r_ele":[{"r":"たんさん","p":true}],"sense":[{"gloss":"AA battery, AA cell","pos":["n"]}],"m":["abbr"]},"kdata":{"単":{"on":["タン"],"kun":["ひとえ"],"jlpt":3,"meanings":["simple","one","single","merely"],"freq":586,"comp":[["十","𭕄","日"]],"d":["戦","弾","禅","騨","蝉","箪","褝","惮"],"s":"巣,草","t":831}},"sdata":[]}

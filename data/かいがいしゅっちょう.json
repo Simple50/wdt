@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海外出張","p":true}],"r_ele":[{"r":"かいがいしゅっちょう","p":true}],"sense":[{"gloss":"overseas business trip","pos":["n"]}]},"sdata":[{"j":"↑父↑↓ちち↓は↑海外↑↓|かいがい↓↑出張↑↓しゅっちょう|↓が↑多↑↓おお↓いんです。","e":"My father often goes abroad on business."}]}

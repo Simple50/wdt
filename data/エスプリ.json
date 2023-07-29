@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エスプリ","p":true}],"sense":[{"gloss":"spirit","pos":["n"],"l":"fre: esprit"},{"gloss":"esprit, wit","pos":["n"]}]},"sdata":[{"j":"このお↑料理↑↓りょうり↓は、パリの|エスプリ|を↑意識↑↓いしき↓して、↑味付↑↓あじつ↓けしてみました。","e":"This cuisine is seasoned to evoke the esprit of Paris."}]}

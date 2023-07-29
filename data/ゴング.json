@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゴング","p":true}],"sense":[{"gloss":"gong (instrument)","pos":["n"],"x":["銅鑼・どら"]},{"gloss":"gong (sound at the end of round, etc.)","pos":["n"],"f":["sports"]}]},"sdata":[]}

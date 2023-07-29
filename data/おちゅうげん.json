@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お中元","p":true},{"e":"御中元"}],"r_ele":[{"r":"おちゅうげん","p":true}],"sense":[{"gloss":"mid-year gift, summer gift","pos":["n"],"x":["中元・2"]}]},"sdata":[{"j":"↑御中元↑↓|おちゅうげん|↓や↑御歳暮↑↓おせいぼ↓の↑習慣↑↓しゅうかん↓はなかなかすたれない。","e":"The gift-giving custom dies hard."}]}

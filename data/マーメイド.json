@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マーメイド","p":true},{"r":"マーメード"}],"sense":[{"gloss":"mermaid","pos":["n"]}]},"sdata":[]}

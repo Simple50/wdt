@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベリーダンス","p":true},{"r":"ベリー・ダンス"}],"sense":[{"gloss":"belly dance","pos":["n"]}]},"sdata":[]}

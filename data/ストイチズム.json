@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ストイチズム","p":true}],"sense":[{"gloss":"Stoicism","pos":["n"]}]},"sdata":[]}

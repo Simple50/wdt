@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無理心中","p":true}],"r_ele":[{"r":"むりしんじゅう","p":true}],"sense":[{"gloss":"forced double suicide","pos":["n","vs","vi"]}]},"sdata":[]}

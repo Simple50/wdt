@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グローバル","p":true}],"sense":[{"gloss":"global","pos":["adj-na"]}]},"sdata":[]}

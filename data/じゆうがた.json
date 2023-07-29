@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自由形","p":true},{"e":"自由型"}],"r_ele":[{"r":"じゆうがた","p":true}],"sense":[{"gloss":"freestyle (e.g. swimming event)","pos":["n"]}]},"sdata":[]}

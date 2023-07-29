@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仲立ち","p":true},{"e":"仲立","i":["io"]},{"e":"媒"}],"r_ele":[{"r":"なかだち","p":true}],"sense":[{"gloss":"mediation, agency, agent, mediator, middleman, go-between","pos":["n","vs","vi"]}]},"sdata":[]}

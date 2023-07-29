@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肌寒い","p":true},{"e":"膚寒い","i":["rK"]}],"r_ele":[{"r":"はださむい","p":true},{"r":"はだざむい"}],"sense":[{"gloss":"chilly, unpleasantly cold","pos":["adj-i"]}]},"sdata":[]}

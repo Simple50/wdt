@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農地改革","p":true}],"r_ele":[{"r":"のうちかいかく","p":true}],"sense":[{"gloss":"agrarian reform","pos":["n"]}]},"sdata":[]}

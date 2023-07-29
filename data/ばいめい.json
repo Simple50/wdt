@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売名","p":true}],"r_ele":[{"r":"ばいめい","p":true}],"sense":[{"gloss":"self-advertisement","pos":["n"]}]},"sdata":[{"j":"それは↑売名↑↓|ばいめい|↓↑行為↑↓こうい↓だ。","e":"That's just a cheap publicity stunt."}]}

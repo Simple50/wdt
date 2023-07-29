@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マハラジャ"},{"r":"マハーラージャ"},{"r":"マハラージャ","p":true}],"sense":[{"gloss":"maharaja","pos":["n"],"l":"hin"}]},"sdata":[]}

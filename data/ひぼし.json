@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日干し","p":true},{"e":"日干"},{"e":"日乾し","i":["rK"]},{"e":"日乾","i":["sK"]}],"r_ele":[{"r":"ひぼし","p":true}],"sense":[{"gloss":"sun-dried","pos":["adj-no","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総帥","p":true}],"r_ele":[{"r":"そうすい","p":true}],"sense":[{"gloss":"commander-in-chief, leader, head of a group of companies","pos":["n"]}]},"sdata":[]}

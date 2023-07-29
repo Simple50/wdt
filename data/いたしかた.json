@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"致し方","p":true},{"e":"いたし方"}],"r_ele":[{"r":"いたしかた","p":true}],"sense":[{"gloss":"way, method, means, resource, course","pos":["n"],"x":["仕方"]}],"m":["form"]},"sdata":[{"j":"↑問題↑↓もんだい↓はよくわかりますが、|いたしかた|ありません。","e":"I appreciate your problem, but it can't be helped."},{"j":"トムが↑遅刻↑↓ちこく↓するのも|いたしかた|なかった。","e":"Tom had a good reason for being late."}]}

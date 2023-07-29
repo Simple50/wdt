@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い返す","p":true},{"e":"追返す"}],"r_ele":[{"r":"おいかえす","p":true}],"sense":[{"gloss":"to drive away, to turn away, to send away, to repel, to repulse","pos":["v5s","vt"]}]},"sdata":[]}

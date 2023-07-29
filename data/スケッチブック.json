@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スケッチブック","p":true}],"sense":[{"gloss":"sketchbook","pos":["n"]}]},"sdata":[{"j":"できたら|スケッチブック|と４↑Ｂ↑↓びー↓の↑鉛筆↑↓えんぴつ↓も↑買↑↓か↓ってきておいてね。まだそんなに↑高↑↓たか↓い↑画材↑↓がざい↓はいらないよ。","e":"If you can, get a sketchbook and a 4B pencil. You don't need such expensive art materials yet."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガスマスク","p":true},{"r":"ガス・マスク"}],"sense":[{"gloss":"gas mask","pos":["n"]}]},"sdata":[]}

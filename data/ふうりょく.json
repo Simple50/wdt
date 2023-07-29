@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風力","p":true}],"r_ele":[{"r":"ふうりょく","p":true}],"sense":[{"gloss":"wind power","pos":["n"]},{"gloss":"force (level on the Beaufort wind speed scale)","pos":["pref"]}]},"sdata":[{"j":"↑風力↑↓|ふうりょく|↓は↑安価↑↓あんか↓でクリーンなエネルギー↑源↑↓げん↓です。","e":"Wind is a cheap and clean source of energy."}]}

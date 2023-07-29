@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インディアナ","p":true}],"sense":[{"gloss":"Indiana","pos":["n"]}]},"sdata":[{"j":"↑部屋↑↓へや↓が↑静↑↓しず↓かになった↑時↑↓とき↓|インディアナ|・ジョーンズは↑罠↑↓わな↓ではあるまいかと↑迷↑↓まよ↓いました。","e":"Indiana Jones wondered if it wasn't a trap when the room became silent."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"命取り","p":true},{"e":"命とり"}],"r_ele":[{"r":"いのちとり","p":true}],"sense":[{"gloss":"fatal, deadly, mortal","pos":["adj-no","n"]}]},"sdata":[{"j":"その↑間違↑↓まちが↓いが↑彼↑↓かれ↓の↑命取↑↓|いのちと↓り|となった。","e":"The mistake cost him his head."},{"j":"↑失言↑↓しつげん↓は↑政治↑↓せいじ↓↑家↑↓か↓には↑命取↑↓|いのちと↓り|となることがある。","e":"A slip of the tongue is sometimes fatal to a politician."}]}

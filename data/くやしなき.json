@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悔し泣き","p":true},{"e":"悔泣"}],"r_ele":[{"r":"くやしなき","p":true}],"sense":[{"gloss":"crying from vexation, tears of regret","pos":["n","vs","vi"]}]},"sdata":[]}

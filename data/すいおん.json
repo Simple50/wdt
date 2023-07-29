@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水温","p":true}],"r_ele":[{"r":"すいおん","p":true}],"sense":[{"gloss":"water temperature","pos":["n"]}]},"sdata":[{"j":"まだ↑水温↑↓|すいおん|↓↑低↑↓ひく↓いから↑泳↑↓およ↓ぐつもりはないんよ？","e":"The water temperature's still low so you're not going to swim, are you?"},{"j":"↑水温↑↓|すいおん|↓は↑３８↑↓さんじゅうはち↓↑度↑↓ど↓です。","e":"The water's 38 degrees."}]}

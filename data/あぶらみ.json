@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脂身","p":true},{"e":"あぶら身"}],"r_ele":[{"r":"あぶらみ","p":true}],"sense":[{"gloss":"fat (of meat), fatty meat","pos":["n"]}]},"sdata":[{"j":"↑肉↑↓にく↓から↑脂身↑↓|あぶらみ|↓を↑取↑↓と↓りなさい。","e":"Trim the fat off the meat."}]}

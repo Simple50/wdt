@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スコープ","p":true}],"sense":[{"gloss":"scope, extent, range","pos":["n"]},{"gloss":"scope (i.e. an optical device)","pos":["n"]},{"gloss":"scope (of a name binding)","pos":["n"],"f":["comp"]}]},"sdata":[{"j":"サブマリンのペリ|スコープ|が↑水中↑↓すいちゅう↓からにょっきり↑突↑↓つ↓き↑出↑↓で↓ていた。","e":"The submarine's periscope was sticking right out of the water."}]}

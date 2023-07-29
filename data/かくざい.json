@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"角材","p":true}],"r_ele":[{"r":"かくざい","p":true}],"sense":[{"gloss":"squared timber, rectangular lumber","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"稲刈り","p":true},{"e":"稲刈"},{"e":"稲苅り"},{"e":"稲苅"}],"r_ele":[{"r":"いねかり","p":true}],"sense":[{"gloss":"rice reaping, rice harvesting","pos":["n"]}]},"sdata":[]}

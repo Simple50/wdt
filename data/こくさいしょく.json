@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国際色","p":true}],"r_ele":[{"r":"こくさいしょく","p":true}],"sense":[{"gloss":"international character","pos":["n"]}]},"sdata":[]}

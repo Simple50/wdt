@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コミッション","p":true},{"r":"コンミッション"}],"sense":[{"gloss":"commission","pos":["n"]}]},"sdata":[]}

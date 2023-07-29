@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パソコンショップ","p":true},{"r":"パソコン・ショップ"}],"sense":[{"gloss":"computer shop, PC shop","pos":["n"],"f":["comp"],"x":["パソコン"]}]},"sdata":[{"j":"↑先日↑↓せんじつ↓、|パソコンショップ|でＳＩＭＭの↑掴↑↓つか↓み↑取↑↓ど↓りをやっていた。いくらなんでもマニアックすぎる。","e":"I grabbed as much SIMM as possible in the computer shop the other day. Say what you like, it was more than just enthusiasm."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レクイエム","p":true}],"sense":[{"gloss":"requiem","pos":["n"],"l":"lat"}]},"sdata":[]}

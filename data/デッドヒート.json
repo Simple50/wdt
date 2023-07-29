@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デッドヒート","p":true},{"r":"デッド・ヒート"}],"sense":[{"gloss":"fiercely fought contest, close game (match, race, etc.)","pos":["n"]},{"gloss":"dead heat","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は|デッドヒート|の↑末↑↓すえ↓そのレースに↑勝↑↓か↓った。","e":"He won a narrow victory in the race."}]}

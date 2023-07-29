@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハーモニー","p":true}],"sense":[{"gloss":"harmony","pos":["n"]}]},"sdata":[{"j":"その↑音楽↑↓おんがく↓の↑美↑↓うつく↓しさは|ハーモニー|にある。","e":"The beauty of the music consists of its harmony."}]}

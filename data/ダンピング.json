@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダンピング","p":true}],"sense":[{"gloss":"dumping","pos":["n","vs","vt"],"f":["econ"]}]},"sdata":[{"j":"コンピューターチップの|ダンピング|に↑関↑↓かん↓する↑不当↑↓ふとう↓な↑非難↑↓ひなん↓に↑日本↑↓にっぽん↓は↑反論↑↓はんろん↓しました。","e":"Japan disproved phony accusations of computer chip dumping."}]}

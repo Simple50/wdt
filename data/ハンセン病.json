@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ハンセン病","p":true}],"r_ele":[{"r":"ハンセンびょう","p":true}],"sense":[{"gloss":"Hansen's disease, leprosy","pos":["n"]}]},"kdata":{"病":{"on":["ビョウ","ヘイ"],"kun":["や.む","-や.み","やまい"],"jlpt":4,"meanings":["ill","sick"],"freq":384,"comp":[["丙","疒"]],"t":1126}},"sdata":[]}

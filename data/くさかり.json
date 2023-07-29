@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"草刈り","p":true}],"r_ele":[{"r":"くさかり","p":true}],"sense":[{"gloss":"mowing, mower","pos":["n"]}]},"sdata":[]}

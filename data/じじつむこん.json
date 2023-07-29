@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事実無根","p":true}],"r_ele":[{"r":"じじつむこん","p":true}],"sense":[{"gloss":"groundless, entirely contrary to fact","pos":["n","adj-no"]}],"m":["yoji"]},"sdata":[]}

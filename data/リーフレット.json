@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リーフレット","p":true}],"sense":[{"gloss":"leaflet","pos":["n"]}]},"sdata":[]}

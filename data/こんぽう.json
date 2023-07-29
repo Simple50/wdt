@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"梱包","p":true},{"e":"こん包"}],"r_ele":[{"r":"こんぽう","p":true}],"sense":[{"gloss":"packing, crating, packaging","pos":["n","vs","vt"]}]},"sdata":[{"j":"この↑梱包↑↓|こんぽう|↓↑材↑↓ざい↓が↑断熱↑↓だんねつ↓↑機能↑↓きのう↓を↑担↑↓にな↓っている。","e":"This packaging material provides heat insulation."}]}

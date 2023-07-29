@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"河川敷","p":true}],"r_ele":[{"r":"かせんじき","p":true},{"r":"かせんしき"}],"sense":[{"gloss":"flood plain, river terrace, riverside area, area between river and river bank","pos":["n"]}]},"sdata":[]}

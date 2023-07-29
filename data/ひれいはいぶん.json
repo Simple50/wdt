@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"比例配分","p":true}],"r_ele":[{"r":"ひれいはいぶん","p":true}],"sense":[{"gloss":"proportional distribution","pos":["n"]}]},"sdata":[]}

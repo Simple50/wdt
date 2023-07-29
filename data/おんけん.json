@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"穏健","p":true}],"r_ele":[{"r":"おんけん","p":true}],"sense":[{"gloss":"quiet, dependable, uniform, (politically) moderate","pos":["adj-na","n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑穏健↑↓|おんけん|↓な↑考↑↓かんが↓えをもった↑人↑↓ひと↓である。","e":"He is a man of moderate opinions."}]}

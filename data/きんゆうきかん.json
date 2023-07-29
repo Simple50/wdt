@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金融機関","p":true}],"r_ele":[{"r":"きんゆうきかん","p":true}],"sense":[{"gloss":"financial institutions, banking facilities","pos":["n"]}]},"sdata":[{"j":"↑低↑↓てい↓↑金利↑↓きんり↓で↑企業↑↓きぎょう↓の↑金融↑↓|きんゆう↓↑機関↑↓きかん|↓からの↑借入↑↓かりいれ↓は↑増↑↓ふ↓えている。","e":"Corporate borrowing from financial institutions is rising due to the low interest rate."}]}

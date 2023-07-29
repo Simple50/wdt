@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グライコ","p":true}],"sense":[{"gloss":"graphic equalizer, graphic equaliser","pos":["n"]}],"m":["abbr"]},"sdata":[]}

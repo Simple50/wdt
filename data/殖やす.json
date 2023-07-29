@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増やす","p":true},{"e":"殖やす","p":true}],"r_ele":[{"r":"ふやす","p":true}],"sense":[{"gloss":"to increase, to add to, to augment","pos":["v5s","vt"],"ant":["減らす"]}]},"kdata":{"殖":{"on":["ショク"],"kun":["ふ.える","ふ.やす"],"jlpt":1,"meanings":["augment","increase","multiply","raise"],"freq":1362,"comp":[["直","歹"]],"t":1542}},"sdata":[]}

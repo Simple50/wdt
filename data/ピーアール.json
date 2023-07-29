@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＰＲ"}],"r_ele":[{"r":"ピーアール","p":true}],"sense":[{"gloss":"PR, public relations","pos":["n"],"x":["パブリックリレーションズ"]}]},"sdata":[]}

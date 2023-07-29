@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"添え物","p":true}],"r_ele":[{"r":"そえもの","p":true}],"sense":[{"gloss":"addition, supplement","pos":["n"]}]},"sdata":[]}

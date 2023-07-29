@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"号令","p":true}],"r_ele":[{"r":"ごうれい","p":true}],"sense":[{"gloss":"order (esp. to a number of people), command","pos":["n","vs","vt","vi"]},{"gloss":"ritual of bowing at start and end of school class","pos":["n","vs","vt","vi"]}]},"sdata":[]}

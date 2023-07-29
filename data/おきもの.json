@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"置物","p":true},{"e":"置き物","i":["io"]}],"r_ele":[{"r":"おきもの","p":true}],"sense":[{"gloss":"ornament, decorative object, object placed in a tokonoma","pos":["n"]},{"gloss":"figurehead, leader without real power","pos":["n"]}]},"sdata":[{"j":"トムが、メアリーに↑小↑↓ちい↓さなリスの↑置物↑↓|おきもの|↓をあげてたよ。","e":"Tom gave the small squirrel statue to Mary."}]}

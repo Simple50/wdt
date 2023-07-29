@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホットライン","p":true},{"r":"ホット・ライン"}],"sense":[{"gloss":"hot line, hotline","pos":["n"]}]},"sdata":[]}

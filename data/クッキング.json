@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クッキング","p":true}],"sense":[{"gloss":"cooking","pos":["n"]}]},"sdata":[{"j":"|クッキング|の↑時間↑↓じかん↓です。","e":"It's time to cook."}]}

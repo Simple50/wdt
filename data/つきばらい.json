@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"月払い","p":true}],"r_ele":[{"r":"つきばらい","p":true}],"sense":[{"gloss":"paying in monthly installments (instalments), monthly payments","pos":["n"]}]},"sdata":[{"j":"よい↑投資↑↓とうし↓↑方法↑↓ほうほう↓としては↑月払↑↓|つきばら↓い|の↑分割↑↓ぶんかつ↓がある。","e":"A good method for investing is a monthly allotment."}]}

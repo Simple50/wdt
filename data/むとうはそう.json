@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無党派層","p":true}],"r_ele":[{"r":"むとうはそう","p":true}],"sense":[{"gloss":"unaffiliated voters, floating voters, swinging voters","pos":["n"]}]},"sdata":[]}

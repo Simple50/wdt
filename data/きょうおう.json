@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"饗応"},{"e":"供応","p":true}],"r_ele":[{"r":"きょうおう","p":true}],"sense":[{"gloss":"entertaining with food and drink, treating to dinner, wining and dining","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちはドーバーからカレーまで↑海峡↑↓かい|きょう↓↑横断↑↓おう|だん↓フェリーに↑乗↑↓の↓った。","e":"We took the cross-channel ferry from Dover to Calais."}]}

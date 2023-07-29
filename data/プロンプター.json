@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロンプター","p":true}],"sense":[{"gloss":"teleprompter, autocue","pos":["n"]},{"gloss":"prompter (theater and opera)","pos":["n"]}]},"sdata":[]}

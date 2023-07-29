@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"質実","p":true}],"r_ele":[{"r":"しつじつ","p":true}],"sense":[{"gloss":"simplicity, plainness","pos":["adj-na","n"]}]},"sdata":[]}

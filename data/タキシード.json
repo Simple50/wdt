@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タキシード","p":true}],"sense":[{"gloss":"tuxedo, dinner suit","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓のピンクの|タキシード|には、みんな↑笑↑↓わら↓った。","e":"We all laughed at his pink tuxedo."},{"j":"|タキシード|は↑着↑↓き↓たことがありません。","e":"I've never worn a tuxedo."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鋳造","p":true}],"r_ele":[{"r":"ちゅうぞう","p":true}],"sense":[{"gloss":"casting, founding, minting","pos":["n","vs","vt"]}]},"sdata":[{"j":"その↑像↑↓ぞう↓はブロンズで↑鋳造↑↓|ちゅうぞう|↓されていた。","e":"The statue was cast in bronze."},{"j":"↑彼↑↓かれ↓らは↑青銅↑↓せいどう↓で↑像↑↓ぞう↓を↑鋳造↑↓|ちゅうぞう|↓した。","e":"They cast bronze into a statue."}]}

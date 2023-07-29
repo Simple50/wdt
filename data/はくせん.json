@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白線","p":true}],"r_ele":[{"r":"はくせん","p":true}],"sense":[{"gloss":"white line","pos":["n"]},{"gloss":"linea alba (anot.)","pos":["n"]}]},"sdata":[{"j":"グラウンドは↑白線↑↓|はくせん|↓で↑３↑↓みっ↓つに↑区切↑↓くぎ↓られている。","e":"The playground is divided into three areas by white lines."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水脈","p":true}],"r_ele":[{"r":"すいみゃく","p":true}],"sense":[{"gloss":"water vein, underground stream of water","pos":["n"]},{"gloss":"waterway","pos":["n"],"x":["澪・みお・1"]}]},"sdata":[]}

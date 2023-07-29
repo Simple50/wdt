@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パンパ"},{"r":"パンパス","p":true}],"sense":[{"gloss":"(the) Pampas","pos":["n"]}]},"sdata":[]}

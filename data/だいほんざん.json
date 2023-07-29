@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大本山","p":true}],"r_ele":[{"r":"だいほんざん","p":true}],"sense":[{"gloss":"head temple of a Buddhist sect","pos":["n"]}]},"sdata":[]}

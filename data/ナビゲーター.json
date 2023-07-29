@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナビゲーター","p":true},{"r":"ナビゲータ"}],"sense":[{"gloss":"navigator","pos":["n"]},{"gloss":"host (of a TV show, etc.), hostess, MC","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不評","p":true}],"r_ele":[{"r":"ふひょう","p":true}],"sense":[{"gloss":"bad reputation, poor reception, unpopularity, disrepute","pos":["n","adj-no"]}]},"sdata":[{"j":"↑国会↑↓こっかい↓は↑多分↑↓たぶん↓この↑不評↑↓|ふひょう|↓の↑法律↑↓ほうりつ↓を↑改正↑↓かいせい↓するだろう。","e":"The Diet is likely to amend this unpopular law."}]}

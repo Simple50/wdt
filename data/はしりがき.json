@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"走り書き","p":true},{"e":"走書き","i":["io"]},{"e":"走り書","i":["io"]}],"r_ele":[{"r":"はしりがき","p":true}],"sense":[{"gloss":"scribbling, scrawl, hasty writing","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑日記↑↓にっき↓の↑裏表↑↓うらおもて↓↑紙↑↓し↓に↑彼↑↓かれ↓の↑住所↑↓じゅうしょ↓を↑走↑↓|はし↓り↑書↑↓が↓き|した。","e":"I scribbled down his address in the back of my diary."}]}

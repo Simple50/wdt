@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二百十日","p":true}],"r_ele":[{"r":"にひゃくとおか","p":true}],"sense":[{"gloss":"210th day (from the first day of spring according to the lunar calendar), the storm day","pos":["n"]}]},"sdata":[]}

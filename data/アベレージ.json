@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アベレージ","p":true}],"sense":[{"gloss":"average","pos":["n"]}]},"sdata":[]}

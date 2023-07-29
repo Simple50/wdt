@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同心円","p":true}],"r_ele":[{"r":"どうしんえん","p":true}],"sense":[{"gloss":"concentric circles","pos":["n"]}]},"sdata":[]}

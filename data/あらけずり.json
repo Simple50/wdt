@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒削り"},{"e":"粗削り","p":true}],"r_ele":[{"r":"あらけずり","p":true}],"sense":[{"gloss":"rough-hewn, incomplete, unrefined, still in the process of being formed","pos":["adj-na","n"]}]},"sdata":[]}

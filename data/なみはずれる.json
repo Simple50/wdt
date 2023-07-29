@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"並外れる","p":true},{"e":"並はずれる"},{"e":"並みはずれる"},{"e":"並み外れる"}],"r_ele":[{"r":"なみはずれる","p":true}],"sense":[{"gloss":"to be uncommon","pos":["v1","vi"]}]},"sdata":[]}

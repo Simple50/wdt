@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見回り","p":true},{"e":"見廻り"}],"r_ele":[{"r":"みまわり","p":true}],"sense":[{"gloss":"patrolling, one's rounds, inspection tour","pos":["n"]},{"gloss":"watchman, patrolman","pos":["n"]}]},"sdata":[]}

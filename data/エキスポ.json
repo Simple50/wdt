@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エキスポ","p":true}],"sense":[{"gloss":"expo, exposition","pos":["n"]}]},"sdata":[{"j":"↑貴社↑↓きしゃ↓の↑小型↑↓こがた↓コピー↑機↑↓き↓を↑東京↑↓とうきょう↓オフィス・|エキスポ|９７でしりました。","e":"I learned about your portable copier at the Tokyo-Office '97 Expo."}]}

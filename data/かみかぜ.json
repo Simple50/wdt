@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神風","p":true}],"r_ele":[{"r":"かみかぜ","p":true},{"r":"しんぷう"},{"r":"かむかぜ"}],"sense":[{"gloss":"divine wind (esp. a typhoon thought to have protected Japan from a Mongolian invasion in the 13th century)","pos":["n"]},{"gloss":"kamikaze","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横組み","p":true}],"r_ele":[{"r":"よこぐみ","p":true}],"sense":[{"gloss":"horizontal typesetting","pos":["n"]}]},"sdata":[]}

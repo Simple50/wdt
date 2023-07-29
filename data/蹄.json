@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蹄","p":true}],"r_ele":[{"r":"ひづめ","p":true}],"sense":[{"gloss":"hoof","pos":["n"]}],"m":["uk"]},"kdata":{"蹄":{"on":["テイ"],"kun":["ひづめ"],"meanings":["hoof"],"freq":2469,"comp":[["帝","𧾷"]],"jlpt":0}},"sdata":[{"j":"まれに、↑大↑↓おお↓きな↑有|↑↓ゆう↓蹄|↑動物↑↓どうぶつ↓を↑捕獲↑↓ほかく↓する。","e":"In rare cases, it preys on large ungulates."}]}

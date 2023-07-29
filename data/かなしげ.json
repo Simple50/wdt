@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悲しげ","p":true},{"e":"哀しげ"},{"e":"悲し気"},{"e":"哀し気"}],"r_ele":[{"r":"かなしげ","p":true}],"sense":[{"gloss":"seeming sad","pos":["adj-na","n"]}]},"sdata":[{"j":"その↑女性↑↓じょせい↓は↑悲↑↓|かな↓しげ|で、その↑上↑↓じょう↓↑疲↑↓つか↓れているようだった。","e":"The lady looked sad, also tired."},{"j":"↑彼女↑↓かのじょ↓は|かなしげ|に↑微笑↑↓ほほえ↓んだ。","e":"She smiled sadly."}]}

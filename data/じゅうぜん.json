@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"従前","p":true}],"r_ele":[{"r":"じゅうぜん","p":true}],"sense":[{"gloss":"previous, former","pos":["n","adj-no"]}]},"sdata":[{"j":"もっとも↑重要↑↓じゅうよう↓な↑点↑↓てん↓は、エメットの↑理論↑↓りろん↓が↑物理↑↓ぶつり↓↑学↑↓がく↓の↑従前↑↓|じゅうぜん|↓の↑理論↑↓りろん↓と↑矛盾↑↓むじゅん↓しないということである。","e":"It is that Emmet's theory is compatible with previous theories in physics that is of most significance."}]}

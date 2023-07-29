@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タイムマシン","p":true},{"r":"タイムマシーン"},{"r":"タイム・マシン"},{"r":"タイム・マシーン"}],"sense":[{"gloss":"time machine","pos":["n"]}]},"sdata":[{"j":"メアリーは|タイムマシン|を↑使↑↓つか↓ってカンニングをした。","e":"Mary used her time machine to cheat on the exam."}]}

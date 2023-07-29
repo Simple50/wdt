@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粘っこい","p":true}],"r_ele":[{"r":"ねばっこい","p":true}],"sense":[{"gloss":"sticky, gummy, gooey, gluey, glutinous","pos":["adj-i"]},{"gloss":"tenacious, persistent, dogged, stubborn","pos":["adj-i"]}]},"sdata":[]}

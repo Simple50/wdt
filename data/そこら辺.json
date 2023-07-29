@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"そこら辺","p":true},{"e":"其処等辺","i":["rK"]}],"r_ele":[{"r":"そこらへん","p":true}],"sense":[{"gloss":"hereabouts, around there, that area","pos":["n","adv"],"x":["そこら"]}],"m":["uk","col"]},"kdata":{"辺":{"on":["ヘン"],"kun":["あた.り","ほと.り","-べ"],"jlpt":2,"meanings":["vicinity","environs","boundary","border"],"freq":428,"comp":[["刀","辶"]],"s":"近","t":276}},"sdata":[]}

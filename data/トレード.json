@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トレード","p":true}],"sense":[{"gloss":"trade","pos":["n","vs"]}]},"sdata":[{"j":"ジョンソンが|トレード|されるという↑噂↑↓うわさ↓がある。","e":"There's a rumor Johnson is going to be traded."},{"j":"↑彼↑↓かれ↓は↑競争↑↓きょうそう↓↑相手↑↓あいて↓の↑会社↑↓かいしゃ↓にいわば|トレード|されたのです。","e":"He was traded, so to speak, to the rival firm."}]}

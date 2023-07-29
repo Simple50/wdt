@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"移り気","p":true}],"r_ele":[{"r":"うつりぎ","p":true}],"sense":[{"gloss":"fickle, capricious, inconstant, changeable, whimsical","pos":["adj-na","n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓の↑移↑↓|うつ↓り↑気↑↓ぎ|↓にはみんな↑当惑↑↓とうわく↓している。","e":"We are all bewildered by her inconstancy."}]}

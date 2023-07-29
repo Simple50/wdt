@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"条件反射","p":true}],"r_ele":[{"r":"じょうけんはんしゃ","p":true}],"sense":[{"gloss":"conditioned reflex","pos":["n"]}],"m":["yoji"]},"sdata":[]}

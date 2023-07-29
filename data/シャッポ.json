@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シャッポ","p":true},{"r":"シャポー"}],"sense":[{"gloss":"hat","pos":["n"],"l":"fre: chapeau"}]},"sdata":[{"j":"↑君↑↓きみ↓には|シャッポ|を↑脱↑↓ぬ↓ぐよ。","e":"I take my hat off to you!"}]}

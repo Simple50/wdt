@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無批判","p":true}],"r_ele":[{"r":"むひはん","p":true}],"sense":[{"gloss":"uncritical, blind","pos":["adj-na","n"]}]},"sdata":[]}

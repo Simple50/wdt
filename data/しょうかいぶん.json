@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紹介文","p":true}],"r_ele":[{"r":"しょうかいぶん","p":true}],"sense":[{"gloss":"introductory essay","pos":["n"]}]},"sdata":[]}

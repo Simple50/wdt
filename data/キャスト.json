@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャスト","p":true}],"sense":[{"gloss":"cast (play, film, etc.)","pos":["n","vs"]},{"gloss":"cast (e.g. type conversion)","pos":["n","vs"],"f":["comp"]}]},"sdata":[{"j":"ポッド|キャスト|を↑聞↑↓き↓いています。","e":"I'm listening to a podcast."},{"j":"フランス↑語↑↓ご↓でポッド|キャスト|を↑聴↑↓き↓いてるんだ。","e":"I'm listening to a podcast in French."}]}

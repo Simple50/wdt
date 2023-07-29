@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ソフトボール","p":true}],"sense":[{"gloss":"softball","pos":["n"]}]},"sdata":[{"j":"|ソフトボール|のやり↑方↑↓かた↓、↑知↑↓し↓ってる？","e":"Do you know how to play softball?"},{"j":"|ソフトボール|の↑仕方↑↓しかた↓って↑分↑↓わ↓かる？","e":"Do you know how to play softball?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"超音波","p":true}],"r_ele":[{"r":"ちょうおんぱ","p":true}],"sense":[{"gloss":"ultrasonic waves, ultrasound","pos":["n","n-pref"]}]},"sdata":[{"j":"↑超↑↓|ちょう↓↑音波↑↓おんぱ|↓↑検査↑↓けんさ↓をしましょう。","e":"I'd like you to have an ultrasound."}]}

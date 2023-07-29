@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メシア","p":true},{"r":"メサイア"},{"r":"メシヤ"},{"r":"メサイヤ"}],"sense":[{"gloss":"Messiah","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは、|メシア|にあった。","e":"We have found the Messiah."}]}

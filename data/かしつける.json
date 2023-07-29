@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貸し付ける","p":true},{"e":"貸付ける"},{"e":"貸しつける"}],"r_ele":[{"r":"かしつける","p":true}],"sense":[{"gloss":"to lend, to loan","pos":["v1","vt"]}]},"sdata":[{"j":"↑歌↑↓うた↓で↑子供↑↓こども↓を↑寝↑↓ね↓|かしつける|。","e":"Hum baby to sleep."}]}

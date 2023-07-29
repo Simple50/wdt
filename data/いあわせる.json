@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"居合わせる","p":true},{"e":"居合せる"},{"e":"居あわせる"}],"r_ele":[{"r":"いあわせる","p":true}],"sense":[{"gloss":"to happen to be present","pos":["v1","vi"]}]},"sdata":[{"j":"↑２↑↓に↓．↑身頃↑↓みごろ↓の↑肩↑↓かた↓を↑縫↑↓ぬ↓|い↑合↑↓あ↓わせる|。","e":"2. Sew together the shoulder of the garment body."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漁港","p":true}],"r_ele":[{"r":"ぎょこう","p":true}],"sense":[{"gloss":"fishing harbour, fishing harbor","pos":["n"]}]},"kdata":{"漁":{"on":["ギョ","リョウ"],"kun":["あさ.る"],"jlpt":2,"meanings":["fishing","fishery"],"freq":1094,"comp":[["氵","魚"]],"t":1887},"港":{"on":["コウ"],"kun":["みなと"],"jlpt":3,"meanings":["harbor"],"freq":495,"comp":[["氵","巷"]],"t":1548}},"sdata":[]}

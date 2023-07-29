@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弥勒","p":true}],"r_ele":[{"r":"みろく","p":true}],"sense":[{"gloss":"Maitreya (Bodhisattva), Miroku","pos":["n"],"f":["Buddh"],"x":["弥勒菩薩"]}]},"sdata":[]}

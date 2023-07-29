@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グローバリズム","p":true}],"sense":[{"gloss":"globalism","pos":["n"]}]},"sdata":[]}

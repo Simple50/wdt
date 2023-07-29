@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無類","p":true}],"r_ele":[{"r":"むるい","p":true}],"sense":[{"gloss":"matchless, unequalled, unequaled","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

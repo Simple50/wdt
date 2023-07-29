@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立ち後れ"},{"e":"立ち遅れ","p":true}],"r_ele":[{"r":"たちおくれ","p":true}],"sense":[{"gloss":"slow start","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓↑達↑↓|たち↓↑遅↑↓おく↓れ|そうなの？","e":"Are we going to be late?"}]}

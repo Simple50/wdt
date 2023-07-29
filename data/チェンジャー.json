@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チェンジャー","p":true}],"sense":[{"gloss":"changer","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チョキ","p":true},{"r":"ちょき"}],"sense":[{"gloss":"scissors (in rock-paper-scissors)","pos":["n"],"x":["じゃんけん","チョキチョキ"]}]},"sdata":[{"j":"グーが|チョキ|に、|チョキ|がパーに、パーはグーに↑勝↑↓か↓つ。","e":"Rock breaks scissors. Scissors cut paper. Paper smothers rock."}]}

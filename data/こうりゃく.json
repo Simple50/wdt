@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"攻略","p":true}],"r_ele":[{"r":"こうりゃく","p":true}],"sense":[{"gloss":"capture (of enemy territory), taking (by storm), conquest, attack, assault","pos":["n","vs","vt"]},{"gloss":"defeating (an opponent)","pos":["n","vs","vt"]},{"gloss":"attacking (a problem) strategically","pos":["n","vs","vt"]}]},"sdata":[]}

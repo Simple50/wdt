@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早咲き","p":true},{"e":"早咲"}],"r_ele":[{"r":"はやざき","p":true}],"sense":[{"gloss":"early blooming, early flowering","pos":["n","adj-no"]}]},"sdata":[{"j":"この↑花↑↓はな↓は↑早咲↑↓|はやざ↓き|だ。","e":"These flowers bloom earlier than others do."},{"j":"↑早咲↑↓|はやざ↓き|の↑花↑↓はな↓はみんな↑霜↑↓じも↓にやられた。","e":"All the early flowers were bitten by the frost."}]}

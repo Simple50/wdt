@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冷え切る","p":true},{"e":"冷えきる"}],"r_ele":[{"r":"ひえきる","p":true}],"sense":[{"gloss":"to become completely chilled","pos":["v5r","vi"]}]},"sdata":[]}

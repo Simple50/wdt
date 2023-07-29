@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"種別","p":true}],"r_ele":[{"r":"しゅべつ","p":true}],"sense":[{"gloss":"classification, assortment","pos":["n","vs","vt"]}]},"sdata":[]}

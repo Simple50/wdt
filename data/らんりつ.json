@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱立","p":true},{"e":"濫立","i":["rK"]}],"r_ele":[{"r":"らんりつ","p":true}],"sense":[{"gloss":"standing close together in a disorderly way (of buildings, etc.), standing side by side","pos":["n","vs","vi"]},{"gloss":"standing (for election) in (excessively) large numbers, (too many candidates) competing with each other","pos":["n","vs","vi"]}]},"sdata":[]}

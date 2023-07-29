@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テナー","p":true}],"sense":[{"gloss":"tenor","pos":["n"],"f":["music"]}]},"sdata":[]}

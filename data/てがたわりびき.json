@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手形割引","p":true}],"r_ele":[{"r":"てがたわりびき","p":true}],"sense":[{"gloss":"discounting of a bill","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い込み","p":true},{"e":"思いこみ"}],"r_ele":[{"r":"おもいこみ","p":true}],"sense":[{"gloss":"wrong impression, subjective impression, assumption, prejudice","pos":["n"]}]},"sdata":[]}

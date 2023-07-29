@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"排水量","p":true}],"r_ele":[{"r":"はいすいりょう","p":true}],"sense":[{"gloss":"displacement (e.g. of a ship)","pos":["n"]},{"gloss":"volume of wastewater","pos":["n"]}]},"sdata":[]}

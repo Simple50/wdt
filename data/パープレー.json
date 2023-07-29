@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パープレー","p":true},{"r":"パー・プレー"}],"sense":[{"gloss":"scoring even-par for the entire round","pos":["n"],"f":["golf"],"l":"eng: par play"}]},"sdata":[]}

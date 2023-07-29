@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"阻む","p":true},{"e":"沮む"}],"r_ele":[{"r":"はばむ","p":true}],"sense":[{"gloss":"to keep someone from doing, to stop, to prevent, to check, to hinder, to obstruct, to oppose, to thwart","pos":["v5m"]}]},"sdata":[]}

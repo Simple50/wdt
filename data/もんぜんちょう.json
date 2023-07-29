@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"門前町","p":true}],"r_ele":[{"r":"もんぜんまち"},{"r":"もんぜんちょう","p":true}],"sense":[{"gloss":"town originally built around a temple or shrine","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中共","p":true}],"r_ele":[{"r":"ちゅうきょう","p":true}],"sense":[{"gloss":"Chinese Communist Party, Chinese Communists","pos":["n"],"m":["abbr"],"x":["中国共産党"]},{"gloss":"Communist China","pos":["n"]}]},"sdata":[]}

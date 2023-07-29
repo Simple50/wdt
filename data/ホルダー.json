@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホルダー","p":true},{"r":"ホールダー"}],"sense":[{"gloss":"holder","pos":["n"]}]},"sdata":[]}

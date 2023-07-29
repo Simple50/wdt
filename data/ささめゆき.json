@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細雪","p":true},{"e":"ささめ雪"}],"r_ele":[{"r":"ささめゆき","p":true}],"sense":[{"gloss":"light snow fall, small snow flakes","pos":["n"]}]},"sdata":[]}

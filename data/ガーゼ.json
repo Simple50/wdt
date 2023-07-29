@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガーゼ","p":true}],"sense":[{"gloss":"gauze","pos":["n"],"l":"ger: Gaze"}]},"sdata":[]}

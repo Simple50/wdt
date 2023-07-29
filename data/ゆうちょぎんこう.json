@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ゆうちょ銀行","p":true},{"e":"郵貯銀行"}],"r_ele":[{"r":"ゆうちょぎんこう","p":true}],"sense":[{"gloss":"JP Bank (former Postal Savings Bank, created when the Postal Services were privatized)","pos":["n"]}]},"sdata":[]}

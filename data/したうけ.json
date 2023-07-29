@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下請け","p":true},{"e":"下請"}],"r_ele":[{"r":"したうけ","p":true}],"sense":[{"gloss":"subcontract","pos":["n","vs"]},{"gloss":"subcontractor (person or company)","pos":["n"]}]},"sdata":[]}

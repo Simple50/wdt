@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"臨戦","p":true}],"r_ele":[{"r":"りんせん","p":true}],"sense":[{"gloss":"preparing for action or battle","pos":["n"]}]},"sdata":[]}

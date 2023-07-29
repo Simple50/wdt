@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ディクショナリ","p":true},{"r":"ディクショナリー"}],"sense":[{"gloss":"dictionary","pos":["n"]}]},"sdata":[]}

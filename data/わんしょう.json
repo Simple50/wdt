@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腕章","p":true}],"r_ele":[{"r":"わんしょう","p":true}],"sense":[{"gloss":"armband, arm band, brassard","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い求める","p":true},{"e":"追求める"}],"r_ele":[{"r":"おいもとめる","p":true}],"sense":[{"gloss":"to pursue","pos":["v1","vt"]}]},"sdata":[]}

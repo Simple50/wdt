@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"対論","p":true}],"r_ele":[{"r":"たいろん","p":true}],"sense":[{"gloss":"arguing face to face","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは↑日暮↑↓ひぐ↓れまでには↑絶対↑↓ぜっ|たい↓ロン|ドンに↑着↑↓つ↓かないだろう。","e":"We'll never reach London before dark."}]}

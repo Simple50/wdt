@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒曜石","p":true},{"e":"黒耀石","i":["oK"]}],"r_ele":[{"r":"こくようせき","p":true}],"sense":[{"gloss":"obsidian","pos":["n"],"x":["黒曜岩"]}]},"sdata":[]}

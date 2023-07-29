@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ちり取り","p":true},{"e":"ちり取","p":true},{"e":"塵取り"}],"r_ele":[{"r":"ちりとり","p":true}],"sense":[{"gloss":"dustpan","pos":["n"]}]},"sdata":[]}

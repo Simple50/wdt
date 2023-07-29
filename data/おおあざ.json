@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大字","p":true}],"r_ele":[{"r":"おおあざ","p":true}],"sense":[{"gloss":"larger section (of village)","pos":["n"]}]},"sdata":[]}

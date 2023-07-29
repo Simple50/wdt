@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"力投","p":true}],"r_ele":[{"r":"りきとう","p":true}],"sense":[{"gloss":"pitching with all one's strength","pos":["n","vs","vi"],"f":["baseb"]}]},"sdata":[]}

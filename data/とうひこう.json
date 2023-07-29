@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逃避行","p":true}],"r_ele":[{"r":"とうひこう","p":true}],"sense":[{"gloss":"flight, elopement","pos":["n"]}]},"sdata":[{"j":"どこかへ↑逃避行↑↓|とうひこう|↓したい。↑蒸↑↓む↓し↑暑↑↓あつ↓い↑夏↑↓なつ↓はそんな↑気分↑↓きぶん↓になりがち。","e":"I want to disappear somewhere! I tend to feel like that in sultry summers."}]}

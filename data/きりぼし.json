@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り干し","p":true},{"e":"切干"},{"e":"切干し"},{"e":"切り乾し"}],"r_ele":[{"r":"きりぼし","p":true}],"sense":[{"gloss":"dried daikon strips","pos":["n"]}]},"sdata":[]}

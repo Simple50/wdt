@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金字塔","p":true}],"r_ele":[{"r":"きんじとう","p":true}],"sense":[{"gloss":"pyramid","pos":["n"],"x":["ピラミッド"]},{"gloss":"monumental work, landmark achievement","pos":["n"]}]},"sdata":[]}

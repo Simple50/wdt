@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無念","p":true}],"r_ele":[{"r":"むねん","p":true}],"sense":[{"gloss":"regret, chagrin, mortification","pos":["n","adj-na","adj-no"]},{"gloss":"freedom from obstructive thoughts","pos":["n"],"f":["Buddh"],"x":["有念"]}]},"sdata":[]}

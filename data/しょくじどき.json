@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"食事時","p":true}],"r_ele":[{"r":"しょくじどき","p":true}],"sense":[{"gloss":"mealtime","pos":["n"]}]},"sdata":[]}

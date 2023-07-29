@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自動化","p":true},{"e":"自働化","i":["iK"]}],"r_ele":[{"r":"じどうか","p":true}],"sense":[{"gloss":"automation","pos":["n","vs"]}]},"sdata":[]}

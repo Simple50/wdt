@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"尼加拉瓦","i":["ateji","rK"]}],"r_ele":[{"r":"ニカラグア","p":true}],"sense":[{"gloss":"Nicaragua","pos":["n"]}],"m":["uk"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不衛生","p":true}],"r_ele":[{"r":"ふえいせい","p":true}],"sense":[{"gloss":"unsanitary condition, lack of hygienic care, inattention to hygiene, unhygienic conditions","pos":["adj-na","n"]}]},"sdata":[]}

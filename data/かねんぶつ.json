@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"可燃物","p":true}],"r_ele":[{"r":"かねんぶつ","p":true}],"sense":[{"gloss":"combustibles, inflammables, flammables, burnables","pos":["n"]}]},"sdata":[]}

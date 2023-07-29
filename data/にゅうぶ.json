@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入部","p":true}],"r_ele":[{"r":"にゅうぶ","p":true}],"sense":[{"gloss":"joining a club","pos":["n","vs","vi"]}]},"sdata":[{"j":"ダンス↑部↑↓ぶ↓に↑入部↑↓|にゅうぶ|↓しませんか。","e":"How would you like to join the dance club?"},{"j":"↑新↑↓しん↓↑入部↑↓|にゅうぶ|↓↑員↑↓いん↓にクラブの↑規則↑↓きそく↓をよくわからせる。","e":"Acquaint a newcomer with the rules of the club."}]}

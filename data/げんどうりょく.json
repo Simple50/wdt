@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原動力","p":true}],"r_ele":[{"r":"げんどうりょく","p":true}],"sense":[{"gloss":"motive power, driving force","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エアゾール","p":true},{"r":"エアロゾル"},{"r":"エーロゾル"}],"sense":[{"gloss":"aerosol","pos":["n"],"f":["chem"]},{"gloss":"aerosol spray","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地勢","p":true}],"r_ele":[{"r":"ちせい","p":true}],"sense":[{"gloss":"topography","pos":["n"]}]},"kdata":{"地":{"on":["チ","ジ"],"jlpt":4,"meanings":["ground","earth"],"freq":40,"comp":[["土","也"]],"t":335},"勢":{"on":["セイ","ゼイ"],"kun":["いきお.い","はずみ"],"jlpt":2,"meanings":["forces","energy","military strength"],"freq":260,"comp":[["埶","力"]],"t":1690}},"sdata":[]}

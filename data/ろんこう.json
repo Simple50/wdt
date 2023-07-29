@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"論考","p":true},{"e":"論攷"}],"r_ele":[{"r":"ろんこう","p":true}],"sense":[{"gloss":"study (of), discussion, discourse, inquiry, research article, academic paper","pos":["n","vs","vt"]}]},"sdata":[]}

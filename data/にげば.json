@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逃げ場","p":true},{"e":"逃場"}],"r_ele":[{"r":"にげば","p":true}],"sense":[{"gloss":"(place of) refuge, escape, exit, way out, shelter, hiding place","pos":["n"]}]},"sdata":[{"j":"↑気↑↓き↓がつくと↑逃↑↓|に↓げ↑場↑↓ば|↓はどこにもなかった。","e":"Now that I notice it, I have nowhere to run."}]}

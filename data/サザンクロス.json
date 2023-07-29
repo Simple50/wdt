@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サザンクロス","p":true},{"r":"サザン・クロス"}],"sense":[{"gloss":"Southern Cross (asterism formed with the brightest four stars of the constellation Crux)","pos":["n"],"f":["astron"],"x":["南十字星・みなみじゅうじせい"]}]},"sdata":[]}

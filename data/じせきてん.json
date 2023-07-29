@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自責点","p":true}],"r_ele":[{"r":"じせきてん","p":true}],"sense":[{"gloss":"earned run","pos":["n"],"f":["baseb"]}]},"sdata":[]}

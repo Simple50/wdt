@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"胸襟","p":true}],"r_ele":[{"r":"きょうきん","p":true}],"sense":[{"gloss":"one's heart","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑東京↑↓とう|きょう↓↑近郊↑↓きん|こう↓に↑住↑↓す↓んでいる。","e":"He lives in the suburbs of Tokyo."}]}

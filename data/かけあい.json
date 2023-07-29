@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"掛け合い","p":true},{"e":"懸け合い"},{"e":"掛合い"},{"e":"懸合い"},{"e":"懸合","i":["io"]},{"e":"かけ合い"}],"r_ele":[{"r":"かけあい","p":true}],"sense":[{"gloss":"negotiations, bargaining","pos":["n"]},{"gloss":"dialogue, duet","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伸び率","p":true},{"e":"延び率","i":["iK"]}],"r_ele":[{"r":"のびりつ","p":true}],"sense":[{"gloss":"growth rate, coefficient of extension","pos":["n"]}]},"sdata":[{"j":"↑産業↑↓さんぎょう↓の↑伸↑↓|の↓び↑率↑↓りつ|↓には↑驚↑↓おどろ↓きだ。","e":"I'm amazed by the rate at which industries grow."}]}

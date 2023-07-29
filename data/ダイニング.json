@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダイニング","p":true}],"sense":[{"gloss":"dining","pos":["n"]},{"gloss":"dining room","pos":["n"],"m":["abbr"]},{"gloss":"meal","pos":["n"]}]},"sdata":[{"j":"その↑家↑↓いえ↓には|ダイニング|、↑寝室↑↓しんしつ↓そして↑書斎↑↓しょさい↓があります。","e":"The house has a dining room, a bedroom and a study."}]}

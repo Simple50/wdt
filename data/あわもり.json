@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"泡盛","p":true}],"r_ele":[{"r":"あわもり","p":true}],"sense":[{"gloss":"awamori, strong Okinawan liquor distilled from rice or millet","pos":["n"]}]},"sdata":[]}

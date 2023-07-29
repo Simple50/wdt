@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歩留まり","p":true},{"e":"歩留り"},{"e":"歩留"},{"e":"歩止まり"},{"e":"歩止り"}],"r_ele":[{"r":"ぶどまり","p":true}],"sense":[{"gloss":"yield, yield rate","pos":["n","adj-f"]}]},"sdata":[{"j":"↑新↑↓あたら↓しい↑製造↑↓せいぞう↓↑過程↑↓かてい↓は↑高↑↓たか↓い↑歩留↑↓|ぶど↓まり|を↑可能↑↓かのう↓にする。","e":"The new production process achieves a high yield."}]}

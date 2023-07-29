@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"コロナ禍","p":true}],"r_ele":[{"r":"コロナか","p":true}],"sense":[{"gloss":"COVID-19 pandemic, coronavirus crisis, COVID-19 crisis","pos":["n"]}]},"kdata":{"禍":{"on":["カ"],"kun":["わざわい"],"jlpt":1,"meanings":["calamity","misfortune","evil","curse"],"freq":2010,"comp":[["咼","礻"]],"t":1900}},"sdata":[]}

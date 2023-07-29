@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マキシ","p":true}],"sense":[{"gloss":"ankle-length (clothes), maxi (skirt, dress, etc.), floor-length (clothes)","pos":["adj-f"],"x":["マクシスカート"]},{"gloss":"maxim","pos":["n"],"m":["abbr"],"x":["マキシム"]}]},"sdata":[]}

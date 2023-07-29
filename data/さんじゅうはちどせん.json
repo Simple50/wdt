@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"３８度線","p":true},{"e":"三十八度線","p":true}],"r_ele":[{"r":"さんじゅうはちどせん","p":true}],"sense":[{"gloss":"38th parallel (that demarcates North Korea and South Korea)","pos":["n"]}]},"sdata":[]}

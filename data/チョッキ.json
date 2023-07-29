@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チョッキ","p":true}],"sense":[{"gloss":"waistcoat, vest","pos":["n"],"x":["ベスト"]}],"m":["dated"]},"sdata":[{"j":"この|チョッキ|は↑前↑↓まえ↓が↑合↑↓あ↓わない。","e":"This waistcoat won't meet at the front."}]}

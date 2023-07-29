@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老け役","p":true}],"r_ele":[{"r":"ふけやく","p":true}],"sense":[{"gloss":"(theatrical) role of old person","pos":["n"]}]},"sdata":[]}

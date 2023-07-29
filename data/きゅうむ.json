@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"急務","p":true}],"r_ele":[{"r":"きゅうむ","p":true}],"sense":[{"gloss":"urgent business, pressing need, imperative","pos":["n"]}]},"sdata":[{"j":"↑生活↑↓せいかつ↓↑水準↑↓すいじゅん↓の↑向上↑↓こうじょう↓が↑急務↑↓|きゅうむ|↓である。","e":"There is an urgent need for improved living conditions."},{"j":"↑社会↑↓しゃかい↓の↑変革↑↓へんかく↓が↑急務↑↓|きゅうむ|↓である。","e":"There is an urgent need for social change."}]}

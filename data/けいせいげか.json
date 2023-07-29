@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"形成外科","p":true}],"r_ele":[{"r":"けいせいげか","p":true}],"sense":[{"gloss":"plastic surgery, reconstructive surgery, cosmetic surgery","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"激震","p":true},{"e":"劇震"}],"r_ele":[{"r":"げきしん","p":true}],"sense":[{"gloss":"severe earthquake, violent tremor","pos":["n"]}]},"sdata":[]}

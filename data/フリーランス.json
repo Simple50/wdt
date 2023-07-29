@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フリーランス","p":true}],"sense":[{"gloss":"freelance","pos":["n","adj-no"]}]},"sdata":[{"j":"トムは↑以前↑↓いぜん↓、|フリーランス|の↑写真↑↓しゃしん↓↑家↑↓か↓だった。","e":"Tom used to be a freelance photographer."}]}

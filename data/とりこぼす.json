@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取りこぼす","p":true},{"e":"取り零す"},{"e":"取零す"}],"r_ele":[{"r":"とりこぼす","p":true}],"sense":[{"gloss":"to lose an easy game, to suffer an unexpected defeat","pos":["v5s","vi"]},{"gloss":"to lose information","pos":["v5s","vi"],"f":["comp"]}]},"sdata":[]}

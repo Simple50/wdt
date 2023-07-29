@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旗色","p":true}],"r_ele":[{"r":"はたいろ","p":true},{"r":"きしょく"}],"sense":[{"gloss":"situation, outlook","pos":["n"]},{"gloss":"one's allegiance, affiliation, position","pos":["n"]}]},"sdata":[{"j":"↑旗色↑↓|はたいろ|↓が↑悪↑↓わる↓いからこの↑辺↑↓へん↓でやめよう。","e":"The odds are against me, so I think I'll quit now."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"屋形船","p":true}],"r_ele":[{"r":"やかたぶね","p":true}],"sense":[{"gloss":"houseboat, pleasure boat (large, roofed)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"温情","p":true}],"r_ele":[{"r":"おんじょう","p":true}],"sense":[{"gloss":"warm heart, kindliness","pos":["n"]}]},"sdata":[{"j":"↑体温↑↓たい|おん↓↑上昇↑↓じょう|しょう↓、↑脈拍↑↓みゃくはく↓↑上昇↑↓じょうしょう↓・・・↑酸素↑↓さんそ↓↑欠乏↑↓けつぼう↓↑状態↑↓じょうたい↓です。","e":"Body temperature rising, pulse rising ... he's in a state of oxygen deficiency."}]}

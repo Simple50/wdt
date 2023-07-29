@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立ちはだかる","p":true},{"e":"立ち開かる","i":["iK"]}],"r_ele":[{"r":"たちはだかる","p":true}],"sense":[{"gloss":"to stand in the way (esp. with legs spread out), to block the way","pos":["v5r","vi"]},{"gloss":"to stand in the way (e.g. of progress), to obstruct","pos":["v5r","vi"]}]},"sdata":[]}

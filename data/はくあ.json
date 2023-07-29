@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白亜","p":true},{"e":"白堊"}],"r_ele":[{"r":"はくあ","p":true}],"sense":[{"gloss":"chalk (rock)","pos":["n"]},{"gloss":"white wall","pos":["n"]}]},"sdata":[{"j":"「↑自由↑↓じゆう↓・↑平等↑↓びょうどう↓・↑博愛↑↓|はくあ|い↓」はハイチ↑共和↑↓きょうわ↓↑国↑↓こく↓のスローガンでもある。","e":"Freedom, Equality, Brotherhood is also Haiti's motto."}]}

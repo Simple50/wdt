@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早慶戦","p":true}],"r_ele":[{"r":"そうけいせん","p":true}],"sense":[{"gloss":"match between Waseda University and Keio University (esp. baseball)","pos":["n"]}]},"sdata":[]}

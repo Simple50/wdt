@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナンバープレート","p":true},{"r":"ナンバー・プレート"}],"sense":[{"gloss":"number plate, licence plate, license plate","pos":["n"]}]},"sdata":[]}

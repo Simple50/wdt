@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"療養所","p":true}],"r_ele":[{"r":"りょうようじょ","p":true},{"r":"りょうようしょ"}],"sense":[{"gloss":"sanatorium","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"料理屋","p":true}],"r_ele":[{"r":"りょうりや","p":true}],"sense":[{"gloss":"restaurant","pos":["n"]}]},"sdata":[{"j":"その↑料理↑↓|りょうり↓↑安↑↓や|す↓かったけど、↑食↑↓た↓べれたもんじゃないね。","e":"The food was cheap, but inedible."},{"j":"パーク↑通↑↓どお↓りの↑新↑↓あたら↓しい↑中華↑↓ちゅうか↓↑料理↑↓|りょうり↓↑屋↑↓や|↓に↑行↑↓い↓こうよ。","e":"Let's go to the new Chinese restaurant on Park Street."}]}

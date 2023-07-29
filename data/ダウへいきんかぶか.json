@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ダウ平均株価","p":true}],"r_ele":[{"r":"ダウへいきんかぶか","p":true}],"sense":[{"gloss":"Dow-Jones average (New York Stock Exchange)","pos":["n"]}]},"sdata":[{"j":"|ダウ↑平均↑↓へいきん↓↑株価↑↓かぶか|↓は↑今日↑↓きょう↓２ポイント↑値上↑↓ねあ↓がりした。","e":"The Dow Jones average posted a gain of two points today."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"咥える"},{"e":"銜える","p":true},{"e":"啣える","i":["rK"]}],"r_ele":[{"r":"くわえる","p":true}],"sense":[{"gloss":"to hold in one's mouth","pos":["v1","vt"]},{"gloss":"to bring with, to take along","pos":["v1","vt"]}],"m":["uk"]},"kdata":{"銜":{"on":["カン"],"kun":["くつわ","くわ.える"],"meanings":["horse's bit"],"comp":[["亍","彳","金"]],"d":["㘅"],"freq":4025}},"sdata":[]}

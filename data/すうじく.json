@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枢軸","p":true}],"r_ele":[{"r":"すうじく","p":true}],"sense":[{"gloss":"axle, pivot","pos":["n"]},{"gloss":"center (of power, activity), central point","pos":["n"]},{"gloss":"the Axis (WWII alliance)","pos":["n"],"m":["hist"],"x":["枢軸国"]}]},"sdata":[]}

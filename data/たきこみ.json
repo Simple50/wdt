@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"炊き込み","p":true}],"r_ele":[{"r":"たきこみ","p":true}],"sense":[{"gloss":"(something) cooked with rice","pos":["n"]}]},"sdata":[]}

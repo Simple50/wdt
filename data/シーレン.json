@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シーレン","p":true},{"r":"シーレーン"}],"sense":[{"gloss":"sea-lane","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打順","p":true}],"r_ele":[{"r":"だじゅん","p":true}],"sense":[{"gloss":"batting order","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"ま|だ↑準備↑↓じゅん|び↓ができていないんだ。","e":"I'm not ready yet."},{"j":"ま|だ↑準備↑↓じゅん|び↓ができていないんだ。","e":"I am not ready yet."},{"j":"ま|だ↑準備↑↓じゅん|び↓ができていないんだ。","e":"I'm still not ready."},{"j":"ま|だ↑準備↑↓じゅん|び↓できてないの？","e":"Are you still not ready?"}]}

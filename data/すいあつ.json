@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水圧","p":true}],"r_ele":[{"r":"すいあつ","p":true}],"sense":[{"gloss":"water (hydraulic) pressure","pos":["n","adj-no"]}]},"sdata":[{"j":"↑水圧↑↓|すいあつ|↓が↑原因↑↓げんいん↓で↑管↑↓くだ↓は↑破裂↑↓はれつ↓しました。","e":"The water pressure caused the pipe to burst."}]}

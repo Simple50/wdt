@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夏服","p":true}],"r_ele":[{"r":"なつふく","p":true}],"sense":[{"gloss":"summer clothing","pos":["n"]}]},"sdata":[{"j":"↑夏服↑↓|なつふく|↓を↑着↑↓き↓ればいいのに。","e":"Why don't you wear summer clothes?"},{"j":"↑夏服↑↓|なつふく|↓を↑着↑↓き↓ればいいのに。","e":"You should just wear summer clothes."},{"j":"↑夏服↑↓|なつふく|↓を↑着↑↓き↓ればいいのに。","e":"If only she'd wear summer clothes."}]}

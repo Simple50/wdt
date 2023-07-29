@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寒冷前線","p":true}],"r_ele":[{"r":"かんれいぜんせん","p":true}],"sense":[{"gloss":"cold front","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水様液"},{"e":"水溶液","p":true}],"r_ele":[{"r":"すいようえき","p":true}],"sense":[{"gloss":"(translucent) aqueous solution","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内宮","p":true}],"r_ele":[{"r":"ないくう","p":true},{"r":"ないぐう","i":["ik"]}],"sense":[{"gloss":"Inner Ise Shrine","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑時々↑↓ときどき↓たわいも|ない↑空想↑↓くう|そう↓にふける。","e":"He sometimes indulges himself in idle speculation."}]}

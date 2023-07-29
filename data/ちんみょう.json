@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"珍妙","p":true}],"r_ele":[{"r":"ちんみょう","p":true}],"sense":[{"gloss":"queer, odd, fantastic","pos":["adj-na","n"]}]},"sdata":[]}

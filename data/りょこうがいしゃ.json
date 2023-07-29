@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旅行会社","p":true}],"r_ele":[{"r":"りょこうがいしゃ","p":true}],"sense":[{"gloss":"travel agent, travel agency","pos":["n"]}]},"sdata":[]}

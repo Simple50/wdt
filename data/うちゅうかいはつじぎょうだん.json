@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宇宙開発事業団","p":true}],"r_ele":[{"r":"うちゅうかいはつじぎょうだん","p":true}],"sense":[{"gloss":"National Space Development Agency, NASDA","pos":["n"]}]},"sdata":[]}

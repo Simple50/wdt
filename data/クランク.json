@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クランク","p":true}],"sense":[{"gloss":"crank (mechanism)","pos":["n"]},{"gloss":"narrow, crank-shaped road (on a driving school training course)","pos":["n"]},{"gloss":"crank (on an early movie camera)","pos":["n"]}]},"sdata":[{"j":"↑撮影↑↓さつえい↓は３↑日間↑↓にちかん↓で|クランク|アップします。","e":"The picture will finish shooting in three days."}]}

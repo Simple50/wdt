@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エディット","p":true}],"sense":[{"gloss":"edit","pos":["n"]}]},"sdata":[{"j":"|エディット|・ピアフはフランスの↑歌手↑↓かしゅ↓である。","e":"Edith Piaf was a French singer."},{"j":"|エディット|・ピアフはフランスの↑歌手↑↓かしゅ↓。","e":"Edith Piaf was a French singer."},{"j":"|エディット|・ピアフはフランス↑人↑↓じん↓の↑女性↑↓じょせい↓↑歌手↑↓かしゅ↓です。","e":"Edith Piaf was a French singer."}]}

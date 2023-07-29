@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発起人","p":true}],"r_ele":[{"r":"ほっきにん","p":true}],"sense":[{"gloss":"originator, promoter","pos":["n"]}]},"sdata":[{"j":"その↑費用↑↓ひよう↓はみな↑発起人↑↓|ほっきにん|↓にかかります。","e":"All the expenses will fall on the sponsor."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レーザーディスク","p":true},{"r":"レーザー・ディスク"}],"sense":[{"gloss":"laser disk, LD","pos":["n"]}]},"sdata":[]}

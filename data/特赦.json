@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特赦","p":true}],"r_ele":[{"r":"とくしゃ","p":true}],"sense":[{"gloss":"special pardon, (general) amnesty","pos":["n","vs","vt"]}]},"kdata":{"特":{"on":["トク"],"jlpt":4,"meanings":["special"],"freq":234,"comp":[["寺","牛"]],"t":1117},"赦":{"on":["シャ"],"jlpt":1,"meanings":["pardon","forgiveness"],"freq":1868,"comp":[["赤","攵"]],"d":["螫"],"t":1393}},"sdata":[]}

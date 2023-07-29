@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上滑り","p":true},{"e":"上すべり"}],"r_ele":[{"r":"うわすべり","p":true}],"sense":[{"gloss":"superficial, shallow","pos":["adj-no","adj-na","vs","vi","n"]},{"gloss":"frivolous, careless, thoughtless","pos":["adj-no","adj-na","n"]},{"gloss":"sliding along a surface, being slippery","pos":["n","vs","vi"]}]},"sdata":[]}

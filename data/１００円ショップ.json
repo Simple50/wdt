@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"１００円ショップ","p":true}],"r_ele":[{"r":"ひゃくえんショップ","p":true}],"sense":[{"gloss":"hundred-yen store","pos":["n"]}]},"kdata":{"円":{"on":["エン"],"kun":["まる.い","まる","まど","まど.か","まろ.やか"],"jlpt":5,"meanings":["circle","yen","round"],"freq":69,"comp":[["丄","冂"]],"d":["靑"],"t":108}},"sdata":[]}

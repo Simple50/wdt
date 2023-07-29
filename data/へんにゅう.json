@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"編入","p":true}],"r_ele":[{"r":"へんにゅう","p":true}],"sense":[{"gloss":"admission, incorporation, enlistment, enrollment","pos":["n","vs","vt"]}]},"sdata":[]}

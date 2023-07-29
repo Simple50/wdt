@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"釣り堀","p":true},{"e":"釣堀"}],"r_ele":[{"r":"つりぼり","p":true}],"sense":[{"gloss":"fish pond (artificially stocked), fishing pond","pos":["n"]}]},"sdata":[]}

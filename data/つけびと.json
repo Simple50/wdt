@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"付け人","p":true},{"e":"付人"}],"r_ele":[{"r":"つけびと","p":true}],"sense":[{"gloss":"assistant (esp. in show business or sumo), attendant, chaperon","pos":["n"],"x":["付き人"]}]},"sdata":[]}

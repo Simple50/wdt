@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"四死球","p":true}],"r_ele":[{"r":"ししきゅう","p":true}],"sense":[{"gloss":"bases on balls and pitches striking the batsmen","pos":["n"],"f":["baseb"],"x":["四球","死球"]}]},"sdata":[]}

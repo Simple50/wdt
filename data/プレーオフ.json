@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プレーオフ","p":true},{"r":"プレイオフ"}],"sense":[{"gloss":"play-off, playoff","pos":["n"],"f":["sports"]}]},"sdata":[]}

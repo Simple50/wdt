@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飛び抜ける","p":true},{"e":"飛びぬける"}],"r_ele":[{"r":"とびぬける","p":true}],"sense":[{"gloss":"to be preeminent, to be outstanding","pos":["v1","vi"]}]},"sdata":[]}

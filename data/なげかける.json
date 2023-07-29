@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"投げかける"},{"e":"投げ掛ける","p":true}],"r_ele":[{"r":"なげかける","p":true}],"sense":[{"gloss":"to throw at, to turn, to raise","pos":["v1","vt"]}]},"sdata":[{"j":"それは↑壁↑↓かべ↓に↑神秘↑↓しんぴ↓↑的↑↓てき↓な↑影↑↓かげ↓を↑投↑↓|な↓げかける|。","e":"It casts mysterious shadows on the wall."},{"j":"その↑木↑↓き↓は↑長↑↓なが↓い↑影↑↓かげ↓を↑投↑↓|な↓げかける|。","e":"The tree casts a long shadow."}]}

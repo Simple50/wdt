@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同坐"},{"e":"同座","p":true}],"r_ele":[{"r":"どうざ","p":true}],"sense":[{"gloss":"sitting together, the same theater (theatre), involvement, entanglement, implication","pos":["n","vs"]}]},"sdata":[]}

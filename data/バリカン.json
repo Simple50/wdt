@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バリカン","p":true}],"sense":[{"gloss":"barber's clippers","pos":["n"],"l":"fre: Bariquand (et Marre)"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歴戦","p":true}],"r_ele":[{"r":"れきせん","p":true}],"sense":[{"gloss":"long military service, having experienced many battles","pos":["n","adj-no"]}]},"sdata":[]}

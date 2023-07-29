@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銃砲","p":true}],"r_ele":[{"r":"じゅうほう","p":true}],"sense":[{"gloss":"guns, firearms","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑彼↑↓かれ↓らに↑船↑↓ふね↓の↑操縦↑↓そう|じゅう↓↑法↑↓ほう|↓を↑教↑↓おし↓えた。","e":"He taught them how to sail ships."},{"j":"ヘリコプターの↑操縦↑↓そう|じゅう↓↑方法↑↓ほう|ほう↓は↑分↑↓わ↓かります。","e":"I know how to fly a helicopter."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リーズナブル","p":true},{"r":"リースナブル","i":["ik"]}],"sense":[{"gloss":"reasonable (esp. price)","pos":["adj-na"]}]},"sdata":[]}

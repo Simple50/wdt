@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"順延","p":true}],"r_ele":[{"r":"じゅんえん","p":true}],"sense":[{"gloss":"postponement, moving to a later date","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑当日↑↓とうじつ↓↑雨天↑↓うてん↓の↑場合↑↓ばあい↓は↑順延↑↓|じゅんえん|↓となります。","e":"If it rains on that day, the game will be postponed until the next fine day."}]}

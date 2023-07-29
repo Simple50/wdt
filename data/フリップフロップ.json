@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フリップフロップ","p":true},{"r":"フリップ・フロップ"}],"sense":[{"gloss":"flip flop, bistable (trigger) circuit","pos":["n"],"f":["comp"]}]},"sdata":[]}

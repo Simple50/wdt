@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪法","p":true}],"r_ele":[{"r":"あくほう","p":true}],"sense":[{"gloss":"bad law","pos":["n"]},{"gloss":"evil ways, evil way of doing things","pos":["n"],"m":["arch"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らはその↑悪法↑↓|あくほう|↓を↑施行↑↓しこう↓しようとしている。","e":"They are going to put the bad law in force."}]}

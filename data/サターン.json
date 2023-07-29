@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サターン","p":true},{"r":"サトゥルヌス"}],"sense":[{"gloss":"Saturn (Roman god)","pos":["n"],"x":["クロノス"]},{"gloss":"Saturn (planet)","pos":["n"],"f":["astron"],"x":["土星・どせい"]}]},"sdata":[]}

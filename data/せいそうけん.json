@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"成層圏","p":true}],"r_ele":[{"r":"せいそうけん","p":true}],"sense":[{"gloss":"stratosphere","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"玉虫色","p":true}],"r_ele":[{"r":"たまむしいろ","p":true}],"sense":[{"gloss":"iridescent colour","pos":["n","adj-no"]},{"gloss":"equivocal (reply, statement, etc.), ambiguous, vague","pos":["adj-no","n"]}]},"sdata":[{"j":"↑首相↑↓しゅしょう↓の↑答弁↑↓とうべん↓は↑玉虫色↑↓|たまむしいろ|↓だった。","e":"The prime minister's answer was equivocal."}]}

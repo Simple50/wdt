@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脂っこい","p":true},{"e":"油っこい"},{"e":"油っ濃い"},{"e":"脂っ濃い"}],"r_ele":[{"r":"あぶらっこい","p":true}],"sense":[{"gloss":"greasy, fatty, oily","pos":["adj-i"]}],"m":["uk"]},"sdata":[]}

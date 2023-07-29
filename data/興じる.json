@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"興じる","p":true}],"r_ele":[{"r":"きょうじる","p":true}],"sense":[{"gloss":"to amuse oneself, to make merry","pos":["v1","vi"]}]},"kdata":{"興":{"on":["コウ","キョウ"],"kun":["おこ.る","おこ.す"],"jlpt":1,"meanings":["entertain","revive","retrieve","interest","pleasure"],"freq":734,"comp":[["同","舁"]],"d":["與","臖"],"t":2134}},"sdata":[]}

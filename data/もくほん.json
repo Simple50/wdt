@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"木本","p":true}],"r_ele":[{"r":"もくほん","p":true}],"sense":[{"gloss":"tree, woody plant","pos":["n","adj-no"]}]},"sdata":[{"j":"なぜ↑一種↑↓いっしゅ↓の↑植物↑↓しょくぶつ↓が↑一↑↓いち↓↑年生↑↓ねんせい↓の↑草本↑↓そうほん↓になったり、↑多年生↑↓たねんせい↓の↑木本↑↓|もくほん|↓になったりするのでしょうか。","e":"I wonder why it is that some plants become annuals and others perennials?"}]}

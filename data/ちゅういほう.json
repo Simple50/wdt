@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"注意報","p":true}],"r_ele":[{"r":"ちゅういほう","p":true}],"sense":[{"gloss":"warning (e.g. for a storm), advisory","pos":["n"]}]},"sdata":[]}

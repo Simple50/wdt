@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"よそ見","p":true},{"e":"余所見"}],"r_ele":[{"r":"よそみ","p":true}],"sense":[{"gloss":"looking away, looking aside","pos":["n","vs"]}]},"sdata":[{"j":"そこの↑男子↑↓だんし↓、↑授業↑↓じゅぎょう↓↑中↑↓ちゅう↓に|よそ↑見↑↓み|↓しない！","e":"Boys, stop staring off into space in class!"}]}

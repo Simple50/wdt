@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヒアリング","p":true},{"r":"ヒヤリング","p":true}],"sense":[{"gloss":"listening (esp. in foreign language education), listening comprehension","pos":["n"],"l":"eng: hearing"},{"gloss":"interview (with a client, etc.), survey","pos":["n","vs"]},{"gloss":"(public) hearing","pos":["n"],"x":["公聴会"]}]},"sdata":[]}

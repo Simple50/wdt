@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"職域","p":true}],"r_ele":[{"r":"しょくいき","p":true}],"sense":[{"gloss":"range of one's work, one's area of responsibility, range of one's duties","pos":["n"]},{"gloss":"place of one's work","pos":["n"]}]},"sdata":[]}

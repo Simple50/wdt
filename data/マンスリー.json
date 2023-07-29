@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マンスリー","p":true}],"sense":[{"gloss":"monthly","pos":["n"]}]},"sdata":[]}

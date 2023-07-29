@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャンピングカー","p":true},{"r":"キャンピング・カー"}],"sense":[{"gloss":"RV, camper-van, mobile home","pos":["n"],"l":"eng: camping car"}]},"sdata":[{"j":"↑丘↑↓おか↓の↑斜面↑↓しゃめん↓には|キャンピングカー|がいっぱいあった。","e":"Lots of campers were parked all over the hill-side."}]}

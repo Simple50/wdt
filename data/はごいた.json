@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"羽子板","p":true}],"r_ele":[{"r":"はごいた","p":true}],"sense":[{"gloss":"battledore (early form of badminton racket)","pos":["n"]}]},"sdata":[{"j":"↑羽子板↑↓|はごいた|↓で↑突↑↓つ↓く↑羽↑↓はね↓の↑玉↑↓たま↓は「むくろじ」という↑大木↑↓たいぼく↓の↑種↑↓しゅ↓です。","e":"The feathered balls you hit with a battledore are the seeds of a large tree called 'soapberry'."}]}

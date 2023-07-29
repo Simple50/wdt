@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンドミニアム","p":true}],"sense":[{"gloss":"condominium","pos":["n"]}]},"sdata":[{"j":"うちは、|コンドミニアム|です。","e":"Our home is a condominium."}]}

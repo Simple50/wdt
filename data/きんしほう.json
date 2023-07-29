@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"禁止法","p":true}],"r_ele":[{"r":"きんしほう","p":true}],"sense":[{"gloss":"negative statute, law against something","pos":["n"]}]},"sdata":[]}

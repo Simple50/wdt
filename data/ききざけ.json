@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"利き酒","p":true},{"e":"きき酒"},{"e":"利酒"},{"e":"聞き酒"},{"e":"聞酒"},{"e":"唎き酒"},{"e":"唎酒"}],"r_ele":[{"r":"ききざけ","p":true}],"sense":[{"gloss":"sake tasting, wine tasting","pos":["n"]}]},"sdata":[]}

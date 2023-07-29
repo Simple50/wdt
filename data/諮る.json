@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"諮る","p":true},{"e":"議る","i":["iK"]}],"r_ele":[{"r":"はかる","p":true}],"sense":[{"gloss":"to consult with, to discuss, to confer, to deliberate","pos":["v5r","vt"]}]},"kdata":{"諮":{"on":["シ"],"kun":["はか.る"],"jlpt":1,"meanings":["consult with"],"freq":1345,"comp":[["言","咨"]]}},"sdata":[]}

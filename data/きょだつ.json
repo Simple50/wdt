@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虚脱","p":true}],"r_ele":[{"r":"きょだつ","p":true}],"sense":[{"gloss":"lethargy, despondency, mental numbness","pos":["n","vs","vi"]},{"gloss":"(physical) collapse, prostration","pos":["n","vs","vi"],"f":["med"]}]},"sdata":[]}

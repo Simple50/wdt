@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卵巣","p":true}],"r_ele":[{"r":"らんそう","p":true}],"sense":[{"gloss":"ovary","pos":["n"]}]},"sdata":[{"j":"メアリーは↑２０１３↑↓にせんじゅうさん↓↑年↑↓ねん↓に↑卵巣↑↓|らんそう|↓がんと↑診断↑↓しんだん↓されました。","e":"Mary was diagnosed with ovarian cancer in 2013."}]}

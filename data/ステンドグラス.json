@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ステンドグラス","p":true},{"r":"ステインドグラス"},{"r":"ステンド・グラス"},{"r":"ステインド・グラス"}],"sense":[{"gloss":"stained glass","pos":["n"]}]},"sdata":[{"j":"この↑教会↑↓きょうかい↓には|ステンドグラス|があるんだ。","e":"This church has stained glass windows."},{"j":"この↑教会↑↓きょうかい↓には、きれいな|ステンドグラス|があるんだよ。","e":"This church has beautiful stained glass windows."}]}

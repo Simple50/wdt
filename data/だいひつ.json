@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"代筆","p":true}],"r_ele":[{"r":"だいひつ","p":true}],"sense":[{"gloss":"writing on someone's behalf","pos":["n","vs","vt"]}]},"sdata":[]}

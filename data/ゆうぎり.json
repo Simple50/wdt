@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夕霧","p":true}],"r_ele":[{"r":"ゆうぎり","p":true},{"r":"せきむ"}],"sense":[{"gloss":"evening mist","pos":["n"],"x":["朝霧"]}]},"sdata":[]}

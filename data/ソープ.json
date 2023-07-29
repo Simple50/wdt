@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ソープ","p":true}],"sense":[{"gloss":"soap","pos":["n"]},{"gloss":"soapland, brothel where one can bathe with prostitutes","pos":["n"],"m":["abbr","sl"],"x":["ソープランド"]}]},"sdata":[{"j":"ボディー|ソープ|で↑顔↑↓かお↓↑洗↑↓あら↓ったことある？","e":"Have you ever washed your face with body soap?"}]}

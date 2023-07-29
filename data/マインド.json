@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マインド","p":true}],"sense":[{"gloss":"mind, mindset, mentality, sentiment","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"芸文","p":true}],"r_ele":[{"r":"げいぶん","p":true}],"sense":[{"gloss":"art and literature","pos":["n"]}]},"sdata":[]}

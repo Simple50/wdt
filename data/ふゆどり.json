@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冬鳥","p":true}],"r_ele":[{"r":"ふゆどり","p":true}],"sense":[{"gloss":"winter bird (resident)","pos":["n"]}]},"sdata":[]}

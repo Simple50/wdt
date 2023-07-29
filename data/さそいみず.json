@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"誘い水","p":true}],"r_ele":[{"r":"さそいみず","p":true}],"sense":[{"gloss":"pump priming","pos":["n"]},{"gloss":"cause, impetus, spark, trigger, stimulus, incentive","pos":["n"]}]},"sdata":[]}

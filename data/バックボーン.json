@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バックボーン","p":true}],"sense":[{"gloss":"(emotional) backbone, support","pos":["n"]},{"gloss":"backbone (of a network)","pos":["n"],"f":["comp"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"密室","p":true}],"r_ele":[{"r":"みっしつ","p":true}],"sense":[{"gloss":"locked room","pos":["n"]},{"gloss":"secret room","pos":["n"]}]},"sdata":[{"j":"↑一見↑↓いっけん↓したところ、この↑殺人↑↓さつじん↓は↑密室↑↓|みっしつ|↓で↑起↑↓お↓こっている。","e":"Apparently, the murder happened in a locked room."}]}

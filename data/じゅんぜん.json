@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"純然","p":true}],"r_ele":[{"r":"じゅんぜん","p":true}],"sense":[{"gloss":"absolute, complete, utter, pure, sheer","pos":["adj-t","adv-to"]}]},"sdata":[]}

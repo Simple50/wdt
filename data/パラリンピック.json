@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パラリンピック","p":true}],"sense":[{"gloss":"Paralympics","pos":["n"]}]},"sdata":[]}

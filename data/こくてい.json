@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国定","p":true}],"r_ele":[{"r":"こくてい","p":true}],"sense":[{"gloss":"state-sponsored, national","pos":["n","adj-no"]}]},"sdata":[{"j":"↑公園↑↓こうえん↓で↑見↑↓み↓かけたリスを↑写真↑↓しゃしん↓に↑収↑↓おさ↓めようとしたが、すばしっ|こくて↑一↑↓い|ち↓↑枚↑↓まい↓もいいのが↑撮↑↓と↓れなかった。","e":"I was going to take a picture of a squirrel I found in the park, but it was too nimble, and all my shots were no good."}]}

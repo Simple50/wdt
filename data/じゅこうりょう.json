@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受講料","p":true}],"r_ele":[{"r":"じゅこうりょう","p":true}],"sense":[{"gloss":"course fee, tuition fee","pos":["n"]}]},"sdata":[]}

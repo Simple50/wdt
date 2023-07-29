@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縁日","p":true}],"r_ele":[{"r":"えんにち","p":true}],"sense":[{"gloss":"temple festival, fair, fete day, day related to a particular deity and thought to bring divine blessing to those who celebrate it","pos":["n"]}]},"sdata":[{"j":"↑年収↑↓ねんしゅう↓は１５００↑万↑↓まん↓↑円↑↓|えん↓に↑近↑↓ち|か↓いと↑思↑↓おも↓う。","e":"My annual income approximates fifteen million yen, I suppose."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モザンビーク","p":true}],"sense":[{"gloss":"Mozambique","pos":["n"]}]},"sdata":[]}

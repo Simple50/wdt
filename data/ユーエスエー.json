@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＵＳＡ","p":true}],"r_ele":[{"r":"ユーエスエー","p":true}],"sense":[{"gloss":"United States of America, USA","pos":["n"],"x":["アメリカ合衆国"]},{"gloss":"United States Army, US Army, USA","pos":["n"],"x":["アメリカ陸軍"]}]},"sdata":[]}

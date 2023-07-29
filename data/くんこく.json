@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"訓告","p":true}],"r_ele":[{"r":"くんこく","p":true}],"sense":[{"gloss":"reprimand, admonition","pos":["n","vs"]}]},"sdata":[]}

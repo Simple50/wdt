@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変転","p":true}],"r_ele":[{"r":"へんてん","p":true}],"sense":[{"gloss":"mutation, change, transition","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑今日↑↓きょう↓はたい|へん↑天気↑↓てん|き↓がよい。","e":"It is very fine today."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"痛烈","p":true}],"r_ele":[{"r":"つうれつ","p":true}],"sense":[{"gloss":"severe, bitter, scathing","pos":["adj-na","n"]}]},"sdata":[]}

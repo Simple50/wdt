@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"留め置き","p":true},{"e":"留置き"}],"r_ele":[{"r":"とめおき","p":true}],"sense":[{"gloss":"detention, keeping, retaining","pos":["n","vs"]},{"gloss":"mail held at the post office","pos":["n","vs"],"m":["abbr"],"x":["留置郵便"]}]},"sdata":[]}

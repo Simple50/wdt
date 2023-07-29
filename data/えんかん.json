@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"円環","p":true}],"r_ele":[{"r":"えんかん","p":true}],"sense":[{"gloss":"circle, ring, torus","pos":["adj-na","n"]}]},"sdata":[{"j":"↑南↑↓みなみ↓↑諸島↑↓しょとう↓のコミュニティの↑中↑↓なか↓にはまったくの↑正↑↓せい↓↑反対↑↓はんたい↓の↑血縁↑↓けつ|えん↓↑関係↑↓かん|けい↓のパターンが↑観察↑↓かんさつ↓されるであろう。","e":"A diametrically opposed kinship pattern is to be observed among certain South Sea Island communities."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"継ぎ目","p":true},{"e":"継目"}],"r_ele":[{"r":"つぎめ","p":true}],"sense":[{"gloss":"joint, seam, joining point","pos":["n"]}]},"sdata":[{"j":"いすの↑継↑↓|つ↓ぎ↑目↑↓め|↓はぐらぐらしていた。","e":"The joints of the chair were loose."}]}

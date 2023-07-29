@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農業試験場","p":true}],"r_ele":[{"r":"のうぎょうしけんじょう","p":true}],"sense":[{"gloss":"agricultural experiment station","pos":["n"]}]},"sdata":[]}

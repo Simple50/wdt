@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デビスカップ","p":true},{"r":"デビス・カップ"}],"sense":[{"gloss":"Davis Cup (tennis)","pos":["n"],"f":["sports"]}]},"sdata":[]}

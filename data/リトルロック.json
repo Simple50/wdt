@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リトルロック","p":true},{"r":"リトル・ロック"}],"sense":[{"gloss":"Little Rock","pos":["n"]}]},"sdata":[]}

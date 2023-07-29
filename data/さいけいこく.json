@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最恵国","p":true}],"r_ele":[{"r":"さいけいこく","p":true}],"sense":[{"gloss":"most favored nation, most favoured nation, MFN","pos":["n"]}]},"sdata":[]}

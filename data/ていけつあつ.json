@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低血圧","p":true}],"r_ele":[{"r":"ていけつあつ","p":true}],"sense":[{"gloss":"low blood pressure","pos":["n"]}]},"sdata":[{"j":"↑低↑↓|てい↓↑血圧↑↓けつあつ|↓なんです。","e":"I have low blood pressure."},{"j":"↑彼女↑↓かのじょ↓は、↑低↑↓|てい↓↑血圧↑↓けつあつ|↓だ。","e":"She suffers from low blood pressure."},{"j":"トムは↑低↑↓|てい↓↑血圧↑↓けつあつ|↓だ。","e":"Tom has low blood pressure."}]}

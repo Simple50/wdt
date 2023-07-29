@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"準用","p":true}],"r_ele":[{"r":"じゅんよう","p":true}],"sense":[{"gloss":"to apply (the law) with necessary modifications, to apply mutatis mutandis, to apply correspondingly","pos":["vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"血相","p":true}],"r_ele":[{"r":"けっそう","p":true}],"sense":[{"gloss":"expression, looks","pos":["n"]}]},"sdata":[]}

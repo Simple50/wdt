@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名乗り出る","p":true}],"r_ele":[{"r":"なのりでる","p":true}],"sense":[{"gloss":"to introduce oneself, to announce oneself (e.g. as the person sought), to come forward (e.g. as a witness, with a claim, etc.)","pos":["v1","vi"]}]},"sdata":[{"j":"その↑仕事↑↓しごと↓をしようと↑名乗↑↓|なの↓り↑出↑↓で↓る|↑者↑↓もの↓はいなかった。","e":"There were no volunteers for the job."}]}

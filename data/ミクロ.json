@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミクロ","p":true}],"sense":[{"gloss":"micro","pos":["adj-na","n"],"x":["マクロ・1"],"l":"ger: Mikro,fre: micro"}]},"sdata":[]}

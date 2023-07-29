@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"採石","p":true}],"r_ele":[{"r":"さいせき","p":true}],"sense":[{"gloss":"quarrying","pos":["n","vs","vt","vi"]}]},"sdata":[]}

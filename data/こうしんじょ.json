@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"興信所","p":true}],"r_ele":[{"r":"こうしんじょ","p":true}],"sense":[{"gloss":"detective agency, enquiry agency","pos":["n"]}]},"sdata":[{"j":"ページが↑読↑↓よ↓み↑込↑↓こ↓まれたら↑更新↑↓|こうしん↓↑情報↑↓じょ|うほう↓をページ↑内↑↓ない↓に↑流↑↓なが↓し↑込↑↓こ↓む　prototype.↑j↑↓じぇい↓↑s↑↓えす↓","e":"prototype.js - inserts update information into the page when the page is loaded."}]}

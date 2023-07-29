@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハワイアンギター","p":true},{"r":"ハワイアン・ギター"}],"sense":[{"gloss":"Hawaiian guitar","pos":["n"]}]},"sdata":[]}

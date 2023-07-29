@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"情愛","p":true}],"r_ele":[{"r":"じょうあい","p":true}],"sense":[{"gloss":"affection, love","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑全↑↓まった↓く↑情愛↑↓|じょうあい|↓に↑欠↑↓か↓けているようだ。","e":"He seems to be bankrupt of all tender feeling."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無理難題","p":true}],"r_ele":[{"r":"むりなんだい","p":true}],"sense":[{"gloss":"unreasonable demand","pos":["n"]}],"m":["yoji"]},"sdata":[]}

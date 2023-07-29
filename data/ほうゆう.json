@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"朋友","p":true}],"r_ele":[{"r":"ほうゆう","p":true}],"sense":[{"gloss":"friend, companion","pos":["n"]}]},"sdata":[]}

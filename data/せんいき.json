@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戦域","p":true}],"r_ele":[{"r":"せんいき","p":true}],"sense":[{"gloss":"war area, battlefield, theater, theatre","pos":["n"],"f":["mil"]}]},"sdata":[]}

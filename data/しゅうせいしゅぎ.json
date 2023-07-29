@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"修正主義","p":true}],"r_ele":[{"r":"しゅうせいしゅぎ","p":true}],"sense":[{"gloss":"revisionism","pos":["n","adj-no"]}]},"sdata":[]}

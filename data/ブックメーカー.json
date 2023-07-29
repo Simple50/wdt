@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブックメーカー","p":true}],"sense":[{"gloss":"bookmaker","pos":["n"]}]},"sdata":[]}

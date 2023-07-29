@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銀紙","p":true}],"r_ele":[{"r":"ぎんがみ","p":true}],"sense":[{"gloss":"aluminum foil, aluminium foil, tinfoil, silver paper","pos":["n"],"x":["アルミホイル"]},{"gloss":"silver-colored paper","pos":["n"]}]},"sdata":[]}

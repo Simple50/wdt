@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旁","p":true}],"r_ele":[{"r":"つくり","p":true}],"sense":[{"gloss":"right-hand radical of a character","pos":["n"],"x":["偏"]}]},"kdata":{"旁":{"on":["ボウ","ホウ"],"kun":["つくり","かたがた","かたわら"],"meanings":["nearby","RHS of character","at same time"],"comp":[["立","冖","方"]],"d":["傍","榜","謗","膀","蒡","滂","牓","螃","磅","徬","嵭","搒","鎊","髈"],"freq":3759}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"舞台裏","p":true}],"r_ele":[{"r":"ぶたいうら","p":true}],"sense":[{"gloss":"offstage, backstage, behind the scenes","pos":["n"]}]},"sdata":[]}

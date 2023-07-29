@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逸材","p":true}],"r_ele":[{"r":"いつざい","p":true}],"sense":[{"gloss":"outstanding talent, person of exceptional talent, gifted person","pos":["n"]}]},"sdata":[]}

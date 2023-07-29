@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒事","p":true}],"r_ele":[{"r":"あらごと","p":true}],"sense":[{"gloss":"(theatrical) fighting scene","pos":["n"]}]},"sdata":[]}

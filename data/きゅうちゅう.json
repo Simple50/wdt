@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宮中","p":true}],"r_ele":[{"r":"きゅうちゅう","p":true}],"sense":[{"gloss":"imperial court","pos":["n"]}]},"sdata":[{"j":"ゴールデンウィーク↑連休↑↓れん|きゅう↓↑中↑↓ちゅう|↓には、↑多↑↓おお↓くのボランティアが↑地震↑↓じしん↓と↑津波↑↓つなみ↓の↑被害↑↓ひがい↓を↑受↑↓う↓けた↑東北↑↓とうほく↓↑地方↑↓ちほう↓へ↑出向↑↓でむ↓いた。","e":"During the Golden Week holidays, many volunteers went to the quake and tsunami-hit areas in Tohoku."}]}

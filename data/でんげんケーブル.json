@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電源ケーブル","p":true}],"r_ele":[{"r":"でんげんケーブル","p":true}],"sense":[{"gloss":"power cable, power lead","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"延命","p":true}],"r_ele":[{"r":"えんめい","p":true},{"r":"えんみょう","i":["ok"]}],"sense":[{"gloss":"keeping alive longer, prolonging life, life extension, life-support","pos":["n","vs","adj-no"]}]},"sdata":[]}

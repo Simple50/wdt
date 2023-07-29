@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中二階","p":true}],"r_ele":[{"r":"ちゅうにかい","p":true}],"sense":[{"gloss":"mezzanine floor","pos":["n"]}]},"sdata":[]}

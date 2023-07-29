@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"決選投票","p":true},{"e":"決戦投票","i":["iK"]}],"r_ele":[{"r":"けっせんとうひょう","p":true}],"sense":[{"gloss":"final vote, run-off ballot","pos":["n"]}]},"sdata":[]}

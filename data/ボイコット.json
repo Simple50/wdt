@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボイコット","p":true}],"sense":[{"gloss":"boycott","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はバスの|ボイコット|↑運動↑↓うんどう↓を↑組織↑↓そしき↓したのである。","e":"He organized a boycott of the bus service."}]}

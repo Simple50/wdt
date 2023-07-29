@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"子午線","p":true}],"r_ele":[{"r":"しごせん","p":true}],"sense":[{"gloss":"meridian, meridian line","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓の↑子午線↑↓|しごせん|↓は↑東経↑↓とうけい↓１３５↑度↑↓ど↓です。","e":"Japan is on the 135th meridian East."}]}

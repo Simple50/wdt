@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"輸液","p":true}],"r_ele":[{"r":"ゆえき","p":true}],"sense":[{"gloss":"transfusion","pos":["n","vs","vt","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"信販会社","p":true}],"r_ele":[{"r":"しんぱんがいしゃ","p":true}],"sense":[{"gloss":"credit company","pos":["n"]}]},"sdata":[]}

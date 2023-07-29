@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絵巻物","p":true}],"r_ele":[{"r":"えまきもの","p":true}],"sense":[{"gloss":"picture scroll","pos":["n"]}]},"sdata":[]}

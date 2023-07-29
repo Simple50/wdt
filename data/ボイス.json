@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボイス","p":true}],"sense":[{"gloss":"voice","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファシズム","p":true}],"sense":[{"gloss":"fascism","pos":["n"]}]},"sdata":[{"j":"ナショナリズムを|ファシズム|と↑同一↑↓どういつ↓↑視↑↓し↓してはいけない。","e":"You can't equate nationalism with fascism."},{"j":"アメリカ↑人↑↓じん↓が|ファシズム|を↑受↑↓う↓け↑入↑↓い↓れないのは、↑共産↑↓きょうさん↓↑主義↑↓しゅぎ↓を↑受↑↓う↓け↑入↑↓い↓れないのと↑同↑↓おな↓じだ。","e":"The Americans don't accept Fascism any more than they do Communism."}]}

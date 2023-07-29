@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"石棺","p":true}],"r_ele":[{"r":"せっかん","p":true},{"r":"せきかん"}],"sense":[{"gloss":"sarcophagus, stone coffin","pos":["n"]}]},"sdata":[{"j":"さっき、なかなか↑起↑↓お↓きなかったのも、↑折檻↑↓|せっかん|↓して↑欲↑↓ほ↓しかったからでしょう？","e":"Was your difficulty in getting up back then also because you wanted to be chastized I wonder?"}]}

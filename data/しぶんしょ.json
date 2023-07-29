@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"私文書","p":true}],"r_ele":[{"r":"しぶんしょ","p":true}],"sense":[{"gloss":"private document","pos":["n"]}]},"sdata":[]}

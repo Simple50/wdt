@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弟子入り","p":true}],"r_ele":[{"r":"でしいり","p":true}],"sense":[{"gloss":"becoming a pupil (of), becoming an apprentice","pos":["n","vs","vi"]}]},"sdata":[]}

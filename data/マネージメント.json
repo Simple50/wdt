@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マネジメント","p":true},{"r":"マネージメント","p":true},{"r":"メネジメント"}],"sense":[{"gloss":"management","pos":["n"]}]},"sdata":[]}

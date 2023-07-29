@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パルサー","p":true}],"sense":[{"gloss":"pulsar","pos":["n"],"f":["astron"]}]},"sdata":[]}

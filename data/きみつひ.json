@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"機密費","p":true}],"r_ele":[{"r":"きみつひ","p":true}],"sense":[{"gloss":"secret funds","pos":["n"]}]},"sdata":[]}

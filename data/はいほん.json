@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"配本","p":true}],"r_ele":[{"r":"はいほん","p":true}],"sense":[{"gloss":"distribution of books","pos":["n","vs","vt","vi"]}]},"sdata":[]}

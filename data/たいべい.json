@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"対米","p":true}],"r_ele":[{"r":"たいべい","p":true}],"sense":[{"gloss":"relating to the USA, toward America, with America","pos":["adj-no"]}]},"sdata":[]}

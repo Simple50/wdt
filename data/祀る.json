@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"祭る","p":true},{"e":"祀る","p":true}],"r_ele":[{"r":"まつる","p":true}],"sense":[{"gloss":"to deify, to enshrine","pos":["v5r","vt"]},{"gloss":"to pray, to worship","pos":["v5r","vt"]}]},"kdata":{"祀":{"on":["シ"],"kun":["まつ.る","まつり"],"meanings":["enshrine","worship"],"comp":[["巳","礻"]],"jlpt":-1,"freq":2515}},"sdata":[]}

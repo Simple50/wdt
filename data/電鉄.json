@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電鉄","p":true}],"r_ele":[{"r":"でんてつ","p":true}],"sense":[{"gloss":"electric railway","pos":["n"]}]},"kdata":{"電":{"on":["デン"],"jlpt":5,"meanings":["electricity"],"freq":268,"comp":[["雨","日","乚"]],"s":"雷","t":1817},"鉄":{"on":["テツ"],"kun":["くろがね"],"jlpt":2,"meanings":["iron"],"freq":672,"comp":[["金","失"]],"t":1809}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金婚式","p":true}],"r_ele":[{"r":"きんこんしき","p":true}],"sense":[{"gloss":"golden wedding (anniversary)","pos":["n"]}]},"sdata":[]}

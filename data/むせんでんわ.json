@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無線電話","p":true}],"r_ele":[{"r":"むせんでんわ","p":true}],"sense":[{"gloss":"cordless telephone, wireless telephone","pos":["n","adj-no"]}]},"sdata":[]}

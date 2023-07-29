@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"迎賓館","p":true}],"r_ele":[{"r":"げいひんかん","p":true}],"sense":[{"gloss":"reception hall (esp. for visiting state dignitaries), guest house","pos":["n"]},{"gloss":"State Guest House (esp. Akasaka palace, also guest house in Kyoto)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"密教","p":true}],"r_ele":[{"r":"みっきょう","p":true}],"sense":[{"gloss":"esoteric Buddhism, Tantric Buddhism, Vajrayana, secret Buddhist teachings, Mikkyō","pos":["n"],"f":["Buddh"],"ant":["顕教"]}]},"sdata":[]}

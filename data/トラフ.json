@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トラフ","p":true}],"sense":[{"gloss":"trough","pos":["n"]}]},"sdata":[{"j":"|トラフ|ァルガー↑広場↑↓ひろば↓にはネルソン↑提督↑↓ていとく↓の↑彫像↑↓ちょうぞう↓がある。","e":"There is a statue of Nelson in Trafalgar Square."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"揉める","p":true}],"r_ele":[{"r":"もめる","p":true},{"r":"モメる"}],"sense":[{"gloss":"to disagree, to dispute, to fight (over)","pos":["v1","vi"]}],"m":["uk"]},"sdata":[{"j":"その↑子供↑↓こども↓たちはいつも↑親↑↓おや↓と|もめる|。","e":"Those children always get into trouble with their parents."}]}

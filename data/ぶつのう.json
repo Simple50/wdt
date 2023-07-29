@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"物納","p":true}],"r_ele":[{"r":"ぶつのう","p":true}],"sense":[{"gloss":"payment in kind","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑動物↑↓どう|ぶつ↓のう|ちで↑笑↑↓わら↓うのは↑人間↑↓にんげん↓だけだ。","e":"Man is the only animal that laughs."}]}

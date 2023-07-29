@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コーポレートアイデンティティー","p":true},{"r":"コーポレート・アイデンティティー"}],"sense":[{"gloss":"corporate identity","pos":["n"]}]},"sdata":[]}

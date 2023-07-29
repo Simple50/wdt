@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"返り点","p":true}],"r_ele":[{"r":"かえりてん","p":true}],"sense":[{"gloss":"marks written alongside characters in a classical Chinese text to indicate their ordering when read in Japanese","pos":["n"]}]},"sdata":[]}

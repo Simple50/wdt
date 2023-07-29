@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レバー","p":true}],"sense":[{"gloss":"liver","pos":["n"],"f":["food"]}]},"sdata":[{"j":"↑調節↑↓ちょうせつ↓|レバー|を↑上↑↓うえ↓に↑上↑↓あ↓げると↑座↑↓ざ↓↑面↑↓めん↓の↑高↑↓たか↓さを↑調節↑↓ちょうせつ↓できます。","e":"You can adjust the seat height by moving the adjustment lever up."},{"j":"|レバー|を↑押↑↓お↓しあげて↑下↑↓くだ↓さい。","e":"Please push up the lever."}]}

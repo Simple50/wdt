@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"開業医","p":true}],"r_ele":[{"r":"かいぎょうい","p":true}],"sense":[{"gloss":"private clinician, physician in private practice","pos":["n"],"x":["勤務医"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑開業医↑↓|かいぎょうい|↓をやっている。","e":"He practices medicine."}]}

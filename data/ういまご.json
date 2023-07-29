@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初孫","p":true}],"r_ele":[{"r":"ういまご","p":true},{"r":"はつまご"}],"sense":[{"gloss":"first grandchild","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はも|う↑今↑↓いま↓ご|ろまでには↑終↑↓お↓わっているはずだ。","e":"He should have finished it by now."}]}

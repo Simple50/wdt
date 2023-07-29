@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受胎","p":true}],"r_ele":[{"r":"じゅたい","p":true}],"sense":[{"gloss":"conception, fertilization, fertilisation","pos":["n","vs","vi"]}]},"sdata":[]}

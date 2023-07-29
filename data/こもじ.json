@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小文字","p":true}],"r_ele":[{"r":"こもじ","p":true}],"sense":[{"gloss":"lowercase letter","pos":["n"],"x":["大文字・1"]},{"gloss":"small letter","pos":["n"]}]},"sdata":[{"j":"↑小文字↑↓|こもじ|↓で↑書↑↓か↓いてあります。","e":"It's written in lowercase."},{"j":"↑小文字↑↓|こもじ|↓で↑書↑↓か↓かれてます。","e":"It's written in lowercase."}]}

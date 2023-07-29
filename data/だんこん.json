@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弾痕","p":true}],"r_ele":[{"r":"だんこん","p":true}],"sense":[{"gloss":"bullet hole, bullet mark","pos":["n"]}]},"sdata":[{"j":"↑仕事↑↓しごと↓がだん|だん↑困難↑↓こん|なん↓になってきた。","e":"The work begins to get more difficult."},{"j":"↑普段↑↓ふ|だん↓こん|なに↑無口↑↓むくち↓なの？","e":"Are you normally this quiet?"}]}

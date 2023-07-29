@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"未熟児","p":true}],"r_ele":[{"r":"みじゅくじ","p":true}],"sense":[{"gloss":"premature baby","pos":["n"]}]},"sdata":[{"j":"↑子供↑↓こども↓は↑未熟↑↓|みじゅく↓↑児↑↓じ|↓でした。","e":"I had a premature baby."},{"j":"↑娘↑↓むすめ↓は↑未熟↑↓|みじゅく↓↑児↑↓じ|↓でした。","e":"My daughter was premature."},{"j":"トムは↑未熟↑↓|みじゅく↓↑児↑↓じ|↓で↑生↑↓う↓まれた。","e":"Tom was born premature."}]}

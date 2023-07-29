@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バウサイド","p":true},{"r":"バウ・サイド"}],"sense":[{"gloss":"bow side","pos":["n"]}]},"sdata":[]}

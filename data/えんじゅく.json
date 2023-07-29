@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"円熟","p":true}],"r_ele":[{"r":"えんじゅく","p":true}],"sense":[{"gloss":"ripeness, mellowness, maturity","pos":["n","vs","vi"]}]},"sdata":[{"j":"これはターナーの↑円熟↑↓|えんじゅく|↓↑期↑↓き↓の↑作品↑↓さくひん↓です。","e":"This is a work from Turner's mature period."}]}

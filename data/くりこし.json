@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"繰り越し","p":true},{"e":"繰越し"},{"e":"繰越"},{"e":"繰り越"}],"r_ele":[{"r":"くりこし","p":true}],"sense":[{"gloss":"balance brought forward, transferred amount (of money)","pos":["n"]}]},"sdata":[{"j":"ページの↑下↑↓した↓の↑合計↑↓ごうけい↓↑額↑↓がく↓は↑繰↑↓|く↓り↑越↑↓こ↓し|になっている。","e":"The total at the bottom of the page is carried forward."}]}

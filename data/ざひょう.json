@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"座標","p":true}],"r_ele":[{"r":"ざひょう","p":true}],"sense":[{"gloss":"coordinate, coordinates","pos":["n","adj-no"]}]},"sdata":[]}

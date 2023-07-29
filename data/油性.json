@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"油性","p":true}],"r_ele":[{"r":"ゆせい","p":true}],"sense":[{"gloss":"oil-based","pos":["n","adj-no"]}]},"kdata":{"油":{"on":["ユ","ユウ"],"kun":["あぶら"],"jlpt":2,"meanings":["oil","fat"],"freq":690,"comp":[["氵","由"]],"t":716},"性":{"on":["セイ","ショウ"],"kun":["さが"],"jlpt":3,"meanings":["sex","gender","nature"],"freq":104,"comp":[["忄","生"]],"t":669}},"sdata":[]}

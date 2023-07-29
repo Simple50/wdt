@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マッハ","p":true}],"sense":[{"gloss":"Mach (number)","pos":["n"],"x":["マッハ数"]},{"gloss":"(at a) fast speed","pos":["n"],"m":["col"]}]},"sdata":[]}

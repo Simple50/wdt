@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銃撃","p":true}],"r_ele":[{"r":"じゅうげき","p":true}],"sense":[{"gloss":"shooting, gunning (down)","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓では↑銃撃↑↓|じゅうげき|↓↑戦↑↓せん↓はほとんどありません。","e":"There are almost no gunfights in Japan."},{"j":"↑家主↑↓やぬし↓は↑肩↑↓かた↓と↑腕↑↓うで↓に↑銃撃↑↓|じゅうげき|↓を↑受↑↓う↓けた。","e":"The landlord was shot in the shoulder and arm."}]}

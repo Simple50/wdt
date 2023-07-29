@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老中","p":true}],"r_ele":[{"r":"ろうじゅう","p":true},{"r":"ろうぢゅう"}],"sense":[{"gloss":"member of shogun's council of elders","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バザー","p":true},{"r":"バザール","p":true}],"sense":[{"gloss":"bazaar, bazar","pos":["n"]}]},"sdata":[]}

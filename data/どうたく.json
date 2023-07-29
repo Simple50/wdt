@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銅鐸","p":true}],"r_ele":[{"r":"どうたく","p":true}],"sense":[{"gloss":"bell-shaped bronze vessel of Yayoi period","pos":["n"]}]},"sdata":[]}

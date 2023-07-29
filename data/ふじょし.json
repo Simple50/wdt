@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"婦女子","p":true}],"r_ele":[{"r":"ふじょし","p":true}],"sense":[{"gloss":"women and children","pos":["n"]},{"gloss":"woman, grown woman, wife","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"綻びる","p":true}],"r_ele":[{"r":"ほころびる","p":true}],"sense":[{"gloss":"to come apart at the seams, to be ripped, to be torn","pos":["v1","vi"],"x":["綻ぶ・ほころぶ・3"]},{"gloss":"to begin to open, to begin to bloom","pos":["v1","vi"],"x":["綻ぶ・ほころぶ・1"]},{"gloss":"to smile broadly, to break into a smile","pos":["v1","vi"],"x":["綻ぶ・ほころぶ・2"]}],"m":["uk"]},"sdata":[]}

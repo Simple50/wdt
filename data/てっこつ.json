@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄骨","p":true}],"r_ele":[{"r":"てっこつ","p":true}],"sense":[{"gloss":"steel frame, steel beam, steel girder","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"可処分","p":true}],"r_ele":[{"r":"かしょぶん","p":true}],"sense":[{"gloss":"disposable","pos":["n","adj-no"]}]},"sdata":[{"j":"↑個人↑↓こじん↓↑消費↑↓しょうひ↓の↑水準↑↓すいじゅん↓にとって↑大↑↓おお↓きな↑意味↑↓いみ↓を↑持↑↓も↓つのは↑可処分↑↓|かしょぶん|↓↑所得↑↓しょとく↓である。","e":"Disposable income is what counts for the level of personal consumption."}]}

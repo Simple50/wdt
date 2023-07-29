@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"子供心","p":true},{"e":"子ども心"}],"r_ele":[{"r":"こどもごころ","p":true}],"sense":[{"gloss":"childlike mind, judgment as a child (judgement)","pos":["n"]}]},"sdata":[]}

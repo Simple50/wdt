@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"品薄","p":true}],"r_ele":[{"r":"しなうす","p":true}],"sense":[{"gloss":"shortage of stock, scarcity of goods","pos":["adj-na","n"]}]},"sdata":[]}

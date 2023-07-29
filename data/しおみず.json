@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"塩水","p":true}],"r_ele":[{"r":"しおみず","p":true},{"r":"えんすい"}],"sense":[{"gloss":"salt water, brine","pos":["n"]}]},"sdata":[{"j":"↑塩水↑↓|しおみず|↓でうがいすると、↑咳↑↓せき↓に↑効↑↓き↓くんだよ。","e":"Gargling with salt water helps stop coughing."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和裁","p":true}],"r_ele":[{"r":"わさい","p":true}],"sense":[{"gloss":"Japanese dressmaking, kimono making","pos":["n"]}]},"sdata":[{"j":"う|わ↑最悪↑↓さい|あく↓。↑雨↑↓あめ↓↑降↑↓ふ↓ってんじゃん。","e":"Oh, god. It's raining."}]}

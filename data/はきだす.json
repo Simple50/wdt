@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吐き出す","p":true}],"r_ele":[{"r":"はきだす","p":true}],"sense":[{"gloss":"to vomit, to spit out","pos":["v5s","vt"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑怒↑↓おこ↓って↑吐↑↓|は↓き↑出↑↓だ↓す|ように↑答↑↓こた↓えた。","e":"She spit out an angry reply."}]}

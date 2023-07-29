@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"死別","p":true}],"r_ele":[{"r":"しべつ","p":true}],"sense":[{"gloss":"bereavement, separation by death, loss","pos":["n","vs","vi"]}]},"sdata":[]}

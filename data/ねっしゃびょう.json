@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱射病","p":true}],"r_ele":[{"r":"ねっしゃびょう","p":true}],"sense":[{"gloss":"heatstroke","pos":["n"]}]},"sdata":[]}

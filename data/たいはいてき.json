@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"退廃的","p":true}],"r_ele":[{"r":"たいはいてき","p":true}],"sense":[{"gloss":"degenerate, decadent, corrupt","pos":["adj-na"]}]},"sdata":[]}

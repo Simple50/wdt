@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ディストーション","p":true}],"sense":[{"gloss":"distortion","pos":["n"]}]},"sdata":[]}

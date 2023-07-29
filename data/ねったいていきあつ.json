@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱帯低気圧","p":true}],"r_ele":[{"r":"ねったいていきあつ","p":true}],"sense":[{"gloss":"tropical cyclone","pos":["n"]}]},"sdata":[]}

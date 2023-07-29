@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"指導主事","p":true}],"r_ele":[{"r":"しどうしゅじ","p":true}],"sense":[{"gloss":"(governmental) supervisor of teachers","pos":["n"]}]},"sdata":[]}

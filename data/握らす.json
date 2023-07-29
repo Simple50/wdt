@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"握らす","p":true}],"r_ele":[{"r":"にぎらす","p":true}],"sense":[{"gloss":"to let (someone) take hold of your hand","pos":["v5s","vt"]}]},"kdata":{"握":{"on":["アク"],"kun":["にぎ.る"],"jlpt":1,"meanings":["grip","hold","mould sushi","bribe"],"freq":1003,"comp":[["扌","屋"]],"t":1511}},"sdata":[]}

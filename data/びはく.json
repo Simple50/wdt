@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"美白","p":true}],"r_ele":[{"r":"びはく","p":true}],"sense":[{"gloss":"beautifully white (esp. of skin)","pos":["adj-na","n"]},{"gloss":"whitening (of skin, teeth, etc.)","pos":["n"],"x":["ホワイトニング"]}]},"sdata":[]}

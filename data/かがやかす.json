@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"輝かす","p":true}],"r_ele":[{"r":"かがやかす","p":true}],"sense":[{"gloss":"to light up, to brighten","pos":["v5s","vt"]}]},"sdata":[]}

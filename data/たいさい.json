@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大祭","p":true}],"r_ele":[{"r":"たいさい","p":true}],"sense":[{"gloss":"grand festival","pos":["n"]}]},"sdata":[]}

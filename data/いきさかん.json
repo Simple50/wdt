@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"意気盛ん","p":true}],"r_ele":[{"r":"いきさかん","p":true}],"sense":[{"gloss":"in high spirits","pos":["adj-na","n"]}]},"sdata":[{"j":"トムはこのごろ↑意気盛↑↓|いきさか↓ん|だ。","e":"Tom is riding high these days."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バランスシート","p":true},{"r":"バランス・シート"}],"sense":[{"gloss":"balance sheet","pos":["n"]}]},"sdata":[]}

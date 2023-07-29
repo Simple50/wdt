@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刷新","p":true}],"r_ele":[{"r":"さっしん","p":true}],"sense":[{"gloss":"reform, renovation","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑新↑↓しん↓モデルとなりスペックが↑刷新↑↓|さっしん|↓された。","e":"It is a new model with improved specifications."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人為的","p":true}],"r_ele":[{"r":"じんいてき","p":true}],"sense":[{"gloss":"artificial, unnatural, human-caused (e.g. mistake, error, disaster), man-made","pos":["adj-na"]}]},"sdata":[]}

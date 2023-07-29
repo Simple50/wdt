@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実録","p":true}],"r_ele":[{"r":"じつろく","p":true}],"sense":[{"gloss":"authentic account","pos":["n"]}]},"sdata":[]}

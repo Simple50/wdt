@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"約款","p":true}],"r_ele":[{"r":"やっかん","p":true}],"sense":[{"gloss":"agreement, stipulation, article, clause","pos":["n"]}]},"sdata":[{"j":"↑標準↑↓ひょうじゅん↓↑約款↑↓|やっかん|↓だ。","e":"It's standard policy."}]}

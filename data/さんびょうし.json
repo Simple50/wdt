@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三拍子","p":true}],"r_ele":[{"r":"さんびょうし","p":true}],"sense":[{"gloss":"triple time","pos":["n"],"f":["music"]},{"gloss":"three important requisites","pos":["n"],"x":["三拍子揃う"]}]},"sdata":[]}

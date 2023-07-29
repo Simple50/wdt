@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"糧食","p":true}],"r_ele":[{"r":"りょうしょく","p":true}],"sense":[{"gloss":"provisions","pos":["n"]}]},"sdata":[{"j":"↑探検↑↓たんけん↓↑隊↑↓たい↓の↑糧食↑↓|りょうしょく|↓はすぐ↑尽↑↓つ↓きてしまった。","e":"The expedition's supplies soon gave out."}]}

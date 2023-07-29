@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"郵船","p":true}],"r_ele":[{"r":"ゆうせん","p":true}],"sense":[{"gloss":"mail boat","pos":["n"]}]},"kdata":{"郵":{"on":["ユウ"],"jlpt":2,"meanings":["mail","stagecoach stop"],"freq":917,"comp":[["阝","垂"]],"t":1402},"船":{"on":["セン"],"kun":["ふね","ふな-"],"jlpt":3,"meanings":["ship","boat"],"freq":713,"comp":[["㕣","舟"]],"s":"般","t":1369}},"sdata":[]}

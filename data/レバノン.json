@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黎巴嫩","i":["ateji","rK"]}],"r_ele":[{"r":"レバノン","p":true}],"sense":[{"gloss":"Lebanon","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑彼↑↓かれ↓は１９８８↑年↑↓ねん↓から１９９４↑年↑↓ねん↓まで|レバノン|で↑暮↑↓く↓らした。","e":"From 1988 to 1994 he lived in Lebanon."}]}

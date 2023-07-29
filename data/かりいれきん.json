@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"借入金","p":true},{"e":"借り入れ金","i":["io"]}],"r_ele":[{"r":"かりいれきん","p":true}],"sense":[{"gloss":"loan, loan payable, debt","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは↑借入金↑↓|かりいれきん|↓が↑多↑↓おお↓すぎて、↑中小↑↓ちゅうしょう↓↑企業↑↓きぎょう↓↑向↑↓む↓け↑融資↑↓ゆうし↓を↑受↑↓う↓けられない。","e":"They are too far in debt to get the small business loan."}]}

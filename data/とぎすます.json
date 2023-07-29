@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"研ぎ澄ます","p":true},{"e":"研ぎすます"},{"e":"研澄ます"}],"r_ele":[{"r":"とぎすます","p":true}],"sense":[{"gloss":"to sharpen, to grind, to whet, to hone, to make keen","pos":["v5s","vt"]}]},"sdata":[]}

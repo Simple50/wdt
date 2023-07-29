@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"錦絵","p":true}],"r_ele":[{"r":"にしきえ","p":true}],"sense":[{"gloss":"nishiki-e, multi-colour woodblock print","pos":["n"]}],"m":["hist"]},"sdata":[]}

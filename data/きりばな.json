@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り花","p":true},{"e":"切花"}],"r_ele":[{"r":"きりばな","p":true}],"sense":[{"gloss":"cut flowers","pos":["n"]}]},"sdata":[]}

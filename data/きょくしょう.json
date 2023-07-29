@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極小","p":true}],"r_ele":[{"r":"きょくしょう","p":true},{"r":"ごくしょう"}],"sense":[{"gloss":"minimum, minuscule","pos":["adj-na","adj-no","n"]},{"gloss":"local minimum","pos":["n"],"f":["math"]}]},"sdata":[{"j":"↑極小↑↓|きょくしょう|↓の↑虫↑↓むし↓でも↑踏↑↓ふ↓まれれば、そりくり↑返↑↓かえ↓る。","e":"Even the smallest worm will turn if trodden on."}]}

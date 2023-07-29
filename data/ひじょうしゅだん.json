@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"非常手段","p":true}],"r_ele":[{"r":"ひじょうしゅだん","p":true}],"sense":[{"gloss":"emergency measures","pos":["n"]}]},"sdata":[]}

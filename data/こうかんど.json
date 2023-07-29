@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高感度","p":true}],"r_ele":[{"r":"こうかんど","p":true}],"sense":[{"gloss":"high sensitivity, highly sensitive (e.g. film, radio receiver), high speed (film)","pos":["n","adj-no"]},{"gloss":"discerning, discriminating, of refined tastes","pos":["n","adj-no"]}]},"sdata":[{"j":"↑高↑↓|こう↓↑感度↑↓かんど|↓フィルムは↑出↑↓だ↓してもいいですか。","e":"Can I unload the high speed film?"}]}

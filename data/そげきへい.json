@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"狙撃兵","p":true}],"r_ele":[{"r":"そげきへい","p":true}],"sense":[{"gloss":"sniper, sharpshooter","pos":["n"]}]},"sdata":[{"j":"↑狙撃↑↓|そげき↓↑兵↑↓へい|↓は↑白↑↓しろ↓いヴァンを↑運転↑↓うんてん↓している。","e":"The sniper is driving a white van."}]}

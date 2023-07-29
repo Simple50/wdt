@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メタリック","p":true}],"sense":[{"gloss":"metallic","pos":["adj-na","adj-no"]}]},"sdata":[]}

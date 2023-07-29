@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"食べ歩き","p":true},{"e":"食べあるき"}],"r_ele":[{"r":"たべあるき","p":true}],"sense":[{"gloss":"trying the food at various restaurants, eating tour","pos":["n","vs"]},{"gloss":"walking while eating, eating while walking","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ギャップ","p":true}],"sense":[{"gloss":"gap","pos":["n"]},{"gloss":"difference, disparity, discrepancy, disconnect","pos":["n"]}]},"sdata":[{"j":"データ|ギャップ|を↑打開↑↓だかい↓するように↑簡単↑↓かんたん↓な↑方法↑↓ほうほう↓↑論↑↓ろん↓を↑開発↑↓かいはつ↓した。","e":"In order to overcome the data gap, I developed a simple methodology."}]}

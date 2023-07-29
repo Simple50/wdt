@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切支丹","i":["ateji"]},{"e":"吉利支丹","i":["ateji","rK"]},{"e":"切死丹","i":["ateji","rK"]},{"e":"鬼理死丹","i":["ateji","rK"]}],"r_ele":[{"r":"キリシタン","p":true}],"sense":[{"gloss":"Christian, Christianity (in feudal Japan)","pos":["n"],"l":"por: cristão"}],"m":["uk","hist"]},"sdata":[]}

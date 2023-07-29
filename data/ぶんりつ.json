@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分立","p":true}],"r_ele":[{"r":"ぶんりつ","p":true}],"sense":[{"gloss":"segregation, separation, independence","pos":["n","vs","vi"]}]},"sdata":[]}

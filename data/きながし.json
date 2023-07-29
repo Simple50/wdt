@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"着流し","p":true}],"r_ele":[{"r":"きながし","p":true}],"sense":[{"gloss":"dressing in kimono without hakama (for a man), dressing casually","pos":["n"]}]},"sdata":[{"j":"↑聞↑↓き↓|き↑流↑↓なが↓し|なさい。そんなの↑噂↑↓うわさ↓にすぎません。","e":"Ignore it. It's only a rumor."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"在野","p":true}],"r_ele":[{"r":"ざいや","p":true}],"sense":[{"gloss":"out of office, out of power, in opposition","pos":["adj-no","n"]},{"gloss":"unaffiliated (e.g. researcher, scientist), in private practice","pos":["adj-no","n"],"x":["在朝・1"]}]},"sdata":[]}

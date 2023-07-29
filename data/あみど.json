@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"網戸","p":true}],"r_ele":[{"r":"あみど","p":true}],"sense":[{"gloss":"window screen, insect screen, mosquito screen, screen, screen door","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"在外公館","p":true}],"r_ele":[{"r":"ざいがいこうかん","p":true}],"sense":[{"gloss":"diplomatic mission, overseas diplomatic establishment","pos":["n"]}]},"sdata":[]}

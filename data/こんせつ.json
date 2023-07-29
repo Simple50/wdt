@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"懇切","p":true}],"r_ele":[{"r":"こんせつ","p":true}],"sense":[{"gloss":"kind, considerate, helpful, caring, thoughtful, attentive, careful","pos":["adj-na","n"]}]},"sdata":[]}

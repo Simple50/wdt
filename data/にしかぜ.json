@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"西風","p":true}],"r_ele":[{"r":"にしかぜ","p":true},{"r":"せいふう"}],"sense":[{"gloss":"west wind","pos":["n","adj-no"]}]},"sdata":[]}

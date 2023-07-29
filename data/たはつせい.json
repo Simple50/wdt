@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"多発性","p":true}],"r_ele":[{"r":"たはつせい","p":true}],"sense":[{"gloss":"multiple, poly-","pos":["n"]}]},"sdata":[]}

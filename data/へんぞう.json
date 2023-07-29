@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変造","p":true}],"r_ele":[{"r":"へんぞう","p":true}],"sense":[{"gloss":"alteration, defacement, debasement, falsification, forgery","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓はその↑川↑↓かわ↓を↑見↑↓み↓に↑行↑↓い↓ったが、たい|へん↑増水↑↓ぞう|すい↓していた。","e":"I went to see the river, which I found greatly swollen."}]}

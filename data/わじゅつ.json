@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"話術","p":true}],"r_ele":[{"r":"わじゅつ","p":true}],"sense":[{"gloss":"art of conversation","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は、↑話術↑↓|わじゅつ|↓が↑巧↑↓たく↓みだ。","e":"He has a good art of talking."}]}

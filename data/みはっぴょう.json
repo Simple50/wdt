@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"未発表","p":true}],"r_ele":[{"r":"みはっぴょう","p":true}],"sense":[{"gloss":"unpublished, not yet announced","pos":["n"]}]},"sdata":[]}

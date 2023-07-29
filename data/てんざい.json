@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"点在","p":true}],"r_ele":[{"r":"てんざい","p":true}],"sense":[{"gloss":"being dotted about, being scattered, being interspersed","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑谷↑↓たに↓には↑農家↑↓のうか↓が↑点在↑↓|てんざい|↓していた。","e":"The valley was dotted with farm houses."}]}

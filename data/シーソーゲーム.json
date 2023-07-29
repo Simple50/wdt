@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シーソーゲーム","p":true},{"r":"シーソー・ゲーム"}],"sense":[{"gloss":"seesaw game, back-and-forth match, match in which the lead changes hands several times","pos":["n"]}]},"sdata":[{"j":"↑試合↑↓しあい↓は↑終始↑↓しゅうし↓↑一↑↓いち↓↑点↑↓てん↓を↑争↑↓あらそ↓う|シーソーゲーム|だった。","e":"The game was one point back and forth the whole game."}]}

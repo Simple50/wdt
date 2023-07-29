@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平服","p":true}],"r_ele":[{"r":"へいふく","p":true}],"sense":[{"gloss":"ordinary clothes, everyday attire, plain clothes, civilian clothes","pos":["n","adj-no"],"x":["礼服"]}]},"sdata":[{"j":"どうか↑平服↑↓|へいふく|↓でおいで↑下↑↓くだ↓さい。","e":"Please come in an ordinary dress."},{"j":"↑平服↑↓|へいふく|↓でお↑越↑↓こ↓しください。","e":"Please come in an ordinary dress."}]}

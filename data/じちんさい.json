@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地鎮祭","p":true}],"r_ele":[{"r":"じちんさい","p":true}],"sense":[{"gloss":"ceremony for purifying a building site (before building commences), ground-breaking ceremony","pos":["n"],"f":["Shinto"]}]},"sdata":[]}

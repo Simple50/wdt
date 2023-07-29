@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秀逸","p":true}],"r_ele":[{"r":"しゅういつ","p":true}],"sense":[{"gloss":"excellent, superb, first-rate","pos":["adj-na","n"]}]},"sdata":[]}

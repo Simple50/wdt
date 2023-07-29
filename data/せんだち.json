@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先達","p":true}],"r_ele":[{"r":"せんだつ"},{"r":"せんだち","p":true}],"sense":[{"gloss":"leader, pioneer, precursor, senior figure","pos":["n"]},{"gloss":"guide","pos":["n"]},{"gloss":"leader (in Shugendō)","pos":["n"],"x":["修験道"]}]},"sdata":[]}

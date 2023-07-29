@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"物量","p":true}],"r_ele":[{"r":"ぶつりょう","p":true}],"sense":[{"gloss":"amount of material resources","pos":["n"]}]},"sdata":[{"j":"この↑店↑↓みせ↓の↑名物↑↓めい|ぶつ↓↑料理↑↓りょう|り↓はありますか。","e":"What's your speciality?"},{"j":"この↑地方↑↓ちほう↓の↑名物↑↓めい|ぶつ↓↑料理↑↓りょう|り↓がありますか。","e":"Do you have any regional dishes?"}]}

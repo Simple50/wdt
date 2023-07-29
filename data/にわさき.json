@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"庭先","p":true}],"r_ele":[{"r":"にわさき","p":true}],"sense":[{"gloss":"part of the garden close to the house, nearby garden","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秋雨前線","p":true}],"r_ele":[{"r":"あきさめぜんせん","p":true}],"sense":[{"gloss":"autumn rain front, fall rain front","pos":["n"]}]},"sdata":[]}

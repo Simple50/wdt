@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オピニオン","p":true}],"sense":[{"gloss":"opinion","pos":["n"]}]},"sdata":[{"j":"セカンド|オピニオン|をご↑希望↑↓きぼう↓ですか？","e":"Do you want a second opinion?"}]}

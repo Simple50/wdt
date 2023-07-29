@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"木部","p":true}],"r_ele":[{"r":"もくぶ","p":true}],"sense":[{"gloss":"wooden part, xylem","pos":["n"]}]},"sdata":[]}

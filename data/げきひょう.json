@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"劇評","p":true}],"r_ele":[{"r":"げきひょう","p":true}],"sense":[{"gloss":"drama criticism","pos":["n"]}]},"sdata":[]}

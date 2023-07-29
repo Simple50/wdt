@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ディスカッション","p":true}],"sense":[{"gloss":"discussion","pos":["n","vs","vi","vt"]}]},"sdata":[{"j":"この|ディスカッション|は↑終↑↓お↓わりにしましょう。","e":"Let's end this discussion."}]}

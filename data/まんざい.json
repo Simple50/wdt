@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漫才","p":true},{"e":"万才","i":["oK"]}],"r_ele":[{"r":"まんざい","p":true}],"sense":[{"gloss":"manzai, comic dialogue, two-person comedy act (usu. presented as a fast-paced dialogue, occ. presented as a skit)","pos":["n"],"x":["万歳・まんざい"]}]},"sdata":[{"j":"↑漫才↑↓|まんざい|↓のネタがことごとくつまらない。","e":"The ideas for the comedy show are all boring."}]}

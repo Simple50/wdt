@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安息","p":true}],"r_ele":[{"r":"あんそく","p":true}],"sense":[{"gloss":"rest, repose","pos":["n","vs","vi"]}]},"sdata":[{"j":"どっちが↑最終↑↓さいしゅう↓↑的↑↓てき↓な↑安息↑↓|あんそく|↓の↑地↑↓ち↓となるんだろう。","e":"Which one will be our final resting place?"},{"j":"↑私↑↓わたし↓の↑部屋↑↓へや↓は↑誰↑↓だれ↓も↑人↑↓ひと↓をいれない↑安息↑↓|あんそく|↓の↑場所↑↓ばしょ↓です。","e":"My room is an inviolable refuge."}]}

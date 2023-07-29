@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち返す","p":true},{"e":"打返す"}],"r_ele":[{"r":"うちかえす","p":true}],"sense":[{"gloss":"to return a blow repeat, to turn back, to rewhip, to plow up, to plough up, to come and retreat","pos":["v5s"]}]},"sdata":[]}

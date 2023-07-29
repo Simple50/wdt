@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"士篤恒","i":["ateji","rK"]}],"r_ele":[{"r":"ストックホルム","p":true}],"sense":[{"gloss":"Stockholm (Sweden)","pos":["n"]}],"m":["uk"]},"sdata":[]}

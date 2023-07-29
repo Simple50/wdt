@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"都市ガス","p":true}],"r_ele":[{"r":"としガス","p":true}],"sense":[{"gloss":"city gas, mains gas, gas supplied to buildings via pipes","pos":["n"]}]},"sdata":[]}

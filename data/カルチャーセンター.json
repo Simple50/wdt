@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カルチャーセンター","p":true},{"r":"カルチャー・センター"}],"sense":[{"gloss":"cultural center, cultural centre","pos":["n"],"l":"eng: culture center"}]},"sdata":[]}

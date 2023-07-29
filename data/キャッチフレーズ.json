@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャッチフレーズ","p":true}],"sense":[{"gloss":"catchphrase","pos":["n"]}]},"sdata":[]}

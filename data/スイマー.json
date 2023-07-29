@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スイマー","p":true}],"sense":[{"gloss":"swimmer","pos":["n"]}]},"sdata":[{"j":"↑神田↑↓かんだ↓さんは↑上手↑↓じょうず↓な|スイマー|です。","e":"Miss Kanda is a good swimmer."},{"j":"↑大丈夫↑↓だいじょうぶ↓、キミなら↑出来↑↓でき↓る！↑自分↑↓じぶん↓を↑信↑↓しん↓じて！キミはもう↑既↑↓すで↓に↑立派↑↓りっぱ↓な|スイマー|なのよ！","e":"It'll be fine, you can do it! Trust yourself! You are already a splendid swimmer!"}]}

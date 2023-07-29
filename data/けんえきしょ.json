@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"検疫所","p":true}],"r_ele":[{"r":"けんえきじょ"},{"r":"けんえきしょ","p":true}],"sense":[{"gloss":"quarantine station","pos":["n"]}]},"sdata":[]}

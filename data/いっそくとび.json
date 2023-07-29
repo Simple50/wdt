@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一足飛び","p":true}],"r_ele":[{"r":"いっそくとび","p":true}],"sense":[{"gloss":"(at) one bound","pos":["n"]}]},"sdata":[]}

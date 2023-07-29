@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"皮膚病","p":true}],"r_ele":[{"r":"ひふびょう","p":true}],"sense":[{"gloss":"skin disease","pos":["n"]}]},"sdata":[{"j":"この↑薬↑↓くすり↓を↑飲↑↓の↓めばあなたの↑皮膚↑↓|ひふ↓↑病↑↓びょう|↓は↑治↑↓なお↓るでしょう。","e":"This medicine will cure you of your skin disease."}]}

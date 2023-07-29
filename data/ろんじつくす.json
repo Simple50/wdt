@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"論じ尽くす","p":true},{"e":"論じつくす"}],"r_ele":[{"r":"ろんじつくす","p":true}],"sense":[{"gloss":"to discuss fully, to discuss from every angle, to deal exhaustively with (an issue)","pos":["v5s","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャズメン","p":true}],"sense":[{"gloss":"jazzmen","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アディオス","p":true}],"sense":[{"gloss":"adios, goodbye","pos":["int"],"l":"spa: adiós"}]},"sdata":[]}

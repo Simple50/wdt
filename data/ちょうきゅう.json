@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"長久","p":true}],"r_ele":[{"r":"ちょうきゅう","p":true}],"sense":[{"gloss":"permanence, perpetuity","pos":["n"]},{"gloss":"Chōkyū era (1040.11.10-1044.11.24)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一存","p":true}],"r_ele":[{"r":"いちぞん","p":true}],"sense":[{"gloss":"one's own discretion (idea, responsibility)","pos":["n"]}]},"sdata":[]}

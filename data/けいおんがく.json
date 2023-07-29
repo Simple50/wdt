@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軽音楽","p":true}],"r_ele":[{"r":"けいおんがく","p":true}],"sense":[{"gloss":"light music, popular music","pos":["n"]}]},"sdata":[]}

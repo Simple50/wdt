@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"苦肉の策","p":true}],"r_ele":[{"r":"くにくのさく","p":true}],"sense":[{"gloss":"last resort, desperate measure taken under the pressure of necessity","pos":["exp","n"]}]},"sdata":[{"j":"↑苦肉↑↓|くにく↓の↑策↑↓さく|↓で↑企画↑↓きかく↓したんですが、その↑本↑↓ほん↓はよく↑売↑↓う↓れました。","e":"We arrived at that plan out of pure desperation, but the book sold well."}]}

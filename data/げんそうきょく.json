@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幻想曲","p":true}],"r_ele":[{"r":"げんそうきょく","p":true}],"sense":[{"gloss":"fantasy, fantasia","pos":["n"],"f":["music"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"哲学的","p":true}],"r_ele":[{"r":"てつがくてき","p":true}],"sense":[{"gloss":"philosophical","pos":["adj-na"]}]},"sdata":[{"j":"これはスティーブン・エメットに↑関↑↓かん↓する↑哲学↑↓|てつがく↓↑的↑↓てき|↓↑研究↑↓けんきゅう↓ではない。","e":"This is a socio-linguistic study on Steven Emmet."}]}

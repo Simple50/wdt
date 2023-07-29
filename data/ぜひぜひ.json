@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"是非是非","p":true}],"r_ele":[{"r":"ぜひぜひ","p":true}],"sense":[{"gloss":"certainly, by all means","pos":["adv"]}],"m":["uk"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コメンテーター","p":true},{"r":"コメンテイター"}],"sense":[{"gloss":"commentator","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プラグマティズム","p":true},{"r":"プラグマチズム"}],"sense":[{"gloss":"pragmatism","pos":["n"]}]},"sdata":[]}

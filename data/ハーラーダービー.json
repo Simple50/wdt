@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハーラーダービー","p":true},{"r":"ハーラー・ダービー"}],"sense":[{"gloss":"race to be the pitcher with the most wins in the season","pos":["n"],"f":["baseb"],"l":"eng: hurler derby"}]},"sdata":[]}

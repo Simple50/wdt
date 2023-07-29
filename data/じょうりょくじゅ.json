@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"常緑樹","p":true}],"r_ele":[{"r":"じょうりょくじゅ","p":true}],"sense":[{"gloss":"evergreen tree","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バロック","p":true}],"sense":[{"gloss":"baroque","pos":["n"],"l":"fre"}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑静↑↓しず↓かな↑音楽↑↓おんがく↓を↑好↑↓この↓むー↑例↑↓たと↓えば|バロック|↑音楽↑↓おんがく↓を。","e":"She prefers quiet music - the baroque, for example."},{"j":"トムは|バロック|↑音楽↑↓おんがく↓が↑好↑↓す↓きだ。","e":"Tom likes Baroque music."}]}

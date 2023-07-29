@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シンジケート","p":true}],"sense":[{"gloss":"syndicate","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"似合わしい","p":true},{"e":"似合しい"}],"r_ele":[{"r":"にあわしい","p":true}],"sense":[{"gloss":"well-matched, suitable, becoming","pos":["adj-i"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"顧客満足","p":true}],"r_ele":[{"r":"こかくまんぞく","p":true},{"r":"こきゃくまんぞく"}],"sense":[{"gloss":"customer satisfaction","pos":["n"]}]},"sdata":[]}

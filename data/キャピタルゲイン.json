@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャピタルゲイン","p":true},{"r":"キャピタル・ゲイン"}],"sense":[{"gloss":"capital gain","pos":["n"]}]},"sdata":[]}

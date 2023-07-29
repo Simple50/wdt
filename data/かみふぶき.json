@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紙吹雪","p":true},{"e":"紙ふぶき"}],"r_ele":[{"r":"かみふぶき","p":true}],"sense":[{"gloss":"confetti, ticker tape","pos":["n"]}]},"sdata":[]}

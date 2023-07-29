@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追認","p":true}],"r_ele":[{"r":"ついにん","p":true}],"sense":[{"gloss":"ratification, confirmation","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"移り変わり","p":true},{"e":"移り変り"}],"r_ele":[{"r":"うつりかわり","p":true}],"sense":[{"gloss":"change (e.g. season)","pos":["n"]}]},"sdata":[{"j":"↑青年↑↓せいねん↓↑期↑↓き↓は↑移↑↓|うつ↓り↑変↑↓か↓わり|の↑時↑↓とき↓↑期↑↓き↓と↑見↑↓み↓られている。","e":"Adolescence is viewed as time of transition."}]}

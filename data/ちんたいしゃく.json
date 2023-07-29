@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"賃貸借","p":true}],"r_ele":[{"r":"ちんたいしゃく","p":true}],"sense":[{"gloss":"renting, leasing","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"メモ帳","p":true}],"r_ele":[{"r":"メモちょう","p":true}],"sense":[{"gloss":"memo book, memo pad, notebook, notepad, scratchpad, scratch pad, writing pad, jotter","pos":["n"]}]},"kdata":{"帳":{"on":["チョウ"],"kun":["とばり"],"jlpt":1,"meanings":["notebook","account book","album","curtain","veil","net","tent"],"freq":1459,"comp":[["長","巾"]],"t":1268}},"sdata":[]}

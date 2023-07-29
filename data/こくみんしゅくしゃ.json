@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国民宿舎","p":true}],"r_ele":[{"r":"こくみんしゅくしゃ","p":true}],"sense":[{"gloss":"inexpensive hotel operated by a local government","pos":["n"]}]},"sdata":[]}

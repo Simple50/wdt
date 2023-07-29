@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本全国","p":true}],"r_ele":[{"r":"にほんぜんこく","p":true}],"sense":[{"gloss":"all over Japan, throughout Japan","pos":["n"]}]},"sdata":[]}

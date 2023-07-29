@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"密葬","p":true}],"r_ele":[{"r":"みっそう","p":true}],"sense":[{"gloss":"private funeral","pos":["n","vs","vt"]},{"gloss":"secret burial","pos":["n","vs","vt"]}]},"sdata":[]}

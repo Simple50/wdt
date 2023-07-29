@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"光熱費","p":true}],"r_ele":[{"r":"こうねつひ","p":true}],"sense":[{"gloss":"cost of fuel and lighting, cost of heat and electricity, energy bill, utility cost","pos":["n"]}]},"sdata":[]}

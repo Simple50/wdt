@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"食管法","p":true}],"r_ele":[{"r":"しょっかんほう","p":true}],"sense":[{"gloss":"law governing food quality","pos":["n"]}]},"sdata":[]}

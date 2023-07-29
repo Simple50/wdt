@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワイド","p":true}],"sense":[{"gloss":"wide","pos":["adj-na","n"]}]},"sdata":[{"j":"いつも|ワイド|な↑視野↑↓しや↓を↑持↑↓も↓って、↑仕事↑↓しごと↓をしなさい。","e":"You should always keep a broad perspective on the work you do."},{"j":"ワールド・|ワイド|・ウェブは、1989↑年↑↓ねん↓にティム・バーナーズ=リー↑氏↑↓し↓によって↑考案↑↓こうあん↓されました。","e":"The World Wide Web was invented by Tim Berners-Lee in 1989."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"号車","p":true}],"r_ele":[{"r":"ごうしゃ","p":true}],"sense":[{"gloss":"suffix for train car numbers","pos":["suf"]}]},"sdata":[{"j":"ビュッフェ、またはカフェテリアは９↑号車↑↓|ごうしゃ|↓にあります。","e":"The buffet or the cafeteria is in Car 9."}]}

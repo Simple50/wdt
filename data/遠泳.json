@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遠泳","p":true}],"r_ele":[{"r":"えんえい","p":true}],"sense":[{"gloss":"long-distance swimming","pos":["n","vs","vi"]}]},"kdata":{"遠":{"on":["エン","オン"],"kun":["とお.い"],"jlpt":3,"meanings":["distant","far"],"freq":887,"comp":[["袁","辶"]],"t":1805},"泳":{"on":["エイ"],"kun":["およ.ぐ"],"jlpt":3,"meanings":["swim"],"freq":1223,"comp":[["永","氵"]],"t":729}},"sdata":[]}

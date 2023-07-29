@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"桑畑","p":true},{"e":"桑畠"}],"r_ele":[{"r":"くわばたけ","p":true},{"r":"くわばた"}],"sense":[{"gloss":"mulberry field, mulberry plantation","pos":["n"]}]},"sdata":[]}

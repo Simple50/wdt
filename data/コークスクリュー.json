@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コークスクリュー","p":true},{"r":"コルクスクリュー"}],"sense":[{"gloss":"corkscrew","pos":["n"],"x":["コルク抜き"]}]},"sdata":[]}

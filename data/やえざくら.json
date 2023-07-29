@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"八重桜","p":true}],"r_ele":[{"r":"やえざくら","p":true}],"sense":[{"gloss":"double-flowered cherry tree, double cherry blossoms","pos":["n"]}]},"sdata":[]}

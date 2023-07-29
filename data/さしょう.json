@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"査証","p":true}],"r_ele":[{"r":"さしょう","p":true}],"sense":[{"gloss":"visa","pos":["n"],"x":["ビザ"]},{"gloss":"endorsing (e.g. a passport), stamping","pos":["n","vs"]}]},"sdata":[{"j":"メアリーは↑年齢↑↓ねんれい↓↑詐称↑↓|さしょう|↓をした。","e":"Mary lied about her age."}]}

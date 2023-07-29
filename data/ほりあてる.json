@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"掘り当てる","p":true},{"e":"掘りあてる"},{"e":"掘当てる"}],"r_ele":[{"r":"ほりあてる","p":true}],"sense":[{"gloss":"to strike (gold, oil, etc.), to find (e.g. buried treasure), to dig up","pos":["v1","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは↑石油↑↓せきゆ↓を↑掘↑↓|ほ↓り↑当↑↓あ↓てる|↑思惑↑↓おもわく↓だった。","e":"They intended to drill for oil."}]}

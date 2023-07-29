@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"湖岸","p":true}],"r_ele":[{"r":"こがん","p":true}],"sense":[{"gloss":"lakeshore, lakeside","pos":["n","adj-no"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑湖岸↑↓|こがん|↓で↑写真↑↓しゃしん↓をとってもらった。","e":"I had my photo taken on the shore of the lake."}]}

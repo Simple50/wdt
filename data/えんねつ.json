@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"炎熱","p":true}],"r_ele":[{"r":"えんねつ","p":true}],"sense":[{"gloss":"sweltering heat","pos":["n","adj-no"]}]},"sdata":[{"j":"↑人々↑↓ひとびと↓は↑都会↑↓とかい↓の↑炎熱↑↓|えんねつ|↓を↑避↑↓さ↓けようとする。","e":"People seek escape from the heat of the town."}]}

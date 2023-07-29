@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"サイン会","p":true}],"r_ele":[{"r":"サインかい","p":true}],"sense":[{"gloss":"signing, autograph session","pos":["n"]}]},"sdata":[{"j":"|サイン↑書↑↓か↓い|てやってもいいぞ。","e":"I can give you an autograph if you want."}]}

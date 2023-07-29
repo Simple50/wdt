@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発行者","p":true}],"r_ele":[{"r":"はっこうしゃ","p":true}],"sense":[{"gloss":"issuer, publisher","pos":["n"]}]},"sdata":[{"j":"その↑編集↑↓へんしゅう↓↑者↑↓しゃ↓と↑発行↑↓|はっこう↓↑者↑↓しゃ|↓はふたりとも↑私↑↓わたし↓のいとこです。","e":"The editor and the publisher are both my cousins."}]}

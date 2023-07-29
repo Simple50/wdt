@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コイル","p":true}],"sense":[{"gloss":"coil","pos":["n"]}]},"sdata":[{"j":"↑電流↑↓でんりゅう↓が↑流↑↓なが↓れる↑電線↑↓でんせん↓に|コイル|を↑近↑↓ちか↓づけると、|コイル|にも↑電気↑↓でんき↓が↑流↑↓なが↓れます。","e":"When a coil is moved near to a wire with current flowing in it current flows in the coil as well."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酵母","p":true}],"r_ele":[{"r":"こうぼ","p":true}],"sense":[{"gloss":"yeast, leaven","pos":["n"]}]},"kdata":{"酵":{"on":["コウ"],"jlpt":1,"meanings":["fermentation"],"freq":1862,"comp":[["酉","孝"]],"t":1935},"母":{"on":["ボ"],"kun":["はは","も"],"jlpt":5,"meanings":["mother"],"freq":570,"d":["毒","苺","栂","姆","袰","每","拇","鉧"],"v":"毋","t":245}},"sdata":[]}

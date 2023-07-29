@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見劣り","p":true}],"r_ele":[{"r":"みおとり","p":true}],"sense":[{"gloss":"unfavourable comparison, unfavorable comparison","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夜な夜な","p":true}],"r_ele":[{"r":"よなよな","p":true}],"sense":[{"gloss":"every evening, night after night","pos":["adv"]}]},"kdata":{"夜":{"on":["ヤ"],"kun":["よ","よる"],"jlpt":4,"meanings":["night","evening"],"freq":487,"comp":[["亠","亻","夂","丶"]],"d":["液","腋","鵺","掖","棭"],"s":"夕","t":630}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パサパサ","p":true}],"sense":[{"gloss":"state of being dried out","pos":["adj-na","vs","adv","adj-no"]}],"m":["on-mim"]},"sdata":[{"j":"↑初↑↓はじ↓めてパンを↑焼↑↓や↓いてみたけど、なんか|パサパサ|しておいしくない。","e":"I tried baking bread for the first time, but it's dry and not tasty."}]}

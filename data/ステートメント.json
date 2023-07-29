@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ステートメント","p":true}],"sense":[{"gloss":"statement","pos":["n"]}]},"sdata":[]}

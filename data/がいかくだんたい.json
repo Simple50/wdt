@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外郭団体","p":true}],"r_ele":[{"r":"がいかくだんたい","p":true}],"sense":[{"gloss":"auxiliary organization (organisation), extra-departmental body, fringe organization","pos":["n"]}]},"sdata":[]}

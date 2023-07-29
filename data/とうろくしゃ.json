@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"登録者","p":true}],"r_ele":[{"r":"とうろくしゃ","p":true}],"sense":[{"gloss":"registrant, subscriber, enrollee","pos":["n"]}]},"sdata":[]}

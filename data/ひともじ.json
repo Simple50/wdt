@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人文字","p":true}],"r_ele":[{"r":"ひともじ","p":true}],"sense":[{"gloss":"arranging a group of people so as to form a character or spell out a message","pos":["n"]}]},"sdata":[{"j":"その↑計画↑↓けいかく↓は↑是非↑↓ぜ|ひ↓とも↑実行↑↓じ|っこう↓しなければならない。","e":"The plan must be carried out by all means."}]}

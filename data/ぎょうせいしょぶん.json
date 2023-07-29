@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行政処分","p":true}],"r_ele":[{"r":"ぎょうせいしょぶん","p":true}],"sense":[{"gloss":"administrative measures (disposition)","pos":["n"]}]},"sdata":[]}

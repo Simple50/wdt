@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"略奪","p":true},{"e":"掠奪"}],"r_ele":[{"r":"りゃくだつ","p":true}],"sense":[{"gloss":"pillage, plunder, looting, robbery","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑政府↑↓せいふ↓↑役人↑↓やくにん↓の↑豪邸↑↓ごうてい↓が↑略奪↑↓|りゃくだつ|↓された。","e":"A government official's stately mansion was looted."}]}

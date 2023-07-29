@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"春雨","p":true}],"r_ele":[{"r":"しゅんう","p":true},{"r":"はるさめ"}],"sense":[{"gloss":"gentle spring rain","pos":["n"]},{"gloss":"thin noodles made from bean starch (or potato starch)","pos":["n"]}]},"sdata":[]}

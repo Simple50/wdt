@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ストック","p":true}],"sense":[{"gloss":"stock","pos":["n","vs"]},{"gloss":"ski pole","pos":["n"],"l":"ger: Stock"}]},"sdata":[{"j":"↑一生懸命↑↓いっしょうけんめい↓↑磨↑↓みが↓きました。↑困↑↓こま↓ったのは、↑意外↑↓いがい↓と↑低級↑↓ていきゅう↓↑宝石↑↓ほうせき↓の|ストック|がないことです。","e":"I polished for all I was worth. The trouble is that my stock of low-grade gems was surprisingly low."}]}

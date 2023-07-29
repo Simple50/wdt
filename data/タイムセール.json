@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タイムセール","p":true},{"r":"タイム・セール"}],"sense":[{"gloss":"limited-time sale","pos":["n"],"l":"eng: time sale"}]},"sdata":[{"j":"いいのよ。それより、↑早↑↓はや↓く↑行↑↓い↓かないと|タイムセール|↑終↑↓お↓わっちゃう。","e":"Never mind that. More importantly, if we don't go soon the time-limited sales will finish."}]}

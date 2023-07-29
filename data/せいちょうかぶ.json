@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"成長株","p":true}],"r_ele":[{"r":"せいちょうかぶ","p":true}],"sense":[{"gloss":"growth stock, person with future promise","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑成長↑↓|せいちょう↓↑株↑↓かぶ|↓の↑事業↑↓じぎょう↓に２００ドルを↑投資↑↓とうし↓した。","e":"He invested two hundred dollars in a growing business."}]}

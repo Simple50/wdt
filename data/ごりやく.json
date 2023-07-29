@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"御利益","p":true},{"e":"ご利益"}],"r_ele":[{"r":"ごりやく","p":true}],"sense":[{"gloss":"divine grace, divine favour, blessing, answer to a prayer","pos":["n"]},{"gloss":"benefit, help","pos":["n"]}],"m":["hon"]},"sdata":[{"j":"↑初詣↑↓はつもうで↓、|ご↑利益↑↓りやく|↓があるのはどこの↑神社↑↓じんじゃ↓？","e":"New Year shrine visit; which shrines are potent?"}]}

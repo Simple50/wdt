@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クーポン","p":true}],"sense":[{"gloss":"coupon, voucher","pos":["n"],"l":"fre"}]},"sdata":[{"j":"コンビニへ↑行↑↓い↓くなら、|クーポン|を↑持↑↓も↓って↑行↑↓い↓く↑方↑↓ほう↓がいいと↑思↑↓おも↓うよ。","e":"If you are going to a convenience store, it's better to bring a discount coupon along with you, I think."},{"j":"|クーポン|の↑使↑↓つか↓い↑方↑↓かた↓を↑教↑↓おし↓えてください。","e":"Please tell me how to use coupons."}]}

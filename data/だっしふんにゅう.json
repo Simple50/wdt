@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脱脂粉乳","p":true}],"r_ele":[{"r":"だっしふんにゅう","p":true}],"sense":[{"gloss":"powdered skim milk, skimmed milk powder, non-fat dry milk","pos":["n"]}]},"sdata":[]}

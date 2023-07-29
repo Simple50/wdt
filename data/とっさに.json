@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"咄嗟に","p":true}],"r_ele":[{"r":"とっさに","p":true}],"sense":[{"gloss":"at once, immediately, instantly, in an instant, quickly, suddenly, on the spur of the moment","pos":["adv"]}],"m":["uk"]},"sdata":[]}

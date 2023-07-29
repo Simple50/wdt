@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"官公庁","p":true}],"r_ele":[{"r":"かんこうちょう","p":true}],"sense":[{"gloss":"government and municipal offices, public agencies","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国税","p":true}],"r_ele":[{"r":"こくぜい","p":true}],"sense":[{"gloss":"national tax","pos":["n"]}]},"kdata":{"国":{"on":["コク"],"kun":["くに"],"jlpt":5,"meanings":["country"],"freq":3,"comp":[["玉","囗"]],"d":["掴","椢","𠏹"],"t":627},"税":{"on":["ゼイ"],"jlpt":2,"meanings":["tax","duty"],"freq":289,"comp":[["禾","兑"]],"t":1574}},"sdata":[]}

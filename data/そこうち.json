@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"底打ち","p":true}],"r_ele":[{"r":"そこうち","p":true}],"sense":[{"gloss":"bottoming out","pos":["n"]}]},"sdata":[]}

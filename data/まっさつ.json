@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抹殺","p":true}],"r_ele":[{"r":"まっさつ","p":true}],"sense":[{"gloss":"erasure, obliteration","pos":["n","vs","vt"]},{"gloss":"denial, ignoring (an opinion)","pos":["n","vs","vt"]}]},"sdata":[{"j":"なぜその↑政治↑↓せいじ↓↑家↑↓か↓は↑大↑↓だい↓↑多数↑↓たすう↓の↑意見↑↓いけん↓を↑抹殺↑↓|まっさつ|↓しようとするのか。","e":"Why is the politician trying to kill off the opinions of the majority?"}]}

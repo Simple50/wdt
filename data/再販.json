@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再販","p":true}],"r_ele":[{"r":"さいはん","p":true}],"sense":[{"gloss":"resale","pos":["n"]}]},"kdata":{"再":{"on":["サイ","サ"],"kun":["ふたた.び"],"jlpt":2,"meanings":["again","twice","second time"],"freq":275,"comp":[["一","冉"]],"t":314},"販":{"on":["ハン"],"jlpt":2,"meanings":["marketing","sell","trade"],"freq":627,"comp":[["反","貝"]],"s":"敗","t":1391}},"sdata":[]}

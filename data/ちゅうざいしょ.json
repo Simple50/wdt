@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駐在所","p":true}],"r_ele":[{"r":"ちゅうざいしょ","p":true}],"sense":[{"gloss":"police substation, residential police box","pos":["n"]}]},"sdata":[]}

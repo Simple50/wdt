@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シナリオライター","p":true},{"r":"シナリオ・ライター"}],"sense":[{"gloss":"screenwriter, scriptwriter","pos":["n"],"l":"eng: scenario writer"}]},"sdata":[]}

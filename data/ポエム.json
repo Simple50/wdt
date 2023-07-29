@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポエム","p":true}],"sense":[{"gloss":"poem","pos":["n"]}]},"sdata":[{"j":"この|ポエム|をタジク↑語↑↓ご↓に↑誰↑↓だれ↓が↑訳↑↓やく↓しましたか？","e":"Who translated this poem into the Tajik language?"}]}

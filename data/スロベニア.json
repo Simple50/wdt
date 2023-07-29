@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スロベニア","p":true},{"r":"スロヴェニア"}],"sense":[{"gloss":"Slovenia","pos":["n"]}]},"sdata":[{"j":"|スロベニア|で↑１番↑↓いちばん↓↑高↑↓たか↓い↑山↑↓やま↓はトリグラウ↑山↑↓ざん↓です。","e":"The highest mountain of Slovenia is the Triglav."},{"j":"「スロバキア↑出身↑↓しゅっしん↓だと↑思↑↓おも↓ってたよ」「|スロベニア|だよ」","e":"I thought you were from Slovakia. \"I'm from Slovenia.\""}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ソユーズ","p":true}],"sense":[{"gloss":"Soyuz (Russian spacecraft)","pos":["n"]}]},"sdata":[]}

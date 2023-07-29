@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち消し","p":true},{"e":"打消し","p":true},{"e":"打消"}],"r_ele":[{"r":"うちけし","p":true}],"sense":[{"gloss":"negation, denial, negative","pos":["n"],"f":["ling"]}]},"sdata":[]}

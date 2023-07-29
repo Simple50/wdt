@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貸し出す","p":true},{"e":"貸出す"}],"r_ele":[{"r":"かしだす","p":true}],"sense":[{"gloss":"to lend, to loan, to let out on hire","pos":["v5s","vt"]}]},"sdata":[{"j":"↑本↑↓ほん↓を↑貸↑↓|か↓し↑出↑↓だ↓す|ほかに、↑図書館↑↓としょかん↓は↑他↑↓た↓のいろいろなサービスを↑提供↑↓ていきょう↓する。","e":"Besides lending books, libraries offer various other services."}]}

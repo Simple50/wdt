@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"捜査官","p":true}],"r_ele":[{"r":"そうさかん","p":true}],"sense":[{"gloss":"(police) investigator","pos":["n"]}]},"sdata":[{"j":"↑容疑↑↓ようぎ↓↑者↑↓しゃ↓は↑捜査↑↓|そうさ↓↑官↑↓かん|↓にうそを↑言↑↓い↓った。","e":"The suspect told a lie to the inspector."}]}

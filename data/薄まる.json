@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄まる","p":true}],"r_ele":[{"r":"うすまる","p":true}],"sense":[{"gloss":"to become weak","pos":["v5r","vi"]}]},"kdata":{"薄":{"on":["ハク"],"kun":["うす.い","うす-","-うす","うす.める","うす.まる","うす.らぐ","うす.ら-","うす.れる","すすき"],"jlpt":2,"meanings":["dilute","thin","weak (tea)","pampas grass"],"freq":1009,"comp":[["艹","溥"]],"d":["欂","礴","鑮"],"s":"簿","t":2135}},"sdata":[]}

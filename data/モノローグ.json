@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モノローグ","p":true}],"sense":[{"gloss":"monologue","pos":["n"],"x":["ダイアローグ"]}]},"sdata":[]}

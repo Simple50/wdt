@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無得点","p":true}],"r_ele":[{"r":"むとくてん","p":true}],"sense":[{"gloss":"scoreless (game or competition)","pos":["n"]}]},"sdata":[]}

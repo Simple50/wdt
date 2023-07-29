@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鍾乳洞","p":true},{"e":"鐘乳洞","i":["iK"]}],"r_ele":[{"r":"しょうにゅうどう","p":true}],"sense":[{"gloss":"limestone cave, limestone cavern","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海浜","p":true}],"r_ele":[{"r":"かいひん","p":true}],"sense":[{"gloss":"seashore, seaside, beach","pos":["n"]}]},"sdata":[{"j":"この↑浜辺↑↓はまべ↓にはたくさんの↑海浜↑↓|かいひん|↓↑植物↑↓しょくぶつ↓がありますから、↑人気↑↓にんき↓のある↑泳↑↓およ↓ぎ↑場所↑↓ばしょ↓ではありません。","e":"This beach has a lot of seashore plants growing on it so it's not a popular spot for swimming."}]}

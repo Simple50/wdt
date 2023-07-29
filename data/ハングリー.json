@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハングリー","p":true}],"sense":[{"gloss":"hungry (e.g. for success)","pos":["adj-na"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑好↑↓す↓きな↑曲↑↓きょく↓は|ハングリー|・スパイダーです。","e":"My favorite song is Hungry Spider."},{"j":"↑私↑↓わたし↓の↑好↑↓す↓きな↑曲↑↓きょく↓は|ハングリー|・スパイダーです。","e":"One of my favorite songs is Hungry Spider."}]}

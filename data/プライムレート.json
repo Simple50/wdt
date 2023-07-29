@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プライムレート","p":true},{"r":"プライム・レート"}],"sense":[{"gloss":"prime (lending) rate","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折り曲げる","p":true},{"e":"折曲げる"}],"r_ele":[{"r":"おりまげる","p":true}],"sense":[{"gloss":"to bend, to turn up, to turn down, to double","pos":["v1","vt"]}]},"sdata":[]}

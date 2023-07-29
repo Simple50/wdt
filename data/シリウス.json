@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シリウス","p":true}],"sense":[{"gloss":"Sirius (star in the constellation Canis Major), Alpha Canis Majoris, the Dog Star","pos":["n"],"f":["astron"]}]},"sdata":[{"j":"|シリウス|を↑回↑↓まわ↓る↑軌道↑↓きどう↓は↑楕円↑↓だえん↓↑形↑↓がた↓である。","e":"The orbit around Sirius is elliptical."},{"j":"あの↑青白↑↓あおじろ↓く↑光↑↓ひか↓っている↑星↑↓ほし↓が|シリウス|です。","e":"That blue-white shining star is Sirius."}]}

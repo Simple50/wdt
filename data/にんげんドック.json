@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人間ドック","p":true},{"e":"人間ドッグ","i":["iK"]}],"r_ele":[{"r":"にんげんドック","p":true},{"r":"にんげんドッグ","i":["ik"]}],"sense":[{"gloss":"comprehensive medical check-up, thorough physical examination","pos":["n"]}]},"sdata":[]}

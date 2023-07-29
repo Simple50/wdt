@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"被保険者","p":true}],"r_ele":[{"r":"ひほけんしゃ","p":true}],"sense":[{"gloss":"insured person","pos":["n"],"x":["保険者"]}]},"sdata":[]}

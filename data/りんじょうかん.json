@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"臨場感","p":true}],"r_ele":[{"r":"りんじょうかん","p":true}],"sense":[{"gloss":"(sense of) presence, realism, ambiance","pos":["n"]}]},"sdata":[]}

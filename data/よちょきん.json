@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"預貯金","p":true}],"r_ele":[{"r":"よちょきん","p":true}],"sense":[{"gloss":"deposits and savings, bank account","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し通す","p":true},{"e":"押通す"},{"e":"押しとおす"}],"r_ele":[{"r":"おしとおす","p":true}],"sense":[{"gloss":"to persist in, to carry out, to have one's own way, to push through, to carry through","pos":["v5s","vt"]}]},"sdata":[]}

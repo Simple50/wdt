@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"格付け","p":true}],"r_ele":[{"r":"かくづけ","p":true},{"r":"かくずけ","i":["ik"]}],"sense":[{"gloss":"rating, classification, allocation, grading","pos":["n","vs","vt"]}]},"sdata":[]}

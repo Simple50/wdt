@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"欧風","p":true}],"r_ele":[{"r":"おうふう","p":true}],"sense":[{"gloss":"European style, Occidental","pos":["n","adj-no"]}]},"sdata":[]}

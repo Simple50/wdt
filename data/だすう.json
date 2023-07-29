@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打数","p":true}],"r_ele":[{"r":"だすう","p":true}],"sense":[{"gloss":"times at bat","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑市場↑↓しじょう↓に↑出↑↓|だ↓す↑牛↑↓う|し↓を↑育↑↓そだ↓てている。","e":"He breeds cattle for market."}]}

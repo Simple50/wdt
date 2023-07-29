@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンソロジー","p":true}],"sense":[{"gloss":"anthology","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はこの↑作家↑↓さっか↓の↑熱心↑↓ねっしん↓なファンのようだ。↑短編↑↓たんぺん↓を↑寄↑↓よ↓せているだけの|アンソロジー|もきちんと↑揃↑↓そろ↓えている。","e":"She seems to be a diehard fan of this author. She even has his anthologies where all he did was collect short stories."}]}

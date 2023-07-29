@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ケルン","p":true}],"sense":[{"gloss":"Koeln, Cologne","pos":["n"]},{"gloss":"cairn","pos":["n"]}]},"sdata":[]}

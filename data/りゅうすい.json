@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流水","p":true}],"r_ele":[{"r":"りゅうすい","p":true}],"sense":[{"gloss":"running water, stream","pos":["n"]}]},"sdata":[{"j":"やけどした↑指↑↓ゆび↓を、↑流水↑↓|りゅうすい|↓↑中↑↓ちゅう↓で↑冷↑↓ひ↓やしなさい。","e":"Cool the burned finger in running water."},{"j":"リーキはスライスして、↑流水↑↓|りゅうすい|↓で↑洗↑↓あら↓います。","e":"Slice the leek and wash it under running water."}]}

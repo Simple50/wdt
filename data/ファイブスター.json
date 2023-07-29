@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファイブスター","p":true}],"sense":[{"gloss":"five-star","pos":["n"]}]},"sdata":[]}

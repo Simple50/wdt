@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"運休","p":true}],"r_ele":[{"r":"うんきゅう","p":true}],"sense":[{"gloss":"suspension (of a transportation service), cancellation, stoppage","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑夜行↑↓やこう↓バスが↑運休↑↓|うんきゅう|↓になっちゃったから↑友達↑↓ともだち↓んちに↑泊↑↓と↓めてもらうことにした。","e":"The night bus service was suspended, so I decided to spend the night at my friend's house."}]}

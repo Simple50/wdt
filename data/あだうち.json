@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仇討ち","p":true},{"e":"あだ討ち"},{"e":"仇討"}],"r_ele":[{"r":"あだうち","p":true}],"sense":[{"gloss":"vengeance, revenge, retaliation","pos":["n"],"x":["敵討ち"]}]},"sdata":[{"j":"↑誰↑↓だれ↓がカールの↑仇討↑↓|あだう↓ち|をする？","e":"Who will avenge the death of Karl?"}]}

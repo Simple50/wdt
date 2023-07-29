@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人脈","p":true}],"r_ele":[{"r":"じんみゃく","p":true}],"sense":[{"gloss":"personal connections","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑社外↑↓しゃがい↓で↑人脈↑↓|じんみゃく|↓を↑築↑↓きず↓いている。","e":"He's building up a network of acquaintances outside his office."}]}

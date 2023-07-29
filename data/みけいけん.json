@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"未経験","p":true}],"r_ele":[{"r":"みけいけん","p":true}],"sense":[{"gloss":"inexperienced","pos":["adj-no","adj-na","n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑若↑↓わか↓くて↑未経験↑↓|みけいけん|↓だがやる↑気↑↓き↓↑満々↑↓まんまん↓だ。","e":"He is young and inexperienced, but quite enterprising."}]}

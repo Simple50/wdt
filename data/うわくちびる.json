@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上唇","p":true},{"e":"上くちびる"}],"r_ele":[{"r":"うわくちびる","p":true},{"r":"じょうしん"}],"sense":[{"gloss":"upper lip","pos":["n"],"f":["anat"]},{"gloss":"labrum","pos":["n"],"f":["zool"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"茶会","p":true}],"r_ele":[{"r":"ちゃかい","p":true},{"r":"さかい"}],"sense":[{"gloss":"tea party, get-together","pos":["n"]},{"gloss":"tea ceremony","pos":["n"]}]},"sdata":[{"j":"↑明後日↑↓みょうごにち↓、お↑茶会↑↓|ちゃかい|↓を↑開↑↓ひら↓きましょうよ。","e":"Let's have a tea party the day after tomorrow."}]}

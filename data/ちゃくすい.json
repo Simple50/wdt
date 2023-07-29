@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"着水","p":true}],"r_ele":[{"r":"ちゃくすい","p":true}],"sense":[{"gloss":"landing on water, hitting the water, splashdown","pos":["n","vs","vi"]}]},"sdata":[]}

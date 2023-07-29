@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナイン","p":true}],"sense":[{"gloss":"nine","pos":["n"]},{"gloss":"team, players on a team","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"|ナイン|ティー|ナイン|はいつも↑私↑↓わたし↓を↑笑↑↓わら↓わせる。","e":"Ninety-nine always makes me laugh."}]}

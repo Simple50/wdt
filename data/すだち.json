@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巣立ち","p":true}],"r_ele":[{"r":"すだち","p":true}],"sense":[{"gloss":"leaving the nest","pos":["n"]},{"gloss":"going out into the world, becoming independent","pos":["n"]}]},"sdata":[]}

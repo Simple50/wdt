@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"編み出す","p":true},{"e":"あみ出す"}],"r_ele":[{"r":"あみだす","p":true}],"sense":[{"gloss":"to work out, to think out, to devise, to invent","pos":["v5s","vt"]}]},"sdata":[]}

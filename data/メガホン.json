@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メガホン","p":true},{"r":"メガフォン"}],"sense":[{"gloss":"megaphone","pos":["n"]}]},"sdata":[{"j":"これは|メガホン|よ。","e":"This is a megaphone."}]}

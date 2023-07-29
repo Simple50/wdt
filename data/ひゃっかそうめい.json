@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"百家争鳴","p":true}],"r_ele":[{"r":"ひゃっかそうめい","p":true}],"sense":[{"gloss":"let a hundred schools of thought contend","pos":["n"]}],"m":["yoji"]},"sdata":[]}

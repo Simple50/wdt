@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"真空管","p":true}],"r_ele":[{"r":"しんくうかん","p":true}],"sense":[{"gloss":"vacuum tube","pos":["n"]}]},"sdata":[{"j":"その↑爆発↑↓ばくはつ↓で↑真空↑↓|しんくう↓↑管↑↓かん|↓は↑粉々↑↓こなごな↓になった。","e":"The tube was shattered by the explosion."},{"j":"↑真空↑↓|しんくう↓↑管↑↓かん|↓を↑使↑↓つか↓ったテレビは↑古臭↑↓ふるくさ↓いと↑考↑↓かんが↓えられています。","e":"Televisions with vacuum tubes are regarded as being behind the times."}]}

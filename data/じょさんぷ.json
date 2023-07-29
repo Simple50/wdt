@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"助産婦","p":true}],"r_ele":[{"r":"じょさんぷ","p":true}],"sense":[{"gloss":"midwife","pos":["n"],"x":["助産師"]}]},"sdata":[{"j":"メアリーは↑助産婦↑↓|じょさんぷ|↓を↑目指↑↓めざ↓して↑勉強↑↓べんきょう↓しています。","e":"Mary is studying to become a midwife."}]}

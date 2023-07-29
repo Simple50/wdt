@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"女学校","p":true}],"r_ele":[{"r":"じょがっこう","p":true}],"sense":[{"gloss":"girls' school","pos":["n"]}]},"sdata":[{"j":"その↑上↑↓じょう↓、かれは↑美男↑↓びなん↓であったから、↑女学校↑↓|じょがっこう|↓の↑教師↑↓きょうし↓には↑不適任↑↓ふてきにん↓であった。","e":"Moreover, because he was handsome, he was ill-suited to working as a teacher in a girls' school."}]}

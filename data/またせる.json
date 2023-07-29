@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待たせる","p":true}],"r_ele":[{"r":"またせる","p":true}],"sense":[{"gloss":"to keep (a person) waiting","pos":["v1","vt"],"x":["待つ・1"]}]},"sdata":[]}

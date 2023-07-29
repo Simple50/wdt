@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"帝","p":true},{"e":"御門"}],"r_ele":[{"r":"みかど","p":true},{"r":"ごもん"}],"sense":[{"gloss":"emperor (of Japan), mikado","pos":["n"]},{"gloss":"(the gates of an) imperial residence","pos":["n"],"m":["hon"]}]},"sdata":[{"j":"↑姫↑↓ひめ↓は↑帝↑↓|みかど|↓に↑赦↑↓ゆる↓しを↑乞↑↓こ↓うた。","e":"The princess begged forgiveness from the emperor."}]}

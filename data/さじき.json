@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"桟敷","p":true},{"e":"棧敷","i":["sK"]}],"r_ele":[{"r":"さじき","p":true},{"r":"さんじき"}],"sense":[{"gloss":"dress circle (of a theatre), (first) balcony, box","pos":["n"]},{"gloss":"stands (seating for spectators)","pos":["n"]}]},"sdata":[]}

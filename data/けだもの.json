@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"獣","p":true}],"r_ele":[{"r":"けもの","p":true},{"r":"けだもの","p":true},{"r":"じゅう"},{"r":"ケモノ"},{"r":"ケダモノ"}],"sense":[{"gloss":"beast, brute, animal","pos":["n"]},{"gloss":"animal with human characteristics","pos":["n"],"m":["sl"]}]},"sdata":[]}

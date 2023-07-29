@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イリノイ","p":true}],"sense":[{"gloss":"Illinois","pos":["n"]}]},"sdata":[{"j":"モノポリーか↑懐↑↓なつ↓かしいな。|イリノイ|↑通↑↓どお↓りってのがあったのを↑覚↑↓おぼ↓えてるわ。↑確↑↓たし↓か↑赤↑↓あか↓かったよね？","e":"Monopoly sure takes me back. I remember Illinois Avenue. It's red, isn't it?"}]}

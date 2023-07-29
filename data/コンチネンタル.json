@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンチネンタル","p":true}],"sense":[{"gloss":"continental","pos":["n"]}]},"sdata":[]}

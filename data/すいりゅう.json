@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水流","p":true}],"r_ele":[{"r":"すいりゅう","p":true}],"sense":[{"gloss":"water current","pos":["n"]}]},"sdata":[{"j":"↑川幅↑↓かわはば↓が↑広↑↓ひろ↓くなるにつれて、↑水流↑↓|すいりゅう|↓はいっそう↑緩↑↓ゆる↓やかになった。","e":"As the river become broader, the current moved slowly."}]}

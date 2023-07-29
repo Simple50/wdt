@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"温泉郷","p":true}],"r_ele":[{"r":"おんせんきょう","p":true}],"sense":[{"gloss":"hot-spring village, onsen village","pos":["n"]}]},"sdata":[]}

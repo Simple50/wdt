@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"作劇","p":true}],"r_ele":[{"r":"さくげき","p":true}],"sense":[{"gloss":"playwriting","pos":["n","vs"]}]},"sdata":[]}

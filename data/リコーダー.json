@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レコーダー","p":true},{"r":"リコーダー","p":true},{"r":"レコーダ"},{"r":"リコーダ"}],"sense":[{"gloss":"recorder (e.g. tape recorder, time recorder), recording device","pos":["n"]},{"gloss":"recorder (musical instrument), English flute","pos":["n"]}]},"sdata":[{"j":"ボブとメアリーは|リコーダー|を↑演奏↑↓えんそう↓します。","e":"Bob and Mary play the recorder."}]}

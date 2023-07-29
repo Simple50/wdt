@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"圧殺","p":true}],"r_ele":[{"r":"あっさつ","p":true}],"sense":[{"gloss":"crushing to death","pos":["n","vs","vt"]},{"gloss":"crushing (hope, freedom, etc.), suppression, quashing, stifling","pos":["n","vs","vt"]}]},"sdata":[]}

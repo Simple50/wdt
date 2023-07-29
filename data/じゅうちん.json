@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重鎮","p":true}],"r_ele":[{"r":"じゅうちん","p":true}],"sense":[{"gloss":"leader, authority, mainstay","pos":["n"]}]},"sdata":[]}

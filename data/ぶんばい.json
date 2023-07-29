@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分売","p":true}],"r_ele":[{"r":"ぶんばい","p":true}],"sense":[{"gloss":"selling separately","pos":["n","vs","vt"]}]},"sdata":[]}

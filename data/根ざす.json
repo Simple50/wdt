@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"根ざす","p":true},{"e":"根差す","p":true}],"r_ele":[{"r":"ねざす","p":true}],"sense":[{"gloss":"to come from, to have roots in","pos":["v5s","vi"]}]},"kdata":{"根":{"on":["コン"],"kun":["ね","-ね"],"jlpt":2,"meanings":["root","radical","head (pimple)"],"freq":620,"comp":[["艮","木"]],"t":1093}},"sdata":[]}

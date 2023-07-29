@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"色分け","p":true}],"r_ele":[{"r":"いろわけ","p":true}],"sense":[{"gloss":"classification by colour, sorting by color, color-coding, colour-coding","pos":["n","vs","vt"]},{"gloss":"classification, sorting, grouping","pos":["n","vs","vt"]}]},"sdata":[{"j":"この↑地図↑↓ちず↓は、↑用途↑↓ようと↓↑地域↑↓ちいき↓ごとに↑色分↑↓|いろわ↓け|がされています。","e":"This map is color-coded by zoning district."}]}

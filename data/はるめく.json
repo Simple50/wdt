@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"春めく","p":true}],"r_ele":[{"r":"はるめく","p":true}],"sense":[{"gloss":"to become spring-like, to show signs of spring","pos":["v5k","vi"]}]},"sdata":[]}

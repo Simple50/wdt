@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"家元","p":true}],"r_ele":[{"r":"いえもと","p":true}],"sense":[{"gloss":"head of a school (of music, dance), head family of a school","pos":["n"]}]},"sdata":[]}

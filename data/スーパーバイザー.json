@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スーパーバイザー","p":true},{"r":"スーパーバイザ"},{"r":"スーパバイザ"}],"sense":[{"gloss":"supervisor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切迫","p":true}],"r_ele":[{"r":"せっぱく","p":true}],"sense":[{"gloss":"pressure, urgency, tension, imminence, acuteness","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑事態↑↓じたい↓はかなり↑切迫↑↓|せっぱく|↓している。","e":"The matter is really pressing."},{"j":"↑部屋↑↓へや↓には↑切迫↑↓|せっぱく|↓した↑空気↑↓くうき↓がみなぎっていた。","e":"There was a tense atmosphere in the room."}]}

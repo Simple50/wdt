@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"達筆","p":true}],"r_ele":[{"r":"たっぴつ","p":true}],"sense":[{"gloss":"good handwriting, skillful penmanship","pos":["n","adj-na"]},{"gloss":"speedy writing, vigorous writing","pos":["n","adj-na"]}]},"sdata":[{"j":"トムは↑達筆↑↓|たっぴつ|↓だ。","e":"Tom has good handwriting."},{"j":"↑私↑↓わたし↓の↑母↑↓はは↓は↑達筆↑↓|たっぴつ|↓だ。","e":"My mother has good handwriting."}]}

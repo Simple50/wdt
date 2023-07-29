@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"てくてく","p":true}],"sense":[{"gloss":"(walking a long distance) at a steady pace, intently, earnestly, single-mindedly, trudgingly, ploddingly","pos":["adv","adv-to"]}],"m":["on-mim"]},"sdata":[{"j":"この↑暑↑↓あつ↓さに１０マイルも|てくてく|↑歩↑↓ある↓くのはたまらない。","e":"I can't bear to tramp ten miles in this heat."}]}

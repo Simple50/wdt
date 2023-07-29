@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自己資本","p":true}],"r_ele":[{"r":"じこしほん","p":true}],"sense":[{"gloss":"net worth, owned capital","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ガラス戸","p":true},{"e":"硝子戸"}],"r_ele":[{"r":"ガラスど","p":true}],"sense":[{"gloss":"glass door","pos":["n"]}]},"sdata":[]}

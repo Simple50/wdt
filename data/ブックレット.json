@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブックレット","p":true}],"sense":[{"gloss":"booklet","pos":["n"]}]},"sdata":[]}

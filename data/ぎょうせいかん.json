@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行政官","p":true}],"r_ele":[{"r":"ぎょうせいかん","p":true}],"sense":[{"gloss":"executive officer, administrative official","pos":["n"]}]},"sdata":[]}

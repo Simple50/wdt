@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ステートアマ","p":true}],"sense":[{"gloss":"state amateur (government-funded sportsperson in training)","pos":["n"],"x":["ステートアマチュア"]}],"m":["abbr"]},"sdata":[]}

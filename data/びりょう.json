@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"微量","p":true}],"r_ele":[{"r":"びりょう","p":true}],"sense":[{"gloss":"minuscule amount, extremely small quantity","pos":["n","adj-na","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑再↑↓ふたた↓|び↑両親↑↓りょう|しん↓と↑会↑↓あ↓うことはなかった。","e":"He was never to see his parents again."}]}

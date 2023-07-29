@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャンバス","p":true},{"r":"カンバス","p":true},{"r":"キャンヴァス"}],"sense":[{"gloss":"canvas","pos":["n"]},{"gloss":"base","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑絵筆↑↓えふで↓を|カンバス|にさっと↑走↑↓はし↓らせた。","e":"He swept his brush across the canvas."}]}

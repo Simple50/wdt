@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"庶民的","p":true}],"r_ele":[{"r":"しょみんてき","p":true}],"sense":[{"gloss":"popular, folksy, plebeian, ordinary, unpretentious","pos":["adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑庶民↑↓|しょみん↓↑的↑↓てき|↓な↑経歴↑↓けいれき↓は↑前任↑↓ぜんにん↓↑者↑↓しゃ↓のそれと↑似↑↓に↓ている。","e":"His humble background parallels that of his predecessor."}]}

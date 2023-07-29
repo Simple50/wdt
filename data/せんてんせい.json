@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先天性","p":true}],"r_ele":[{"r":"せんてんせい","p":true}],"sense":[{"gloss":"hereditary, congenital","pos":["adj-no","n"],"f":["med"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑病気↑↓びょうき↓は↑先天↑↓|せんてん↓↑性↑↓せい|↓なのです。","e":"My disease is congenital."}]}

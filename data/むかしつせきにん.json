@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無過失責任","p":true}],"r_ele":[{"r":"むかしつせきにん","p":true}],"sense":[{"gloss":"no-fault liability","pos":["n"]}]},"sdata":[]}

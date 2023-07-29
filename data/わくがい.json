@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枠外","p":true}],"r_ele":[{"r":"わくがい","p":true}],"sense":[{"gloss":"(beyond the) limits, scope, boundary","pos":["n","adj-no"],"x":["枠・わく・3"]}]},"sdata":[]}

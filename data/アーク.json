@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アーク","p":true}],"sense":[{"gloss":"arc (esp. electrical)","pos":["n"]}]},"sdata":[{"j":"↑時↑↓とき↓の|アーク|がその↑器↑↓うつわ↓を↑成長↑↓せいちょう↓させ、セカンドオリジンを↑使↑↓つか↓える↑状態↑↓じょうたい↓にする。","e":"Time Ark develops that container and makes it so that you will be able to use Second Origin."}]}

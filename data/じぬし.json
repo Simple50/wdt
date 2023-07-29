@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地主","p":true}],"r_ele":[{"r":"じぬし","p":true}],"sense":[{"gloss":"landowner, landlord, landlady","pos":["n"]}]},"sdata":[{"j":"その↑地主↑↓|じぬし|↓は↑以前↑↓いぜん↓かなり↑裕福↑↓ゆうふく↓な↑暮↑↓く↓らしをしていた。","e":"The landlord used to be quite well off."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"体系的","p":true}],"r_ele":[{"r":"たいけいてき","p":true}],"sense":[{"gloss":"systematic","pos":["adj-na"]}]},"sdata":[{"j":"この↑本↑↓ほん↓は、↑現代↑↓げんだい↓↑日本語↑↓にほんご↓の↑文法↑↓ぶんぽう↓をできるだけわかりやすく、↑体系↑↓|たいけい↓↑的↑↓てき|↓に↑説明↑↓せつめい↓しようとする↑本↑↓ほん↓です。","e":"This book aims to provide an explanation of modern Japanese grammar that is as systematic and as easily understood as possible."}]}

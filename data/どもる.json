@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吃る","p":true}],"r_ele":[{"r":"どもる","p":true}],"sense":[{"gloss":"to stammer, to stutter","pos":["v5r","vi"]}],"m":["uk"]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はあがると|どもる|。","e":"She stammers when she feels nervous."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アナリスト","p":true}],"sense":[{"gloss":"analyst","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑金融↑↓きんゆう↓|アナリスト|で↑経済↑↓けいざい↓↑動向↑↓どうこう↓の↑分析↑↓ぶんせき↓には↑定評↑↓ていひょう↓がある。","e":"He's a financial analyst with a pretty good reputation for his analysis of economic trends."}]}

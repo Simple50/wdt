@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一覧表","p":true}],"r_ele":[{"r":"いちらんひょう","p":true}],"sense":[{"gloss":"list, table, schedule, catalogue, catalog","pos":["n"]}]},"sdata":[{"j":"↑一覧↑↓|いちらん↓↑表↑↓ひょう|↓にトムの↑家族↑↓かぞく↓の↑名前↑↓なまえ↓を↑付↑↓つ↓け↑加↑↓くわ↓えたよ。","e":"I added Tom's family name to the list."}]}

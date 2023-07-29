@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雑種","p":true}],"r_ele":[{"r":"ざっしゅ","p":true}],"sense":[{"gloss":"hybrid, crossbreed, mongrel","pos":["n"]}]},"sdata":[{"j":"ヨーロッパは↑強力↑↓きょうりょく↓な↑雑種↑↓|ざっしゅ|↓↑民族↑↓みんぞく↓↑大陸↑↓たいりく↓である。","e":"Europe is a continent of energetic peoples."},{"j":"この↑犬↑↓いぬ↓は↑雑種↑↓|ざっしゅ|↓だ。","e":"This dog is a mongrel."}]}

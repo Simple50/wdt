@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"推し量る","p":true},{"e":"推し測る"},{"e":"推量る"},{"e":"推測る"},{"e":"推しはかる","i":["sK"]},{"e":"推し計る","i":["sK"]}],"r_ele":[{"r":"おしはかる","p":true}],"sense":[{"gloss":"to guess, to conjecture, to surmise","pos":["v5r","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆け巡る","p":true},{"e":"駆けめぐる"},{"e":"駆巡る"}],"r_ele":[{"r":"かけめぐる","p":true}],"sense":[{"gloss":"to run about, to rush about","pos":["v5r","vi"]}]},"sdata":[]}

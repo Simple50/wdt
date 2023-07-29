@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"政変","p":true}],"r_ele":[{"r":"せいへん","p":true}],"sense":[{"gloss":"political disturbance, political change, change of government, political upheaval, overthrowing of a government, coup d'état, coup, revolution","pos":["n"]}]},"sdata":[]}

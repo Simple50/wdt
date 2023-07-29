@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラーニング","p":true}],"sense":[{"gloss":"learning","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強張る","p":true},{"e":"強ばる"}],"r_ele":[{"r":"こわばる","p":true}],"sense":[{"gloss":"to stiffen, to become stiff","pos":["v5r","vi"]}],"m":["uk"]},"sdata":[]}

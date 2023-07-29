@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二の足","p":true}],"r_ele":[{"r":"にのあし","p":true}],"sense":[{"gloss":"second step","pos":["exp","n"]},{"gloss":"hesitation","pos":["exp","n"],"x":["二の足を踏む"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑二↑↓|に↓の↑足↑↓あし|↓を↑踏↑↓ふ↓んでいる。","e":"He is thinking it over."}]}

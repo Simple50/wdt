@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"門外不出","p":true}],"r_ele":[{"r":"もんがいふしゅつ","p":true}],"sense":[{"gloss":"(treasuring something by) never taking (it) off the premises","pos":["n","adj-no"]}],"m":["yoji"]},"sdata":[]}

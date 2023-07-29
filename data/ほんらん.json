@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本欄","p":true}],"r_ele":[{"r":"ほんらん","p":true}],"sense":[{"gloss":"this column","pos":["n"]}]},"sdata":[]}

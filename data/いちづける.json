@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"位置付ける","p":true},{"e":"位置づける"}],"r_ele":[{"r":"いちづける","p":true},{"r":"いちずける","i":["ik"]}],"sense":[{"gloss":"to place (in relation to the whole), to rank, to position, to locate","pos":["v1","vt"]}]},"sdata":[]}

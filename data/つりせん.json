@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"釣り銭","p":true},{"e":"釣銭"},{"e":"つり銭"}],"r_ele":[{"r":"つりせん","p":true}],"sense":[{"gloss":"change (for a purchase)","pos":["n"]}]},"sdata":[{"j":"|つり↑銭↑↓せん|↓のいらないようにお↑願↑↓ねが↓いします。","e":"Exact change, please."},{"j":"↑釣↑↓|つ↓り↑銭↑↓せん|↓は↑取↑↓と↓っておいてください。","e":"Keep the change, please."}]}

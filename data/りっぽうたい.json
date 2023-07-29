@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立方体","p":true}],"r_ele":[{"r":"りっぽうたい","p":true}],"sense":[{"gloss":"cube","pos":["n"]}]},"sdata":[]}

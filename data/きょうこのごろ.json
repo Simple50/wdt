@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"今日この頃","p":true},{"e":"今日このごろ"},{"e":"今日此の頃"},{"e":"きょうこの頃"},{"e":"今日此頃"}],"r_ele":[{"r":"きょうこのごろ","p":true}],"sense":[{"gloss":"these days, nowadays, recently","pos":["exp"]}]},"sdata":[]}

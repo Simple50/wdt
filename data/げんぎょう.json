@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"現業","p":true}],"r_ele":[{"r":"げんぎょう","p":true}],"sense":[{"gloss":"on-site work, work-site operations","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"向かって左","p":true}],"r_ele":[{"r":"むかってひだり","p":true}],"sense":[{"gloss":"on the left as one faces (it)","pos":["exp"]}]},"sdata":[]}

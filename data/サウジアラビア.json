@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サウジアラビア","p":true},{"r":"サウジ・アラビア"}],"sense":[{"gloss":"Saudi Arabia","pos":["n"]}]},"sdata":[{"j":"|サウジアラビア|は↑石油↑↓せきゆ↓に↑非常↑↓ひじょう↓に↑恵↑↓めぐ↓まれている。","e":"Saudi Arabia is very rich in oil."}]}

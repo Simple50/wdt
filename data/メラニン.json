@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メラニン","p":true}],"sense":[{"gloss":"melanin","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボーカリスト","p":true},{"r":"ヴォーカリスト","p":true}],"sense":[{"gloss":"vocalist","pos":["n"]}]},"sdata":[]}

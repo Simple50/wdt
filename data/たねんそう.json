@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"多年草","p":true}],"r_ele":[{"r":"たねんそう","p":true}],"sense":[{"gloss":"perennial plant","pos":["n"]}]},"sdata":[{"j":"ユリは↑多年草↑↓|たねんそう|↓です。","e":"Lilies are perennial plants."}]}

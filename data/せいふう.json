@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"清風","p":true}],"r_ele":[{"r":"せいふう","p":true}],"sense":[{"gloss":"breath of fresh air, cool (refreshing) breeze","pos":["n"]}]},"sdata":[]}

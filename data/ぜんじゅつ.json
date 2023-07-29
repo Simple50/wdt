@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前述","p":true}],"r_ele":[{"r":"ぜんじゅつ","p":true}],"sense":[{"gloss":"aforementioned, above-mentioned","pos":["adj-no","n","vs","vt"]}]},"sdata":[{"j":"↑前述↑↓|ぜんじゅつ|↓↑参照↑↓さんしょう↓のこと。","e":"See above."}]}

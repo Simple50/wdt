@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"緑化","p":true}],"r_ele":[{"r":"りょっか","p":true},{"r":"りょくか"}],"sense":[{"gloss":"greening (i.e. planting to increase greenery), tree planting, afforestation","pos":["n","vs","vt"]}]},"sdata":[]}

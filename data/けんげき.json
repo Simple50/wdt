@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"剣劇","p":true}],"r_ele":[{"r":"けんげき","p":true}],"sense":[{"gloss":"sword play, samurai drama","pos":["n"]}]},"sdata":[]}

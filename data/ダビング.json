@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダビング","p":true}],"sense":[{"gloss":"dubbing, mixing, re-recording","pos":["n","vs","vt"]},{"gloss":"copying (recorded material, esp. from one audio cassette to another), dubbing","pos":["n","vs","vt"],"m":["dated"]}]},"sdata":[{"j":"あ、|ダビング|できるなら↑私↑↓わたし↓のもお↑願↑↓ねが↓いして↑良↑↓よ↓いですか？","e":"Ah, if you can dub it, can I ask for a copy as well?"}]}

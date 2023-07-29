@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伏流","p":true}],"r_ele":[{"r":"ふくりゅう","p":true}],"sense":[{"gloss":"subterranean stream","pos":["n","vs"]}]},"sdata":[{"j":"タバコの↑副↑↓|ふく↓↑流↑↓りゅう|↓↑煙↑↓えん↓で↑喉↑↓のど↓が↑痛↑↓いた↓いです。","e":"My throat is sore from the secondhand smoke."}]}

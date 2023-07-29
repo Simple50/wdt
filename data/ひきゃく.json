@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飛脚","p":true}],"r_ele":[{"r":"ひきゃく","p":true}],"sense":[{"gloss":"express messenger, postman, mailman, courier","pos":["n"]}]},"sdata":[]}

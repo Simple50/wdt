@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレムリン","p":true}],"sense":[{"gloss":"(former) Soviet government, Russian government","pos":["n"],"l":"rus: kreml'"},{"gloss":"Great Kremlin Palace (Moscow), Kremlin","pos":["n"]},{"gloss":"kremlin (citadel in Russian town)","pos":["n"]}]},"sdata":[]}

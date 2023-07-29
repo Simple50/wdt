@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紋切り型","p":true},{"e":"紋切型"}],"r_ele":[{"r":"もんきりがた","p":true}],"sense":[{"gloss":"formulaic, stereotyped, hackneyed","pos":["adj-no","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黄ばむ","p":true}],"r_ele":[{"r":"きばむ","p":true}],"sense":[{"gloss":"to turn yellow, to become tinged with yellow, to yellow (with age)","pos":["v5m","vi"]}]},"kdata":{"黄":{"on":["コウ","オウ"],"kun":["き","こ-"],"jlpt":2,"meanings":["yellow"],"freq":1240,"comp":[["八","由","龷"]],"d":["横","璜","簧","潢","磺","鐄","僙","曂","熿","癀","黆","黈","蟥"],"t":1422}},"sdata":[]}

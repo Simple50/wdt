@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砂地","p":true}],"r_ele":[{"r":"すなじ","p":true},{"r":"すなち"}],"sense":[{"gloss":"sandy soil","pos":["n","adj-no"]}]},"sdata":[{"j":"↑手書↑↓てが↓きしたレポートをスキャンして↑PDF↑↓ピーディーエフ↓に↑直↑↓なお↓してから、データを↑送↑↓おく↓らないといけないためプリンターが↑必須↑↓ひっ|す↓な↑状況↑↓じ|ょうきょう↓です。","e":"A printer is necessary because you need to be able to scan the written report, convert it to PDF, and send it."}]}

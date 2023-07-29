@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公社債","p":true}],"r_ele":[{"r":"こうしゃさい","p":true}],"sense":[{"gloss":"public bonds","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"俸給","p":true}],"r_ele":[{"r":"ほうきゅう","p":true}],"sense":[{"gloss":"salary (esp. public employees), wages, pay","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑俸給↑↓|ほうきゅう|↓に↑満足↑↓まんぞく↓している。","e":"I am satisfied with my salary."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"サイン会","p":true}],"r_ele":[{"r":"サインかい","p":true}],"sense":[{"gloss":"signing, autograph session","pos":["n"]}]},"kdata":{"会":{"on":["カイ","エ"],"kun":["あ.う","あ.わせる","あつ.まる"],"jlpt":4,"meanings":["meeting","meet","party","association","interview","join"],"freq":4,"comp":[["云","人"]],"d":["絵","桧","脍"],"s":"今,令,合","t":306}},"sdata":[]}

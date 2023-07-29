@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本院","p":true}],"r_ele":[{"r":"ほんいん","p":true}],"sense":[{"gloss":"this institution, the main institution","pos":["n"]}]},"sdata":[]}

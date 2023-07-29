@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"もつ鍋","p":true},{"e":"モツ鍋"}],"r_ele":[{"r":"もつなべ","p":true},{"r":"モツなべ"}],"sense":[{"gloss":"hot pot stew made with offal, vegetables and (often) miso","pos":["n"],"f":["food"],"x":["もつ"]}]},"kdata":{"鍋":{"on":["カ"],"kun":["なべ"],"meanings":["pot","pan","kettle"],"freq":1810,"comp":[["咼","金"]],"jlpt":1,"s":"銅","t":2213}},"sdata":[]}

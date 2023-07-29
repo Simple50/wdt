@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"間仕切り","p":true},{"e":"間じきり"}],"r_ele":[{"r":"まじきり","p":true}],"sense":[{"gloss":"partition between two rooms, room divider, partition wall","pos":["n"]}]},"sdata":[]}

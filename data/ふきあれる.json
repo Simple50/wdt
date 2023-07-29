@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吹き荒れる","p":true},{"e":"吹荒れる"}],"r_ele":[{"r":"ふきあれる","p":true}],"sense":[{"gloss":"to blow violently, to sweep over, to devastate","pos":["v1","vi"]}]},"sdata":[]}

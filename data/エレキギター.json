@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エレキギター","p":true},{"r":"エレキ・ギター"}],"sense":[{"gloss":"electric guitar","pos":["n"],"x":["エレクトリックギター"]}],"m":["col"]},"sdata":[{"j":"↑兄↑↓あに↓は|エレキギター|を↑買↑↓か↓いました。","e":"My brother bought an electric guitar."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンコール","p":true}],"sense":[{"gloss":"encore","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑歌手↑↓かしゅ↓に↑向↑↓む↓かって↑盛↑↓さか↓んな|アンコール|が↑起↑↓お↓こった。","e":"Everyone called out to the singer for an encore."},{"j":"そのピアニストは|アンコール|に↑応↑↓こた↓えて↑２↑↓に↓↑曲↑↓きょく↓↑弾↑↓ひ↓いた。","e":"The pianist played two encores."}]}

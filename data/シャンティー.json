@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シャンティー","p":true}],"sense":[{"gloss":"Chantilly (e.g. lace)","pos":["n"]}]},"sdata":[]}

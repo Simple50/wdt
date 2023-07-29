@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"物販","p":true}],"r_ele":[{"r":"ぶっぱん","p":true}],"sense":[{"gloss":"sale of goods (as opposed to services)","pos":["n"],"x":["物流販売"]}],"m":["abbr"]},"sdata":[{"j":"トムはインターネットで↑物販↑↓|ぶっぱん|↓を↑手掛↑↓てが↓けている。","e":"Tom sells things online."}]}

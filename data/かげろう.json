@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陽炎","p":true}],"r_ele":[{"r":"かげろう","p":true},{"r":"ようえん"}],"sense":[{"gloss":"heat haze, shimmer of hot air","pos":["n"]}]},"sdata":[]}

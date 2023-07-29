@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縮み","p":true}],"r_ele":[{"r":"ちぢみ","p":true}],"sense":[{"gloss":"shrinkage","pos":["n"]},{"gloss":"cotton crepe","pos":["n","adj-no"]}]},"sdata":[]}

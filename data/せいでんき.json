@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"静電気","p":true}],"r_ele":[{"r":"せいでんき","p":true}],"sense":[{"gloss":"static electricity","pos":["n"]}]},"sdata":[]}

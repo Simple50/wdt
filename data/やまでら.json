@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山寺","p":true}],"r_ele":[{"r":"やまでら","p":true}],"sense":[{"gloss":"mountain temple","pos":["n"]}]},"sdata":[]}

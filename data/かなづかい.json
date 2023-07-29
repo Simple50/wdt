@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仮名遣い","p":true},{"e":"仮名遣"},{"e":"かな遣い"},{"e":"かな使い"},{"e":"仮名使い"}],"r_ele":[{"r":"かなづかい","p":true}],"sense":[{"gloss":"kana orthography, syllabary spelling","pos":["n"]}]},"sdata":[]}

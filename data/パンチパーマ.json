@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パンチパーマ","p":true},{"r":"パンチ・パーマ"}],"sense":[{"gloss":"curly men's hairstyle, usu. associated with yakuza or delinquents","pos":["n"],"l":"eng: punch permanent"}]},"sdata":[]}

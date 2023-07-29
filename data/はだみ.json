@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肌身","p":true},{"e":"膚身","i":["rK"]}],"r_ele":[{"r":"はだみ","p":true}],"sense":[{"gloss":"body","pos":["n"],"x":["肌身離さず"]}]},"sdata":[{"j":"↑子供↑↓こども↓の↑頃↑↓ころ↓、↑肌身↑↓|はだみ|↓↑離↑↓はな↓さず↑持↑↓も↓っていたものってありましたか？","e":"Do you have an item that you always carried with you as child?"}]}

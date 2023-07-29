@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セオリー","p":true}],"sense":[{"gloss":"theory","pos":["n"]},{"gloss":"standard procedure, common strategy, established tactics","pos":["n"]}]},"sdata":[]}

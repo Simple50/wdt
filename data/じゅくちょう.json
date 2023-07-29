@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"塾長","p":true}],"r_ele":[{"r":"じゅくちょう","p":true}],"sense":[{"gloss":"principal of a private school","pos":["n"]}]},"sdata":[]}

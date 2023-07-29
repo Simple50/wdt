@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敷き詰める","p":true},{"e":"敷きつめる"},{"e":"敷詰める"}],"r_ele":[{"r":"しきつめる","p":true}],"sense":[{"gloss":"to cover a surface, to spread all over, to blanket, to lay","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コットン","p":true}],"sense":[{"gloss":"cotton","pos":["n"]},{"gloss":"cotton pads (usu. in amenity set), cotton buds","pos":["n"],"m":["abbr"]}]},"sdata":[{"j":"↑２↑↓に↓↑枚↑↓まい↓ほど|コットン|シャツを↑買↑↓か↓いました。","e":"I bought two cotton shirts."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"移り変わる","p":true},{"e":"移り変る"}],"r_ele":[{"r":"うつりかわる","p":true}],"sense":[{"gloss":"to change","pos":["v5r"]}]},"sdata":[]}

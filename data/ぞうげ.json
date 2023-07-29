@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"象牙","p":true}],"r_ele":[{"r":"ぞうげ","p":true}],"sense":[{"gloss":"ivory","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑象牙↑↓|ぞうげ|↓に↑図案↑↓ずあん↓を↑彫↑↓ほ↓った。","e":"He carved designs in ivory."},{"j":"↑彼↑↓かれ↓は↑心臓↑↓しん|ぞう↓↑外科↑↓げ|か↓の↑第一人者↑↓だいいちにんしゃ↓だ。","e":"He is the foremost authority on heart surgery."}]}

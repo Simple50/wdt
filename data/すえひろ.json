@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"末広","p":true}],"r_ele":[{"r":"すえひろ","p":true}],"sense":[{"gloss":"spreading out like an open fan","pos":["n"]},{"gloss":"becoming prosperous","pos":["n"]},{"gloss":"folding fan, ceremonial folding fan","pos":["n"]}]},"sdata":[{"j":"↑火↑↓ひ↓は↑末広↑↓|すえひろ|↓がりに↑大↑↓おお↓きくなった。","e":"The fire spread out in a fan-shape."}]}

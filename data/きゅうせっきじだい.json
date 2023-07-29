@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旧石器時代","p":true}],"r_ele":[{"r":"きゅうせっきじだい","p":true}],"sense":[{"gloss":"Paleolithic, Palaeolithic, Old Stone Age","pos":["n"]}]},"sdata":[]}

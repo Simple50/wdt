@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"舞台監督","p":true}],"r_ele":[{"r":"ぶたいかんとく","p":true}],"sense":[{"gloss":"stage director","pos":["n"]}]},"sdata":[]}

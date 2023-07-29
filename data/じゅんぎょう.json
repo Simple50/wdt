@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巡業","p":true}],"r_ele":[{"r":"じゅんぎょう","p":true}],"sense":[{"gloss":"provincial tour","pos":["n","vs","vi"]}]},"sdata":[]}

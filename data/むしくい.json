@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虫食い","p":true},{"e":"虫喰い"}],"r_ele":[{"r":"むしくい","p":true},{"r":"ムシクイ"}],"sense":[{"gloss":"worm-eaten, moth-eaten","pos":["adj-no"]},{"gloss":"holes eaten in clothing, leaves, etc. by caterpillars, moths, etc.","pos":["n"]},{"gloss":"leaf warbler (any bird of genus Phylloscopus), chiffchaff, willow wren","pos":["n"],"m":["uk"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生鮮食料品","p":true}],"r_ele":[{"r":"せいせんしょくりょうひん","p":true}],"sense":[{"gloss":"perishable food, perishables","pos":["n"]}]},"sdata":[{"j":"このトラックは↑青森↑↓あおもり↓から↑東京↑↓とうきょう↓まで↑生鮮↑↓|せいせん↓↑食料↑↓しょくりょう↓↑品↑↓ひん|↓を↑運↑↓はこ↓ぶ。","e":"This truck transports fresh food from Aomori to Tokyo."}]}

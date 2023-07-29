@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"座敷","p":true},{"e":"坐敷","i":["iK"]}],"r_ele":[{"r":"ざしき","p":true}],"sense":[{"gloss":"tatami room, tatami mat room, formal Japanese room","pos":["n"]},{"gloss":"dinner party in a tatami room (esp. when a geisha or maiko attends)","pos":["n"]}]},"sdata":[]}

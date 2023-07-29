@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"求心力","p":true}],"r_ele":[{"r":"きゅうしんりょく","p":true}],"sense":[{"gloss":"centripetal force","pos":["n"],"f":["physics"],"x":["向心力"]},{"gloss":"unifying force, cohesive power","pos":["n"]}]},"sdata":[]}

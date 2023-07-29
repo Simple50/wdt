@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大回転","p":true}],"r_ele":[{"r":"だいかいてん","p":true}],"sense":[{"gloss":"giant slalom","pos":["n"],"f":["ski"],"m":["abbr"],"x":["大回転競技"]},{"gloss":"big rotation","pos":["n","vs","vi"]}]},"sdata":[]}

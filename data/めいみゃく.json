@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"命脈","p":true}],"r_ele":[{"r":"めいみゃく","p":true}],"sense":[{"gloss":"life, thread of life","pos":["n"]}]},"sdata":[]}

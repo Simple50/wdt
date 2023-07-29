@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国大","p":true}],"r_ele":[{"r":"こくだい","p":true}],"sense":[{"gloss":"national university","pos":["n"]}]},"sdata":[{"j":"↑広告↑↓こう|こく↓↑代理↑↓だい|り↓↑店↑↓てん↓はこの↑仕事↑↓しごと↓にかなり↑入↑↓い↓れこんでいます。","e":"The ad agency has a lot riding on this account."},{"j":"トムは↑広告↑↓こう|こく↓↑代理↑↓だい|り↓↑店↑↓てん↓を↑立↑↓た↓ち↑上↑↓あ↓げた。","e":"Tom started an advertising agency."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セルロイド","p":true}],"sense":[{"gloss":"celluloid","pos":["n"]}]},"sdata":[]}

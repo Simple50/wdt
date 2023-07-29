@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流れ出る","p":true}],"r_ele":[{"r":"ながれでる","p":true}],"sense":[{"gloss":"to flow out, to stream out, to pour out, to gush forth, to leak, to ooze out, to drift away","pos":["v1"]}]},"sdata":[{"j":"ひもを↑引↑↓ひ↓けば↑水↑↓みず↓が↑流↑↓|なが↓れ↑出↑↓で↓る|。","e":"Pull the string and the water flushes."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レインボーフィッシュ","p":true},{"r":"レインボー・フィッシュ"}],"sense":[{"gloss":"rainbow fish","pos":["n"]}]},"sdata":[]}

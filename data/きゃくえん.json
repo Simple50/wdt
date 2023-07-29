@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"客演","p":true}],"r_ele":[{"r":"きゃくえん","p":true}],"sense":[{"gloss":"guest appearance","pos":["n","vs","vi"]}]},"sdata":[]}

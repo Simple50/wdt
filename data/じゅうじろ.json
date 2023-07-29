@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"十字路","p":true}],"r_ele":[{"r":"じゅうじろ","p":true}],"sense":[{"gloss":"crossroads, intersection","pos":["n"]}]},"sdata":[{"j":"その↑十字路↑↓|じゅうじろ|↓に↑着↑↓つ↓いた↑時↑↓とき↓タクシーはスピードを↑落↑↓お↓とした。","e":"When we came to the crossroads our cab slowed down."},{"j":"その↑事故↑↓じこ↓はある↑十字路↑↓|じゅうじろ|↓で↑起↑↓お↓こった。","e":"The accident happened at a crossroads."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"核燃料","p":true}],"r_ele":[{"r":"かくねんりょう","p":true}],"sense":[{"gloss":"nuclear fuel","pos":["n"]}]},"sdata":[]}

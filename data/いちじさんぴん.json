@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一次産品","p":true}],"r_ele":[{"r":"いちじさんぴん","p":true}],"sense":[{"gloss":"primary products","pos":["n"]}]},"sdata":[]}

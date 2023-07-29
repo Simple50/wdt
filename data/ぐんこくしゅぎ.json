@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍国主義","p":true}],"r_ele":[{"r":"ぐんこくしゅぎ","p":true}],"sense":[{"gloss":"militarism","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リュージュ","p":true}],"sense":[{"gloss":"luge, sledge, toboggan","pos":["n"],"l":"fre"}]},"sdata":[]}

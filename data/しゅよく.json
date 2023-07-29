@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主翼","p":true}],"r_ele":[{"r":"しゅよく","p":true}],"sense":[{"gloss":"main wings (of an aeroplane, airplane)","pos":["n"]}]},"sdata":[]}

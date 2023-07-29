@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄板","p":true}],"r_ele":[{"r":"てっぱん","p":true},{"r":"テッパン"}],"sense":[{"gloss":"iron plate, steel plane","pos":["n"]},{"gloss":"sure thing, certain winner","pos":["n"],"m":["col"]}]},"sdata":[{"j":"↑鉄板焼↑↓|てっぱん|や↓きを↑食↑↓た↓べたことがありますか？","e":"Have you ever eaten teppanyaki?"},{"j":"↑鉄板焼↑↓|てっぱん|や↓きって↑食↑↓た↓べたことある？","e":"Have you ever eaten teppanyaki?"}]}

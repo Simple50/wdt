@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農学","p":true}],"r_ele":[{"r":"のうがく","p":true}],"sense":[{"gloss":"(science of) agriculture","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑能楽↑↓|のうがく|↓が↑歌舞伎↑↓かぶき↓より↑好↑↓す↓きだが、それは↑前者↑↓ぜんしゃ↓が↑後者↑↓こうしゃ↓よりも↑優雅↑↓ゆうが↓に↑思↑↓おも↓えるからである。","e":"I prefer Noh to Kabuki, because the former looks more elegant to me than the latter."}]}

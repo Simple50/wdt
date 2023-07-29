@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイレベル","p":true}],"sense":[{"gloss":"high-level","pos":["adj-na","n"]}]},"sdata":[]}

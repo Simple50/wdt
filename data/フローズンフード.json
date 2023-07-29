@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フローズンフード","p":true},{"r":"フローズン・フード"}],"sense":[{"gloss":"frozen food","pos":["n"]}]},"sdata":[]}

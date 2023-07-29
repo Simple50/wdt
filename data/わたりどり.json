@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"渡り鳥","p":true}],"r_ele":[{"r":"わたりどり","p":true}],"sense":[{"gloss":"migratory bird, bird of passage","pos":["n"]}]},"sdata":[{"j":"この↑池↑↓いけ↓には、↑毎年↑↓まいとし↓↑冬↑↓ふゆ↓になるとたくさんの↑渡↑↓|わた↓り↑鳥↑↓どり|↓がやってきます。","e":"Many migratory birds come to this pond every year in winter."}]}

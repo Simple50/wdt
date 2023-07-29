@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"感慨無量","p":true}],"r_ele":[{"r":"かんがいむりょう","p":true}],"sense":[{"gloss":"deep emotion, being filled with emotion","pos":["n","adj-no","adj-na"]}],"m":["yoji"]},"sdata":[]}

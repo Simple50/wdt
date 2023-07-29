@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不心得","p":true}],"r_ele":[{"r":"ふこころえ","p":true}],"sense":[{"gloss":"indiscretion, imprudence, rudeness, misbehavior, misconduct, misdeed, immorality","pos":["n","adj-na"]}]},"sdata":[]}

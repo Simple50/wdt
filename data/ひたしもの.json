@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浸し物","p":true}],"r_ele":[{"r":"ひたしもの","p":true}],"sense":[{"gloss":"boiled greens flavored with soy (flavoured)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"知育","p":true}],"r_ele":[{"r":"ちいく","p":true}],"sense":[{"gloss":"intellectual training","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは１↑日↑↓に|ち↓いく|らでレンタカーを↑借↑↓か↓りた。","e":"We hired a rent-a-car by the day."},{"j":"↑8↑↓はち↓↑時↑↓じ↓にお↑前↑↓まえ↓ん|ち↑行↑↓い↓く|から。","e":"I will be at your house at eight."}]}

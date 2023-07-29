@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煩忙","p":true},{"e":"繁忙","p":true}],"r_ele":[{"r":"はんぼう","p":true}],"sense":[{"gloss":"pressure of business, busy","pos":["adj-na","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通信販売","p":true}],"r_ele":[{"r":"つうしんはんばい","p":true}],"sense":[{"gloss":"online shopping service (with delivery by mail), mail order, mail-order sales, shop-by-mail service","pos":["n"]}]},"sdata":[{"j":"↑通信↑↓|つうしん↓↑販売↑↓はんばい|↓がダイレクト・マーケティングの↑主↑↓おも↓な↑形態↑↓けいたい↓である。","e":"Mail order is the main form of direct marketing."}]}

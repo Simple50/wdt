@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"業師","p":true}],"r_ele":[{"r":"わざし","p":true}],"sense":[{"gloss":"tricky wrestler, shrewd fellow","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑忙↑↓いそが↓しかったが、わざ|わざ↑市内↑↓し|ない↓を↑案内↑↓あんない↓した。","e":"He was busy, but he took the time to show me around the city."}]}

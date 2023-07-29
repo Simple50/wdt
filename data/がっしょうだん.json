@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合唱団","p":true}],"r_ele":[{"r":"がっしょうだん","p":true}],"sense":[{"gloss":"chorus group, choir","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑海外↑↓かいがい↓の↑合唱↑↓|がっしょう↓↑団↑↓だん|↓で↑歌↑↓うた↓わないかと↑誘↑↓さそ↓われています。","e":"She has been invited to sing in a choir in a foreign country."},{"j":"↑合唱↑↓|がっしょう↓↑団↑↓だん|↓に↑入↑↓はい↓るつもりなの？","e":"Are you going to join the glee club?"}]}

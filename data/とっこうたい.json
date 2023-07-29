@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特攻隊","p":true}],"r_ele":[{"r":"とっこうたい","p":true}],"sense":[{"gloss":"special attack unit, kamikaze unit, suicide squad","pos":["n"],"x":["特別攻撃隊"]}]},"sdata":[]}

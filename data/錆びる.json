@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"錆びる","p":true}],"r_ele":[{"r":"さびる","p":true}],"sense":[{"gloss":"to rust, to become rusty","pos":["v1","vi"]}]},"kdata":{"錆":{"on":["ショウ","セイ"],"kun":["さび","くわ.しい"],"meanings":["rust","tarnish"],"comp":[["青","金"]],"jlpt":0,"freq":2873}},"sdata":[{"j":"↑休↑↓やす↓みすぎは|↑錆↑↓さ↓びる|。","e":"Too much rest is rust."}]}

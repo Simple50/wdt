@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待たす","p":true}],"r_ele":[{"r":"またす","p":true}],"sense":[{"gloss":"to keep (a person) waiting","pos":["v5s","vt"],"x":["待たせる・またせる"]}]},"kdata":{"待":{"on":["タイ"],"kun":["ま.つ","-ま.ち"],"jlpt":4,"meanings":["wait","depend on"],"freq":391,"comp":[["寺","彳"]],"s":"侍,持","t":859}},"sdata":[]}

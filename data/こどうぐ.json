@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小道具","p":true}],"r_ele":[{"r":"こどうぐ","p":true}],"sense":[{"gloss":"small tool, gadget","pos":["n"]},{"gloss":"(stage) properties, prop","pos":["n"]},{"gloss":"prop master","pos":["n"],"m":["abbr"],"x":["小道具方"]}]},"sdata":[{"j":"これらの↑小道具↑↓|こどうぐ|↓は↑役↑↓やく↓に↑立↑↓た↓ちそうにない。","e":"These gadgets seem to be of no use."}]}

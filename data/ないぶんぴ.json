@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内分泌","p":true}],"r_ele":[{"r":"ないぶんぴつ"},{"r":"ないぶんぴ","p":true}],"sense":[{"gloss":"endocrine","pos":["n","adj-f"],"f":["med","biol"]},{"gloss":"incretion, internal secretion","pos":["n"],"f":["med","biol"]}]},"sdata":[]}

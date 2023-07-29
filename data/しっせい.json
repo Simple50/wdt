@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"失政","p":true}],"r_ele":[{"r":"しっせい","p":true}],"sense":[{"gloss":"misgovernment","pos":["n"]}]},"sdata":[]}

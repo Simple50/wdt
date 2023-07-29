@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テーゼ","p":true}],"sense":[{"gloss":"statement, thesis","pos":["n"],"l":"ger: These"}]},"sdata":[{"j":"↑極端↑↓きょくたん↓に↑言↑↓い↓うと、↑彼↑↓かれ↓は、↑自己↑↓じこ↓の|テーゼ|に↑完全↑↓かんぜん↓に↑自信↑↓じしん↓を↑持↑↓も↓っているものが↑発揮↑↓はっき↓できる↑虚心坦懐↑↓きょしんたんかい↓さで↑書↑↓か↓いてはいないのである。","e":"He does not, in short, write with the candor of a man who is completely confident of his thesis."}]}

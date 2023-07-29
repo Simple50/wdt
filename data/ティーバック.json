@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"Ｔバック","p":true}],"r_ele":[{"r":"ティーバック","p":true}],"sense":[{"gloss":"T-back, bikini thong","pos":["n"]}]},"sdata":[]}

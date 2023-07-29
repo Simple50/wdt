@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中軸","p":true}],"r_ele":[{"r":"ちゅうじく","p":true}],"sense":[{"gloss":"axis, pivot, central figure, key man","pos":["n"]}]},"sdata":[]}

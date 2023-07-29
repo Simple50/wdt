@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入来","p":true}],"r_ele":[{"r":"にゅうらい","p":true}],"sense":[{"gloss":"august visit, arrival","pos":["n","vs","vi"]}]},"sdata":[]}

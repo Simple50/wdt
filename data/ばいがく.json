@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"倍額","p":true}],"r_ele":[{"r":"ばいがく","p":true}],"sense":[{"gloss":"double amount","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓はその↑古本↑↓ふるほん↓に↑倍額↑↓|ばいがく|↓を↑払↑↓はら↓った。","e":"I paid double the price for the secondhand book."}]}

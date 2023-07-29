@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"呪う","p":true},{"e":"詛う"}],"r_ele":[{"r":"のろう","p":true}],"sense":[{"gloss":"to curse, to put a curse on, to detest intensely","pos":["v5u","vt"]}]},"kdata":{"呪":{"on":["ジュ","シュ","シュウ","ズ"],"kun":["まじな.う","のろ.い","まじな.い","のろ.う"],"meanings":["curse","spell","charm","malediction"],"freq":2131,"comp":[["兄","口"]],"jlpt":1,"t":789}},"sdata":[]}

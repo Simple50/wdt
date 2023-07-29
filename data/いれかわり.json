@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入れ替わり","p":true},{"e":"入れ代わり"},{"e":"入れ替り"},{"e":"入れ代り"}],"r_ele":[{"r":"いれかわり","p":true}],"sense":[{"gloss":"substitution, replacement, shifting, change","pos":["n"]}]},"sdata":[{"j":"↑最近↑↓さいきん↓、↑社員↑↓しゃいん↓の↑入↑↓|い↓れ↑替↑↓か↓わり|が↑激↑↓はげ↓しくないですか。","e":"The turnover at my company is really speeding up lately."}]}

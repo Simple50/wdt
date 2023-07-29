@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"損害保険","p":true}],"r_ele":[{"r":"そんがいほけん","p":true}],"sense":[{"gloss":"damage insurance","pos":["n"]}]},"sdata":[]}

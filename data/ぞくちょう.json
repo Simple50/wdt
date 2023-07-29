@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"族長","p":true}],"r_ele":[{"r":"ぞくちょう","p":true}],"sense":[{"gloss":"patriarch, head of a family","pos":["n","adj-no"]}]},"sdata":[]}

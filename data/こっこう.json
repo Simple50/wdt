@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国交","p":true}],"r_ele":[{"r":"こっこう","p":true}],"sense":[{"gloss":"diplomatic relations","pos":["n"]}]},"sdata":[{"j":"それ↑以来↑↓いらい↓カナダとイランの↑国交↑↓|こっこう|↓は↑断絶↑↓だんぜつ↓している。","e":"Since then, diplomatic relations between Canada and Iran have been suspended."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蹄","p":true}],"r_ele":[{"r":"ひづめ","p":true}],"sense":[{"gloss":"hoof","pos":["n"]}],"m":["uk"]},"sdata":[]}

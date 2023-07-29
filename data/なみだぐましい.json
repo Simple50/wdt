@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"涙ぐましい","p":true}],"r_ele":[{"r":"なみだぐましい","p":true}],"sense":[{"gloss":"touching, moving, painful","pos":["adj-i"]}]},"sdata":[{"j":"うちの↑子供↑↓こども↓↑達↑↓たち↓は↑早↑↓はや↓く↑起↑↓お↓きるようにと↑涙↑↓|なみだ↓ぐましい|↑努力↑↓どりょく↓をしている。","e":"My children make pathetically sincere efforts to get up early."}]}

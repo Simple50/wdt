@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チャート","p":true}],"sense":[{"gloss":"chart","pos":["n"]}]},"sdata":[{"j":"この↑歌↑↓うた↓はヒット|チャート|の↑第↑↓だい↓１↑位↑↓い↓にランクされています。","e":"This song is No. 1 on the hit chart."}]}

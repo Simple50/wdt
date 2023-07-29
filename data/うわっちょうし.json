@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上っ調子","p":true}],"r_ele":[{"r":"うわっちょうし","p":true}],"sense":[{"gloss":"flippant, frivolous, shallow","pos":["adj-na","n"]}]},"sdata":[]}

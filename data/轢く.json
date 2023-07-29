@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"轢く","p":true}],"r_ele":[{"r":"ひく","p":true}],"sense":[{"gloss":"to run over (with a vehicle), to knock down","pos":["v5k","vt"]}],"m":["uk"]},"kdata":{"轢":{"on":["レキ"],"kun":["ひ.く","きし.る"],"meanings":["run over"],"comp":[["車","樂"]],"jlpt":-1,"freq":2851}},"sdata":[]}

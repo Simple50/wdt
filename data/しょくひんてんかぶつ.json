@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"食品添加物","p":true}],"r_ele":[{"r":"しょくひんてんかぶつ","p":true}],"sense":[{"gloss":"food additive","pos":["n"]}]},"sdata":[]}

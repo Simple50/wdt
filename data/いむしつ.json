@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"医務室","p":true}],"r_ele":[{"r":"いむしつ","p":true}],"sense":[{"gloss":"doctor's office, medical office, sickbay","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細長い","p":true}],"r_ele":[{"r":"ほそながい","p":true}],"sense":[{"gloss":"long and narrow","pos":["adj-i"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウィンドサーフィン"},{"r":"ウインドサーフィン","p":true}],"sense":[{"gloss":"windsurfing","pos":["n"]}]},"sdata":[]}

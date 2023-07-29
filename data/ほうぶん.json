@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"法文","p":true}],"r_ele":[{"r":"ほうぶん","p":true}],"sense":[{"gloss":"text of the law","pos":["n"]}]},"sdata":[]}

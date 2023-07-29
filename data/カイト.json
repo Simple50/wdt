@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カイト","p":true}],"sense":[{"gloss":"kite","pos":["n"]}]},"sdata":[{"j":"トムが|カイト|を↑作↑↓つく↓ったんだ。","e":"Tom built a kite."}]}

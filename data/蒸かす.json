@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蒸かす","p":true},{"e":"蒸す","i":["io"]}],"r_ele":[{"r":"ふかす","p":true}],"sense":[{"gloss":"to steam (food)","pos":["v5s","vt"],"x":["蒸す・むす・1"]}]},"kdata":{"蒸":{"on":["ジョウ","セイ"],"kun":["む.す","む.れる","む.らす"],"jlpt":2,"meanings":["steam","heat","sultry","foment","get musty"],"freq":1552,"comp":[["烝","艹"]],"t":1773}},"sdata":[]}

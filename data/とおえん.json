@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遠縁","p":true}],"r_ele":[{"r":"とおえん","p":true}],"sense":[{"gloss":"distant relative","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書き換える","p":true},{"e":"書換える"},{"e":"書き替える"},{"e":"書きかえる"}],"r_ele":[{"r":"かきかえる","p":true}],"sense":[{"gloss":"to rewrite, to overwrite, to renew, to transfer","pos":["v1","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓に↑証書↑↓しょうしょ↓を↑書↑↓|か↓き↑換↑↓か↓える|よう↑要求↑↓ようきゅう↓した。","e":"He asked me to renew the bond."}]}

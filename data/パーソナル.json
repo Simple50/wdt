@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パーソナル","p":true}],"sense":[{"gloss":"personal","pos":["adj-na","n"]}]},"sdata":[{"j":"どこへ↑行↑↓い↓けば、|パーソナル|チェックを↑現金↑↓げんきん↓に↑換↑↓か↓えてもらえますか。","e":"Where can I cash this personal check?"}]}

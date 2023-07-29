@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エキュメニズム","p":true}],"sense":[{"gloss":"ecumenism","pos":["n"]}]},"sdata":[]}

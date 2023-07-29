@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前哨戦","p":true}],"r_ele":[{"r":"ぜんしょうせん","p":true}],"sense":[{"gloss":"(preliminary) skirmish","pos":["n"]},{"gloss":"prelude, preliminary encounter, warm-up match (e.g. before a final)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浴客","p":true}],"r_ele":[{"r":"よっきゃく","p":true},{"r":"よっかく"}],"sense":[{"gloss":"bather, (hot springs resort) guest","pos":["n"]}]},"sdata":[]}

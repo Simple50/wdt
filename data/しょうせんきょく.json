@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小選挙区","p":true}],"r_ele":[{"r":"しょうせんきょく","p":true}],"sense":[{"gloss":"small electoral district, single-member constituency","pos":["n"]}]},"sdata":[]}

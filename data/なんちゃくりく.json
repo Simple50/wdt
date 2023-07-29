@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軟着陸","p":true}],"r_ele":[{"r":"なんちゃくりく","p":true}],"sense":[{"gloss":"soft landing","pos":["n","vs","vi"]}]},"sdata":[]}

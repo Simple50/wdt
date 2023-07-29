@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"長文","p":true}],"r_ele":[{"r":"ちょうぶん","p":true}],"sense":[{"gloss":"long sentence","pos":["n"]},{"gloss":"long piece of writing (e.g. passage, letter, article, telegram)","pos":["n","adj-no"]}]},"sdata":[]}

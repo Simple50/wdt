@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仕事始め","p":true},{"e":"仕事始","i":["io"]}],"r_ele":[{"r":"しごとはじめ","p":true}],"sense":[{"gloss":"resuming work after the New Year's vacation, first time that one works in the year","pos":["n"]}]},"sdata":[]}

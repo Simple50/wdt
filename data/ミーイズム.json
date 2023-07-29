@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミーイズム","p":true}],"sense":[{"gloss":"me-ism","pos":["n"]}]},"sdata":[]}

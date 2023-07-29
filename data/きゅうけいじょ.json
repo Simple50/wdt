@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"休憩所","p":true}],"r_ele":[{"r":"きゅうけいじょ","p":true}],"sense":[{"gloss":"rest area, rest stop, service area (next to a highway), service station, parking area","pos":["n"]}]},"sdata":[]}

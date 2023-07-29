@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"踏み台","p":true},{"e":"踏台"}],"r_ele":[{"r":"ふみだい","p":true}],"sense":[{"gloss":"stool (stood on to reach high objects), small stepladder","pos":["n"]},{"gloss":"stepping stone","pos":["n"]}]},"sdata":[{"j":"この↑踏台↑↓|ふみだい|↓を↑使↑↓つか↓えばクローゼットの↑上↑↓じょう↓に↑手↑↓て↓が↑届↑↓とど↓くよ。","e":"If you stand on this stool, you can reach the top of the closet."}]}

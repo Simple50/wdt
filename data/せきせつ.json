@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積雪","p":true}],"r_ele":[{"r":"せきせつ","p":true}],"sense":[{"gloss":"fallen snow, snow cover","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑積雪↑↓|せきせつ|↓の↑影響↑↓えいきょう↓で↑配達↑↓はいたつ↓に↑遅↑↓おく↓れが↑生↑↓しょう↓じている。","e":"Delays in deliveries are occurring due to accumulated snow."},{"j":"↑記録↑↓きろく↓↑的↑↓てき↓↑積雪↑↓|せきせつ|↓を↑観測↑↓かんそく↓している。","e":"We're seeing record amounts of snow."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行政書士","p":true}],"r_ele":[{"r":"ぎょうせいしょし","p":true}],"sense":[{"gloss":"administrative scrivener, notary public, paralegal qualified to prepare legal documents on administrative matters, e.g. immigration","pos":["n"]}]},"sdata":[]}

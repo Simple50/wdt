@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国会議事堂","p":true}],"r_ele":[{"r":"こっかいぎじどう","p":true}],"sense":[{"gloss":"parliament building, parliament house, National Diet Building (Japan), (US) Capitol, Houses of Parliament, National Assembly building","pos":["n"]}]},"sdata":[]}

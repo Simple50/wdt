@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"資材","p":true}],"r_ele":[{"r":"しざい","p":true}],"sense":[{"gloss":"(raw) material","pos":["n"]}]},"sdata":[{"j":"↑建築↑↓けんちく↓↑資材↑↓|しざい|↓は↑今↑↓いま↓↑高↑↓たか↓い。","e":"Building materials are expensive now."},{"j":"↑浩↑↓ひろ|し↓↑材↑↓ざい|↓はどうしてよいか↑途方↑↓とほう↓にくれていた。","e":"Hiroki was at a loss what to do."}]}

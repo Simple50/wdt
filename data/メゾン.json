@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メゾン","p":true}],"sense":[{"gloss":"house","pos":["n"],"l":"fre: maison"}]},"sdata":[]}

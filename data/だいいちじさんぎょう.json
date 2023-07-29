@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"第一次産業","p":true}],"r_ele":[{"r":"だいいちじさんぎょう","p":true}],"sense":[{"gloss":"primary industry","pos":["n"]}]},"sdata":[]}

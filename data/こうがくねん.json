@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高学年","p":true}],"r_ele":[{"r":"こうがくねん","p":true}],"sense":[{"gloss":"upper grades of primary school (sixth, fifth, and sometimes fourth grades)","pos":["n"],"x":["低学年","中学年"]}]},"sdata":[]}

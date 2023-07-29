@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地酒","p":true}],"r_ele":[{"r":"じざけ","p":true}],"sense":[{"gloss":"local sake","pos":["n"]}]},"sdata":[{"j":"↑旅↑↓たび↓に↑出↑↓で↓たら↑地酒↑↓|じざけ|↓を↑飲↑↓の↓まなきゃ。","e":"When you travel, you've got to try the local brew."}]}

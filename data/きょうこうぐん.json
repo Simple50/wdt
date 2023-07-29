@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強行軍","p":true},{"e":"強硬軍","i":["iK"]}],"r_ele":[{"r":"きょうこうぐん","p":true}],"sense":[{"gloss":"forced march","pos":["n"]},{"gloss":"doing something on a very strict schedule","pos":["n"]}]},"sdata":[]}

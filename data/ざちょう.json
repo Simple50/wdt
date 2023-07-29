@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"座長","p":true}],"r_ele":[{"r":"ざちょう","p":true}],"sense":[{"gloss":"chairman","pos":["n"]},{"gloss":"leader of a troupe, proprietor of a theatrical company","pos":["n"]}]},"sdata":[]}

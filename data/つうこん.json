@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"痛恨","p":true}],"r_ele":[{"r":"つうこん","p":true}],"sense":[{"gloss":"deep regret, great sorrow, bitter grief","pos":["n","adj-no"]}]},"sdata":[{"j":"↑交通↑↓こう|つう↓↑混雑↑↓こん|ざつ↓を↑避↑↓さ↓けるために、クリスマスには↑家↑↓いえ↓にいた。","e":"We stayed home for Christmas, so as to avoid heavy traffic."}]}

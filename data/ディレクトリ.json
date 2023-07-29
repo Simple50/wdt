@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ディレクトリ","p":true},{"r":"ディレクトリー"},{"r":"ディレクトリィ"}],"sense":[{"gloss":"directory, folder","pos":["n"],"f":["comp"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"側室","p":true}],"r_ele":[{"r":"そくしつ","p":true}],"sense":[{"gloss":"concubine (of a noble)","pos":["n"],"x":["正室・1"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑資金↑↓しきん↓が↑不足↑↓ふ|そく↓しつ|つある。","e":"He is running short of funds."}]}

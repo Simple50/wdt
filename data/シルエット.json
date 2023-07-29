@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シルエット","p":true}],"sense":[{"gloss":"silhouette","pos":["n"],"l":"fre"}]},"sdata":[{"j":"この↑服↑↓ふく↓の|シルエット|が↑気↑↓き↓に↑入↑↓い↓ってるの。","e":"I like the silhouette these clothes give me."},{"j":"お↑客↑↓きゃく↓さま、そちらのドレスはすとんとした|シルエット|がとても↑上品↑↓じょうひん↓で↑素敵↑↓すてき↓なんです。","e":"Miss, that dress is splendid, it has a sheer silhouette and is very classy."}]}

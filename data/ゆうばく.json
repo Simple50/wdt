@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"誘爆","p":true}],"r_ele":[{"r":"ゆうばく","p":true}],"sense":[{"gloss":"induced explosion, secondary explosion","pos":["n","vs","vi"]}]},"sdata":[]}

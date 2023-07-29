@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"春めく","p":true}],"r_ele":[{"r":"はるめく","p":true}],"sense":[{"gloss":"to become spring-like, to show signs of spring","pos":["v5k","vi"]}]},"kdata":{"春":{"on":["シュン"],"kun":["はる"],"jlpt":4,"meanings":["springtime","spring (season)"],"freq":579,"comp":[["日","𡗗"]],"d":["椿","蠢","鰆","賰","偆","惷","媋","暙","瑃","箺","踳","𨩃"],"s":"著,着","t":881}},"sdata":[]}

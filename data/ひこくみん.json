@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"非国民","p":true}],"r_ele":[{"r":"ひこくみん","p":true}],"sense":[{"gloss":"unpatriotic person, traitor (to one's country)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"着信","p":true}],"r_ele":[{"r":"ちゃくしん","p":true}],"sense":[{"gloss":"arrival (of post, news, correspondence, etc.), receiving (a phone call, email, etc.)","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓のお↑金↑↓かね↓への↑執着心↑↓しゅう|ちゃくしん|↓には↑際限↑↓さいげん↓がない。","e":"Her love of money is without bounds."}]}

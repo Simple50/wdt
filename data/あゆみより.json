@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歩み寄り","p":true}],"r_ele":[{"r":"あゆみより","p":true}],"sense":[{"gloss":"compromise, concession","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑車庫↑↓しゃこ↓から↑出↑↓で↓て、トラックに↑歩↑↓|あゆ↓みより|、↑訊↑↓き↓いた。","e":"I came out of the garage and walked to the truck."}]}

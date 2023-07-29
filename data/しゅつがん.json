@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出願","p":true}],"r_ele":[{"r":"しゅつがん","p":true}],"sense":[{"gloss":"application, filing an application","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑１↑↓ひと↓つ↑１↑↓ひと↓つの↑出願↑↓|しゅつがん|↓を１↑件↑↓けん↓ずつ↑考慮↑↓こうりょ↓しなければならないだろう。","e":"We will have to consider each application on a case-by-case basis."}]}

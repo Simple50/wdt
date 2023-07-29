@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アルデヒド","p":true}],"sense":[{"gloss":"aldehyde","pos":["n"]}]},"sdata":[{"j":"アルコールが↑酸化↑↓さんか↓すると|アルデヒド|となりますが、|アルデヒド|が↑酸化↑↓さんか↓するとどうなりますか。","e":"If you oxidise an alcohol you get an aldehyde but what do you get if you oxidise an aldehyde?"}]}

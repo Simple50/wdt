@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"低落","p":true}],"r_ele":[{"r":"ていらく","p":true}],"sense":[{"gloss":"fall, decline, slump","pos":["n","vs","vi"]}]},"sdata":[{"j":"ドルの↑価値↑↓かち↓は↑最近↑↓さいきん↓↑低落↑↓|ていらく|↓した。","e":"The value of the dollar has fallen recently."}]}

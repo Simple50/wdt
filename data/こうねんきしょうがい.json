@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"更年期障害","p":true}],"r_ele":[{"r":"こうねんきしょうがい","p":true}],"sense":[{"gloss":"menopausal disorders","pos":["n"]}]},"sdata":[{"j":"↑更年期↑↓|こうねんき↓↑障害↑↓しょうがい|↓があります。","e":"I have menopausal troubles."}]}

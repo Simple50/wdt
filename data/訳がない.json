@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"訳がない","p":true},{"e":"わけが無い"},{"e":"訳が無い"}],"r_ele":[{"r":"わけがない","p":true}],"sense":[{"gloss":"there is no way that ...","pos":["exp"]},{"gloss":"easy, simple","pos":["exp","adj-i"]}],"m":["uk"]},"kdata":{"訳":{"on":["ヤク"],"kun":["わけ"],"jlpt":1,"meanings":["translate","reason","circumstance","case"],"freq":1050,"comp":[["言","尺"]],"t":1387}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"張り上げる","p":true},{"e":"張りあげる"}],"r_ele":[{"r":"はりあげる","p":true}],"sense":[{"gloss":"to raise (one's voice)","pos":["v1","vt"]}]},"sdata":[{"j":"↑声↑↓こえ↓を↑張↑↓|は↓り↑上↑↓あ↓げる|のはやめてください。","e":"Please don't raise your voice at me."}]}

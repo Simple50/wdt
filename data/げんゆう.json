@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"現有","p":true}],"r_ele":[{"r":"げんゆう","p":true}],"sense":[{"gloss":"present, existing","pos":["adj-no","n","vs","vt"]}]},"sdata":[]}

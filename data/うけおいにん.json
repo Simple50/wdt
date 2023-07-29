@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"請負人","p":true}],"r_ele":[{"r":"うけおいにん","p":true}],"sense":[{"gloss":"contractor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"懐かしむ","p":true}],"r_ele":[{"r":"なつかしむ","p":true}],"sense":[{"gloss":"to yearn for (someone, something), to miss","pos":["v5m","vt"]}]},"sdata":[{"j":"この↑歌↑↓うた↓を↑聞↑↓き↓いたら、あなたについて↑思↑↓おも↓って、↑懐↑↓|なつ↓かしむ|んだ。","e":"When I hear this song, I think of you, and miss you."}]}

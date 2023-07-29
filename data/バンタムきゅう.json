@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"バンタム級","p":true}],"r_ele":[{"r":"バンタムきゅう","p":true}],"sense":[{"gloss":"bantam-weight (boxer)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総崩れ","p":true}],"r_ele":[{"r":"そうくずれ","p":true}],"sense":[{"gloss":"rout, collapse","pos":["n"]}]},"sdata":[]}

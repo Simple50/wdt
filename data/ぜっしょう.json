@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絶唱","p":true}],"r_ele":[{"r":"ぜっしょう","p":true}],"sense":[{"gloss":"superb poem or song","pos":["n","vs"]}]},"sdata":[]}

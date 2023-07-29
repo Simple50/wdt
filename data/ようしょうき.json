@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幼少期","p":true}],"r_ele":[{"r":"ようしょうき","p":true}],"sense":[{"gloss":"(early) childhood","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑自分↑↓じぶん↓の↑語学↑↓ごがく↓↑力↑↓りょく↓の↑源↑↓みなもと↓として、↑幼少↑↓|ようしょう↓↑期↑↓き|↓からたくさんの↑競走↑↓きょうそう↓↑馬↑↓ば↓の↑名前↑↓なまえ↓を↑覚↑↓おぼ↓えていたことを↑挙↑↓あ↓げた。","e":"He gave his remembering of race horse names when he was a child as the source of his language ability."}]}

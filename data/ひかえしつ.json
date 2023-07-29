@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"控え室","p":true},{"e":"控室","p":true}],"r_ele":[{"r":"ひかえしつ","p":true}],"sense":[{"gloss":"waiting room, anteroom, antechamber, green room","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リネーム","p":true}],"sense":[{"gloss":"rename","pos":["n","vs"]}]},"sdata":[]}

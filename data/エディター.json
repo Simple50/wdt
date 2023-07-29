@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エディター","p":true},{"r":"エディタ"}],"sense":[{"gloss":"text editor","pos":["n"],"f":["comp"],"m":["abbr"],"x":["テキストエディタ"]},{"gloss":"editor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"禅問答","p":true}],"r_ele":[{"r":"ぜんもんどう","p":true}],"sense":[{"gloss":"Zen dialogue, Zen questions and answers","pos":["n"]}]},"sdata":[]}

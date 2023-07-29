@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"期成同盟","p":true}],"r_ele":[{"r":"きせいどうめい","p":true}],"sense":[{"gloss":"association formed to carry out an objective","pos":["n"]}]},"sdata":[]}

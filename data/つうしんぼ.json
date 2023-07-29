@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通信簿","p":true}],"r_ele":[{"r":"つうしんぼ","p":true}],"sense":[{"gloss":"report card","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑通信↑↓|つうしん↓↑簿↑↓ぼ|↓はオール↑Ａ↑↓えい↓だよ。","e":"He has a straight-A report card."}]}

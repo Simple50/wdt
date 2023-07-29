@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"第一線","p":true}],"r_ele":[{"r":"だいいっせん","p":true}],"sense":[{"gloss":"the front (of a battlefield), forefront","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑今↑↓いま↓も↑第一線↑↓|だいいっせん|↓で↑活躍↑↓かつやく↓している。","e":"She's still active in the front lines."}]}

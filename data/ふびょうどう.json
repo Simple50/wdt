@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不平等","p":true}],"r_ele":[{"r":"ふびょうどう","p":true}],"sense":[{"gloss":"inequality, unfairness","pos":["n","adj-na"]}]},"sdata":[{"j":"↑日本↑↓にほん↓の↑結婚↑↓けっこん↓↑制度↑↓せいど↓は↑男↑↓おとこ↓に↑不利↑↓ふり↓な↑男女↑↓だんじょ↓↑不平等↑↓|ふびょうどう|↓↑条約↑↓じょうやく↓だと↑思↑↓おも↓います。","e":"I think that Japan's marriage system is an unequal and discriminatory contract disadvantageous to men."}]}

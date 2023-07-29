@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雨雲","p":true}],"r_ele":[{"r":"あまぐも","p":true}],"sense":[{"gloss":"rain cloud","pos":["n"]}]},"sdata":[{"j":"↑雨雲↑↓|あまぐも|↓のようだね。","e":"Those look like rain clouds."},{"j":"↑雨雲↑↓|あまぐも|↓が↑出↑↓で↓てるよ。","e":"Those are rain clouds."},{"j":"↑雨雲↑↓|あまぐも|↓がかかってきました。","e":"The rain clouds started to come."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貼り付ける","p":true},{"e":"貼付ける"},{"e":"貼りつける"},{"e":"張り付ける"},{"e":"張りつける"},{"e":"張付ける"}],"r_ele":[{"r":"はりつける","p":true}],"sense":[{"gloss":"to paste, to stick, to affix","pos":["v1","vt"]},{"gloss":"to station, to post","pos":["v1","vt"]}]},"sdata":[]}

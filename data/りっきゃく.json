@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立脚","p":true}],"r_ele":[{"r":"りっきゃく","p":true}],"sense":[{"gloss":"being based on","pos":["n","vs","vi"]}]},"sdata":[]}

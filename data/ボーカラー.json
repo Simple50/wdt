@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボーカラー","p":true},{"r":"ボー・カラー"}],"sense":[{"gloss":"bow collar","pos":["n"]}]},"sdata":[]}

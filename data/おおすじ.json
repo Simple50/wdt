@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大筋","p":true}],"r_ele":[{"r":"おおすじ","p":true}],"sense":[{"gloss":"outline, summary, gist, basic points","pos":["n"]}]},"sdata":[{"j":"その↑計画↑↓けいかく↓に↑大↑↓|おお↓すじ|で↑賛成↑↓さんせい↓していただけませんか。","e":"Would you agree to the plan in principle?"}]}

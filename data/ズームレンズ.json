@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ズームレンズ","p":true},{"r":"ズーム・レンズ"}],"sense":[{"gloss":"zoom lens","pos":["n"]}]},"sdata":[]}

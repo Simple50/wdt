@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公益法人","p":true}],"r_ele":[{"r":"こうえきほうじん","p":true}],"sense":[{"gloss":"public-service corporation, charitable corporation","pos":["n"],"x":["営利法人"]},{"gloss":"juridical (legal) person working for the public good","pos":["n"]}]},"sdata":[]}

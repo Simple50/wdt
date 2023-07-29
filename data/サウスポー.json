@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サウスポー","p":true}],"sense":[{"gloss":"southpaw, left-handed person","pos":["n"],"f":["sports"]}]},"sdata":[]}

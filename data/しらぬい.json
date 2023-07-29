@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不知火","p":true},{"e":"白縫"}],"r_ele":[{"r":"しらぬい","p":true},{"r":"しらぬひ"}],"sense":[{"gloss":"phosphorescent light, mysterious lights on the sea, sea fire","pos":["n"]}]},"sdata":[]}

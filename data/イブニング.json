@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イブニング","p":true},{"r":"イヴニング"}],"sense":[{"gloss":"evening","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はピンクの|イブニング|ドレスを↑着↑↓き↓て↑人目↑↓ひとめ↓をひいた。","e":"She really cut a dash in her pink evening gown."}]}

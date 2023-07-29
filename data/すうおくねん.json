@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"数億年","p":true}],"r_ele":[{"r":"すうおくねん","p":true}],"sense":[{"gloss":"several hundred million years","pos":["n"]}]},"sdata":[]}

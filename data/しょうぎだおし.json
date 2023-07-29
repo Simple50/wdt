@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"将棋倒し","p":true}],"r_ele":[{"r":"しょうぎだおし","p":true}],"sense":[{"gloss":"falling down one after another (like dominoes)","pos":["n"]},{"gloss":"toppling shogi pieces (lined up in a row)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"岩礁","p":true}],"r_ele":[{"r":"がんしょう","p":true}],"sense":[{"gloss":"reef","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"即断","p":true}],"r_ele":[{"r":"そくだん","p":true}],"sense":[{"gloss":"prompt decision, snap judgement, snap judgment","pos":["n","vs","vt"]}]},"sdata":[{"j":"マイホームは↑一生↑↓いっしょう↓の↑買↑↓か↓い↑物↑↓もの↓だからね、そんな↑即断↑↓|そくだん|↓↑即決↑↓そっけつ↓はできないよ。","e":"A home is a once-in-a-lifetime purchase so you don't want to make any snap decisions."}]}

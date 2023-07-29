@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"習わし","p":true},{"e":"慣わし"}],"r_ele":[{"r":"ならわし","p":true}],"sense":[{"gloss":"custom, habit, customary practice","pos":["n","adj-no"]}]},"sdata":[]}

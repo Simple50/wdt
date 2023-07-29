@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民謡","p":true}],"r_ele":[{"r":"みんよう","p":true}],"sense":[{"gloss":"folk song, popular song","pos":["n"]}]},"sdata":[{"j":"↑兄↑↓あに↓が↑民謡↑↓|みんよう|↓に↑興味↑↓きょうみ↓を↑抱↑↓いだ↓き↑始↑↓はじ↓めたのは↑十↑↓じゅう↓↑二↑↓に↓↑歳↑↓さい↓ごろだった。","e":"My older brother started to take interest in Japanese folk songs when he was around 12 years old."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"妬む","p":true},{"e":"嫉む"}],"r_ele":[{"r":"ねたむ","p":true}],"sense":[{"gloss":"to be jealous of, to envy, to begrudge","pos":["v5m","vt"]}]},"kdata":{"妬":{"on":["ト","ツ"],"kun":["ねた.む","そね.む","つも.る","ふさ.ぐ"],"meanings":["jealous","envy"],"comp":[["石","女"]],"jlpt":1,"t":792,"freq":2609}},"sdata":[]}

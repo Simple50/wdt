@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノックダウン","p":true}],"sense":[{"gloss":"knockdown","pos":["n","vs","vt"]}]},"sdata":[]}

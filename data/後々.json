@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後々","p":true},{"e":"後後"},{"e":"跡々"},{"e":"跡跡"}],"r_ele":[{"r":"あとあと","p":true}],"sense":[{"gloss":"future, distant future","pos":["n","adv"]}]},"kdata":{"後":{"on":["ゴ","コウ"],"kun":["のち","うし.ろ","うしろ","あと","おく.れる"],"jlpt":5,"meanings":["behind","back","later"],"freq":26,"comp":[["幺","夊","彳"]],"t":861}},"sdata":[]}

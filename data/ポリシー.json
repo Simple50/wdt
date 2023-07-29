@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポリシー","p":true},{"r":"ポリシ"}],"sense":[{"gloss":"policy","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは↑自分↑↓じぶん↓たちの↑新↑↓あたら↓しいコンセプトを↑広↑↓ひろ↓めるためにあるコミュニケーション|ポリシー|を↑採用↑↓さいよう↓した。","e":"They implemented a communication policy so as to promote their new concept."}]}

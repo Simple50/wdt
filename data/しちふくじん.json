@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"七福神","p":true}],"r_ele":[{"r":"しちふくじん","p":true}],"sense":[{"gloss":"Seven Gods of Fortune, Seven Deities of Good Luck, Seven Lucky Gods","pos":["n"]}]},"sdata":[]}

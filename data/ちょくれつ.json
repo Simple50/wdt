@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直列","p":true}],"r_ele":[{"r":"ちょくれつ","p":true}],"sense":[{"gloss":"series (e.g. electrical)","pos":["n","adj-no"],"x":["直列回路・ちょくれつかいろ","並列・2"]},{"gloss":"serial","pos":["adj-f"]}]},"sdata":[]}

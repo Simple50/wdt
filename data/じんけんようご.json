@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人権擁護","p":true}],"r_ele":[{"r":"じんけんようご","p":true}],"sense":[{"gloss":"protection of human rights","pos":["n"]}]},"sdata":[{"j":"↑人権↑↓|じんけん↓↑擁護↑↓ようご|↓↑団体↑↓だんたい↓は↑独裁↑↓どくさい↓↑的↑↓てき↓な↑政府↑↓せいふ↓に↑圧力↑↓あつりょく↓をかけています。","e":"Human rights groups are putting pressure on authoritarian governments."}]}

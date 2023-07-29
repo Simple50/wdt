@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"掛け持ち","p":true},{"e":"掛持ち"},{"e":"かけ持ち"}],"r_ele":[{"r":"かけもち","p":true}],"sense":[{"gloss":"holding two or more positions concurrently","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑部活↑↓ぶかつ↓の|かけもち|、↑大変↑↓たいへん↓だと↑思↑↓おも↓うけどがんばれよ。","e":"I'm sure it's tough taking part in the activities of two clubs, but good luck!"}]}

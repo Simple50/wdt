@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同時期","p":true}],"r_ele":[{"r":"どうじき","p":true}],"sense":[{"gloss":"same time (period)","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本草","p":true}],"r_ele":[{"r":"ほんぞう","p":true}],"sense":[{"gloss":"plants, medicinal herbs","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青色申告","p":true}],"r_ele":[{"r":"あおいろしんこく","p":true}],"sense":[{"gloss":"blue return, blue-paper income-tax return, type of income tax return filing which allows for special income deductions","pos":["n"],"x":["白色申告"]}]},"sdata":[]}

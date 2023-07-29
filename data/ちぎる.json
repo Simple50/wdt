@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"千切る","p":true}],"r_ele":[{"r":"ちぎる","p":true}],"sense":[{"gloss":"to tear to pieces, to tear to shreds, to tear up","pos":["v5r","vt"]},{"gloss":"to pick (e.g. fruit), to pluck, to tear off","pos":["v5r","vt"]},{"gloss":"to do ... heavily, to do ... heartily, to do ... vigorously","pos":["suf","v5r"]}],"m":["uk"]},"sdata":[]}

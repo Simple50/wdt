@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"経済企画庁","p":true}],"r_ele":[{"r":"けいざいきかくちょう","p":true}],"sense":[{"gloss":"Economic Planning Agency (defunct as of 2001)","pos":["n"],"x":["内閣府"]}]},"sdata":[]}

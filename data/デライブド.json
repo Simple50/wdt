@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デライブド","p":true}],"sense":[{"gloss":"derived","pos":["n"]}]},"sdata":[]}

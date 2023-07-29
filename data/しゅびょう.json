@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"種苗","p":true}],"r_ele":[{"r":"しゅびょう","p":true}],"sense":[{"gloss":"seeds and seedlings","pos":["n"]},{"gloss":"eggs and hatchlings, (fish) eggs and fry","pos":["n"]}]},"sdata":[]}

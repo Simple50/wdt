@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貝塚","p":true}],"r_ele":[{"r":"かいづか","p":true},{"r":"かいずか","i":["ik"]}],"sense":[{"gloss":"shell heap, shell mound, kitchen midden","pos":["n"]}]},"sdata":[]}

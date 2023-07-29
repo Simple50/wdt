@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"窯","p":true},{"e":"竈"},{"e":"竃"}],"r_ele":[{"r":"かま","p":true}],"sense":[{"gloss":"stove, furnace, kiln","pos":["n"]}]},"kdata":{"窯":{"on":["ヨウ"],"kun":["かま"],"jlpt":1,"meanings":["furnace","kiln","oven"],"freq":2072,"comp":[["羔","穴"]],"t":2029}},"sdata":[]}

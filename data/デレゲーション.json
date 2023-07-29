@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デレゲーション","p":true}],"sense":[{"gloss":"delegation","pos":["n"]}]},"sdata":[]}

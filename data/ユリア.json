@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ユリア","p":true}],"sense":[{"gloss":"urea, carbamide","pos":["n"],"f":["chem"],"x":["尿素"]}]},"sdata":[]}

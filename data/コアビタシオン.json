@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コアビタシオン","p":true}],"sense":[{"gloss":"cohabitation","pos":["n"],"l":"fre"}]},"sdata":[]}

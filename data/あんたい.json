@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安泰","p":true}],"r_ele":[{"r":"あんたい","p":true}],"sense":[{"gloss":"peace, security, tranquility, tranquillity","pos":["adj-na","n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓に↑目↑↓め↓をかけられれば、あなたは↑安泰↑↓|あんたい|↓でいられますよ。","e":"Try to stay on her good side and you'll be on easy street."}]}

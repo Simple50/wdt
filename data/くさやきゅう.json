@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"草野球","p":true}],"r_ele":[{"r":"くさやきゅう","p":true}],"sense":[{"gloss":"grass-lot baseball","pos":["n"]}]},"sdata":[]}

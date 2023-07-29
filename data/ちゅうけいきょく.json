@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中継局","p":true}],"r_ele":[{"r":"ちゅうけいきょく","p":true}],"sense":[{"gloss":"relay station, translator station","pos":["n"]}]},"sdata":[]}

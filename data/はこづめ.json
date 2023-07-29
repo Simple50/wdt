@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"箱詰め","p":true}],"r_ele":[{"r":"はこづめ","p":true}],"sense":[{"gloss":"boxing, packing into a box, something packed into a box","pos":["n","vs","adj-no"]}]},"sdata":[{"j":"↑母↑↓はは↓が↑箱詰↑↓|はこづ↓め|のぶどうを↑送↑↓おく↓ってくれました。","e":"Mother sent us grapes packed in a box."}]}

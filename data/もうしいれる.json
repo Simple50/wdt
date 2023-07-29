@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"申し入れる","p":true}],"r_ele":[{"r":"もうしいれる","p":true}],"sense":[{"gloss":"to propose, to suggest","pos":["v1","vt"]}]},"sdata":[]}

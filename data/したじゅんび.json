@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下準備","p":true}],"r_ele":[{"r":"したじゅんび","p":true}],"sense":[{"gloss":"preliminary arrangements, spade work","pos":["n","vs","vt"]}]},"sdata":[]}

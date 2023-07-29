@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勝因","p":true}],"r_ele":[{"r":"しょういん","p":true}],"sense":[{"gloss":"cause of victory, reason for (one's) success","pos":["n"]}]},"sdata":[{"j":"その↑箱↑↓はこ↓には↑製造↑↓せいぞう↓↑者↑↓しゃ↓の↑証印↑↓|しょういん|↓が↑押↑↓お↓してある。","e":"The box bears the stamp of the manufacturer."}]}

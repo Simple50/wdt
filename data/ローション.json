@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ローション","p":true}],"sense":[{"gloss":"lotion","pos":["n"]},{"gloss":"sexual lubricant","pos":["n"],"m":["abbr"],"x":["ラブローション"]}]},"sdata":[{"j":"ハンド|ローション|が↑欲↑↓ほ↓しいのよ。","e":"I need hand lotion."}]}

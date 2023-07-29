@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"転げ落ちる","p":true}],"r_ele":[{"r":"ころげおちる","p":true}],"sense":[{"gloss":"to fall off, to tumble down","pos":["v1","vi"]}]},"sdata":[]}

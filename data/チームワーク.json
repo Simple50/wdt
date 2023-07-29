@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チームワーク","p":true}],"sense":[{"gloss":"teamwork","pos":["n"]}]},"sdata":[{"j":"それぞれの↑筋肉↑↓きんにく↓が↑完璧↑↓かんぺき↓な|チームワーク|を↑示↑↓しめ↓す。","e":"Each muscle shows perfect teamwork."},{"j":"↑野球↑↓やきゅう↓の↑最↑↓もっと↓もすばらしいところは|チームワーク|だ。","e":"The most wonderful thing about baseball is teamwork."}]}

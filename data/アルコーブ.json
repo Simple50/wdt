@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アルコーブ","p":true}],"sense":[{"gloss":"alcove","pos":["n"]}]},"sdata":[]}

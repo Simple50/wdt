@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人件費","p":true}],"r_ele":[{"r":"じんけんひ","p":true}],"sense":[{"gloss":"personnel expenses, labor cost, labour cost","pos":["n"]},{"gloss":"indirect labour costs, indirect labor costs","pos":["n"]}]},"sdata":[]}

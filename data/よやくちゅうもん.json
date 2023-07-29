@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"予約注文","p":true}],"r_ele":[{"r":"よやくちゅうもん","p":true}],"sense":[{"gloss":"pre-order, advance order","pos":["n","vs"]}]},"sdata":[{"j":"↑予約↑↓|よやく↓↑注文↑↓ちゅうもん|↓↑承↑↓うけたまわ↓ります。","e":"We accept pre-order reservations."}]}

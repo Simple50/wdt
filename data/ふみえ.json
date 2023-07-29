@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"踏み絵","p":true},{"e":"踏絵"}],"r_ele":[{"r":"ふみえ","p":true}],"sense":[{"gloss":"fumi-e, fumie, tablet bearing Christian images, on which Edo-period authorities forced suspected Christians to trample","pos":["n"],"m":["hist"]},{"gloss":"allegiance test, loyalty test","pos":["n"]}]},"sdata":[]}

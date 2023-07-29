@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外交団","p":true}],"r_ele":[{"r":"がいこうだん","p":true}],"sense":[{"gloss":"diplomatic corps","pos":["n"]}]},"sdata":[]}

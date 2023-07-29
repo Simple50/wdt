@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後列","p":true}],"r_ele":[{"r":"こうれつ","p":true}],"sense":[{"gloss":"back row, rear rank","pos":["n"],"ant":["前列"]}]},"sdata":[]}

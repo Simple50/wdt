@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"労働党","p":true}],"r_ele":[{"r":"ろうどうとう","p":true}],"sense":[{"gloss":"Labour Party, Labor Party","pos":["n"]}]},"sdata":[{"j":"↑去年↑↓きょねん↓の↑選挙↑↓せんきょ↓で↑労働党↑↓|ろうどうとう|↓の↑票数↑↓ひょうすう↓が↑増↑↓ふ↓えた。","e":"The Labor Party's vote increased at last year's election."}]}

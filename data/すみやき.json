@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"炭焼き","p":true},{"e":"炭焼"}],"r_ele":[{"r":"すみやき","p":true}],"sense":[{"gloss":"charcoal making, charcoal maker","pos":["n"]},{"gloss":"charcoal-roasted, charcoal-grilled","pos":["adj-no","n"]}]},"sdata":[]}

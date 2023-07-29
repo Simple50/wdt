@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アスファルト","p":true}],"sense":[{"gloss":"asphalt","pos":["n"]}]},"sdata":[{"j":"その↑通↑↓とお↓りは|アスファルト|で↑舗装↑↓ほそう↓されている。","e":"The street is paved with asphalt."}]}

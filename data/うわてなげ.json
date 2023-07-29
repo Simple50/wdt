@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上手投げ","p":true}],"r_ele":[{"r":"うわてなげ","p":true}],"sense":[{"gloss":"overhand throw","pos":["n"],"f":["baseb"]},{"gloss":"a throw using the outside of the arm","pos":["n"],"f":["sumo"]}]},"sdata":[]}

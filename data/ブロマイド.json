@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブロマイド","p":true}],"sense":[{"gloss":"bromide","pos":["n"]},{"gloss":"publicity photograph of a movie star, entertainer, etc.","pos":["n"]}]},"sdata":[]}

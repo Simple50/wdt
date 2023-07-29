@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"由緒","p":true}],"r_ele":[{"r":"ゆいしょ","p":true}],"sense":[{"gloss":"history, pedigree, lineage","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気構え","p":true}],"r_ele":[{"r":"きがまえ","p":true}],"sense":[{"gloss":"readiness, preparedness, attitude","pos":["n"]},{"gloss":"kanji \"vapor\" radical","pos":["n"]}]},"sdata":[]}

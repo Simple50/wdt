@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"否々","p":true},{"e":"否否"}],"r_ele":[{"r":"いやいや","p":true},{"r":"いえいえ"}],"sense":[{"gloss":"no!, no no!, no, not at all","pos":["int"],"x":["嫌々・いやいや・3"]}],"m":["uk"]},"kdata":{"否":{"on":["ヒ"],"kun":["いな","いや"],"jlpt":3,"meanings":["negate","no","noes","refuse","decline","deny"],"freq":561,"comp":[["不","口"]],"d":["痞","嚭","桮"],"t":459}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"妙案","p":true}],"r_ele":[{"r":"みょうあん","p":true}],"sense":[{"gloss":"ingenious idea, excellent plan, bright idea","pos":["n"]}]},"sdata":[{"j":"なかなか↑妙案↑↓|みょうあん|↓が↑浮↑↓う↓かばない。","e":"Bright ideas never occur to me."},{"j":"↑突然↑↓とつぜん↓↑私↑↓わたし↓は↑妙案↑↓|みょうあん|↓を↑思↑↓おも↓い↑浮↑↓う↓かべた。","e":"Suddenly I hit on a happy idea."}]}

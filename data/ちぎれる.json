@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"千切れる","p":true}],"r_ele":[{"r":"ちぎれる","p":true}],"sense":[{"gloss":"to be torn off, to come off","pos":["v1","vi"]},{"gloss":"to be torn to pieces, to be torn to shreds","pos":["v1","vi"]}],"m":["uk"]},"sdata":[{"j":"↑荷物↑↓にもつ↓↑重↑↓おも↓すぎて↑腕↑↓うで↓|ちぎれる|かと↑思↑↓おも↓った。","e":"The luggage was so heavy that I was worried my arms were going to be torn off."}]}

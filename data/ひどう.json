@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"非道","p":true}],"r_ele":[{"r":"ひどう","p":true}],"sense":[{"gloss":"unjust, inhuman","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"↑是非↑↓ぜ|ひ↓どう|ぞ。","e":"By all means."},{"j":"ええ↑結構↑↓けっこう↓です。↑是非↑↓ぜ|ひ↓どう|ぞ。","e":"Yes, by all means."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不買","p":true}],"r_ele":[{"r":"ふばい","p":true}],"sense":[{"gloss":"not buying","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エクソシスト","p":true}],"sense":[{"gloss":"exorcist","pos":["n"]}]},"sdata":[]}

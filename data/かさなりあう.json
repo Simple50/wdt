@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重なり合う","p":true},{"e":"重なりあう"}],"r_ele":[{"r":"かさなりあう","p":true}],"sense":[{"gloss":"to lie on top of each other, to overlap, to pile up","pos":["v5u"]}]},"sdata":[]}

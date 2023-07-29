@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金脈","p":true}],"r_ele":[{"r":"きんみゃく","p":true}],"sense":[{"gloss":"vein of gold","pos":["n"]},{"gloss":"financial connections, patron, source of money","pos":["n"]}]},"sdata":[]}

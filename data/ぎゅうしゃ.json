@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"牛舎","p":true}],"r_ele":[{"r":"ぎゅうしゃ","p":true}],"sense":[{"gloss":"cow shed, cattle barn","pos":["n"]}]},"sdata":[{"j":"↑牛舎↑↓|ぎゅうしゃ|↓には↑３↑↓さん↓↑頭↑↓とう↓の↑牛↑↓うし↓がいます。","e":"There are three cows in the cowshed."},{"j":"↑牛舎↑↓|ぎゅうしゃ|↓には↑３↑↓さん↓↑頭↑↓とう↓の↑牛↑↓うし↓がいます。","e":"There are three cows in the barn."}]}

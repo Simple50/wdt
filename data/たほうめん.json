@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"多方面","p":true}],"r_ele":[{"r":"たほうめん","p":true}],"sense":[{"gloss":"many-sided, multifarious, versatility","pos":["adj-na","n"]}]},"sdata":[]}

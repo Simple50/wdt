@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不見識","p":true}],"r_ele":[{"r":"ふけんしき","p":true}],"sense":[{"gloss":"thoughtless, indiscreet, lacking in common sense, rashness, betraying one's lack of judgment (judgement), absurd, undignified, compromising, disgraceful","pos":["adj-na","n"]}]},"sdata":[]}

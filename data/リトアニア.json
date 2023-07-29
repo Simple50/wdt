@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リトアニア","p":true}],"sense":[{"gloss":"Lithuania","pos":["n"]}]},"sdata":[{"j":"|リトアニア|↑語↑↓ご↓はいい↑言語↑↓げんご↓だ。","e":"Lithuanian is a good language."},{"j":"↑私↑↓わたし↓は|リトアニア|↑語↑↓ご↓を↑話↑↓はな↓す↑小↑↓ちい↓さなネコを↑知↑↓し↓っています。","e":"I know a little tomcat that speaks Lithuanian."},{"j":"|リトアニア|↑語↑↓ご↓を↑話↑↓はな↓せますか？","e":"Do you speak Lithuanian?"}]}

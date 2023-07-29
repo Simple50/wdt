@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"開始時刻","p":true}],"r_ele":[{"r":"かいしじこく","p":true}],"sense":[{"gloss":"starting time","pos":["n"]}]},"sdata":[]}

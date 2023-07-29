@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一本立ち","p":true}],"r_ele":[{"r":"いっぽんだち","p":true}],"sense":[{"gloss":"independence","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑親↑↓おや↓から↑離↑↓はな↓れて↑一本立↑↓|いっぽんだ↓ち|している。","e":"He is independent of his parents."}]}

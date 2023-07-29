@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"皮膚科","p":true},{"e":"皮フ科"},{"e":"皮ふ科"},{"e":"ヒフ科"}],"r_ele":[{"r":"ひふか","p":true},{"r":"ひフか"},{"r":"ヒフか"}],"sense":[{"gloss":"dermatology","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑慈悲↑↓じ|ひ↓↑深↑↓ふか|↓い。","e":"She is merciful."},{"j":"↑慈悲↑↓じ|ひ↓↑深↑↓ふか|↓く↑慈悲↑↓じひ↓あまねき↑神↑↓かみ↓の↑御名↑↓ぎょめい↓において。","e":"In the name of God, Most Gracious, Most Merciful."}]}

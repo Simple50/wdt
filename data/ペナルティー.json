@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペナルティー","p":true},{"r":"ペナルティ"}],"sense":[{"gloss":"penalty","pos":["n"]}]},"sdata":[]}

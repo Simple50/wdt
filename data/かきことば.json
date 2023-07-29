@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書き言葉","p":true},{"e":"書きことば"}],"r_ele":[{"r":"かきことば","p":true}],"sense":[{"gloss":"written word, written language","pos":["n"],"x":["話し言葉"]}]},"sdata":[{"j":"スペイン↑語↑↓ご↓の↑書↑↓|か↓き↑言葉↑↓ことば|↓は、ほんのいくらかわかるが、スペイン↑語↑↓ご↓の↑話↑↓はな↓し↑言葉↑↓ことば↓ときたら、ちんぷんかんぷんだ。","e":"I can understand written Spanish just a little, but spoken Spanish is Greek to me."}]}

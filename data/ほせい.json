@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"補正","p":true}],"r_ele":[{"r":"ほせい","p":true}],"sense":[{"gloss":"correction, revision, compensation (e.g. to a pendulum)","pos":["n","vs","vt"]}]},"sdata":[]}

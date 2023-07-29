@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粒状","p":true}],"r_ele":[{"r":"りゅうじょう","p":true},{"r":"つぶじょう"}],"sense":[{"gloss":"granular, granulated","pos":["adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一進一退","p":true}],"r_ele":[{"r":"いっしんいったい","p":true}],"sense":[{"gloss":"now advancing and now retreating, ebb and flow, seesawing, taking alternately favorable and unfavorable turns","pos":["n","vs","vi","adj-no"]}],"m":["yoji"]},"sdata":[]}

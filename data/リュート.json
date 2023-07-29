@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リュート","p":true}],"sense":[{"gloss":"lute","pos":["n"]}]},"sdata":[{"j":"トムは|リュート|を↑弾↑↓ひ↓いています。","e":"Tom is playing the lute."}]}

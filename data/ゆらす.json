@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"揺らす","p":true}],"r_ele":[{"r":"ゆらす","p":true}],"sense":[{"gloss":"to rock, to shake, to swing","pos":["v5s","vt"]}]},"sdata":[{"j":"ゆりかごを↑揺↑↓|ゆ↓らす|↑手↑↓て↓は↑世界↑↓せかい↓を↑支配↑↓しはい↓する。","e":"The hand that rocks the cradle rules the world."}]}

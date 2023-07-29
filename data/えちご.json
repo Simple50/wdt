@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"越後","p":true}],"r_ele":[{"r":"えちご","p":true}],"sense":[{"gloss":"Echigo (former province located in present-day Niigata Prefecture)","pos":["n"]}],"m":["hist"]},"sdata":[]}

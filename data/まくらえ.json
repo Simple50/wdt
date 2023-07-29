@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枕絵","p":true}],"r_ele":[{"r":"まくらえ","p":true}],"sense":[{"gloss":"erotic picture","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"労農","p":true}],"r_ele":[{"r":"ろうのう","p":true}],"sense":[{"gloss":"workers and farmers","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘアケア","p":true},{"r":"ヘア・ケア"}],"sense":[{"gloss":"hair care","pos":["n"]}]},"sdata":[]}

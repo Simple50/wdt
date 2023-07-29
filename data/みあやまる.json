@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見誤る","p":true}],"r_ele":[{"r":"みあやまる","p":true}],"sense":[{"gloss":"to mistake (for something or someone else), to misread, to misjudge","pos":["v5r","vt"]}]},"sdata":[]}

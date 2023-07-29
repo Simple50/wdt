@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事務総局","p":true}],"r_ele":[{"r":"じむそうきょく","p":true}],"sense":[{"gloss":"secretariat-general","pos":["n"]}]},"sdata":[]}

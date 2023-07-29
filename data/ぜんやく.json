@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"全訳","p":true}],"r_ele":[{"r":"ぜんやく","p":true}],"sense":[{"gloss":"complete translation","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑君↑↓きみ↓の↑計画↑↓けいかく↓は↑全然↑↓ぜん|ぜん↓↑役↑↓やく|↓に↑立↑↓た↓たない。","e":"Your plan is of no earthly use."},{"j":"↑彼↑↓かれ↓は↑当然↑↓とう|ぜん↓↑約束↑↓やく|そく↓を↑守↑↓まも↓るものだと↑思↑↓おも↓っていた。","e":"I took it for granted that he would keep his word."}]}

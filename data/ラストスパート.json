@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラストスパート","p":true},{"r":"ラスト・スパート"}],"sense":[{"gloss":"last spurt, final spurt, home stretch","pos":["n"]}]},"sdata":[]}

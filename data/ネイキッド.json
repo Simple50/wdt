@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ネイキッド","p":true}],"sense":[{"gloss":"naked","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"西日本","p":true}],"r_ele":[{"r":"にしにほん","p":true},{"r":"にしにっぽん"}],"sense":[{"gloss":"western Japan (usu. Chūbu region and westward)","pos":["n"],"x":["東日本"]}]},"sdata":[{"j":"↑西日本↑↓|にしにほん|↓ではよく↑耳↑↓みみ↓にします。","e":"You hear that a lot in western Japan."}]}

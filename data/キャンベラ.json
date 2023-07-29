@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャンベラ","p":true}],"sense":[{"gloss":"Canberra","pos":["n"]}]},"sdata":[{"j":"|キャンベラ|は、オーストラリアの↑首都↑↓しゅと↓だよ。","e":"Canberra is the capital of Australia."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"財政投融資","p":true}],"r_ele":[{"r":"ざいせいとうゆうし","p":true}],"sense":[{"gloss":"Fiscal Investment and Loan Program, FILP","pos":["n"]}]},"sdata":[]}

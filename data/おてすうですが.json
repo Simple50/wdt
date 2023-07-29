@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お手数ですが","p":true},{"e":"御手数ですが"}],"r_ele":[{"r":"おてすうですが","p":true}],"sense":[{"gloss":"sorry to bother you, but ...","pos":["exp"]}]},"sdata":[]}

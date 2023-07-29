@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プレスクラブ","p":true},{"r":"プレス・クラブ"}],"sense":[{"gloss":"press club","pos":["n"]}]},"sdata":[]}

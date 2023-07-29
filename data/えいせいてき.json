@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"衛生的","p":true}],"r_ele":[{"r":"えいせいてき","p":true}],"sense":[{"gloss":"hygienic, sanitary","pos":["adj-na"]}]},"sdata":[{"j":"アフリカ↑大陸↑↓たいりく↓のどこかへ↑行↑↓い↓くとしたらどこが↑一番↑↓いちばん↓↑衛生↑↓|えいせい↓↑的↑↓てき|↓で↑安全↑↓あんぜん↓ですか？","e":"If I was going to the African continent where would be the safest and most sanitary place?"}]}

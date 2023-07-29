@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初旬","p":true}],"r_ele":[{"r":"しょじゅん","p":true}],"sense":[{"gloss":"first 10 days of the month","pos":["adv","n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑６月↑↓ろくがつ↓↑初旬↑↓|しょじゅん|↓にトロントに↑来↑↓き↓たものです。","e":"I came to Toronto at the beginning of June."}]}

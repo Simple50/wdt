@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベアリング","p":true}],"sense":[{"gloss":"bearing","pos":["n"]}]},"sdata":[]}

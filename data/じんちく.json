@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人畜","p":true}],"r_ele":[{"r":"じんちく","p":true}],"sense":[{"gloss":"men and animals","pos":["n"]}]},"sdata":[]}

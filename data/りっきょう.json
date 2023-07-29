@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陸橋","p":true}],"r_ele":[{"r":"りっきょう","p":true},{"r":"りくきょう"}],"sense":[{"gloss":"viaduct, overhead bridge, overpass","pos":["n"]},{"gloss":"land bridge (biogeography)","pos":["n"]}]},"sdata":[]}

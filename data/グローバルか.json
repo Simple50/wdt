@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"グローバル化","p":true}],"r_ele":[{"r":"グローバルか","p":true}],"sense":[{"gloss":"globalization, globalisation","pos":["n","vs","vi","vt"],"x":["グローバリゼーション"]}]},"sdata":[]}

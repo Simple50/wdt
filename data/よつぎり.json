@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"四つ切り","p":true},{"e":"４切"},{"e":"四切"},{"e":"４切り"},{"e":"四切り"}],"r_ele":[{"r":"よつぎり","p":true}],"sense":[{"gloss":"cutting into four, quarter","pos":["n"]},{"gloss":"photograph size 254mm x 305 mm","pos":["n"]}]},"sdata":[]}

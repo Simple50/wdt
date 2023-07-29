@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"節度","p":true}],"r_ele":[{"r":"せつど","p":true}],"sense":[{"gloss":"moderation, standard","pos":["n"]}]},"sdata":[{"j":"どんなに↑節度↑↓|せつど|↓のある↑家庭↑↓かてい↓でも↑事故↑↓じこ↓は↑起↑↓お↓こるもの。","e":"Accidents will happen in the best-regulated families."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手早い","p":true},{"e":"手ばやい"}],"r_ele":[{"r":"てばやい","p":true}],"sense":[{"gloss":"nimble, quick, agile","pos":["adj-i"]}]},"sdata":[]}

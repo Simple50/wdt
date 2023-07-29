@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"製鋼","p":true}],"r_ele":[{"r":"せいこう","p":true}],"sense":[{"gloss":"steel manufacture","pos":["n","vs","vt","vi"]}]},"kdata":{"製":{"on":["セイ"],"jlpt":1,"meanings":["made in...","manufacture"],"freq":488,"comp":[["制","衣"]],"t":1920},"鋼":{"on":["コウ"],"kun":["はがね"],"jlpt":1,"meanings":["steel"],"freq":1246,"comp":[["金","岡"]],"s":"綱","t":2151}},"sdata":[]}

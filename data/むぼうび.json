@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無防備","p":true}],"r_ele":[{"r":"むぼうび","p":true}],"sense":[{"gloss":"defenseless, defenceless, unprotected, vulnerable","pos":["adj-na","adj-no"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓がとった↑行動↑↓こうどう↓はあまりにも↑軽率↑↓けいそつ↓で↑無防備↑↓|むぼうび|↓だった。","e":"The actions she took were too careless, and she was left defenseless."}]}

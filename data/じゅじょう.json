@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"樹上","p":true}],"r_ele":[{"r":"じゅじょう","p":true}],"sense":[{"gloss":"up in a tree, in the trees","pos":["n","adj-no"],"x":["樹下"]}]},"sdata":[]}

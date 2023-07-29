@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初産","p":true}],"r_ele":[{"r":"ういざん","p":true},{"r":"しょざん"},{"r":"しょさん"},{"r":"はつざん"}],"sense":[{"gloss":"first childbirth","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水鉄砲","p":true}],"r_ele":[{"r":"みずでっぽう","p":true}],"sense":[{"gloss":"water pistol, squirt gun, water gun","pos":["n"]}]},"sdata":[{"j":"「トム、↑水鉄砲↑↓|みずでっぽう|↓↑返↑↓かえ↓してよ」「↑自分↑↓じぶん↓で↑奪↑↓うば↓ってみろ！」","e":"Give me back my water gun, Tom! \"Get it yourself!\""}]}

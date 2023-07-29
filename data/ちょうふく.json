@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重複","p":true}],"r_ele":[{"r":"ちょうふく","p":true},{"r":"じゅうふく","p":true}],"sense":[{"gloss":"duplication, repetition, overlapping, redundancy, restoration","pos":["n","vs","vi","adj-no"]}]},"sdata":[]}

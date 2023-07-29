@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"表彰状","p":true}],"r_ele":[{"r":"ひょうしょうじょう","p":true}],"sense":[{"gloss":"testimonial, certificate of commendation","pos":["n"]}]},"sdata":[]}

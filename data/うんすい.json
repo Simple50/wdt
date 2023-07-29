@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雲水","p":true}],"r_ele":[{"r":"うんすい","p":true},{"r":"くもみず"}],"sense":[{"gloss":"itinerant priest, wandering monk, mendicant","pos":["n"]},{"gloss":"clouds and water","pos":["n"]}]},"sdata":[]}

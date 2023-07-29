@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特段","p":true}],"r_ele":[{"r":"とくだん","p":true}],"sense":[{"gloss":"exceptional, unusual, special","pos":["adj-no"]},{"gloss":"especially, exceptionally, unusually","pos":["adv"]}]},"sdata":[]}

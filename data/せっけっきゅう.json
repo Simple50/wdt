@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"赤血球","p":true}],"r_ele":[{"r":"せっけっきゅう","p":true}],"sense":[{"gloss":"red blood cell, erythrocyte","pos":["n"]}]},"sdata":[]}

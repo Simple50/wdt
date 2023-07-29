@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モンテカルロ","p":true},{"r":"モンテ・カルロ"}],"sense":[{"gloss":"Monte Carlo (Monaco)","pos":["n"]}]},"sdata":[{"j":"このソフトウエアはギブスサンプリングのアルゴリズムによりマルコフ↑連鎖↑↓れんさ↓|モンテカルロ|↑法↑↓ほう↓の↑計算↑↓けいさん↓を↑行↑↓おこな↓います。","e":"This software carries out Markov Chain Monte Carlo calculations by the use of Gibbs Sampling."}]}

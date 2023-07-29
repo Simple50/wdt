@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"住職","p":true}],"r_ele":[{"r":"じゅうしょく","p":true}],"sense":[{"gloss":"chief priest (of a Buddhist temple)","pos":["n","vs"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑一↑↓いち↓↑日↑↓にち↓↑中↑↓|じゅう↓↑食事↑↓しょく|じ↓もとらずに↑小説↑↓しょうせつ↓に↑熱中↑↓ねっちゅう↓している。","e":"He has been absorbed in the novel all day without eating."}]}

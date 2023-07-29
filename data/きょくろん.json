@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極論","p":true}],"r_ele":[{"r":"きょくろん","p":true}],"sense":[{"gloss":"extreme logic, extreme argument, unreserved argument","pos":["n","vs","vt"]}]},"sdata":[]}

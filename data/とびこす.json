@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飛び越す","p":true},{"e":"跳び越す"},{"e":"飛越す"},{"e":"跳越す"}],"r_ele":[{"r":"とびこす","p":true}],"sense":[{"gloss":"to leap over","pos":["v5s","vt"]}]},"sdata":[{"j":"そのとき↑私↑↓わたし↓だけが↑小川↑↓おがわ↓を↑跳↑↓|と↓び↑越↑↓こ↓す|ことができた。","e":"Only I was able to jump across the stream then."}]}

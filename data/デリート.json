@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デリート","p":true}],"sense":[{"gloss":"delete","pos":["n"]}]},"sdata":[]}

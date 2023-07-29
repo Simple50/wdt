@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"屋台骨","p":true}],"r_ele":[{"r":"やたいぼね","p":true}],"sense":[{"gloss":"framework (of a building), foundation","pos":["n"]},{"gloss":"mainstay, support, supporter, fortune","pos":["n"]}]},"sdata":[]}

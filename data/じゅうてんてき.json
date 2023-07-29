@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重点的","p":true}],"r_ele":[{"r":"じゅうてんてき","p":true}],"sense":[{"gloss":"prioritized, focused, concentrated, predominant","pos":["adj-na"]}]},"sdata":[]}

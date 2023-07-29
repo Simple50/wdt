@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロッジ","p":true}],"sense":[{"gloss":"lodge","pos":["n"]}]},"sdata":[{"j":"|ロッジ|はひぎめでかりられる。","e":"The lodge rents by the day."}]}

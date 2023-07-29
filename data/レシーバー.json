@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レシーバー","p":true},{"r":"レシーバ"}],"sense":[{"gloss":"receiver","pos":["n"]}]},"sdata":[]}

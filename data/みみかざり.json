@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"耳飾り","p":true}],"r_ele":[{"r":"みみかざり","p":true}],"sense":[{"gloss":"earring","pos":["n"]}]},"sdata":[{"j":"その↑耳↑↓|みみ↓↑飾↑↓かざり|↓はとてもきれいです。","e":"The earrings are very pretty."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンダーライン","p":true}],"sense":[{"gloss":"underline","pos":["n","adj-no"]}]},"sdata":[]}

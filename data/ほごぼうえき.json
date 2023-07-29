@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"保護貿易","p":true}],"r_ele":[{"r":"ほごぼうえき","p":true}],"sense":[{"gloss":"protective trade","pos":["n"]}]},"sdata":[{"j":"↑評論↑↓ひょうろん↓↑家↑↓か↓たちは、↑保護↑↓|ほご↓↑貿易↑↓ぼうえき|↓↑主義↑↓しゅぎ↓について↑人騒↑↓ひとさわ↓がせのうそを↑言↑↓い↓っています。","e":"Critics are just crying wolf about protectionism."}]}

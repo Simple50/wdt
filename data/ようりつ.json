@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"擁立","p":true}],"r_ele":[{"r":"ようりつ","p":true}],"sense":[{"gloss":"backing (for a position), giving support to, helping (someone) to a position","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敗れる","p":true}],"r_ele":[{"r":"やぶれる","p":true}],"sense":[{"gloss":"to be defeated, to be beaten, to be unsuccessful, to lose","pos":["v1","vi"]}]},"kdata":{"敗":{"on":["ハイ"],"kun":["やぶ.れる"],"jlpt":3,"meanings":["failure","defeat","reversal"],"freq":516,"comp":[["攵","貝"]],"d":["闝"],"s":"販","t":1301}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"畳敷き","p":true},{"e":"畳敷"}],"r_ele":[{"r":"たたみじき","p":true}],"sense":[{"gloss":"tatami-matted","pos":["adj-no"]}]},"sdata":[]}

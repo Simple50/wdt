@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"甦","p":true}],"r_ele":[{"r":"よみがえ","p":true}],"sense":[{"gloss":"resurrection","pos":["n"]}]},"kdata":{"甦":{"on":["ソ","コウ"],"kun":["よみがえ.る"],"meanings":["be revived","be resuscitated","revived"],"freq":2429,"comp":[["更","生"]],"jlpt":-1}},"sdata":[]}

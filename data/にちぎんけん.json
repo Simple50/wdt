@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日銀券","p":true}],"r_ele":[{"r":"にちぎんけん","p":true}],"sense":[{"gloss":"Japanese banknote","pos":["n"],"x":["日本銀行券"]}],"m":["abbr"]},"sdata":[]}

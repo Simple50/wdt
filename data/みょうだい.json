@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名代","p":true}],"r_ele":[{"r":"みょうだい","p":true}],"sense":[{"gloss":"proxy, representative","pos":["n"]}]},"sdata":[]}

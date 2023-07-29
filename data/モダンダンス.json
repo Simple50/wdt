@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モダンダンス","p":true},{"r":"モダン・ダンス"}],"sense":[{"gloss":"modern dance","pos":["n"]}]},"sdata":[]}

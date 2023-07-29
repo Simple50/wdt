@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ワン子"},{"e":"わん子"}],"r_ele":[{"r":"ワンこ"},{"r":"わんこ"},{"r":"ワンコ","p":true}],"sense":[{"gloss":"dog, doggy, bow-wow","pos":["n"]}],"m":["chn","uk"]},"sdata":[{"j":"ニャンコと|ワンコ|を↑飼↑↓か↓ってます。","e":"I have a kitty and a dog."}]}

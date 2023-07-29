@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"網棚","p":true}],"r_ele":[{"r":"あみだな","p":true}],"sense":[{"gloss":"(overhead) luggage rack (on a train, bus, etc.)","pos":["n"]}]},"sdata":[{"j":"↑電車↑↓でんしゃ↓の↑網棚↑↓|あみだな|↓に↑鞄↑↓かばん↓を↑置↑↓お↓いたまま、↑降↑↓お↓りてしまった。","e":"I left my bag on the overhead rack in the train."}]}

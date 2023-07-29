@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落とし穴","p":true},{"e":"落し穴"},{"e":"陥し穴"},{"e":"陥とし穴"},{"e":"陥穴"}],"r_ele":[{"r":"おとしあな","p":true}],"sense":[{"gloss":"pitfall, trap, pit","pos":["n"]}]},"sdata":[{"j":"このテストには↑落↑↓|お↓とし↑穴↑↓あな|↓がある。","e":"This test has a catch."}]}

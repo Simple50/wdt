@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"井筒","p":true}],"r_ele":[{"r":"いづつ","p":true}],"sense":[{"gloss":"well curb, well kerb","pos":["n"]},{"gloss":"family crest design based on a square wooden well curb","pos":["n"]}]},"sdata":[]}

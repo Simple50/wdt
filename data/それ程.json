@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"それ程","p":true},{"e":"其れ程","p":true},{"e":"其程"}],"r_ele":[{"r":"それほど","p":true}],"sense":[{"gloss":"to that degree, to that extent, that much","pos":["adv"]}],"m":["uk"]},"kdata":{"程":{"on":["テイ"],"kun":["ほど","-ほど"],"jlpt":3,"meanings":["extent","degree","law","formula","distance","limits","amount"],"freq":514,"comp":[["禾","呈"]],"t":1573}},"sdata":[]}

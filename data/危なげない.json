@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"危なげない","p":true}],"r_ele":[{"r":"あぶなげない","p":true}],"sense":[{"gloss":"safe, certain","pos":["adj-i"]}]},"kdata":{"危":{"on":["キ"],"kun":["あぶ.ない","あや.うい","あや.ぶむ"],"jlpt":3,"meanings":["dangerous","fear","uneasy"],"freq":606,"comp":[["厃","㔾"]],"d":["脆","跪","詭","頠","鮠","佹","垝","峗","恑","桅","臲","陒"],"s":"厄","t":320}},"sdata":[]}

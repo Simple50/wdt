@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"魚肉","p":true}],"r_ele":[{"r":"ぎょにく","p":true}],"sense":[{"gloss":"fish meat","pos":["n"]}]},"sdata":[]}

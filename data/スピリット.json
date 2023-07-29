@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スピリット","p":true}],"sense":[{"gloss":"spirit","pos":["n"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓は↑兎↑↓うさぎ↓。↑君↑↓きみ↓の|スピリット|アニマルは？","e":"My spirit animal is a rabbit. What's yours?"}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホログラム","p":true}],"sense":[{"gloss":"hologram","pos":["n"]}]},"sdata":[]}

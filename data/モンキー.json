@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モンキー","p":true}],"sense":[{"gloss":"monkey","pos":["n"]}]},"sdata":[{"j":"↑例↑↓たと↓えばベルベット|モンキー|は、↑輪↑↓わ↓を↑描↑↓えが↓いて↑飛↑↓と↓ぶワシがいるとある↑種↑↓たね↓の↑呼↑↓よ↓びかけを↑用↑↓もち↓いるようになる。ワシはサルを↑捕食↑↓ほしょく↓するのだ。","e":"For example, vervet monkeys learn to use a certain call in the presence of circling eagles, who prey on the monkeys."}]}

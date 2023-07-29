@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"問題意識","p":true}],"r_ele":[{"r":"もんだいいしき","p":true}],"sense":[{"gloss":"awareness of the issues, (having a) critical mind, concerns","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑明敏↑↓めいびん↓な↑問題↑↓|もんだい↓↑意識↑↓いしき|↓をもっている。","e":"He has a keen awareness of the problem."}]}

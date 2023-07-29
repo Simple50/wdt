@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気風","p":true}],"r_ele":[{"r":"きふう","p":true}],"sense":[{"gloss":"character, traits, ethos","pos":["n"]}]},"sdata":[]}

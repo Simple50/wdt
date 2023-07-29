@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不確定","p":true}],"r_ele":[{"r":"ふかくてい","p":true}],"sense":[{"gloss":"uncertain, indefinite","pos":["adj-na","n"]}]},"sdata":[{"j":"↑不規則↑↓ふきそく↓↑銀河↑↓ぎんが↓とは↑構造↑↓こうぞう↓が↑不↑↓|ふ↓↑確定↑↓かくてい|↓であり、↑若↑↓わか↓い↑恒星↑↓こうせい↓や↑塵↑↓ちり↓、ガスを↑大量↑↓たいりょう↓に↑含↑↓ふく↓む。","e":"An irregular galaxy has an undefined shape and is full of young stars, dust, and gas."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"塩焼き","p":true},{"e":"塩焼"}],"r_ele":[{"r":"しおやき","p":true}],"sense":[{"gloss":"grilling (fish) with salt, broiling with salt","pos":["n","vs"]},{"gloss":"boiling seawater to get salt","pos":["n","vs"]}]},"sdata":[{"j":"やっぱり↑天然↑↓てんねん↓アユの↑塩焼↑↓|しおや↓き|は↑最高↑↓さいこう↓だね。","e":"The natural sweet-fish broiled with salt is absolutely terrific."}]}

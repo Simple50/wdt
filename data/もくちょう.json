@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"木彫","p":true}],"r_ele":[{"r":"もくちょう","p":true}],"sense":[{"gloss":"wood carving, wooden sculpture, woodcraft","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"併発","p":true}],"r_ele":[{"r":"へいはつ","p":true}],"sense":[{"gloss":"concurrence, coincidence, complication (in illness)","pos":["n","vs","vt","vi","adj-no"]}]},"sdata":[{"j":"↑悪名↑↓あくめい↓↑高↑↓たか↓い↑反乱↑↓はんらん↓↑兵↑↓|へい↓はつ|いに↑捕↑↓と↓らえられ、↑拘置↑↓こうち↓↑所↑↓しょ↓に↑身柄↑↓みがら↓を↑拘束↑↓こうそく↓された。","e":"The notorious rebel was ultimately captured and confined to jail."}]}

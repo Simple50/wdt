@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"温もり","p":true}],"r_ele":[{"r":"ぬくもり","p":true}],"sense":[{"gloss":"warmth","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑君↑↓きみ↓に↑温↑↓|ぬく↓もり|を↑与↑↓あた↓えるよ。","e":"I will keep you warm."},{"j":"トムのハグの|ぬくもり|に↑癒↑↓いや↓されました。","e":"The warmth of Tom's hug soothed me."},{"j":"↑彼↑↓かれ↓の↑手↑↓て↓の|ぬくもり|が↑思↑↓おも↓い↑出↑↓だ↓されます。","e":"I can remember the warmth of his hands."}]}

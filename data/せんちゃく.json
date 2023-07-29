@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先着","p":true}],"r_ele":[{"r":"せんちゃく","p":true}],"sense":[{"gloss":"arriving first","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑先着↑↓|せんちゃく|↓↑順↑↓じゅん↓に↑並↑↓なら↓んでください。","e":"Please line up in order of arrival."}]}

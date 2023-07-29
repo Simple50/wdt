@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"珊瑚","p":true}],"r_ele":[{"r":"さんご","p":true},{"r":"サンゴ","p":true}],"sense":[{"gloss":"coral","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑君↑↓きみ↓の↑目↑↓め↓はまるで|サンゴ|のよう。ギラギラしていて、とてもきれい。","e":"Your eyes are like corals, dazzling and very pretty."}]}

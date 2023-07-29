@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガイダンス","p":true}],"sense":[{"gloss":"guidance","pos":["n"]}]},"sdata":[]}

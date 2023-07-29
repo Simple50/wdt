@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蹌踉めく","i":["rK"]}],"r_ele":[{"r":"よろめく","p":true}],"sense":[{"gloss":"to stagger, to stumble, to totter","pos":["v5k","vi"]},{"gloss":"to misconduct oneself, to have a love affair, to waver, to feel some inclination","pos":["v5k","vi"]}],"m":["uk"]},"sdata":[]}

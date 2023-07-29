@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高ぶる","p":true},{"e":"昂る"},{"e":"昂ぶる","i":["io"]}],"r_ele":[{"r":"たかぶる","p":true}],"sense":[{"gloss":"to become aroused (of emotions, nerves, etc.), to become excited, to become stirred up, to become worked up","pos":["v5r","vi"]},{"gloss":"to be proud, to be haughty, to be pompous, to be self-important","pos":["v5r","vi"]}]},"sdata":[]}

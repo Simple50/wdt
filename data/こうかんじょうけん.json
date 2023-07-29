@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"交換条件","p":true}],"r_ele":[{"r":"こうかんじょうけん","p":true}],"sense":[{"gloss":"bargaining point, terms of exchange, conditions for meeting a demand","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折衷","p":true},{"e":"折中"}],"r_ele":[{"r":"せっちゅう","p":true}],"sense":[{"gloss":"compromise, cross, blending, eclecticism","pos":["n","vs","vt","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑和洋折衷↑↓わよう|せっちゅう|↓の↑家↑↓いえ↓に↑住↑↓す↓んでいる。","e":"He lives in a house built in a semi foreign style."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"借り主","p":true},{"e":"借主"}],"r_ele":[{"r":"かりぬし","p":true}],"sense":[{"gloss":"borrower, debtor","pos":["n"]},{"gloss":"tenant, lessee, renter","pos":["n"]}]},"sdata":[]}

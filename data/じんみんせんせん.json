@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人民戦線","p":true}],"r_ele":[{"r":"じんみんせんせん","p":true}],"sense":[{"gloss":"popular front","pos":["n"]}]},"sdata":[]}

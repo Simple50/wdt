@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地震学","p":true}],"r_ele":[{"r":"じしんがく","p":true}],"sense":[{"gloss":"seismology","pos":["n"]}]},"sdata":[{"j":"↑東京↑↓とうきょう↓にいつ↑大↑↓だい↓↑地震↑↓|じしん↓がく|るか、↑誰↑↓だれ↓にも↑分↑↓わ↓からないのです。","e":"There is no telling when a severe earthquake will strike Tokyo."}]}

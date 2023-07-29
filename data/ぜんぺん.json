@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前篇"},{"e":"前編","p":true}],"r_ele":[{"r":"ぜんぺん","p":true}],"sense":[{"gloss":"first part, first volume, prequel","pos":["n"],"x":["後編"]}]},"sdata":[{"j":"↑私↑↓わたし↓はその↑本↑↓ほん↓を↑全編↑↓|ぜんぺん|↓↑残↑↓のこ↓らず↑読↑↓よ↓んだ。","e":"I read the book from cover to cover."}]}

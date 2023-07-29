@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土下座","p":true}],"r_ele":[{"r":"どげざ","p":true}],"sense":[{"gloss":"kneeling down on the ground, prostrate oneself","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑土下座↑↓|どげざ|↓しろ！","e":"On your knees!"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目玉商品","p":true}],"r_ele":[{"r":"めだましょうひん","p":true}],"sense":[{"gloss":"bargain goods, loss leader","pos":["n"]},{"gloss":"eye-catching goods, featured product","pos":["n"]}]},"sdata":[]}

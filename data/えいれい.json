@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"英霊","p":true}],"r_ele":[{"r":"えいれい","p":true}],"sense":[{"gloss":"spirits of war dead","pos":["n"]},{"gloss":"person of great ability, soul of a talented person","pos":["n"]}]},"sdata":[]}

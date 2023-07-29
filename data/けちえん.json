@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"結縁","p":true}],"r_ele":[{"r":"けちえん","p":true}],"sense":[{"gloss":"making a connection (with Buddha)","pos":["n"]}]},"sdata":[]}

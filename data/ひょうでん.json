@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"評伝","p":true}],"r_ele":[{"r":"ひょうでん","p":true}],"sense":[{"gloss":"critical biography","pos":["n"]}]},"sdata":[]}

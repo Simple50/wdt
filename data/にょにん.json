@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"女人","p":true}],"r_ele":[{"r":"にょにん","p":true},{"r":"じょじん"}],"sense":[{"gloss":"woman","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑自分↑↓じぶん↓の↑選↑↓えら↓んだ↑女人↑↓|にょにん|↓と↑結婚↑↓けっこん↓した。","e":"He married a girl of his own choice."}]}

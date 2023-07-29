@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サボる","p":true},{"r":"さぼる"}],"sense":[{"gloss":"to be truant, to slack off, to play hooky, to skip school, to cut class, to skip out","pos":["v5r","vi"],"x":["サボタージュ・2"]}],"m":["col"]},"sdata":[{"j":"トムはちょくちょく↑授業↑↓じゅぎょう↓を|サボる|。","e":"Tom often cuts classes."},{"j":"ちょくちょく|サボる|よ。","e":"I often play truant."}]}

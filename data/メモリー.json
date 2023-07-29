@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メモリー","p":true},{"r":"メモリ"}],"sense":[{"gloss":"memory","pos":["n"],"f":["comp"]},{"gloss":"memory, recollection, remembrance","pos":["n"]}]},"sdata":[]}

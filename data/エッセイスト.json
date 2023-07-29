@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エッセイスト","p":true}],"sense":[{"gloss":"essayist","pos":["n"]}]},"sdata":[]}

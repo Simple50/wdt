@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"捨て子","p":true},{"e":"棄て子"},{"e":"棄て児"},{"e":"棄児"},{"e":"捨子"},{"e":"棄子","i":["io"]}],"r_ele":[{"r":"すてご","p":true},{"r":"きじ"}],"sense":[{"gloss":"abandoned child, foundling","pos":["n"]}]},"sdata":[]}

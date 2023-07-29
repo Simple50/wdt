@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強圧","p":true}],"r_ele":[{"r":"きょうあつ","p":true}],"sense":[{"gloss":"pressure, duress, stress","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑今日↑↓|きょう↓↑暑↑↓あつ|↓いね！ ↑着↑↓き↓てくる↑服↑↓ふく↓↑間違↑↓まちが↓えたわ。","e":"Today sure is hot! I wore the wrong kind of clothing."}]}

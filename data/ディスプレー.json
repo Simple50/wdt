@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ディスプレイ","p":true},{"r":"ディスプレー","p":true}],"sense":[{"gloss":"display","pos":["n","vs","vt"]},{"gloss":"(digital) display, screen","pos":["n"]}]},"sdata":[]}

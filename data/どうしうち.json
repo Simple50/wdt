@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同士打ち","p":true},{"e":"同士討ち"},{"e":"同士打"},{"e":"同士討"}],"r_ele":[{"r":"どうしうち","p":true},{"r":"どしうち"}],"sense":[{"gloss":"friendly fire, killing each other by mistake","pos":["n"]},{"gloss":"internecine strife","pos":["n"]}]},"sdata":[]}

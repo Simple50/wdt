@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"定置網","p":true}],"r_ele":[{"r":"ていちあみ","p":true}],"sense":[{"gloss":"fixed shore net, fixed shore trap, stationary trap, stationary net","pos":["n"]}]},"sdata":[]}

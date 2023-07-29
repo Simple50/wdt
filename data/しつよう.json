@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"執拗","p":true},{"e":"執よう"}],"r_ele":[{"r":"しつよう","p":true},{"r":"しつおう"}],"sense":[{"gloss":"persistent, obstinate, tenacious, relentless, insistent, importunate, persevering, stubborn","pos":["adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓に↑迅速↑↓じんそく↓な↑回答↑↓かいとう↓を↑執拗↑↓|しつよう|↓に↑求↑↓もと↓めた。","e":"He pressed me for a prompt reply."}]}

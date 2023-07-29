@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気骨","p":true}],"r_ele":[{"r":"きこつ","p":true}],"sense":[{"gloss":"(moral) backbone, spirit, soul, grit","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓にはその↑法案↑↓ほうあん↓に↑反対↑↓はんたい↓の↑発言↑↓はつげん↓をする↑気骨↑↓|きこつ|↓があるだろうか。","e":"Will he have the backbone to speak out against the bill?"}]}

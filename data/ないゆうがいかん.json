@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内憂外患","p":true}],"r_ele":[{"r":"ないゆうがいかん","p":true}],"sense":[{"gloss":"troubles both at home and abroad","pos":["n"]}],"m":["yoji"]},"sdata":[]}

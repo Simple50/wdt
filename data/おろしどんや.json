@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卸し問屋"},{"e":"卸問屋","p":true}],"r_ele":[{"r":"おろしどんや","p":true}],"sense":[{"gloss":"wholesaler","pos":["n"]}]},"sdata":[]}

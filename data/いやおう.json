@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"否応","p":true}],"r_ele":[{"r":"いやおう","p":true}],"sense":[{"gloss":"yes or no answer, agreement or disagreement, consent or refusal","pos":["n"],"x":["否応なく"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ルーレット","p":true},{"r":"ルレット"}],"sense":[{"gloss":"roulette","pos":["n"],"l":"fre"}]},"sdata":[]}

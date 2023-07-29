@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プランタン","p":true},{"r":"プリンタン"}],"sense":[{"gloss":"spring, springtime","pos":["n"],"l":"fre: printemps"}]},"sdata":[]}

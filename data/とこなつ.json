@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"常夏","p":true}],"r_ele":[{"r":"とこなつ","p":true}],"sense":[{"gloss":"everlasting summer","pos":["n"]}]},"sdata":[]}

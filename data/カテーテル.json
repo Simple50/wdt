@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カテーテル","p":true}],"sense":[{"gloss":"catheter","pos":["n"],"l":"ger: Katheter,dut: katheter"}]},"sdata":[]}

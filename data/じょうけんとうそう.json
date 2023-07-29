@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"条件闘争","p":true}],"r_ele":[{"r":"じょうけんとうそう","p":true}],"sense":[{"gloss":"negotiation of conditions","pos":["n"]}]},"sdata":[]}

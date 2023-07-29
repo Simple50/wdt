@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クーペ","p":true}],"sense":[{"gloss":"coupe, coupé","pos":["n"],"l":"fre"}]},"sdata":[]}

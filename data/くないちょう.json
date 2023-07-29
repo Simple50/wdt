@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宮内庁","p":true}],"r_ele":[{"r":"くないちょう","p":true}],"sense":[{"gloss":"Imperial Household Agency","pos":["n"]}]},"sdata":[{"j":"それって、よ|くない↑兆候↑↓ちょう|こう↓ね。","e":"That's a bad sign."},{"j":"これって、よ|くない↑兆候↑↓ちょう|こう↓かしら？","e":"Is this a bad sign?"}]}

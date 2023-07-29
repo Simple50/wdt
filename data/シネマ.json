@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シネマ","p":true}],"sense":[{"gloss":"cinema","pos":["n"],"l":"fre: cinéma"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銑鉄","p":true}],"r_ele":[{"r":"せんてつ","p":true},{"r":"ずくてつ"}],"sense":[{"gloss":"pig iron","pos":["n"]}]},"sdata":[]}

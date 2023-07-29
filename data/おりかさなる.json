@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折り重なる","p":true},{"e":"折重なる"}],"r_ele":[{"r":"おりかさなる","p":true}],"sense":[{"gloss":"to lie on top of one another, to be in a heap","pos":["v5r","vi"]}]},"sdata":[]}

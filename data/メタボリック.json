@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メタボリック","p":true}],"sense":[{"gloss":"metabolic","pos":["n"]}]},"sdata":[]}

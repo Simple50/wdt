@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オンパレード","p":true},{"r":"オン・パレード"}],"sense":[{"gloss":"array (of things), display, succession (of things)","pos":["n"],"l":"eng: on parade"}]},"sdata":[{"j":"このファンタジー↑小説↑↓しょうせつ↓は↑派手↑↓はで↓な↑魔法↑↓まほう↓の|オンパレード|で↑逆↑↓ぎゃく↓に↑単調↑↓たんちょう↓だ。","e":"This fantasy book is a succession of really flashy magical spells and that makes it boring instead."}]}

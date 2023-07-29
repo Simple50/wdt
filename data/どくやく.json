@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"毒薬","p":true}],"r_ele":[{"r":"どくやく","p":true}],"sense":[{"gloss":"poison","pos":["n"]}]},"sdata":[{"j":"↑病院↑↓びょういん↓における↑感染↑↓かんせん↓↑制御↑↓せいぎょ↓↑策↑↓さく↓を↑実践↑↓じっせん↓する↑上↑↓じょう↓で、↑消毒↑↓しょう|どく↓↑薬↑↓やく|↓の↑有効↑↓ゆうこう↓↑活用↑↓かつよう↓は↑重要↑↓じゅうよう↓な↑課題↑↓かだい↓です。","e":"Effective use of disinfectant is an important subject in relation to infection control in hospitals."}]}

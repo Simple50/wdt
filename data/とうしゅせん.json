@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"投手戦","p":true}],"r_ele":[{"r":"とうしゅせん","p":true}],"sense":[{"gloss":"pitching duel, pitchers' battle","pos":["n"]}]},"sdata":[{"j":"２↑回↑↓かい↓↑以降↑↓いこう↓、↑相手↑↓あいて↓チームの↑投手↑↓とうしゅ↓も↑立↑↓た↓ち↑直↑↓なお↓って、↑投手↑↓|とうしゅ↓↑戦↑↓せん|↓となった。","e":"After the second innings, the opposing pitcher recovered too, and it turned into a pitching duel."}]}

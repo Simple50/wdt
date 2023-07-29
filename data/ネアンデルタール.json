@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ネアンデルタール","p":true}],"sense":[{"gloss":"Neanderthal","pos":["n"]}]},"sdata":[]}

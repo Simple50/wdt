@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"襖","p":true}],"r_ele":[{"r":"ふすま","p":true}],"sense":[{"gloss":"fusuma, Japanese sliding screen","pos":["n"]}]},"kdata":{"襖":{"on":["オウ"],"kun":["ふすま","あお"],"meanings":["opaque sliding door"],"comp":[["奧","衤"]],"jlpt":0,"freq":3417}},"sdata":[]}

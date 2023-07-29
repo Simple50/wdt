@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"楽劇","p":true}],"r_ele":[{"r":"がくげき","p":true}],"sense":[{"gloss":"musical play, opera","pos":["n"]}]},"sdata":[]}

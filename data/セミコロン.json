@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セミコロン","p":true}],"sense":[{"gloss":"semicolon","pos":["n"]}]},"sdata":[{"j":"|セミコロン|は↑句読点↑↓くとうてん↓です。","e":"A semicolon is a punctuation mark."}]}

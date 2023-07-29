@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リプライ","p":true}],"sense":[{"gloss":"reply","pos":["n"]}]},"sdata":[]}

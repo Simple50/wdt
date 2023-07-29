@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"今昔","p":true}],"r_ele":[{"r":"こんじゃく","p":true},{"r":"こんせき"}],"sense":[{"gloss":"past and present","pos":["n"]}]},"sdata":[]}

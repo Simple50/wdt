@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"額面割れ","p":true}],"r_ele":[{"r":"がくめんわれ","p":true}],"sense":[{"gloss":"drop below par","pos":["n"]}]},"sdata":[]}

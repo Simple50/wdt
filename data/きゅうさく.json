@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旧作","p":true}],"r_ele":[{"r":"きゅうさく","p":true}],"sense":[{"gloss":"old work, existing work","pos":["n"]}]},"sdata":[]}

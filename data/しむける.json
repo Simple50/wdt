@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仕向ける","p":true},{"e":"し向ける"},{"e":"仕向る","i":["io"]}],"r_ele":[{"r":"しむける","p":true}],"sense":[{"gloss":"to induce (someone to do something), to tempt","pos":["v1","vt"]},{"gloss":"to act toward (someone in a certain way), to handle (men), to treat","pos":["v1","vt"]},{"gloss":"to send, to forward to","pos":["v1","vt"]}]},"sdata":[]}

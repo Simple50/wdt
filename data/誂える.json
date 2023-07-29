@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"誂える","p":true}],"r_ele":[{"r":"あつらえる","p":true}],"sense":[{"gloss":"to give an order, to place an order, to have made to order","pos":["v1","vt"]}],"m":["uk"]},"kdata":{"誂":{"on":["チョウ"],"kun":["あつら.える","いど.む"],"meanings":["order"],"comp":[["兆","言"]],"freq":4780}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リバプールサウンド","p":true},{"r":"リバプール・サウンド"}],"sense":[{"gloss":"Liverpool Sound","pos":["n"]}]},"sdata":[]}

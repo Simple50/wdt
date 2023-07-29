@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"群青","p":true}],"r_ele":[{"r":"ぐんじょう","p":true}],"sense":[{"gloss":"ultramarine","pos":["n"]}]},"sdata":[{"j":"トムのフランス↑語↑↓ご↓はぐん|ぐん↑上達↑↓じょう|たつ↓している。","e":"Tom's French is steadily getting better."}]}

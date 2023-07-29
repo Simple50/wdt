@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"くじ引き","p":true},{"e":"籤引き","p":true},{"e":"籤引","p":true}],"r_ele":[{"r":"くじびき","p":true}],"sense":[{"gloss":"lottery, drawn lot","pos":["n","vs","vi"]}]},"kdata":{"引":{"on":["イン"],"kun":["ひ.く","ひ.ける"],"jlpt":3,"meanings":["pull","tug","jerk","admit","install","quote","refer to"],"freq":218,"comp":[["弓","丨"]],"d":["矧","蚓","紖","訠","靷"],"t":133}},"sdata":[]}

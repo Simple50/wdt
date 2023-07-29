@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"築造","p":true}],"r_ele":[{"r":"ちくぞう","p":true}],"sense":[{"gloss":"construction, building","pos":["n","vs","vt"]}]},"sdata":[]}

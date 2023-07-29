@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆け寄る","p":true},{"e":"駆けよる"},{"e":"駆寄る"},{"e":"かけ寄る"}],"r_ele":[{"r":"かけよる","p":true}],"sense":[{"gloss":"to rush over, to run up to","pos":["v5r","vi"]}]},"sdata":[]}

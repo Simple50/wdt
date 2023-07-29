@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"醸し出す","p":true},{"e":"かもし出す"},{"e":"醸しだす"}],"r_ele":[{"r":"かもしだす","p":true}],"sense":[{"gloss":"to create (an atmosphere, feeling, etc.), to produce, to engender","pos":["v5s","vt"]}]},"sdata":[]}

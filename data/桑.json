@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"桑","p":true}],"r_ele":[{"r":"くわ","p":true}],"sense":[{"gloss":"mulberry (tree)","pos":["n"]}]},"kdata":{"桑":{"on":["ソウ"],"kun":["くわ"],"jlpt":1,"meanings":["mulberry"],"freq":1650,"comp":[["木","又"]],"d":["顙","嗓","磉"],"t":1098}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アラート","p":true}],"sense":[{"gloss":"alert, warning","pos":["n"]}]},"sdata":[]}

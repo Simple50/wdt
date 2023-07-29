@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シルバー","p":true}],"sense":[{"gloss":"silver","pos":["adj-no","n"]},{"gloss":"senior citizen, pensioner","pos":["n","n-pref"]}]},"sdata":[{"j":"|シルバー|のネックレスを↑探↑↓さが↓してるんだけど。","e":"I'm looking for a silver necklace."},{"j":"ゴールドより|シルバー|リングの↑方↑↓ほう↓が↑好↑↓す↓きだな。","e":"I prefer silver rings to gold ones."}]}

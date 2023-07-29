@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"泣き所","p":true},{"e":"泣きどころ"},{"e":"泣き処","i":["rK"]}],"r_ele":[{"r":"なきどころ","p":true}],"sense":[{"gloss":"weak point, vulnerable point, Achilles' heel","pos":["n"]}]},"sdata":[]}

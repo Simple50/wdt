@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カマーバンド","p":true}],"sense":[{"gloss":"cummerbund","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デタント","p":true}],"sense":[{"gloss":"detente","pos":["n"],"l":"fre: détente"}]},"sdata":[]}

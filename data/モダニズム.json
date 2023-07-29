@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モダニズム","p":true}],"sense":[{"gloss":"modernism","pos":["n"]}]},"sdata":[]}

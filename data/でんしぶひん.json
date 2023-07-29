@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電子部品","p":true}],"r_ele":[{"r":"でんしぶひん","p":true}],"sense":[{"gloss":"electronic parts, electronic components","pos":["n"]}]},"sdata":[]}

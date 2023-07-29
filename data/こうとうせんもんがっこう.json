@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高等専門学校","p":true}],"r_ele":[{"r":"こうとうせんもんがっこう","p":true}],"sense":[{"gloss":"technical college","pos":["n"]}]},"sdata":[]}

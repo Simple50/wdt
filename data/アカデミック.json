@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アカデミック","p":true}],"sense":[{"gloss":"academic","pos":["adj-na","n"]}]},"sdata":[{"j":"↑明日↑↓あした↓↑夜↑↓よる↓↑９↑↓く↓↑時↑↓じ↓に|アカデミック|・アドバイザーに↑電話↑↓でんわ↓をかけることを、↑思↑↓おも↓い↑出↑↓だ↓させてください。","e":"Could you remind me to call my academic advisor at 9:00 p.m. tomorrow?"}]}

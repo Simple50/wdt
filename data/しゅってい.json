@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出廷","p":true}],"r_ele":[{"r":"しゅってい","p":true}],"sense":[{"gloss":"appearance in court","pos":["n","vs","vi"]}]},"sdata":[{"j":"ホワイト↑氏↑↓し↓が↑彼↑↓かれ↓の↑弁護↑↓べんご↓↑人↑↓じん↓として↑出廷↑↓|しゅってい|↓した。","e":"Mr White appeared for him in court."},{"j":"↑彼女↑↓かのじょ↓は↑出廷↑↓|しゅってい|↓したとき、↑王冠↑↓おうかん↓のようなものをかぶっていた。","e":"When she appeared in court, she was wearing a sort of crown."}]}

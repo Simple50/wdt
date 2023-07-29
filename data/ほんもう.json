@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本望","p":true}],"r_ele":[{"r":"ほんもう","p":true}],"sense":[{"gloss":"long-cherished ambition, satisfaction","pos":["adj-na","n"]}]},"sdata":[]}

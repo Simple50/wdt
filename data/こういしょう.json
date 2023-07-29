@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後遺症","p":true}],"r_ele":[{"r":"こういしょう","p":true}],"sense":[{"gloss":"prognostic symptoms, after-effect, sequela","pos":["n"],"f":["med"]}]},"sdata":[]}

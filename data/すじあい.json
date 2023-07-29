@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"筋合"},{"e":"筋合い","p":true}],"r_ele":[{"r":"すじあい","p":true}],"sense":[{"gloss":"reason, right","pos":["n"]}]},"sdata":[{"j":"お↑前↑↓まえ↓にそんなこと↑言↑↓い↓われる↑筋合↑↓|すじあ↓い|ねえよ。","e":"You have no justification to say something like that."},{"j":"このことに↑関↑↓かん↓してあなたに↑文句↑↓もんく↓を↑言↑↓い↓われる↑筋合↑↓|すじあ↓い|はありません。","e":"You have no business complaining about the matter."}]}

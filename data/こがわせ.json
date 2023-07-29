@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小為替","p":true}],"r_ele":[{"r":"こがわせ","p":true}],"sense":[{"gloss":"(former) postal note (abolished in 1951), postal order, postal money order","pos":["n"],"x":["郵便為替"]}]},"sdata":[]}

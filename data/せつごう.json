@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"接合","p":true}],"r_ele":[{"r":"せつごう","p":true}],"sense":[{"gloss":"union, joining","pos":["n","vs","vt"]},{"gloss":"conjugation","pos":["n","vs","vi"],"f":["biol"]}]},"sdata":[]}

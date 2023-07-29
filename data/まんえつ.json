@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"満悦","p":true}],"r_ele":[{"r":"まんえつ","p":true}],"sense":[{"gloss":"great delight, great satisfaction, rapture","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓の↑失敗↑↓しっぱい↓にご↑満悦↑↓|まんえつ|↓の↑体↑↓からだ↓でそこに↑座↑↓すわ↓っていた。","e":"He was sitting there, delighted with my failure."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"残像","p":true}],"r_ele":[{"r":"ざんぞう","p":true}],"sense":[{"gloss":"afterimage","pos":["n"],"f":["psych"]}]},"sdata":[]}

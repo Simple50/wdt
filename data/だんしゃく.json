@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"男爵","p":true}],"r_ele":[{"r":"だんしゃく","p":true}],"sense":[{"gloss":"baron","pos":["n"],"x":["五等爵"]},{"gloss":"Irish cobbler (variety of potato)","pos":["n"],"x":["男爵芋"]}]},"sdata":[]}

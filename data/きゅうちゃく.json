@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吸着","p":true}],"r_ele":[{"r":"きゅうちゃく","p":true}],"sense":[{"gloss":"adsorption","pos":["n","vs","vi"],"f":["chem"],"ant":["脱着・だっちゃく・2"]},{"gloss":"adhesion (by suction), attachment, sticking to","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ライアビリティー","p":true}],"sense":[{"gloss":"liability","pos":["n"]}]},"sdata":[]}

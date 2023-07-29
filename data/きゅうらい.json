@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旧来","p":true}],"r_ele":[{"r":"きゅうらい","p":true}],"sense":[{"gloss":"traditional, from ancient times, formerly","pos":["adj-no","n","adv"]}]},"sdata":[]}

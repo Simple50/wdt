@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"塩漬け","p":true},{"e":"塩漬"}],"r_ele":[{"r":"しおづけ","p":true}],"sense":[{"gloss":"pickling in salt","pos":["n","vs"]},{"gloss":"leaving unchanged, leaving unused","pos":["n","adj-no"]}]},"sdata":[{"j":"↑塩漬↑↓|しおづ↓け|キャベツを↑細↑↓こま↓かく↑切↑↓き↓る。","e":"Chop the pickled cabbage finely."}]}

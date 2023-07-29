@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金屏風","p":true}],"r_ele":[{"r":"きんびょうぶ","p":true}],"sense":[{"gloss":"folding screen covered with gold leaf","pos":["n"]}]},"sdata":[]}

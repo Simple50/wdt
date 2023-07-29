@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"坂道","p":true}],"r_ele":[{"r":"さかみち","p":true}],"sense":[{"gloss":"hill road","pos":["n"]}]},"sdata":[{"j":"その↑坂道↑↓|さかみち|↓を↑下↑↓くだ↓ろう。","e":"Let's descend the slope."},{"j":"フーッ、この↑坂道↑↓|さかみち|↓はきついよ。でも↑帰↑↓かえ↓りは↑楽↑↓らく↓だよね。","e":"Whew! This is a tough hill. But coming back sure will be a breeze."}]}

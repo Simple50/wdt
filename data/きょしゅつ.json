@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"拠出","p":true},{"e":"醵出","i":["ateji"]}],"r_ele":[{"r":"きょしゅつ","p":true}],"sense":[{"gloss":"donation, contribution","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑環境↑↓かんきょう↓を↑救↑↓すく↓うために、みんなが↑拠出↑↓|きょしゅつ|↓も↑含↑↓ふく↓めた↑協力↑↓きょうりょく↓をしなければならないでしょう。","e":"Everybody will have to pitch in to save the environment."}]}

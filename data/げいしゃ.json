@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"芸者","p":true},{"e":"藝者","i":["oK"]}],"r_ele":[{"r":"げいしゃ","p":true}],"sense":[{"gloss":"geisha, professional female entertainer, usu. at traditional banquets","pos":["n"]}]},"sdata":[]}

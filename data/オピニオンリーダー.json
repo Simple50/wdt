@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オピニオンリーダー","p":true},{"r":"オピニオン・リーダー"}],"sense":[{"gloss":"opinion leader","pos":["n"]}]},"sdata":[]}

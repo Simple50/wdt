@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シソーラス","p":true}],"sense":[{"gloss":"thesaurus","pos":["n"]}]},"sdata":[]}

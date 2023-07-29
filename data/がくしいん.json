@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学士院","p":true}],"r_ele":[{"r":"がくしいん","p":true}],"sense":[{"gloss":"Japan Academy","pos":["n"],"m":["abbr"],"x":["日本学士院"]},{"gloss":"learned society, academy, institute","pos":["n"]}]},"sdata":[]}

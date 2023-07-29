@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"食糧庁","p":true}],"r_ele":[{"r":"しょくりょうちょう","p":true}],"sense":[{"gloss":"food agency","pos":["n"]}]},"sdata":[]}

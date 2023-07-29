@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逆探知","p":true}],"r_ele":[{"r":"ぎゃくたんち","p":true}],"sense":[{"gloss":"phone trace, detecting the source of a telephone call","pos":["n","vs","vt"]}]},"sdata":[]}

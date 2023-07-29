@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流体","p":true}],"r_ele":[{"r":"りゅうたい","p":true}],"sense":[{"gloss":"fluid","pos":["n"]}]},"sdata":[]}

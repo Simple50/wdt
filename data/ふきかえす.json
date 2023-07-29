@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吹き返す","p":true}],"r_ele":[{"r":"ふきかえす","p":true}],"sense":[{"gloss":"to blow in the opposite direction, to revive","pos":["v5s"]}]},"sdata":[]}

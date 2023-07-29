@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"提供者","p":true}],"r_ele":[{"r":"ていきょうしゃ","p":true}],"sense":[{"gloss":"donor, contributor, provider","pos":["n"]}]},"sdata":[]}

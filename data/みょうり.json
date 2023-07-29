@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冥利","p":true}],"r_ele":[{"r":"みょうり","p":true}],"sense":[{"gloss":"providence, luck, favor, favour, advantage","pos":["n"]}]},"sdata":[]}

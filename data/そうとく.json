@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総督","p":true}],"r_ele":[{"r":"そうとく","p":true}],"sense":[{"gloss":"governor-general, governor, viceroy","pos":["n","vs","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二重写し","p":true}],"r_ele":[{"r":"にじゅううつし","p":true}],"sense":[{"gloss":"double exposure","pos":["n"]}]},"sdata":[]}

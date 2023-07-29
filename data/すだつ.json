@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巣立つ","p":true}],"r_ele":[{"r":"すだつ","p":true}],"sense":[{"gloss":"to leave the nest","pos":["v5t","vi"]},{"gloss":"to go out into the world, to become independent (of one's parents), to graduate (and become a member of society)","pos":["v5t","vi"],"m":["id"]}]},"sdata":[]}

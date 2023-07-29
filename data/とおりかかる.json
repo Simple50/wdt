@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通りかかる"},{"e":"通り掛かる","p":true},{"e":"通り掛る"}],"r_ele":[{"r":"とおりかかる","p":true}],"sense":[{"gloss":"to happen to pass by","pos":["v5r","vt","vi"]}]},"sdata":[{"j":"すると、たまたま↑少女↑↓しょうじょ↓のおばあちゃんが↑通↑↓|とお↓りかかる|。","e":"Along comes the grandmother and sees her granddaughter."}]}

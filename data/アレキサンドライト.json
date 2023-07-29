@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アレキサンドライト","p":true},{"r":"アレクサンドライト"}],"sense":[{"gloss":"alexandrite","pos":["n"]}]},"sdata":[]}

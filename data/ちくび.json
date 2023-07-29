@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乳首","p":true}],"r_ele":[{"r":"ちくび","p":true},{"r":"ちちくび"}],"sense":[{"gloss":"nipple, teat","pos":["n"]}]},"sdata":[{"j":"↑乳首↑↓|ちくび|↓から↑分泌↑↓ぶんぴつ↓↑液↑↓えき↓が↑出↑↓で↓ます。","e":"I have a discharge from my nipple."}]}

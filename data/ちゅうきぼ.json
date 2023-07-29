@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中規模","p":true}],"r_ele":[{"r":"ちゅうきぼ","p":true}],"sense":[{"gloss":"mid-range, mid-scale, mid-size","pos":["adj-na","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"張り替える","p":true},{"e":"貼り替える"},{"e":"貼りかえる"},{"e":"張替える"},{"e":"張りかえる"},{"e":"貼替える"}],"r_ele":[{"r":"はりかえる","p":true}],"sense":[{"gloss":"to re-cover, to reupholster, to repaper, to renew (e.g. a plaster)","pos":["v1","vt"]}]},"sdata":[]}

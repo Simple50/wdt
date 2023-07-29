@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"捕物帳","p":true},{"e":"捕物帖"},{"e":"捕り物帳"}],"r_ele":[{"r":"とりものちょう","p":true}],"sense":[{"gloss":"detective story (esp. one from the Edo period featuring thief-takers)","pos":["n"],"x":["目明かし","岡っ引き"]},{"gloss":"detective's memoirs, thief taker's memoirs","pos":["n"]}]},"sdata":[]}

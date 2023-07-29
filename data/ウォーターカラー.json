@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウォーターカラー","p":true}],"sense":[{"gloss":"watercolor, watercolour","pos":["n"],"x":["水彩画"]}]},"sdata":[]}

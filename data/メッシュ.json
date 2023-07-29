@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メッシュ","p":true},{"r":"メシュ"}],"sense":[{"gloss":"mesh, grid","pos":["n","adj-no"]}]},"sdata":[]}

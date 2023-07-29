@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飾り物","p":true}],"r_ele":[{"r":"かざりもの","p":true}],"sense":[{"gloss":"ornament, decoration","pos":["n"]},{"gloss":"figurehead, leader without real power","pos":["n"]}]},"sdata":[]}

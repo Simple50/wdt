@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンサルティング","p":true}],"sense":[{"gloss":"consulting","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は|コンサルティング|ファームに↑勤↑↓つと↓める。","e":"He works for a consulting firm."},{"j":"↑彼↑↓かれ↓は、|コンサルティング|↑会社↑↓かいしゃ↓で↑働↑↓はたら↓いています。","e":"He works for a consulting firm."}]}

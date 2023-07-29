@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"表札","p":true},{"e":"標札"}],"r_ele":[{"r":"ひょうさつ","p":true}],"sense":[{"gloss":"nameplate, doorplate","pos":["n"]}]},"sdata":[]}

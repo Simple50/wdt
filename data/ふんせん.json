@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奮戦","p":true}],"r_ele":[{"r":"ふんせん","p":true}],"sense":[{"gloss":"hard fighting","pos":["n","vs","vi"]}]},"sdata":[]}

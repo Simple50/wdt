@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エキサイト","p":true}],"sense":[{"gloss":"excite","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑時間↑↓じかん↓が↑経↑↓た↓つにつれ↑両者↑↓りょうしゃ↓は↑次第↑↓しだい↓に|エキサイト|してきた。","e":"The more time passed, the more excited the two got."}]}

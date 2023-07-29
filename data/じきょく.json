@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"時局","p":true}],"r_ele":[{"r":"じきょく","p":true}],"sense":[{"gloss":"situation, state of things, current affairs","pos":["n"]}]},"sdata":[]}

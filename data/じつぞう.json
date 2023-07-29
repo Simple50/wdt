@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"実像","p":true}],"r_ele":[{"r":"じつぞう","p":true}],"sense":[{"gloss":"real image","pos":["n"],"f":["physics"],"x":["虚像・きょぞう・1"]},{"gloss":"real form, real-life image, true picture, actual conditions, actual circumstances","pos":["n"],"x":["虚像・きょぞう・2"]}]},"sdata":[]}

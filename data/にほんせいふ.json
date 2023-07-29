@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本政府","p":true}],"r_ele":[{"r":"にほんせいふ","p":true}],"sense":[{"gloss":"Japanese government","pos":["n"]}]},"sdata":[]}

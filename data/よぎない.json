@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"余儀ない","p":true},{"e":"余儀無い"}],"r_ele":[{"r":"よぎない","p":true}],"sense":[{"gloss":"unavoidable, inevitable, beyond one's control","pos":["adj-i"]}]},"sdata":[]}

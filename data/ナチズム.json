@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナチズム","p":true}],"sense":[{"gloss":"Nazism, national socialism","pos":["n"]}]},"sdata":[{"j":"|ナチズム|はドイツ↑独特↑↓どくとく↓のものでしたか。","e":"Was Nazism peculiar to Germany?"}]}

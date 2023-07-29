@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通算","p":true}],"r_ele":[{"r":"つうさん","p":true}],"sense":[{"gloss":"total, sum, aggregate","pos":["n","vs","vt"]}]},"sdata":[{"j":"その↑件↑↓けん↓は↑通産省↑↓|つうさん|しょう↓の↑管轄↑↓かんかつ↓↑下↑↓か↓にある。","e":"The matter comes under MITI."}]}

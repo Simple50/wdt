@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勤め先","p":true}],"r_ele":[{"r":"つとめさき","p":true}],"sense":[{"gloss":"place of work","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑勤↑↓|つと↓め↑先↑↓さき|↓はどこですか。","e":"Where does he work?"},{"j":"↑彼↑↓かれ↓の↑勤↑↓|つと↓め↑先↑↓さき|↓はどこですか。","e":"Who does he work for?"}]}

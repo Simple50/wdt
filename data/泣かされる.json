@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"泣かされる","p":true}],"r_ele":[{"r":"なかされる","p":true}],"sense":[{"gloss":"to be moved to tears","pos":["v1","vi"]},{"gloss":"to suffer greatly (from)","pos":["v1","vi"]}]},"kdata":{"泣":{"on":["キュウ"],"kun":["な.く"],"jlpt":1,"meanings":["cry","weep","moan"],"freq":1380,"comp":[["立","氵"]],"t":726}},"sdata":[]}

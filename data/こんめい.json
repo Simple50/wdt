@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"混迷","p":true}],"r_ele":[{"r":"こんめい","p":true}],"sense":[{"gloss":"turmoil, chaos, confusion","pos":["n","vs","vi"]}]},"sdata":[]}

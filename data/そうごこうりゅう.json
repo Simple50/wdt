@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相互交流","p":true}],"r_ele":[{"r":"そうごこうりゅう","p":true}],"sense":[{"gloss":"mutual exchange","pos":["n"]}]},"sdata":[]}

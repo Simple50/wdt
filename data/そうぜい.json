@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総勢","p":true}],"r_ele":[{"r":"そうぜい","p":true}],"sense":[{"gloss":"all members, whole army","pos":["n"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓は↑総勢↑↓|そうぜい|↓４３↑名↑↓めい↓です。","e":"We are forty-three in all."},{"j":"↑集↑↓あつ↓められた↑使用人↑↓しようにん↓さんたちは、↑総勢↑↓|そうぜい|↓・・・ひゃ、↑百↑↓ひゃく↓↑人↑↓にん↓↑近↑↓ちか↓いよ。","e":"The servants gathered there totalled ... n-nearly one hundred!"}]}

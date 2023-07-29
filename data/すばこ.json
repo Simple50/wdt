@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巣箱","p":true}],"r_ele":[{"r":"すばこ","p":true}],"sense":[{"gloss":"birdhouse, nest box, bird box","pos":["n"]},{"gloss":"beehive","pos":["n"],"x":["養蜂箱"]}]},"sdata":[]}

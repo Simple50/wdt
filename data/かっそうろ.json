@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滑走路","p":true}],"r_ele":[{"r":"かっそうろ","p":true}],"sense":[{"gloss":"runway","pos":["n"]}]},"sdata":[{"j":"↑飛行機↑↓ひこうき↓は↑滑走↑↓|かっそう↓↑路↑↓ろ|↓に↑着陸↑↓ちゃくりく↓した。","e":"An airplane touched down on the runway."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無資格","p":true}],"r_ele":[{"r":"むしかく","p":true}],"sense":[{"gloss":"unqualified, unlicensed, uncertified","pos":["adj-na","n"]}]},"sdata":[]}

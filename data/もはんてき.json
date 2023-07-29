@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"模範的","p":true}],"r_ele":[{"r":"もはんてき","p":true}],"sense":[{"gloss":"exemplary","pos":["adj-na"]}]},"sdata":[]}

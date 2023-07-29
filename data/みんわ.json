@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民話","p":true}],"r_ele":[{"r":"みんわ","p":true}],"sense":[{"gloss":"folk tale, folktale, folk story, folklore","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑日本↑↓にっぽん↓の↑民話↑↓|みんわ|↓を↑教科書↑↓きょうかしょ↓↑用↑↓よう↓に↑纏↑↓まと↓めた。","e":"He compiled a Japanese folklore anthology for use in schools."}]}

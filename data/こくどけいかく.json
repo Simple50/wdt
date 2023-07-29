@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国土計画","p":true}],"r_ele":[{"r":"こくどけいかく","p":true}],"sense":[{"gloss":"national land planning","pos":["n"]}]},"sdata":[]}

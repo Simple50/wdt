@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下士官","p":true}],"r_ele":[{"r":"かしかん","p":true}],"sense":[{"gloss":"non-commissioned officer, petty officer","pos":["n"],"f":["mil"]}]},"sdata":[{"j":"し|かし↑感心↑↓かん|しん↓にも↑彼↑↓かれ↓は↑彼女↑↓かのじょ↓に↑不利↑↓ふり↓なことは↑何↑↓なに↓も↑言↑↓い↓わなかった。","e":"But, to his credit, he didn't say anything against her."},{"j":"↑貸↑↓|か↓し↑間↑↓かん|↓あり。","e":"Room for rent."}]}

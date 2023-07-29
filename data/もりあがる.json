@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盛り上がる","p":true},{"e":"盛りあがる"},{"e":"盛り上る"},{"e":"盛上がる"},{"e":"盛上る"}],"r_ele":[{"r":"もりあがる","p":true}],"sense":[{"gloss":"to swell, to rise, to bulge, to be piled up","pos":["v5r","vi"]},{"gloss":"to rouse, to get excited","pos":["v5r","vi"]}]},"sdata":[{"j":"あの↑曲↑↓きょく↓を↑聞↑↓き↓いてみんなは↑盛↑↓|も↓り↑上↑↓あ↓がる|。","e":"Everyone listens to the song and gets excited."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"木目","p":true},{"e":"杢目"}],"r_ele":[{"r":"もくめ","p":true}],"sense":[{"gloss":"grain (of wood)","pos":["n"]}]},"sdata":[]}

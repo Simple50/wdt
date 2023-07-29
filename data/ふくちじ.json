@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"副知事","p":true}],"r_ele":[{"r":"ふくちじ","p":true}],"sense":[{"gloss":"vice-governor, deputy governor, lieutenant governor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"市民社会","p":true}],"r_ele":[{"r":"しみんしゃかい","p":true}],"sense":[{"gloss":"civil society","pos":["n"]}]},"sdata":[]}

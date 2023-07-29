@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"門戸開放政策","p":true}],"r_ele":[{"r":"もんこかいほうせいさく","p":true}],"sense":[{"gloss":"open door policy","pos":["n"]}]},"sdata":[]}

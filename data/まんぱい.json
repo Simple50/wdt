@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"満杯","p":true}],"r_ele":[{"r":"まんぱい","p":true}],"sense":[{"gloss":"full","pos":["n","adj-no"]}]},"sdata":[{"j":"↑今日↑↓きょう↓の↑電車↑↓でんしゃ↓は↑本当↑↓ほんとう↓に↑満杯↑↓|まんぱい|↓だ。","e":"The train is packed today."}]}

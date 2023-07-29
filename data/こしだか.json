@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腰高","p":true}],"r_ele":[{"r":"こしだか","p":true}],"sense":[{"gloss":"overbearing, unstable wrestling stance","pos":["adj-na","n"]}]},"sdata":[]}

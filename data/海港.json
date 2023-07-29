@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海港","p":true}],"r_ele":[{"r":"かいこう","p":true}],"sense":[{"gloss":"port, seaport","pos":["n"]}]},"kdata":{"海":{"on":["カイ"],"kun":["うみ"],"jlpt":4,"meanings":["sea","ocean"],"freq":200,"comp":[["每","氵"]],"d":["塰"],"t":907},"港":{"on":["コウ"],"kun":["みなと"],"jlpt":3,"meanings":["harbor"],"freq":495,"comp":[["氵","巷"]],"t":1548}},"sdata":[]}

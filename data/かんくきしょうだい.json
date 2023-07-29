@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"管区気象台","p":true}],"r_ele":[{"r":"かんくきしょうだい","p":true}],"sense":[{"gloss":"district meteorological observatory","pos":["n"]}]},"sdata":[]}

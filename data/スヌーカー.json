@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スヌーカー","p":true}],"sense":[{"gloss":"snooker","pos":["n"],"f":["sports"]}]},"sdata":[]}

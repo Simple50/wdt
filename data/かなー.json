@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"かな","p":true},{"r":"かなあ","p":true},{"r":"かなー","p":true},{"r":"かなぁ"}],"sense":[{"gloss":"I wonder","pos":["prt"]},{"gloss":"should I?, is it?","pos":["prt"]},{"gloss":"I wish that, I hope that","pos":["prt"]}]},"sdata":[]}

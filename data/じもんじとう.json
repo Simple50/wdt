@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自問自答","p":true}],"r_ele":[{"r":"じもんじとう","p":true}],"sense":[{"gloss":"answering one's own question, wondering to oneself, soliloquizing, soliloquising","pos":["n","vs"]}],"m":["yoji"]},"sdata":[]}

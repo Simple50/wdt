@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天理教","p":true}],"r_ele":[{"r":"てんりきょう","p":true}],"sense":[{"gloss":"Tenrikyo (Shinto sect)","pos":["n"]}]},"sdata":[]}

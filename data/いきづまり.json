@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行き詰まり","p":true},{"e":"行き詰り"},{"e":"行詰り"},{"e":"行詰まり"}],"r_ele":[{"r":"いきづまり","p":true},{"r":"ゆきづまり"}],"sense":[{"gloss":"deadlock, stalemate, impasse, dead end","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"統一感","p":true}],"r_ele":[{"r":"とういつかん","p":true}],"sense":[{"gloss":"sense of unity, sense of oneness","pos":["n"]}]},"sdata":[]}

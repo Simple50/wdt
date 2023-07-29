@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パドル","p":true}],"sense":[{"gloss":"paddle","pos":["n"]}]},"sdata":[]}

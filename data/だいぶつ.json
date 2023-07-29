@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大仏","p":true}],"r_ele":[{"r":"だいぶつ","p":true}],"sense":[{"gloss":"large statue of Buddha (trad. at least 4.8m high)","pos":["n"]}]},"sdata":[{"j":"↑奈良↑↓なら↓は↑大仏↑↓|だいぶつ|↓で↑有名↑↓ゆうめい↓です。","e":"Nara is famous for Daibutsu."}]}

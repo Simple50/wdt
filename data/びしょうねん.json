@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"美少年","p":true}],"r_ele":[{"r":"びしょうねん","p":true}],"sense":[{"gloss":"handsome youth (male), pretty boy","pos":["n"]}]},"sdata":[]}

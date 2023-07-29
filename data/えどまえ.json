@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"江戸前","p":true}],"r_ele":[{"r":"えどまえ","p":true}],"sense":[{"gloss":"Tokyo style","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"女房役","p":true}],"r_ele":[{"r":"にょうぼうやく","p":true}],"sense":[{"gloss":"assistant, right-hand man, subordinate, wifely role","pos":["n"]}]},"sdata":[]}

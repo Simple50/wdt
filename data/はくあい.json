@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"博愛","p":true}],"r_ele":[{"r":"はくあい","p":true}],"sense":[{"gloss":"charity, benevolence, philanthropy, (love for) humanity, fraternity, brotherhood, brotherly love, love of fellow man","pos":["n","adj-no"]}]},"sdata":[{"j":"「↑自由↑↓じゆう↓・↑平等↑↓びょうどう↓・↑博愛↑↓|はくあい|↓」はハイチ↑共和↑↓きょうわ↓↑国↑↓こく↓のスローガンでもある。","e":"Freedom, Equality, Brotherhood is also Haiti's motto."}]}

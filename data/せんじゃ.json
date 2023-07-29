@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"選者","p":true}],"r_ele":[{"r":"せんじゃ","p":true}],"sense":[{"gloss":"judge, selector","pos":["n"]}]},"sdata":[]}

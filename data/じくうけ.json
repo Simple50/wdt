@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軸受け","p":true},{"e":"軸受"}],"r_ele":[{"r":"じくうけ","p":true}],"sense":[{"gloss":"bearing, shaft bearing, axle bearing, plummer block, pillow block","pos":["n"]}]},"sdata":[]}

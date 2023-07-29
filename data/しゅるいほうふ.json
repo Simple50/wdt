@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"種類豊富","p":true}],"r_ele":[{"r":"しゅるいほうふ","p":true}],"sense":[{"gloss":"rich in variety, diverse, wide-ranging, multifarious","pos":["n","adj-na"]}]},"sdata":[]}

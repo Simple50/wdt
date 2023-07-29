@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゲイン","p":true}],"sense":[{"gloss":"gain","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スクリプター","p":true}],"sense":[{"gloss":"continuity supervisor, script supervisor","pos":["n"],"l":"eng: scripter"}]},"sdata":[]}

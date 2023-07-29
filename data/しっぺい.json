@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"疾病","p":true}],"r_ele":[{"r":"しっぺい","p":true}],"sense":[{"gloss":"illness, disease","pos":["n"]}]},"sdata":[{"j":"この↑疾病↑↓|しっぺい|↓の↑要因↑↓よういん↓は、ストレスです。","e":"The cause of this illness is stress."}]}

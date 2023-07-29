@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インスティテューション"},{"r":"インスティチューション","p":true}],"sense":[{"gloss":"institution","pos":["n"]}]},"sdata":[]}

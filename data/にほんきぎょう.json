@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日本企業","p":true}],"r_ele":[{"r":"にほんきぎょう","p":true}],"sense":[{"gloss":"Japanese company (business, firm)","pos":["n"]}]},"sdata":[]}

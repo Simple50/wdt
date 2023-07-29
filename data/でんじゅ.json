@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伝授","p":true}],"r_ele":[{"r":"でんじゅ","p":true}],"sense":[{"gloss":"(giving) instruction (esp. in the secrets of an art, discipline, etc.), initiation, teaching, passing on, imparting","pos":["n","vs","vt"]}]},"sdata":[]}

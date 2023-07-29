@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"輪番","p":true}],"r_ele":[{"r":"りんばん","p":true}],"sense":[{"gloss":"rotation (e.g. of a duty), taking turns","pos":["n","adj-no"]}]},"sdata":[{"j":"↑警備↑↓けいび↓↑員↑↓いん↓たちは１↑時間↑↓じかん↓ごとに↑輪番↑↓|りんばん|↓で↑見回↑↓みまわ↓った。","e":"The guards rotated in making their rounds every hour."}]}

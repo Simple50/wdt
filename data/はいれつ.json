@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"配列","p":true},{"e":"排列","i":["rK"]}],"r_ele":[{"r":"はいれつ","p":true}],"sense":[{"gloss":"arrangement, disposition","pos":["n","vs","vt"]},{"gloss":"array","pos":["n"],"f":["comp"]}]},"sdata":[]}

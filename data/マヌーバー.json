@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マヌーバー","p":true}],"sense":[{"gloss":"maneuver, manoeuvre","pos":["n"]}]},"sdata":[]}

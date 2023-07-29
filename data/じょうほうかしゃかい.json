@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"情報化社会","p":true}],"r_ele":[{"r":"じょうほうかしゃかい","p":true}],"sense":[{"gloss":"information society","pos":["n"]}]},"sdata":[]}

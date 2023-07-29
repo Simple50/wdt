@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"非力","p":true}],"r_ele":[{"r":"ひりき","p":true}],"sense":[{"gloss":"powerless, helpless, incompetent","pos":["adj-na","n"]}]},"sdata":[]}

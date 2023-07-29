@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"奪還","p":true}],"r_ele":[{"r":"だっかん","p":true}],"sense":[{"gloss":"recapture, retaking, recovery, taking back","pos":["n","vs","vt"]}]},"sdata":[]}

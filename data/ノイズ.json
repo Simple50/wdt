@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノイズ","p":true}],"sense":[{"gloss":"noise","pos":["n"]}]},"sdata":[{"j":"ソレノイドへの↑突入↑↓とつにゅう↓↑電流↑↓でんりゅう↓で|ノイズ|が↑発生↑↓はっせい↓します。","e":"Noise is produced by the sudden flow of current into a solenoid."}]}

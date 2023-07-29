@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"節操","p":true}],"r_ele":[{"r":"せっそう","p":true}],"sense":[{"gloss":"constancy, integrity, fidelity, principle, faithfulness, honor, honour","pos":["n"]}]},"sdata":[]}

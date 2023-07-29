@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"血色","p":true}],"r_ele":[{"r":"けっしょく","p":true}],"sense":[{"gloss":"complexion, colour, color","pos":["n"]},{"gloss":"blood red","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓の↑顔↑↓かお↓は↑健康↑↓けんこう↓そうな↑血色↑↓|けっしょく|↓をしていた。","e":"Her face glowed with health."}]}

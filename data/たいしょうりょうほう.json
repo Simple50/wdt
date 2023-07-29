@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"対症療法","p":true},{"e":"対象療法","i":["sK"]}],"r_ele":[{"r":"たいしょうりょうほう","p":true}],"sense":[{"gloss":"symptomatic therapy","pos":["n"],"f":["med"],"x":["原因療法"]},{"gloss":"makeshift solution","pos":["n"]}]},"sdata":[]}

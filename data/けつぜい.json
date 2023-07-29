@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"血税","p":true}],"r_ele":[{"r":"けつぜい","p":true}],"sense":[{"gloss":"taxpayers' hard-earned money","pos":["n"]},{"gloss":"heavy tax","pos":["n"]},{"gloss":"conscription, compulsory military service","pos":["n"],"m":["obs"],"x":["徴兵"]}]},"sdata":[]}

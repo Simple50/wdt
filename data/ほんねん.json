@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本年","p":true}],"r_ele":[{"r":"ほんねん","p":true}],"sense":[{"gloss":"this (current) year","pos":["n","adv"]}]},"sdata":[]}

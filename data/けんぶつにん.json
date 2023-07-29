@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見物人","p":true}],"r_ele":[{"r":"けんぶつにん","p":true}],"sense":[{"gloss":"spectator, sightseer, onlooker","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓が↑飛行機↑↓ひこうき↓に↑乗↑↓の↓り↑込↑↓こ↓むと、↑見物人↑↓|けんぶつにん|↓が↑集↑↓あつ↓まってきた。","e":"Spectators gathered as he climbed into the plane."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抜け毛","p":true},{"e":"脱け毛"}],"r_ele":[{"r":"ぬけげ","p":true}],"sense":[{"gloss":"fallen hair, combings, hair left on comb","pos":["n"]}]},"sdata":[{"j":"↑抜↑↓|ぬ↓け↑毛↑↓げ|↓がひどいんです。","e":"A lot of my hair has fallen out."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"窯元","p":true},{"e":"かま元"}],"r_ele":[{"r":"かまもと","p":true}],"sense":[{"gloss":"pottery (i.e. the place)","pos":["n"]},{"gloss":"potter","pos":["n"]}]},"sdata":[]}

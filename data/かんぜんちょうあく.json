@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勧善懲悪","p":true}],"r_ele":[{"r":"かんぜんちょうあく","p":true}],"sense":[{"gloss":"rewarding good and punishing evil, poetic justice","pos":["n"]}],"m":["yoji"]},"sdata":[{"j":"このドラマは↑単純↑↓たんじゅん↓な↑勧善懲悪↑↓|かんぜんちょうあく|↓もので、↑今↑↓いま↓↑一↑↓ひと↓つ↑深↑↓ふか↓みに↑欠↑↓か↓けて↑物足↑↓ものた↓りない。","e":"This drama is missing something. All it is is a simple cautionary tale with no real depth."}]}

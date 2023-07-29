@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一滴","p":true},{"e":"一雫"}],"r_ele":[{"r":"いってき"},{"r":"ひとしずく","p":true}],"sense":[{"gloss":"one drop (of fluid)","pos":["n"]}]},"sdata":[{"j":"↑一↑↓|ひと↓↑雫↑↓しずく|↓の↑涙↑↓なみだ↓が↑彼女↑↓かのじょ↓の↑頬↑↓ほお↓を↑伝↑↓つた↓って↑落↑↓お↓ちた。","e":"A tear rolled down her cheek."},{"j":"↑理想↑↓りそう↓↑的↑↓てき↓な↑形↑↓かたち↓は↑涙↑↓なみだ↓の|ひとしずく|であった。","e":"The ideal shape was the teardrop."}]}

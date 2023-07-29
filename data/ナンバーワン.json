@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナンバーワン","p":true},{"r":"ナンバー・ワン"}],"sense":[{"gloss":"number one","pos":["n"]}]},"sdata":[{"j":"ピッチャーが↑誰↑↓だれ↓であろうと、うちの|ナンバーワン|バッターを↑三振↑↓さんしん↓させることはできないだろう。","e":"Whoever the pitcher may be, he will not be able to strike out our best hitter."},{"j":"その↑会社↑↓かいしゃ↓は↑日本↑↓にっぽん↓では|ナンバーワン|です。","e":"That company ranks No. 1 in Japan."}]}

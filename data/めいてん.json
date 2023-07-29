@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名店","p":true}],"r_ele":[{"r":"めいてん","p":true}],"sense":[{"gloss":"well-known store","pos":["n"]}]},"sdata":[{"j":"↑今↑↓いま↓や↑有名↑↓ゆう|めい↓↑店↑↓てん|↓ですね。","e":"The store is making a mark."}]}

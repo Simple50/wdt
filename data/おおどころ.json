@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大所","p":true}],"r_ele":[{"r":"おおどころ","p":true},{"r":"おおどこ"}],"sense":[{"gloss":"wealthy family, important person, bigwig","pos":["n"]}]},"sdata":[]}

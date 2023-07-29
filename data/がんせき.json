@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"岩石","p":true}],"r_ele":[{"r":"がんせき","p":true}],"sense":[{"gloss":"rock","pos":["n"]}]},"sdata":[{"j":"↑岩石↑↓|がんせき|↓や↑鉱物↑↓こうぶつ↓はいろいろな↑面↑↓めん↓で↑私↑↓わたし↓たちに↑有益↑↓ゆうえき↓である。","e":"Rocks and minerals are useful for us in many ways."},{"j":"この↑板↑↓いた↓↑状↑↓じょう↓の↑固↑↓かた↓い↑岩石↑↓|がんせき|↓の↑層↑↓そう↓をプレートと↑呼↑↓よ↓ぶ。","e":"We call these slabs of the solid-rock layer 'plates'."}]}

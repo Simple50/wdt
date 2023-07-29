@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"湧水","p":true},{"e":"涌水","i":["oK"]}],"r_ele":[{"r":"ゆうすい","p":true}],"sense":[{"gloss":"spring, welling of water","pos":["n"]}]},"sdata":[]}

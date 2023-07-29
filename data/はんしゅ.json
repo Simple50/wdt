@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"藩主","p":true},{"e":"蕃主","i":["iK"]}],"r_ele":[{"r":"はんしゅ","p":true}],"sense":[{"gloss":"feudal lord, daimyo","pos":["n"]}],"m":["hist"]},"sdata":[{"j":"トムは↑模範↑↓も|はん↓↑囚↑↓しゅ|う↓だった。","e":"Tom was a model inmate."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"井戸掘り","p":true}],"r_ele":[{"r":"いどほり","p":true}],"sense":[{"gloss":"well digging, well digger","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑仕事↑↓しごと↓は↑井戸↑↓|いど↓↑掘↑↓ほ↓り|からゴミの↑処理↑↓しょり↓にまで↑及↑↓およ↓ぶ。","e":"His tasks range from digging wells to getting rid of garbage."}]}

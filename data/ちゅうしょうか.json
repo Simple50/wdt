@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抽象化","p":true}],"r_ele":[{"r":"ちゅうしょうか","p":true}],"sense":[{"gloss":"abstraction","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑抽象↑↓|ちゅうしょう↓↑絵画↑↓か|いが↓って↑正直↑↓しょうじき↓↑全然↑↓ぜんぜん↓↑分↑↓わ↓かんないんだよね。","e":"I honestly don't understand abstract paintings at all."}]}

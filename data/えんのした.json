@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縁の下","p":true}],"r_ele":[{"r":"えんのした","p":true}],"sense":[{"gloss":"out of sight, in the background, unnoticed, under the veranda","pos":["adj-no","n"]}],"m":["id"]},"sdata":[{"j":"↑彼↑↓かれ↓は↑縁↑↓|えん↓の↑下↑↓した|↓の↑力持↑↓ちからも↓ちだ。","e":"He is an unsung hero."}]}

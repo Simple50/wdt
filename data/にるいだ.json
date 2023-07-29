@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二塁打","p":true}],"r_ele":[{"r":"にるいだ","p":true}],"sense":[{"gloss":"two-base hit, double","pos":["n"],"f":["baseb"]}]},"sdata":[]}

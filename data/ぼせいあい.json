@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"母性愛","p":true}],"r_ele":[{"r":"ぼせいあい","p":true}],"sense":[{"gloss":"maternal love","pos":["n"]}]},"sdata":[{"j":"その↑光景↑↓こうけい↓は↑彼女↑↓かのじょ↓に↑母性↑↓|ぼせい↓↑愛↑↓あい|↓を↑呼↑↓よ↓び↑起↑↓お↓こした。","e":"The scene brought out the mother in her."},{"j":"↑彼女↑↓かのじょ↓の↑母性↑↓|ぼせい↓↑愛↑↓あい|↓がかき↑立↑↓た↓てたれた。","e":"The mother in her was aroused."}]}

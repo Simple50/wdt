@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゲームセンター","p":true},{"r":"ゲイムセンター"},{"r":"ゲーム・センター"},{"r":"ゲイム・センター"}],"sense":[{"gloss":"game arcade, penny arcade, video arcade","pos":["n"],"l":"eng: game center"}]},"sdata":[]}

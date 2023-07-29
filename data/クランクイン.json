@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クランクイン","p":true},{"r":"クランク・イン"}],"sense":[{"gloss":"start (of) filming","pos":["n","vs"],"l":"eng: crank in"}]},"sdata":[]}

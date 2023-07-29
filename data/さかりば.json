@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盛り場","p":true}],"r_ele":[{"r":"さかりば","p":true}],"sense":[{"gloss":"busy place, busy street, place that's always bustling with people, amusement quarters","pos":["n"],"x":["繁華街"]}]},"sdata":[{"j":"↑下品↑↓げひん↓↑極↑↓きわ↓まる↑盛↑↓|さか↓り↑場↑↓ば|↓に↑通↑↓かよ↓いつける。","e":"He haunts the lowest resorts."}]}

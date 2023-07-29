@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見極める","p":true},{"e":"見きわめる"}],"r_ele":[{"r":"みきわめる","p":true}],"sense":[{"gloss":"to ascertain, to make sure of, to determine, to probe, to get to the bottom (of something)","pos":["v1","vt"]}]},"sdata":[{"j":"↑善悪↑↓ぜんあく↓を↑見極↑↓|みきわ↓める|ことは↑難↑↓むずか↓しい。","e":"To distinguish right from wrong is difficult."}]}

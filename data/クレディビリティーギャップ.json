@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレディビリティーギャップ","p":true},{"r":"クレディビリティー・ギャップ"}],"sense":[{"gloss":"credibility gap","pos":["n"]}]},"sdata":[]}

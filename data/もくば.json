@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"木馬","p":true}],"r_ele":[{"r":"もくば","p":true}],"sense":[{"gloss":"wooden horse, rocking horse","pos":["n"]},{"gloss":"vaulting horse, horse used in gymnastics","pos":["n"],"x":["跳馬"]},{"gloss":"the horse (ancient torture device that one was forced to straddle with rocks hanging from the feet)","pos":["n"]}]},"sdata":[]}

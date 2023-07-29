@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"端境期","p":true}],"r_ele":[{"r":"はざかいき","p":true}],"sense":[{"gloss":"between-crops season, off-crops season","pos":["n"]}]},"sdata":[]}

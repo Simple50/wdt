@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"輸出入","p":true}],"r_ele":[{"r":"ゆしゅつにゅう","p":true}],"sense":[{"gloss":"export and import","pos":["n"]}]},"sdata":[]}

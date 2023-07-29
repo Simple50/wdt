@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"東風","p":true}],"r_ele":[{"r":"こち"},{"r":"とうふう"},{"r":"ひがしかぜ","p":true},{"r":"こちかぜ"}],"sense":[{"gloss":"east wind, spring wind","pos":["n"]}]},"sdata":[]}

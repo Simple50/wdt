@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"今様","p":true}],"r_ele":[{"r":"いまよう","p":true}],"sense":[{"gloss":"modern style, contemporary style, current fashion","pos":["n","adj-no"]},{"gloss":"verse form from the Heian and Kamakura periods consisting of 4 lines each divided into two parts of 7 and 5 syllables","pos":["n"],"m":["abbr"],"x":["今様歌"]}]},"sdata":[]}

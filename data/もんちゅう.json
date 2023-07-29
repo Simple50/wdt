@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"門柱","p":true}],"r_ele":[{"r":"もんちゅう","p":true}],"sense":[{"gloss":"gatepost, pier","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓の↑車↑↓くるま↓は↑不注意↑↓ふちゅうい↓から↑門柱↑↓|もんちゅう|↓にぶつかった。","e":"Her car struck against the gatepost through her carelessness."},{"j":"↑皇后↑↓こうごう↓はオーストラリアを↑訪問↑↓ほう|もん↓↑中↑↓ちゅう|↓である。","e":"The empress is visiting Australia."}]}

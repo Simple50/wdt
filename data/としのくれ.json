@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"年の暮れ","p":true},{"e":"年の暮","i":["io"]}],"r_ele":[{"r":"としのくれ","p":true}],"sense":[{"gloss":"year end","pos":["n"]}]},"sdata":[]}

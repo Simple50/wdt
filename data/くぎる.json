@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"区切る","p":true},{"e":"句切る","i":["rK"]}],"r_ele":[{"r":"くぎる","p":true}],"sense":[{"gloss":"to divide, to separate, to partition, to demarcate, to delimit, to mark off","pos":["v5r","vt"]},{"gloss":"to punctuate, to mark off (with a comma), to insert pauses (between words or phrases when reading aloud), to space one's words","pos":["v5r","vt"]}]},"sdata":[]}

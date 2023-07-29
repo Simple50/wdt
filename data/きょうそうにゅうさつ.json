@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"競争入札","p":true}],"r_ele":[{"r":"きょうそうにゅうさつ","p":true}],"sense":[{"gloss":"competitive bidding (esp. for government contracts)","pos":["n"]}]},"sdata":[]}

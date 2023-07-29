@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"製陶","p":true}],"r_ele":[{"r":"せいとう","p":true}],"sense":[{"gloss":"porcelain manufacturing","pos":["n","adj-no"]}]},"kdata":{"製":{"on":["セイ"],"jlpt":1,"meanings":["made in...","manufacture"],"freq":488,"comp":[["制","衣"]],"t":1920},"陶":{"on":["トウ"],"kun":["すえ"],"jlpt":1,"meanings":["pottery","porcelain"],"freq":1680,"comp":[["匋","阝"]],"t":1413}},"sdata":[]}

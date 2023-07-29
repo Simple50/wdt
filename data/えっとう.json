@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"越冬","p":true}],"r_ele":[{"r":"えっとう","p":true}],"sense":[{"gloss":"passing the winter, hibernation","pos":["n","vs","vi"]}]},"sdata":[]}

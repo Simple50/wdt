@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"練り製品","p":true}],"r_ele":[{"r":"ねりせいひん","p":true}],"sense":[{"gloss":"boiled fish-paste products","pos":["n"]}]},"sdata":[]}

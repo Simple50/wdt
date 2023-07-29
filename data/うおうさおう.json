@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"右往左往","p":true}],"r_ele":[{"r":"うおうさおう","p":true}],"sense":[{"gloss":"moving about in confusion, going every which way, going this way and that","pos":["n","vs","vi","adj-no"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"千秋楽","p":true}],"r_ele":[{"r":"せんしゅうらく","p":true}],"sense":[{"gloss":"concluding festivities, concluding program, concluding programme","pos":["n"]},{"gloss":"final day of a tournament","pos":["n"],"f":["sumo"]}]},"sdata":[]}

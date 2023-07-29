@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和洋折衷","p":true}],"r_ele":[{"r":"わようせっちゅう","p":true}],"sense":[{"gloss":"blending of Japanese and Western styles","pos":["n","adj-no"]}],"m":["yoji"]},"sdata":[{"j":"↑彼↑↓かれ↓は↑和洋折衷↑↓|わようせっちゅう|↓の↑家↑↓いえ↓に↑住↑↓す↓んでいる。","e":"He lives in a house built in a semi foreign style."}]}

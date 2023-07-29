@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"剰余金","p":true}],"r_ele":[{"r":"じょうよきん","p":true}],"sense":[{"gloss":"surplus, balance","pos":["n"]}]},"sdata":[]}

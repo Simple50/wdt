@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滑車","p":true}],"r_ele":[{"r":"かっしゃ","p":true}],"sense":[{"gloss":"pulley, block, tackle","pos":["n"]}]},"sdata":[{"j":"ねじ、てこ、くさび、↑滑車↑↓|かっしゃ|↓などは↑単一↑↓たんいつ↓↑機械↑↓きかい↓と↑呼↑↓よ↓ばれる。","e":"The screw, the lever, the wedge, the pulley, etc. are called simple machines."}]}

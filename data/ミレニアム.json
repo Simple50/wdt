@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミレニアム","p":true},{"r":"ミレニウム"}],"sense":[{"gloss":"millennium","pos":["n"]}]},"sdata":[]}

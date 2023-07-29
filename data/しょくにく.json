@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"食肉","p":true}],"r_ele":[{"r":"しょくにく","p":true}],"sense":[{"gloss":"meat (for consumption)","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓はたいてい↑朝食↑↓ちょう|しょく↓に↑果物↑↓く|だもの↓を↑食↑↓た↓べる。","e":"I mostly have fruit for breakfast."}]}

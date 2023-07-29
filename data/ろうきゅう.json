@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老朽","p":true}],"r_ele":[{"r":"ろうきゅう","p":true}],"sense":[{"gloss":"infirmity (due to old age), decrepitude, senility, senescence, superannuation","pos":["n","vs","vi"]}]},"sdata":[{"j":"その↑建物↑↓たてもの↓は↑老朽↑↓|ろうきゅう|↓のきざしをみせている。","e":"The building exhibits signs of dilapidation."}]}

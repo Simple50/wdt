@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オカルト","p":true}],"sense":[{"gloss":"occult","pos":["n","adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"似せる","p":true}],"r_ele":[{"r":"にせる","p":true}],"sense":[{"gloss":"to copy, to imitate, to counterfeit, to forge","pos":["v1","vt"]}]},"sdata":[]}

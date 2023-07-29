@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"借り換え","p":true}],"r_ele":[{"r":"かりかえ","p":true}],"sense":[{"gloss":"conversion, refunding, renewal","pos":["n"]}]},"sdata":[{"j":"すっ|かり↑変↑↓か↓え|られた。","e":"That was completely changed."}]}

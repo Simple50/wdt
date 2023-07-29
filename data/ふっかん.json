@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"復刊","p":true}],"r_ele":[{"r":"ふっかん","p":true}],"sense":[{"gloss":"reissue, putting back in print","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑副官↑↓|ふっかん|↓は↑戦術↑↓せんじゅつ↓の↑変更↑↓へんこう↓を↑彼↑↓かれ↓に↑提案↑↓ていあん↓した。","e":"The aide suggested a change in tactics to him."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フッカー","p":true}],"sense":[{"gloss":"hooker (rugby)","pos":["n"],"f":["sports"]},{"gloss":"hookah","pos":["n"]}]},"sdata":[]}

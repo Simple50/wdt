@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"厚み","p":true},{"e":"厚味"}],"r_ele":[{"r":"あつみ","p":true}],"sense":[{"gloss":"thickness","pos":["n"]},{"gloss":"profundity, depth","pos":["n"]}]},"kdata":{"厚":{"on":["コウ"],"kun":["あつ.い","あか"],"jlpt":2,"meanings":["thick","heavy","rich","kind","cordial","brazen","shameless"],"freq":768,"comp":[["厂","日","子"]],"t":828}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"缶コーヒー","p":true}],"r_ele":[{"r":"かんコーヒー","p":true}],"sense":[{"gloss":"canned coffee","pos":["n"]}]},"sdata":[{"j":"↑自動↑↓じどう↓↑販売↑↓はんばい↓↑機↑↓き↓で↑缶↑↓|かん↓コーヒー|というものに↑出会↑↓であ↓いしかも↑暖↑↓あたた↓かいのと↑冷↑↓つめ↓たいのを↑選↑↓えら↓べるのは↑驚↑↓おどろ↓いた。","e":"I was surprised to come across vending machines that sell cans of coffee, where you can even choose between hot and cold ones."}]}

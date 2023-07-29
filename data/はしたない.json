@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"端ない","i":["iK"]},{"e":"端たない","p":true,"i":["iK"]}],"r_ele":[{"r":"はしたない","p":true}],"sense":[{"gloss":"improper, immodest, disgraceful, shameful, vulgar, low","pos":["adj-i"]}],"m":["uk"]},"sdata":[]}

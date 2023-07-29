@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カーフェリー","p":true},{"r":"カー・フェリー"}],"sense":[{"gloss":"car ferry","pos":["n"]}]},"sdata":[]}

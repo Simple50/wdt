@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"南半球","p":true}],"r_ele":[{"r":"みなみはんきゅう","p":true}],"sense":[{"gloss":"southern hemisphere","pos":["n"]}]},"sdata":[]}

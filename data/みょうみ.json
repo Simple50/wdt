@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"妙味","p":true}],"r_ele":[{"r":"みょうみ","p":true}],"sense":[{"gloss":"exquisiteness, charm, beauty, nice point","pos":["n"]},{"gloss":"advantage, profit, gain","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑車↑↓くるま↓、もう↑寿命↑↓じゅ|みょう↓み|たい。","e":"My car isn't going to last much longer."}]}

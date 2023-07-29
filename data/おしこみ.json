@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し込み","p":true},{"e":"押込み"}],"r_ele":[{"r":"おしこみ","p":true}],"sense":[{"gloss":"burglary, burglar, closet","pos":["n"]}]},"sdata":[]}

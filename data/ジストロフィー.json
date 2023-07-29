@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジストロフィー","p":true}],"sense":[{"gloss":"dystrophy","pos":["n"],"f":["med"]}]},"sdata":[]}

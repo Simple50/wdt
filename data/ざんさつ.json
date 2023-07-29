@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"惨殺","p":true}],"r_ele":[{"r":"ざんさつ","p":true}],"sense":[{"gloss":"slaughter, massacre","pos":["n","vs","vt"]}]},"sdata":[]}

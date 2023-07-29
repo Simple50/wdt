@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"利付債","p":true}],"r_ele":[{"r":"りつきさい","p":true}],"sense":[{"gloss":"interest-bearing bond","pos":["n"]}]},"sdata":[]}

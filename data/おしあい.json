@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し合い","p":true},{"e":"押合い"}],"r_ele":[{"r":"おしあい","p":true}],"sense":[{"gloss":"jostling, crowding","pos":["n","vs"]}]},"sdata":[]}

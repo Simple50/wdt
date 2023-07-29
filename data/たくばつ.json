@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卓抜","p":true}],"r_ele":[{"r":"たくばつ","p":true}],"sense":[{"gloss":"excellence, superiority, preeminence, prevalence","pos":["adj-na","n","vs","vi"]}]},"sdata":[]}

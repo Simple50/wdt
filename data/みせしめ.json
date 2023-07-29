@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見せしめ","p":true}],"r_ele":[{"r":"みせしめ","p":true}],"sense":[{"gloss":"(making a) lesson (of), (setting an) example, warning","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑他↑↓た↓の↑生徒↑↓せいと↓の↑見↑↓|み↓せしめ|になっただろう。","e":"He was punished as a warning to other students."}]}

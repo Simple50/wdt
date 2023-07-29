@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"処世","p":true}],"r_ele":[{"r":"しょせい","p":true}],"sense":[{"gloss":"making one's way through life, conduct of one's life","pos":["n"]}]},"sdata":[]}

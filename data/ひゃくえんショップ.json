@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"１００円ショップ","p":true}],"r_ele":[{"r":"ひゃくえんショップ","p":true}],"sense":[{"gloss":"hundred-yen store","pos":["n"]}]},"sdata":[{"j":"それなら↑百↑↓|ひゃく↓↑円↑↓えん↓ショップ|でも↑売↑↓う↓ってたよ。","e":"That was being sold at a dollar store."},{"j":"それなら↑百↑↓|ひゃく↓↑円↑↓えん↓ショップ|でも↑売↑↓う↓ってたよ。","e":"It was also sold at a 100 yen store."}]}

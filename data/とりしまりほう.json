@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取締法","p":true}],"r_ele":[{"r":"とりしまりほう","p":true}],"sense":[{"gloss":"control law","pos":["n"]}]},"sdata":[]}

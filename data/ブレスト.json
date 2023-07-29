@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブレスト","p":true}],"sense":[{"gloss":"breast","pos":["n"]},{"gloss":"breaststroke","pos":["n"],"m":["abbr"],"x":["ブレストストローク"]},{"gloss":"brainstorming","pos":["n"],"m":["abbr"],"x":["ブレーンストーミング"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニューメディア","p":true},{"r":"ニュー・メディア"}],"sense":[{"gloss":"new media","pos":["n"]}]},"sdata":[]}

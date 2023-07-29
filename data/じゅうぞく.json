@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"従属","p":true}],"r_ele":[{"r":"じゅうぞく","p":true}],"sense":[{"gloss":"subordination, dependency","pos":["n","vs","vi","adj-no"]}]},"sdata":[{"j":"↑子供↑↓こども↓は↑親↑↓おや↓に↑従属↑↓|じゅうぞく|↓している。","e":"Children are subject to their parents' rules."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"萎む","p":true},{"e":"凋む","i":["rK"]}],"r_ele":[{"r":"しぼむ","p":true}],"sense":[{"gloss":"to wither (of flowers, dreams, etc.), to wilt, to droop, to shrivel, to fade (away), to sag, to deflate","pos":["v5m","vi"]}],"m":["uk"]},"sdata":[{"j":"↑花↑↓はな↓は↑切↑↓き↓られるとすぐに|しぼむ|。","e":"Flowers soon fade when they have been cut."}]}

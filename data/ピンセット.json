@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピンセット","p":true}],"sense":[{"gloss":"forceps, tweezers","pos":["n"],"l":"fre: pincette,dut: pincet"}]},"sdata":[]}

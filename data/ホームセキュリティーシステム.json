@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホームセキュリティーシステム","p":true},{"r":"ホーム・セキュリティー・システム"}],"sense":[{"gloss":"home security system","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同局","p":true}],"r_ele":[{"r":"どうきょく","p":true}],"sense":[{"gloss":"the said bureau (office, department, broadcasting station, channel, etc.)","pos":["n"]},{"gloss":"same bureau (office, department, broadcasting station, channel, etc.)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三段跳び","p":true},{"e":"三段跳"}],"r_ele":[{"r":"さんだんとび","p":true}],"sense":[{"gloss":"triple jump, hop, step and jump","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑三段跳↑↓|さんだんと↓び|できっと↑新↑↓しん↓↑記録↑↓きろく↓を↑樹立↑↓じゅりつ↓するだろう。","e":"He is sure to set a new record in the triple jump."}]}

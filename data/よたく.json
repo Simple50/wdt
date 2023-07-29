@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"預託","p":true}],"r_ele":[{"r":"よたく","p":true}],"sense":[{"gloss":"depositing (of money, valuables, etc.), deposition","pos":["n","vs","vt","adj-no"]}]},"sdata":[]}

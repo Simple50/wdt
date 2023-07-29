@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待ちかねる"},{"e":"待ち兼ねる","p":true}],"r_ele":[{"r":"まちかねる","p":true}],"sense":[{"gloss":"to wait impatiently for","pos":["v1","vt"]}]},"sdata":[]}

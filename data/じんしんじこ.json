@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人身事故","p":true}],"r_ele":[{"r":"じんしんじこ","p":true}],"sense":[{"gloss":"accident resulting in personal injury or death (esp. traffic, rail, etc.)","pos":["n"]}]},"sdata":[]}

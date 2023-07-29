@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"畝り","i":["rK"]}],"r_ele":[{"r":"うねり","p":true}],"sense":[{"gloss":"undulation, winding, meandering","pos":["n"]},{"gloss":"swell (of waves), ground swell, surge, billow, roller","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑濃霧↑↓のうむ↓に↑加↑↓くわ↓えて|うねり|も↑高↑↓たか↓かった。","e":"In addition to a thick fog, there was a heavy swell."}]}

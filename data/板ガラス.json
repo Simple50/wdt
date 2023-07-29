@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"板ガラス","p":true}],"r_ele":[{"r":"いたガラス","p":true}],"sense":[{"gloss":"plate glass, sheet glass","pos":["n"]}]},"kdata":{"板":{"on":["ハン","バン"],"kun":["いた"],"jlpt":2,"meanings":["plank","board","plate","stage"],"freq":926,"comp":[["反","木"]],"t":701}},"sdata":[]}

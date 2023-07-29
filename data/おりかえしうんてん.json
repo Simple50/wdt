@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折り返し運転","p":true}],"r_ele":[{"r":"おりかえしうんてん","p":true}],"sense":[{"gloss":"shuttling back and forth, shuttle service","pos":["n"]}]},"sdata":[]}

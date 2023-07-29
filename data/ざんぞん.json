@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"残存","p":true}],"r_ele":[{"r":"ざんぞん","p":true},{"r":"ざんそん"}],"sense":[{"gloss":"survival, remaining, being extant, being left","pos":["n","vs","vi"]}]},"sdata":[]}

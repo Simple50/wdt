@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"胸像","p":true}],"r_ele":[{"r":"きょうぞう","p":true}],"sense":[{"gloss":"bust (sculpture), half-length portrait","pos":["n"]}]},"sdata":[]}

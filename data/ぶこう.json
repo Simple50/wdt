@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"武功","p":true}],"r_ele":[{"r":"ぶこう","p":true}],"sense":[{"gloss":"military exploits, military feats, military achievements, distinguished military service","pos":["n"]}]},"sdata":[{"j":"この↑小説↑↓しょうせつ↓は↑三↑↓さん↓↑部↑↓|ぶ↓↑構成↑↓こう|せい↓だ。","e":"This novel consists of three parts."}]}

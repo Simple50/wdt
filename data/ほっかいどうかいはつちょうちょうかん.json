@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北海道開発庁長官","p":true}],"r_ele":[{"r":"ほっかいどうかいはつちょうちょうかん","p":true}],"sense":[{"gloss":"Director General of Hokkaido Development Agency","pos":["n"]}]},"sdata":[]}

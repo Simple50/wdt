@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"船舶","p":true}],"r_ele":[{"r":"せんぱく","p":true}],"sense":[{"gloss":"vessel, ship, shipping, seacraft","pos":["n"]}]},"sdata":[{"j":"↑懐中↑↓かいちゅう↓↑電灯↑↓でんとう↓は、↑船舶↑↓|せんぱく|↓↑同士↑↓どうし↓とか、↑街↑↓まち↓の↑通↑↓とお↓りを↑走↑↓はし↓っている↑自動車↑↓じどうしゃ↓に↑向↑↓む↓けて↑合図↑↓あいず↓を↑伝↑↓つた↓える。","e":"Flashing lights transmit messages between ships and to motorists along city streets."}]}

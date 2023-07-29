@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プラネタリウム","p":true}],"sense":[{"gloss":"planetarium","pos":["n"]}]},"sdata":[]}

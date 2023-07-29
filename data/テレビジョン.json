@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テレビジョン","p":true},{"r":"テレヴィジョン","i":["ik"]}],"sense":[{"gloss":"television","pos":["n"]}]},"sdata":[{"j":"『↑北↑↓きた↓の↑国↑↓くに↓から』は、↑北海道↑↓ほっかいどう↓↑富良野↑↓ふらの↓↑市↑↓し↓を↑舞台↑↓ぶたい↓にしたフジ|テレビジョン|↑制作↑↓せいさく↓のテレビドラマ。","e":"From the North Country is a TV drama produced by Fuji TV and set in Furano in Hokkaido."}]}

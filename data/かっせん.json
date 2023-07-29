@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合戦","p":true}],"r_ele":[{"r":"かっせん","p":true}],"sense":[{"gloss":"battle, fight, fighting, engagement, contest","pos":["n","vs","vi"]}]},"sdata":[]}

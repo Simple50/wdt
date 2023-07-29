@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"少年団","p":true}],"r_ele":[{"r":"しょうねんだん","p":true}],"sense":[{"gloss":"Boy Scouts","pos":["n"]}]},"sdata":[]}

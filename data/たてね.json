@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"建値","p":true},{"e":"建て値"}],"r_ele":[{"r":"たてね","p":true}],"sense":[{"gloss":"official market quotations, exchange rates","pos":["n"]}]},"sdata":[]}

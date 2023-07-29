@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"解放区","p":true}],"r_ele":[{"r":"かいほうく","p":true}],"sense":[{"gloss":"liberated area or zone","pos":["n"]}]},"sdata":[]}

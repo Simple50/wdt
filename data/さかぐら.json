@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酒蔵","p":true},{"e":"酒倉"}],"r_ele":[{"r":"さかぐら","p":true}],"sense":[{"gloss":"sake brewery","pos":["n"]},{"gloss":"wine cellar","pos":["n"]},{"gloss":"bar, bar-room","pos":["n"]}]},"sdata":[]}

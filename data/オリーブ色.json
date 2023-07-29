@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"オリーブ色","p":true},{"e":"オリーヴ色"}],"r_ele":[{"r":"オリーブいろ","p":true},{"r":"オリーヴいろ"}],"sense":[{"gloss":"olive (colour), olive brown","pos":["n","adj-no"]}]},"kdata":{"色":{"on":["ショク","シキ"],"kun":["いろ"],"jlpt":4,"meanings":["color","colour","prettiness"],"freq":621,"comp":[["巴"]],"d":["絶","艶","艷","栬","脃","艴","赩","銫","靘"],"s":"免","t":393}},"sdata":[]}

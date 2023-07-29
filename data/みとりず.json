@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見取り図","p":true},{"e":"見取図"}],"r_ele":[{"r":"みとりず","p":true}],"sense":[{"gloss":"rough sketch","pos":["n"]},{"gloss":"floor plan, blueprint","pos":["n"]}]},"sdata":[{"j":"↑君↑↓きみ↓の↑家↑↓いえ↓の↑見取↑↓|みと↓り↑図↑↓ず|↓を↑書↑↓か↓いてよ。","e":"Make a sketch of your house."}]}

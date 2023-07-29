@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"バベルの塔","p":true}],"r_ele":[{"r":"バベルのとう","p":true}],"sense":[{"gloss":"Tower of Babel","pos":["n"]}]},"kdata":{"塔":{"on":["トウ"],"jlpt":2,"meanings":["tower","pagoda","steeple"],"freq":1708,"comp":[["荅","土"]],"s":"搭","t":1481}},"sdata":[]}

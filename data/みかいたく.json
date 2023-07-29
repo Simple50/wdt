@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"未開拓","p":true}],"r_ele":[{"r":"みかいたく","p":true}],"sense":[{"gloss":"undeveloped (area), unexplored (field of study), wild (areas), untapped area","pos":["n","adj-no"]}]},"sdata":[{"j":"まだ↑未開拓↑↓|みかいたく|↓の↑土地↑↓とち↓がある。","e":"There are still uncivilized lands."}]}

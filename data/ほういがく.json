@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"法医学","p":true}],"r_ele":[{"r":"ほういがく","p":true}],"sense":[{"gloss":"forensic medicine, forensic pathology","pos":["n"]},{"gloss":"medical jurisprudence, legal medicine","pos":["n"]}]},"sdata":[]}

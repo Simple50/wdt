@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煮やす","p":true}],"r_ele":[{"r":"にやす","p":true}],"sense":[{"gloss":"to cook inside","pos":["v5s"]}]},"kdata":{"煮":{"on":["シャ"],"kun":["に.る","-に","に.える","に.やす"],"jlpt":1,"meanings":["boil","cook"],"freq":1565,"comp":[["者","灬"]],"t":1559}},"sdata":[]}

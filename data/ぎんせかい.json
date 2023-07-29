@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銀世界","p":true}],"r_ele":[{"r":"ぎんせかい","p":true}],"sense":[{"gloss":"snowscape","pos":["n"]}]},"sdata":[{"j":"あすの↑朝↑↓あさ↓までには↑一↑↓いち↓↑面↑↓めん↓の↑銀世界↑↓|ぎんせかい|↓になっているだろう。","e":"By tomorrow morning all the world will have been covered with snow."}]}

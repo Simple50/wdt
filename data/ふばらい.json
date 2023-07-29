@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不払い","p":true}],"r_ele":[{"r":"ふばらい","p":true}],"sense":[{"gloss":"nonpayment, default","pos":["n"]}]},"sdata":[]}

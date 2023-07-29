@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"集中豪雨","p":true}],"r_ele":[{"r":"しゅうちゅうごうう","p":true}],"sense":[{"gloss":"local downpour, severe rain fall","pos":["n"]}]},"sdata":[]}

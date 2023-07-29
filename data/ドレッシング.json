@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドレッシング","p":true}],"sense":[{"gloss":"dressing","pos":["n"],"f":["food"]},{"gloss":"dressing, putting on clothes","pos":["n"],"x":["ドレッシングルーム"]}]},"sdata":[{"j":"サラダの|ドレッシング|はイタリアンがいいです。","e":"I want Italian dressing on my salad."}]}

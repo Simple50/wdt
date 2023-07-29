@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敷金","p":true}],"r_ele":[{"r":"しききん","p":true}],"sense":[{"gloss":"(security) deposit, caution money","pos":["n"]}]},"sdata":[{"j":"２↑ヶ月↑↓かげつ↓↑分↑↓ぶん↓の↑敷金↑↓|しききん|↓を↑入↑↓い↓れていただきます。","e":"Please pay a deposit of two month's rent."},{"j":"↑敷金↑↓|しききん|↓は↑必要↑↓ひつよう↓ですか。","e":"Do you require a security deposit?"}]}

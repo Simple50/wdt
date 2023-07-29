@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"車体","p":true}],"r_ele":[{"r":"しゃたい","p":true}],"sense":[{"gloss":"body (of car), frame","pos":["n"]}]},"sdata":[{"j":"↑被写体↑↓ひ|しゃたい|↓に↑気↑↓き↓づかれないようにそぉっとカメラを↑取↑↓と↓り↑出↑↓だ↓し、ファインダーを↑覗↑↓のぞ↓く。","e":"I quietly take out my camera, so as not to be noticed by my photographic subject, and peek through the finder."}]}

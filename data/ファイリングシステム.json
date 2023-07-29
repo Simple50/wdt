@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファイリングシステム","p":true},{"r":"ファイリング・システム"}],"sense":[{"gloss":"filing system","pos":["n"]}]},"sdata":[]}

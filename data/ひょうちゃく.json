@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漂着","p":true}],"r_ele":[{"r":"ひょうちゃく","p":true}],"sense":[{"gloss":"drifting ashore","pos":["n","vs","vi"]}]},"sdata":[]}

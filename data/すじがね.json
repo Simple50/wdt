@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"筋金","p":true}],"r_ele":[{"r":"すじがね","p":true}],"sense":[{"gloss":"a metal reinforcement","pos":["n"]}]},"sdata":[]}

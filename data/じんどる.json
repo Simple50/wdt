@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陣取る","p":true},{"e":"陣どる"}],"r_ele":[{"r":"じんどる","p":true}],"sense":[{"gloss":"to encamp, to take up positions","pos":["v5r","vi"]}]},"sdata":[]}

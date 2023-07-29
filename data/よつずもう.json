@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"四つ相撲","p":true}],"r_ele":[{"r":"よつずもう","p":true}],"sense":[{"gloss":"wrestling in which both wrestlers grasp the other's belt with both hands","pos":["n"],"f":["sumo"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワラビー","p":true}],"sense":[{"gloss":"wallaby","pos":["n"]}]},"sdata":[]}

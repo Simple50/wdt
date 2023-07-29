@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"湯のみ","p":true},{"e":"湯呑み"},{"e":"湯飲み","p":true},{"e":"湯呑"},{"e":"湯飲"}],"r_ele":[{"r":"ゆのみ","p":true}],"sense":[{"gloss":"teacup","pos":["n"],"x":["湯呑み茶碗"]}],"m":["abbr"]},"kdata":{"湯":{"on":["トウ"],"kun":["ゆ"],"jlpt":2,"meanings":["hot water","bath","hot spring"],"freq":1356,"comp":[["昜","氵"]],"d":["蕩","盪","璗","燙"],"t":1550}},"sdata":[]}

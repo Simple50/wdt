@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"覚醒剤","p":true},{"e":"覚せい剤","p":true}],"r_ele":[{"r":"かくせいざい","p":true}],"sense":[{"gloss":"stimulant (e.g. psychoactive drugs like methamphetamine, ritalin, etc.)","pos":["n"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓はタバコも↑酒↑↓さけ↓もやりません。↑覚↑↓|かく↓せい↑剤↑↓ざい|↓だけです。","e":"I don't smoke or drink. I just do pills."}]}

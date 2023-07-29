@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本因坊","p":true}],"r_ele":[{"r":"ほんいんぼう","p":true}],"sense":[{"gloss":"Hon'inbō, Honinbo, grandmaster","pos":["n"],"f":["go"],"x":["本因坊戦"]}]},"sdata":[]}

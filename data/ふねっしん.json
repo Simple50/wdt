@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不熱心","p":true}],"r_ele":[{"r":"ふねっしん","p":true}],"sense":[{"gloss":"indifference, lack of enthusiasm, inattentiveness","pos":["adj-na","n"]}]},"sdata":[]}

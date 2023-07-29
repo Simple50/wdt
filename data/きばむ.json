@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黄ばむ","p":true}],"r_ele":[{"r":"きばむ","p":true}],"sense":[{"gloss":"to turn yellow, to become tinged with yellow, to yellow (with age)","pos":["v5m","vi"]}]},"sdata":[]}

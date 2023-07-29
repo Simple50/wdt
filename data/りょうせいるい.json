@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"両生類","p":true},{"e":"両棲類"}],"r_ele":[{"r":"りょうせいるい","p":true}],"sense":[{"gloss":"amphibia, amphibian","pos":["n"]}]},"sdata":[]}

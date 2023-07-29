@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"凝り性","p":true}],"r_ele":[{"r":"こりしょう","p":true}],"sense":[{"gloss":"tendency to become totally absorbed in something, monomania, perfectionism, fastidiousness, meticulousness","pos":["n","adj-na","adj-no"]},{"gloss":"susceptibility for a stiffening of the shoulders","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"謝恩会","p":true}],"r_ele":[{"r":"しゃおんかい","p":true}],"sense":[{"gloss":"thank-you party","pos":["n"]}]},"sdata":[{"j":"クラスのほとんど↑全員↑↓ぜんいん↓が↑謝恩↑↓|しゃおん↓↑会↑↓かい|↓を↑開↑↓ひら↓くことに↑賛成↑↓さんせい↓した。","e":"Almost everyone in the class voted in favor of having a thank-you party for the teachers."}]}

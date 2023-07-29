@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幕末","p":true}],"r_ele":[{"r":"ばくまつ","p":true}],"sense":[{"gloss":"Bakumatsu period, closing days of the Tokugawa shogunate, end of the Edo period","pos":["n"]}],"m":["hist"]},"sdata":[]}

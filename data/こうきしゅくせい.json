@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"綱紀粛正","p":true}],"r_ele":[{"r":"こうきしゅくせい","p":true}],"sense":[{"gloss":"enforcement of official discipline, tightening of discipline, eliminating corruption among government officials","pos":["n","vs"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雑菌","p":true}],"r_ele":[{"r":"ざっきん","p":true}],"sense":[{"gloss":"microorganisms, saprophyte, saprophytic bacteria","pos":["n"]}]},"sdata":[]}

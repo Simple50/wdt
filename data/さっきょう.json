@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"作況","p":true}],"r_ele":[{"r":"さっきょう","p":true}],"sense":[{"gloss":"crops, quality","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ディスクロージャー","p":true}],"sense":[{"gloss":"disclosure","pos":["n"]}]},"sdata":[]}

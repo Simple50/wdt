@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘルスクラブ","p":true},{"r":"ヘルス・クラブ"}],"sense":[{"gloss":"health club","pos":["n"]}]},"sdata":[]}

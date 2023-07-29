@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミニマム","p":true}],"sense":[{"gloss":"minimum","pos":["adj-na","n"]}]},"sdata":[{"j":"↑飲物↑↓のみもの↓の|ミニマム|はありますか。","e":"Is there a drink minimum?"}]}

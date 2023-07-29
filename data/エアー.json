@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エア","p":true},{"r":"エアー","p":true},{"r":"エヤー"}],"sense":[{"gloss":"air","pos":["n"]}]},"sdata":[{"j":"まことは↑本当↑↓ほんとう↓の↑愛↑↓あい↓は|エアー|ズロックの↑上↑↓じょう↓にあることに↑気付↑↓きづ↓いた。↑彼女↑↓かのじょ↓が↑大阪↑↓おおさか↓↑出身↑↓しゅっしん↓だ。","e":"Makoto found his true love on top of Ayers Rock. She's from Osaka."}]}

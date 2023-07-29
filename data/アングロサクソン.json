@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アングロサクソン","p":true},{"r":"アングロ・サクソン"}],"sense":[{"gloss":"Anglo-Saxon","pos":["n","adj-no"]}]},"sdata":[]}

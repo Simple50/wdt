@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"頑な","p":true},{"e":"頑"}],"r_ele":[{"r":"かたくな","p":true}],"sense":[{"gloss":"obstinate, stubborn, mulish, die-hard, bigoted","pos":["adj-na"]}]},"kdata":{"頑":{"on":["ガン"],"kun":["かたく.な"],"jlpt":1,"meanings":["stubborn","foolish","firmly"],"freq":1247,"comp":[["頁","元"]],"t":1820}},"sdata":[]}

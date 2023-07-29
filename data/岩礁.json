@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"岩礁","p":true}],"r_ele":[{"r":"がんしょう","p":true}],"sense":[{"gloss":"reef","pos":["n"]}]},"kdata":{"岩":{"on":["ガン"],"kun":["いわ"],"jlpt":2,"meanings":["boulder","rock","cliff"],"freq":787,"comp":[["山","石"]],"t":488},"礁":{"on":["ショウ"],"jlpt":1,"meanings":["reef","sunken rock"],"freq":1977,"comp":[["石","焦"]],"s":"確","t":2188}},"sdata":[]}

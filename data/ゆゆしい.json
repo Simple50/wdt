@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"由々しい","p":true},{"e":"由由しい"}],"r_ele":[{"r":"ゆゆしい","p":true}],"sense":[{"gloss":"grave, serious, alarming","pos":["adj-i"]}]},"sdata":[]}

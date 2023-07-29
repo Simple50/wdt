@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホルスター","p":true}],"sense":[{"gloss":"holster","pos":["n"]}]},"sdata":[]}

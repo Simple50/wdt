@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大振り","p":true},{"e":"大ぶり"},{"e":"おお振り"}],"r_ele":[{"r":"おおぶり","p":true}],"sense":[{"gloss":"somewhat large, of a larger size, on the large size","pos":["adj-na","adj-no"],"x":["小振り・1"]},{"gloss":"large swing (bat, racquet, etc.), long sweeping stroke","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"尿酸","p":true}],"r_ele":[{"r":"にょうさん","p":true}],"sense":[{"gloss":"uric acid","pos":["n"]}]},"kdata":{"尿":{"on":["ニョウ"],"kun":["ゆばり","いばり","しと"],"jlpt":1,"meanings":["urine"],"freq":1672,"comp":[["水","尸"]],"t":485},"酸":{"on":["サン"],"kun":["す.い"],"jlpt":1,"meanings":["acid","bitterness","sour","tart"],"freq":1218,"comp":[["酉","夋"]],"t":1937}},"sdata":[]}

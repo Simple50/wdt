@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"身障者","p":true}],"r_ele":[{"r":"しんしょうしゃ","p":true}],"sense":[{"gloss":"(physically) disabled person, person with a physical disability","pos":["n"],"x":["身体障害者"]}],"m":["abbr"]},"sdata":[]}

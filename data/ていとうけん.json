@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抵当権","p":true}],"r_ele":[{"r":"ていとうけん","p":true}],"sense":[{"gloss":"mortgage, right of pledge, lien","pos":["n"]}]},"sdata":[]}

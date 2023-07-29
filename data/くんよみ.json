@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"訓読み","p":true}],"r_ele":[{"r":"くんよみ","p":true}],"sense":[{"gloss":"kun reading, kun'yomi, native Japanese reading of a Chinese character","pos":["n","vs","vt"],"x":["音読み"]}]},"sdata":[]}

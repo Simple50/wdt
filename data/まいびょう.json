@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"毎秒","p":true}],"r_ele":[{"r":"まいびょう","p":true}],"sense":[{"gloss":"every second","pos":["n","adv"]}]},"sdata":[{"j":"↑光↑↓ひかり↓の↑速度↑↓そくど↓は↑毎秒↑↓|まいびょう|↓↑約↑↓やく↓１８↑万↑↓まん↓６↑千↑↓せん↓マイルである。","e":"The light travels at about 186,000 miles a second."}]}

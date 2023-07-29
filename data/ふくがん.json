@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"複眼","p":true}],"r_ele":[{"r":"ふくがん","p":true}],"sense":[{"gloss":"compound eye","pos":["n"],"f":["zool"],"x":["単眼・2"]}]},"sdata":[]}

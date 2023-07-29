@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手間取る","p":true},{"e":"手間どる"}],"r_ele":[{"r":"てまどる","p":true}],"sense":[{"gloss":"to take more time than expected, to take a long time, to be delayed","pos":["v5r","vi"]}]},"sdata":[]}

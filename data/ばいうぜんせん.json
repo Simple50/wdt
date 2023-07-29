@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"梅雨前線","p":true}],"r_ele":[{"r":"ばいうぜんせん","p":true}],"sense":[{"gloss":"seasonal rain front","pos":["n"]}]},"sdata":[{"j":"↑明日↑↓あす↓から↑梅雨↑↓|ばいう↓↑前線↑↓ぜんせん|↓が↑活発↑↓かっぱつ↓になります。","e":"The seasonal rain front is moving in tomorrow."}]}

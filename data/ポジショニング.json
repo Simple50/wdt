@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポジショニング","p":true}],"sense":[{"gloss":"positioning","pos":["n"]}]},"sdata":[]}

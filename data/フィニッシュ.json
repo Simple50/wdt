@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィニッシュ","p":true}],"sense":[{"gloss":"finish","pos":["n","vs"]}]},"sdata":[]}

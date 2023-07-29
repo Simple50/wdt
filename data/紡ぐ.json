@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紡ぐ","p":true}],"r_ele":[{"r":"つむぐ","p":true}],"sense":[{"gloss":"to spin, to make yarn","pos":["v5g","vt"]},{"gloss":"to spin (a tale), to assemble (e.g. words), to put together","pos":["v5g","vt"]}]},"kdata":{"紡":{"on":["ボウ"],"kun":["つむ.ぐ"],"jlpt":1,"meanings":["spinning"],"freq":1876,"comp":[["糸","方"]],"t":1149}},"sdata":[]}

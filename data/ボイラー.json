@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボイラー","p":true},{"r":"ボイラ"}],"sense":[{"gloss":"boiler","pos":["n"]}]},"sdata":[{"j":"↑蒸気↑↓じょうき↓|ボイラー|は↑爆発↑↓ばくはつ↓する↑可能↑↓かのう↓↑性↑↓せい↓がある。","e":"Steam boilers may explode."}]}

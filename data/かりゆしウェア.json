@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"かりゆしウェア","p":true},{"r":"かりゆしウエア"}],"sense":[{"gloss":"kariyushi shirt, Okinawan dress shirt similar to an aloha shirt","pos":["n"]}]},"sdata":[]}

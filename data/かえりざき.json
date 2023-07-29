@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"返り咲き","p":true},{"e":"返咲き"}],"r_ele":[{"r":"かえりざき","p":true}],"sense":[{"gloss":"comeback (e.g. in business), reinstatement","pos":["n"]},{"gloss":"second blooming (in a season), reflowering, reflorescence","pos":["n"]}]},"sdata":[]}

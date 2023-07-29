@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝そべる","p":true}],"r_ele":[{"r":"ねそべる","p":true}],"sense":[{"gloss":"to sprawl, to lie sprawled, to stretch oneself out, to lie relaxed on one's side","pos":["v5r","vi"]}]},"sdata":[]}

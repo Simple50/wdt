@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"統括","p":true},{"e":"統轄"}],"r_ele":[{"r":"とうかつ","p":true}],"sense":[{"gloss":"unification, bringing together, generalization","pos":["n","vs"]},{"gloss":"control, supervision","pos":["n","vs"]}]},"sdata":[{"j":"↑国務↑↓こくむ↓↑長官↑↓ちょうかん↓は↑対外↑↓たいがい↓↑関係↑↓かんけい↓を↑統括↑↓|とうかつ|↓する。","e":"The Secretary of State administers foreign affairs."}]}

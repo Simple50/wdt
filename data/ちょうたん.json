@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"長短","p":true}],"r_ele":[{"r":"ちょうたん","p":true}],"sense":[{"gloss":"(relative) length","pos":["n"]},{"gloss":"advantages and disadvantages, pluses and minuses, strong and weak points, merits and demerits","pos":["n"]}]},"sdata":[]}

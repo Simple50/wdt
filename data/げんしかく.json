@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原子核","p":true}],"r_ele":[{"r":"げんしかく","p":true}],"sense":[{"gloss":"nucleus, atomic nucleus","pos":["n"],"f":["physics"]}]},"sdata":[{"j":"↑原子核↑↓|げんしかく|↓には↑大量↑↓たいりょう↓のエネルギーが↑封↑↓ふう↓じ↑込↑↓こ↓められている。","e":"A great deal of energy is locked up in the nucleus."}]}

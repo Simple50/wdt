@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ショルダーバッグ","p":true},{"r":"ショールダーバッグ"},{"r":"ショルダー・バッグ"}],"sense":[{"gloss":"shoulder bag","pos":["n"]}]},"sdata":[{"j":"↑革↑↓かわ↓の|ショルダーバッグ|を↑探↑↓さが↓しているのですが。","e":"I'm looking for a leather shoulder bag."}]}

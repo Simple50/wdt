@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前奏曲","p":true}],"r_ele":[{"r":"ぜんそうきょく","p":true}],"sense":[{"gloss":"prelude, overture","pos":["n"],"f":["music"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは↑前奏↑↓|ぜんそう↓↑曲↑↓きょく|↓を↑聞↑↓き↓き↑漏↑↓も↓らさないように↑早↑↓はや↓く↑来↑↓き↓た。","e":"They came early so they wouldn't miss the prelude."}]}

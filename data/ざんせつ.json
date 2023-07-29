@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"残雪","p":true}],"r_ele":[{"r":"ざんせつ","p":true}],"sense":[{"gloss":"remaining snow, lingering snow","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旧正月","p":true}],"r_ele":[{"r":"きゅうしょうがつ","p":true}],"sense":[{"gloss":"lunar New Year (esp. the Chinese New Year)","pos":["n"]}]},"sdata":[]}

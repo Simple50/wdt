@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農業協同組合","p":true}],"r_ele":[{"r":"のうぎょうきょうどうくみあい","p":true}],"sense":[{"gloss":"agricultural cooperative","pos":["n"]}]},"sdata":[]}

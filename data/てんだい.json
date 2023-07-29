@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天台","p":true}],"r_ele":[{"r":"てんだい","p":true}],"sense":[{"gloss":"Tendai sect (of Buddhism)","pos":["n"]}]},"sdata":[{"j":"↑運転↑↓うんてん↓↑手↑↓しゅ↓は↑運転↑↓うん|てん↓↑台↑↓だい|↓からもんどり↑打↑↓う↓って↑投↑↓な↓げ↑出↑↓だ↓された。","e":"The driver was thrown from his seat head over heels."}]}

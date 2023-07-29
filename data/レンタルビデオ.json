@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レンタルビデオ","p":true},{"r":"レンタル・ビデオ"}],"sense":[{"gloss":"rental video","pos":["n"]},{"gloss":"video rental shop","pos":["n"]}]},"sdata":[{"j":"この↑店↑↓みせ↓は|レンタルビデオ|↑店↑↓てん↓です。","e":"This shop is a rental video shop."},{"j":"↑私↑↓わたし↓↑達↑↓たち↓は|レンタルビデオ|↑店↑↓てん↓に↑行↑↓い↓った。","e":"We went to the video store."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金科玉条","p":true}],"r_ele":[{"r":"きんかぎょくじょう","p":true}],"sense":[{"gloss":"golden rule (basic principle ensuring success in some activity)","pos":["n"],"x":["黄金律"]}],"m":["yoji"]},"sdata":[{"j":"↑社員↑↓しゃいん↓は↑皆↑↓みな↓↑社長↑↓しゃちょう↓の↑言↑↓げん↓を↑金科玉条↑↓|きんかぎょくじょう|↓としている。","e":"The employees treat everything the company president says as a golden rule."}]}

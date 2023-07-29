@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"石灰岩","p":true}],"r_ele":[{"r":"せっかいがん","p":true}],"sense":[{"gloss":"limestone","pos":["n"]}]},"sdata":[]}

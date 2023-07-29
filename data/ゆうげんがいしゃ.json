@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"有限会社","p":true}],"r_ele":[{"r":"ゆうげんがいしゃ","p":true}],"sense":[{"gloss":"limited company (company structure for small businesses; abolished in 2006), YK","pos":["n"],"x":["合同会社"]}]},"sdata":[]}

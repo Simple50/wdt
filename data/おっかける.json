@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追っかける","p":true},{"e":"追っ掛ける","p":true}],"r_ele":[{"r":"おっかける","p":true}],"sense":[{"gloss":"to chase, to run after, to pursue","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軽んじる","p":true}],"r_ele":[{"r":"かろんじる","p":true}],"sense":[{"gloss":"to look down on, to make light of","pos":["v1","vt"]}]},"sdata":[]}

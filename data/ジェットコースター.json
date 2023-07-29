@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジェットコースター","p":true},{"r":"ジェット・コースター"}],"sense":[{"gloss":"roller coaster","pos":["n"],"l":"eng: jet coaster"}]},"sdata":[{"j":"↑宙返↑↓ちゅうがえ↓りする|ジェットコースター|に↑乗↑↓の↓ったら、↑気持↑↓きも↓ち↑悪↑↓わる↓くなっちゃった。","e":"I got sick riding the roller coaster with the loop-the-loop."},{"j":"|ジェットコースター|は↑怖↑↓こわ↓いな。","e":"Roller coasters are scary."}]}

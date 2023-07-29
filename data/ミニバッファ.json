@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミニバッファ","p":true}],"sense":[{"gloss":"minibuffer","pos":["n"]}]},"sdata":[]}

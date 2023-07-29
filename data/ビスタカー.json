@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビスタカー","p":true},{"r":"ビスタ・カー"}],"sense":[{"gloss":"vista car, double-decker observation car operated by Kintetsu Railway","pos":["n"],"f":["tradem"]}]},"sdata":[]}

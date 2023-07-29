@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地方行政","p":true}],"r_ele":[{"r":"ちほうぎょうせい","p":true}],"sense":[{"gloss":"local administration","pos":["n"]}]},"sdata":[{"j":"そして、↑我々↑↓われわれ↓の↑議会↑↓ぎかい↓こそ、↑我々↑↓われわれ↓が↑住↑↓す↓む↑地域↑↓ちいき↓の↑地方↑↓|ちほう↓↑行政↑↓ぎょうせい|↓↑機関↑↓きかん↓なのです。","e":"And our council is the local government for our area."}]}

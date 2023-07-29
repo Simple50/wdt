@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寸劇","p":true}],"r_ele":[{"r":"すんげき","p":true}],"sense":[{"gloss":"short play, skit","pos":["n"]}]},"sdata":[{"j":"その↑寸劇↑↓|すんげき|↓は５↑年生↑↓ねんせい↓↑全員↑↓ぜんいん↓によって↑上演↑↓じょうえん↓された。","e":"The skit was presented by fifth grade students."}]}

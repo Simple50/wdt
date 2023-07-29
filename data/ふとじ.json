@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"太字","p":true}],"r_ele":[{"r":"ふとじ","p":true}],"sense":[{"gloss":"boldface, bold-type, thick characters","pos":["n","adj-no"]}]},"sdata":[]}

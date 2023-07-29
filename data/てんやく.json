@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"点訳","p":true}],"r_ele":[{"r":"てんやく","p":true}],"sense":[{"gloss":"translating into Braille","pos":["n","vs","vt"]}]},"sdata":[]}

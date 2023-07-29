@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神妙","p":true}],"r_ele":[{"r":"しんみょう","p":true},{"r":"しんびょう","i":["ok"]}],"sense":[{"gloss":"meek, quiet, docile, humble, faithful, obedient","pos":["adj-na","n"]},{"gloss":"mysterious, marvelous, marvellous","pos":["adj-na","n"]}]},"sdata":[]}

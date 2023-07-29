@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オフィシャル","p":true}],"sense":[{"gloss":"official","pos":["adj-na","n"]}]},"sdata":[]}

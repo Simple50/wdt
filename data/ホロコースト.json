@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホロコースト","p":true}],"sense":[{"gloss":"Holocaust, Shoah","pos":["n"]}],"m":["hist"]},"sdata":[]}

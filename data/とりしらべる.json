@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り調べる","p":true},{"e":"取調べる"}],"r_ele":[{"r":"とりしらべる","p":true}],"sense":[{"gloss":"to investigate, to examine","pos":["v1","vt"]}]},"sdata":[{"j":"↑事件↑↓じけん↓の↑原因↑↓げんいん↓を↑取↑↓|と↓り↑調↑↓しら↓べる|ために↑実情↑↓じつじょう↓↑調査↑↓ちょうさ↓↑委員↑↓いいん↓↑会↑↓かい↓が↑作↑↓つく↓られた。","e":"A fact-finding committee was set up to determine the cause of the incident."}]}

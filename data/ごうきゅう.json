@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"号泣","p":true}],"r_ele":[{"r":"ごうきゅう","p":true}],"sense":[{"gloss":"crying loudly, bawling, wailing, lamentation","pos":["n","vs","vi"]},{"gloss":"crying one's eyes out (without making noise), breaking into a flood of tears, crying buckets, weeping","pos":["n","vs","vi"],"m":["col"]}]},"sdata":[]}

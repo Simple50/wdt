@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弔い合戦","p":true}],"r_ele":[{"r":"とむらいがっせん","p":true}],"sense":[{"gloss":"fighting to avenge someone's death, battle of revenge","pos":["n"]}]},"sdata":[]}

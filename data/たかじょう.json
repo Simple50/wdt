@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鷹匠","p":true}],"r_ele":[{"r":"たかじょう","p":true}],"sense":[{"gloss":"falconer, hawker","pos":["n"]}]},"sdata":[{"j":"どな|たか↑上記↑↓じょう|き↓のコメントを↑私↑↓わたし↓が↑理解↑↓りかい↓できる↑言語↑↓げんご↓へ↑翻訳↑↓ほんやく↓して↑戴↑↓いただ↓けませんか？","e":"Could someone translate the comment above to a language which I can understand?"}]}

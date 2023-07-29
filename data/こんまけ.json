@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"根負け","p":true}],"r_ele":[{"r":"こんまけ","p":true}],"sense":[{"gloss":"being beaten by one's opponent's persistence, being outlasted, running out of patience, giving in, succumbing (to)","pos":["n","vs","vi"]}]},"sdata":[{"j":"ホントしつこいなぁ、しのぶさん。なんか↑根負↑↓|こんま↓け|しそう。","e":"Shinobu is really persistent. It seems that I am beaten."}]}

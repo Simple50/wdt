@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"束ねる","p":true}],"r_ele":[{"r":"たばねる","p":true},{"r":"つかねる"}],"sense":[{"gloss":"to tie up in a bundle (e.g. straw, hair, bills, letters), to bundle, to sheathe","pos":["v1","vt"]},{"gloss":"to govern, to manage, to control, to administer","pos":["v1","vt"]},{"gloss":"to fold (one's arms), to put together (one's hands)","pos":["v1","vt"]}]},"sdata":[]}

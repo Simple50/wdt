@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行く末","p":true},{"e":"行末","i":["io"]}],"r_ele":[{"r":"ゆくすえ","p":true}],"sense":[{"gloss":"one's future, one's fate, prospects, promise","pos":["n"]},{"gloss":"one's way, one's path","pos":["n"]}]},"sdata":[{"j":"↑会社↑↓かいしゃ↓の↑行↑↓|ゆ↓く↑末↑↓すえ|↓は↑彼↑↓かれ↓の↑肩↑↓かた↓に↑掛↑↓か↓かっていた。","e":"He bore the future of the company on his shoulders."}]}

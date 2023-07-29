@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売り切れる","p":true},{"e":"売切れる"}],"r_ele":[{"r":"うりきれる","p":true}],"sense":[{"gloss":"to be sold out","pos":["v1","vi"]}]},"sdata":[{"j":"そのケーキはすぐに↑売↑↓|う↓り↑切↑↓き↓れる|でしょう。","e":"The cakes may be sold out soon."}]}

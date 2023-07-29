@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"常勤","p":true}],"r_ele":[{"r":"じょうきん","p":true}],"sense":[{"gloss":"full-time employment","pos":["n","vs","vi"]}]},"sdata":[]}

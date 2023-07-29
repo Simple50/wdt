@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"僧院","p":true}],"r_ele":[{"r":"そういん","p":true}],"sense":[{"gloss":"monastery, temple","pos":["n"]}]},"sdata":[{"j":"↑総員↑↓|そういん|↓、↑脱出↑↓だっしゅつ↓せよ！","e":"All hands, abandon ship!"}]}

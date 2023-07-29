@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"導火線","p":true}],"r_ele":[{"r":"どうかせん","p":true}],"sense":[{"gloss":"fuse","pos":["n"]}]},"sdata":[{"j":"↑導火↑↓|どうか↓↑線↑↓せん|↓はすぐ↑火↑↓ひ↓がついた。","e":"The fuse lit at once."}]}

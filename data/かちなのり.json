@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勝ち名乗り","p":true}],"r_ele":[{"r":"かちなのり","p":true}],"sense":[{"gloss":"being declared the winner of a bout","pos":["n"],"f":["sumo"]}]},"sdata":[]}

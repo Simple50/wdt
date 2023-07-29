@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メトロポリタン","p":true}],"sense":[{"gloss":"metropolitan","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モニタリング","p":true}],"sense":[{"gloss":"monitoring","pos":["n"]}]},"sdata":[]}

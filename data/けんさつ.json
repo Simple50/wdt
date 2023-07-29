@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"検察","p":true}],"r_ele":[{"r":"けんさつ","p":true}],"sense":[{"gloss":"examination, investigation, prosecution","pos":["n","vs"]}]},"sdata":[{"j":"↑検察↑↓|けんさつ|↓↑側↑↓がわ↓は↑被告↑↓ひこく↓が↑子供↑↓こども↓を↑誘拐↑↓ゆうかい↓したと↑激↑↓はげ↓しく↑非難↑↓ひなん↓した。","e":"The prosecution condemned the defendant for kidnapping a child."}]}

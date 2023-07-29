@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相手方","p":true}],"r_ele":[{"r":"あいてかた","p":true},{"r":"あいてがた"}],"sense":[{"gloss":"other party, opposite party, opposing team, one's opponent, one's adversary","pos":["n"]}]},"sdata":[]}

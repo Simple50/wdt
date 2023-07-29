@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"栄誉礼","p":true}],"r_ele":[{"r":"えいよれい","p":true}],"sense":[{"gloss":"salute of guards of honor (honour)","pos":["n"]}]},"sdata":[]}

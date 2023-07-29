@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"四輪車","p":true}],"r_ele":[{"r":"よんりんしゃ","p":true}],"sense":[{"gloss":"automobile, car","pos":["n"]}]},"sdata":[]}

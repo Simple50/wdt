@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"編曲","p":true}],"r_ele":[{"r":"へんきょく","p":true}],"sense":[{"gloss":"arrangement","pos":["n","vs","vt","vi"],"f":["music"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はそのピアノ↑曲↑↓きょく↓をバイオリン↑向↑↓む↓きに↑編曲↑↓|へんきょく|↓した。","e":"He arranged that piano music for the violin."}]}

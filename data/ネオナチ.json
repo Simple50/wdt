@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ネオナチ","p":true}],"sense":[{"gloss":"neo-Nazi","pos":["n"]}]},"sdata":[]}

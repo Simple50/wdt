@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"堀江","p":true}],"r_ele":[{"r":"ほりえ","p":true}],"sense":[{"gloss":"canal","pos":["n"]}]},"sdata":[]}

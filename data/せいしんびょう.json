@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"精神病","p":true}],"r_ele":[{"r":"せいしんびょう","p":true}],"sense":[{"gloss":"mental illness, psychosis","pos":["n"]}]},"sdata":[{"j":"↑社会↑↓しゃかい↓は↑患者↑↓かんじゃ↓によって↑運営↑↓うんえい↓されている↑精神↑↓|せいしん↓↑病院↑↓びょう|いん↓です。","e":"Society is an insane asylum run by the inmates."}]}

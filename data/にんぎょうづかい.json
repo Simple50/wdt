@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人形使い"},{"e":"人形遣い","p":true}],"r_ele":[{"r":"にんぎょうつかい"},{"r":"にんぎょうづかい","p":true}],"sense":[{"gloss":"puppet operator, puppet manipulator, puppeteer","pos":["n"],"x":["使い・つかい・4"]}]},"sdata":[]}

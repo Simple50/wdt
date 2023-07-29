@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マリーン","p":true},{"r":"マリン","p":true}],"sense":[{"gloss":"marine","pos":["n"]},{"gloss":"Marine, the Marines","pos":["n"]}]},"sdata":[]}

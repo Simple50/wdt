@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天変地異","p":true}],"r_ele":[{"r":"てんぺんちい","p":true}],"sense":[{"gloss":"natural disaster, cataclysm","pos":["n"]}],"m":["yoji"]},"sdata":[{"j":"↑戦争↑↓せんそう↓は↑決↑↓けっ↓して↑地震↑↓じしん↓や↑津波↑↓つなみ↓のような↑天変地異↑↓|てんぺんちい|↓ではない。↑何↑↓なん↓の↑音沙汰↑↓おとさた↓もなく↑突然↑↓とつぜん↓やってくるものではない。","e":"War is not a natural disaster like an earthquake or a tsunami. It does not come without warning."}]}

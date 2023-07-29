@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"減額","p":true}],"r_ele":[{"r":"げんがく","p":true}],"sense":[{"gloss":"reduction, diminution, abatement","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑管弦楽↑↓かん|げんがく|↓↑団↑↓だん↓は↑郷愁↑↓きょうしゅう↓に↑満↑↓み↓ちた↑音楽↑↓おんがく↓を↑演奏↑↓えんそう↓し↑始↑↓はじ↓めた。","e":"The orchestra struck up nostalgic music."}]}

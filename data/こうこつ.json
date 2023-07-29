@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恍惚","p":true}],"r_ele":[{"r":"こうこつ","p":true}],"sense":[{"gloss":"ecstasy, rapture, trance","pos":["n","adv-to","adj-t"]},{"gloss":"senility","pos":["n","adj-no"]}]},"sdata":[]}

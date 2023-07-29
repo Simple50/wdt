@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マリンバ","p":true}],"sense":[{"gloss":"marimba (musical instrument)","pos":["n"]}]},"sdata":[]}

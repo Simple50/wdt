@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刀剣","p":true}],"r_ele":[{"r":"とうけん","p":true}],"sense":[{"gloss":"sword, dagger, knife, bayonet","pos":["n"]}]},"sdata":[{"j":"こんにちは、ぼくの↑名前↑↓なまえ↓は↑斎藤↑↓さい|とう↓↑健↑↓けん|↓です。","e":"Hi, my name is Ken Saitou."}]}

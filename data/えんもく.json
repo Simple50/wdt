@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"演目","p":true}],"r_ele":[{"r":"えんもく","p":true}],"sense":[{"gloss":"program (musical, concert, theatrical, etc.), programme","pos":["n"],"x":["演奏曲目"]}],"m":["abbr"]},"sdata":[{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓に５↑千↑↓せん↓↑円↑↓|えん↓もく|れた。","e":"He gave me no less than five thousand yen."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"御者","p":true},{"e":"馭者"}],"r_ele":[{"r":"ぎょしゃ","p":true}],"sense":[{"gloss":"coachman, driver, cabman, postilion","pos":["n"]}]},"sdata":[]}

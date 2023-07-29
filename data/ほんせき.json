@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本籍","p":true}],"r_ele":[{"r":"ほんせき","p":true}],"sense":[{"gloss":"one's registered domicile (as recorded in the family register), one's legal domicile (as opposed to where one lives)","pos":["n"],"x":["戸籍・こせき・1"]}]},"sdata":[{"j":"↑君↑↓きみ↓の↑本籍↑↓|ほんせき|↓↑地↑↓ち↓を↑教↑↓おし↓えて↑下↑↓くだ↓さい。","e":"Please give me your permanent address."}]}

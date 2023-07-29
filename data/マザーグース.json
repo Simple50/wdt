@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マザーグース","p":true},{"r":"マザー・グース"}],"sense":[{"gloss":"Mother Goose","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"葱","p":true}],"r_ele":[{"r":"ねぎ","p":true},{"r":"き","i":["ok"]},{"r":"ネギ"}],"sense":[{"gloss":"Welsh onion (Allium fistulosum), green onion, spring onion","pos":["n"]}],"m":["uk"]},"kdata":{"葱":{"on":["ソウ"],"kun":["ねぎ"],"meanings":["stone leek","Welsh onion"],"comp":[["艹","怱"]],"jlpt":-1,"freq":3599}},"sdata":[]}

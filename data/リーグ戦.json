@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"リーグ戦","p":true}],"r_ele":[{"r":"リーグせん","p":true}],"sense":[{"gloss":"league match, league game, league series, round robin","pos":["n"]}]},"kdata":{"戦":{"on":["セン"],"kun":["いくさ","たたか.う","おのの.く","そよ.ぐ","わなな.く"],"jlpt":3,"meanings":["war","battle","match"],"freq":78,"comp":[["単","戈"]],"t":1719}},"sdata":[]}

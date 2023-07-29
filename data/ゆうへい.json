@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幽閉","p":true}],"r_ele":[{"r":"ゆうへい","p":true}],"sense":[{"gloss":"confinement, imprisonment, incarceration","pos":["n","vs","vt"]}]},"sdata":[]}

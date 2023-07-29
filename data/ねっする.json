@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱する","p":true}],"r_ele":[{"r":"ねっする","p":true}],"sense":[{"gloss":"to heat, to heat up","pos":["vs-s","vt","vi"]},{"gloss":"to get excited, to get worked up, to get fired up","pos":["vs-s","vi"]}]},"sdata":[]}

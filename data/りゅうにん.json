@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"留任","p":true}],"r_ele":[{"r":"りゅうにん","p":true}],"sense":[{"gloss":"remaining in office, staying in office, remaining at one's post","pos":["n","vs","vi"]}]},"sdata":[]}

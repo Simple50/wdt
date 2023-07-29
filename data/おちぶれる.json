@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落ちぶれる","p":true},{"e":"零落れる","i":["rK"]},{"e":"落魄れる","i":["rK"]}],"r_ele":[{"r":"おちぶれる","p":true}],"sense":[{"gloss":"to come down in the world, to fall low, to be ruined, to be reduced to poverty, to fall on hard times","pos":["v1","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通商産業省","p":true}],"r_ele":[{"r":"つうしょうさんぎょうしょう","p":true}],"sense":[{"gloss":"(former) Ministry of International Trade and Industry (now Ministry of Economy, Trade and Industry), MITI","pos":["n"],"x":["経済産業省・けいざいさんぎょうしょう"]}]},"sdata":[]}

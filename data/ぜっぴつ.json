@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絶筆","p":true}],"r_ele":[{"r":"ぜっぴつ","p":true}],"sense":[{"gloss":"one's last (piece of) writing, last work","pos":["n"]},{"gloss":"ceasing to write, giving up writing","pos":["n"]}]},"sdata":[]}

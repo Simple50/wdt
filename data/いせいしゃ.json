@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"為政者","p":true}],"r_ele":[{"r":"いせいしゃ","p":true}],"sense":[{"gloss":"statesman, administrator, politician, policymaker","pos":["n"]}]},"sdata":[]}

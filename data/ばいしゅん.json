@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売春","p":true}],"r_ele":[{"r":"ばいしゅん","p":true}],"sense":[{"gloss":"prostitution","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑売春↑↓|ばいしゅん|↓↑宿↑↓やど↓から↑出↑↓で↓てきたところを↑友人↑↓ゆうじん↓に↑見↑↓み↓られてばつが↑悪↑↓わる↓かった。","e":"As I left the brothel, I was embarrassed to be seen by my friends."},{"j":"↑売春↑↓|ばいしゅん|↓↑宿↑↓やど↓で↑働↑↓はたら↓くつもりです。","e":"I plan to work in a brothel."}]}

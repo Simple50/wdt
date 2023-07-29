@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パームボール","p":true},{"r":"パーム・ボール"}],"sense":[{"gloss":"palm ball","pos":["n"]}]},"sdata":[]}

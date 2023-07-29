@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大所帯","p":true}],"r_ele":[{"r":"おおじょたい","p":true}],"sense":[{"gloss":"large family","pos":["n"]}]},"sdata":[{"j":"うちは↑大所帯↑↓|おおじょたい|↓なんだ。","e":"My family is a large one."}]}

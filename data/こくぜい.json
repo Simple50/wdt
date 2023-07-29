@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国税","p":true}],"r_ele":[{"r":"こくぜい","p":true}],"sense":[{"gloss":"national tax","pos":["n"]}]},"sdata":[]}

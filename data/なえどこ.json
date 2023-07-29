@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"苗床","p":true}],"r_ele":[{"r":"なえどこ","p":true}],"sense":[{"gloss":"seedbed, nursery, seed-plot","pos":["n"]}]},"sdata":[]}

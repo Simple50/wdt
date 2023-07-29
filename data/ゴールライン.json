@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゴールライン","p":true},{"r":"ゴール・ライン"}],"sense":[{"gloss":"goal line","pos":["n"],"f":["sports"]}]},"sdata":[]}

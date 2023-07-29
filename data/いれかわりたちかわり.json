@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入れ代わり立ち代わり","p":true},{"e":"入れ替わり立ち替わり"}],"r_ele":[{"r":"いれかわりたちかわり","p":true}],"sense":[{"gloss":"by turns","pos":["adv"]}]},"sdata":[]}

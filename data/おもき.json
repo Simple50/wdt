@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重き","p":true}],"r_ele":[{"r":"おもき","p":true}],"sense":[{"gloss":"importance, emphasis, stress","pos":["n"]}]},"sdata":[{"j":"いかにも↑敬虔↑↓けいけん↓なるクリスチャンが↑送↑↓おく↓る、↑礼節↑↓れいせつ↓↑重↑↓|おも↓き|↑言葉↑↓ことば↓です。","e":"So characteristic of what a pious Christian would say, this courteous phrase."}]}

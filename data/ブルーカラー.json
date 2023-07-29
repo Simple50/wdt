@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブルーカラー","p":true},{"r":"ブルー・カラー"}],"sense":[{"gloss":"blue-collar (worker)","pos":["n"],"x":["ホワイトカラー"]}]},"sdata":[{"j":"なぜ、↑会社↑↓かいしゃ↓によって、|ブルーカラー|の↑人↑↓ひと↓のほうが、ホワイトカラーの↑人↑↓ひと↓より↑給料↑↓きゅうりょう↓がいいのですか？","e":"Why are, depending on the company, blue-collar workers better paid than white-collar ones?"}]}

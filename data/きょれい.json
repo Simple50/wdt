@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虚礼","p":true}],"r_ele":[{"r":"きょれい","p":true}],"sense":[{"gloss":"empty (useless) formalities","pos":["n"]}]},"sdata":[]}

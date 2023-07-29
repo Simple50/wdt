@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"町内","p":true}],"r_ele":[{"r":"ちょうない","p":true}],"sense":[{"gloss":"neighborhood, neighbourhood, street, block, town","pos":["n","adj-no"]}]},"sdata":[{"j":"↑家↑↓うち↓は↑町内↑↓|ちょうない|↓↑会↑↓かい↓に↑所属↑↓しょぞく↓している。","e":"My family belongs to the neighborhood association."}]}

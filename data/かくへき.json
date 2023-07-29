@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隔壁","p":true}],"r_ele":[{"r":"かくへき","p":true}],"sense":[{"gloss":"barrier wall, bulkhead, partition, septum, diaphragm","pos":["n","adj-no"]}]},"sdata":[]}

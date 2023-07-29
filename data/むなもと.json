@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"胸元","p":true},{"e":"胸もと"},{"e":"胸許"}],"r_ele":[{"r":"むなもと","p":true}],"sense":[{"gloss":"breast, chest","pos":["n"]},{"gloss":"pit of the stomach, solar plexus, epigastrium","pos":["n"]}]},"sdata":[{"j":"その↑時↑↓とき↓、メアリーは↑胸元↑↓|むなもと|↓に↑純白↑↓じゅんぱく↓のパールのネックレスをしていました。","e":"At that time, Mary wore a pure white pearl necklace on her chest."}]}

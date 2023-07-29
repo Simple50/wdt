@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"府議会","p":true}],"r_ele":[{"r":"ふぎかい","p":true}],"sense":[{"gloss":"prefectural assembly (in Kyoto or Osaka)","pos":["n"]}]},"sdata":[]}

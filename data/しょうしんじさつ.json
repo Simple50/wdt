@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼身自殺","p":true}],"r_ele":[{"r":"しょうしんじさつ","p":true}],"sense":[{"gloss":"self-immolation, burning oneself to death, suicide by fire","pos":["n","vs","vi"]}]},"sdata":[]}

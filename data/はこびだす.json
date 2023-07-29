@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"運び出す","p":true},{"e":"運びだす"}],"r_ele":[{"r":"はこびだす","p":true}],"sense":[{"gloss":"to carry out (of somewhere), to transport, to take out","pos":["v5s","vt"]}]},"sdata":[]}

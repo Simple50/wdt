@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"配合","p":true}],"r_ele":[{"r":"はいごう","p":true}],"sense":[{"gloss":"combination, arrangement, distribution, harmony, mixture, compounding","pos":["n","vs","vt"]},{"gloss":"marrying off","pos":["n","vs","vt"],"m":["arch"]}]},"sdata":[]}

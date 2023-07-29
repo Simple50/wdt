@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巻紙","p":true},{"e":"巻き紙"}],"r_ele":[{"r":"まきがみ","p":true}],"sense":[{"gloss":"rolled letter paper","pos":["n"]},{"gloss":"roll of paper","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓の↑髪↑↓かみ↓は↑美↑↓うつく↓しい↑巻↑↓|ま↓き↑髪↑↓がみ|↓になっていた。","e":"Her hair hung in neat coils."}]}

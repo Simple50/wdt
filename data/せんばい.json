@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"専売","p":true}],"r_ele":[{"r":"せんばい","p":true}],"sense":[{"gloss":"monopoly, monopolization, exclusive sales rights","pos":["n","vs","vt","adj-no"]}]},"sdata":[{"j":"これは↑当店↑↓とうてん↓の↑専売↑↓|せんばい|↓です。","e":"Our store has a monopoly on this item."}]}

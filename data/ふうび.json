@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風靡","p":true},{"e":"風び"}],"r_ele":[{"r":"ふうび","p":true}],"sense":[{"gloss":"overwhelming, conquering, dominating, sweeping (the world), swaying","pos":["n","vs","vt"]}]},"sdata":[]}

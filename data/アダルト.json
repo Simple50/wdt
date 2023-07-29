@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アダルト","p":true}],"sense":[{"gloss":"adult","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑関西↑↓かんさい↓の|アダルト|↑産業↑↓さんぎょう↓に↑強↑↓つよ↓い↑影響↑↓えいきょう↓↑力↑↓りょく↓を↑持↑↓も↓っている。","e":"He's very influential in Kansai's adult industry."},{"j":"その↑映画↑↓えいが↓は|アダルト|↑指定↑↓してい↓だよ。","e":"The movie is X-rated."}]}

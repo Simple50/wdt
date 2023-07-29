@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無理解","p":true}],"r_ele":[{"r":"むりかい","p":true}],"sense":[{"gloss":"lack of understanding, lack of sympathy","pos":["n","adj-na"]}]},"sdata":[]}

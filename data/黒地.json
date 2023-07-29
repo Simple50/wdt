@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒地","p":true}],"r_ele":[{"r":"くろじ","p":true}],"sense":[{"gloss":"black ground, black cloth","pos":["n"]}]},"kdata":{"黒":{"on":["コク"],"kun":["くろ","くろ.ずむ","くろ.い"],"jlpt":4,"meanings":["black"],"freq":573,"comp":[["里","灬"]],"d":["纒"],"v":"黑","t":1423},"地":{"on":["チ","ジ"],"jlpt":4,"meanings":["ground","earth"],"freq":40,"comp":[["土","也"]],"t":335}},"sdata":[]}

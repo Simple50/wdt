@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一点張り","p":true},{"e":"一点張","i":["sK"]}],"r_ele":[{"r":"いってんばり","p":true}],"sense":[{"gloss":"persistence, single-mindedness, sticking to one point, focusing on one thing","pos":["n"]},{"gloss":"always making the same bet","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑利己↑↓りこ↓↑一点張↑↓|いってんば↓り|の↑女↑↓おんな↓だ。","e":"She puts her own interests above everything else."}]}

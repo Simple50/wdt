@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サニタリー","p":true}],"sense":[{"gloss":"sanitary","pos":["n"]},{"gloss":"utility area in a kitchen, etc. where there are laundry facilities","pos":["n"]}]},"sdata":[]}

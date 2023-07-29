@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フラストレーション","p":true}],"sense":[{"gloss":"frustration","pos":["n"]}]},"sdata":[{"j":"また、「↑安楽↑↓あんらく↓いすに↑座↑↓すわ↓りながらの↑買↑↓か↓い↑物↑↓もの↓」には、↑雑踏↑↓ざっとう↓や↑交通↑↓こうつう↓から↑来↑↓く↓る|フラストレーション|が↑伴↑↓ともな↓わない。","e":"Also, \"armchair shopping\" gets rid of the frustrations of crowds and traffic."}]}

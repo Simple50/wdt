@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"入水","p":true}],"r_ele":[{"r":"じゅすい"},{"r":"にゅうすい","p":true}],"sense":[{"gloss":"suicide by drowning, drowning oneself","pos":["n","vs"]},{"gloss":"entering the water, hitting the water","pos":["n","vs"]}]},"sdata":[]}

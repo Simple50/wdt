@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エデン","p":true}],"sense":[{"gloss":"Eden","pos":["n"]}]},"sdata":[{"j":"↑創造↑↓そうぞう↓↑論↑↓ろん↓↑者↑↓しゃ↓の↑中↑↓なか↓には、アダムとイブにへそはなく|エデン|の↑園↑↓その↓の↑木↑↓き↓には↑年輪↑↓ねんりん↓がなかったと↑信↑↓しん↓じる↑人↑↓ひと↓もいる。","e":"Some creationists believe that Adam and Eve had no navels, and that the trees in the Garden of Eden had no growth rings."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フロンガス","p":true},{"r":"フロン・ガス"}],"sense":[{"gloss":"chlorofluorocarbon gas, CFC gas","pos":["n"]}]},"sdata":[]}

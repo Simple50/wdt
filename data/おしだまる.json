@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し黙る","p":true},{"e":"押黙る"},{"e":"押しだまる"},{"e":"おし黙る"}],"r_ele":[{"r":"おしだまる","p":true}],"sense":[{"gloss":"to keep silent","pos":["v5r","vi"]}]},"sdata":[]}

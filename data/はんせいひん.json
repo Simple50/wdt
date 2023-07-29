@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"半製品","p":true}],"r_ele":[{"r":"はんせいひん","p":true}],"sense":[{"gloss":"semi-finished goods","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プラチナ","p":true}],"sense":[{"gloss":"platinum (Pt)","pos":["n"],"x":["白金・はっきん"],"l":"spa: platina"}]},"sdata":[]}

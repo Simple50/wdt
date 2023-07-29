@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイペース","p":true},{"r":"ハイ・ペース"}],"sense":[{"gloss":"quick pace","pos":["n","adj-na"],"l":"eng: high pace"}]},"sdata":[]}

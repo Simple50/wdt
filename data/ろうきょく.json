@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浪曲","p":true}],"r_ele":[{"r":"ろうきょく","p":true}],"sense":[{"gloss":"rōkyoku, naniwabushi, recitation of stories accompanied by samisen","pos":["n"],"x":["浪花節・なにわぶし"]}]},"sdata":[]}

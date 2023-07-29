@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伸びやか","p":true}],"r_ele":[{"r":"のびやか","p":true}],"sense":[{"gloss":"comfortable, carefree","pos":["adj-na","n"]}]},"sdata":[]}

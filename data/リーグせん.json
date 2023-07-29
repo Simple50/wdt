@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"リーグ戦","p":true}],"r_ele":[{"r":"リーグせん","p":true}],"sense":[{"gloss":"league match, league game, league series, round robin","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追い討ち","p":true},{"e":"追い打ち"},{"e":"追い撃ち"},{"e":"追いうち","i":["sK"]},{"e":"追討ち","i":["sK"]},{"e":"追打ち","i":["sK"]},{"e":"追撃ち","i":["sK"]}],"r_ele":[{"r":"おいうち","p":true}],"sense":[{"gloss":"attacking a fleeing enemy","pos":["n"]},{"gloss":"additional blow to an already unfortunate situation, rubbing salt into a wound","pos":["n"]}]},"sdata":[]}

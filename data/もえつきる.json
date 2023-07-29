@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"燃え尽きる","p":true}],"r_ele":[{"r":"もえつきる","p":true}],"sense":[{"gloss":"to burn out","pos":["v1","vi"]}]},"sdata":[{"j":"↑最↑↓もっと↓も↑明↑↓あか↓るい↑炎↑↓ほのお↓というのは、↑最↑↓もっと↓も↑速↑↓はや↓く↑燃↑↓|も↓え↑尽↑↓つ↓きる|ものだ。","e":"The brightest flame burns quickest."}]}

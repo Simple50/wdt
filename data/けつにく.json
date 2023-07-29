@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"血肉","p":true}],"r_ele":[{"r":"けつにく","p":true},{"r":"ちにく"}],"sense":[{"gloss":"blood relative, close relation, (one's) flesh and blood","pos":["n"]},{"gloss":"flesh and blood, the body","pos":["n"]}]},"sdata":[{"j":"↑国会↑↓こっかい↓↑議員↑↓ぎいん↓は↑問題↑↓もんだい↓の↑解決↑↓かい|けつ↓に↑苦慮↑↓く|りょ↓しています。","e":"Legislators in the Diet are struggling to find a solution to the problem."}]}

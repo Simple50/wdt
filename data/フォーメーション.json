@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フォーメーション","p":true}],"sense":[{"gloss":"formation","pos":["n"]}]},"sdata":[{"j":"イン|フォーメーション|カウンターはどこでしょう？","e":"Where is the information counter?"}]}

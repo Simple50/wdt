@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アベニュー","p":true},{"r":"アヴェニュー"},{"r":"アヴェニュ"}],"sense":[{"gloss":"avenue, boulevard","pos":["n"]}]},"sdata":[]}

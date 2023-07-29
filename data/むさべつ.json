@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無差別","p":true}],"r_ele":[{"r":"むさべつ","p":true}],"sense":[{"gloss":"indiscrimination, without discrimination","pos":["n"]},{"gloss":"indiscriminate","pos":["adj-na"]}]},"sdata":[]}

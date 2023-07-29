@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パチパチ","p":true},{"r":"ぱちぱち"}],"sense":[{"gloss":"crackling, cracking, snapping, popping, clicking","pos":["adv","adv-to","vs"]},{"gloss":"clapping","pos":["adv","adv-to","vs"]},{"gloss":"incessantly (blinking)","pos":["adv","adv-to","vs"]}],"m":["on-mim"]},"sdata":[]}

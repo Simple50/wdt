@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"加害者","p":true}],"r_ele":[{"r":"かがいしゃ","p":true}],"sense":[{"gloss":"perpetrator, wrong-doer, aggressor, assailant, offender","pos":["n"],"ant":["被害者"]}]},"sdata":[]}

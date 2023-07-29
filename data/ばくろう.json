@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伯楽","p":true},{"e":"博労"},{"e":"馬喰"}],"r_ele":[{"r":"ばくろう","p":true},{"r":"はくらく"}],"sense":[{"gloss":"cattle or horse trader, good judge of horses or cattle","pos":["n"]}],"m":["sens"]},"sdata":[]}

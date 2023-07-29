@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"万策","p":true}],"r_ele":[{"r":"ばんさく","p":true}],"sense":[{"gloss":"all means","pos":["n"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓はもう↑万策↑↓|ばんさく|↓↑尽↑↓つ↓きた。","e":"It's all up with me."}]}

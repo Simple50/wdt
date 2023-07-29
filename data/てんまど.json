@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天窓","p":true}],"r_ele":[{"r":"てんまど","p":true},{"r":"てんそう"}],"sense":[{"gloss":"skylight","pos":["n"]},{"gloss":"head","pos":["n"]}]},"sdata":[{"j":"↑天窓↑↓|てんまど|↓のある↑部屋↑↓へや↓がいいです。","e":"A room with a skylight would be fine."},{"j":"↑天窓↑↓|てんまど|↓に↑手↑↓て↓が↑届↑↓とど↓かないの。","e":"I can't reach the skylight."}]}

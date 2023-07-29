@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"版権","p":true}],"r_ele":[{"r":"はんけん","p":true}],"sense":[{"gloss":"copyright, publishing rights","pos":["n"],"x":["著作権","出版権"]}]},"sdata":[{"j":"この↑本↑↓ほん↓はまだ↑版権↑↓|はんけん|↓が↑生↑↓い↓きている。","e":"This book is still copyrighted."}]}

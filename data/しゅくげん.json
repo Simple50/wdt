@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縮減","p":true}],"r_ele":[{"r":"しゅくげん","p":true}],"sense":[{"gloss":"reduction, diminishment, contraction","pos":["n","vs","vt"]}]},"sdata":[]}

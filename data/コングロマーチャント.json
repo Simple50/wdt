@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コングロマーチャント","p":true}],"sense":[{"gloss":"conglomerate merchant","pos":["n"]}],"m":["abbr"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フロッピーディスク","p":true},{"r":"フロッピー・ディスク"}],"sense":[{"gloss":"floppy disk, flexible disk","pos":["n"],"f":["comp"],"x":["フロッピー"]}]},"sdata":[{"j":"「|フロッピーディスク|って↑知↑↓し↓ってる？」「↑知↑↓し↓ってますよ」「↑使↑↓つか↓ったことある？」「↑使↑↓つか↓ったことはないですね」","e":"Do you know what floppy disks are? \"Of course I do!\" \"Have you ever used one?\" \"Nah, I haven't.\""}]}

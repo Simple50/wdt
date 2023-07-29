@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"急降下","p":true}],"r_ele":[{"r":"きゅうこうか","p":true}],"sense":[{"gloss":"sudden drop, sharp fall, nosedive, swoop","pos":["n","vs","vi"]}]},"sdata":[{"j":"ワシは↑獲物↑↓えもの↓めがけて↑急降下↑↓|きゅうこうか|↓した。","e":"The eagle dived at its prey."}]}

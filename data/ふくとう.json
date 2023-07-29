@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"復党","p":true}],"r_ele":[{"r":"ふくとう","p":true}],"sense":[{"gloss":"rejoining a political party","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人妻","p":true}],"r_ele":[{"r":"ひとづま","p":true}],"sense":[{"gloss":"married woman","pos":["n"]},{"gloss":"another's wife","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たち、みんな↑人妻↑↓|ひとづま|↓なのよ。","e":"We're all married women."}]}

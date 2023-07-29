@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"監察医","p":true}],"r_ele":[{"r":"かんさつい","p":true}],"sense":[{"gloss":"medical coroner, medical examiner","pos":["n"]}]},"sdata":[]}

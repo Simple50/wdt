@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シミーズ","p":true},{"r":"シュミーズ"}],"sense":[{"gloss":"chemise","pos":["n"],"l":"fre"}]},"sdata":[]}

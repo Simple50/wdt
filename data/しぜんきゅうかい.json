@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自然休会","p":true}],"r_ele":[{"r":"しぜんきゅうかい","p":true}],"sense":[{"gloss":"spontaneous recess (in the Diet)","pos":["n"],"f":["politics"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"サービス業","p":true}],"r_ele":[{"r":"サービスぎょう","p":true}],"sense":[{"gloss":"service industry, service sector","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陸送","p":true}],"r_ele":[{"r":"りくそう","p":true}],"sense":[{"gloss":"land transportation","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑辰雄↑↓たつお↓は↑航空機↑↓こうくうき↓の↑着陸↑↓ちゃく|りく↓↑装置↑↓そう|ち↓を↑見↑↓み↓るのが↑好↑↓す↓きです。","e":"Tatsuo likes looking at aircraft landing gears."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱獲","p":true},{"e":"濫獲","p":true}],"r_ele":[{"r":"らんかく","p":true}],"sense":[{"gloss":"excessive fishing, overfishing, overhunting, excessive taking","pos":["n","vs","vt"]}]},"sdata":[]}

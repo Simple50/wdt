@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卸売市場","p":true}],"r_ele":[{"r":"おろしうりしじょう","p":true}],"sense":[{"gloss":"wholesale market","pos":["n"]}]},"sdata":[]}

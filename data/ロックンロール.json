@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロックンロール","p":true},{"r":"ロッケンロール","i":["ik"]}],"sense":[{"gloss":"rock 'n' roll, rock and roll","pos":["n"],"f":["music"]}]},"sdata":[{"j":"|ロックンロール|は↑若↑↓わか↓い↑世代↑↓せだい↓の↑発明↑↓はつめい↓だった。","e":"Rock and roll was a creation of the young generation."},{"j":"↑彼↑↓かれ↓は|ロックンロール|の↑帝王↑↓ていおう↓だった。","e":"He was the king of rock-and-roll."}]}

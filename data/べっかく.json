@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別格","p":true}],"r_ele":[{"r":"べっかく","p":true}],"sense":[{"gloss":"special, extraordinary","pos":["n","adj-no"]}]},"sdata":[{"j":"コックとして↑彼↑↓かれ↓は↑別格↑↓|べっかく|↓だ。","e":"As a cook he is in a class by himself."},{"j":"こちらは↑町↑↓まち↓の↑中↑↓なか↓でも↑別格↑↓|べっかく|↓のホテルなんですよ。","e":"This is by far the best hotel in town."}]}

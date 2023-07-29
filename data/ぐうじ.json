@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宮司","p":true}],"r_ele":[{"r":"ぐうじ","p":true}],"sense":[{"gloss":"chief priest","pos":["n"],"f":["Shinto"]}]},"sdata":[]}

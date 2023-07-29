@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パワーステアリング","p":true},{"r":"パワー・ステアリング"}],"sense":[{"gloss":"power steering","pos":["n"]}]},"sdata":[]}

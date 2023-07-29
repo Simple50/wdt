@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再スタート","p":true}],"r_ele":[{"r":"さいスタート","p":true}],"sense":[{"gloss":"restart","pos":["n","vs","vt","vi"]}]},"kdata":{"再":{"on":["サイ","サ"],"kun":["ふたた.び"],"jlpt":2,"meanings":["again","twice","second time"],"freq":275,"comp":[["一","冉"]],"t":314}},"sdata":[]}

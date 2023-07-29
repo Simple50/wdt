@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"消し止める","p":true}],"r_ele":[{"r":"けしとめる","p":true}],"sense":[{"gloss":"to put out, to extinguish","pos":["v1","vt"]}]},"sdata":[]}

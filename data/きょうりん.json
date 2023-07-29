@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"杏林","p":true}],"r_ele":[{"r":"きょうりん","p":true}],"sense":[{"gloss":"apricot grove","pos":["n"]}]},"sdata":[]}

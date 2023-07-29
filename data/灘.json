@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"灘","p":true},{"e":"洋"}],"r_ele":[{"r":"なだ","p":true}],"sense":[{"gloss":"open sea","pos":["n"]}]},"kdata":{"灘":{"on":["タン","ダン"],"kun":["なだ","せ"],"meanings":["open sea"],"freq":1912,"comp":[["難","氵"]],"jlpt":0}},"sdata":[]}

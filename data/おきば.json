@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"置き場","p":true},{"e":"置場"}],"r_ele":[{"r":"おきば","p":true}],"sense":[{"gloss":"place to put something, storage space, storehouse, depository, repository, shed, yard","pos":["n"]}]},"sdata":[{"j":"ゴミ↑置↑↓|お↓き↑場↑↓ば|↓はどこですか？","e":"Where is the garbage area?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"営林局","p":true}],"r_ele":[{"r":"えいりんきょく","p":true}],"sense":[{"gloss":"regional forestry office","pos":["n"]}]},"sdata":[]}

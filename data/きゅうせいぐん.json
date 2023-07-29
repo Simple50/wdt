@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"救世軍","p":true}],"r_ele":[{"r":"きゅうせいぐん","p":true}],"sense":[{"gloss":"Salvation Army","pos":["n"]}]},"sdata":[]}

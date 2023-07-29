@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変わり果てる","p":true},{"e":"変り果てる"}],"r_ele":[{"r":"かわりはてる","p":true}],"sense":[{"gloss":"to be completely changed (for the worse), to be transformed","pos":["v1","vi"]}]},"sdata":[]}

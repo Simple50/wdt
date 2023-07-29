@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生命力","p":true}],"r_ele":[{"r":"せいめいりょく","p":true}],"sense":[{"gloss":"vitality, (one's) life force","pos":["n"]}]},"sdata":[]}

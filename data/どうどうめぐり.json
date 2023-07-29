@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"堂々巡り","p":true},{"e":"堂堂巡り"},{"e":"堂々回り","i":["rK"]},{"e":"堂堂回り","i":["rK"]}],"r_ele":[{"r":"どうどうめぐり","p":true}],"sense":[{"gloss":"going around in circles","pos":["n","vs","vi"]},{"gloss":"circling a temple","pos":["n","vs","vi"]},{"gloss":"roll-call vote","pos":["n","vs","vi"]}]},"sdata":[]}

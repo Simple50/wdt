@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"デボン紀","p":true}],"r_ele":[{"r":"デボンき","p":true}],"sense":[{"gloss":"Devonian period","pos":["n"]}]},"sdata":[]}

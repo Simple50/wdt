@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"組み上げる","p":true}],"r_ele":[{"r":"くみあげる","p":true}],"sense":[{"gloss":"to compose, to put together","pos":["v1","vt"]}]},"sdata":[]}

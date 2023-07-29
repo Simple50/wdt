@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミャンマー","p":true}],"sense":[{"gloss":"Myanmar","pos":["n"]}]},"sdata":[{"j":"|ミャンマー|は↑軍事↑↓ぐんじ↓↑独裁↑↓どくさい↓↑政権↑↓せいけん↓に↑支配↑↓しはい↓されている。","e":"Myanmar is ruled by a military dictatorship."}]}

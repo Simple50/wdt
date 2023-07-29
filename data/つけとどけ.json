@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"付け届け","p":true},{"e":"付届け"},{"e":"付届","i":["io"]},{"e":"附屆","i":["io"]}],"r_ele":[{"r":"つけとどけ","p":true}],"sense":[{"gloss":"gift, present, tip","pos":["n"]},{"gloss":"bribe","pos":["n"]}]},"sdata":[]}

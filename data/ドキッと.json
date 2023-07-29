@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドキッと","p":true},{"r":"ドキっと"},{"r":"どきっと"}],"sense":[{"gloss":"being startled, getting a shock","pos":["adv","vs"]}],"m":["on-mim"]},"sdata":[{"j":"↑彼女↑↓かのじょ↓のクールな↑視線↑↓しせん↓に、↑俺↑↓おれ↓は|ドキッと|した。","e":"Her cool gaze made my heart skip a beat."}]}

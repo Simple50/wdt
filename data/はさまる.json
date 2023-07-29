@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"挟まる","p":true}],"r_ele":[{"r":"はさまる","p":true}],"sense":[{"gloss":"to get between, to be caught in","pos":["v5r","vi"]}]},"sdata":[]}

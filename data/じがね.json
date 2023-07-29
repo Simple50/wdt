@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地金","p":true}],"r_ele":[{"r":"じがね","p":true},{"r":"じきん"}],"sense":[{"gloss":"ore, unprocessed metal, ground metal","pos":["n"]},{"gloss":"(one's) true character","pos":["n"]}]},"sdata":[{"j":"だんだん↑地金↑↓|じがね|↓が↑出↑↓で↓てきた。","e":"His true colors are coming out."}]}

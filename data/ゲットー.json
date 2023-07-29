@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゲットー","p":true}],"sense":[{"gloss":"ghetto","pos":["n"],"l":"ita"}]},"sdata":[]}

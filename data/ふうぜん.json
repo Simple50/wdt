@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風前","p":true}],"r_ele":[{"r":"ふうぜん","p":true}],"sense":[{"gloss":"where the wind blows","pos":["n"]}]},"sdata":[{"j":"あなたの↑首↑↓くび↓は↑風前↑↓|ふうぜん|↓のともし↑火↑↓び↓だ。","e":"Your job hangs by a thread."}]}

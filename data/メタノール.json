@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メタノール","p":true}],"sense":[{"gloss":"methanol, methyl alcohol, methylated spirits","pos":["n"],"l":"ger"}]},"sdata":[]}

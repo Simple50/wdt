@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"損壊","p":true}],"r_ele":[{"r":"そんかい","p":true}],"sense":[{"gloss":"damage, destruction","pos":["n","vs","vt","vi"]}]},"sdata":[]}

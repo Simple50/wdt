@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メルヘン","p":true}],"sense":[{"gloss":"fairy tale","pos":["n"],"l":"ger: Märchen"}]},"sdata":[{"j":"↑俺↑↓おれ↓は↑小学校↑↓しょうがっこう↓の↑時↑↓とき↓↑見↑↓み↓たんだ、↑人魚↑↓にんぎょ↓。でもそんな|メルヘン|チックな↑話↑↓はなし↓じゃなくて。","e":"I saw one, a mermaid, when I was a primary schooler. But it wasn't that sort of fairy-tale atmosphere of a story."}]}

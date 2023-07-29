@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重罪","p":true}],"r_ele":[{"r":"じゅうざい","p":true}],"sense":[{"gloss":"felony, serious crime","pos":["n","adj-no"]}]},"sdata":[]}

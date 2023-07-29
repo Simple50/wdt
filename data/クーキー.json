@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クーキー","p":true}],"sense":[{"gloss":"kooky, weird","pos":["n"]},{"gloss":"cookie, cooky","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"御用邸","p":true}],"r_ele":[{"r":"ごようてい","p":true}],"sense":[{"gloss":"imperial villa","pos":["n"]}]},"sdata":[]}

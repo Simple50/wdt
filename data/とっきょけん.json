@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特許権","p":true}],"r_ele":[{"r":"とっきょけん","p":true}],"sense":[{"gloss":"patent rights","pos":["n"]}]},"sdata":[{"j":"ハンスさんが↑会社↑↓かいしゃ↓へ↑特許↑↓|とっきょ↓↑権↑↓けん|↓を↑売↑↓う↓りました。","e":"Hans sold the patent to a company."},{"j":"↑特許↑↓|とっきょ↓↑権↑↓けん|↓は↑重要↑↓じゅうよう↓な↑財産↑↓ざいさん↓↑権↑↓けん↓である。","e":"A patent right is an important property right."}]}

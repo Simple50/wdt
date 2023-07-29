@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逆算","p":true}],"r_ele":[{"r":"ぎゃくさん","p":true}],"sense":[{"gloss":"counting backwards, calculating backwards","pos":["n","vs","vt"]},{"gloss":"inverse operation","pos":["n"],"f":["math"]}]},"sdata":[]}

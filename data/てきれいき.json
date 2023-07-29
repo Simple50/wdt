@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"適齢期","p":true}],"r_ele":[{"r":"てきれいき","p":true}],"sense":[{"gloss":"suitable age (esp. for marriage), marriageable age","pos":["n"]}]},"sdata":[]}

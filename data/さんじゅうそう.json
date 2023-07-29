@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三重奏","p":true}],"r_ele":[{"r":"さんじゅうそう","p":true}],"sense":[{"gloss":"instrumental trio","pos":["n"]}]},"sdata":[]}

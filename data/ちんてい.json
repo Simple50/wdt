@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鎮定","p":true}],"r_ele":[{"r":"ちんてい","p":true}],"sense":[{"gloss":"suppression (e.g. of a rebellion), pacification","pos":["n","vs","vt","vi"]}],"m":["hist"]},"sdata":[]}

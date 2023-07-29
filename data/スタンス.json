@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スタンス","p":true}],"sense":[{"gloss":"stance, attitude, standpoint","pos":["n"]},{"gloss":"stance, posture","pos":["n"],"f":["sports"]}]},"sdata":[]}

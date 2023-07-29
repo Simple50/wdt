@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"華やぐ","p":true},{"e":"花やぐ"}],"r_ele":[{"r":"はなやぐ","p":true}],"sense":[{"gloss":"to become brilliant, to become cheerful","pos":["v5g","vi"]}]},"sdata":[]}

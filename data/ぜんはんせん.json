@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前半戦","p":true}],"r_ele":[{"r":"ぜんはんせん","p":true},{"r":"ぜんぱんせん"}],"sense":[{"gloss":"first half of a game, first half of a match","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スタイミー","p":true}],"sense":[{"gloss":"situation in which there is an obstacle (e.g. a tree) between the ball and the green","pos":["n"],"f":["golf"],"l":"eng: stymie"}]},"sdata":[]}

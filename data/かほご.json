@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"過保護","p":true}],"r_ele":[{"r":"かほご","p":true}],"sense":[{"gloss":"overprotective, excessive care, overprotection, overprotectiveness","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"↑過保護↑↓|かほご|↓でその↑子供↑↓こども↓はだめになった。","e":"Excessive indulgence spoiled the child."}]}

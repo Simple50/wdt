@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"廃案","p":true}],"r_ele":[{"r":"はいあん","p":true}],"sense":[{"gloss":"rejected bill (project)","pos":["n"]}]},"sdata":[]}

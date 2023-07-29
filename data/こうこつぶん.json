@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"甲骨文","p":true}],"r_ele":[{"r":"こうこつぶん","p":true}],"sense":[{"gloss":"oracle bone script","pos":["n"]}]},"sdata":[]}

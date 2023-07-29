@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウェイトレス","p":true},{"r":"ウエイトレス"},{"r":"ウエートレス","p":true},{"r":"ウェートレス"}],"sense":[{"gloss":"waitress","pos":["n"]}]},"sdata":[{"j":"|ウエートレス|はテーブルの↑上↑↓じょう↓に↑白↑↓しろ↓いテーブルクロスをかけた。","e":"The waitress spread a white cloth over the table."},{"j":"|ウエートレス|はテーブルの↑上↑↓じょう↓に↑白↑↓しろ↓いテーブルクロスをかけた。","e":"The waitress put a white tablecloth on the table."}]}

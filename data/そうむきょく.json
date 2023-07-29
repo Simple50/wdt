@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総務局","p":true}],"r_ele":[{"r":"そうむきょく","p":true}],"sense":[{"gloss":"General Affairs Bureau","pos":["n"]}]},"sdata":[]}

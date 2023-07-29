@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"速記録","p":true}],"r_ele":[{"r":"そっきろく","p":true}],"sense":[{"gloss":"stenographic record, shorthand notes","pos":["n"]}]},"sdata":[]}

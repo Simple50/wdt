@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文面","p":true}],"r_ele":[{"r":"ぶんめん","p":true}],"sense":[{"gloss":"contents of a document (esp. of a letter)","pos":["n"]}]},"sdata":[{"j":"↑手紙↑↓てがみ↓の↑文面↑↓|ぶんめん|↓は↑次↑↓つぎ↓の↑通↑↓とお↓り。","e":"The letter runs as follows."}]}

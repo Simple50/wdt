@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"親会社","p":true}],"r_ele":[{"r":"おやがいしゃ","p":true}],"sense":[{"gloss":"parent company","pos":["n"]}]},"sdata":[]}

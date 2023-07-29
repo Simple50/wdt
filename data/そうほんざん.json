@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総本山","p":true}],"r_ele":[{"r":"そうほんざん","p":true}],"sense":[{"gloss":"head temple of a sect","pos":["n"],"f":["Buddh"]},{"gloss":"(organizational) headquarters, (organisational) headquarters","pos":["n"]}]},"sdata":[]}

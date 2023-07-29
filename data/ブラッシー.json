@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブラッシー","p":true}],"sense":[{"gloss":"brassie, 2-wood","pos":["n"],"f":["golf"]}]},"sdata":[]}

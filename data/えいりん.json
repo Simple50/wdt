@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"映倫","p":true}],"r_ele":[{"r":"えいりん","p":true}],"sense":[{"gloss":"Eirin, Film Classification and Rating Organization","pos":["n"]}]},"sdata":[]}

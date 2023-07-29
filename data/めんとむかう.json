@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"面と向かう","p":true}],"r_ele":[{"r":"めんとむかう","p":true}],"sense":[{"gloss":"to meet face-to-face","pos":["exp","v5u"]}]},"sdata":[]}

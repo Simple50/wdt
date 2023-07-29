@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"東京証券取引所","p":true}],"r_ele":[{"r":"とうきょうしょうけんとりひきじょ","p":true},{"r":"とうきょうしょうけんとりひきしょ"}],"sense":[{"gloss":"Tokyo Stock Exchange, TSE","pos":["n"]}]},"sdata":[]}

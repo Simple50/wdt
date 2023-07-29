@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アルツハイマー","p":true}],"sense":[{"gloss":"Alzheimer (disease)","pos":["n"]}]},"sdata":[]}

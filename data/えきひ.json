@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"液肥","p":true}],"r_ele":[{"r":"えきひ","p":true}],"sense":[{"gloss":"liquid fertilizer, liquid fertiliser","pos":["n"]}]},"sdata":[]}

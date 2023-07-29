@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"依頼者","p":true}],"r_ele":[{"r":"いらいしゃ","p":true}],"sense":[{"gloss":"client, requester","pos":["n"]}]},"sdata":[{"j":"ヘタクソな↑人↑↓ひと↓は↑英訳↑↓えいやく↓しないでください。↑英訳↑↓えいやく↓↑依頼↑↓|いらい↓↑者↑↓しゃ|↓からのお↑願↑↓ねが↓いです。","e":"Please don't do translations if you're crap at it. This is a plea from the English translation clients."}]}

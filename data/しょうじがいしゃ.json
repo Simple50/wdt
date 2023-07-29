@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"商事会社","p":true}],"r_ele":[{"r":"しょうじがいしゃ","p":true}],"sense":[{"gloss":"commercial company","pos":["n"]}]},"sdata":[]}

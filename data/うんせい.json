@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"運勢","p":true}],"r_ele":[{"r":"うんせい","p":true}],"sense":[{"gloss":"fortune, luck","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑運勢↑↓|うんせい|↓を↑占↑↓うらな↓ってもらった。","e":"I had my fortune told."}]}

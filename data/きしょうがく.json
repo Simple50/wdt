@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気象学","p":true}],"r_ele":[{"r":"きしょうがく","p":true}],"sense":[{"gloss":"meteorology","pos":["n"]}]},"sdata":[]}

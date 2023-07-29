@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"投票箱","p":true}],"r_ele":[{"r":"とうひょうばこ","p":true}],"sense":[{"gloss":"ballot box","pos":["n"]}]},"sdata":[]}

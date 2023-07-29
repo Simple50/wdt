@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"存亡","p":true}],"r_ele":[{"r":"そんぼう","p":true}],"sense":[{"gloss":"life or death, existence, destiny","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シード","p":true}],"sense":[{"gloss":"seed","pos":["n","vs","vt"],"f":["sports"]}]},"sdata":[{"j":"↑彼↑↓かれ↓のピンクのタキ|シード|には、みんな↑笑↑↓わら↓った。","e":"We all laughed at his pink tuxedo."},{"j":"タキ|シード|は↑着↑↓き↓たことがありません。","e":"I've never worn a tuxedo."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"感涙","p":true}],"r_ele":[{"r":"かんるい","p":true}],"sense":[{"gloss":"tears (from being deeply moved), tears of gratitude","pos":["n","vs","vi"]}]},"sdata":[]}

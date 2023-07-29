@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"興じる","p":true}],"r_ele":[{"r":"きょうじる","p":true}],"sense":[{"gloss":"to amuse oneself, to make merry","pos":["v1","vi"]}]},"sdata":[]}

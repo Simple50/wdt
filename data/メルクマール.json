@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メルクマール","p":true}],"sense":[{"gloss":"characteristic","pos":["n"],"l":"ger: Merkmal"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マシンガン","p":true},{"r":"マシーンガン"}],"sense":[{"gloss":"machine gun","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"含蓄","p":true}],"r_ele":[{"r":"がんちく","p":true}],"sense":[{"gloss":"implication, significance, connotation, depth of meaning, complications of a problem","pos":["n","vs"]}]},"sdata":[]}

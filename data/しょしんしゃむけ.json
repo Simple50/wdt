@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初心者向け","p":true}],"r_ele":[{"r":"しょしんしゃむけ","p":true}],"sense":[{"gloss":"beginner-friendly, (intended) for beginners, aimed at beginners","pos":["adj-no","n"]}]},"sdata":[{"j":"↑初心者↑↓|しょしんしゃ↓↑向↑↓む↓け|のコースはありますか。","e":"Do you have a course for beginners?"},{"j":"↑初心者↑↓|しょしんしゃ↓↑向↑↓む↓け|のコースはありますか。","e":"Do you have courses for beginners?"}]}

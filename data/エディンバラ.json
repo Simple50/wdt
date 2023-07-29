@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エジンバラ"},{"r":"エディンバラ","p":true}],"sense":[{"gloss":"Edinburgh (Scotland, UK)","pos":["n"]}]},"sdata":[{"j":"これは|エディンバラ|にとって↑何↑↓なに↓を↑意味↑↓いみ↓するだろう？","e":"What will this mean for Edinburgh?"},{"j":"↑夏↑↓なつ↓の↑暑↑↓あつ↓さを↑逃↑↓のが↓れるために↑彼↑↓かれ↓らは|エディンバラ|へ↑行↑↓い↓った。","e":"They went to Edinburgh to escape from the summer heat."}]}

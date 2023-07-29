@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国情","p":true},{"e":"国状"}],"r_ele":[{"r":"こくじょう","p":true}],"sense":[{"gloss":"conditions of a country","pos":["n"]}]},"sdata":[{"j":"↑異国↑↓い|こく↓↑情緒↑↓じょう|ちょ↓あふれる↑街並↑↓まちな↓みが↑続↑↓つづ↓く。","e":"The streets are filled with an air of exoticism."}]}

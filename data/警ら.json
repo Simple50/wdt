@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"警ら","p":true},{"e":"警邏"}],"r_ele":[{"r":"けいら","p":true}],"sense":[{"gloss":"patrol","pos":["n","vs","vt"]}]},"kdata":{"警":{"on":["ケイ"],"kun":["いまし.める"],"jlpt":3,"meanings":["warn","admonish","commandment"],"freq":366,"comp":[["敬","言"]],"t":2273}},"sdata":[]}

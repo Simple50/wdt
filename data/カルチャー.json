@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カルチャー","p":true}],"sense":[{"gloss":"culture","pos":["n"]}]},"sdata":[{"j":"↑外国↑↓がいこく↓に↑行↑↓い↓くと↑我々↑↓われわれ↓は↑大抵↑↓たいてい↓|カルチャー|ショックを↑体験↑↓たいけん↓する。","e":"In a foreign country most of us go through culture shock."}]}

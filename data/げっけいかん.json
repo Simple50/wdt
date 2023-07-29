@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"月桂冠","p":true}],"r_ele":[{"r":"げっけいかん","p":true}],"sense":[{"gloss":"laurel wreath","pos":["n"]}]},"sdata":[]}

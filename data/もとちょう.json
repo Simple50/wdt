@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"元帳","p":true}],"r_ele":[{"r":"もとちょう","p":true}],"sense":[{"gloss":"ledger","pos":["n"]}]},"sdata":[]}

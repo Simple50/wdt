@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書房","p":true}],"r_ele":[{"r":"しょぼう","p":true}],"sense":[{"gloss":"study, library","pos":["n"]},{"gloss":"bookstore, bookshop, publishing company","pos":["n"]}]},"sdata":[]}

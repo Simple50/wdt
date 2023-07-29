@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"物流","p":true}],"r_ele":[{"r":"ぶつりゅう","p":true}],"sense":[{"gloss":"physical distribution, distribution of goods, logistics","pos":["n"]}]},"sdata":[]}

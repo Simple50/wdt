@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アーキテクチャ","p":true},{"r":"アーキテクチャー"},{"r":"アーキテクチュア"},{"r":"アキテクチャ"}],"sense":[{"gloss":"architecture","pos":["n"]}]},"sdata":[{"j":"あの↑社↑↓しゃ↓の↑新↑↓あたら↓しいコンピューターは|アーキテクチャ|ーに↑問題↑↓もんだい↓があって↑回収↑↓かいしゅう↓↑騒↑↓さわ↓ぎになっているんだってさ。","e":"There was a problem with the architecture of that company's new computer. They're going through a recall frenzy right now."}]}

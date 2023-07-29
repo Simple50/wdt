@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不可抗力","p":true}],"r_ele":[{"r":"ふかこうりょく","p":true}],"sense":[{"gloss":"act of God, irresistible force, inevitability","pos":["n","adj-no"],"m":["yoji"]},{"gloss":"force majeure, vis major","pos":["n","adj-no"],"f":["law"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スピルリナ","p":true}],"sense":[{"gloss":"Spirulina (algae)","pos":["n"]}]},"sdata":[]}

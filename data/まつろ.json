@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"末路","p":true}],"r_ele":[{"r":"まつろ","p":true},{"r":"ばつろ"}],"sense":[{"gloss":"last days, the end, one's fate","pos":["n"]}]},"sdata":[]}

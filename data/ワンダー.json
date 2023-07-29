@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワンダー","p":true},{"r":"ワンダ"}],"sense":[{"gloss":"wonder","pos":["n"]},{"gloss":"wander","pos":["n"]}]},"sdata":[{"j":"スティービー・|ワンダー|のニューアルバムはありますか。","e":"Do you have Stevie Wonder's new album?"},{"j":"こちらは|ワンダー|ミュージックショップです。","e":"This is Wonder Music Shop."}]}

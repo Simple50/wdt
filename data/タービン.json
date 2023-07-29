@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タービン","p":true}],"sense":[{"gloss":"turbine","pos":["n"]}]},"sdata":[]}

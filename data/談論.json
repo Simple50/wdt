@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"談論","p":true}],"r_ele":[{"r":"だんろん","p":true}],"sense":[{"gloss":"discussion","pos":["n","vs"]}]},"kdata":{"談":{"on":["ダン"],"jlpt":3,"meanings":["discuss","talk"],"freq":272,"comp":[["言","炎"]],"t":2049},"論":{"on":["ロン"],"kun":["あげつら.う"],"jlpt":3,"meanings":["argument","discourse"],"freq":227,"comp":[["言","侖"]],"t":2051}},"sdata":[]}

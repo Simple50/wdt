@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"顔なじみ","p":true},{"e":"顔馴染み"},{"e":"顔馴染"}],"r_ele":[{"r":"かおなじみ","p":true}],"sense":[{"gloss":"acquaintance, friend, familiar face","pos":["n","adj-no"]}]},"sdata":[]}

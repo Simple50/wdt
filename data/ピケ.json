@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピケ","p":true}],"sense":[{"gloss":"pique","pos":["n"],"l":"fre"},{"gloss":"picket","pos":["n"],"m":["abbr"]}]},"sdata":[]}

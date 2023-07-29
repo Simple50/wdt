@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"野末","p":true}],"r_ele":[{"r":"のずえ","p":true}],"sense":[{"gloss":"corners of a field","pos":["n"]}]},"sdata":[]}

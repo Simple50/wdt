@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"初々しい","p":true},{"e":"初初しい"}],"r_ele":[{"r":"ういういしい","p":true}],"sense":[{"gloss":"(young and) innocent, naive, pure, fresh, artless, unsophisticated","pos":["adj-i"]}]},"kdata":{"初":{"on":["ショ"],"kun":["はじ.め","はじ.めて","はつ","はつ-","うい-","-そ.める","-ぞ.め"],"jlpt":3,"meanings":["first time","beginning"],"freq":152,"comp":[["衤","刀"]],"t":445}},"sdata":[]}

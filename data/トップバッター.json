@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トップバッター","p":true},{"r":"トップ・バッター"}],"sense":[{"gloss":"first batter, leadoff batter","pos":["n"],"f":["baseb"],"l":"eng: top batter"},{"gloss":"first person appearing (witness, performer, etc.)","pos":["n"]}]},"sdata":[]}

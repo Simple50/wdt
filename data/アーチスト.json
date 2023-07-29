@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アーティスト","p":true},{"r":"アーチスト","p":true},{"r":"アーティスツ","i":["ik"]}],"sense":[{"gloss":"artist, musician","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"くっ付ける"}],"r_ele":[{"r":"くっつける","p":true}],"sense":[{"gloss":"to attach, to stick together, to paste, to glue","pos":["v1","vt"]},{"gloss":"to place together, to put side by side","pos":["v1","vt"]},{"gloss":"to make (someone) get married, to get (someone) hitched","pos":["v1","vt"],"m":["col"]}],"m":["uk"]},"sdata":[]}

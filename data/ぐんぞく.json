@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍属","p":true}],"r_ele":[{"r":"ぐんぞく","p":true}],"sense":[{"gloss":"civilian in military employ","pos":["n"]}]},"sdata":[]}

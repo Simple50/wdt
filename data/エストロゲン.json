@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エストロゲン","p":true}],"sense":[{"gloss":"estrogen","pos":["n"]}]},"sdata":[]}

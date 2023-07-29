@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持ち去る","p":true}],"r_ele":[{"r":"もちさる","p":true}],"sense":[{"gloss":"to take away, to carry away","pos":["v5r"]}]},"sdata":[{"j":"↑君↑↓きみ↓はそれを↑見↑↓み↓ることはできるが、↑持↑↓|も↓ち↑去↑↓さ↓る|ことはできない。","e":"You can see it, but you cannot take it away."}]}

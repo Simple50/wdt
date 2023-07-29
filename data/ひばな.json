@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火花","p":true}],"r_ele":[{"r":"ひばな","p":true}],"sense":[{"gloss":"spark","pos":["n"]}]},"sdata":[{"j":"↑小↑↓ちい↓さな↑火花↑↓|ひばな|↓はしばしば↑大↑↓おお↓きな↑炎↑↓ほのお↓を↑起↑↓お↓こす。","e":"A small spark often kindles a large flame."}]}

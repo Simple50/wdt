@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事務官","p":true}],"r_ele":[{"r":"じむかん","p":true}],"sense":[{"gloss":"administrative official, secretary, commissioner","pos":["n"]}]},"sdata":[]}

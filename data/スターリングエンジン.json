@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スターリングエンジン","p":true},{"r":"スターリング・エンジン"}],"sense":[{"gloss":"Sterling engine","pos":["n"]}]},"sdata":[]}

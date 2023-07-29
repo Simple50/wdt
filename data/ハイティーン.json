@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハイティーン","p":true},{"r":"ハイ・ティーン"}],"sense":[{"gloss":"late teens","pos":["n","adj-no"],"l":"eng: high teen"}]},"sdata":[{"j":"↑私↑↓わたし↓の↑娘↑↓むすめ↓は|ハイティーン|です。","e":"My daughter is in her late teens."}]}

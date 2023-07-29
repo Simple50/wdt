@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"群島","p":true}],"r_ele":[{"r":"ぐんとう","p":true}],"sense":[{"gloss":"island group, archipelago","pos":["n"]}]},"sdata":[]}

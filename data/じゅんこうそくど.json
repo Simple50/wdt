@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巡航速度","p":true}],"r_ele":[{"r":"じゅんこうそくど","p":true}],"sense":[{"gloss":"cruising speed","pos":["n","adj-no"]}]},"sdata":[]}

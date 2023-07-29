@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サド","p":true}],"sense":[{"gloss":"sadist","pos":["n"],"m":["abbr"],"x":["サディスト"]},{"gloss":"sadism","pos":["n"],"x":["サディズム"]}]},"sdata":[{"j":"|サド|ルなしで↑乗↑↓の↓れるの？","e":"Can you ride without a saddle?"}]}

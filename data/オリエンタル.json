@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オリエンタル","p":true}],"sense":[{"gloss":"oriental","pos":["adj-na"],"x":["オクシデンタル"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は|オリエンタル|ホテルに↑泊↑↓と↓まるつもりです。","e":"She plans to stay at the Oriental Hotel."}]}

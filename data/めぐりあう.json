@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"めぐり合う","p":true},{"e":"巡り会う","p":true},{"e":"巡り合う"},{"e":"めぐり会う"},{"e":"巡りあう"},{"e":"巡り逢う"},{"e":"廻り合う","i":["rK"]},{"e":"回り合う","i":["rK"]}],"r_ele":[{"r":"めぐりあう","p":true}],"sense":[{"gloss":"to meet fortuitously (e.g. running into an old friend), to meet by chance, to happen across","pos":["v5u","vi"]}]},"sdata":[]}

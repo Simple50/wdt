@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グリーンスクール","p":true},{"r":"グリーン・スクール"}],"sense":[{"gloss":"green school","pos":["n"]}]},"sdata":[]}

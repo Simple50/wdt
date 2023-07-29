@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カンザス","p":true}],"sense":[{"gloss":"Kansas","pos":["n"]}]},"sdata":[{"j":"ご↑兄弟↑↓きょうだい↓のことは|カンザス|↑州↑↓しゅう↓から↑問↑↓と↓い↑合↑↓あ↓わせを↑受↑↓う↓けたばかりです。","e":"We have just received an inquiry from Kansas concerning your brother."}]}

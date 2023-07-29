@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アムネスティ","p":true}],"sense":[{"gloss":"amnesty","pos":["n"]}]},"sdata":[{"j":"↑国際↑↓こくさい↓|アムネスティ|は、↑政治↑↓せいじ↓↑囚↑↓しゅう↓への↑支援↑↓しえん↓として↑一般↑↓いっぱん↓↑市民↑↓しみん↓による↑抗議↑↓こうぎ↓↑活動↑↓かつどう↓を↑組織↑↓そしき↓することがしばしばある。","e":"Amnesty International often organizes public protests in support of political prisoners."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同罪","p":true}],"r_ele":[{"r":"どうざい","p":true}],"sense":[{"gloss":"same crime","pos":["n"]},{"gloss":"being equally guilty, bearing the same amount of responsibility","pos":["n"]}]},"sdata":[]}

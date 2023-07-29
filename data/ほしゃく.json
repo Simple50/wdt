@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"保釈","p":true}],"r_ele":[{"r":"ほしゃく","p":true}],"sense":[{"gloss":"bail, releasing on bail","pos":["n","vs","vt"]}]},"sdata":[{"j":"トムは↑保釈↑↓|ほしゃく|↓↑中↑↓ちゅう↓に↑行方↑↓ゆくえ↓をくらました。","e":"Tom jumped bail."},{"j":"トムは↑保釈↑↓|ほしゃく|↓↑中↑↓ちゅう↓に↑逃亡↑↓とうぼう↓しました。","e":"Tom jumped bail."}]}

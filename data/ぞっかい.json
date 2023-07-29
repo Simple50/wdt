@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"続開","p":true}],"r_ele":[{"r":"ぞっかい","p":true}],"sense":[{"gloss":"resumption, continuing","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高血圧症","p":true}],"r_ele":[{"r":"こうけつあつしょう","p":true}],"sense":[{"gloss":"high blood pressure (as an illness), hypertension","pos":["n"]}]},"sdata":[]}

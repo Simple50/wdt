@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"温帯","p":true}],"r_ele":[{"r":"おんたい","p":true}],"sense":[{"gloss":"temperate zone","pos":["n"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓のところの↑気候↑↓きこう↓は↑温帯↑↓|おんたい|↓↑性↑↓せい↓です。","e":"Our country's climate is temperate."},{"j":"それらは、↑世界中↑↓せかいじゅう↓の↑温帯↑↓|おんたい|↓、↑熱帯↑↓ねったい↓の↑海洋↑↓かいよう↓で↑見↑↓み↓られます。","e":"They can be found around the world in temperate and tropical oceans."}]}

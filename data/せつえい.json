@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"設営","p":true}],"r_ele":[{"r":"せつえい","p":true}],"sense":[{"gloss":"setting up (a structure, building, camp, etc.), construction, preparation (e.g. of a venue), arrangement (of an event)","pos":["n","vs","vt"]}]},"sdata":[{"j":"リーダーはどこでテントを↑設営↑↓|せつえい|↓するか↑知↑↓し↓っているべきだ。","e":"The leader should know where to set up the tent."}]}

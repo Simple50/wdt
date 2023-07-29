@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヴァンパイア","p":true},{"r":"バンパイア"}],"sense":[{"gloss":"vampire","pos":["n"],"x":["吸血鬼"]}]},"sdata":[{"j":"クリスは|ヴァンパイア|・ナイトを↑倒↑↓たお↓した！","e":"Chris defeated the vampire knight!"}]}

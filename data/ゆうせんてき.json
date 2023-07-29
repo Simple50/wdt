@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"優先的","p":true}],"r_ele":[{"r":"ゆうせんてき","p":true}],"sense":[{"gloss":"preferential","pos":["adj-na"]}]},"sdata":[]}

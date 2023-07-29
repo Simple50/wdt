@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き出物","p":true},{"e":"引出物"}],"r_ele":[{"r":"ひきでもの","p":true}],"sense":[{"gloss":"gift, souvenir","pos":["n"]}]},"sdata":[{"j":"↑従兄弟↑↓いとこ↓の↑結婚式↑↓けっこんしき↓の↑引↑↓|ひ↓き↑出物↑↓でもの|↓に↑鍋↑↓なべ↓をもらった。","e":"We were given a pot as a gift of my cousin's wedding party."}]}

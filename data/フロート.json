@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フロート","p":true}],"sense":[{"gloss":"float, raft, pontoon","pos":["n"]},{"gloss":"float (beverage with ice cream on top)","pos":["n"]},{"gloss":"float (finance)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雑食","p":true}],"r_ele":[{"r":"ざっしょく","p":true}],"sense":[{"gloss":"omnivorous","pos":["adj-no","n","vs","vt","vi"]}]},"sdata":[{"j":"クズリは↑雑食↑↓|ざっしょく|↓だ。","e":"The wolverine is omnivorous."}]}

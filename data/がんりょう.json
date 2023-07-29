@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"顔料","p":true}],"r_ele":[{"r":"がんりょう","p":true}],"sense":[{"gloss":"pigment","pos":["n"]},{"gloss":"paint, colour, color","pos":["n"]}]},"sdata":[]}

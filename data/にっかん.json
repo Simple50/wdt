@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日刊","p":true}],"r_ele":[{"r":"にっかん","p":true}],"sense":[{"gloss":"daily publication, daily issue","pos":["n","adj-no"]}]},"sdata":[{"j":"その↑話↑↓はなし↓は、↑全↑↓すべ↓ての↑日刊↑↓|にっかん|↓↑紙↑↓し↓に↑載↑↓の↓っていた。","e":"The story was in all daily newspapers."},{"j":"これは↑日刊↑↓|にっかん|↓↑新聞↑↓しんぶん↓です。","e":"This is a daily newspaper."}]}

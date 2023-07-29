@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フェミニズム","p":true}],"sense":[{"gloss":"feminism","pos":["n"]}]},"sdata":[]}

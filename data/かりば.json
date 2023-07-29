@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"狩場","p":true},{"e":"狩り場"}],"r_ele":[{"r":"かりば","p":true}],"sense":[{"gloss":"hunting ground, hunting preserve","pos":["n"]}]},"sdata":[{"j":"↑下品↑↓げひん↓↑極↑↓きわ↓まる↑盛↑↓さ|か↓り↑場↑↓ば|↓に↑通↑↓かよ↓いつける。","e":"He haunts the lowest resorts."},{"j":"↑彼↑↓かれ↓はすっ|かりば|てていたが、↑働↑↓はたら↓き↑続↑↓つづ↓けなければならなかった。","e":"Although he was exhausted, he had to keep working."}]}

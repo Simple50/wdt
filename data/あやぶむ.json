@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"危ぶむ","p":true}],"r_ele":[{"r":"あやぶむ","p":true}],"sense":[{"gloss":"to fear, to doubt, to have misgivings about, to worry about, to be anxious about, to be apprehensive about","pos":["v5m","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑彼↑↓かれ↓の↑成功↑↓せいこう↓を↑危↑↓|あや↓ぶむ|。","e":"I am doubtful of his success."}]}

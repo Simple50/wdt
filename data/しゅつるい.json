@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出塁","p":true}],"r_ele":[{"r":"しゅつるい","p":true}],"sense":[{"gloss":"getting on base, reaching first base","pos":["n","vs","vi"],"f":["baseb"]},{"gloss":"times on base, TOB","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"↑先頭↑↓せんとう↓↑打者↑↓だしゃ↓がヒットで↑出塁↑↓|しゅつるい|↓した。","e":"The first batter up got a base hit."}]}

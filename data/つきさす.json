@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き刺す","p":true},{"e":"突きさす"},{"e":"突刺す"},{"e":"つき刺す"}],"r_ele":[{"r":"つきさす","p":true}],"sense":[{"gloss":"to stab, to stick, to pierce, to thrust","pos":["v5s","vt"]}]},"sdata":[{"j":"↑君↑↓きみ↓はもう↑少↑↓すこ↓しで↑私↑↓わたし↓の↑目↑↓め↓を↑鉛筆↑↓えんぴつ↓で↑突↑↓|つ↓き↑刺↑↓さ↓す|ところだった。","e":"You nearly poked me in the eye with your pencil."}]}

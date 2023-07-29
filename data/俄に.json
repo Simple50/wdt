@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"俄かに","p":true},{"e":"俄に","p":true}],"r_ele":[{"r":"にわかに","p":true}],"sense":[{"gloss":"suddenly, abruptly, unexpectedly","pos":["adv"]}],"m":["uk"]},"kdata":{"俄":{"on":["ガ"],"kun":["にわか"],"meanings":["sudden","abrupt","improvised"],"comp":[["我","亻"]],"jlpt":0,"freq":3565}},"sdata":[]}

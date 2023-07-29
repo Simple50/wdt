@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"額面","p":true}],"r_ele":[{"r":"がくめん","p":true}],"sense":[{"gloss":"face value, par","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑言葉↑↓ことば↓をあまり↑額面↑↓|がくめん|↓↑通↑↓どお↓りに↑受↑↓う↓け↑取↑↓と↓ってはいけない。","e":"Don't take his remarks too literally."}]}

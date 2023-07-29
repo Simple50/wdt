@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"揺さぶり","p":true},{"e":"揺さ振り"}],"r_ele":[{"r":"ゆさぶり","p":true}],"sense":[{"gloss":"shaking, jolting","pos":["n"]},{"gloss":"shaking up (e.g. one's adversary), flustering (someone)","pos":["n"]}]},"sdata":[]}

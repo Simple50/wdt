@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"深刻化","p":true}],"r_ele":[{"r":"しんこくか","p":true}],"sense":[{"gloss":"becoming more serious or severe, aggravation, intensification","pos":["n","vs","vi"]}]},"sdata":[]}

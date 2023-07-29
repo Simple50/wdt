@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"米屋","p":true}],"r_ele":[{"r":"こめや","p":true}],"sense":[{"gloss":"rice shop, rice dealer","pos":["n"]}]},"sdata":[{"j":"↑米屋↑↓|こめや|↓や、↑八百屋↑↓やおや↓に↑借金↑↓しゃっきん↓が↑出来↑↓でき↓て↑行↑↓い↓った。","e":"I built up some debts at the rice seller and at the greengrocer."}]}

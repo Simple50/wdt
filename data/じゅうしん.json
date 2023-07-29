@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重心","p":true}],"r_ele":[{"r":"じゅうしん","p":true}],"sense":[{"gloss":"centre of gravity (center)","pos":["n"]},{"gloss":"centroid, barycenter","pos":["n"]},{"gloss":"(one's) balance","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乳業","p":true}],"r_ele":[{"r":"にゅうぎょう","p":true}],"sense":[{"gloss":"dairy industry","pos":["n"]}]},"sdata":[]}

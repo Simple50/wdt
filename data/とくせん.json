@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特選","p":true},{"e":"特撰"}],"r_ele":[{"r":"とくせん","p":true}],"sense":[{"gloss":"special selection, special approval","pos":["n","vs","vt","adj-no"]},{"gloss":"special prize, highest honours","pos":["n"]}]},"sdata":[]}

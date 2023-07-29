@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナショナルチェーン","p":true},{"r":"ナショナル・チェーン"}],"sense":[{"gloss":"national chain","pos":["n"]}]},"sdata":[]}

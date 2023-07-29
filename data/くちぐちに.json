@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口々に","p":true},{"e":"口口に"}],"r_ele":[{"r":"くちぐちに","p":true}],"sense":[{"gloss":"each and every person (saying), one and all, unanimously, in unison, separately, individually","pos":["adv"]}]},"sdata":[{"j":"↑誰↑↓だれ↓もがみんな↑口々↑↓|くちぐち↓に|いいあっている。","e":"Everyone's saying it."}]}

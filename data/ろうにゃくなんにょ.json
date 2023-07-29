@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老若男女","p":true}],"r_ele":[{"r":"ろうにゃくなんにょ","p":true},{"r":"ろうじゃくだんじょ"}],"sense":[{"gloss":"men and women of all ages","pos":["n"]}],"m":["yoji"]},"sdata":[{"j":"↑最近↑↓さいきん↓は↑老若男女↑↓|ろうにゃくなんにょ|↓が↑歌↑↓うた↓えるような↑歌謡曲↑↓かようきょく↓を↑耳↑↓みみ↓にすることもなくなった。","e":"Nowadays you no longer hear popular songs that can be sung by men and women of all ages."}]}

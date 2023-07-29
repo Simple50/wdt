@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見定める","p":true}],"r_ele":[{"r":"みさだめる","p":true}],"sense":[{"gloss":"to make sure of, to ascertain, to confirm, to grasp","pos":["v1","vt"]}]},"sdata":[]}

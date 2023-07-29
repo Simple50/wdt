@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豚カツ","p":true},{"e":"豚かつ"}],"r_ele":[{"r":"とんカツ","p":true},{"r":"とんかつ"},{"r":"トンカツ"}],"sense":[{"gloss":"tonkatsu, breaded pork cutlet","pos":["n"],"f":["food"]}],"m":["uk"]},"kdata":{"豚":{"on":["トン"],"kun":["ぶた"],"jlpt":1,"meanings":["pork","pig"],"freq":1864,"comp":[["豕","月"]],"d":["遯"],"t":1388}},"sdata":[]}

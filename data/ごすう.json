@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"語数","p":true}],"r_ele":[{"r":"ごすう","p":true}],"sense":[{"gloss":"number of words","pos":["n"]}]},"sdata":[{"j":"サラは↑母親↑↓ははおや↓の↑死後↑↓し|ご↓↑数↑↓すう|↓↑週間↑↓しゅうかん↓↑元気↑↓げんき↓がなかった。","e":"Sarah was at a low ebb for several weeks after her mother died."}]}

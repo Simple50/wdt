@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寄り合い","p":true},{"e":"寄合い"},{"e":"寄合"}],"r_ele":[{"r":"よりあい","p":true}],"sense":[{"gloss":"meeting, gathering","pos":["n"]},{"gloss":"village assembly","pos":["n"]},{"gloss":"two wrestlers approaching each other","pos":["n"],"f":["sumo"]}]},"sdata":[{"j":"↑愛↑↓あい↓される|より↑愛↑↓あい|↓する↑方↑↓ほう↓がすばらしい。","e":"There is more pleasure in loving than in being loved."}]}

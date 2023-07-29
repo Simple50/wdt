@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"カスピ海","p":true}],"r_ele":[{"r":"カスピかい","p":true}],"sense":[{"gloss":"Caspian Sea","pos":["n"]}]},"sdata":[]}

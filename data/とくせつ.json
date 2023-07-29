@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特設","p":true}],"r_ele":[{"r":"とくせつ","p":true}],"sense":[{"gloss":"setting up specially, special installation","pos":["n","vs","vt","adj-no"]}]},"sdata":[]}

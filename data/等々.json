@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"等々","p":true},{"e":"等等"}],"r_ele":[{"r":"とうとう","p":true}],"sense":[{"gloss":"etc., et cetera, and so on","pos":["suf"]}]},"kdata":{"等":{"on":["トウ"],"kun":["ひと.しい","など","-ら"],"jlpt":3,"meanings":["quality","etc.","and so forth","class (first)","equal","similar"],"freq":798,"comp":[["𥫗","寺"]],"t":1577}},"sdata":[]}

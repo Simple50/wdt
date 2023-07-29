@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"涙ぐむ","p":true}],"r_ele":[{"r":"なみだぐむ","p":true}],"sense":[{"gloss":"to have tears in one's eyes, to be moved to tears","pos":["v5m","vi"]}]},"sdata":[{"j":"「ロミオとジュリエット」を↑見↑↓み↓ると↑必↑↓かなら↓ず↑涙↑↓|なみだ↓ぐむ|。","e":"One never sees \"Romeo and Juliet\" without being moved to tears."}]}

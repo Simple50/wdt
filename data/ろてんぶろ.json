@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"露天風呂","p":true}],"r_ele":[{"r":"ろてんぶろ","p":true}],"sense":[{"gloss":"open-air bath, rotenburo, rotemburo","pos":["n"]}]},"sdata":[{"j":"この↑旅館↑↓りょかん↓は↑露天風呂↑↓|ろてんぶろ|↓がすばらしいのよ。","e":"The outdoor spa at this hot-spring is wonderful."}]}

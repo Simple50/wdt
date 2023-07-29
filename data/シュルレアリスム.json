@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シュルレアリスム","p":true},{"r":"シュールレアリスム"},{"r":"シュールレアリズム","p":true},{"r":"シュールリアリズム"},{"r":"シュレアリスム"}],"sense":[{"gloss":"surrealism","pos":["n"],"l":"fre: surréalisme"}]},"sdata":[]}

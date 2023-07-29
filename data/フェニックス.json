@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フェニックス","p":true}],"sense":[{"gloss":"phoenix (bird of Egyptian mythology)","pos":["n"],"l":"lat"},{"gloss":"phoenix (any palm tree of genus Phoenix, incl. the date palm)","pos":["n"]}]},"sdata":[{"j":"|フェニックス|はアリゾナの↑州都↑↓しゅうと↓である。","e":"Phoenix is the capital of Arizona."}]}

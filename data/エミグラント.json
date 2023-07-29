@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エミグラント","p":true}],"sense":[{"gloss":"emigrant","pos":["n"]}],"m":["rare"]},"sdata":[]}

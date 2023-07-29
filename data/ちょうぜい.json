@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"徴税","p":true}],"r_ele":[{"r":"ちょうぜい","p":true}],"sense":[{"gloss":"tax collection, taxation","pos":["n","vs","vt","vi"]}]},"sdata":[]}

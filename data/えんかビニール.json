@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"塩化ビニール","p":true},{"e":"塩化ビニル"}],"r_ele":[{"r":"えんかビニール","p":true},{"r":"えんかビニル"}],"sense":[{"gloss":"vinyl chloride, chloroethylene","pos":["n"],"f":["chem"]}]},"sdata":[]}

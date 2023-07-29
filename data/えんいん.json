@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遠因","p":true}],"r_ele":[{"r":"えんいん","p":true}],"sense":[{"gloss":"remote cause, underlying cause, indirect cause","pos":["n"],"x":["近因"]}]},"sdata":[{"j":"↑延引↑↓|えんいん|↓は↑時間↑↓じかん↓の↑盗人↑↓ぬすっと↓。","e":"Procrastination is the thief of time."}]}

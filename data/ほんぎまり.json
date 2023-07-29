@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本決まり","p":true},{"e":"本決り"},{"e":"本極まり"}],"r_ele":[{"r":"ほんぎまり","p":true}],"sense":[{"gloss":"definite decision, final decision","pos":["n"],"x":["内定"]}]},"sdata":[]}

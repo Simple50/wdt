@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増刷","p":true}],"r_ele":[{"r":"ぞうさつ","p":true}],"sense":[{"gloss":"additional printing (esp. of books, etc.), additional run","pos":["n","vs","vt"]}]},"sdata":[]}

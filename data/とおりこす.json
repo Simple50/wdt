@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通り越す","p":true},{"e":"通りこす"},{"e":"通り超す","i":["iK"]}],"r_ele":[{"r":"とおりこす","p":true}],"sense":[{"gloss":"to go past (a place or thing), to go beyond","pos":["v5s","vi"]}]},"sdata":[]}

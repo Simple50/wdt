@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悲恋","p":true}],"r_ele":[{"r":"ひれん","p":true}],"sense":[{"gloss":"blighted love, disappointed love","pos":["n"]}]},"sdata":[{"j":"ぜ|ひ↑練習↑↓れん|しゅう↓を↑続↑↓つづ↓けなさい。","e":"Do keep practicing!"}]}

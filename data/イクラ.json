@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イクラ","p":true}],"sense":[{"gloss":"salted salmon roe","pos":["n"],"f":["food"],"x":["筋子"],"l":"rus: ikra"}]},"sdata":[{"j":"|イクラ|って↑何↑↓なに↓がおいしいのかわからない。","e":"I don't understand why people like salmon roe."},{"j":"マ|イクラ|をちょこっとプレイしたいならハードコアモードが↑最適↑↓さいてき↓。","e":"If you want to play Minecraft just a bit, then Hardcore mode is the best choice."}]}

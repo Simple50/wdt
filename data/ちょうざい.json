@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"調剤","p":true}],"r_ele":[{"r":"ちょうざい","p":true}],"sense":[{"gloss":"making up a prescription, dispensing medicine, preparing medicine","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑調剤↑↓|ちょうざい|↓できるまでどのくらい↑時間↑↓じかん↓がかかりますか。","e":"How long do I have to wait to pick up the medicine?"}]}

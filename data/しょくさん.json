@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殖産","p":true}],"r_ele":[{"r":"しょくさん","p":true}],"sense":[{"gloss":"production increase, enhancement of one's fortune","pos":["n"]}]},"sdata":[]}

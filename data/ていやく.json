@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"締約","p":true}],"r_ele":[{"r":"ていやく","p":true}],"sense":[{"gloss":"conclusion of a treaty","pos":["n","vs","vt","vi"]}]},"sdata":[]}

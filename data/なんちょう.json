@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"難聴","p":true}],"r_ele":[{"r":"なんちょう","p":true}],"sense":[{"gloss":"hardness of hearing, bradyacusia, deafness, hearing loss","pos":["n"],"f":["med"]},{"gloss":"having poor reception (radio, etc.)","pos":["n"]}]},"sdata":[]}

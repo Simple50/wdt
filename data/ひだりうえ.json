@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"左上","p":true}],"r_ele":[{"r":"ひだりうえ","p":true}],"sense":[{"gloss":"upper left","pos":["n","adj-no"]}]},"sdata":[{"j":"↑左上↑↓|ひだりうえ|↓の↑奥歯↑↓おくば↓が↑痛↑↓いた↓みます。","e":"My upper left back tooth hurts."}]}

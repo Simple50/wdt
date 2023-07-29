@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フラメンコ","p":true}],"sense":[{"gloss":"flamenco","pos":["n"],"l":"spa"}]},"sdata":[{"j":"|フラメンコ|を↑踊↑↓おど↓るナイトクラブもある。","e":"There are also nightclubs where you dance flamenco."}]}

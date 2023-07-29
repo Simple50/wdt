@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"靡く","p":true}],"r_ele":[{"r":"なびく","p":true}],"sense":[{"gloss":"to bend, to flutter, to wave","pos":["v5k","vi"]},{"gloss":"to yield to, to be swayed by, to bow to, to obey","pos":["v5k","vi"]}],"m":["uk"]},"sdata":[]}

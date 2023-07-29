@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前立腺","p":true}],"r_ele":[{"r":"ぜんりつせん","p":true}],"sense":[{"gloss":"prostate (gland)","pos":["n"],"f":["anat"]}]},"sdata":[{"j":"↑前立腺↑↓|ぜんりつせん|↓↑肥大↑↓ひだい↓になりました。","e":"I had an enlarged prostate."}]}

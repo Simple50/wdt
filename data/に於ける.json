@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"に於ける","p":true}],"r_ele":[{"r":"における","p":true}],"sense":[{"gloss":"in, at, on, as for, regarding, with regards to","pos":["exp"]}],"m":["uk"]},"kdata":{"於":{"on":["オ","ヨ"],"kun":["おい.て","お.ける","ああ","より"],"meanings":["at","in","on","as for"],"freq":2113,"comp":[["仒","方"]],"d":["閼","唹","淤","瘀","菸","鯲","棜"],"jlpt":0,"t":782}},"sdata":[]}

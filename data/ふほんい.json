@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不本意","p":true}],"r_ele":[{"r":"ふほんい","p":true}],"sense":[{"gloss":"reluctant, unwilling, involuntary, unintentional, unintended, unlooked-for, disappointing","pos":["adj-na","n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑不本意↑↓|ふほんい|↓ながらもそうした。","e":"She did it against her will."}]}

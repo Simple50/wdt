@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボコーダー","p":true},{"r":"ボコーダ"}],"sense":[{"gloss":"vocoder","pos":["n"]}]},"sdata":[]}

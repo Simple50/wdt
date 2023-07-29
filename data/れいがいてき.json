@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"例外的","p":true}],"r_ele":[{"r":"れいがいてき","p":true}],"sense":[{"gloss":"exceptional, unusual","pos":["adj-na"]}]},"sdata":[{"j":"これは↑例外↑↓|れいがい↓↑的↑↓てき|↓な↑場合↑↓ばあい↓だ。","e":"This is an exceptional case."}]}

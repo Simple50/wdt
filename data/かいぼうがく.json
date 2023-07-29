@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"解剖学","p":true}],"r_ele":[{"r":"かいぼうがく","p":true}],"sense":[{"gloss":"anatomy","pos":["n"]}]},"sdata":[{"j":"もっとも↑重要↑↓じゅうよう↓なことは、↑脳↑↓のう↓にはこれらの↑解剖↑↓|かいぼう↓↑学的↑↓がく|てき↓↑組織↑↓そしき↓を↑結合↑↓けつごう↓する↑全体↑↓ぜんたい↓↑的↑↓てき↓な↑再↑↓さい↓↑入↑↓にゅう↓↑経路↑↓けいろ↓が↑必要↑↓ひつよう↓である。","e":"Most important of all, the brain needs global reentry pathways connecting these anatomical structures."}]}

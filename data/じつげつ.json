@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日月","p":true}],"r_ele":[{"r":"じつげつ","p":true},{"r":"にちげつ"}],"sense":[{"gloss":"sun and moon","pos":["n"]},{"gloss":"time, days and months, years","pos":["n"]},{"gloss":"Sunday and Monday","pos":["n"]}]},"sdata":[{"j":"↑土↑↓ど↓↑日月↑↓|じつげつ|↓の↑午前↑↓ごぜん↓１０↑時半↑↓じはん↓から↑午後↑↓ごご↓４↑時↑↓じ↓まで↑開館↑↓かいかん↓。","e":"Open from 10:30am to 4pm on Sat, Sun, and Mon."}]}

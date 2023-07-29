@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗り付け","p":true}],"r_ele":[{"r":"のりつけ","p":true}],"sense":[{"gloss":"one's regular taxi","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歯向かう","p":true},{"e":"歯向う","p":true},{"e":"刃向かう"}],"r_ele":[{"r":"はむかう","p":true}],"sense":[{"gloss":"to strike back at, to bite back, to turn on, to rise against, to oppose, to defy","pos":["v5u","vi"]}]},"sdata":[]}

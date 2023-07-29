@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"作付面積","p":true}],"r_ele":[{"r":"さくづけめんせき","p":true}],"sense":[{"gloss":"planted area","pos":["n"]}]},"sdata":[]}

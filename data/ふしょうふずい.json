@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夫唱婦随","p":true}],"r_ele":[{"r":"ふしょうふずい","p":true}],"sense":[{"gloss":"a wife should do her husband's bidding","pos":["n"]}],"m":["yoji"]},"sdata":[]}

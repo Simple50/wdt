@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盤谷","i":["ateji","rK"]}],"r_ele":[{"r":"バンコク","p":true},{"r":"バンコック"}],"sense":[{"gloss":"Bangkok (Thailand)","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"|バンコク|はタイの↑首都↑↓しゅと↓です。","e":"Bangkok is the capital of Thailand."}]}

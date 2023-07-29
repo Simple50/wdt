@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"政治力","p":true}],"r_ele":[{"r":"せいじりょく","p":true}],"sense":[{"gloss":"political strength","pos":["n"]}]},"sdata":[]}

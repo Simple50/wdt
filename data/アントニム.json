@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アントニム","p":true}],"sense":[{"gloss":"antonym","pos":["n"],"f":["ling"],"x":["対義語"]}]},"sdata":[]}

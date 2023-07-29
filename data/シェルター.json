@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シェルター","p":true}],"sense":[{"gloss":"shelter","pos":["n"]}]},"sdata":[{"j":"その↑都市↑↓とし↓には↑数↑↓すう↓カ↑所↑↓しょ↓の↑核↑↓かく↓|シェルター|がある。","e":"There are a few nuclear bomb shelters in the city."},{"j":"↑戦争↑↓せんそう↓を↑恐↑↓おそ↓れて|シェルター|が↑作↑↓つく↓られてきた。","e":"Shelters have been built in fear of war."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追分","p":true}],"r_ele":[{"r":"おいわけ","p":true}],"sense":[{"gloss":"forked road","pos":["n"]}]},"sdata":[{"j":"「↑空↑↓そら↓って、どうして↑青↑↓あお↓いの？」「いつもいつも↑青↑↓あ|お↓いわけ|じゃないよ」","e":"Why is the sky blue? \"The sky isn't always blue.\""}]}

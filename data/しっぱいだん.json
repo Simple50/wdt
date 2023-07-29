@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"失敗談","p":true}],"r_ele":[{"r":"しっぱいだん","p":true}],"sense":[{"gloss":"failure story, horror story","pos":["n"]}]},"sdata":[]}

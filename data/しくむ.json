@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仕組む","p":true}],"r_ele":[{"r":"しくむ","p":true}],"sense":[{"gloss":"to devise, to arrange, to plan, to plot","pos":["v5m","vt"]}]},"sdata":[]}

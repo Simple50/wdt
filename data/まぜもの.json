@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"混ぜ物","p":true},{"e":"まぜ物"}],"r_ele":[{"r":"まぜもの","p":true}],"sense":[{"gloss":"mixture, adulteration","pos":["n"]}]},"sdata":[]}

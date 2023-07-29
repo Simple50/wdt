@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国務大臣","p":true}],"r_ele":[{"r":"こくむだいじん","p":true}],"sense":[{"gloss":"minister of state, cabinet minister (in Japan)","pos":["n"]}]},"sdata":[]}

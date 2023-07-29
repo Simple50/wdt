@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隆起","p":true}],"r_ele":[{"r":"りゅうき","p":true}],"sense":[{"gloss":"protuberance, bulge, protrusion, projection, swell","pos":["n","vs","vi","adj-no"]},{"gloss":"rise, uplift, upheaval, elevation","pos":["n","vs","vi","adj-no"]}]},"sdata":[{"j":"その↑会社↑↓かいしゃ↓は↑一流↑↓いち|りゅう↓↑企業↑↓き|ぎょう↓です。","e":"That company is one of the best in the business."}]}

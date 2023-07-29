@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"根拠地","p":true}],"r_ele":[{"r":"こんきょち","p":true}],"sense":[{"gloss":"base (of operations)","pos":["n"]}]},"sdata":[]}

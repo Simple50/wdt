@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"綿布","p":true}],"r_ele":[{"r":"めんぷ","p":true}],"sense":[{"gloss":"cotton cloth, cotton material","pos":["n"]}]},"sdata":[]}

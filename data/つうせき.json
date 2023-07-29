@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"痛惜","p":true}],"r_ele":[{"r":"つうせき","p":true}],"sense":[{"gloss":"deep regret","pos":["n","vs","vt"]}]},"sdata":[]}

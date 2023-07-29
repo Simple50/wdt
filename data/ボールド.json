@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボールド","p":true}],"sense":[{"gloss":"bold","pos":["n","adj-no"]}]},"sdata":[]}

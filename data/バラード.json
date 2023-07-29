@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バラード","p":true}],"sense":[{"gloss":"ballade (narrative poetry, musical composition)","pos":["n"],"l":"fre"},{"gloss":"ballad (popular song)","pos":["n"]}]},"sdata":[]}

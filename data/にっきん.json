@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日勤","p":true}],"r_ele":[{"r":"にっきん","p":true}],"sense":[{"gloss":"day shift","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二枚舌","p":true}],"r_ele":[{"r":"にまいじた","p":true}],"sense":[{"gloss":"double-dealing, duplicity, equivocation, double-tongued","pos":["n","adj-no"]}],"m":["id"]},"sdata":[{"j":"お↑前↑↓まえ↓は↑二枚舌↑↓|にまいじた|↓を↑使↑↓つか↓っている。","e":"You are lying to me."},{"j":"↑二枚舌↑↓|にまいじた|↓を↑使↑↓つか↓うな。","e":"Keep not two tongues in one mouth."}]}

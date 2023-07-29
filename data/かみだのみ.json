@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神頼み","p":true}],"r_ele":[{"r":"かみだのみ","p":true}],"sense":[{"gloss":"entreaty to a deity","pos":["n","vs"]}]},"sdata":[{"j":"↑苦↑↓くる↓しいときの↑神頼↑↓|かみだの↓み|。","e":"Danger past, God forgotten."}]}

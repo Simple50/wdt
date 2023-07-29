@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ソープランド","p":true}],"sense":[{"gloss":"brothel where one can bathe with prostitutes, soapland","pos":["n"],"l":"eng"}]},"sdata":[]}

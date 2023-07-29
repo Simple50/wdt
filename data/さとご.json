@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"里子","p":true}],"r_ele":[{"r":"さとご","p":true}],"sense":[{"gloss":"foster child","pos":["n"],"x":["里親・1"]},{"gloss":"adopted animal (e.g. pet)","pos":["n"]}]},"sdata":[{"j":"この↑子犬↑↓こいぬ↓は↑里心↑↓|さとご|ころ↓がついて↑泣↑↓な↓いているんだ。","e":"This puppy is crying because it misses its mother."},{"j":"かれはきっと↑里心↑↓|さとご|ころ↓がついています。","e":"He must be homesick."}]}

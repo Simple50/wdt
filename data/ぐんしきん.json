@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍資金","p":true}],"r_ele":[{"r":"ぐんしきん","p":true}],"sense":[{"gloss":"war funds, war chest","pos":["n"]},{"gloss":"funds (for activities), campaign funds","pos":["n"]}]},"sdata":[]}

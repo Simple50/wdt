@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"昴","p":true}],"r_ele":[{"r":"すばる","p":true},{"r":"すまる"},{"r":"ぼう"}],"sense":[{"gloss":"Chinese \"Hairy Head\" constellation (one of the 28 mansions), Pleiades, Seven Sisters","pos":["n"],"f":["astron"],"x":["二十八宿","白虎・びゃっこ・2"]}]},"kdata":{"昴":{"on":["コウ","ボウ"],"kun":["すばる"],"meanings":["the Pleiades"],"comp":[["日","卯"]],"jlpt":0,"freq":3016}},"sdata":[]}

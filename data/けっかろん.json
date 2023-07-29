@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"結果論","p":true}],"r_ele":[{"r":"けっかろん","p":true}],"sense":[{"gloss":"hindsight-based opinion","pos":["n"]}]},"sdata":[]}

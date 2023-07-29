@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幕間","p":true},{"e":"幕あい"}],"r_ele":[{"r":"まくあい","p":true},{"r":"まくま","i":["ik"]}],"sense":[{"gloss":"intermission (between acts), interlude","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ティラニー","p":true}],"sense":[{"gloss":"tyranny","pos":["n"]}]},"sdata":[]}

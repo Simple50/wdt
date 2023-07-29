@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チェーン","p":true},{"r":"チェイン","p":true}],"sense":[{"gloss":"chain (bicycle, measuring, tire, etc.)","pos":["n"]},{"gloss":"chain (store, hotel, etc.)","pos":["n"]}]},"sdata":[]}

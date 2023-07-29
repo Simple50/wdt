@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"型枠","p":true}],"r_ele":[{"r":"かたわく","p":true}],"sense":[{"gloss":"mold, mould","pos":["n"]}]},"sdata":[]}

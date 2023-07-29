@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スキンケア","p":true},{"r":"スキン・ケア"}],"sense":[{"gloss":"skin care","pos":["n"]}]},"sdata":[{"j":"|スキンケア|が↑重要↑↓じゅうよう↓よ。","e":"It's important to take care of your skin."}]}

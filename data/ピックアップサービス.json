@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピックアップサービス","p":true},{"r":"ピックアップ・サービス"}],"sense":[{"gloss":"pickup service","pos":["n"]}]},"sdata":[]}

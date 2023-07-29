@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"過不足","p":true}],"r_ele":[{"r":"かふそく","p":true},{"r":"かぶそく","i":["ik"]}],"sense":[{"gloss":"excess or deficiency, too much or too little","pos":["n"]}]},"sdata":[]}

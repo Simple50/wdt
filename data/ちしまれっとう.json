@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"千島列島","p":true}],"r_ele":[{"r":"ちしまれっとう","p":true}],"sense":[{"gloss":"Kurile Islands","pos":["n"]}]},"sdata":[]}

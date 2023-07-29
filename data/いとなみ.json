@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"営み","p":true}],"r_ele":[{"r":"いとなみ","p":true}],"sense":[{"gloss":"activity, action, performance, execution","pos":["n"]},{"gloss":"occupation, business, work","pos":["n"]},{"gloss":"sexual intercourse, sex","pos":["n"],"m":["euph"]},{"gloss":"preparations","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砂上","p":true}],"r_ele":[{"r":"さじょう","p":true}],"sense":[{"gloss":"(built) on sand","pos":["n"]}]},"sdata":[{"j":"↑君↑↓きみ↓の↑計画↑↓けいかく↓は↑砂上↑↓|さじょう|↓の↑楼閣↑↓ろうかく↓に↑過↑↓す↓ぎないよ。","e":"Your scheme is like a house built on the sand."}]}

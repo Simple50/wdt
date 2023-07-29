@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モノトーン","p":true}],"sense":[{"gloss":"monotone","pos":["n"]}]},"sdata":[]}

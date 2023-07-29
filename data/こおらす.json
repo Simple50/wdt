@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"凍らす","p":true}],"r_ele":[{"r":"こおらす","p":true}],"sense":[{"gloss":"to freeze, to refrigerate","pos":["v5s","vt"]}]},"sdata":[]}

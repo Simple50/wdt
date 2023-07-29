@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"珍重","p":true}],"r_ele":[{"r":"ちんちょう","p":true}],"sense":[{"gloss":"prizing, valuing highly, esteeming","pos":["n","vs"]}]},"sdata":[]}

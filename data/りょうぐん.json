@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"両軍","p":true}],"r_ele":[{"r":"りょうぐん","p":true}],"sense":[{"gloss":"both armies","pos":["n"]},{"gloss":"both teams, both sides","pos":["n"]}]},"sdata":[{"j":"↑両↑↓|りょう↓↑軍↑↓ぐん|↓は↑対峙↑↓たいじ↓して、むなしく↑日↑↓ひ↓を↑送↑↓おく↓るばかりでした。","e":"Both armies were placed one in front of the other and spent their days doing nothing."}]}

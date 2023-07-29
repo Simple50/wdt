@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横波","p":true}],"r_ele":[{"r":"よこなみ","p":true},{"r":"おうは"}],"sense":[{"gloss":"transverse wave","pos":["n"],"f":["physics"],"x":["縦波・たてなみ"]},{"gloss":"beam sea","pos":["n"]}]},"sdata":[]}

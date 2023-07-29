@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"帯びる","p":true}],"r_ele":[{"r":"おびる","p":true}],"sense":[{"gloss":"to wear (sword, decoration, etc.), to carry","pos":["v1","vt"]},{"gloss":"to be entrusted (e.g. with a mission), to take on","pos":["v1","vt"]},{"gloss":"to have a trace of, to be tinged with","pos":["v1","vt"],"x":["赤味を帯びた・あかみをおびた"]}]},"sdata":[]}

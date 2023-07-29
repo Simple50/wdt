@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"体得","p":true}],"r_ele":[{"r":"たいとく","p":true}],"sense":[{"gloss":"mastery, learning through experience, realization, realisation, comprehension","pos":["n","vs","vt"]}]},"sdata":[]}

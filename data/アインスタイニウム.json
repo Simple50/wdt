@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アインスタイニウム","p":true}],"sense":[{"gloss":"einsteinium (Es)","pos":["n"]}]},"sdata":[]}

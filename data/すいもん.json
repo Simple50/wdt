@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水門","p":true}],"r_ele":[{"r":"すいもん","p":true}],"sense":[{"gloss":"sluice gate, water gate, flood gate","pos":["n"]}]},"sdata":[]}

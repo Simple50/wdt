@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アイゼン","p":true}],"sense":[{"gloss":"climbing irons, crampons, metal pins of climbing shoes","pos":["n"],"l":"ger: Eisen"}]},"sdata":[]}

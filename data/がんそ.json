@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"元祖","p":true}],"r_ele":[{"r":"がんそ","p":true}],"sense":[{"gloss":"originator, pioneer, inventor, founder","pos":["n"]},{"gloss":"progenitor, primogenitor, founder of a family line","pos":["n"]}]},"sdata":[]}

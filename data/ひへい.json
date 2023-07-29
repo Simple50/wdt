@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"疲弊","p":true}],"r_ele":[{"r":"ひへい","p":true}],"sense":[{"gloss":"exhaustion, fatigue","pos":["n","vs","vi"]},{"gloss":"impoverishment, (financial) exhaustion, ruin","pos":["n","vs","vi"]}]},"sdata":[]}

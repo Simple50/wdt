@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折り合う","p":true},{"e":"折合う"}],"r_ele":[{"r":"おりあう","p":true}],"sense":[{"gloss":"to reach an agreement, to come to an understanding, to compromise (with), to meet halfway","pos":["v5u","vi"]},{"gloss":"to get along well with","pos":["v5u","vi"]}]},"sdata":[]}

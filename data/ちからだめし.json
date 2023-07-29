@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"力試し","p":true}],"r_ele":[{"r":"ちからだめし","p":true}],"sense":[{"gloss":"test of one's strength, test of one's ability","pos":["n"]}]},"sdata":[]}

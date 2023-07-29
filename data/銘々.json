@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銘々","p":true},{"e":"銘銘"}],"r_ele":[{"r":"めいめい","p":true}],"sense":[{"gloss":"each, individual","pos":["adv","adj-no","n"]}],"m":["uk"]},"kdata":{"銘":{"on":["メイ"],"jlpt":1,"meanings":["inscription","signature (of artisan)"],"freq":1394,"comp":[["金","名"]],"t":1941}},"sdata":[]}

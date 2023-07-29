@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発案","p":true}],"r_ele":[{"r":"はつあん","p":true}],"sense":[{"gloss":"suggestion, proposition, proposal, idea","pos":["n","vs","vt"]},{"gloss":"submission (of a bill), motion, proposal","pos":["n","vs","vt"]}]},"sdata":[]}

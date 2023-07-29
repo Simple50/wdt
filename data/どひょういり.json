@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土俵入り","p":true}],"r_ele":[{"r":"どひょういり","p":true}],"sense":[{"gloss":"entrance procession of wrestlers into the ring","pos":["n"],"f":["sumo"]}]},"sdata":[]}

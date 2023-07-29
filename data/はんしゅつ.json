@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"搬出","p":true}],"r_ele":[{"r":"はんしゅつ","p":true}],"sense":[{"gloss":"carrying out (esp. heavy objects, artwork, furniture), taking out","pos":["n","vs","vt"],"ant":["搬入"]}]},"sdata":[]}

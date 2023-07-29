@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地殻変動","p":true}],"r_ele":[{"r":"ちかくへんどう","p":true}],"sense":[{"gloss":"diastrophism (movement and deformation of the earth's crust)","pos":["n"],"f":["geol"]},{"gloss":"upheaval (e.g. in politics), seismic shift, earthshaking changes","pos":["n"]}]},"sdata":[]}

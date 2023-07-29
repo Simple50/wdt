@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピット","p":true}],"sense":[{"gloss":"pit","pos":["n"]}]},"sdata":[{"j":"ブラッド・|ピット|↑様↑↓さま↓は↑俳優↑↓はいゆう↓です。","e":"Brad Pitt is an actor."}]}

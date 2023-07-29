@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウイニングショット","p":true},{"r":"ウィニングショット"},{"r":"ウイニング・ショット"},{"r":"ウィニング・ショット"}],"sense":[{"gloss":"winning shot (tennis, ball games)","pos":["n"],"f":["sports"]}]},"sdata":[]}

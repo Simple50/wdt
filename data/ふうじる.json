@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"封じる","p":true}],"r_ele":[{"r":"ふうじる","p":true}],"sense":[{"gloss":"to seal (letter)","pos":["v1","vt"]},{"gloss":"to prevent, to forbid, to block","pos":["v1","vt"]}]},"sdata":[]}

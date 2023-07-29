@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンコース","p":true}],"sense":[{"gloss":"concourse","pos":["n"]}]},"sdata":[]}

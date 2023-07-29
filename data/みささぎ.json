@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陵","p":true}],"r_ele":[{"r":"みささぎ","p":true},{"r":"みはか"},{"r":"りょう"}],"sense":[{"gloss":"imperial mausoleum, Emperor's tomb","pos":["n"],"x":["御墓・みはか"]},{"gloss":"big hill","pos":["n"]}]},"sdata":[]}

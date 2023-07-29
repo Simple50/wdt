@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フローリング","p":true},{"r":"フロリング"}],"sense":[{"gloss":"wooden flooring","pos":["n"]}]},"sdata":[{"j":"↑二↑↓ふた↓つ↑折↑↓お↓りにしたクッションを↑枕↑↓まくら↓↑代↑↓が↓わりに、↑僕↑↓ぼく↓は|フローリング|の↑上↑↓うえ↓にカーペットを↑敷↑↓し↓いただけの↑固↑↓かた↓い↑床↑↓ゆか↓へと↑横↑↓よこ↓になる。","e":"Using a doubled-up cushion in place of a pillow I lie down on the hard wooden floor with nothing but a carpet spread over it."}]}

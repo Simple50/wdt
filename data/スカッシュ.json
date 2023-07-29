@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スカッシュ","p":true}],"sense":[{"gloss":"squash (drink)","pos":["n"]},{"gloss":"squash (sport)","pos":["n"]}]},"sdata":[{"j":"|スカッシュ|をしたいのですが。","e":"I'd like to play a game of squash."},{"j":"↑数↑↓すう↓ヶ↑月↑↓かげつ↓↑前↑↓まえ↓に|スカッシュ|を↑始↑↓はじ↓めたばかりなんだ。","e":"I took up squash only a few months ago."},{"j":"トムは|スカッシュ|やるかな？","e":"Does Tom play squash?"}]}

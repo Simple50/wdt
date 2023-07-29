@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナノ","p":true}],"sense":[{"gloss":"nano-, 10^-9","pos":["pref"]}]},"sdata":[{"j":"↑私↑↓わたし↓↑達↑↓たち↓の↑細胞↑↓さいぼう↓では、↑本当↑↓ほんとう↓の↑組織↑↓そしき↓↑的↑↓てき↓な|ナノ|モレキュラー↑技術↑↓ぎじゅつ↓のバレエが↑動↑↓うご↓いていて、↑人間↑↓にんげん↓の↑理解↑↓りかい↓を↑試↑↓ため↓す。","e":"A veritable synchronized ballet of nanomolecular engineering operates in our cells, challenging human understanding."}]}

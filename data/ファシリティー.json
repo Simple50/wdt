@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファシリティー","p":true},{"r":"ファシリティ"},{"r":"ファシリテイ"}],"sense":[{"gloss":"facility","pos":["n"]}]},"sdata":[]}

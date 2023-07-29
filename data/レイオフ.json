@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レイオフ","p":true}],"sense":[{"gloss":"(temporary) layoff","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エロチック","p":true},{"r":"エロティック"}],"sense":[{"gloss":"erotic","pos":["adj-na"]}]},"sdata":[{"j":"|エロチック|な↑描写↑↓びょうしゃ↓が↑倒錯↑↓とうさく↓↑的↑↓てき↓↑過↑↓す↓ぎてこの↑人↑↓ひと↓の↑本↑↓ほん↓は↑俺↑↓おれ↓には↑合↑↓あ↓わない。","e":"This author's books don't suit me because the erotic descriptions are too perverted."}]}

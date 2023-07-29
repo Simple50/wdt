@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンテンポラリー","p":true}],"sense":[{"gloss":"contemporary","pos":["adj-na"]}]},"sdata":[]}

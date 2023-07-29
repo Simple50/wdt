@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一酸化炭素","p":true}],"r_ele":[{"r":"いっさんかたんそ","p":true}],"sense":[{"gloss":"carbon monoxide","pos":["n"]}]},"sdata":[{"j":"↑一酸化↑↓|いっさんか↓↑炭素↑↓たんそ|↓とは↑炭素↑↓たんそ↓↑化合↑↓かごう↓↑物↑↓ぶつ↓の↑不完全↑↓ふかんぜん↓↑燃焼↑↓ねんしょう↓で↑発生↑↓はっせい↓する↑有害↑↓ゆうがい↓↑物質↑↓ぶっしつ↓です。","e":"Carbon monoxide is a poisonous substance formed by the incomplete combustion of carbon compounds."}]}

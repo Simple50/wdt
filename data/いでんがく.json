@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遺伝学","p":true}],"r_ele":[{"r":"いでんがく","p":true}],"sense":[{"gloss":"genetics, study of heredity","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"謹厳","p":true}],"r_ele":[{"r":"きんげん","p":true}],"sense":[{"gloss":"stern, grave, solemn, sobersided","pos":["adj-na","n"]}]},"sdata":[{"j":"トムさんは↑最近↑↓さい|きん↓↑元気↑↓げん|き↓ないです。","e":"Tom hasn't been very well recently."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遊学","p":true}],"r_ele":[{"r":"ゆうがく","p":true}],"sense":[{"gloss":"studying abroad, travelling to study, traveling to study","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑遊学↑↓|ゆうがく|↓↑先↑↓さき↓はもう↑決↑↓き↓めた？","e":"Have you decided where you're going to go to study abroad?"}]}

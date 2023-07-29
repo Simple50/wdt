@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フェデレーション","p":true}],"sense":[{"gloss":"federation","pos":["n"]}]},"sdata":[]}

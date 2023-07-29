@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詰み","p":true}],"r_ele":[{"r":"つみ","p":true}],"sense":[{"gloss":"checkmate","pos":["n"]}]},"kdata":{"詰":{"on":["キツ","キチ"],"kun":["つ.める","つ.め","-づ.め","つ.まる","つ.む"],"jlpt":2,"meanings":["packed","close","pressed","reprove","rebuke","blame"],"freq":1020,"comp":[["言","吉"]],"t":1784}},"sdata":[]}

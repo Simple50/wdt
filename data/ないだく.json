@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内諾","p":true}],"r_ele":[{"r":"ないだく","p":true}],"sense":[{"gloss":"informal consent, private consent","pos":["n","vs","vt"]}]},"sdata":[{"j":"こ|ないだク|ラス↑会↑↓かい↓に↑参加↑↓さんか↓してきた。","e":"The other day I attended a class reunion of my elementary school."},{"j":"↑彼↑↓かれ↓がこ|ないだ↑君↑↓く|ん↓と↑会↑↓あ↓った↑人↑↓ひと↓だよ。","e":"He is the man you met the other day."}]}

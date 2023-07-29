@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビッグバン","p":true},{"r":"ビッグ・バン"},{"r":"ビックバン","i":["ik"]}],"sense":[{"gloss":"big bang","pos":["n"],"f":["astron","finc"]}]},"sdata":[]}

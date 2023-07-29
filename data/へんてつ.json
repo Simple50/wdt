@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変哲","p":true}],"r_ele":[{"r":"へんてつ","p":true}],"sense":[{"gloss":"something unusual, something odd, something out of the ordinary","pos":["n","adj-na"],"x":["変哲もない"]}]},"sdata":[{"j":"↑何↑↓なん↓の↑変哲↑↓|へんてつ|↓もない↑朝↑↓あさ↓だった。","e":"It was a morning like any other."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スポットライト","p":true}],"sense":[{"gloss":"spotlight","pos":["n"]}]},"sdata":[{"j":"|スポットライト|を↑取↑↓と↓り↑付↑↓つ↓けます。","e":"We'll install spotlights."},{"j":"|スポットライト|を↑取↑↓と↓り↑付↑↓つ↓けます。","e":"We will put up spotlights."},{"j":"|スポットライト|を↑取↑↓と↓り↑付↑↓つ↓けます。","e":"We'll put up spotlights."}]}

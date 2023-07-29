@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"王将","p":true},{"e":"王將","i":["oK"]}],"r_ele":[{"r":"おうしょう","p":true}],"sense":[{"gloss":"king (of the senior player)","pos":["n"],"f":["shogi"]}]},"sdata":[{"j":"↑第↑↓だい↓１↑次↑↓じ↓↑世界↑↓せかい↓↑大戦↑↓たいせん↓で↑英国↑↓えいこく↓の↑成年↑↓せいねん↓↑男子↑↓だんし↓の↑大半↑↓たいはん↓が↑応召↑↓|おうしょう|↓した。","e":"In the First World War, a large proportion of England's young men enlisted."}]}

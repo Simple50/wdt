@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学会誌","p":true}],"r_ele":[{"r":"がっかいし","p":true}],"sense":[{"gloss":"academic journal","pos":["n"]}]},"sdata":[]}

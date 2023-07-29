@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝泊まり","p":true},{"e":"寝泊り"}],"r_ele":[{"r":"ねとまり","p":true}],"sense":[{"gloss":"staying the night, lodging (at)","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑車↑↓くるま↓で↑寝泊↑↓|ねと↓まり|してるんだ。","e":"She sleeps in the car."}]}

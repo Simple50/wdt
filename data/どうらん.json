@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"動乱","p":true}],"r_ele":[{"r":"どうらん","p":true}],"sense":[{"gloss":"disturbance, upheaval, unrest, war, riot","pos":["n"]}]},"sdata":[{"j":"↑動乱↑↓|どうらん|↓は3↑日間↑↓にちかん↓↑続↑↓つづ↓いた。","e":"The unrest lasted three days."}]}

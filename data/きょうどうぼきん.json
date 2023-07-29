@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"共同募金","p":true}],"r_ele":[{"r":"きょうどうぼきん","p":true}],"sense":[{"gloss":"community chest","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑数↑↓すう↓↑週間↑↓しゅうかん↓↑共同↑↓|きょうどう↓↑募金↑↓ぼきん|↓↑運動↑↓うんどう↓に↑奉仕↑↓ほうし↓した。","e":"He worked for weeks on behalf of the community chest."}]}

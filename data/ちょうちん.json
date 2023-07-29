@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"提灯","p":true},{"e":"提燈"}],"r_ele":[{"r":"ちょうちん","p":true},{"r":"ていとう"}],"sense":[{"gloss":"paper lantern, Chinese lantern, Japanese lantern","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金石","p":true}],"r_ele":[{"r":"きんせき","p":true}],"sense":[{"gloss":"minerals and rocks, metal and stone utensils","pos":["n"]},{"gloss":"epigraph","pos":["n"]}]},"sdata":[{"j":"↑夢↑↓ゆめ↓は↑我々↑↓われわれ↓の↑性格↑↓せいかく↓の↑試金石↑↓し|きんせき|↓である。","e":"Dreams are the touchstones of our characters."}]}

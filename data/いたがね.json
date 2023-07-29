@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"板金","p":true},{"e":"鈑金"},{"e":"板銀"}],"r_ele":[{"r":"ばんきん"},{"r":"いたがね","p":true}],"sense":[{"gloss":"sheet metal, metal plate","pos":["n"]}]},"sdata":[{"j":"なるほど↑彼↑↓かれ↓は↑会合↑↓かいごう↓に↑出↑↓で↓て|いたが↑眠↑↓ね|む↓っていた。","e":"He was at the meeting, to be sure, but he was asleep."},{"j":"↑私↑↓わたし↓は↑疲↑↓つか↓れて|いたが↑眠↑↓ね|む↓れなかった。","e":"I was tired, but I couldn't sleep."}]}

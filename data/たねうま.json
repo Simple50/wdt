@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"種馬","p":true}],"r_ele":[{"r":"たねうま","p":true}],"sense":[{"gloss":"studhorse, stallion, breeding horse","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紺碧","p":true}],"r_ele":[{"r":"こんぺき","p":true}],"sense":[{"gloss":"deep blue, azure","pos":["n"]}]},"sdata":[{"j":"↑紺碧↑↓|こんぺき|↓の↑夜空↑↓よぞら↓に↑星↑↓ほし↓がキラキラと↑瞬↑↓またた↓いていた。","e":"The night sky was dark blue, and the stars were twinkling."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンピレーション","p":true}],"sense":[{"gloss":"compilation","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インボイス","p":true}],"sense":[{"gloss":"invoice","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"泣きじゃくる","p":true},{"e":"泣き噦る","i":["rK"]}],"r_ele":[{"r":"なきじゃくる","p":true}],"sense":[{"gloss":"to sob, to never stop crying, to cry on and on","pos":["v5r","vi"]}]},"sdata":[{"j":"↑寝室↑↓しんしつ↓から↑彼女↑↓かのじょ↓の↑泣↑↓|な↓きじゃくる|↑声↑↓こえ↓が↑聞↑↓き↓こえた。","e":"I could hear her sobbing in her bedroom."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追尾","p":true}],"r_ele":[{"r":"ついび","p":true}],"sense":[{"gloss":"following, pursuing, tracking, shadowing, tailing, chasing","pos":["n","vs","vt"]}]},"sdata":[]}

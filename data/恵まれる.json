@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恵まれる","p":true}],"r_ele":[{"r":"めぐまれる","p":true}],"sense":[{"gloss":"to be blessed with, to be rich in, to abound in","pos":["v1","vi"]}]},"kdata":{"恵":{"on":["ケイ","エ"],"kun":["めぐ.む","めぐ.み"],"jlpt":1,"meanings":["favor","blessing","grace","kindness"],"freq":925,"comp":[["心","十","日"]],"d":["穂"],"t":1072}},"sdata":[]}

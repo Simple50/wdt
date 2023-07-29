@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"住まう","p":true},{"e":"棲まう","i":["rK"]},{"e":"住う","i":["io","rK"]}],"r_ele":[{"r":"すまう","p":true}],"sense":[{"gloss":"to live, to reside, to inhabit","pos":["v5u","vi"]}]},"sdata":[]}

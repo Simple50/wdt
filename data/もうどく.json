@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"猛毒","p":true}],"r_ele":[{"r":"もうどく","p":true}],"sense":[{"gloss":"deadly poison","pos":["n","adj-no"]}]},"sdata":[]}

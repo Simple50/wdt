@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"南口","p":true}],"r_ele":[{"r":"みなみぐち","p":true}],"sense":[{"gloss":"south entrance, south exit","pos":["n"]}]},"sdata":[]}

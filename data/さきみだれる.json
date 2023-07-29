@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"咲き乱れる","p":true},{"e":"咲乱れる","i":["io"]}],"r_ele":[{"r":"さきみだれる","p":true}],"sense":[{"gloss":"to bloom in profusion","pos":["v1","vi"]}]},"sdata":[]}

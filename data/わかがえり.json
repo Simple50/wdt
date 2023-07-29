@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"若返り","p":true}],"r_ele":[{"r":"わかがえり","p":true}],"sense":[{"gloss":"rejuvenation, restoration of youth","pos":["n","vs"]}]},"sdata":[]}

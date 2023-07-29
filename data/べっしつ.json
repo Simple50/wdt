@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別室","p":true}],"r_ele":[{"r":"べっしつ","p":true}],"sense":[{"gloss":"separate room, another room","pos":["n"]},{"gloss":"special room","pos":["n"]},{"gloss":"concubine (of a noble)","pos":["n"],"m":["arch"],"x":["側室"]}]},"sdata":[]}

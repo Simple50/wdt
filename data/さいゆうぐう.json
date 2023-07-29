@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最優遇","p":true}],"r_ele":[{"r":"さいゆうぐう","p":true}],"sense":[{"gloss":"most favourable treatment, most favorable treatment, very warm reception","pos":["n"]}]},"sdata":[]}

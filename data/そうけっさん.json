@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"総決算","p":true}],"r_ele":[{"r":"そうけっさん","p":true}],"sense":[{"gloss":"complete financial statement","pos":["n","vs","vt"]},{"gloss":"summing up, concluding","pos":["n","vs","vt"]}]},"sdata":[]}

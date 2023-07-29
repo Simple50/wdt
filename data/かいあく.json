@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"改悪","p":true}],"r_ele":[{"r":"かいあく","p":true}],"sense":[{"gloss":"deterioration, changing for the worse","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑客↑↓きゃく↓たちは↑暖↑↓あたた↓|かい↑握手↑↓あく|しゅ↓で↑迎↑↓むか↓えられた。","e":"The visitors were greeted with warm handshakes."}]}

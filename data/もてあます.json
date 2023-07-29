@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持て余す","p":true},{"e":"持てあます"},{"e":"もて余す"}],"r_ele":[{"r":"もてあます","p":true}],"sense":[{"gloss":"to be too much for one, to find unmanageable, to be beyond one's control, to not know what to do with","pos":["v5s","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国民健康保険","p":true}],"r_ele":[{"r":"こくみんけんこうほけん","p":true}],"sense":[{"gloss":"national health insurance","pos":["n"]}]},"sdata":[]}

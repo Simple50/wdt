@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詠み人知らず","p":true},{"e":"読み人知らず"},{"e":"よみ人しらず"},{"e":"読人知らず"},{"e":"詠人知らず"}],"r_ele":[{"r":"よみびとしらず","p":true}],"sense":[{"gloss":"author unknown, anonymous","pos":["exp"]}]},"sdata":[]}

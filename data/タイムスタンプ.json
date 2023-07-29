@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タイムスタンプ","p":true},{"r":"タイム・スタンプ"}],"sense":[{"gloss":"time-stamp","pos":["n"]},{"gloss":"time-stamping machine","pos":["n"]}]},"sdata":[{"j":"この↑商品↑↓しょうひん↓↑管理↑↓かんり↓↑伝票↑↓でんぴょう↓をこの|タイムスタンプ|に↑差↑↓さ↓し↑込↑↓こ↓むと↑日付↑↓ひづけ↓と↑時刻↑↓じこく↓が↑打↑↓だ↓↑刻↑↓こく↓されます。","e":"Place this merchandise slip into the time stamp, and the date and time will be impressed."}]}

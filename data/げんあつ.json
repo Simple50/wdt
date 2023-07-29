@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"減圧","p":true}],"r_ele":[{"r":"げんあつ","p":true}],"sense":[{"gloss":"decompression","pos":["n","vs","vt","vi"]}]},"sdata":[]}

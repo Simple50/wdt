@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"潤す","p":true},{"e":"霑す","i":["sK"]}],"r_ele":[{"r":"うるおす","p":true}],"sense":[{"gloss":"to moisten, to wet","pos":["v5s","vt"]},{"gloss":"to profit, to enrich, to benefit","pos":["v5s","vt"]}]},"sdata":[]}

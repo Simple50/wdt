@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吉兆","p":true},{"e":"吉徴"}],"r_ele":[{"r":"きっちょう","p":true}],"sense":[{"gloss":"lucky omen, good omen","pos":["n","adj-no"]}]},"sdata":[]}

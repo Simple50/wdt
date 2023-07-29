@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自衛官","p":true}],"r_ele":[{"r":"じえいかん","p":true}],"sense":[{"gloss":"Japanese Self-Defense Force official, Self-Defense Force official","pos":["n"]}]},"sdata":[]}

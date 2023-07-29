@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名盤","p":true}],"r_ele":[{"r":"めいばん","p":true}],"sense":[{"gloss":"famous (musical) recording, famous record, excellent record","pos":["n"]}]},"sdata":[]}

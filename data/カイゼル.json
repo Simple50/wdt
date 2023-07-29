@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カイゼル","p":true},{"r":"カイザー"}],"sense":[{"gloss":"emperor, kaiser","pos":["n"],"l":"ger: Kaiser"}],"m":["hist"]},"sdata":[]}

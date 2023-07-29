@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"麻布","p":true}],"r_ele":[{"r":"あさぬの","p":true},{"r":"まふ"}],"sense":[{"gloss":"hemp cloth, linen","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"反米","p":true}],"r_ele":[{"r":"はんべい","p":true}],"sense":[{"gloss":"anti-American","pos":["adj-no","n"],"ant":["親米"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"備蓄","p":true}],"r_ele":[{"r":"びちく","p":true}],"sense":[{"gloss":"stockpile, reserves, storing, stocking up, laying in (supplies)","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑食糧↑↓しょくりょう↓は↑備蓄↑↓|びちく|↓しておきましたか？","e":"Have you made provisions?"}]}

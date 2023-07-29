@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クロール","p":true}],"sense":[{"gloss":"crawl (swimming), front crawl, forward crawl","pos":["n"]},{"gloss":"web crawling","pos":["n","vs"],"f":["comp"]}]},"sdata":[{"j":"|クロール|できる？","e":"Can you do the crawl?"},{"j":"↑彼女↑↓かのじょ↓は|クロール|の↑泳↑↓およ↓ぎ↑方↑↓かた↓を↑知↑↓し↓っている。","e":"She knows how to do the crawl."},{"j":"↑下↑↓した↓にス|クロール|して。","e":"Scroll down."}]}

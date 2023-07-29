@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"影の内閣","p":true}],"r_ele":[{"r":"かげのないかく","p":true}],"sense":[{"gloss":"shadow cabinet","pos":["exp","n"]}]},"sdata":[]}

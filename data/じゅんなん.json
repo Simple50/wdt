@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殉難","p":true}],"r_ele":[{"r":"じゅんなん","p":true}],"sense":[{"gloss":"martyrdom","pos":["n","vs","vi"]}]},"sdata":[]}

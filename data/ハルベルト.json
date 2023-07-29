@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハルバード"},{"r":"ハルベルト","p":true}],"sense":[{"gloss":"halberd","pos":["n"]}]},"sdata":[]}

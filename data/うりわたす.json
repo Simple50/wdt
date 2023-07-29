@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売り渡す","p":true},{"e":"売渡す"}],"r_ele":[{"r":"うりわたす","p":true}],"sense":[{"gloss":"to sell over to","pos":["v5s","vt"]}]},"sdata":[{"j":"↑財産↑↓ざいさん↓↑目当↑↓めあ↓てに↑結婚↑↓けっこん↓するものは↑自由↑↓じゆう↓を↑売↑↓|う↓り↑渡↑↓わた↓す|ものである。","e":"He that marries for wealth sells his liberty."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サーファー","p":true}],"sense":[{"gloss":"surfer","pos":["n"]}]},"sdata":[{"j":"このビーチは|サーファー|にはパラダイスだ。","e":"This beach is a paradise for surfers."}]}

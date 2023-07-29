@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"捜索隊","p":true}],"r_ele":[{"r":"そうさくたい","p":true}],"sense":[{"gloss":"search party","pos":["n"]}]},"sdata":[{"j":"↑捜索↑↓|そうさく↓↑隊↑↓たい|↓は↑彼↑↓かれ↓が↑崖↑↓がけ↓の↑下↑↓した↓で↑倒↑↓たお↓れているのを↑発見↑↓はっけん↓した。","e":"The search party found him lying at the foot of a cliff."}]}

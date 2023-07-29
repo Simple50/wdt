@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最高検","p":true}],"r_ele":[{"r":"さいこうけん","p":true}],"sense":[{"gloss":"Public Prosecutor's Office","pos":["n"]}],"m":["abbr"]},"sdata":[{"j":"↑日本語↑↓にほんご↓↑文法↑↓ぶんぽう↓の↑最高↑↓|さいこう↓↑権威↑↓けん|い↓が↑誰↑↓だれ↓なのか↑知↑↓し↓らない。","e":"I don't know who has the highest authority in Japanese grammar."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滑り込む","p":true},{"e":"滑りこむ"}],"r_ele":[{"r":"すべりこむ","p":true}],"sense":[{"gloss":"to slide into, to slip into","pos":["v5m","vi"]}]},"sdata":[]}

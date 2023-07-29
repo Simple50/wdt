@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軽妙","p":true}],"r_ele":[{"r":"けいみょう","p":true}],"sense":[{"gloss":"light and easy, lambent, clever, witty, smart","pos":["adj-na","n"]}]},"sdata":[]}

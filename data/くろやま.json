@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒山","p":true}],"r_ele":[{"r":"くろやま","p":true}],"sense":[{"gloss":"large crowd, mass of people","pos":["n"]}]},"sdata":[]}

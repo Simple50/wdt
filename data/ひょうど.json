@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"表土","p":true}],"r_ele":[{"r":"ひょうど","p":true}],"sense":[{"gloss":"top soil","pos":["n"]}]},"sdata":[{"j":"その↑結果↑↓けっか↓、↑雨↑↓あめ↓が↑降↑↓ふ↓れば、↑大量↑↓たいりょう↓の↑表土↑↓|ひょうど|↓、↑赤土↑↓あかつち↓、↑化学↑↓かがく↓↑肥料↑↓ひりょう↓、↑農薬↑↓のうやく↓が、↑海↑↓うみ↓に↑流↑↓なが↓れだす。","e":"As a result, when it rains, large amounts of topsoil, clay, chemical fertilizers, and pesticides are washed into the sea."}]}

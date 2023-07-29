@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合奏","p":true}],"r_ele":[{"r":"がっそう","p":true}],"sense":[{"gloss":"ensemble (e.g. orchestra, chamber group, etc.), concert","pos":["n","vs","vt"]}]},"sdata":[]}

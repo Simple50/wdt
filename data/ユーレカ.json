@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ユーレカ","p":true},{"r":"ユリイカ"}],"sense":[{"gloss":"eureka","pos":["n"],"l":"gre: heureka"}]},"sdata":[]}

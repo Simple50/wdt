@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"選り分ける","p":true},{"e":"より分ける"},{"e":"えり分ける"}],"r_ele":[{"r":"よりわける","p":true},{"r":"えりわける"}],"sense":[{"gloss":"to classify, to sort out, to sift through","pos":["v1","vt"]}]},"sdata":[{"j":"↑砂↑↓すな↓から↑金↑↓きん↓を|より↑分↑↓わ↓ける|のは↑難問↑↓なんもん↓だ。","e":"The separation of gold from sand is problematic."}]}

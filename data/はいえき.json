@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"廃液","p":true}],"r_ele":[{"r":"はいえき","p":true}],"sense":[{"gloss":"waste liquid","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓の↑多↑↓おお↓くの↑河川↑↓かせん↓は↑工場↑↓こうじょう↓の↑廃液↑↓|はいえき|↓で↑汚染↑↓おせん↓されている。","e":"Many rivers in Japan are polluted by waste water from factories."}]}

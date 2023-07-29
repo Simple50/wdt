@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"着席","p":true}],"r_ele":[{"r":"ちゃくせき","p":true}],"sense":[{"gloss":"taking a seat, sitting down (in one's seat)","pos":["n","vs","vi"]}]},"sdata":[{"j":"どうぞご↑着席↑↓|ちゃくせき|↓ください、みなさん。","e":"Please be seated, ladies and gentlemen."}]}

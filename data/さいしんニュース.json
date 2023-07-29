@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最新ニュース","p":true}],"r_ele":[{"r":"さいしんニュース","p":true}],"sense":[{"gloss":"latest news, most recent news","pos":["n"]}]},"sdata":[]}

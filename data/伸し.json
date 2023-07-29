@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伸し","p":true}],"r_ele":[{"r":"のし","p":true}],"sense":[{"gloss":"stretching","pos":["n"]},{"gloss":"sidestroke (swimming)","pos":["n"],"x":["横泳ぎ"]}]},"kdata":{"伸":{"on":["シン"],"kun":["の.びる","の.ばす","の.べる","の.す"],"jlpt":2,"meanings":["expand","stretch","extend","lengthen","increase"],"freq":730,"comp":[["亻","申"]],"d":["敒"],"t":429}},"sdata":[]}

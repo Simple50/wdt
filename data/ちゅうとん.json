@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駐屯","p":true}],"r_ele":[{"r":"ちゅうとん","p":true}],"sense":[{"gloss":"stationing (troops), occupancy","pos":["n","vs","vi"]}]},"sdata":[]}

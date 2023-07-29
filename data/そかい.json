@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"疎開","p":true}],"r_ele":[{"r":"そかい","p":true}],"sense":[{"gloss":"dispersal, evacuation, removal","pos":["n","vs"]},{"gloss":"spreading out (troops), deployment","pos":["n","vs"]}]},"sdata":[]}

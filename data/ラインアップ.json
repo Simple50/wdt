@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラインアップ","p":true},{"r":"ラインナップ"},{"r":"ライナップ","i":["sk"]}],"sense":[{"gloss":"line-up (of players, products, etc.), lineup","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち解ける","p":true},{"e":"うち解ける"},{"e":"打解ける"}],"r_ele":[{"r":"うちとける","p":true}],"sense":[{"gloss":"to open one's heart, to throw off reserve, to be frank","pos":["v1","vi"]}]},"sdata":[{"j":"↑大学↑↓だいがく↓の↑頃↑↓ころ↓、↑人↑↓ひと↓と↑打↑↓|う↓ち↑解↑↓と↓ける|ようになった。","e":"I came out of my shell in college."}]}

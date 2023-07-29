@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"偵察","p":true}],"r_ele":[{"r":"ていさつ","p":true}],"sense":[{"gloss":"scouting, reconnaissance","pos":["n","vs","vt"]}]},"sdata":[]}

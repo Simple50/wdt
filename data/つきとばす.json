@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き飛ばす","p":true},{"e":"突きとばす"}],"r_ele":[{"r":"つきとばす","p":true}],"sense":[{"gloss":"to thrust away, to send flying","pos":["v5s","vt"]}]},"sdata":[]}

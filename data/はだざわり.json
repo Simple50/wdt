@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肌触り","p":true},{"e":"肌ざわり"},{"e":"膚触り"},{"e":"肌触わり"},{"e":"膚触わり"}],"r_ele":[{"r":"はだざわり","p":true}],"sense":[{"gloss":"the touch of, feel of, texture","pos":["n"]}]},"sdata":[{"j":"この↑布↑↓ぬの↓は↑肌触↑↓|はだざわ↓り|が↑良↑↓よ↓い。","e":"This cloth is agreeable to the touch."}]}

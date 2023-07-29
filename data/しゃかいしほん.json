@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社会資本","p":true}],"r_ele":[{"r":"しゃかいしほん","p":true}],"sense":[{"gloss":"social capital, SOC","pos":["n"]}]},"sdata":[]}

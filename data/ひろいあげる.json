@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"拾い上げる","p":true}],"r_ele":[{"r":"ひろいあげる","p":true}],"sense":[{"gloss":"to pick up, to pick out","pos":["v1"]}]},"sdata":[]}

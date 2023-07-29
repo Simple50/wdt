@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巡航","p":true}],"r_ele":[{"r":"じゅんこう","p":true}],"sense":[{"gloss":"cruise, cruising","pos":["n","vs","vi"]}]},"sdata":[]}

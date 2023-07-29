@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アボート","p":true},{"r":"アポート","i":["ik"]}],"sense":[{"gloss":"abort","pos":["n","vs"],"f":["comp"]}]},"sdata":[]}

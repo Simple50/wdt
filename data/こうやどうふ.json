@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高野豆腐","p":true}],"r_ele":[{"r":"こうやどうふ","p":true}],"sense":[{"gloss":"freeze-dried tofu","pos":["n"]}]},"sdata":[]}

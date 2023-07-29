@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱発","p":true},{"e":"濫発"}],"r_ele":[{"r":"らんぱつ","p":true}],"sense":[{"gloss":"random firing, reckless firing, excessive issue","pos":["n","vs","vt"]}]},"sdata":[]}

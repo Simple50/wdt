@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再認識","p":true}],"r_ele":[{"r":"さいにんしき","p":true}],"sense":[{"gloss":"recognizing anew, seeing something in a new light","pos":["n","vs"]}]},"sdata":[]}

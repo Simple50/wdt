@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トリップ","p":true}],"sense":[{"gloss":"trip, excursion","pos":["n","vs"]},{"gloss":"(drug) trip","pos":["n","vs"]},{"gloss":"tripcode","pos":["n"],"f":["comp"],"m":["abbr"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"終始一貫","p":true}],"r_ele":[{"r":"しゅうしいっかん","p":true}],"sense":[{"gloss":"consistently, unchangingly, throughout","pos":["adv"]}],"m":["yoji"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地唄","p":true},{"e":"地歌"}],"r_ele":[{"r":"じうた","p":true}],"sense":[{"gloss":"(style of) folk song","pos":["n"]}]},"kdata":{"地":{"on":["チ","ジ"],"jlpt":4,"meanings":["ground","earth"],"freq":40,"comp":[["土","也"]],"t":335},"唄":{"on":["バイ"],"kun":["うた","うた.う"],"jlpt":1,"meanings":["song","ballad"],"freq":2051,"comp":[["貝","口"]],"t":1209}},"sdata":[]}

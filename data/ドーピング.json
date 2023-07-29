@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドーピング","p":true}],"sense":[{"gloss":"doping","pos":["n"]}]},"sdata":[]}

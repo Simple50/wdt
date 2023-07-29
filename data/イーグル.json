@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イーグル","p":true}],"sense":[{"gloss":"eagle (bird of prey, Accipitridae family)","pos":["n"]}]},"sdata":[]}

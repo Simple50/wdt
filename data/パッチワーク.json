@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パッチワーク","p":true}],"sense":[{"gloss":"patchwork","pos":["n"]}]},"sdata":[]}

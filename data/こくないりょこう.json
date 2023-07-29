@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国内旅行","p":true}],"r_ele":[{"r":"こくないりょこう","p":true}],"sense":[{"gloss":"domestic travel","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連帯保証","p":true}],"r_ele":[{"r":"れんたいほしょう","p":true}],"sense":[{"gloss":"joint liability on guarantee","pos":["n"]}]},"sdata":[{"j":"↑証書↑↓しょうしょ↓↑貸付↑↓かしつけ↓は↑連帯↑↓|れんたい↓↑保証↑↓ほしょう|↓↑人↑↓じん↓が↑必要↑↓ひつよう↓でした。","e":"Loan on deeds needed the joint surety."}]}

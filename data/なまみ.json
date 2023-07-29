@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生身","p":true}],"r_ele":[{"r":"なまみ","p":true},{"r":"しょうじん"}],"sense":[{"gloss":"living flesh, flesh and blood","pos":["n","adj-no"]},{"gloss":"physical body of Buddha or a bodhisattva","pos":["n","adj-no"],"f":["Buddh"]}]},"sdata":[]}

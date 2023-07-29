@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"命ずる","p":true}],"r_ele":[{"r":"めいずる","p":true}],"sense":[{"gloss":"to order, to command","pos":["vz","vt"]},{"gloss":"to appoint","pos":["vz","vt"]}]},"sdata":[]}

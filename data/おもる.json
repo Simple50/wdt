@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重る","p":true}],"r_ele":[{"r":"おもる","p":true}],"sense":[{"gloss":"to get heavy","pos":["v5r","vi"]},{"gloss":"to worsen (of illness), to grow serious","pos":["v5r","vi"]}]},"sdata":[]}

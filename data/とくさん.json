@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特産","p":true}],"r_ele":[{"r":"とくさん","p":true}],"sense":[{"gloss":"being produced in a particular region, local specialty","pos":["n","vs"]}]},"sdata":[]}

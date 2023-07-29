@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"世話人","p":true}],"r_ele":[{"r":"せわにん","p":true},{"r":"せわびと"}],"sense":[{"gloss":"sponsor, manager, go-between, mediator, agent, caretaker","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悔いる","p":true}],"r_ele":[{"r":"くいる","p":true}],"sense":[{"gloss":"to regret","pos":["v1","vt"]}]},"kdata":{"悔":{"on":["カイ"],"kun":["く.いる","く.やむ","くや.しい"],"jlpt":1,"meanings":["repent","regret"],"freq":1460,"comp":[["每","忄"]],"t":868}},"sdata":[]}

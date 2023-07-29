@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折り返し点","p":true}],"r_ele":[{"r":"おりかえしてん","p":true}],"sense":[{"gloss":"turning point, turnaround point (e.g. in a race), turning back point","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分け入る","p":true}],"r_ele":[{"r":"わけいる","p":true}],"sense":[{"gloss":"to force one's way, to push through","pos":["v5r"]}]},"sdata":[]}

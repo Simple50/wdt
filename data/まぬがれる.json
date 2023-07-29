@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"免れる","p":true}],"r_ele":[{"r":"まぬがれる","p":true},{"r":"まぬかれる"}],"sense":[{"gloss":"to escape (disaster, death, etc.), to be saved from, to be rescued from","pos":["v1"]},{"gloss":"to avoid (e.g. punishment), to evade (e.g. responsibility), to avert, to elude, to be exempted from","pos":["v1"]}]},"sdata":[]}

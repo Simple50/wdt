@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巨体","p":true}],"r_ele":[{"r":"きょたい","p":true}],"sense":[{"gloss":"huge body, large build","pos":["n"]}]},"sdata":[]}

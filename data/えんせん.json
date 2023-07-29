@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"沿線","p":true}],"r_ele":[{"r":"えんせん","p":true}],"sense":[{"gloss":"alongside a railway line, bus route, major thoroughfare, etc.","pos":["adj-no","n"]}]},"sdata":[{"j":"↑入学↑↓にゅうがく↓↑式↑↓しき↓も↑終↑↓お↓わりました。↑同↑↓おな↓じ↑沿線↑↓|えんせん|↓の↑大学↑↓だいがく↓です。","e":"I've already had the entrance ceremony. It's a university alongside the same railway line."}]}

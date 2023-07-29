@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"礼金","p":true}],"r_ele":[{"r":"れいきん","p":true}],"sense":[{"gloss":"money (given as thanks), reward money, fee, recompense, remuneration, honorarium","pos":["n"]},{"gloss":"key money, fee paid for rental rights","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"御家芸"},{"e":"お家芸","p":true}],"r_ele":[{"r":"おいえげい","p":true}],"sense":[{"gloss":"one's specialty, one's forte","pos":["n"]},{"gloss":"specialty of a kabuki school","pos":["n"]}]},"sdata":[{"j":"バンジージャンプは↑日本↑↓にほん↓の↑芸能人↑↓げいのうじん↓の|お↑家芸↑↓いえげい|↓です。","e":"Japan's performers excel in bungee jumping."}]}

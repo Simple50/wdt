@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"揺るがす","p":true}],"r_ele":[{"r":"ゆるがす","p":true}],"sense":[{"gloss":"to shake, to swing, to sway, to shock","pos":["v5s","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポッドキャスト","p":true}],"sense":[{"gloss":"podcast","pos":["n"]}]},"sdata":[{"j":"|ポッドキャスト|を↑聞↑↓き↓いています。","e":"I'm listening to a podcast."},{"j":"フランス↑語↑↓ご↓で|ポッドキャスト|を↑聴↑↓き↓いてるんだ。","e":"I'm listening to a podcast in French."}]}

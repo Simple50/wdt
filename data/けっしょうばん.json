@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"血小板","p":true}],"r_ele":[{"r":"けっしょうばん","p":true}],"sense":[{"gloss":"platelet, thrombocyte","pos":["n"],"f":["biol","anat"]}]},"sdata":[]}

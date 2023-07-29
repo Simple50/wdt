@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"群れる","p":true}],"r_ele":[{"r":"むれる","p":true}],"sense":[{"gloss":"to crowd, to flock, to swarm","pos":["v1","vi"]}]},"kdata":{"群":{"on":["グン"],"kun":["む.れる","む.れ","むら","むら.がる"],"jlpt":2,"meanings":["flock","group","crowd","herd","swarm","cluster"],"freq":1012,"comp":[["君","羊"]],"t":1766}},"sdata":[]}

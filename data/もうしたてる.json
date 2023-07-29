@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"申し立てる","p":true}],"r_ele":[{"r":"もうしたてる","p":true}],"sense":[{"gloss":"to declare, to plead","pos":["v1","vt"]}]},"sdata":[]}

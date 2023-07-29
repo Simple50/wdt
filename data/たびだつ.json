@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旅立つ","p":true},{"e":"旅だつ","i":["sK"]}],"r_ele":[{"r":"たびだつ","p":true}],"sense":[{"gloss":"to begin a trip, to depart, to embark","pos":["v5t","vi"]},{"gloss":"to die, to pass away, to depart this life","pos":["v5t","vi"]}]},"sdata":[{"j":"↑由美↑↓ゆみ↓はあさって↑大阪↑↓おおさか↓に↑旅立↑↓|たびだ↓つ|。","e":"Yumi is leaving for Osaka the day after tomorrow."}]}

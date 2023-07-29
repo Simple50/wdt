@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前節","p":true}],"r_ele":[{"r":"ぜんせつ","p":true}],"sense":[{"gloss":"preceding paragraph, section, or verse","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"甕","p":true},{"e":"瓶"}],"r_ele":[{"r":"かめ","p":true}],"sense":[{"gloss":"earthenware pot","pos":["n"]}]},"kdata":{"甕":{"on":["オウ"],"kun":["かめ","みか"],"meanings":["jar","jug","vat"],"freq":2448,"comp":[["瓦","雍"]],"jlpt":-1}},"sdata":[]}

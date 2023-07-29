@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空転","p":true}],"r_ele":[{"r":"くうてん","p":true}],"sense":[{"gloss":"racing (of an engine), idling","pos":["n","vs","vi"],"x":["空回り・1"]},{"gloss":"going in circles (of an argument, discussion, etc.), spinning one's wheels, going nowhere","pos":["n","vs","vi"]}]},"sdata":[]}

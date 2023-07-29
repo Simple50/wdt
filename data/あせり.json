@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焦り","p":true}],"r_ele":[{"r":"あせり","p":true}],"sense":[{"gloss":"impatience","pos":["n"]}]},"sdata":[{"j":"↑気持↑↓きも↓ちは↑分↑↓わ↓かるけど↑焦↑↓|あせ↓り|は↑禁物↑↓きんもつ↓だよ。","e":"I understand how you must be feeling but remember that haste makes waste."}]}

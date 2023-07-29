@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暈す","p":true},{"e":"暈かす","i":["io"]}],"r_ele":[{"r":"ぼかす","p":true}],"sense":[{"gloss":"to blur, to shade off, to gradate","pos":["v5s","vt"]},{"gloss":"to obscure, to make ambiguous","pos":["v5s","vt"]}],"m":["uk"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ケースワーカー","p":true}],"sense":[{"gloss":"caseworker","pos":["n"]}]},"sdata":[]}

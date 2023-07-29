@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"超絶","p":true}],"r_ele":[{"r":"ちょうぜつ","p":true}],"sense":[{"gloss":"transcendence, excellence, superiority","pos":["n","vs","vi"]}]},"sdata":[]}

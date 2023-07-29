@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝ぼける","p":true},{"e":"寝惚ける"}],"r_ele":[{"r":"ねぼける","p":true}],"sense":[{"gloss":"to be still half asleep, to be half awake, to be not yet quite awake","pos":["v1","vi"]}]},"sdata":[]}

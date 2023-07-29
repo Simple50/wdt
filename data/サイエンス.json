@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サイエンス","p":true}],"sense":[{"gloss":"science","pos":["n"]}]},"sdata":[{"j":"ジョーンズ↑先生↑↓せんせい↓はコンピューター|サイエンス|を↑教↑↓おし↓えています。","e":"Mrs. Jones is teaching computer science."}]}

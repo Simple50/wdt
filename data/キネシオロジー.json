@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キネシオロジー","p":true}],"sense":[{"gloss":"kinesiology","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特筆","p":true}],"r_ele":[{"r":"とくひつ","p":true}],"sense":[{"gloss":"special mention","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑功績↑↓こうせき↓は↑特筆大書↑↓|とくひつ|たいしょ↓すべきものがある。","e":"His accomplishments should be written in large letters."}]}

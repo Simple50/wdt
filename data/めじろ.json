@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目白","p":true},{"e":"眼白"}],"r_ele":[{"r":"めじろ","p":true},{"r":"メジロ"}],"sense":[{"gloss":"white-eye family of birds (Zosteropidae)","pos":["n"]},{"gloss":"Japanese white-eye (Zosterops japonicus)","pos":["n"]}],"m":["uk"]},"sdata":[]}

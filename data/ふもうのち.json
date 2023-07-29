@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不毛の地","p":true}],"r_ele":[{"r":"ふもうのち","p":true}],"sense":[{"gloss":"barren land, sterile soil, wasteland","pos":["exp","n"]}]},"sdata":[]}

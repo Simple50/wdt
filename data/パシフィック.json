@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パシフィック","p":true}],"sense":[{"gloss":"Pacific","pos":["n"]}]},"sdata":[{"j":"|パシフィック|↑通↑↓どお↓りに↑行↑↓い↓くには、このバスでいいんでしょうか。","e":"Is this the right bus for Pacific Boulevard?"}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バイオテクノロジー","p":true}],"sense":[{"gloss":"biotechnology","pos":["n"]}]},"sdata":[{"j":"|バイオテクノロジー|は↑農業↑↓のうぎょう↓に↑革命↑↓かくめい↓をもたらすだろう。","e":"Biotechnology will bring about a revolution in agriculture."},{"j":"「|バイオテクノロジー|」という↑言葉↑↓ことば↓が↑普通↑↓ふつう↓に↑使↑↓つか↓われるようになったのは、いつ↑頃↑↓ごろ↓ですか。","e":"When did the word \"biotechnology\" come into common use?"}]}

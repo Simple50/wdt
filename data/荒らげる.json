@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荒らげる","p":true}],"r_ele":[{"r":"あららげる","p":true}],"sense":[{"gloss":"to roughen (e.g. one's attitude), to raise (one's voice)","pos":["v1","vt"]}]},"kdata":{"荒":{"on":["コウ"],"kun":["あ.らす","あ.れる","あら.い","すさ.ぶ","すさ.む","あ.らし"],"jlpt":2,"meanings":["laid waste","rough","rude","wild"],"freq":1099,"comp":[["川","亡","艹"]],"d":["慌","謊","𩺊"],"t":954}},"sdata":[]}

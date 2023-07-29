@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"妙技","p":true}],"r_ele":[{"r":"みょうぎ","p":true}],"sense":[{"gloss":"exquisite skill, wonderful performance","pos":["n"]}]},"sdata":[{"j":"その↑選手↑↓せんしゅ↓は↑妙技↑↓|みょうぎ|↓を↑演↑↓えん↓じた。","e":"The player performed a wonderful feat."},{"j":"↑道化↑↓どうけ↓の↑妙技↑↓|みょうぎ|↓は↑少年↑↓しょうねん↓↑達↑↓たち↓にとってとても↑楽↑↓たの↓しかった。","e":"The clown's stunts were highly amusing to the boys."}]}

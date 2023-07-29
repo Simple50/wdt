@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重金属","p":true}],"r_ele":[{"r":"じゅうきんぞく","p":true}],"sense":[{"gloss":"heavy metals","pos":["n"]}]},"sdata":[]}

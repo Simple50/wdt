@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"返礼","p":true}],"r_ele":[{"r":"へんれい","p":true}],"sense":[{"gloss":"return present, return gift, something done in return (as way of thanks)","pos":["n","vs"]},{"gloss":"retaliation, revenge","pos":["n","vs"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑彼↑↓かれ↓の↑好意↑↓こうい↓の↑返礼↑↓|へんれい|↓に↑贈↑↓おく↓り↑物↑↓もの↓をした。","e":"I gave him a present in return for his favor."}]}

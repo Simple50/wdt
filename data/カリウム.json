@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カリウム","p":true}],"sense":[{"gloss":"potassium (K)","pos":["n","adj-no"],"l":"ger: Kalium"}]},"sdata":[]}

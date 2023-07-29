@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"元老","p":true}],"r_ele":[{"r":"げんろう","p":true}],"sense":[{"gloss":"elder statesman, doyen, old-timer, authority","pos":["n"]},{"gloss":"genrō (member of a pre-WWII body that informally advised the emperor)","pos":["n"],"m":["hist"]}]},"sdata":[]}

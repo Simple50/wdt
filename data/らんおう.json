@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卵黄","p":true}],"r_ele":[{"r":"らんおう","p":true}],"sense":[{"gloss":"egg yolk","pos":["n"]}]},"sdata":[]}

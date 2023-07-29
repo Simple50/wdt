@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特約","p":true}],"r_ele":[{"r":"とくやく","p":true}],"sense":[{"gloss":"special contract, special agreement, rider (insurance)","pos":["n","vs","vt"]}]},"sdata":[]}

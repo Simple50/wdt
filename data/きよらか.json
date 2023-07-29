@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"清らか","p":true}],"r_ele":[{"r":"きよらか","p":true}],"sense":[{"gloss":"clean, clear","pos":["adj-na"],"x":["清い・1"]},{"gloss":"pure, honest, clean, innocent, platonic, chaste","pos":["adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナイトクラブ","p":true},{"r":"ナイト・クラブ"}],"sense":[{"gloss":"nightclub","pos":["n"]}]},"sdata":[{"j":"↑旅行↑↓りょこう↓↑者↑↓しゃ↓は、その|ナイトクラブ|でむしり↑取↑↓と↓られた。","e":"The tourists were ripped off at the nightclub."},{"j":"フラメンコを↑踊↑↓おど↓る|ナイトクラブ|もある。","e":"There are also nightclubs where you dance flamenco."}]}

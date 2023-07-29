@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"期待感","p":true}],"r_ele":[{"r":"きたいかん","p":true}],"sense":[{"gloss":"sense of anticipation, feeling of expectation, feeling of hope","pos":["n"]}]},"sdata":[]}

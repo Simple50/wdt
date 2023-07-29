@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中産階級","p":true}],"r_ele":[{"r":"ちゅうさんかいきゅう","p":true}],"sense":[{"gloss":"middle class, bourgeoisie","pos":["n","adj-no"]}]},"sdata":[]}

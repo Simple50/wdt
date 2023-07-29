@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"保証金","p":true}],"r_ele":[{"r":"ほしょうきん","p":true}],"sense":[{"gloss":"deposit (esp. on renting a house), security money, bond payment, guarantee","pos":["n"]}]},"sdata":[]}

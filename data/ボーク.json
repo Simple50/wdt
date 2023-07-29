@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボーク","p":true}],"sense":[{"gloss":"balk","pos":["n"],"f":["baseb"]}]},"sdata":[]}

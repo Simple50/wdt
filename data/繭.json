@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"繭","p":true}],"r_ele":[{"r":"まゆ","p":true}],"sense":[{"gloss":"cocoon","pos":["n"]}]},"kdata":{"繭":{"on":["ケン"],"kun":["まゆ","きぬ"],"jlpt":1,"meanings":["cocoon"],"freq":2495,"comp":[["艹","巾","糸","虫"]],"d":["襺"]}},"sdata":[{"j":"↑蚕↑↓かいこ↓は|↑繭|↑↓まゆ↓を↑作↑↓つく↓る。","e":"Silkworms spin cocoons."}]}

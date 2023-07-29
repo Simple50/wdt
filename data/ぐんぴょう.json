@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍票","p":true}],"r_ele":[{"r":"ぐんぴょう","p":true}],"sense":[{"gloss":"military scrip","pos":["n"]}]},"sdata":[]}

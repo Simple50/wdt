@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"履物","p":true},{"e":"履き物"}],"r_ele":[{"r":"はきもの","p":true}],"sense":[{"gloss":"footwear, footgear, shoes","pos":["n"]}]},"sdata":[{"j":"↑嘘↑↓うそ↓↑吐↑↓|は↓きもの|にされちゃった。","e":"I was made out to be a liar."},{"j":"↑彼女↑↓かのじょ↓|は↑着物↑↓きもの|↓に↑金↑↓きん↓を↑全部↑↓ぜんぶ↓↑使↑↓つか↓ってしまうほどばかではない。","e":"She knows better than to spend all her money on clothes."}]}

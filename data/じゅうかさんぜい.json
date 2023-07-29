@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重加算税","p":true}],"r_ele":[{"r":"じゅうかさんぜい","p":true}],"sense":[{"gloss":"heavy additional tax(ation)","pos":["n"]}]},"sdata":[]}

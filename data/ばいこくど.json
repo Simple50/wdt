@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売国奴","p":true}],"r_ele":[{"r":"ばいこくど","p":true}],"sense":[{"gloss":"traitor (to one's country), quisling","pos":["n"]}],"m":["derog"]},"sdata":[{"j":"↑日本↑↓にっぽん↓には↑売国奴↑↓|ばいこくど|↓↑政党↑↓せいとう↓がいます。","e":"There is a political party in Japan that would sell out its own country."}]}

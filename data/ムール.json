@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ムール","p":true}],"sense":[{"gloss":"mussels","pos":["n"],"l":"fre: moule"}]},"sdata":[{"j":"|ムール|↑貝↑↓がい↓は↑好↑↓す↓き？","e":"Do you like mussels?"}]}

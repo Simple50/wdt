@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き刺さる","p":true},{"e":"突刺さる"},{"e":"突きささる","i":["sK"]}],"r_ele":[{"r":"つきささる","p":true}],"sense":[{"gloss":"to stick (into), to pierce","pos":["v5r","vi"]}]},"sdata":[]}

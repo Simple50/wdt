@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"装身具","p":true}],"r_ele":[{"r":"そうしんぐ","p":true}],"sense":[{"gloss":"personal accessories (ornaments, adornments)","pos":["n"]}]},"sdata":[]}

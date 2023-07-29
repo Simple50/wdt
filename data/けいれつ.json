@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"系列","p":true}],"r_ele":[{"r":"けいれつ","p":true}],"sense":[{"gloss":"series, sequence, system, succession","pos":["n"]},{"gloss":"keiretsu (group), conglomeration of businesses linked by cross-shareholdings","pos":["n"]},{"gloss":"affiliated, subsidiary","pos":["adj-no"]}]},"sdata":[]}

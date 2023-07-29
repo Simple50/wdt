@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アールデコ","p":true},{"r":"アール・デコ"}],"sense":[{"gloss":"art deco","pos":["n"],"l":"fre: art déco"}]},"sdata":[]}

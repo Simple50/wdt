@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"南北問題","p":true}],"r_ele":[{"r":"なんぼくもんだい","p":true}],"sense":[{"gloss":"North-South problem","pos":["n"]}]},"sdata":[]}

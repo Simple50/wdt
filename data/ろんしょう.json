@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"論証","p":true}],"r_ele":[{"r":"ろんしょう","p":true}],"sense":[{"gloss":"proof, certain truth, demonstration, argumentation","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱調","p":true}],"r_ele":[{"r":"らんちょう","p":true}],"sense":[{"gloss":"confusion","pos":["n"]}]},"sdata":[]}

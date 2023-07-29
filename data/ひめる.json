@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秘める","p":true}],"r_ele":[{"r":"ひめる","p":true}],"sense":[{"gloss":"to hide, to keep to oneself","pos":["v1","vt"]}]},"sdata":[]}

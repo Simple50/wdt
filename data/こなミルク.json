@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"粉ミルク","p":true}],"r_ele":[{"r":"こなミルク","p":true}],"sense":[{"gloss":"milk powder","pos":["n"]},{"gloss":"baby formula, infant formula, formula, baby milk","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓で、↑粉↑↓|こな↓ミルク|から↑放射↑↓ほうしゃ↓↑性↑↓せい↓セシウムが↑検出↑↓けんしゅつ↓された。","e":"In Japan, radioactive cesium was detected in baby formula."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シビア","p":true},{"r":"シビアー"},{"r":"シビヤ"},{"r":"シビヤー"}],"sense":[{"gloss":"severe, strict, tough, hard","pos":["adj-na"]}]},"sdata":[]}

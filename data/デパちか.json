@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"デパ地下","p":true}],"r_ele":[{"r":"デパちか","p":true},{"r":"デパチカ"}],"sense":[{"gloss":"basement of a department store (where foodstuffs are usually sold)","pos":["n"]}],"m":["col","abbr"]},"sdata":[]}

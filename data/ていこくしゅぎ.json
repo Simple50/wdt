@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"帝国主義","p":true}],"r_ele":[{"r":"ていこくしゅぎ","p":true}],"sense":[{"gloss":"imperialism","pos":["n","adj-no"]}]},"sdata":[]}

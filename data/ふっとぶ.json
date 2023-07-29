@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吹っ飛ぶ","p":true}],"r_ele":[{"r":"ふっとぶ","p":true}],"sense":[{"gloss":"to blow off, to be blown off","pos":["v5b","vi"]}]},"sdata":[]}

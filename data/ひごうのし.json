@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"非業の死","p":true}],"r_ele":[{"r":"ひごうのし","p":true}],"sense":[{"gloss":"unnatural death, violent death","pos":["exp","n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑非業↑↓|ひごう↓の↑死↑↓し|↓を↑聞↑↓き↓いた↑時↑↓とき↓、↑彼↑↓かれ↓の↑妻↑↓つま↓は↑悲↑↓かな↓しみで↑気↑↓き↓も↑狂↑↓くる↓わんばかりだった。","e":"When his wife heard of his violent death, she was beside herself with grief."}]}

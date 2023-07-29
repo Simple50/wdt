@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鋭角","p":true}],"r_ele":[{"r":"えいかく","p":true}],"sense":[{"gloss":"acute angle","pos":["n"],"x":["鈍角"]}]},"sdata":[]}

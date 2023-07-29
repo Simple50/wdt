@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"憧れの的","p":true}],"r_ele":[{"r":"あこがれのまと","p":true}],"sense":[{"gloss":"object of adoration, longing","pos":["exp","n"]}]},"sdata":[]}

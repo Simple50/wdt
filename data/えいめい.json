@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"英明","p":true}],"r_ele":[{"r":"えいめい","p":true}],"sense":[{"gloss":"intelligent, wise, bright, brilliant, clear-sighted","pos":["adj-na","n"]}]},"sdata":[]}

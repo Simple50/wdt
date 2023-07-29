@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"排便","p":true}],"r_ele":[{"r":"はいべん","p":true}],"sense":[{"gloss":"defecation","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑排便↑↓|はいべん|↓の↑際↑↓さい↓↑出血↑↓しゅっけつ↓します。","e":"I bleed when I have bowel movements."},{"j":"このウェブサイトで|はイベン|トの↑情報↑↓じょうほう↓を↑調↑↓しら↓べることができます。","e":"You can look up information about the event on this website."}]}

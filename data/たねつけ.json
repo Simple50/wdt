@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"種付け","p":true},{"e":"種付"}],"r_ele":[{"r":"たねつけ","p":true}],"sense":[{"gloss":"mating","pos":["n","vs"]}]},"sdata":[]}

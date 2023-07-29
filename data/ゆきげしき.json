@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雪景色","p":true}],"r_ele":[{"r":"ゆきげしき","p":true}],"sense":[{"gloss":"snow scene, snowscape, snowy landscape","pos":["n"]}]},"sdata":[{"j":"↑見渡↑↓みわた↓す↑限↑↓かぎ↓り↑一↑↓いち↓↑面↑↓めん↓の↑雪景色↑↓|ゆきげしき|↓だった。","e":"Everything was covered with snow as far as the eye could see."}]}

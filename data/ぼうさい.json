@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防災","p":true}],"r_ele":[{"r":"ぼうさい","p":true}],"sense":[{"gloss":"disaster preparedness, prevention of damage resulting from a natural disaster, protection against disaster","pos":["n"]}]},"sdata":[]}

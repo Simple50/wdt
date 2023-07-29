@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アベック","p":true}],"sense":[{"gloss":"(romantic) couple","pos":["n"],"m":["dated"],"x":["カップル"],"l":"fre: avec"},{"gloss":"back-to-back (e.g. home runs), double, dual (e.g. victory), tandem (e.g. flight)","pos":["adj-f"],"x":["アベックホームラン"]}]},"sdata":[{"j":"↑公園↑↓こうえん↓にたくさんの|アベック|がいた。","e":"There were a lot of young couples in the park."}]}

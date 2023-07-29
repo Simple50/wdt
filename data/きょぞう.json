@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虚像","p":true}],"r_ele":[{"r":"きょぞう","p":true}],"sense":[{"gloss":"virtual image","pos":["n","adj-no"],"f":["physics"],"x":["実像・じつぞう・1"]},{"gloss":"false image, pretense, pretence","pos":["n","adj-no"],"x":["実像・じつぞう・2"]}]},"sdata":[]}

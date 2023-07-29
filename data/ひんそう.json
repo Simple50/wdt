@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貧相","p":true},{"e":"貧素","i":["iK"]}],"r_ele":[{"r":"ひんそう","p":true}],"sense":[{"gloss":"seedy-looking, thin","pos":["adj-na","n"]}]},"sdata":[{"j":"↑貧相↑↓|ひんそう|↓な↑身↑↓み↓なりをしているからといって、↑人↑↓ひと↓を↑軽↑↓けい↓べつしてはいけない。","e":"You must not despise a man because he is poorly dressed."}]}

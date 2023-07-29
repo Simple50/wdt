@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一周忌","p":true}],"r_ele":[{"r":"いっしゅうき","p":true}],"sense":[{"gloss":"first anniversary of a person's death","pos":["n"],"x":["忌日・きにち・1"]}]},"sdata":[]}

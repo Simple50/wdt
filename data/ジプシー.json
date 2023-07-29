@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジプシー","p":true}],"sense":[{"gloss":"gypsy, gipsy","pos":["n"],"x":["ロマ"]}],"m":["sens"]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑慈善↑↓じぜん↓の↑気持↑↓きも↓ちからその|ジプシー|たちに↑衣服↑↓いふく↓を↑与↑↓あた↓えた。","e":"She gave clothes to the gypsies out of charity."}]}

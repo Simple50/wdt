@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吃る","p":true}],"r_ele":[{"r":"どもる","p":true}],"sense":[{"gloss":"to stammer, to stutter","pos":["v5r","vi"]}],"m":["uk"]},"kdata":{"吃":{"on":["キツ"],"kun":["ども.る"],"meanings":["stammer"],"comp":[["乞","口"]],"jlpt":-1,"freq":3055}},"sdata":[]}

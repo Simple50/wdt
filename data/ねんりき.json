@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"念力","p":true}],"r_ele":[{"r":"ねんりき","p":true}],"sense":[{"gloss":"willpower, faith","pos":["n"]},{"gloss":"telekinesis, psychokinesis","pos":["n"]}]},"sdata":[]}

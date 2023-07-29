@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"如月","p":true},{"e":"衣更着"},{"e":"更衣"}],"r_ele":[{"r":"きさらぎ","p":true},{"r":"じょげつ"},{"r":"きぬさらぎ"}],"sense":[{"gloss":"second month of the lunar calendar","pos":["n"]}],"m":["obs"]},"sdata":[]}

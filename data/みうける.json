@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見受ける","p":true},{"e":"見うける"}],"r_ele":[{"r":"みうける","p":true}],"sense":[{"gloss":"to catch sight of, to see, to suppose, to assume from appearances","pos":["v1","vt"]}]},"sdata":[]}

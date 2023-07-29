@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブンド","p":true}],"sense":[{"gloss":"bond","pos":["n"],"l":"ger: Bund"}]},"sdata":[]}

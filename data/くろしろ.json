@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒白","p":true}],"r_ele":[{"r":"くろしろ","p":true},{"r":"こくはく"},{"r":"こくびゃく"}],"sense":[{"gloss":"black and white, right and wrong","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑黒白↑↓|くろしろ|↓まだらの↑犬↑↓いぬ↓を↑飼↑↓か↓っている。","e":"I have a black and white dog."}]}

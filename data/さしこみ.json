@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"差し込み","p":true},{"e":"差込み"},{"e":"差込","i":["io"]}],"r_ele":[{"r":"さしこみ","p":true}],"sense":[{"gloss":"insertion","pos":["n"]},{"gloss":"plug, (electrical) outlet, power point","pos":["n"]},{"gloss":"spasm of pain, griping pain, (fit of) convulsions, stitch","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゴルジュ","p":true},{"r":"ゴージ"}],"sense":[{"gloss":"canyon, gorge","pos":["n"],"l":"fre"}]},"sdata":[]}

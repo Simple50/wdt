@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抜かる","p":true}],"r_ele":[{"r":"ぬかる","p":true}],"sense":[{"gloss":"to make a mistake","pos":["v5r","vi"]}]},"kdata":{"抜":{"on":["バツ","ハツ","ハイ"],"kun":["ぬ.く","-ぬ.く","ぬ.き","ぬ.ける","ぬ.かす","ぬ.かる"],"jlpt":3,"meanings":["extract","slip out","extract","pull out","pilfer","quote","remove","omit"],"freq":726,"comp":[["扌","友"]],"t":515}},"sdata":[]}

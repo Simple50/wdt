@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一昨日","p":true}],"r_ele":[{"r":"おととい","p":true,"i":["gikun"]},{"r":"おとつい","i":["gikun"]},{"r":"いっさくじつ","p":true}],"sense":[{"gloss":"day before yesterday","pos":["n","adv"]}]},"sdata":[{"j":"「↑何時↑↓いつ↓↑帰↑↓かえ↓ってきたのですか」「↑一昨日↑↓|いっさくじつ|↓です」","e":"When did you return? \"I came back the day before yesterday.\""}]}

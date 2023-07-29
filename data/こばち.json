@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小鉢","p":true}],"r_ele":[{"r":"こばち","p":true}],"sense":[{"gloss":"small bowl","pos":["n"]}]},"sdata":[]}

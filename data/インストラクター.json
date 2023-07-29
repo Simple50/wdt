@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インストラクター","p":true}],"sense":[{"gloss":"instructor","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は２０↑代↑↓だい↓にエアロビクスの|インストラクター|として↑働↑↓はたら↓いていた。","e":"She worked as an aerobics instructor in her twenties."},{"j":"トムはスキーの|インストラクター|だ。","e":"Tom is a ski instructor."},{"j":"トムはスカイダイビングの|インストラクター|なんだ。","e":"Tom is a skydiving instructor."}]}

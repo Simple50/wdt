@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"溜める","p":true}],"r_ele":[{"r":"ためる","p":true}],"sense":[{"gloss":"to amass, to accumulate, to store","pos":["v1","vt"]},{"gloss":"to leave unpaid","pos":["v1","vt"]}]},"kdata":{"溜":{"on":["リュウ"],"kun":["た.まる","たま.る","た.める","したた.る","たまり","ため"],"meanings":["collect","gather","be in arrears"],"freq":2451,"comp":[["留","氵"]],"jlpt":0,"t":1848}},"sdata":[]}

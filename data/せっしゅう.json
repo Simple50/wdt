@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"接収","p":true}],"r_ele":[{"r":"せっしゅう","p":true}],"sense":[{"gloss":"requisition, requisitioning, seizure, confiscation, impounding, retaining (e.g. deposit)","pos":["n","vs","vt"]}]},"sdata":[]}

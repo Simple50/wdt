@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"残務","p":true}],"r_ele":[{"r":"ざんむ","p":true}],"sense":[{"gloss":"remaining business","pos":["n"]}]},"sdata":[]}

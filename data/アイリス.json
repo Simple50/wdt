@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アイリス","p":true}],"sense":[{"gloss":"iris","pos":["n"]}]},"sdata":[{"j":"|アイリス|、↑君↑↓きみ↓は↑普段↑↓ふだん↓↑朝食↑↓ちょうしょく↓は↑何↑↓なに↓を↑食↑↓た↓べているの？","e":"Iris, what do you usually eat for breakfast?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"壁面","p":true}],"r_ele":[{"r":"へきめん","p":true}],"sense":[{"gloss":"surface of a wall","pos":["n"]}]},"sdata":[]}

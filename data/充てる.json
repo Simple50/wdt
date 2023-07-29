@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"充てる","p":true}],"r_ele":[{"r":"あてる","p":true}],"sense":[{"gloss":"to assign, to set aside","pos":["v1","vt"]}]},"kdata":{"充":{"on":["ジュウ"],"kun":["あ.てる","み.たす"],"jlpt":1,"meanings":["fill","allot"],"freq":949,"comp":[["𠫓","儿"]],"d":["統","銃","茺"],"s":"去","t":308}},"sdata":[]}

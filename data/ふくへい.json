@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伏兵","p":true}],"r_ele":[{"r":"ふくへい","p":true}],"sense":[{"gloss":"ambush, troops in ambush","pos":["n"]},{"gloss":"unexpected opposition, unexpected obstacle","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑伏兵↑↓|ふくへい|↓に↑会↑↓あ↓って↑惨死↑↓ざんし↓しました。","e":"He met with a tragic death in an ambush."}]}

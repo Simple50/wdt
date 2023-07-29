@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボーカル","p":true},{"r":"ヴォーカル"}],"sense":[{"gloss":"vocal (performance), vocals, singing","pos":["n","adj-no"]},{"gloss":"vocalist, singer","pos":["n"]}]},"sdata":[{"j":"トムはうちのバンドの|ボーカル|の↑一↑↓ひと↓↑人↑↓り↓です。","e":"Tom is one of the singers in my band."}]}

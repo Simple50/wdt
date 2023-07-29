@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詔","p":true},{"e":"勅","p":true},{"e":"御言宣"}],"r_ele":[{"r":"みことのり","p":true},{"r":"ちょく","p":true},{"r":"しょう"}],"sense":[{"gloss":"imperial decree, imperial edict","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リトグラフ","p":true}],"sense":[{"gloss":"lithograph","pos":["n"]}]},"sdata":[]}

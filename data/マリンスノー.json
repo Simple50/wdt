@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マリンスノー","p":true},{"r":"マリン・スノー"}],"sense":[{"gloss":"marine snow","pos":["n"],"x":["海雪"]}]},"sdata":[]}

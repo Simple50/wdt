@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"疑獄","p":true}],"r_ele":[{"r":"ぎごく","p":true}],"sense":[{"gloss":"bribery scandal, graft case","pos":["n"]}]},"sdata":[]}

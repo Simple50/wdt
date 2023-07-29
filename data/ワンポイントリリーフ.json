@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワンポイントリリーフ","p":true},{"r":"ワン・ポイント・リリーフ"}],"sense":[{"gloss":"relief pitcher brought in to face one batter","pos":["n"],"f":["baseb"],"l":"eng: one-point relief"}]},"sdata":[]}

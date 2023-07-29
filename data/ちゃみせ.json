@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"茶店","p":true}],"r_ele":[{"r":"さてん"},{"r":"ちゃみせ","p":true}],"sense":[{"gloss":"tea house","pos":["n"]}]},"sdata":[]}

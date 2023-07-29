@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国語辞典","p":true}],"r_ele":[{"r":"こくごじてん","p":true}],"sense":[{"gloss":"Japanese-language dictionary","pos":["n"]},{"gloss":"dictionary of a national language","pos":["n"]}]},"sdata":[]}

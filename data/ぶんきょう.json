@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文教","p":true}],"r_ele":[{"r":"ぶんきょう","p":true}],"sense":[{"gloss":"education, culture","pos":["n"]}]},"sdata":[{"j":"↑多分↑↓た|ぶん↓↑今日↑↓きょう|↓は↑雨↑↓あめ↓が↑降↑↓ふ↓るでしょう。","e":"The chances are that it will rain today."},{"j":"↑彼等↑↓かれら↓は↑兵士↑↓へいし↓↑達↑↓たち↓に↑水↑↓みず↓と↑食料↑↓しょくりょう↓を↑十分↑↓じゅう|ぶん↓↑供給↑↓きょう|きゅう↓した。","e":"They supplied the soldiers with enough food and water."}]}

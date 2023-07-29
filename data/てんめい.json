@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"店名","p":true}],"r_ele":[{"r":"てんめい","p":true}],"sense":[{"gloss":"store name, shop name, restaurant name","pos":["n"]}]},"sdata":[{"j":"↑人事↑↓じんじ↓を↑尽↑↓つ↓くして↑天命↑↓|てんめい|↓を↑待↑↓ま↓つ。","e":"Man proposes, God disposes."}]}

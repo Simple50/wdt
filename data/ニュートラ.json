@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニュートラ","p":true}],"sense":[{"gloss":"new traditional","pos":["n"]}],"m":["abbr"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"厚生施設","p":true}],"r_ele":[{"r":"こうせいしせつ","p":true}],"sense":[{"gloss":"welfare facilities","pos":["n"]}]},"sdata":[]}

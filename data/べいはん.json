@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"米飯","p":true}],"r_ele":[{"r":"べいはん","p":true}],"sense":[{"gloss":"cooked rice","pos":["n"]}]},"sdata":[]}

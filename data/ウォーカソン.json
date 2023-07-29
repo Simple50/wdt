@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウォーカソン","p":true}],"sense":[{"gloss":"walkathon","pos":["n"]}]},"sdata":[]}

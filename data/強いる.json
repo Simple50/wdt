@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"強いる","p":true}],"r_ele":[{"r":"しいる","p":true}],"sense":[{"gloss":"to force, to compel, to coerce, to press, to impose","pos":["v1","vt"]}]},"kdata":{"強":{"on":["キョウ","ゴウ"],"kun":["つよ.い","つよ.まる","つよ.める","し.いる","こわ.い"],"jlpt":4,"meanings":["strong"],"freq":112,"comp":[["弘","虫"]],"t":1274}},"sdata":[]}

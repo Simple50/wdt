@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"秒読み","p":true}],"r_ele":[{"r":"びょうよみ","p":true}],"sense":[{"gloss":"countdown","pos":["n"]}]},"sdata":[{"j":"ついに↑彼↑↓かれ↓らは↑用心↑↓ようじん↓しながら↑秒読↑↓|びょうよ↓み|を↑開始↑↓かいし↓した。","e":"At last, they began to count down cautiously."}]}

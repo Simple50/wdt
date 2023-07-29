@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"煎茶","p":true}],"r_ele":[{"r":"せんちゃ","p":true}],"sense":[{"gloss":"green tea, green leaf tea, non-powdered tea (as opposed to matcha)","pos":["n"],"x":["抹茶"]},{"gloss":"medium-grade green tea","pos":["n"],"x":["玉露・1","番茶"]}]},"sdata":[{"j":"↑先着↑↓|せんちゃ|く↓↑順↑↓じゅん↓に↑並↑↓なら↓んでください。","e":"Please line up in order of arrival."}]}

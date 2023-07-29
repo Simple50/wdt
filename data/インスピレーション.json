@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インスピレーション","p":true},{"r":"インスピレイション"}],"sense":[{"gloss":"inspiration","pos":["n"]}]},"sdata":[]}

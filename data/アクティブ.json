@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アクティブ","p":true},{"r":"アクティヴ"},{"r":"アクチブ"}],"sense":[{"gloss":"active","pos":["adj-na"]}]},"sdata":[]}

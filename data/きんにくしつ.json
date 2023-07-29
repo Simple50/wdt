@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"筋肉質","p":true}],"r_ele":[{"r":"きんにくしつ","p":true}],"sense":[{"gloss":"muscular","pos":["adj-na","adj-no","n"]},{"gloss":"lean (of a company's operations, etc.)","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

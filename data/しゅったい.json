@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出来","p":true}],"r_ele":[{"r":"しゅったい","p":true},{"r":"しゅつらい"}],"sense":[{"gloss":"occurrence, happening, taking place","pos":["n","vs","vi"]},{"gloss":"completion","pos":["n","vs","vi"]}]},"sdata":[]}

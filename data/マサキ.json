@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"正木","p":true},{"e":"柾"}],"r_ele":[{"r":"まさき"},{"r":"マサキ","p":true}],"sense":[{"gloss":"Japanese spindletree (Euonymus japonicus)","pos":["n"]}]},"sdata":[]}

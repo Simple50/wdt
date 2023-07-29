@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気遣わしい","p":true},{"e":"気づかわしい"}],"r_ele":[{"r":"きづかわしい","p":true}],"sense":[{"gloss":"anxiously, with anxious looks, with anxiety","pos":["adj-i"]}]},"sdata":[]}

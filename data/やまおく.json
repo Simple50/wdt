@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山奥","p":true}],"r_ele":[{"r":"やまおく","p":true}],"sense":[{"gloss":"deep in the mountains, mountain recesses","pos":["n"]}]},"sdata":[{"j":"トムは↑山奥↑↓|やまおく|↓にある↑人里↑↓ひとざと↓↑離↑↓はな↓れた↑村↑↓むら↓で↑育↑↓そだ↓ちました。","e":"Tom grew up in an isolated village deep in the mountains."}]}

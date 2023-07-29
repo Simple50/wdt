@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縫い針","p":true},{"e":"縫針"}],"r_ele":[{"r":"ぬいばり","p":true}],"sense":[{"gloss":"sewing needle","pos":["n"]}]},"sdata":[]}

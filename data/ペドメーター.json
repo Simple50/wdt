@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペドメーター","p":true}],"sense":[{"gloss":"pedometer","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天丼","p":true}],"r_ele":[{"r":"てんどん","p":true}],"sense":[{"gloss":"tempura donburi, tempura served over a bowl of rice","pos":["n"],"f":["food"],"m":["abbr"]},{"gloss":"(in comedy) repeating the same gag or silly line","pos":["n"],"m":["col"]}]},"sdata":[]}

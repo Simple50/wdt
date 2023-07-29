@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安値","p":true}],"r_ele":[{"r":"やすね","p":true}],"sense":[{"gloss":"low price","pos":["n","adj-no"]}]},"sdata":[]}

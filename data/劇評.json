@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"劇評","p":true}],"r_ele":[{"r":"げきひょう","p":true}],"sense":[{"gloss":"drama criticism","pos":["n"]}]},"kdata":{"劇":{"on":["ゲキ"],"jlpt":2,"meanings":["drama","play"],"freq":662,"comp":[["豦","刂"]],"t":1979},"評":{"on":["ヒョウ"],"jlpt":1,"meanings":["evaluate","criticism","comment"],"freq":454,"comp":[["言","平"]],"t":1607}},"sdata":[]}

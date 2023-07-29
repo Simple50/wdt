@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き渡す","p":true},{"e":"引渡す"},{"e":"引きわたす"}],"r_ele":[{"r":"ひきわたす","p":true}],"sense":[{"gloss":"to deliver, to extradite, to stretch across, to hand over","pos":["v5s","vt"]}]},"sdata":[{"j":"↑最終↑↓さいしゅう↓↑的↑↓てき↓に↑我々↑↓われわれ↓は↑彼↑↓かれ↓を↑警察↑↓けいさつ↓に↑引↑↓|ひ↓き↑渡↑↓わた↓す|ことにした。","e":"We finally decided to give him over to the police."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神学校","p":true}],"r_ele":[{"r":"しんがっこう","p":true}],"sense":[{"gloss":"theological school, seminary","pos":["n"]}]},"sdata":[]}

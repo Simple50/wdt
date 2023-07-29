@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下働き","p":true}],"r_ele":[{"r":"したばたらき","p":true}],"sense":[{"gloss":"subordinate work, assistant","pos":["n"]},{"gloss":"domestic duties, servant, maid, houseboy","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はある↑金持↑↓かねも↓ちの↑家↑↓いえ↓の↑下働↑↓|したばたら↓き|をしていた。","e":"He worked for a rich man."}]}

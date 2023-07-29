@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"保護鳥","p":true}],"r_ele":[{"r":"ほごちょう","p":true}],"sense":[{"gloss":"protected bird","pos":["n"]}]},"sdata":[]}

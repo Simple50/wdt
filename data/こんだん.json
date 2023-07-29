@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"懇談","p":true}],"r_ele":[{"r":"こんだん","p":true}],"sense":[{"gloss":"informal talk","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"みんなで↑一斉↑↓いっせい↓に↑水↑↓みず↓に↑飛↑↓と↓び↑込↑↓|こ↓んだん|だ。","e":"We all jumped into the water at the same time."},{"j":"あいつら↑水↑↓みず↓の↑中↑↓なか↓に↑飛↑↓と↓び↑込↑↓|こ↓んだん|だ。","e":"They jumped into the water."}]}

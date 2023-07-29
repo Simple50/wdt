@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"グアテマラ共和国","p":true}],"r_ele":[{"r":"グアテマラきょうわこく","p":true}],"sense":[{"gloss":"Republic of Guatemala","pos":["n"]}]},"sdata":[]}

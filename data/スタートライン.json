@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スタートライン","p":true},{"r":"スタート・ライン"}],"sense":[{"gloss":"starting line, starting point","pos":["n"],"l":"eng: start line"}]},"sdata":[]}

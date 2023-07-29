@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"街頭募金","p":true}],"r_ele":[{"r":"がいとうぼきん","p":true}],"sense":[{"gloss":"streetside fundraising","pos":["n"]}]},"sdata":[]}

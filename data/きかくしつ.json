@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"企画室","p":true}],"r_ele":[{"r":"きかくしつ","p":true}],"sense":[{"gloss":"planning office","pos":["n"]}]},"sdata":[]}

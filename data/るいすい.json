@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"類推","p":true}],"r_ele":[{"r":"るいすい","p":true}],"sense":[{"gloss":"analogy","pos":["n","vs","vt"]},{"gloss":"analogical reasoning, analogical inference","pos":["n","vs","vt"],"f":["logic"]},{"gloss":"analogy","pos":["n","vs","vt"],"f":["ling"]}]},"sdata":[]}

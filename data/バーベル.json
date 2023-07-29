@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バーベル","p":true}],"sense":[{"gloss":"barbell","pos":["n"]}]},"sdata":[{"j":"↑女性↑↓じょせい↓ではあるが、↑彼女↑↓かのじょ↓はこの|バーベル|を↑持↑↓も↓ち↑上↑↓あ↓げられる。","e":"Woman as she is, she can lift this barbell."}]}

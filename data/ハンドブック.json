@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハンドブック","p":true}],"sense":[{"gloss":"handbook","pos":["n"]}]},"sdata":[]}

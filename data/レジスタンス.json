@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レジスタンス","p":true}],"sense":[{"gloss":"resistance (movement)","pos":["n"],"l":"fre: résistance"},{"gloss":"popular resistance against a military invasion (esp. of that by the French against the Nazis in World War II)","pos":["n"]}]},"sdata":[]}

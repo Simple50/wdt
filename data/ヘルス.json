@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘルス","p":true}],"sense":[{"gloss":"health","pos":["n"]},{"gloss":"type of brothel/massage parlor (parlour)","pos":["n"],"m":["abbr"],"x":["ファッションヘルス"]}]},"sdata":[]}

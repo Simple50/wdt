@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エクステンション","p":true},{"r":"エキステンション","i":["ik"]}],"sense":[{"gloss":"extension","pos":["n"]}]},"sdata":[]}

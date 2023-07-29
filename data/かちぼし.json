@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勝ち星","p":true}],"r_ele":[{"r":"かちぼし","p":true}],"sense":[{"gloss":"(mark indicating) a win","pos":["n"]}]},"sdata":[]}

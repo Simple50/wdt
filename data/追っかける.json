@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追っかける","p":true},{"e":"追っ掛ける","p":true}],"r_ele":[{"r":"おっかける","p":true}],"sense":[{"gloss":"to chase, to run after, to pursue","pos":["v1","vt"]}]},"kdata":{"追":{"on":["ツイ"],"kun":["お.う"],"jlpt":3,"meanings":["chase","drive away","follow","pursue","meanwhile"],"freq":411,"comp":[["𠂤","辶"]],"d":["槌","鎚","縋","搥","磓"],"s":"過","t":965}},"sdata":[]}

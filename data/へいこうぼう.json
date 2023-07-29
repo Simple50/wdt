@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平行棒","p":true}],"r_ele":[{"r":"へいこうぼう","p":true}],"sense":[{"gloss":"parallel bars","pos":["n"]}]},"sdata":[{"j":"その↑少女↑↓しょうじょ↓は↑平行棒↑↓|へいこうぼう|↓の↑練習↑↓れんしゅう↓をした。","e":"The girl exercised on the parallel bars."}]}

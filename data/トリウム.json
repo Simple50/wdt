@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トリウム","p":true}],"sense":[{"gloss":"thorium (Th)","pos":["n","adj-no"]}]},"sdata":[]}

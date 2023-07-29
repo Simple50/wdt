@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"排卵誘発剤","p":true}],"r_ele":[{"r":"はいらんゆうはつざい","p":true}],"sense":[{"gloss":"ovulation-inducing drug","pos":["n"]}]},"sdata":[{"j":"↑排卵↑↓|はいらん↓↑誘発↑↓ゆうはつ↓↑剤↑↓ざい|↓を↑使↑↓つか↓っています。","e":"I'm taking a fertility drug."}]}

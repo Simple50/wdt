@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"藍綬褒章","p":true}],"r_ele":[{"r":"らんじゅほうしょう","p":true}],"sense":[{"gloss":"Medal with Blue Ribbon","pos":["n"]}]},"sdata":[]}

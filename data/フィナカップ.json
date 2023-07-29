@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィナカップ","p":true},{"r":"フィナ・カップ"}],"sense":[{"gloss":"Fédération Internationale de Natation Amateur cup, FINA cup","pos":["n"]}]},"sdata":[]}

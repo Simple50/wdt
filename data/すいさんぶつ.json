@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水産物","p":true}],"r_ele":[{"r":"すいさんぶつ","p":true}],"sense":[{"gloss":"marine products","pos":["n"]}]},"sdata":[]}

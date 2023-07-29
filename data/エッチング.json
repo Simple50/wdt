@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エッチング","p":true}],"sense":[{"gloss":"etching","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑競走↑↓きょうそう↓↑馬↑↓ば↓を↑描↑↓えが↓いた|エッチング|で↑彼↑↓かれ↓に↑並↑↓なら↓ぶものはいない。","e":"Nothing rivals his racehorse etching."}]}

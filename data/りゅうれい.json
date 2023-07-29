@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流麗","p":true}],"r_ele":[{"r":"りゅうれい","p":true}],"sense":[{"gloss":"fluent, flowing, elegant","pos":["adj-na","n"]}]},"sdata":[{"j":"どこからかハープの↑流麗↑↓|りゅうれい|↓な↑調↑↓しら↓べが↑聞↑↓き↓こえてきた。","e":"They could hear the elegant, flowing sound of a harp coming from somewhere."}]}

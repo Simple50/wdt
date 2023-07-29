@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"補い","p":true}],"r_ele":[{"r":"おぎない","p":true}],"sense":[{"gloss":"replenishment, supplement, reparation","pos":["n"]}]},"sdata":[]}

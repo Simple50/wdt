@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無力感","p":true}],"r_ele":[{"r":"むりょくかん","p":true}],"sense":[{"gloss":"sense of helplessness, feeling of powerlessness","pos":["n"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓は↑無力↑↓|むりょく↓↑感↑↓かん|↓を↑克服↑↓こくふく↓しなければならないであろう。","e":"We will have to get over the feeling of helplessness."}]}

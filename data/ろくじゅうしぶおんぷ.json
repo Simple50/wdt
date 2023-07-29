@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"六十四分音符","p":true}],"r_ele":[{"r":"ろくじゅうしぶおんぷ","p":true}],"sense":[{"gloss":"64th note, hemidemisemiquaver, semidemisemiquaver","pos":["n"],"f":["music"]}]},"sdata":[]}

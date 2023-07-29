@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待ち構える","p":true},{"e":"待ちかまえる"},{"e":"待構える"}],"r_ele":[{"r":"まちかまえる","p":true}],"sense":[{"gloss":"to lie in wait (for), to be on the watch (for), to wait (for), to watch (for)","pos":["v1","vt"]}]},"sdata":[]}

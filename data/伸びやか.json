@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伸びやか","p":true}],"r_ele":[{"r":"のびやか","p":true}],"sense":[{"gloss":"comfortable, carefree","pos":["adj-na","n"]}]},"kdata":{"伸":{"on":["シン"],"kun":["の.びる","の.ばす","の.べる","の.す"],"jlpt":2,"meanings":["expand","stretch","extend","lengthen","increase"],"freq":730,"comp":[["亻","申"]],"d":["敒"],"t":429}},"sdata":[]}

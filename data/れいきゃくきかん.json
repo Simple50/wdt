@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冷却期間","p":true}],"r_ele":[{"r":"れいきゃくきかん","p":true}],"sense":[{"gloss":"cooling-off period","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"既成事実","p":true}],"r_ele":[{"r":"きせいじじつ","p":true}],"sense":[{"gloss":"established fact, fait accompli","pos":["n"]}],"m":["yoji"]},"sdata":[]}

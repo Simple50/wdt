@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"往年","p":true}],"r_ele":[{"r":"おうねん","p":true}],"sense":[{"gloss":"years gone by, earlier years, former years, the past","pos":["n","adj-no"]}]},"sdata":[]}

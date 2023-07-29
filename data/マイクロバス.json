@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マイクロバス","p":true}],"sense":[{"gloss":"minibus","pos":["n"],"l":"eng: microbus"}]},"sdata":[{"j":"この|マイクロバス|は25↑人↑↓にん↓↑乗↑↓の↓りです。","e":"This minibus holds 25 persons."}]}

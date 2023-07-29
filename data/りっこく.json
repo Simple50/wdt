@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立国","p":true}],"r_ele":[{"r":"りっこく","p":true}],"sense":[{"gloss":"founding of a nation","pos":["n","vs"]}]},"sdata":[]}

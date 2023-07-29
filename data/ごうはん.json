@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合板","p":true}],"r_ele":[{"r":"ごうはん","p":true},{"r":"ごうばん","p":true}],"sense":[{"gloss":"veneer board, plywood","pos":["n"]},{"gloss":"joint publication","pos":["n"]}]},"sdata":[{"j":"↑原子力↑↓げんしりょく↓は↑原子↑↓げんし↓↑核分裂↑↓かくぶんれつ↓と↑核↑↓かく↓↑融合↑↓ゆう|ごう↓↑反応↑↓はん|のう↓で↑作↑↓つく↓られている。","e":"Nuclear energy is produced by splitting atoms or by bringing them together."}]}

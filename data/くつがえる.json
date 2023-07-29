@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"覆る","p":true}],"r_ele":[{"r":"くつがえる","p":true}],"sense":[{"gloss":"to topple over, to be overturned, to capsize","pos":["v5r","vi"]},{"gloss":"to be overruled, to be reversed, to be discredited","pos":["v5r","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"練り上げる","p":true},{"e":"練りあげる"},{"e":"練上げる"},{"e":"煉り上げる"},{"e":"錬り上げる"}],"r_ele":[{"r":"ねりあげる","p":true}],"sense":[{"gloss":"to knead well","pos":["v1","vt"]},{"gloss":"to polish, to refine","pos":["v1","vt"]}]},"sdata":[]}

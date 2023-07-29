@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"衛生学","p":true}],"r_ele":[{"r":"えいせいがく","p":true}],"sense":[{"gloss":"hygienics","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑家政学↑↓かせいがく↓の↑一部↑↓いちぶ↓として↑衛生↑↓|えいせい↓↑学↑↓がく|↓を↑学↑↓まな↓んでいる。","e":"She studies hygiene as part of her domestic science course."}]}

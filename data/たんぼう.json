@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"探訪","p":true}],"r_ele":[{"r":"たんぼう","p":true}],"sense":[{"gloss":"searching, hunting for news story, journalist","pos":["n","vs","vt"]}]},"sdata":[]}

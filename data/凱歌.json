@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"凱歌","p":true}],"r_ele":[{"r":"がいか","p":true}],"sense":[{"gloss":"victory song, victory","pos":["n"]}]},"kdata":{"凱":{"on":["ガイ","カイ"],"kun":["かちどき","やわらぐ"],"meanings":["victory song"],"freq":2293,"comp":[["几","豈"]],"jlpt":0},"歌":{"on":["カ"],"kun":["うた","うた.う"],"jlpt":4,"meanings":["song","sing"],"freq":519,"comp":[["哥","欠"]],"t":1884}},"sdata":[]}

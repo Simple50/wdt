@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビアガーデン","p":true},{"r":"ビヤガーデン"}],"sense":[{"gloss":"beer garden","pos":["n"]}]},"sdata":[{"j":"|ビアガーデン|に↑客↑↓きゃく↓がたくさんいるかどうかは↑天気↑↓てんき↓↑次第↑↓しだい↓だ。","e":"Whether or not beer gardens get a lot of customers depends on the weather."}]}

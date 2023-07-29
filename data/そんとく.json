@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"損得","p":true}],"r_ele":[{"r":"そんとく","p":true}],"sense":[{"gloss":"loss and gain, advantage and disadvantage","pos":["n"]}]},"sdata":[{"j":"↑損得↑↓|そんとく|↓なしにしよう。","e":"Let's make it a fair trade."}]}

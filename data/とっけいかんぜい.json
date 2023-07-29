@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特恵関税","p":true}],"r_ele":[{"r":"とっけいかんぜい","p":true}],"sense":[{"gloss":"preferential tariff, preferential duty","pos":["n"]}]},"sdata":[]}

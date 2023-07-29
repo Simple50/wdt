@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事務局","p":true}],"r_ele":[{"r":"じむきょく","p":true}],"sense":[{"gloss":"secretariat, executive office","pos":["n"]}]},"sdata":[{"j":"↑事務↑↓|じむ↓↑局↑↓きょく|↓は↑私↑↓わたし↓の↑願書↑↓がんしょ↓を↑受↑↓う↓け↑取↑↓と↓っていないと↑電報↑↓でんぽう↓で↑知↑↓し↓らせてきた。","e":"The office telegraphed that they had not received my application."}]}

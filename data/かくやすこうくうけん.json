@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"格安航空券","p":true}],"r_ele":[{"r":"かくやすこうくうけん","p":true}],"sense":[{"gloss":"discount airline ticket","pos":["n"]}]},"sdata":[{"j":"↑格安↑↓|かくやす↓↑航空↑↓こうくう↓↑券↑↓けん|↓を↑利用↑↓りよう↓しよう。","e":"Let's get discount tickets."}]}

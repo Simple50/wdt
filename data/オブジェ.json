@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オブジェ","p":true}],"sense":[{"gloss":"item of artwork, objet d'art","pos":["n"],"m":["abbr"],"l":"fre"},{"gloss":"curio, object","pos":["n"]}]},"sdata":[{"j":"↑鳥居↑↓とりい↓と↑言↑↓い↓うと、↑階段↑↓かいだん↓を↑上↑↓あ↓がったところにあった↑赤↑↓あか↓い|オブジェ|？","e":"By 'Torii' you mean that red objet d'art at the top of the steps?"}]}

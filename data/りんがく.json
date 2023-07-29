@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"林学","p":true}],"r_ele":[{"r":"りんがく","p":true}],"sense":[{"gloss":"forestry","pos":["n"]}]},"sdata":[]}

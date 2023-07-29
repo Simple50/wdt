@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"除湿","p":true}],"r_ele":[{"r":"じょしつ","p":true}],"sense":[{"gloss":"dehumidification","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"納采","p":true}],"r_ele":[{"r":"のうさい","p":true}],"sense":[{"gloss":"betrothal gift","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑昨日↑↓き|のう↓↑最終↑↓さい|しゅう↓バスに↑乗↑↓の↓り↑遅↑↓おく↓れてしまった。","e":"I missed the last bus yesterday."}]}

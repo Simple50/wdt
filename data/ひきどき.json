@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"退き時","p":true}],"r_ele":[{"r":"ひきどき","p":true}],"sense":[{"gloss":"a good time to quit","pos":["n"]}]},"sdata":[]}

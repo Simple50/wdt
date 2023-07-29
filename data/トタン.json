@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トタン","p":true}],"sense":[{"gloss":"corrugated iron, corrugated sheet metal, galvanised sheet iron","pos":["n"],"l":"por: tutanaga"}]},"sdata":[]}

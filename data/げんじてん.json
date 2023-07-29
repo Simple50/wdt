@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"現時点","p":true}],"r_ele":[{"r":"げんじてん","p":true}],"sense":[{"gloss":"present point (i.e. in history), at the present time","pos":["n"]}]},"sdata":[]}

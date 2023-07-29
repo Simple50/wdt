@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"放水","p":true}],"r_ele":[{"r":"ほうすい","p":true}],"sense":[{"gloss":"discharge of water (from a river, dam, etc.), drainage","pos":["n","vs","vi"]},{"gloss":"spraying water (on), hosing","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑焼↑↓や↓けているホテルに↑放水↑↓|ほうすい|↓した。","e":"He played a hose on the burning hotel."}]}

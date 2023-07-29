@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オフレコ","p":true}],"sense":[{"gloss":"off-the-record","pos":["n","adj-no"],"ant":["オンレコ"]}],"m":["abbr"]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は|オフレコ|でこの↑話↑↓はなし↓をしてくれた。","e":"She told me this story off the record."},{"j":"これは|オフレコ|だけど、↑君↑↓きみ↓に↑同意↑↓どうい↓するよ。","e":"Don't quote me on this, but I agree with you."}]}

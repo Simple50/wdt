@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジハード","p":true}],"sense":[{"gloss":"jehad, jihad","pos":["n"],"l":"ara"}]},"sdata":[]}

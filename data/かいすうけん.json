@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"回数券","p":true}],"r_ele":[{"r":"かいすうけん","p":true}],"sense":[{"gloss":"coupon tickets, discount tickets, book of tickets","pos":["n"]}]},"sdata":[{"j":"↑回数↑↓|かいすう↓↑券↑↓けん|↓を↑下↑↓くだ↓さい。","e":"May I have coupon tickets?"}]}

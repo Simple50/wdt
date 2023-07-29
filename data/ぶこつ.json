@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無骨"},{"e":"武骨","p":true}],"r_ele":[{"r":"ぶこつ","p":true}],"sense":[{"gloss":"boorish, unrefined, rustic, uncouth, clumsy, brusque","pos":["adj-na","n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑態度↑↓たいど↓はすこぶる↑無骨↑↓|ぶこつ|↓だ。","e":"He is very blunt in his manner."}]}

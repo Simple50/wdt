@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"里親","p":true}],"r_ele":[{"r":"さとおや","p":true}],"sense":[{"gloss":"foster parent, foster parents","pos":["n"],"x":["里子・1"]},{"gloss":"(pet) caretaker","pos":["n"]}]},"sdata":[]}

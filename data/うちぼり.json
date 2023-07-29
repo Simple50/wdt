@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内堀","p":true},{"e":"内壕"},{"e":"内濠"}],"r_ele":[{"r":"うちぼり","p":true}],"sense":[{"gloss":"inner moat, moat within the castle walls","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"登竜門","p":true},{"e":"登龍門"}],"r_ele":[{"r":"とうりゅうもん","p":true}],"sense":[{"gloss":"gateway to success, opening to honours, opening to honors","pos":["n"]}]},"sdata":[]}

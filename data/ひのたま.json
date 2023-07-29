@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火の玉","p":true}],"r_ele":[{"r":"ひのたま","p":true}],"sense":[{"gloss":"fireball, ball of fire","pos":["n"]},{"gloss":"will-o'-the-wisp, jack-o'-lantern","pos":["n"]}]},"sdata":[{"j":"↑見↑↓み↓て、↑火↑↓|ひ↓の↑玉↑↓たま|↓！","e":"Look, will-o'-the-wisps!"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生易しい","p":true},{"e":"生やさしい"}],"r_ele":[{"r":"なまやさしい","p":true}],"sense":[{"gloss":"simple, easy","pos":["adj-i"]}]},"sdata":[]}

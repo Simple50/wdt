@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"撃沈","p":true}],"r_ele":[{"r":"げきちん","p":true}],"sense":[{"gloss":"(attacking and) sinking (a ship), sending (a ship) to the bottom","pos":["n","vs","vt"]}]},"sdata":[]}

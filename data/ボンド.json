@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボンド","p":true}],"sense":[{"gloss":"bond","pos":["n"]},{"gloss":"adhesive, glue","pos":["n"],"f":["tradem"]}]},"sdata":[{"j":"やっとジェームス・|ボンド|は↑俳優↑↓はいゆう↓として↑成功↑↓せいこう↓した。","e":"At last, James Bond made it as an actor."},{"j":"ジェイムス・|ボンド|はいつも↑映画↑↓えいが↓では↑無茶↑↓むちゃ↓をする↑人↑↓ひと↓としてえがかれていた。","e":"James Bond was always depicted as a high roller in his movies."}]}

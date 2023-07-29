@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"所定","p":true}],"r_ele":[{"r":"しょてい","p":true}],"sense":[{"gloss":"prescribed, designated, appointed, fixed","pos":["adj-no"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは↑所定↑↓|しょてい|↓の↑場所↑↓ばしょ↓で↑会↑↓あ↓った。","e":"We met at the designated spot."}]}

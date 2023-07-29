@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"心血","p":true}],"r_ele":[{"r":"しんけつ","p":true}],"sense":[{"gloss":"heart and soul, all one's heart, all one's energy","pos":["n"],"x":["心血を注ぐ"]}]},"sdata":[{"j":"ガットの↑新↑↓|しん↓↑決議↑↓けつ|ぎ↓↑案↑↓あん↓はかなりの↑衝撃↑↓しょうげき↓を↑与↑↓あた↓える↑可能↑↓かのう↓↑性↑↓せい↓があります。","e":"New GATT resolutions could create a real shake-up."}]}

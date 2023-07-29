@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重機関銃","p":true}],"r_ele":[{"r":"じゅうきかんじゅう","p":true}],"sense":[{"gloss":"heavy machine gun","pos":["n"]}]},"sdata":[]}

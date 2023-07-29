@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"票読み","p":true}],"r_ele":[{"r":"ひょうよみ","p":true}],"sense":[{"gloss":"estimation of votes (in an election)","pos":["n","vs","vi"]},{"gloss":"announcing the number of votes cast (for each candidate)","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"季節風","p":true}],"r_ele":[{"r":"きせつふう","p":true}],"sense":[{"gloss":"seasonal winds","pos":["n"]}]},"sdata":[]}

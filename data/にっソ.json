@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日ソ","p":true},{"e":"日蘇"}],"r_ele":[{"r":"にっソ","p":true}],"sense":[{"gloss":"Japan and the Soviet Union, Japanese-Soviet","pos":["n"]}],"m":["hist"]},"sdata":[]}

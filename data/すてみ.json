@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"捨て身","p":true},{"e":"捨身"}],"r_ele":[{"r":"すてみ","p":true}],"sense":[{"gloss":"putting one's life on the line, giving everything one has got, acting out of desperation","pos":["n","adj-no"]}]},"sdata":[]}

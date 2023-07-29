@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火砕流","p":true},{"e":"火災流","i":["iK"]}],"r_ele":[{"r":"かさいりゅう","p":true}],"sense":[{"gloss":"pyroclastic flow","pos":["n"]}]},"sdata":[]}

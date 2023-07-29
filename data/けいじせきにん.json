@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刑事責任","p":true}],"r_ele":[{"r":"けいじせきにん","p":true}],"sense":[{"gloss":"criminal liability","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抄本","p":true},{"e":"鈔本","i":["rK"]}],"r_ele":[{"r":"しょうほん","p":true}],"sense":[{"gloss":"excerpt, abridgment, abridgement, book of selections","pos":["n"]}]},"sdata":[{"j":"↑昨日↑↓きのう↓、ひょんなことで↑父親↑↓ちちおや↓の↑戸籍↑↓こせき↓↑抄本↑↓|しょうほん|↓のコピーを↑見↑↓み↓てしまいました。","e":"Yesterday I stumbled across a copy of my father's family register."}]}

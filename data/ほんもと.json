@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本元","p":true}],"r_ele":[{"r":"ほんもと","p":true}],"sense":[{"gloss":"origin, main branch of family","pos":["n"]}]},"sdata":[{"j":"↑小便↑↓しょうべん↓↑小僧↑↓こぞう↓の↑本家↑↓ほんけ↓↑本元↑↓|ほんもと|↓は、ベルギー・ブリュッセルにあるジュリアン↑君↑↓くん↓です。","e":"The original for Manneken Pis was a boy named Julian from Brussels, Belgium."}]}

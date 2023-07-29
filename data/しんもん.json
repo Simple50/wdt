@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"審問","p":true}],"r_ele":[{"r":"しんもん","p":true}],"sense":[{"gloss":"trial, hearing, inquiry, examination, interrogation","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サーセン","p":true}],"sense":[{"gloss":"sorry","pos":["exp"],"x":["すいません"]}],"m":["sl"]},"sdata":[]}

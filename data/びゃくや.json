@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白夜","p":true}],"r_ele":[{"r":"びゃくや","p":true},{"r":"はくや"}],"sense":[{"gloss":"night under the midnight sun, white night (at extreme latitudes), night during which the sun doesn't set","pos":["n"]}]},"sdata":[]}

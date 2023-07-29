@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公式戦","p":true}],"r_ele":[{"r":"こうしきせん","p":true}],"sense":[{"gloss":"regular game, regular-season game","pos":["n"],"f":["sports"]}]},"sdata":[]}

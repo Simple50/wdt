@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"密入国","p":true}],"r_ele":[{"r":"みつにゅうこく","p":true},{"r":"みつにゅうごく"}],"sense":[{"gloss":"smuggling oneself into a country, illegal immigration","pos":["n","vs","vi"]}]},"sdata":[]}

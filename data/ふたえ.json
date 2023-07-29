@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二重","p":true}],"r_ele":[{"r":"にじゅう","p":true},{"r":"ふたえ","p":true}],"sense":[{"gloss":"double, two-fold, two layers, duplex","pos":["n","adj-no"]},{"gloss":"diplo-, dipl-","pos":["pref"]},{"gloss":"double-edged eyelid, double eyelid, creased eyelid","pos":["n"],"m":["abbr"],"x":["二重まぶた・ふたえまぶた"]}]},"sdata":[]}

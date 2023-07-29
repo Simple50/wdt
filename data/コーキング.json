@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コーキング","p":true}],"sense":[{"gloss":"caulking, calking","pos":["n","vs"]}]},"sdata":[]}

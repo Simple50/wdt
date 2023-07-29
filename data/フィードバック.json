@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィードバック","p":true}],"sense":[{"gloss":"feedback (on a product, person's performance, etc.)","pos":["n","vs","vt"]},{"gloss":"feedback (in an electronic circuit, biological system, etc.)","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓らは↑君↑↓きみ↓の|フィードバック|を↑楽↑↓たの↓しみしています。","e":"We look forward to your feedback."}]}

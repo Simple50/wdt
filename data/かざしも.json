@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風下","p":true}],"r_ele":[{"r":"かざしも","p":true}],"sense":[{"gloss":"leeward, lee, downwind","pos":["n","adj-no"],"ant":["風上・かざかみ"]}]},"sdata":[]}

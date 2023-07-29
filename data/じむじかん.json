@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事務次官","p":true}],"r_ele":[{"r":"じむじかん","p":true}],"sense":[{"gloss":"permanent vice-president, undersecretary, vice-minister","pos":["n"]}]},"sdata":[]}

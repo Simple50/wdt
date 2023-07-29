@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立ち回り","p":true},{"e":"立回り"}],"r_ele":[{"r":"たちまわり","p":true}],"sense":[{"gloss":"fight, scuffle","pos":["n"]},{"gloss":"walking about, walking around","pos":["n"]},{"gloss":"conducting oneself","pos":["n"]},{"gloss":"stroll (in noh, an action piece involving circling the stage)","pos":["n"]}]},"sdata":[]}

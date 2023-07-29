@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メキメキ","p":true},{"r":"めきめき","p":true}],"sense":[{"gloss":"remarkably, markedly, rapidly","pos":["adv","adv-to"]},{"gloss":"sound of breaking or creaking","pos":["adv","adv-to"]}],"m":["on-mim"]},"sdata":[{"j":"↑彼↑↓かれ↓は|メキメキ|↑英語↑↓えいご↓の↑実力↑↓じつりょく↓をつけている。","e":"He is making great progress in English."}]}

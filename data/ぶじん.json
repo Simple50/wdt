@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"武人","p":true}],"r_ele":[{"r":"ぶじん","p":true}],"sense":[{"gloss":"military man, warrior, soldier","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑一緒↑↓いっしょ↓に↑遊↑↓あそ↓|ぶ↑人↑↓じん|↓がいない。","e":"He does not have anyone to play with."},{"j":"↑傍若無人↑↓ぼうじゃく|ぶじん|↓の↑振↑↓ふ↓る↑舞↑↓ま↓いだね。","e":"They are cutting loose."}]}

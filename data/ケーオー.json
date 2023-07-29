@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ケーオー","p":true}],"sense":[{"gloss":"KO, knock-out","pos":["n","vs"]}]},"sdata":[]}

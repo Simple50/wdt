@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"宿す","p":true}],"r_ele":[{"r":"やどす","p":true}],"sense":[{"gloss":"to house, to contain, to harbour (a feeling), to hold (e.g. dew on leaves)","pos":["v5s","vt"]},{"gloss":"to carry (a baby), to be pregnant","pos":["v5s","vt"]},{"gloss":"to give lodging to, to accommodate","pos":["v5s","vt"],"m":["arch"]}]},"sdata":[]}

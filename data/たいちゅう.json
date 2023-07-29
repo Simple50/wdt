@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"対中","p":true}],"r_ele":[{"r":"たいちゅう","p":true}],"sense":[{"gloss":"relating to China","pos":["n"]}]},"sdata":[{"j":"これは↑昭和↑↓しょうわ↓↑座↑↓ざ↓から↑舞台↑↓ぶ|たい↓↑中継↑↓ちゅう|けい↓です。","e":"This is a direct broadcast from the Showa theater."},{"j":"↑熱↑↓ねつ↓があるので↑身体↑↓しん|たい↓↑中↑↓ちゅう|↓が↑痛↑↓いた↓みます。","e":"I have a fever and I ache all over."}]}

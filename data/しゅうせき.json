@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"集積","p":true}],"r_ele":[{"r":"しゅうせき","p":true}],"sense":[{"gloss":"accumulation","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"↑科学↑↓かがく↓は↑単↑↓たん↓に↑事実↑↓じじつ↓と↑方法↑↓ほうほう↓↑論↑↓ろん↓の↑集積↑↓|しゅうせき|↓では↑決↑↓けっ↓してない。","e":"Science is far more than a collection of facts and methods."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インポート","p":true}],"sense":[{"gloss":"import","pos":["n","vs","vt"]}]},"sdata":[]}

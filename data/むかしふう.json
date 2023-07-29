@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"昔風","p":true}],"r_ele":[{"r":"むかしふう","p":true}],"sense":[{"gloss":"old-fashioned, old-style","pos":["adj-no","adj-na","n"]}]},"sdata":[]}

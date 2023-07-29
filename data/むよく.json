@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無欲","p":true},{"e":"無慾","i":["rK"]}],"r_ele":[{"r":"むよく","p":true}],"sense":[{"gloss":"unselfish, disinterested, unavaricious, free of avarice","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"↑大欲↑↓たいよく↓は↑無欲↑↓|むよく|↓に↑似↑↓に↓たり。","e":"Grasp all, lose all."}]}

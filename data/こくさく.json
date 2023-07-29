@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国策","p":true}],"r_ele":[{"r":"こくさく","p":true}],"sense":[{"gloss":"national policy","pos":["n"]}]},"sdata":[{"j":"↑部屋↑↓へや↓がタバ|コ↑臭↑↓くさ↓く|て↑発狂↑↓はっきょう↓しそう。","e":"I'm going crazy from the cigarette stench in this room."},{"j":"タバ|コ↑臭↑↓くさ↓く|ない？","e":"Do you smell smoke?"}]}

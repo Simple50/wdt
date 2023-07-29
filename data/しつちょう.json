@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"室長","p":true}],"r_ele":[{"r":"しつちょう","p":true}],"sense":[{"gloss":"section chief, laboratory manager, office head, room monitor","pos":["n"]}]},"sdata":[]}

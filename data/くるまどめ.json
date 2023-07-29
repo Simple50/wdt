@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"車止め","p":true},{"e":"車止"}],"r_ele":[{"r":"くるまどめ","p":true}],"sense":[{"gloss":"wheel stop, parking block, parking curb","pos":["n"]},{"gloss":"buffer stop, bumper, bumping post, stopblock","pos":["n"],"f":["rail"]},{"gloss":"(wheel) chock","pos":["n"]},{"gloss":"bollard (for preventing vehicle access), barrier","pos":["n"]}]},"sdata":[]}

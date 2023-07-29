@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"誇る","p":true}],"r_ele":[{"r":"ほこる","p":true}],"sense":[{"gloss":"to boast of, to be proud of, to take pride in","pos":["v5r","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓には↑誇↑↓|ほこ↓る|べきものが↑何↑↓なに↓もない。","e":"I have nothing to boast about."}]}

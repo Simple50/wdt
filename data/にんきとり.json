@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人気取り","p":true}],"r_ele":[{"r":"にんきとり","p":true}],"sense":[{"gloss":"bid for popularity, publicity stunt","pos":["n"]}]},"sdata":[{"j":"↑共和党↑↓きょうわとう↓は↑民主党↑↓みんしゅとう↓の↑地方↑↓ちほう↓↑人気↑↓|にんき↓とり|↑補助↑↓ほじょ↓↑金↑↓きん↓↑政策↑↓せいさく↓を↑非難↑↓ひなん↓しました。","e":"The GOP accused the Democrats of pork barrel politics."}]}

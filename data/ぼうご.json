@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防護","p":true}],"r_ele":[{"r":"ぼうご","p":true}],"sense":[{"gloss":"protection","pos":["n","vs","vt","adj-no"]}]},"sdata":[{"j":"↑男↑↓おとこ↓の↑子↑↓こ↓たちは↑泥棒↑↓どろ|ぼう↓ご|っこをした。","e":"The boys played cops and robbers."},{"j":"トムとメアリーは↑泥棒↑↓どろ|ぼう↓ご|っこをしている。","e":"Tom and Mary are playing cops and robbers."}]}

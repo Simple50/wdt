@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プリンス","p":true}],"sense":[{"gloss":"prince","pos":["n"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓はケモナー↑界↑↓かい↓の|プリンス|マイルズだよ！","e":"I'm Miles, Prince of the Furry Realm!"}]}

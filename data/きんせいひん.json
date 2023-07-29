@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"禁制品","p":true}],"r_ele":[{"r":"きんせいひん","p":true}],"sense":[{"gloss":"contraband (goods), prohibited goods","pos":["n"]}]},"sdata":[{"j":"これは↑禁制↑↓|きんせい↓↑品↑↓ひん|↓です。","e":"This is contraband."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"挺身隊","p":true}],"r_ele":[{"r":"ていしんたい","p":true}],"sense":[{"gloss":"volunteer corps","pos":["n"]}]},"sdata":[]}

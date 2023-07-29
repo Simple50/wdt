@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"骨肉","p":true}],"r_ele":[{"r":"こつにく","p":true}],"sense":[{"gloss":"one's own flesh and blood, blood relative, kinsman","pos":["n"]},{"gloss":"flesh and bone, (one's) body","pos":["n"]}]},"sdata":[]}

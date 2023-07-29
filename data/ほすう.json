@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歩数","p":true}],"r_ele":[{"r":"ほすう","p":true}],"sense":[{"gloss":"number of steps","pos":["n"]}]},"sdata":[]}

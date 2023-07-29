@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山開き","p":true}],"r_ele":[{"r":"やまびらき","p":true}],"sense":[{"gloss":"start of the mountain-climbing season","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オンブズマン","p":true},{"r":"オンブツマン","i":["ik"]}],"sense":[{"gloss":"ombudsman","pos":["n"],"l":"swe"}]},"sdata":[]}

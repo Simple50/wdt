@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"古傷","p":true},{"e":"古疵","i":["rK"]},{"e":"古創","i":["rK"]}],"r_ele":[{"r":"ふるきず","p":true}],"sense":[{"gloss":"old wound, scar","pos":["n"]},{"gloss":"unpleasant past experience, painful memory, past misdeed","pos":["n"]}]},"sdata":[]}

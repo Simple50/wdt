@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"反骨","p":true},{"e":"叛骨"}],"r_ele":[{"r":"はんこつ","p":true}],"sense":[{"gloss":"rebellious spirit","pos":["n"]}],"m":["abbr"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タンザニア","p":true}],"sense":[{"gloss":"Tanzania","pos":["n"]}]},"sdata":[{"j":"↑深↑↓ふか↓↑煎↑↓い↓り|タンザニア|、↑豆↑↓まめ↓のままで↑２００↑↓にひゃく↓グラムお↑願↑↓ねが↓いします。","e":"200 grams of Tanzania dark roast coffee beans, please."}]}

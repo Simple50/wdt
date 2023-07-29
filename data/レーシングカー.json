@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レーシングカー","p":true},{"r":"レーシング・カー"}],"sense":[{"gloss":"racing car, race car","pos":["n"]}]},"sdata":[]}

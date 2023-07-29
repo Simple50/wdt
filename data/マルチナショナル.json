@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マルチナショナル","p":true}],"sense":[{"gloss":"multinational","pos":["n"]}]},"sdata":[]}

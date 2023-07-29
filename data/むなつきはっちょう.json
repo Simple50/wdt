@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"胸突き八丁","p":true},{"e":"胸突八丁"}],"r_ele":[{"r":"むなつきはっちょう","p":true}],"sense":[{"gloss":"the most trying spot or period, the most difficult period","pos":["n"]}]},"sdata":[]}

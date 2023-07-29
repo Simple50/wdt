@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詰め所","p":true},{"e":"詰所"}],"r_ele":[{"r":"つめしょ","p":true}],"sense":[{"gloss":"station, office, guardroom","pos":["n"]}]},"sdata":[]}

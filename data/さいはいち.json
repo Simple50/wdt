@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再配置","p":true}],"r_ele":[{"r":"さいはいち","p":true}],"sense":[{"gloss":"rearrangement, reallocation, realignment, relocation","pos":["n"]}]},"sdata":[]}

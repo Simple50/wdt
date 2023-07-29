@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"印象付ける","p":true},{"e":"印象づける"}],"r_ele":[{"r":"いんしょうづける","p":true}],"sense":[{"gloss":"to impress (someone)","pos":["v1","vt"]}]},"sdata":[]}

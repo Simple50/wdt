@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"苦虫","p":true}],"r_ele":[{"r":"にがむし","p":true}],"sense":[{"gloss":"bitter-tasting bug","pos":["n"],"x":["苦虫を噛み潰したよう・にがむしをかみつぶしたよう"]}]},"sdata":[{"j":"そんな↑苦虫↑↓|にがむし|↓を↑噛↑↓か↓みつぶしたような↑顔↑↓かお↓するなよ。","e":"Don't make such a sour face."},{"j":"↑苦虫↑↓|にがむし|↓を↑噛↑↓か↓みつぶしたような↑顔↑↓かお↓で、↑綾乃↑↓あやの↓ちゃんは↑舌打↑↓したう↓ちした。","e":"Ayano tutted, making a sour face."}]}

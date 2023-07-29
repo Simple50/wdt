@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オイルフェンス","p":true},{"r":"オイル・フェンス"}],"sense":[{"gloss":"oil fence","pos":["n"]}]},"sdata":[{"j":"メキシコ↑湾↑↓わん↓で↑使↑↓つか↓われた↑大量↑↓たいりょう↓の|オイルフェンス|は、リサイクルされて↑電気↑↓でんき↓↑自動車↑↓じどうしゃ↓のパーツになっている。","e":"The many oil fences that were used in the Gulf of Mexico got recycled for parts that are now used in electric cars."}]}

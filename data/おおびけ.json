@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大引け","p":true}],"r_ele":[{"r":"おおびけ","p":true}],"sense":[{"gloss":"closing (a market or trading session)","pos":["n"]},{"gloss":"closing price","pos":["n"]}]},"sdata":[{"j":"↑日経↑↓にっけい↓↑指数↑↓しすう↓は↑大引↑↓|おおび↓け|↑間際↑↓まぎわ↓に↑大↑↓おお↓きく↑跳↑↓は↓ね↑上↑↓あ↓がりました。","e":"The Nikkei index jumped dramatically just before closing."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＦＯＲＴＲＡＮ"},{"e":"Ｆｏｒｔｒａｎ"}],"r_ele":[{"r":"フォートラン","p":true}],"sense":[{"gloss":"Fortran (programming language)","pos":["n"],"f":["comp"]}]},"sdata":[]}

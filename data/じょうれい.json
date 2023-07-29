@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"条例","p":true},{"e":"条令"}],"r_ele":[{"r":"じょうれい","p":true}],"sense":[{"gloss":"regulations, rules","pos":["n"]},{"gloss":"(local) regulation, ordinance, bylaw, law","pos":["n"]}]},"sdata":[]}

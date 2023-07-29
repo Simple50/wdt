@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"板紙","p":true}],"r_ele":[{"r":"いたがみ","p":true}],"sense":[{"gloss":"cardboard, paperboard, pasteboard","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無神論","p":true}],"r_ele":[{"r":"むしんろん","p":true}],"sense":[{"gloss":"atheism","pos":["n"]}]},"sdata":[]}

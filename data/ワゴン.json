@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワゴン","p":true}],"sense":[{"gloss":"wagon","pos":["n"]},{"gloss":"tea wagon, teacart, tea trolley","pos":["n"]},{"gloss":"station wagon, estate car","pos":["n"],"m":["abbr"],"x":["ステーションワゴン"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の|ワゴン|がマーケットの↑入↑↓い↓り↑口↑↓くち↓で↑止↑↓と↓まった。","e":"His wagon drew up at the entrance to the market."}]}

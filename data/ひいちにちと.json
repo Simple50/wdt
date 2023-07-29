@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日一日と","p":true}],"r_ele":[{"r":"ひいちにちと","p":true}],"sense":[{"gloss":"day by day","pos":["exp"]}]},"sdata":[{"j":"↑日↑↓|ひ↓↑一↑↓いち↓↑日↑↓にち↓と|↑暖↑↓あたた↓かくなって↑来↑↓く↓る。","e":"It is becoming warmer day by day."}]}

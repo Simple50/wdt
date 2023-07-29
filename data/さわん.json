@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"左腕","p":true}],"r_ele":[{"r":"さわん","p":true},{"r":"ひだりうで"}],"sense":[{"gloss":"left arm","pos":["n"],"x":["右腕・1"]},{"gloss":"left-handed (baseball pitcher)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑左腕↑↓|さわん|↓を↑骨折↑↓こっせつ↓した。","e":"He broke his left arm."}]}

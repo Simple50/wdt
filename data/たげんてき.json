@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"多元的","p":true}],"r_ele":[{"r":"たげんてき","p":true}],"sense":[{"gloss":"pluralistic, plural","pos":["adj-na"]}]},"sdata":[]}

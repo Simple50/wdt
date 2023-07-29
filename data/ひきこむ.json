@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き込む","p":true},{"e":"引きこむ"},{"e":"ひき込む"},{"e":"引込む","i":["io"]}],"r_ele":[{"r":"ひきこむ","p":true}],"sense":[{"gloss":"to pull into, to draw in, to bring in","pos":["v5m","vt"]},{"gloss":"to win over","pos":["v5m","vt"]}]},"sdata":[]}

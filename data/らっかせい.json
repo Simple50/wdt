@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落花生","p":true}],"r_ele":[{"r":"らっかせい","p":true},{"r":"ラッカセイ"}],"sense":[{"gloss":"peanut (Arachis hypogaea), groundnut","pos":["n"]}]},"sdata":[]}

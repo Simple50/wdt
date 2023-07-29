@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漁場","p":true}],"r_ele":[{"r":"ぎょじょう","p":true},{"r":"ぎょば"},{"r":"りょうば"}],"sense":[{"gloss":"fishing grounds, permitted fishing zone","pos":["n"]}]},"sdata":[]}

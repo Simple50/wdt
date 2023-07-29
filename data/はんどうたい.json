@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"半導体","p":true}],"r_ele":[{"r":"はんどうたい","p":true}],"sense":[{"gloss":"semiconductor, solid-state","pos":["n","adj-no"]}]},"sdata":[]}

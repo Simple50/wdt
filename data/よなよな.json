@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夜な夜な","p":true}],"r_ele":[{"r":"よなよな","p":true}],"sense":[{"gloss":"every evening, night after night","pos":["adv"]}]},"sdata":[]}

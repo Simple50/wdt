@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"復権","p":true}],"r_ele":[{"r":"ふっけん","p":true},{"r":"ふくけん"}],"sense":[{"gloss":"rehabilitation, reinstatement, restoration of rights","pos":["n","vs"]}]},"sdata":[]}

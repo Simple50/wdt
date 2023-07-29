@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エゴイズム","p":true}],"sense":[{"gloss":"egoism","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フランチャイズ","p":true}],"sense":[{"gloss":"franchise","pos":["n"]}]},"sdata":[]}

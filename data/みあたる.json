@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見当たる","p":true},{"e":"見あたる"},{"e":"見当る"}],"r_ele":[{"r":"みあたる","p":true}],"sense":[{"gloss":"to be found","pos":["v5r"]}]},"sdata":[]}

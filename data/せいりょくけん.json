@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勢力圏","p":true}],"r_ele":[{"r":"せいりょくけん","p":true}],"sense":[{"gloss":"sphere of influence","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自家用","p":true}],"r_ele":[{"r":"じかよう","p":true}],"sense":[{"gloss":"for private or home use","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑自家用車↑↓|じかよう|しゃ↓を↑持↑↓も↓っている。","e":"He drives his own car."},{"j":"↑彼↑↓かれ↓は↑自家用車↑↓|じかよう|しゃ↓を↑持↑↓も↓っている。","e":"He has a car."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"医薬品","p":true}],"r_ele":[{"r":"いやくひん","p":true}],"sense":[{"gloss":"medical and pharmaceutical products, medicinal supplies, drugs, pharmaceuticals, medicine","pos":["n"]}]},"sdata":[{"j":"ボランティアグループの↑人達↑↓ひとたち↓は↑戦争↑↓せんそう↓↑被害↑↓ひがい↓↑者↑↓しゃ↓に↑食料↑↓しょくりょう↓と↑医薬品↑↓|いやくひん|↓を↑配↑↓くば↓った。","e":"The volunteer group provides war victims with food and medicine."}]}

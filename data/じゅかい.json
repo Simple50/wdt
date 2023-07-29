@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"樹海","p":true}],"r_ele":[{"r":"じゅかい","p":true}],"sense":[{"gloss":"sea of trees, broad expanse of dense woodland, abundant leafage","pos":["n"]}]},"sdata":[{"j":"↑教授↑↓きょう|じゅ↓↑会↑↓かい|↓は↑学部↑↓がくぶ↓↑長↑↓ちょう↓の↑提案↑↓ていあん↓を↑採用↑↓さいよう↓した。","e":"The faculty meeting adopted the dean's proposal."}]}

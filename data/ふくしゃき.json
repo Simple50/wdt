@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"複写機","p":true}],"r_ele":[{"r":"ふくしゃき","p":true}],"sense":[{"gloss":"photocopier, photocopying machine","pos":["n"]}]},"sdata":[{"j":"↑複写↑↓|ふくしゃ↓↑機↑↓き|↓の↑紙↑↓かみ↓を↑切↑↓き↓らしたよ。","e":"We've run out of paper for the photocopier."}]}

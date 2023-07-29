@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハンチング","p":true}],"sense":[{"gloss":"hunting","pos":["n"]},{"gloss":"oscillatory behavior of a non-converging feedback loop (behaviour)","pos":["n"]},{"gloss":"hunting cap","pos":["n"],"m":["abbr"],"x":["ハンチング帽"]}]},"sdata":[]}

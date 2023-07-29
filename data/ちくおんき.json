@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蓄音機","p":true},{"e":"蓄音器"}],"r_ele":[{"r":"ちくおんき","p":true}],"sense":[{"gloss":"gramophone, phonograph","pos":["n"]}]},"sdata":[{"j":"↑蓄音機↑↓|ちくおんき|↓はエジソンの↑頭脳↑↓ずのう↓から↑生↑↓う↓まれた。","e":"The gramophone was born of Edison's brain."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オートメーション","p":true}],"sense":[{"gloss":"automation","pos":["n"]}]},"sdata":[{"j":"|オートメーション|は↑必↑↓かなら↓ず↑重要↑↓じゅうよう↓な↑社会↑↓しゃかい↓↑的↑↓てき↓↑結果↑↓けっか↓をもたらすだろう。","e":"Automation is bound to have important social consequences."},{"j":"↑生産↑↓せいさん↓↑性↑↓せい↓は|オートメーション|の↑徹底↑↓てってい↓によって↑向上↑↓こうじょう↓する。","e":"Production improves by becoming more automatic."}]}

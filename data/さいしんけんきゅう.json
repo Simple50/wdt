@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"最新研究","p":true}],"r_ele":[{"r":"さいしんけんきゅう","p":true}],"sense":[{"gloss":"the newest research","pos":["n"]}]},"sdata":[]}

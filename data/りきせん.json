@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"力戦","p":true}],"r_ele":[{"r":"りきせん","p":true}],"sense":[{"gloss":"hard fighting","pos":["n","vs","vi"]}]},"sdata":[]}

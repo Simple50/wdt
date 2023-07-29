@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パラダイス","p":true}],"sense":[{"gloss":"paradise","pos":["n"]}]},"sdata":[{"j":"ハワイってまさに|パラダイス|だもの。","e":"Hawaii's really the land of milk and honey."},{"j":"このビーチはサーファーには|パラダイス|だ。","e":"This beach is a paradise for surfers."}]}

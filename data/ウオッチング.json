@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウォッチング","p":true},{"r":"ウオッチング","p":true}],"sense":[{"gloss":"watching","pos":["n"]}]},"sdata":[]}

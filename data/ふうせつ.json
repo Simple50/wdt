@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風雪","p":true}],"r_ele":[{"r":"ふうせつ","p":true}],"sense":[{"gloss":"wind and snow, snowstorm, blizzard","pos":["n"]},{"gloss":"hardships","pos":["n"]}]},"sdata":[]}

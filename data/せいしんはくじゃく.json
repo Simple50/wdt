@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"精神薄弱","p":true}],"r_ele":[{"r":"せいしんはくじゃく","p":true}],"sense":[{"gloss":"feeble-mindedness, intellectual disability","pos":["n"],"x":["知的障害"]}],"m":["dated","sens"]},"sdata":[]}

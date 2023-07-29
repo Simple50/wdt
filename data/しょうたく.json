@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"沼沢","p":true}],"r_ele":[{"r":"しょうたく","p":true}],"sense":[{"gloss":"marsh, swamp, bog","pos":["n"]}]},"sdata":[{"j":"もしものときのために、お↑金↑↓かね↓は↑多少↑↓た|しょう↓↑蓄↑↓たく|わ↓えておいたほうがいいよ。","e":"You'd better put aside some money for a rainy day."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"活況","p":true}],"r_ele":[{"r":"かっきょう","p":true}],"sense":[{"gloss":"activity, briskness, prosperity","pos":["n","adj-na","adj-no"]}]},"sdata":[{"j":"↑株式↑↓かぶしき↓↑市場↑↓しじょう↓は↑活況↑↓|かっきょう|↓を↑呈↑↓てい↓している。","e":"The stock market is very active."}]}

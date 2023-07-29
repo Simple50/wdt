@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不文律","p":true}],"r_ele":[{"r":"ふぶんりつ","p":true}],"sense":[{"gloss":"unwritten law, common law","pos":["n"],"f":["law"],"x":["成文律"]},{"gloss":"unwritten rule","pos":["n"]}]},"sdata":[]}

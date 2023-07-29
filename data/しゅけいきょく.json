@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主計局","p":true}],"r_ele":[{"r":"しゅけいきょく","p":true}],"sense":[{"gloss":"budget bureau","pos":["n"]}]},"sdata":[]}

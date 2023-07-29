@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"組曲","p":true}],"r_ele":[{"r":"くみきょく","p":true}],"sense":[{"gloss":"suite","pos":["n"],"f":["music"]}]},"sdata":[]}

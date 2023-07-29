@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パパさん","p":true}],"sense":[{"gloss":"dad","pos":["n","n-pref"],"m":["fam"]},{"gloss":"(male) pet owner","pos":["n"]}]},"sdata":[{"j":"「パパ、↑僕↑↓ぼく↓ははらぺこだよ」「こんにちは、はらぺこさん！↑私↑↓わたし↓は|パパさん|だよ」","e":"Dad, I'm hungry. \"Hi, Hungry! I'm Dad.\""}]}

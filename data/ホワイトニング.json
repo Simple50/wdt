@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホワイトニング","p":true}],"sense":[{"gloss":"whitening (esp. of teeth)","pos":["n","vs"]}]},"sdata":[{"j":"|ホワイトニング|などの↑治療↑↓ちりょう↓を↑行↑↓おこな↓います。ヤニ↑取↑↓と↓りなどのクリーニングも↑行↑↓おこな↓っています。","e":"We carry out treatments like whitening. We also do tobacco stain removal and other cleaning procedures."}]}

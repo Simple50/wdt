@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"北洋","p":true}],"r_ele":[{"r":"ほくよう","p":true}],"sense":[{"gloss":"northern waters","pos":["n"]}]},"sdata":[]}

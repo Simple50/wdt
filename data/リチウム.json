@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リチウム","p":true}],"sense":[{"gloss":"lithium (Li)","pos":["n"]}]},"sdata":[]}

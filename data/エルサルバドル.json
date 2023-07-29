@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エルサルバドル","p":true},{"r":"エル・サルバドル"}],"sense":[{"gloss":"El Salvador","pos":["n"]}]},"sdata":[]}

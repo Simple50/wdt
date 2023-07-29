@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブローカー","p":true},{"r":"ブローカ"}],"sense":[{"gloss":"broker","pos":["n"]}]},"sdata":[{"j":"|ブローカー|は↑円↑↓えん↓↑高↑↓だか↓のおかげで↑大↑↓おお↓もうけしました。","e":"Brokers made a killing because of the high yen."},{"j":"↑利益↑↓りえき↓↑追求↑↓ついきゅう↓に↑必死↑↓ひっし↓の|ブローカー|は、↑必↑↓かなら↓ずしもルールブックにのっとっているとは↑限↑↓かぎ↓らないのです。","e":"Brokers struggling to make a profit don't always play by the book."}]}

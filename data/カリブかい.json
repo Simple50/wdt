@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"カリブ海","p":true}],"r_ele":[{"r":"カリブかい","p":true}],"sense":[{"gloss":"Caribbean Sea","pos":["n"]}]},"sdata":[{"j":"|カリブ↑海↑↓かい|↓には↑島↑↓しま↓が↑多↑↓おお↓い。","e":"The Caribbean abounds with islands."}]}

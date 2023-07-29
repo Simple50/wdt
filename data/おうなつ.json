@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押捺","p":true},{"e":"押なつ"}],"r_ele":[{"r":"おうなつ","p":true}],"sense":[{"gloss":"stamping, impressing, affixing a seal","pos":["n","vs","vt","vi"]}]},"sdata":[]}

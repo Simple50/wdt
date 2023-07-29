@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テンペラ","p":true}],"sense":[{"gloss":"tempera","pos":["n"],"l":"ita"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デジタル","p":true},{"r":"ディジタル","p":true}],"sense":[{"gloss":"digital","pos":["n","adj-no"]}]},"sdata":[]}

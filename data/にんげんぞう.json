@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人間像","p":true}],"r_ele":[{"r":"にんげんぞう","p":true}],"sense":[{"gloss":"image of (an ideal) person","pos":["n"]}]},"sdata":[]}

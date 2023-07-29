@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラビオリ","p":true}],"sense":[{"gloss":"ravioli","pos":["n"],"f":["food"],"l":"ita"}]},"sdata":[]}

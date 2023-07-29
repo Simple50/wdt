@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敵前","p":true}],"r_ele":[{"r":"てきぜん","p":true}],"sense":[{"gloss":"in the face of the enemy, before the enemy","pos":["n"]}]},"sdata":[]}

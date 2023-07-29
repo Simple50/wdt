@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナックル","p":true}],"sense":[{"gloss":"knuckle","pos":["n"]},{"gloss":"knuckleball","pos":["n"],"f":["baseb"],"x":["ナックルボール"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天童","p":true}],"r_ele":[{"r":"てんどう","p":true}],"sense":[{"gloss":"cherub, gods disguised as children, children parading as cherubs","pos":["n"]}]},"sdata":[{"j":"『メトロイドプライム3 コラプション』は、↑任天堂↑↓にん|てんどう|↓↑発売↑↓はつばい↓のWii↑専用↑↓せんよう↓ゲームソフト。","e":"Metroid Prime 3: Corruption is a videogame by Nintendo sold exclusively for the Wii."}]}

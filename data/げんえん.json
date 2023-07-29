@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"減塩","p":true}],"r_ele":[{"r":"げんえん","p":true}],"sense":[{"gloss":"reduction of salt, sodium restriction","pos":["n","adj-no"]}]},"sdata":[]}

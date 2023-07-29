@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り払う","p":true},{"e":"取払う"},{"e":"とり払う"}],"r_ele":[{"r":"とりはらう","p":true}],"sense":[{"gloss":"to clear away, to remove, to demolish","pos":["v5u","vt"]}]},"sdata":[]}

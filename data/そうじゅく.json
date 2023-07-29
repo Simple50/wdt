@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早熟","p":true}],"r_ele":[{"r":"そうじゅく","p":true}],"sense":[{"gloss":"precocity, early ripening, premature development","pos":["n","adj-na","adj-no"],"x":["晩熟"]}]},"sdata":[{"j":"↑女↑↓おんな↓の↑子↑↓こ↓は↑男↑↓おとこ↓の↑子↑↓こ↓より↑早熟↑↓|そうじゅく|↓だ。","e":"Girls mature faster than boys."},{"j":"↑早熟↑↓|そうじゅく|↓は↑大成↑↓たいせい↓せず。","e":"Soon ripe, soon rotten."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"若造","p":true},{"e":"若蔵"},{"e":"若僧"}],"r_ele":[{"r":"わかぞう","p":true}],"sense":[{"gloss":"youngster, neophyte, greenhorn","pos":["n"]}],"m":["derog"]},"sdata":[{"j":"「この↑若造↑↓|わかぞう|↓は↑誰↑↓だれ↓だ？」「↑私↑↓わたし↓の↑友達↑↓ともだち↓よ」","e":"Who is this young man? \"A friend of mine.\""}]}

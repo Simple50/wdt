@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コーポ","p":true}],"sense":[{"gloss":"apartment building, block of flats, condominium","pos":["n"],"x":["コーポラス"]}],"m":["abbr"]},"sdata":[{"j":"|コーポ|レートガバナンスや↑説明↑↓せつめい↓↑責任↑↓せきにん↓を↑強化↑↓きょうか↓している。","e":"Corporate governance and accountability are being strengthened."}]}

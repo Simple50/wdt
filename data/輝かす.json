@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"輝かす","p":true}],"r_ele":[{"r":"かがやかす","p":true}],"sense":[{"gloss":"to light up, to brighten","pos":["v5s","vt"]}]},"kdata":{"輝":{"on":["キ"],"kun":["かがや.く"],"jlpt":1,"meanings":["radiance","shine","sparkle","gleam","twinkle"],"freq":1259,"comp":[["軍","光"]],"t":2063}},"sdata":[]}

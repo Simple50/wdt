@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パッティング","p":true}],"sense":[{"gloss":"patting","pos":["n","vs"]},{"gloss":"putting","pos":["n","vs"]}]},"sdata":[]}

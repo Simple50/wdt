@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"襲来","p":true}],"r_ele":[{"r":"しゅうらい","p":true}],"sense":[{"gloss":"invasion, raid, attack, visitation (of a calamity)","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文化勲章","p":true}],"r_ele":[{"r":"ぶんかくんしょう","p":true}],"sense":[{"gloss":"Order of Culture, Order of Cultural Merit","pos":["n"]}]},"sdata":[]}

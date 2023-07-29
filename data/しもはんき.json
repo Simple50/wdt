@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下半期","p":true}],"r_ele":[{"r":"しもはんき","p":true},{"r":"かはんき"}],"sense":[{"gloss":"second half of the year, second half of the fiscal year","pos":["n"],"x":["上半期"]}]},"sdata":[]}

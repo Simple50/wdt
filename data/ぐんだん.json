@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍団","p":true}],"r_ele":[{"r":"ぐんだん","p":true}],"sense":[{"gloss":"army corps, corps","pos":["n"]}]},"sdata":[{"j":"その↑軍団↑↓|ぐんだん|↓は↑戦闘↑↓せんとう↓↑中↑↓ちゅう↓↑多↑↓おお↓くの↑輝↑↓かがや↓かしい↑作戦↑↓さくせん↓に↑従事↑↓じゅうじ↓した。","e":"The army was involved in a number of brilliant actions during the battle."}]}

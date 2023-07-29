@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独房","p":true}],"r_ele":[{"r":"どくぼう","p":true}],"sense":[{"gloss":"single cell, isolation cell, solitary cell, solitary confinement cell","pos":["n"]}]},"sdata":[{"j":"↑囚人↑↓しゅうじん↓は↑今日↑↓きょう↓は↑独房↑↓|どくぼう|↓の↑中↑↓なか↓で↑静↑↓しず↓かにしている。","e":"The prisoner is being quiet in the cell today."},{"j":"↑彼↑↓かれ↓は↑独房↑↓|どくぼう|↓に↑入↑↓い↓れられた。","e":"He was put in a cell."}]}

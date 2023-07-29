@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絶妙","p":true}],"r_ele":[{"r":"ぜつみょう","p":true}],"sense":[{"gloss":"exquisite, superb, perfect, miraculous","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

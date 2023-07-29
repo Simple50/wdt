@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"渋り腹","p":true},{"e":"しぶり腹"}],"r_ele":[{"r":"しぶりばら","p":true}],"sense":[{"gloss":"bowel pains, painful loose bowels","pos":["n"]}]},"sdata":[]}

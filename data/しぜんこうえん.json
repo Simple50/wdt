@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自然公園","p":true}],"r_ele":[{"r":"しぜんこうえん","p":true}],"sense":[{"gloss":"nature park, natural park","pos":["n"]}]},"sdata":[]}

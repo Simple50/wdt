@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"郵便為替","p":true}],"r_ele":[{"r":"ゆうびんかわせ","p":true},{"r":"ゆうびんがわせ"}],"sense":[{"gloss":"postal money order","pos":["n"]}]},"sdata":[{"j":"１０ドルを↑郵便↑↓|ゆうびん↓↑為替↑↓かわせ|↓でお↑願↑↓ねが↓いします。","e":"I'd like a money order for ten dollars."},{"j":"１０ドルの↑郵便↑↓|ゆうびん↓↑為替↑↓かわせ|↓にしていただきたいのですが。","e":"I'd like a money order for ten dollars."}]}

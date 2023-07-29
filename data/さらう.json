@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浚う","p":true},{"e":"渫う"}],"r_ele":[{"r":"さらう","p":true}],"sense":[{"gloss":"to sweep away, to wash away, to dredge","pos":["v5u","vt"]}],"m":["uk"]},"sdata":[]}

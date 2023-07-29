@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"涙声","p":true}],"r_ele":[{"r":"なみだごえ","p":true}],"sense":[{"gloss":"tearful voice","pos":["n"]}]},"sdata":[]}

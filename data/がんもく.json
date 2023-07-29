@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"眼目","p":true}],"r_ele":[{"r":"がんもく","p":true}],"sense":[{"gloss":"main point, main object, chief purpose, core, gist, essence","pos":["n"]}]},"sdata":[]}

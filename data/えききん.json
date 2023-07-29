@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"益金","p":true}],"r_ele":[{"r":"えききん","p":true}],"sense":[{"gloss":"profit","pos":["n"]}]},"sdata":[{"j":"↑国際↑↓こくさい↓↑貿易↑↓ぼう|えき↓↑禁止↑↓きん|し↓↑令↑↓れい↓がその↑国↑↓くに↓の↑経済↑↓けいざい↓にとって↑最後↑↓さいご↓の↑頼↑↓たの↓みでしょう。","e":"An international trade ban could be the last straw for that country's economy."}]}

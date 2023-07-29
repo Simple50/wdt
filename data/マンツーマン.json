@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マンツーマン","p":true}],"sense":[{"gloss":"man-to-man, one-to-one","pos":["n"]}]},"sdata":[{"j":"|マンツーマン|で↑指導↑↓しどう↓して↑頂↑↓いただ↓けたという↑点↑↓てん↓でも、↑非常↑↓ひじょう↓に↑充実↑↓じゅうじつ↓した↑実習↑↓じっしゅう↓になった。","e":"Just getting one-to-one guidance was enough to make it an extremely fulfilling practise session."}]}

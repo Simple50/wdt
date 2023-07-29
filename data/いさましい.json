@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勇ましい","p":true}],"r_ele":[{"r":"いさましい","p":true}],"sense":[{"gloss":"brave, valiant, gallant, courageous","pos":["adj-i"]},{"gloss":"stirring, vigorous, rousing","pos":["adj-i"]}]},"sdata":[{"j":"↑一人↑↓ひとり↓で↑原始↑↓げんし↓↑林↑↓りん↓へ↑乗↑↓の↓り↑込↑↓こ↓もうとは↑君↑↓きみ↓はなんて↑勇↑↓|いさ↓ましい|んだ。","e":"How brave of you to go alone into the primaeval forest!"}]}

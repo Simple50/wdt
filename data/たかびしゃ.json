@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高飛車","p":true},{"e":"高びしゃ"}],"r_ele":[{"r":"たかびしゃ","p":true}],"sense":[{"gloss":"high-handed, domineering, on one's high horse","pos":["adj-na","n"]}]},"sdata":[{"j":"↑高飛車↑↓|たかびしゃ|↓に↑出↑↓で↓たね。","e":"So you are acting high-handedly."},{"j":"メアリーって、なんか↑高飛車↑↓|たかびしゃ|↓なのよ。","e":"Mary is somewhat arrogant."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水郷","p":true}],"r_ele":[{"r":"すいごう","p":true}],"sense":[{"gloss":"beautiful riverside location, lakeside district, canal district","pos":["n"]}]},"sdata":[]}

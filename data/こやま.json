@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小山","p":true}],"r_ele":[{"r":"こやま","p":true}],"sense":[{"gloss":"hill, knoll","pos":["n"]}]},"sdata":[{"j":"あいつは↑小山↑↓|こやま|↓の↑大将↑↓たいしょう↓だった。","e":"He was the cock of the walk."}]}

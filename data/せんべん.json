@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"先鞭","p":true},{"e":"先べん"}],"r_ele":[{"r":"せんべん","p":true}],"sense":[{"gloss":"initiative, pioneering","pos":["n"]}]},"sdata":[]}

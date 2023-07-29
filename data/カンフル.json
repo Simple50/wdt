@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カンフル","p":true}],"sense":[{"gloss":"camphor","pos":["n"],"l":"dut: kamfer"},{"gloss":"impetus, shot in the arm, stimulus","pos":["n"]}]},"sdata":[]}

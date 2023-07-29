@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細目","p":true}],"r_ele":[{"r":"さいもく","p":true}],"sense":[{"gloss":"particulars, details, specified items","pos":["n"]}]},"sdata":[]}

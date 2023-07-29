@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アーリーアメリカン","p":true},{"r":"アーリー・アメリカン"}],"sense":[{"gloss":"early American","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大豆","p":true}],"r_ele":[{"r":"だいず","p":true},{"r":"ダイズ"}],"sense":[{"gloss":"soya bean (Glycine max), soybean, soy","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓が↑当代↑↓とう|だい↓↑随一↑↓ず|いいち↓の↑作家↑↓さっか↓のひとりであるのは↑言↑↓い↓うまでもない。","e":"Needless to say he is one of the best writers of the present generation."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"花道","p":true}],"r_ele":[{"r":"はなみち","p":true}],"sense":[{"gloss":"elevated walkway through the audience to the stage (kabuki)","pos":["n"]},{"gloss":"honourable end to a career","pos":["n"]}]},"sdata":[]}

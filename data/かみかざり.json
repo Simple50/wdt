@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"髪飾り","p":true}],"r_ele":[{"r":"かみかざり","p":true}],"sense":[{"gloss":"hair ornament","pos":["n"]}]},"sdata":[]}

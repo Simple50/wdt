@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"必着","p":true}],"r_ele":[{"r":"ひっちゃく","p":true}],"sense":[{"gloss":"must arrive, must be received","pos":["n"]}]},"sdata":[]}

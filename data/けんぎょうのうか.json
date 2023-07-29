@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"兼業農家","p":true}],"r_ele":[{"r":"けんぎょうのうか","p":true}],"sense":[{"gloss":"part-time farmer","pos":["n"]}]},"sdata":[]}

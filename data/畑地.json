@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"畑地","p":true}],"r_ele":[{"r":"はたち","p":true}],"sense":[{"gloss":"farmland","pos":["n"]}]},"kdata":{"畑":{"kun":["はた","はたけ","-ばたけ"],"jlpt":1,"meanings":["farm","field","garden","one's specialty","(kokuji)"],"freq":1176,"comp":[["火","田"]],"t":918},"地":{"on":["チ","ジ"],"jlpt":4,"meanings":["ground","earth"],"freq":40,"comp":[["土","也"]],"t":335}},"sdata":[]}

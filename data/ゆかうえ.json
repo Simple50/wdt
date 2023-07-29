@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"床上","p":true}],"r_ele":[{"r":"ゆかうえ","p":true}],"sense":[{"gloss":"on a floor, above floor level","pos":["n"]}]},"sdata":[]}

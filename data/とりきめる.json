@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"取り決める","p":true},{"e":"取り極める"},{"e":"取決める"},{"e":"取極める"}],"r_ele":[{"r":"とりきめる","p":true}],"sense":[{"gloss":"to agree, to decide upon, to enter into (a contract)","pos":["v1","vt"]}]},"sdata":[]}

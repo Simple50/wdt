@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"貶す","p":true}],"r_ele":[{"r":"けなす","p":true}],"sense":[{"gloss":"to speak ill of, to disparage","pos":["v5s","vt"]}],"m":["uk"]},"kdata":{"貶":{"on":["ヘン"],"kun":["けな.す","おとし.める","おと.す"],"meanings":["degrade","disparage","belittle","demote"],"comp":[["乏","貝"]],"freq":3380}},"sdata":[]}

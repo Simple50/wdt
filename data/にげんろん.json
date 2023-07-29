@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二元論","p":true}],"r_ele":[{"r":"にげんろん","p":true}],"sense":[{"gloss":"dualism","pos":["n"]}]},"sdata":[{"j":"この↑国↑↓くに↓|に↑言論↑↓げんろん|↓の↑自由↑↓じゆう↓ってものはないみたいだね。","e":"It seems this country doesn't really uphold the idea of freedom of speech."}]}

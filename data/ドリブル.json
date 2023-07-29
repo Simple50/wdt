@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドリブル","p":true}],"sense":[{"gloss":"dribble (of a ball or puck), dribbling","pos":["n","vs","vt"],"f":["sports"]}]},"sdata":[]}

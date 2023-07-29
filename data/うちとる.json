@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち取る","p":true},{"e":"討ち取る"},{"e":"打ちとる"},{"e":"討ちとる"},{"e":"打取る"},{"e":"討取る"},{"e":"撃ち取る","i":["rK"]}],"r_ele":[{"r":"うちとる","p":true}],"sense":[{"gloss":"to kill (with a weapon), to slay","pos":["v5r","vt"]},{"gloss":"to defeat (an opponent), to beat","pos":["v5r","vt"]},{"gloss":"to get (a batter) out","pos":["v5r","vt"],"f":["baseb"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折り込み","p":true},{"e":"折込み"},{"e":"折込","i":["io"]}],"r_ele":[{"r":"おりこみ","p":true},{"r":"オリコミ"}],"sense":[{"gloss":"insert (in a magazine, newspaper, etc.), foldout, insertion","pos":["n"]}]},"sdata":[]}

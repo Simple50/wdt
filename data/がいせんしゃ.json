@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"街宣車","p":true}],"r_ele":[{"r":"がいせんしゃ","p":true}],"sense":[{"gloss":"(right-wing) propaganda truck","pos":["n"]}]},"sdata":[]}

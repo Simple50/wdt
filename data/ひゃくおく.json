@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"１００億","p":true},{"e":"百億","p":true},{"e":"１００００００００００"}],"r_ele":[{"r":"ひゃくおく","p":true}],"sense":[{"gloss":"10,000,000,000, ten billion","pos":["num"]}]},"sdata":[]}

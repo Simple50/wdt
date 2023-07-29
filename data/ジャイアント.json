@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジャイアント","p":true}],"sense":[{"gloss":"giant","pos":["adj-na","n"]}]},"sdata":[]}

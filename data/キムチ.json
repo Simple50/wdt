@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"沈菜","i":["rK"]}],"r_ele":[{"r":"キムチ","p":true}],"sense":[{"gloss":"kimchee, kimchi","pos":["n"],"f":["food"],"l":"kor"}],"m":["uk"]},"sdata":[]}

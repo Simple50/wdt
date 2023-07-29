@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脚力","p":true}],"r_ele":[{"r":"きゃくりょく","p":true},{"r":"きゃくりき"}],"sense":[{"gloss":"leg strength, walking ability, running ability","pos":["n"]}]},"sdata":[]}

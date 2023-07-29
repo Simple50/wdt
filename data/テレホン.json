@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テレホン","p":true},{"r":"テレフォン"}],"sense":[{"gloss":"telephone","pos":["n"]}]},"sdata":[{"j":"↑ＮＴＴ↑↓えぬてぃーてぃー↓は３００↑度↑↓ど↓↑数↑↓すう↓↑以上↑↓いじょう↓の|テレホン|カードを↑廃止↑↓はいし↓した。","e":"NTT cancelled telephone cards with over 300 units."}]}

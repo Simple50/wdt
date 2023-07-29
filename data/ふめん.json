@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"譜面","p":true}],"r_ele":[{"r":"ふめん","p":true}],"sense":[{"gloss":"sheet music, score","pos":["n"]}]},"sdata":[]}

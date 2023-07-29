@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国立博物館","p":true}],"r_ele":[{"r":"こくりつはくぶつかん","p":true}],"sense":[{"gloss":"national museum","pos":["n"]}]},"sdata":[]}

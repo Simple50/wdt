@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"読み返す","p":true},{"e":"読みかえす"},{"e":"読返す"}],"r_ele":[{"r":"よみかえす","p":true}],"sense":[{"gloss":"to reread, to read again","pos":["v5s","vt"]}]},"sdata":[{"j":"この↑本↑↓ほん↓は↑何↑↓なん↓↑度↑↓ど↓でも↑読↑↓|よ↓み↑返↑↓かえ↓す|↑価値↑↓かち↓があると↑思↑↓おも↓う。","e":"This book is worth reading over and over again."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横軸","p":true}],"r_ele":[{"r":"よこじく","p":true}],"sense":[{"gloss":"abscissa, horizontal axis","pos":["n","adj-no"]},{"gloss":"horizontal scroll","pos":["n"],"x":["掛け物・かけもの・1"]}]},"sdata":[]}

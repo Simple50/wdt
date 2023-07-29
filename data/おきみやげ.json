@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"置き土産","p":true},{"e":"置きみやげ"}],"r_ele":[{"r":"おきみやげ","p":true}],"sense":[{"gloss":"parting gift, remembrance, aftereffect","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑自分↑↓じぶん↓のお↑気↑↓き↓に↑入↑↓い↓りの↑本↑↓ほん↓を↑私↑↓わたし↓への↑置↑↓|お↓き↑土産↑↓みやげ|↓にして↑大阪↑↓おおさか↓に↑引↑↓ひ↓っ↑越↑↓こ↓した。","e":"He left me with his favorite book and moved to Osaka."}]}

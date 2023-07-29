@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"炸裂","p":true},{"e":"さく裂"}],"r_ele":[{"r":"さくれつ","p":true}],"sense":[{"gloss":"violent explosion, bursting","pos":["n","vs","vi"]}]},"sdata":[]}

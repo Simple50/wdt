@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通信教育","p":true}],"r_ele":[{"r":"つうしんきょういく","p":true}],"sense":[{"gloss":"correspondence education, correspondence course, distance education","pos":["n"]}]},"sdata":[]}

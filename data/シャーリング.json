@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シャーリング","p":true}],"sense":[{"gloss":"shirring","pos":["n"]}]},"sdata":[]}

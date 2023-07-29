@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"丸洗い","p":true}],"r_ele":[{"r":"まるあらい","p":true}],"sense":[{"gloss":"washing a kimono (or futon, etc.) without taking it apart, laundering whole","pos":["n","vs","vt"],"x":["解き洗い"]}]},"sdata":[]}

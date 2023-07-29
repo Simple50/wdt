@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゴスペル","p":true}],"sense":[{"gloss":"gospel (of Jesus)","pos":["n"]},{"gloss":"the Gospels","pos":["n"],"x":["福音書"]},{"gloss":"gospel (music)","pos":["n"],"x":["ゴスペルソング"]}]},"sdata":[]}

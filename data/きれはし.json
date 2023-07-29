@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切れ端","p":true},{"e":"切れはし"}],"r_ele":[{"r":"きれはし","p":true}],"sense":[{"gloss":"fragment, scrap, cut end, cut-off piece, chip, odds and ends","pos":["n"]}]},"sdata":[{"j":"↑少女↑↓しょうじょ↓は↑生地↑↓きじ↓の↑切↑↓|き↓れ↑端↑↓はし|↓で↑人形↑↓にんぎょう↓を↑作↑↓つく↓った。","e":"The girl made a doll out of a piece of cloth."}]}

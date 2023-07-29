@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"晴れ姿","p":true}],"r_ele":[{"r":"はれすがた","p":true}],"sense":[{"gloss":"appearing in one's finest clothes, appearing in one's hour of triumph","pos":["n"]}]},"sdata":[]}

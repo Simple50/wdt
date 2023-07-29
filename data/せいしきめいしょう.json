@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"正式名称","p":true}],"r_ele":[{"r":"せいしきめいしょう","p":true}],"sense":[{"gloss":"official name, formal name","pos":["n"]}]},"sdata":[]}

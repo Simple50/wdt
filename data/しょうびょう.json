@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"傷病","p":true}],"r_ele":[{"r":"しょうびょう","p":true}],"sense":[{"gloss":"injuries and sickness, wounds and illness","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分量","p":true}],"r_ele":[{"r":"ぶんりょう","p":true}],"sense":[{"gloss":"amount, quantity","pos":["n"]},{"gloss":"measuring, weighing","pos":["n","vs","vt"]}]},"sdata":[{"j":"その↑作↑↓つく↓り↑方↑↓かた↓の↑分量↑↓|ぶんりょう|↓は↑六↑↓ろく↓↑人↑↓にん↓↑分↑↓ぶん↓です。","e":"The recipe serves six people."},{"j":"↑今↑↓いま↓は↑気分↑↓き|ぶん↓↑良好↑↓りょう|こう↓だよ。","e":"I'm feeling fine now."}]}

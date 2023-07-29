@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新生児","p":true}],"r_ele":[{"r":"しんせいじ","p":true}],"sense":[{"gloss":"newborn baby","pos":["n"]}]},"sdata":[]}

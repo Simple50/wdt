@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仏前","p":true}],"r_ele":[{"r":"ぶつぜん","p":true}],"sense":[{"gloss":"(before a) Buddhist altar, before the Buddha","pos":["n"]},{"gloss":"offering placed on a Buddhist altar, incense money, condolatory offering","pos":["n"]}]},"sdata":[]}

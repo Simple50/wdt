@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プレスリリース","p":true},{"r":"プレス・リリース"}],"sense":[{"gloss":"press release","pos":["n"]}]},"sdata":[{"j":"その↑会社↑↓かいしゃ↓は|プレスリリース|を↑発行↑↓はっこう↓した。","e":"The company released a press release."}]}

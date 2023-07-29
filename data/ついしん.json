@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追伸","p":true},{"e":"追申","i":["rK"]}],"r_ele":[{"r":"ついしん","p":true}],"sense":[{"gloss":"postscript, post scriptum, PS, P.S.","pos":["n"]}]},"sdata":[{"j":"↑追伸↑↓|ついしん|↓↑愛↑↓あい↓してます。","e":"P. S. I love you."}]}

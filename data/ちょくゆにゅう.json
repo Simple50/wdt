@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直輸入","p":true}],"r_ele":[{"r":"ちょくゆにゅう","p":true},{"r":"じきゆにゅう"}],"sense":[{"gloss":"direct import, direct importation","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"政治結社","p":true}],"r_ele":[{"r":"せいじけっしゃ","p":true}],"sense":[{"gloss":"political organization (organisation)","pos":["n"]}]},"sdata":[]}

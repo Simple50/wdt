@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本業","p":true}],"r_ele":[{"r":"ほんぎょう","p":true}],"sense":[{"gloss":"principal occupation, core business","pos":["n"]}]},"sdata":[]}

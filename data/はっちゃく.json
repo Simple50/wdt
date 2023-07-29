@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発着","p":true},{"e":"はっ着"}],"r_ele":[{"r":"はっちゃく","p":true}],"sense":[{"gloss":"arrival and departure","pos":["n","vs","vi"]}]},"sdata":[]}

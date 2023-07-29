@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仏文","p":true}],"r_ele":[{"r":"ふつぶん","p":true}],"sense":[{"gloss":"French, French writing, French literature","pos":["n"]}]},"sdata":[]}

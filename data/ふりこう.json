@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不履行","p":true}],"r_ele":[{"r":"ふりこう","p":true}],"sense":[{"gloss":"default, nonperformance","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"継母","p":true}],"r_ele":[{"r":"けいぼ"},{"r":"ままはは","p":true}],"sense":[{"gloss":"stepmother","pos":["n"]}]},"sdata":[{"j":"|まま↑母↑↓はは|↓はシンデレラをあざ↑笑↑↓わら↓った。","e":"The stepmother sneered at Cinderella."}]}

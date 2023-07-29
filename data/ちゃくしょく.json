@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"着色","p":true}],"r_ele":[{"r":"ちゃくしょく","p":true}],"sense":[{"gloss":"colouring, coloring, colorant","pos":["n","vs","vt","vi","adj-no"]}]},"sdata":[]}

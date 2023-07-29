@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"繰り広げる","p":true},{"e":"繰広げる"},{"e":"繰り拡げる","i":["sK"]},{"e":"繰拡げる","i":["sK"]}],"r_ele":[{"r":"くりひろげる","p":true}],"sense":[{"gloss":"to unfold, to unroll, to open","pos":["v1","vt"]}]},"sdata":[]}

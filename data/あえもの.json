@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和え物","p":true},{"e":"韲え物"},{"e":"和物"},{"e":"韲物"},{"e":"あえ物"}],"r_ele":[{"r":"あえもの","p":true}],"sense":[{"gloss":"chopped fish, shellfish or vegetables, dressed with (miso or other) sauce","pos":["n"],"f":["food"]}]},"sdata":[]}

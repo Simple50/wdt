@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"機械化","p":true}],"r_ele":[{"r":"きかいか","p":true}],"sense":[{"gloss":"mechanization, mechanisation","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"その↑機械↑↓|きかい↓か|らバッテリーを↑外↑↓はず↓せ。","e":"Take the battery off the machine."}]}

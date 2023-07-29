@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"換気扇","p":true}],"r_ele":[{"r":"かんきせん","p":true}],"sense":[{"gloss":"ventilation fan, extractor fan","pos":["n"]}]},"sdata":[{"j":"↑部屋↑↓へや↓の↑換気扇↑↓|かんきせん|↓を↑回↑↓まわ↓すとドアの↑隙間↑↓すきま↓から↑冷↑↓つめ↓たい↑風↑↓かぜ↓が↑入↑↓はい↓り↑込↑↓こ↓んでくる。","e":"When I turn the fan on in the room, a cool breeze comes in from under the door."}]}

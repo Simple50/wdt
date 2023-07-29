@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"細胞内","p":true}],"r_ele":[{"r":"さいぼうない","p":true}],"sense":[{"gloss":"inside the cell, intracellular","pos":["n","adj-no"]}]},"sdata":[]}

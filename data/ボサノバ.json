@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボサノバ","p":true},{"r":"ボサノヴァ"},{"r":"ボサノーヴァ","i":["ik"]}],"sense":[{"gloss":"bossa nova","pos":["n"],"l":"por"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"家づくり","p":true},{"e":"家造り"},{"e":"家作り"},{"e":"屋造り"}],"r_ele":[{"r":"いえづくり","p":true},{"r":"やづくり"}],"sense":[{"gloss":"house building, building a house","pos":["n"]},{"gloss":"style of a house, appearance of a house","pos":["n"]}]},"sdata":[]}

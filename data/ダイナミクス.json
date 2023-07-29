@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ダイナミクス","p":true}],"sense":[{"gloss":"dynamics","pos":["n"]}]},"sdata":[{"j":"ボストン|ダイナミクス|は↑走↑↓はし↓ることさえ↑出来↑↓でき↓るロボットを↑造↑↓つく↓りましたよ。","e":"Boston Dynamics created a robot that can even run."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"年明ける","p":true}],"r_ele":[{"r":"としあける","p":true}],"sense":[{"gloss":"the New Year dawns","pos":["exp","v1"],"ant":["年暮れる"],"x":["年が明ける"]}]},"sdata":[]}

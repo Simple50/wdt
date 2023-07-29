@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"爆風","p":true}],"r_ele":[{"r":"ばくふう","p":true}],"sense":[{"gloss":"bomb blast, blast (from an explosion), shock wave","pos":["n"]}]},"sdata":[]}

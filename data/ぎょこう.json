@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漁港","p":true}],"r_ele":[{"r":"ぎょこう","p":true}],"sense":[{"gloss":"fishing harbour, fishing harbor","pos":["n"]}]},"sdata":[]}

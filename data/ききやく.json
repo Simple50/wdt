@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聞き役","p":true},{"e":"聞役"}],"r_ele":[{"r":"ききやく","p":true}],"sense":[{"gloss":"listener's role","pos":["n"]}]},"sdata":[]}

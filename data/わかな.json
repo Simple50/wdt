@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"若菜","p":true}],"r_ele":[{"r":"わかな","p":true}],"sense":[{"gloss":"young greens, young herbs","pos":["n"]}]},"sdata":[{"j":"なんかまだ↑結婚↑↓けっこん↓したっていう↑実感↑↓じっかん↓が|わかな|いんだよ。","e":"It somehow still hasn't sunk in that I am actually married."},{"j":"↑最近↑↓さいきん↓、↑物欲↑↓ぶつよく↓が|わかな|くてね。","e":"I haven't had the desire for stuff lately."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"徳行","p":true}],"r_ele":[{"r":"とっこう","p":true}],"sense":[{"gloss":"virtuous act or deeds, goodness","pos":["n"]}]},"sdata":[{"j":"↑笑顔↑↓えがお↓ってね、↑機嫌↑↓きげん↓をなおす↑特効薬↑↓|とっこう|やく↓なのよ。","e":"A smile is the best cure for a bad mood."}]}

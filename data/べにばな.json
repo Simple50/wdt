@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紅花","p":true}],"r_ele":[{"r":"べにばな","p":true},{"r":"こうか"},{"r":"ベニバナ"},{"r":"ベニハナ","i":["ik"]}],"sense":[{"gloss":"safflower (Carthamus tinctorius), dyer's safflower","pos":["n"]}]},"sdata":[]}

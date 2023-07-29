@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"配送先","p":true}],"r_ele":[{"r":"はいそうさき","p":true}],"sense":[{"gloss":"delivery address, address for delivery","pos":["n"]}]},"sdata":[]}

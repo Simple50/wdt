@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"双発","p":true}],"r_ele":[{"r":"そうはつ","p":true}],"sense":[{"gloss":"two-motored","pos":["n","adj-no"]}]},"sdata":[{"j":"ことの↑真相↑↓しん|そう↓は↑突↑↓つ|↓き↑止↑↓と↓めがたい。","e":"It is difficult to ascertain what really happened."}]}

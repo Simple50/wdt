@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"共存","p":true}],"r_ele":[{"r":"きょうぞん","p":true},{"r":"きょうそん"}],"sense":[{"gloss":"coexistence","pos":["n","vs","vi"]}]},"sdata":[]}

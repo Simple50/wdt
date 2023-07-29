@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直接行動","p":true}],"r_ele":[{"r":"ちょくせつこうどう","p":true}],"sense":[{"gloss":"direct action","pos":["n"]}]},"sdata":[]}

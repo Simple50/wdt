@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"既得権","p":true}],"r_ele":[{"r":"きとくけん","p":true}],"sense":[{"gloss":"vested rights","pos":["n"]}]},"sdata":[]}

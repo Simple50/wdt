@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"裏付ける","p":true},{"e":"裏づける","p":true}],"r_ele":[{"r":"うらづける","p":true}],"sense":[{"gloss":"to support (a theory, claim, etc.), to back up, to substantiate, to prove","pos":["v1","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑意見↑↓いけん↓を↑裏付↑↓|うらづ↓ける|↑証拠↑↓しょうこ↓はたくさんある。","e":"I have a couple of pieces of evidence to support my opinion."}]}

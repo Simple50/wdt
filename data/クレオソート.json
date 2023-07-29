@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレオソート","p":true},{"r":"ケレオソート"}],"sense":[{"gloss":"creosote","pos":["n"]}]},"sdata":[]}

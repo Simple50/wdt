@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荻","p":true}],"r_ele":[{"r":"おぎ","p":true},{"r":"オギ"}],"sense":[{"gloss":"Amur silvergrass (Miscanthus sacchariflorus)","pos":["n"]}]},"kdata":{"荻":{"on":["テキ"],"kun":["おぎ"],"meanings":["reed","rush"],"freq":1630,"comp":[["狄","艹"]],"jlpt":0}},"sdata":[{"j":"|↑荻|窪↑↓おぎくぼ↓まではどう↑行↑↓い↓ったらいいですか？","e":"What's a good way to get to Ogikubo?"}]}

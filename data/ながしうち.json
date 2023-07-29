@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流し打ち","p":true}],"r_ele":[{"r":"ながしうち","p":true}],"sense":[{"gloss":"hitting to the opposite field","pos":["n"],"f":["baseb"]}]},"sdata":[]}

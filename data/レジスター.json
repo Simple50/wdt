@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レジスター","p":true},{"r":"レジスタ"}],"sense":[{"gloss":"(cash) register","pos":["n"],"x":["レジ・1"]},{"gloss":"checkout (counter), cashier","pos":["n"]},{"gloss":"register","pos":["n"],"f":["comp"]}]},"sdata":[]}

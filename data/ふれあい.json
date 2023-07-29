@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"触れ合い","p":true},{"e":"ふれ合い"},{"e":"触合い"}],"r_ele":[{"r":"ふれあい","p":true}],"sense":[{"gloss":"contact, connectedness, rapport, mutual touching","pos":["n","adj-f"]}],"m":["uk"]},"sdata":[]}

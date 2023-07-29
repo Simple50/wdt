@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"排泄","p":true},{"e":"排せつ"}],"r_ele":[{"r":"はいせつ","p":true}],"sense":[{"gloss":"excretion","pos":["n","vs","vt","adj-no"]}]},"sdata":[]}

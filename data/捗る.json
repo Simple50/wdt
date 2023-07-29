@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"捗る","p":true}],"r_ele":[{"r":"はかどる","p":true}],"sense":[{"gloss":"to make (good) progress, to move right ahead (with the work), to advance","pos":["v5r","vi"]}],"m":["uk"]},"kdata":{"捗":{"on":["チョク","ホ"],"kun":["はかど.る"],"meanings":["make progress"],"comp":[["扌","步"]],"jlpt":1,"t":1218,"freq":2996}},"sdata":[]}

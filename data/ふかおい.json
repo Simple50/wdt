@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"深追い","p":true}],"r_ele":[{"r":"ふかおい","p":true}],"sense":[{"gloss":"chasing too far, pursuing relentlessly","pos":["n","vs","vt"]}]},"sdata":[]}

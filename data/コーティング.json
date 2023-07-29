@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コーティング","p":true}],"sense":[{"gloss":"coating","pos":["n","vs","vt"]}]},"sdata":[]}

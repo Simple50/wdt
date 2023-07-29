@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ケーソン工法","p":true}],"r_ele":[{"r":"ケーソンこうほう","p":true}],"sense":[{"gloss":"caisson method","pos":["n"]}]},"sdata":[]}

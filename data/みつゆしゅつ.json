@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"密輸出","p":true}],"r_ele":[{"r":"みつゆしゅつ","p":true}],"sense":[{"gloss":"smuggling out","pos":["n","vs","vt"],"x":["密輸入"]}]},"sdata":[]}

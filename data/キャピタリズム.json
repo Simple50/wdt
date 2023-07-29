@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャピタリズム","p":true}],"sense":[{"gloss":"capitalism","pos":["n"]}]},"sdata":[]}

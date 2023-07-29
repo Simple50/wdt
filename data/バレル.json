@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バレル","p":true},{"r":"バーレル","p":true}],"sense":[{"gloss":"barrel","pos":["n"]}]},"sdata":[{"j":"↑中東↑↓ちゅうとう↓の↑石油↑↓せきゆ↓↑価格↑↓かかく↓は１|バレル|↑当↑↓あ↓たり５ドルほど↑跳↑↓は↓ね↑上↑↓あ↓がりました。","e":"Middle Eastern oil prices jumped by five dollars per barrel."}]}

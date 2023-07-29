@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"増減","p":true}],"r_ele":[{"r":"ぞうげん","p":true}],"sense":[{"gloss":"increase and decrease, fluctuation","pos":["n","vs","vt","vi"]}]},"sdata":[]}

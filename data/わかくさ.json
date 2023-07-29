@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"若草","p":true}],"r_ele":[{"r":"わかくさ","p":true}],"sense":[{"gloss":"green grass, young (fresh) grass","pos":["n"]}]},"sdata":[]}

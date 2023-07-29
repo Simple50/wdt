@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗り捨てる","p":true}],"r_ele":[{"r":"のりすてる","p":true}],"sense":[{"gloss":"to get off, to abandon (a ship or vehicle)","pos":["v1","vt"]}]},"sdata":[{"j":"↑乗↑↓|の↓り↑捨↑↓す↓てる|↑事↑↓こと↓ができますか。","e":"Can I drop off the car?"}]}

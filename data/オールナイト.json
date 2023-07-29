@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オールナイト","p":true}],"sense":[{"gloss":"all-night","pos":["n"]}]},"sdata":[]}

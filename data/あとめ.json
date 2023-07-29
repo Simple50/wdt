@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"跡目","p":true}],"r_ele":[{"r":"あとめ","p":true}],"sense":[{"gloss":"headship of a family, family property","pos":["n"]}]},"sdata":[]}

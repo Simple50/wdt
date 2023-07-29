@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウレタンフォーム","p":true},{"r":"ウレタン・フォーム"}],"sense":[{"gloss":"urethane foam","pos":["n"]}]},"sdata":[]}

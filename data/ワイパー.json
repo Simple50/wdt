@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワイパー","p":true},{"r":"ワイパ"}],"sense":[{"gloss":"windshield wipers","pos":["n"]}]},"sdata":[]}

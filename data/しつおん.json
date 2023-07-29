@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"室温","p":true}],"r_ele":[{"r":"しつおん","p":true}],"sense":[{"gloss":"room temperature","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"回顧録","p":true}],"r_ele":[{"r":"かいころく","p":true}],"sense":[{"gloss":"memoirs, reminiscences","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑大統領↑↓だいとうりょう↓との↑不倫↑↓ふりん↓↑関係↑↓かんけい↓を↑暴露↑↓ばくろ↓する↑回顧↑↓|かいこ↓↑録↑↓ろく|↓を↑執筆↑↓しっぴつ↓した。","e":"She penned a tell-all memoir of her affair with the president."}]}

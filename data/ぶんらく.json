@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文楽","p":true}],"r_ele":[{"r":"ぶんらく","p":true}],"sense":[{"gloss":"bunraku, Japanese puppet theatre (theater)","pos":["n"]}]},"sdata":[{"j":"↑以前↑↓いぜん↓に↑比↑↓くら↓べれば、ここでの↑生活↑↓せいかつ↓は↑随分↑↓ずい|ぶん↓↑楽↑↓らく|↓になりました。","e":"Life here is much easier than it used to be."}]}

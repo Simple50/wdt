@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナレーター","p":true}],"sense":[{"gloss":"narrator","pos":["n"]}]},"sdata":[]}

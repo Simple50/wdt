@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サバンナ","p":true},{"r":"サバナ"}],"sense":[{"gloss":"savanna, savannah","pos":["n"]}]},"sdata":[{"j":"でも↑典型↑↓てんけい↓↑的↑↓てき↓な|サバンナ|↑気候↑↓きこう↓の↑国↑↓くに↓で、↑涼↑↓すず↓しい↑気温↑↓きおん↓に↑恵↑↓めぐ↓まれているのです。","e":"But it's a typical savannah country, and we enjoy cooler temperatures."}]}

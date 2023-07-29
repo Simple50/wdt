@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"組み写真","p":true}],"r_ele":[{"r":"くみしゃしん","p":true}],"sense":[{"gloss":"composite or montage photograph","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"製菓","p":true}],"r_ele":[{"r":"せいか","p":true}],"sense":[{"gloss":"confectionery production","pos":["n"]}]},"kdata":{"製":{"on":["セイ"],"jlpt":1,"meanings":["made in...","manufacture"],"freq":488,"comp":[["制","衣"]],"t":1920},"菓":{"on":["カ"],"jlpt":2,"meanings":["candy","cakes","fruit"],"freq":1719,"comp":[["艹","果"]],"t":1372}},"sdata":[]}

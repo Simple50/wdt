@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"財政難","p":true}],"r_ele":[{"r":"ざいせいなん","p":true}],"sense":[{"gloss":"economic difficulties, financial difficulties, fiscal difficulties","pos":["n"],"x":["財政困難・ざいせいこんなん"]}]},"sdata":[{"j":"↑財政↑↓ざいせい↓↑改革↑↓かいかく↓は↑今↑↓いま↓の↑財政難↑↓|ざいせいなん|↓を↑改善↑↓かいぜん↓するかもしれません。","e":"Financial reforms may ameliorate the current economic difficulties."}]}

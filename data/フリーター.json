@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フリーター","p":true}],"sense":[{"gloss":"(young) person subsisting on part-time work, person whose livelihood is provided by part-time work","pos":["n"],"x":["フリーアルバイター"]}],"m":["abbr"]},"sdata":[]}

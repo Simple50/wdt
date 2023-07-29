@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"毎年","p":true}],"r_ele":[{"r":"まいとし","p":true},{"r":"まいねん","p":true}],"sense":[{"gloss":"every year, yearly, annually","pos":["adv","n"]}]},"sdata":[]}

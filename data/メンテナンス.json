@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メンテナンス","p":true},{"r":"メインテナンス"}],"sense":[{"gloss":"maintenance","pos":["n"]}]},"sdata":[{"j":"↑火災報知器↑↓かさいほうちき↓はまったく|メンテナンス|されなかった。","e":"The smoke alarm has never been maintained."}]}

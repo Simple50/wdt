@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"品格","p":true}],"r_ele":[{"r":"ひんかく","p":true}],"sense":[{"gloss":"dignity, quality, grace, panache, level","pos":["n"]}]},"sdata":[]}

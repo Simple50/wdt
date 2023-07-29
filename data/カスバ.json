@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カスバ","p":true}],"sense":[{"gloss":"casbah, kasbah, qasbah","pos":["n"],"l":"ara: qaṣabah"}]},"sdata":[]}

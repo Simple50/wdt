@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"利用価値","p":true}],"r_ele":[{"r":"りようかち","p":true}],"sense":[{"gloss":"utility value","pos":["n"]}],"m":["yoji"]},"sdata":[]}

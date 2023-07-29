@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和洋","p":true}],"r_ele":[{"r":"わよう","p":true}],"sense":[{"gloss":"Japan and Europe","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑和洋折衷↑↓|わよう|せっちゅう↓の↑家↑↓いえ↓に↑住↑↓す↓んでいる。","e":"He lives in a house built in a semi foreign style."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フェローシップ","p":true}],"sense":[{"gloss":"fellowship","pos":["n"]}]},"sdata":[]}

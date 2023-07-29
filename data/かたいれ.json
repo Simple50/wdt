@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肩入れ","p":true},{"e":"肩入","i":["sK"]}],"r_ele":[{"r":"かたいれ","p":true}],"sense":[{"gloss":"support, backing, patronage","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"亡き後","p":true}],"r_ele":[{"r":"なきあと","p":true}],"sense":[{"gloss":"after one's death","pos":["n","adv"]}]},"sdata":[]}

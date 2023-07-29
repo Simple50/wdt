@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吹き溜まり","p":true},{"e":"吹きだまり"},{"e":"吹き溜り"}],"r_ele":[{"r":"ふきだまり","p":true}],"sense":[{"gloss":"drift (of snow, leaves, etc.)","pos":["n"]},{"gloss":"hangout for social dropouts","pos":["n"]}]},"sdata":[{"j":"↑風↑↓かぜ↓が↑雪↑↓ゆき↓の|ふきだまり|を↑作↑↓つく↓った。","e":"The wind drifted the snow."}]}

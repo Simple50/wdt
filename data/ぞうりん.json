@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"造林","p":true}],"r_ele":[{"r":"ぞうりん","p":true}],"sense":[{"gloss":"forestation, afforestation, reforestation","pos":["n","vs","vi"]}]},"sdata":[]}

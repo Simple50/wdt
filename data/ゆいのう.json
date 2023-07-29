@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"結納","p":true}],"r_ele":[{"r":"ゆいのう","p":true}],"sense":[{"gloss":"engagement gift, (ceremonial) exchange of engagement gifts","pos":["n"]}]},"sdata":[{"j":"えっ、↑結納↑↓|ゆいのう|↓↑品↑↓ひん↓にン↑十↑↓じゅう↓↑万↑↓まん↓↑円↑↓えん↓？","e":"Eh? Hundreds of thousands of Yen plus betrothal gifts?"}]}

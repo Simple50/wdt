@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"送り仮名","p":true},{"e":"送りがな"}],"r_ele":[{"r":"おくりがな","p":true}],"sense":[{"gloss":"kana written after a kanji to complete the full (usually kun) reading of the word, declensional kana ending","pos":["n"]}]},"sdata":[{"j":"この↑漢字↑↓かんじ↓、↑送↑↓|おく↓り↑仮名↑↓がな|↓が↑間違↑↓まちが↓ってるよ。","e":"The okurigana on this kanji is wrong."}]}

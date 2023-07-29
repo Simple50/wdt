@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"尊い","p":true},{"e":"貴い","p":true}],"r_ele":[{"r":"とうとい","p":true},{"r":"たっとい","p":true}],"sense":[{"gloss":"precious, valuable, priceless","pos":["adj-i"]},{"gloss":"noble, exalted, sacred","pos":["adj-i"]}]},"sdata":[]}

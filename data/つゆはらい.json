@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"露払い","p":true}],"r_ele":[{"r":"つゆはらい","p":true}],"sense":[{"gloss":"outrider, herald","pos":["n"]},{"gloss":"rikishi who leads the yokozuna to the ring prior to his ring-entering ceremony","pos":["n"],"f":["sumo"]}]},"sdata":[]}

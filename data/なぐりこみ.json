@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殴り込み","p":true},{"e":"殴りこみ"},{"e":"擲り込み","i":["rK"]}],"r_ele":[{"r":"なぐりこみ","p":true}],"sense":[{"gloss":"raid, attack, assault","pos":["n"]}]},"sdata":[]}

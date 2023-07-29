@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"赤茶ける","p":true}],"r_ele":[{"r":"あかちゃける","p":true}],"sense":[{"gloss":"to turn reddish-brown, to turn rufous, to become discolored, to become discoloured","pos":["v1","vi"]}]},"sdata":[]}

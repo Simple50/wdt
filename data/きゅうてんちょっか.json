@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"急転直下","p":true}],"r_ele":[{"r":"きゅうてんちょっか","p":true}],"sense":[{"gloss":"suddenly and precipitately, take a sudden turn","pos":["n","vs"]}],"m":["yoji"]},"sdata":[]}

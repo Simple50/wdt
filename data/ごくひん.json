@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極貧","p":true}],"r_ele":[{"r":"ごくひん","p":true}],"sense":[{"gloss":"destitution","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マネーゲーム","p":true},{"r":"マネー・ゲーム"}],"sense":[{"gloss":"money game","pos":["n"]}]},"sdata":[]}

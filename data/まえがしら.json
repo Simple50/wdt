@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前頭","p":true}],"r_ele":[{"r":"まえがしら","p":true}],"sense":[{"gloss":"rank-and-file wrestlers in the highest division","pos":["n","adj-no"],"f":["sumo"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"機織り","p":true},{"e":"機織"}],"r_ele":[{"r":"はたおり","p":true}],"sense":[{"gloss":"weaving, weaver","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"花柳界","p":true}],"r_ele":[{"r":"かりゅうかい","p":true}],"sense":[{"gloss":"red-light district, pleasure quarters, world of the geisha, demimonde","pos":["n"]}]},"sdata":[]}

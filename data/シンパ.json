@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シンパ","p":true}],"sense":[{"gloss":"(Communist, union, etc.) sympathizer, sympathiser","pos":["n"],"x":["シンパサイザー"]}],"m":["abbr"]},"sdata":[{"j":"オーナーたちは↑組合↑↓くみあい↓の|シンパ|を↑一↑↓いち↓↑人↑↓にん↓↑残↑↓のこ↓らず↑解雇↑↓かいこ↓するために↑首切↑↓くびき↓り↑役↑↓やく↓を↑投入↑↓とうにゅう↓した。","e":"The owners brought in a hatchet man to fire all the union sympathizers."}]}

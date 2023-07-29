@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逃げ回る","p":true},{"e":"逃げまわる"},{"e":"逃回る"}],"r_ele":[{"r":"にげまわる","p":true}],"sense":[{"gloss":"to run around trying to escape, to run from place to place","pos":["v5r","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは↑銃↑↓じゅう↓でねらわれ↑豚↑↓ぶた↓のように↑逃↑↓|に↓げ↑回↑↓まわ↓る|。","e":"They run like pigs from a gun."}]}

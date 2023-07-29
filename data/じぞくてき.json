@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持続的","p":true}],"r_ele":[{"r":"じぞくてき","p":true}],"sense":[{"gloss":"continuous, sustained, sustainable, durable, persistent","pos":["adj-na"]}]},"sdata":[]}

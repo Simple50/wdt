@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"余罪","p":true}],"r_ele":[{"r":"よざい","p":true}],"sense":[{"gloss":"other crimes, further offenses, further offences","pos":["n"]}]},"sdata":[]}

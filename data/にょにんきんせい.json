@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"女人禁制","p":true}],"r_ele":[{"r":"にょにんきんせい","p":true},{"r":"にょにんきんぜい"}],"sense":[{"gloss":"prohibition on women entering (usu. for religious reasons), no female admission","pos":["n"]}],"m":["yoji"]},"sdata":[]}

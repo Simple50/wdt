@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折半","p":true}],"r_ele":[{"r":"せっぱん","p":true}],"sense":[{"gloss":"halving, splitting evenly, sharing equally","pos":["n","vs","vt"]}]},"sdata":[]}

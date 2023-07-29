@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新概念","p":true}],"r_ele":[{"r":"しんがいねん","p":true}],"sense":[{"gloss":"new concept","pos":["n"]}]},"sdata":[]}

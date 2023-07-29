@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"跳馬","p":true}],"r_ele":[{"r":"ちょうば","p":true}],"sense":[{"gloss":"long horse (for vaulting)","pos":["n"]}]},"sdata":[{"j":"シンガポールでは↑罪人↑↓ざいにん↓を↑懲罰↑↓|ちょうば|つ↓する↑方法↑↓ほうほう↓としてむち↑打↑↓う↓ちがある。","e":"In Singapore, one way to punish a criminal is to whip him or her."}]}

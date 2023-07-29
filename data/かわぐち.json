@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"河口","p":true},{"e":"川口","p":true}],"r_ele":[{"r":"かこう","p":true},{"r":"かわぐち","p":true}],"sense":[{"gloss":"mouth of river, estuary","pos":["n","adj-no"]}]},"sdata":[{"j":"↑貴方↑↓あなた↓は、↑川口↑↓|かわぐち|↓が↑好↑↓す↓きです。","e":"You like Kawaguchi."},{"j":"どうも、↑川口↑↓|かわぐち|↓↑太郎↑↓たろう↓です。","e":"Hi, I'm Taro Kawaguchi."}]}

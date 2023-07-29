@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"典礼","p":true}],"r_ele":[{"r":"てんれい","p":true}],"sense":[{"gloss":"ceremony, etiquette, courtesy, (Catholic) liturgy","pos":["n","adj-no"]}]},"sdata":[]}

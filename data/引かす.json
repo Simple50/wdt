@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落籍す"},{"e":"引かす","p":true}],"r_ele":[{"r":"ひかす","p":true}],"sense":[{"gloss":"to redeem debts (e.g. of a geisha)","pos":["v5s","vt"]}]},"kdata":{"引":{"on":["イン"],"kun":["ひ.く","ひ.ける"],"jlpt":3,"meanings":["pull","tug","jerk","admit","install","quote","refer to"],"freq":218,"comp":[["弓","丨"]],"d":["矧","蚓","紖","訠","靷"],"t":133}},"sdata":[]}

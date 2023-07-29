@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"末尾","p":true}],"r_ele":[{"r":"まつび","p":true}],"sense":[{"gloss":"end (e.g. of report, document, paragraph, etc.)","pos":["n"]}]},"sdata":[]}

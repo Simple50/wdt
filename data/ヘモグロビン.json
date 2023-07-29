@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘモグロビン","p":true}],"sense":[{"gloss":"hemoglobin, haemoglobin","pos":["n"]}]},"sdata":[]}

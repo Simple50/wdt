@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"恋文","p":true}],"r_ele":[{"r":"こいぶみ","p":true}],"sense":[{"gloss":"love letter","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑彼↑↓かれ↓の↑昔↑↓むかし↓の↑恋文↑↓|こいぶみ|↓を↑大切↑↓たいせつ↓にしていた。","e":"She cherished his old love letters."},{"j":"グレイ↑様↑↓さま↓からの↑恋文↑↓|こいぶみ|↓？","e":"A love letter from Gray?"}]}

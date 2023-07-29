@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボブスレー","p":true},{"r":"ボッブスレー"}],"sense":[{"gloss":"bobsleigh, bobsled","pos":["n"]}]},"sdata":[]}

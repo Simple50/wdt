@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ワンダフル","p":true},{"r":"ワンダホー"},{"r":"ワンダーホー"}],"sense":[{"gloss":"wonderful","pos":["n","adj-na","adj-no"]}]},"sdata":[]}

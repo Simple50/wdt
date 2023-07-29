@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベンジン","p":true}],"sense":[{"gloss":"gasoline, petrol","pos":["n"],"l":"ger: Benzin"}]},"sdata":[]}

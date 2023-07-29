@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冷暖房","p":true}],"r_ele":[{"r":"れいだんぼう","p":true}],"sense":[{"gloss":"air conditioning and heating","pos":["n"]}]},"sdata":[{"j":"あのバスって、↑冷暖房↑↓|れいだんぼう|↓↑完備↑↓かんび↓ですか？","e":"Does that bus have air conditioning?"}]}

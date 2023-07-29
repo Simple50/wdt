@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新参","p":true}],"r_ele":[{"r":"しんざん","p":true}],"sense":[{"gloss":"newcomer, tyro","pos":["n","adj-no"],"x":["古参"]}]},"sdata":[{"j":"↑村人↑↓むらびと↓↑達↑↓たち↓は↑新参↑↓|しんざん|↓↑者↑↓しゃ↓に↑対↑↓たい↓しても↑偏見↑↓へんけん↓を↑持↑↓も↓っていた。","e":"The villagers had a bias against any newcomer."}]}

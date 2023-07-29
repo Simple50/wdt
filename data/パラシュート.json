@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パラシュート","p":true}],"sense":[{"gloss":"parachute","pos":["n"]}]},"sdata":[{"j":"なぜ↑飛行機↑↓ひこうき↓には|パラシュート|ではなくライフジャケットがあるのか。","e":"Why, in aviation, are there life vests instead of parachutes?"},{"j":"|パラシュート|を↑開↑↓ひら↓くのを↑忘↑↓わす↓れるなよ！","e":"Don't forget to open your parachute!"}]}

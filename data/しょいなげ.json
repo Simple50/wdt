@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"背負い投げ","p":true}],"r_ele":[{"r":"せおいなげ"},{"r":"しょいなげ","p":true},{"r":"ぜおいなげ"}],"sense":[{"gloss":"seoi nage (judo), shoulder throw, back-carry throw","pos":["n"],"f":["MA"]}]},"sdata":[]}

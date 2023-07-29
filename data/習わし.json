@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"習わし","p":true},{"e":"慣わし"}],"r_ele":[{"r":"ならわし","p":true}],"sense":[{"gloss":"custom, habit, customary practice","pos":["n","adj-no"]}]},"kdata":{"習":{"on":["シュウ","ジュ"],"kun":["なら.う","なら.い"],"jlpt":4,"meanings":["learn"],"freq":706,"comp":[["白","羽"]],"d":["翫","摺","褶","慴","槢","熠","磖"],"s":"留","t":1364}},"sdata":[]}

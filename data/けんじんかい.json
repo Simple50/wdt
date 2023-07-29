@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"県人会","p":true}],"r_ele":[{"r":"けんじんかい","p":true}],"sense":[{"gloss":"association of people from the same prefecture","pos":["n"]}]},"sdata":[]}

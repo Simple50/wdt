@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"川尻","p":true}],"r_ele":[{"r":"かわじり","p":true}],"sense":[{"gloss":"mouth of a river, lower stream","pos":["n"]}]},"sdata":[]}

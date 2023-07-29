@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サルサ","p":true}],"sense":[{"gloss":"salsa (dance)","pos":["n"],"l":"spa"},{"gloss":"salsa (sauce)","pos":["n"],"f":["food"]}]},"sdata":[{"j":"|サルサ|って、フルーツサラダの↑一種↑↓いっしゅ↓なの？","e":"Is salsa a type of fruit salad?"}]}

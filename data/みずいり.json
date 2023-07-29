@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水入り","p":true}],"r_ele":[{"r":"みずいり","p":true}],"sense":[{"gloss":"break granted to wrestlers engaged in a prolonged bout","pos":["n"],"f":["sumo"]}]},"sdata":[]}

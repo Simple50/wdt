@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"授産","p":true}],"r_ele":[{"r":"じゅさん","p":true}],"sense":[{"gloss":"sheltered work programs, sheltered work programmes, providing with work, giving employment","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不時着","p":true}],"r_ele":[{"r":"ふじちゃく","p":true}],"sense":[{"gloss":"emergency landing, forced landing, crash landing","pos":["n","vs","vi"],"x":["不時着陸"]}],"m":["abbr"]},"sdata":[]}

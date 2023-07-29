@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"政略","p":true}],"r_ele":[{"r":"せいりゃく","p":true}],"sense":[{"gloss":"politics, political manoeuvre, political maneuver","pos":["n"]}]},"sdata":[]}

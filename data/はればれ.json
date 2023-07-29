@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"晴れ晴れ","p":true},{"e":"晴ればれ"},{"e":"晴々"},{"e":"晴晴"},{"e":"晴れ晴","i":["sK"]}],"r_ele":[{"r":"はればれ","p":true}],"sense":[{"gloss":"bright, cheerful, in high spirits","pos":["adv","adv-to","vs"]},{"gloss":"clear (sky), cloudless, sunny","pos":["adv","adv-to","vs"]}]},"sdata":[]}

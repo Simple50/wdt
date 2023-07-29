@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"閾値","p":true},{"e":"しきい値","p":true},{"e":"いき値"}],"r_ele":[{"r":"いきち","p":true},{"r":"しきいち","p":true}],"sense":[{"gloss":"threshold (amount, dose, etc.)","pos":["n"]}]},"sdata":[]}

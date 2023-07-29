@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金融庁","p":true}],"r_ele":[{"r":"きんゆうちょう","p":true}],"sense":[{"gloss":"Financial Services Agency, FSA","pos":["n"]}]},"sdata":[]}

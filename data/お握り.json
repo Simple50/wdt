@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お握り","p":true},{"e":"御握り"}],"r_ele":[{"r":"おにぎり","p":true}],"sense":[{"gloss":"onigiri, rice ball (often triangular, sometimes with a filling and wrapped in nori)","pos":["n"]}],"m":["uk","pol"]},"kdata":{"握":{"on":["アク"],"kun":["にぎ.る"],"jlpt":1,"meanings":["grip","hold","mould sushi","bribe"],"freq":1003,"comp":[["扌","屋"]],"t":1511}},"sdata":[]}

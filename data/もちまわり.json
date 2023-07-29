@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持ち回り","p":true},{"e":"持回り"}],"r_ele":[{"r":"もちまわり","p":true}],"sense":[{"gloss":"rotation (of a post, role, etc.), taking turns","pos":["n"]}]},"sdata":[]}

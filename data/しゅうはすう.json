@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"周波数","p":true}],"r_ele":[{"r":"しゅうはすう","p":true}],"sense":[{"gloss":"frequency (esp. of waveforms)","pos":["n"]}]},"sdata":[{"j":"↑周波数↑↓|しゅうはすう|↓の↑平均↑↓へいきん↓↑値↑↓ち↓は↑振幅↑↓しんぷく↓の↑増大↑↓ぞうだい↓にしたがって↑減↑↓げん↓じる。","e":"The mean value of the frequency decreases with increasing amplitude."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バックス","p":true}],"sense":[{"gloss":"backs","pos":["n"],"f":["sports"],"x":["フォワード・1"]},{"gloss":"bucks","pos":["n"]}]},"sdata":[]}

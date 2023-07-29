@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"洗い上げる","p":true}],"r_ele":[{"r":"あらいあげる","p":true}],"sense":[{"gloss":"to finish washing, to wash well, to investigate thoroughly","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ディスクジョッキー","p":true},{"r":"ディスク・ジョッキー"}],"sense":[{"gloss":"disk jockey, disc jockey","pos":["n"]}]},"sdata":[]}

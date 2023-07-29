@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文化映画","p":true}],"r_ele":[{"r":"ぶんかえいが","p":true}],"sense":[{"gloss":"cultural film","pos":["n"]}]},"sdata":[]}

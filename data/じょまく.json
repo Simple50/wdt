@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"序幕","p":true}],"r_ele":[{"r":"じょまく","p":true}],"sense":[{"gloss":"curtain-raiser, prologue","pos":["n","adj-no"]}]},"sdata":[]}

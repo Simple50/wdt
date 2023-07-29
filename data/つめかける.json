@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詰め掛ける","p":true},{"e":"詰掛ける"},{"e":"詰めかける"}],"r_ele":[{"r":"つめかける","p":true}],"sense":[{"gloss":"to crowd (a house), to throng to (a door)","pos":["v1","vi"]}]},"sdata":[]}

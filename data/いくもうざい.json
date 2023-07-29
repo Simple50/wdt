@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"育毛剤","p":true}],"r_ele":[{"r":"いくもうざい","p":true}],"sense":[{"gloss":"hair growth formula, hair growth agent","pos":["n"]}]},"sdata":[]}

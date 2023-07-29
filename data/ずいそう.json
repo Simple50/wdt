@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"随想","p":true}],"r_ele":[{"r":"ずいそう","p":true}],"sense":[{"gloss":"random thoughts, occasional thoughts, desultory thoughts","pos":["n"]}]},"sdata":[{"j":"↑論文↑↓ろんぶん↓だなんて・・・↑私↑↓わたし↓が↑書↑↓か↓いてるのは、ただの↑随想↑↓|ずいそう|↓、エッセイみたいなもんですよ。","e":"Theses! ... What I write are just my ramblings, they're just something like essays."}]}

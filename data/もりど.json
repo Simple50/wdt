@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"盛り土","p":true},{"e":"盛土"}],"r_ele":[{"r":"もりど","p":true},{"r":"もりつち"}],"sense":[{"gloss":"embankment (for road, railway, etc.), raising the ground level, fill","pos":["n"]}]},"sdata":[]}

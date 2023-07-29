@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連用","p":true}],"r_ele":[{"r":"れんよう","p":true}],"sense":[{"gloss":"continuous use, chronic use","pos":["n","vs","vt"]}]},"sdata":[]}

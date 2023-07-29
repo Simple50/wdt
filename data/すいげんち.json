@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水源地","p":true}],"r_ele":[{"r":"すいげんち","p":true}],"sense":[{"gloss":"source (of a river, etc.)","pos":["n"]}]},"sdata":[]}

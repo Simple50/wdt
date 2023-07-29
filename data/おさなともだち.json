@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幼友達","p":true}],"r_ele":[{"r":"おさなともだち","p":true}],"sense":[{"gloss":"childhood friend","pos":["n"]}]},"sdata":[{"j":"トムはメアリーの↑幼友達↑↓|おさなともだち|↓です。","e":"Tom was Mary's childhood friend."}]}

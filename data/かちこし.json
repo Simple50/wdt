@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勝ち越し","p":true},{"e":"勝越し"}],"r_ele":[{"r":"かちこし","p":true}],"sense":[{"gloss":"having more wins than losses","pos":["n","adj-no"],"f":["sports"],"ant":["負け越し"]},{"gloss":"taking the lead (in points, goals, etc.)","pos":["n"],"f":["sports"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"死没","p":true},{"e":"死歿"}],"r_ele":[{"r":"しぼつ","p":true}],"sense":[{"gloss":"death","pos":["n","vs","vi"]}]},"sdata":[]}

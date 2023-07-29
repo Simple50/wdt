@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"曲がりくねる","p":true},{"e":"曲りくねる"}],"r_ele":[{"r":"まがりくねる","p":true}],"sense":[{"gloss":"to bend many times, to turn and twist, to zigzag","pos":["v5r","vi"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑思考↑↓しこう↓は↑当↑↓あ↓てもなく↑曲↑↓|ま↓がりくねる|。","e":"I change my mind a lot."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"妬む","p":true},{"e":"嫉む"}],"r_ele":[{"r":"ねたむ","p":true}],"sense":[{"gloss":"to be jealous of, to envy, to begrudge","pos":["v5m","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑常時↑↓じょうじ↓↑彼↑↓かれ↓の↑才能↑↓さいのう↓を|ねたむ|↑人々↑↓ひとびと↓から↑中傷↑↓ちゅうしょう↓されることにうんざりしていた。","e":"He was sick of being vilified all the time by people who were jealous of his ability."}]}

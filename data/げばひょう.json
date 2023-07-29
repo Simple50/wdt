@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下馬評","p":true}],"r_ele":[{"r":"げばひょう","p":true}],"sense":[{"gloss":"rumor, rumour, gossip, speculation, irresponsible criticism, hearsay","pos":["n"]}]},"sdata":[]}

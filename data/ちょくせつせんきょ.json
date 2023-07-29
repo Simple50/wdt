@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直接選挙","p":true}],"r_ele":[{"r":"ちょくせつせんきょ","p":true}],"sense":[{"gloss":"direct election","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンジニアリング","p":true}],"sense":[{"gloss":"engineering","pos":["n"]}]},"sdata":[{"j":"|エンジニアリング|の↑仕事↑↓しごと↓は↑日本↑↓にっぽん↓の↑会社↑↓かいしゃ↓が↑担当↑↓たんとう↓することになっています。","e":"Engineering service will be taken up by the Japanese company."}]}

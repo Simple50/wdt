@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い立つ","p":true},{"e":"思いたつ"}],"r_ele":[{"r":"おもいたつ","p":true}],"sense":[{"gloss":"to set one's mind on doing, to get the idea of doing, to make up one's mind","pos":["v5t","vt"]}]},"sdata":[]}

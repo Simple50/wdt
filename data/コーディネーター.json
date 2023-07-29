@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コーディネーター","p":true},{"r":"コーディネータ"}],"sense":[{"gloss":"coordinator","pos":["n"]}]},"sdata":[]}

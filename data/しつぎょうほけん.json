@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"失業保険","p":true}],"r_ele":[{"r":"しつぎょうほけん","p":true}],"sense":[{"gloss":"unemployment insurance","pos":["n"]}]},"sdata":[]}

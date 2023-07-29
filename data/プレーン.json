@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プレーン","p":true},{"r":"プレイン"}],"sense":[{"gloss":"plain","pos":["adj-na"]},{"gloss":"plane","pos":["n"]}]},"sdata":[{"j":"|プレーン|ヨーグルトと↑豆乳↑↓とうにゅう↓を↑加↑↓くわ↓えます。","e":"Add plain yogurt and soy milk."}]}

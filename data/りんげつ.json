@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"臨月","p":true}],"r_ele":[{"r":"りんげつ","p":true}],"sense":[{"gloss":"final month of pregnancy, month in which childbirth is due","pos":["n"]}]},"sdata":[]}

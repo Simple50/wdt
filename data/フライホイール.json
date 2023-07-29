@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フライホイール","p":true},{"r":"フライホイイル"}],"sense":[{"gloss":"flywheel","pos":["n"]}]},"sdata":[]}

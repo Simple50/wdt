@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重苦しい","p":true}],"r_ele":[{"r":"おもくるしい","p":true}],"sense":[{"gloss":"heavy (feeling, etc.), gloomy (weather, etc.), oppressive (atmosphere, etc.), stifling, strained","pos":["adj-i"]}]},"sdata":[]}

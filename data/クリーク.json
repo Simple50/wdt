@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クリーク","p":true}],"sense":[{"gloss":"5-wood (club)","pos":["n"],"f":["golf"],"l":"eng: cleek"}]},"sdata":[]}

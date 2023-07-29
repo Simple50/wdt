@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シビック","p":true}],"sense":[{"gloss":"civic","pos":["adj-no"]}]},"sdata":[]}

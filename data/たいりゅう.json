@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滞留","p":true}],"r_ele":[{"r":"たいりゅう","p":true}],"sense":[{"gloss":"stagnation, standstill, accumulation, pile-up","pos":["n","vs","vi"]},{"gloss":"stay, sojourn","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑６↑↓むっ↓つの↑都市↑↓とし↓に↑滞留↑↓|たいりゅう|↓してアメリカを↑観光↑↓かんこう↓↑旅行↑↓りょこう↓した。","e":"She made a tour of America, stopping in six cities."}]}

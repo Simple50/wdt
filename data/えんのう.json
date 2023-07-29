@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"延納","p":true}],"r_ele":[{"r":"えんのう","p":true}],"sense":[{"gloss":"deferred payment","pos":["n","vs","vt"]}]},"sdata":[]}

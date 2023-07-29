@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安らぎ","p":true}],"r_ele":[{"r":"やすらぎ","p":true}],"sense":[{"gloss":"peace (of mind), tranquility, tranquillity, serenity","pos":["n","adj-no"]}]},"sdata":[{"j":"↑私↑↓わたし↓の↑望↑↓のぞ↓むのは↑安↑↓|やす↓らぎ|と↑静↑↓しず↓けさだけです。","e":"All I want is peace and quiet."},{"j":"↑森↑↓もり↓の↑静↑↓しず↓けさは↑安↑↓|やす↓らぎ|を↑与↑↓あた↓える。","e":"The silence in the forest is restful."}]}

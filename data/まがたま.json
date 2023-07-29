@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勾玉","p":true},{"e":"曲玉"}],"r_ele":[{"r":"まがたま","p":true}],"sense":[{"gloss":"magatama, comma-shaped bead from prehistoric Japan, usually made of jade","pos":["n"],"f":["archeol"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"びっしり","p":true},{"r":"ビッシリ"}],"sense":[{"gloss":"closely (packed, lined up, etc.), tightly, densely","pos":["adv","adv-to"]},{"gloss":"(work) sufficiently","pos":["adv","adv-to"]}],"m":["on-mim"]},"sdata":[{"j":"ボイラは↑湯↑↓ゆ↓あかが|びっしり|ついた。","e":"The boiler was heavily scaled."}]}

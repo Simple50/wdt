@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"爪楊枝","p":true},{"e":"妻楊枝","i":["rK"]},{"e":"つま楊枝","i":["sK"]}],"r_ele":[{"r":"つまようじ","p":true}],"sense":[{"gloss":"toothpick","pos":["n"]}]},"sdata":[{"j":"|つまようじ|をください。","e":"Give me a toothpick."},{"j":"トムは↑爪楊枝↑↓|つまようじ|↓をくわえていた。","e":"Tom was chewing on a toothpick."}]}

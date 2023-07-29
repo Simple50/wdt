@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"打ち合う","p":true},{"e":"打合う"}],"r_ele":[{"r":"うちあう","p":true}],"sense":[{"gloss":"to hit each other, to exchange blows, to fight","pos":["v5u","vt"]}]},"sdata":[]}

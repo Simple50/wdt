@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プリーツ","p":true}],"sense":[{"gloss":"pleat, pleats, plait, plaits","pos":["n","adj-no"]}]},"sdata":[{"j":"↑白↑↓しろ↓い|プリーツ|のスカートを↑買↑↓か↓ったんだ。","e":"I bought a white, pleated skirt."}]}

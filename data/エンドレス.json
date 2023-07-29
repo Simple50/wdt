@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンドレス","p":true}],"sense":[{"gloss":"endless","pos":["adj-na"]}]},"sdata":[{"j":"さっき↑駅↑↓えき↓で↑聴↑↓き↓いた↑曲↑↓きょく↓が↑頭↑↓あたま↓の↑中↑↓なか↓を|エンドレス|で↑回↑↓まわ↓っている。","e":"The song I heard before in the train station loops endlessly around my head."}]}

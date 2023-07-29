@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"猛爆","p":true}],"r_ele":[{"r":"もうばく","p":true}],"sense":[{"gloss":"heavy bombing, intensive bombing","pos":["n","vs","vt"]}]},"sdata":[]}

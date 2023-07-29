@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お腹の子","p":true},{"e":"おなかの子"}],"r_ele":[{"r":"おなかのこ","p":true}],"sense":[{"gloss":"child one is expecting, child in one's womb","pos":["exp"]}]},"sdata":[]}

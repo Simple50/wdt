@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"炊き込む","p":true}],"r_ele":[{"r":"たきこむ","p":true}],"sense":[{"gloss":"to cook (something) with rice","pos":["v5m","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓にそんなばかげた↑考↑↓かんが↓えをた|たきこむ|な。","e":"Don't put such silly thoughts into his head."}]}

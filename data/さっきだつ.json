@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"殺気立つ","p":true},{"e":"殺気だつ"}],"r_ele":[{"r":"さっきだつ","p":true}],"sense":[{"gloss":"to be seething (with anger), to be frenzied, to be menacing, to be murderous","pos":["v5t","vi"]}]},"sdata":[]}

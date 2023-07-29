@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒鉛","p":true}],"r_ele":[{"r":"こくえん","p":true}],"sense":[{"gloss":"graphite","pos":["n"]}]},"sdata":[{"j":"↑下院↑↓かいん↓は↑外国↑↓がい|こく↓↑援助↑↓えん|じょ↓の↑予算↑↓よさん↓を↑削減↑↓さくげん↓した。","e":"The House cut the budget for foreign aid."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後払い","p":true},{"e":"後払"},{"e":"あと払い"}],"r_ele":[{"r":"あとばらい","p":true},{"r":"ごばらい"}],"sense":[{"gloss":"deferred payment","pos":["n","vs","vt"],"x":["前払い"]}]},"sdata":[]}

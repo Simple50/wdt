@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切腹","p":true}],"r_ele":[{"r":"せっぷく","p":true}],"sense":[{"gloss":"seppuku, harakiri, ritual suicide by disembowelment","pos":["n","vs"]},{"gloss":"seppuku as a death penalty (where the convict is decapitated by a second as they make the motions to disembowel themself; Edo period)","pos":["n","vs"],"m":["hist"]}]},"sdata":[]}

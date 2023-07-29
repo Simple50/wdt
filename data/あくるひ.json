@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"あくる日","p":true},{"e":"明くる日","p":true},{"e":"翌る日","i":["rK"]}],"r_ele":[{"r":"あくるひ","p":true}],"sense":[{"gloss":"next day, following day","pos":["n","adv"]}]},"sdata":[]}

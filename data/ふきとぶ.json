@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吹き飛ぶ","p":true},{"e":"吹飛ぶ"}],"r_ele":[{"r":"ふきとぶ","p":true}],"sense":[{"gloss":"to be blown off, to blow off, to blow away","pos":["v5b","vi"]},{"gloss":"to vanish, to disappear","pos":["v5b","vi"]}]},"sdata":[]}

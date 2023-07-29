@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"副読本","p":true}],"r_ele":[{"r":"ふくとくほん","p":true},{"r":"ふくどくほん"}],"sense":[{"gloss":"supplementary reader","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"埋設","p":true}],"r_ele":[{"r":"まいせつ","p":true}],"sense":[{"gloss":"laying underground (e.g. cables), burying (e.g. pipe)","pos":["n","vs","vt"]}]},"sdata":[]}

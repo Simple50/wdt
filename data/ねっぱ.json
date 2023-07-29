@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱波","p":true}],"r_ele":[{"r":"ねっぱ","p":true}],"sense":[{"gloss":"heat wave","pos":["n"]}]},"sdata":[{"j":"↑速度↑↓そくど↓が↑遅↑↓おそ↓いと↑熱発↑↓|ねっぱ|つ↓↑生↑↓せい↓は↑少↑↓すく↓なくなると↑考↑↓かんが↓えられている。","e":"It is thought that the lower speed reduces heat generation."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重なり","p":true}],"r_ele":[{"r":"かさなり","p":true}],"sense":[{"gloss":"overlapping, piling, stacking","pos":["n"]}]},"sdata":[{"j":"↑今度↑↓こんど↓の↑祭日↑↓さいじつ↓は↑日曜日↑↓にちようび↓と↑重↑↓|かさ↓なり|ます。","e":"The next holiday falls on a Sunday."}]}

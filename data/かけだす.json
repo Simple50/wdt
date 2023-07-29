@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆け出す","p":true},{"e":"駆けだす"},{"e":"駈け出す"},{"e":"駆出す"},{"e":"駈出す"}],"r_ele":[{"r":"かけだす","p":true}],"sense":[{"gloss":"to run off, to break into a run, to start running","pos":["v5s","vi"]}]},"sdata":[{"j":"↑先↑↓さき↓に↑駆↑↓|か↓け↑出↑↓だ↓す|なんてずるいぞ。","e":"That's cheating to start running before everyone else."}]}

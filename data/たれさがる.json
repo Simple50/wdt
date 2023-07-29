@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"垂れ下がる","p":true}],"r_ele":[{"r":"たれさがる","p":true}],"sense":[{"gloss":"to hang, to dangle","pos":["v5r","vi"]}]},"sdata":[]}

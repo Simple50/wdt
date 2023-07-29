@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ロケット弾","p":true}],"r_ele":[{"r":"ロケットだん","p":true}],"sense":[{"gloss":"rocket","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"息苦しい","p":true}],"r_ele":[{"r":"いきぐるしい","p":true}],"sense":[{"gloss":"choking, suffocating, stifling","pos":["adj-i"]},{"gloss":"oppressive, heavy","pos":["adj-i"]}]},"sdata":[{"j":"↑息苦↑↓|いきぐる↓しい|んです。","e":"I have difficulty breathing."},{"j":"↑息苦↑↓|いきぐる↓しい|です。","e":"It's hard to breathe."}]}

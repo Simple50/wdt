@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抜き出す","p":true},{"e":"ぬき出す"}],"r_ele":[{"r":"ぬきだす","p":true}],"sense":[{"gloss":"to pick out, to single out, to select","pos":["v5s","vt"]},{"gloss":"to extract, to draw out, to pull out, to distill","pos":["v5s","vt"]}]},"sdata":[]}

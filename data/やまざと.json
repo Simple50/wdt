@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山里","p":true}],"r_ele":[{"r":"やまざと","p":true}],"sense":[{"gloss":"mountain hamlet, mountain village","pos":["n"]}]},"sdata":[]}

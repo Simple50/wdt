@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聞き慣れる","p":true},{"e":"聞き馴れる"},{"e":"聞慣れる"},{"e":"聞馴れる"}],"r_ele":[{"r":"ききなれる","p":true}],"sense":[{"gloss":"to get used to hearing","pos":["v1","vt"]}]},"sdata":[]}

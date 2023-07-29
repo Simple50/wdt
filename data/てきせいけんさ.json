@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"適性検査","p":true}],"r_ele":[{"r":"てきせいけんさ","p":true}],"sense":[{"gloss":"aptitude test","pos":["n"]}]},"sdata":[]}

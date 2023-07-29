@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"皇族","p":true}],"r_ele":[{"r":"こうぞく","p":true}],"sense":[{"gloss":"imperial family, royalty","pos":["n"]}]},"sdata":[{"j":"「あっ、↑後続↑↓|こうぞく|↓のパーティが↑来↑↓き↓たみたいだな」「あちゃー。↑休↑↓やす↓んでる↑間↑↓ま↓に↑追↑↓お↓いつかれちゃったわね」","e":"Ah, the trailing group has arrived. \"Oh no. They caught up with us while we were resting.\""}]}

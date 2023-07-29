@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"振り込む","p":true},{"e":"振込む"}],"r_ele":[{"r":"ふりこむ","p":true}],"sense":[{"gloss":"to make a payment via bank deposit transfer","pos":["v5m","vt"]},{"gloss":"to discard another player's winning tile","pos":["v5m","vt"],"f":["mahj"]}]},"sdata":[]}

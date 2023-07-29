@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミリリットル","p":true}],"sense":[{"gloss":"mL, milliliter, millilitre","pos":["n"],"l":"fre"}]},"sdata":[{"j":"このジョッキーは、↑約↑↓やく↓↑470ml↑↓よんひゃくななじゅう|ミリリットル|↓ ↑入↑↓はい↓ります。","e":"This beer mug holds one pint."}]}

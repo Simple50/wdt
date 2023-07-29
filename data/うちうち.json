@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内々","p":true},{"e":"内内"}],"r_ele":[{"r":"うちうち","p":true},{"r":"ないない"}],"sense":[{"gloss":"private, confidential, informal, secret, (within the) family circle, (on the) inside","pos":["adj-no","adv","n"]}]},"sdata":[]}

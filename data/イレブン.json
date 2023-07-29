@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"イレブン","p":true},{"r":"イレヴン"}],"sense":[{"gloss":"eleven","pos":["n"]},{"gloss":"team (of eleven players; esp. in soccer)","pos":["n"]}]},"sdata":[{"j":"ヤニーはセブン|イレブン|の↑店員↑↓てんいん↓だった。","e":"Yanni was a 7-Eleven clerk."}]}

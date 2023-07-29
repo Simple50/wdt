@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鼻先","p":true},{"e":"端先"}],"r_ele":[{"r":"はなさき","p":true}],"sense":[{"gloss":"tip of nose","pos":["n"]},{"gloss":"before one's eyes, under one's nose, in front of","pos":["n"]},{"gloss":"tip (of something)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓の↑鼻先↑↓|はなさき|↓でドアをぱたんとしめた。","e":"He slammed the door right in my face."}]}

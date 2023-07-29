@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ストーンウォッシュ","p":true},{"r":"ストーンウオッシュ"},{"r":"ストーン・ウォッシュ"},{"r":"ストーン・ウオッシュ"}],"sense":[{"gloss":"stone wash, stonewashed (jeans, etc.)","pos":["n"]}]},"sdata":[]}

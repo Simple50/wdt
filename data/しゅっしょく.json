@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出色","p":true}],"r_ele":[{"r":"しゅっしょく","p":true}],"sense":[{"gloss":"outstanding, excellent, remarkable","pos":["adj-no","adj-na","n"]}]},"sdata":[]}

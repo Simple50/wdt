@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焼き鳥","p":true},{"e":"焼鳥","p":true}],"r_ele":[{"r":"やきとり","p":true}],"sense":[{"gloss":"yakitori, chicken pieces (or sometimes beef or pork offal) grilled on a skewer","pos":["n"]},{"gloss":"grilled and skewered bird (esp. sparrow)","pos":["n"],"m":["obs"]},{"gloss":"failing to win a single hand during a half-game","pos":["n"],"f":["mahj"]}]},"sdata":[]}

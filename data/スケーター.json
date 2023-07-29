@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スケーター","p":true}],"sense":[{"gloss":"skater","pos":["n"]}]},"sdata":[{"j":"その|スケーター|は↑氷↑↓こおり↓の↑上↑↓じょう↓でぐるぐる↑回↑↓まわ↓った。","e":"The skater spun round and round on the ice."},{"j":"|スケーター|はこまのようにくるくる↑回↑↓まわ↓った。","e":"The skater spun around like a top."}]}

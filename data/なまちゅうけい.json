@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生中継","p":true}],"r_ele":[{"r":"なまちゅうけい","p":true}],"sense":[{"gloss":"live broadcast (radio, TV), live coverage","pos":["n","vs","vt"]}]},"sdata":[{"j":"そのコンサートは↑生↑↓|なま↓↑中継↑↓ちゅうけい|↓された。","e":"The concert was broadcast live."},{"j":"これは↑生↑↓|なま↓↑中継↑↓ちゅうけい|↓です。","e":"This is a live broadcast."}]}

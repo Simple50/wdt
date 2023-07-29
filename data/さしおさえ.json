@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"差し押さえ","p":true},{"e":"差押え"},{"e":"差し押え"},{"e":"差押さえ"},{"e":"差押","i":["io"]}],"r_ele":[{"r":"さしおさえ","p":true}],"sense":[{"gloss":"seizure, attachment, foreclosure","pos":["n"]}]},"sdata":[]}

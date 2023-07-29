@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き締まる","p":true},{"e":"引き締る","p":true,"i":["io"]},{"e":"引きしまる"},{"e":"引締まる"}],"r_ele":[{"r":"ひきしまる","p":true}],"sense":[{"gloss":"to become tense, to be tightened, to become firm (e.g. body)","pos":["v5r","vi"]}]},"sdata":[]}

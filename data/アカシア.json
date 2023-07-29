@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アカシア","p":true},{"r":"アカシヤ"},{"r":"アケイシャ"}],"sense":[{"gloss":"acacia","pos":["n"]}]},"sdata":[]}

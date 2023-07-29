@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"玉露","p":true}],"r_ele":[{"r":"ぎょくろ","p":true}],"sense":[{"gloss":"high-quality green tea","pos":["n"],"x":["煎茶・2","番茶"]},{"gloss":"jewel-like dewdrop","pos":["n"]}]},"sdata":[]}

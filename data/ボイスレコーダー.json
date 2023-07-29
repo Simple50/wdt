@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボイスレコーダー","p":true},{"r":"ボイス・レコーダー"}],"sense":[{"gloss":"dictaphone, dictation system","pos":["n"],"l":"eng: voice recorder"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"消防庁","p":true}],"r_ele":[{"r":"しょうぼうちょう","p":true}],"sense":[{"gloss":"Fire and Disaster Management Agency","pos":["n"]}]},"sdata":[]}

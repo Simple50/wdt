@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"非公開","p":true}],"r_ele":[{"r":"ひこうかい","p":true}],"sense":[{"gloss":"private, non-public, secret, closed-door, closed","pos":["adj-no","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"併殺","p":true}],"r_ele":[{"r":"へいさつ","p":true}],"sense":[{"gloss":"double play","pos":["n","vs","vt"],"f":["baseb"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"利尿","p":true}],"r_ele":[{"r":"りにょう","p":true}],"sense":[{"gloss":"diuresis","pos":["n"],"f":["med"],"x":["利尿剤"]}]},"sdata":[{"j":"いつもよ|り↑尿↑↓にょう|↓の↑回数↑↓かいすう↓が↑多↑↓おお↓いです。","e":"I urinate more often than usual."}]}

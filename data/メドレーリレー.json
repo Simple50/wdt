@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メドレーリレー","p":true},{"r":"メドレー・リレー"}],"sense":[{"gloss":"medley relay (swimming)","pos":["n"],"f":["sports"],"x":["個人メドレー・こじんメドレー"]}]},"sdata":[]}

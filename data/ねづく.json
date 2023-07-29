@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"根付く","p":true},{"e":"根づく"}],"r_ele":[{"r":"ねづく","p":true}],"sense":[{"gloss":"to take root, to strike","pos":["v5k","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病弊","p":true}],"r_ele":[{"r":"びょうへい","p":true}],"sense":[{"gloss":"evil influence, ill effect","pos":["n"]}]},"sdata":[]}

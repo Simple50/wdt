@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アルマジロ","p":true},{"r":"アーマジロ"}],"sense":[{"gloss":"armadillo","pos":["n"]}]},"sdata":[]}

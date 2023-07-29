@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豆知識","p":true},{"e":"マメ知識"},{"e":"まめ知識","i":["sK"]}],"r_ele":[{"r":"まめちしき","p":true}],"sense":[{"gloss":"trivia, snippet of knowledge","pos":["n"]}]},"sdata":[{"j":"↑今日↑↓きょう↓の↑豆↑↓|まめ↓↑知識↑↓ちしき|↓コーナー！ ↑今日↑↓きょう↓は「カルピス」の↑由来↑↓ゆらい↓について。","e":"Today's trivia corner! Today it's about the origin of Calpis."}]}

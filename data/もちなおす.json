@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"持ち直す","p":true},{"e":"持直す","p":true},{"e":"持ちなおす"}],"r_ele":[{"r":"もちなおす","p":true}],"sense":[{"gloss":"to recover, to rally, to improve, to pick up","pos":["v5s","vt"]}]},"sdata":[]}

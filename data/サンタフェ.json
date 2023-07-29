@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンタフェ","p":true}],"sense":[{"gloss":"Santa Fe","pos":["n"]}]},"sdata":[]}

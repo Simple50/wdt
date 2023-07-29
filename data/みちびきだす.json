@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"導き出す","p":true},{"e":"導きだす"}],"r_ele":[{"r":"みちびきだす","p":true}],"sense":[{"gloss":"to draw (conclusion), to deduce, to derive","pos":["v5s","vt"]}]},"sdata":[]}

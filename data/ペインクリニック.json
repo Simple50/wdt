@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペインクリニック","p":true}],"sense":[{"gloss":"pain clinic","pos":["n"]}]},"sdata":[]}

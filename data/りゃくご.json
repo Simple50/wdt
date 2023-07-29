@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"略語","p":true}],"r_ele":[{"r":"りゃくご","p":true}],"sense":[{"gloss":"abbreviation, acronym","pos":["n"]}]},"sdata":[{"j":"PKOが↑何↑↓なに↓の↑略語↑↓|りゃくご|↓だか↑知↑↓し↓ってる？","e":"Do you know what PKO stands for?"},{"j":"Ａｐｒ．はＡｐｒｉｌ（↑４月↑↓しがつ↓）の↑略語↑↓|りゃくご|↓です。","e":"Apr. is an abbreviation for April."}]}

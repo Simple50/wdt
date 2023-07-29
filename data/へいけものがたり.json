@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"平家物語","p":true}],"r_ele":[{"r":"へいけものがたり","p":true}],"sense":[{"gloss":"The Tale of the Heike, Heike Monogatari","pos":["n"]}]},"sdata":[]}

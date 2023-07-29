@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍需","p":true}],"r_ele":[{"r":"ぐんじゅ","p":true}],"sense":[{"gloss":"munitions, military stores","pos":["n"]}]},"sdata":[]}

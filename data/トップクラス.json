@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トップクラス","p":true},{"r":"トップ・クラス"}],"sense":[{"gloss":"top-class","pos":["adj-no","n"]}]},"sdata":[{"j":"ここね、↑町↑↓まち↓でも|トップクラス|の↑美味↑↓おい↓しいお↑店↑↓みせ↓なんだ。","e":"This is one of the best places to eat in town."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国鉄","p":true}],"r_ele":[{"r":"こくてつ","p":true}],"sense":[{"gloss":"national railway","pos":["n"],"x":["国有鉄道"]},{"gloss":"Japan National Railways (1949-1987)","pos":["n"],"m":["hist"],"x":["日本国有鉄道"]}],"m":["abbr"]},"sdata":[{"j":"↑入国↑↓にゅう|こく↓↑手続↑↓てつ|づ↓きって↑緊張↑↓きんちょう↓しちゃう。","e":"I get nervous at immigration."}]}

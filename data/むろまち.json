@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"室町","p":true}],"r_ele":[{"r":"むろまち","p":true}],"sense":[{"gloss":"Muromachi period (1336-1573)","pos":["n"],"x":["室町時代"]}],"m":["hist"]},"sdata":[]}

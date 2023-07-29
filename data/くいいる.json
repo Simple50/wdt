@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"食い入る","p":true},{"e":"食入る"}],"r_ele":[{"r":"くいいる","p":true}],"sense":[{"gloss":"to eat into","pos":["v5r","vi"]}]},"sdata":[]}

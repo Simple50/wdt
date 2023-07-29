@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"慶祝","p":true}],"r_ele":[{"r":"けいしゅく","p":true}],"sense":[{"gloss":"congratulation, celebration","pos":["n","vs","vt"]}]},"sdata":[]}

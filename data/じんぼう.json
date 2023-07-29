@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人望","p":true}],"r_ele":[{"r":"じんぼう","p":true}],"sense":[{"gloss":"popularity, favorable reputation, high esteem, respect","pos":["n"]}]},"sdata":[]}

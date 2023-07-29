@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エスカレート","p":true}],"sense":[{"gloss":"escalation","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑脱線↑↓だっせん↓がどんどん|エスカレート|していく。","e":"The digression is escalating more and more."},{"j":"だんだん|エスカレート|してきた。","e":"It gradually escalated."}]}

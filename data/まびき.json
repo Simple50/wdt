@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"間引き","p":true},{"e":"間びき"}],"r_ele":[{"r":"まびき","p":true}],"sense":[{"gloss":"thinning out, pruning, culling, curtailing, sub-sampling (e.g. video frames, signals)","pos":["n","vs"]},{"gloss":"infanticide","pos":["n","vs"]}]},"sdata":[]}

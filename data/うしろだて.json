@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"後ろ盾","p":true},{"e":"後ろ楯"},{"e":"後ろだて","i":["sK"]}],"r_ele":[{"r":"うしろだて","p":true}],"sense":[{"gloss":"backing, support, backer, supporter, patron, sponsor","pos":["n"]},{"gloss":"shield that protects one's back","pos":["n"]}]},"sdata":[]}

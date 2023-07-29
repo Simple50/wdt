@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水墨画","p":true}],"r_ele":[{"r":"すいぼくが","p":true}],"sense":[{"gloss":"India-ink painting","pos":["n"]}]},"sdata":[]}

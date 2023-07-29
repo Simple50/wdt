@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落とし物","p":true},{"e":"落し物"}],"r_ele":[{"r":"おとしもの","p":true}],"sense":[{"gloss":"lost property, something dropped and left behind","pos":["n"]}]},"sdata":[]}

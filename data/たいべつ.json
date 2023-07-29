@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大別","p":true}],"r_ele":[{"r":"たいべつ","p":true}],"sense":[{"gloss":"general classification, broad categorization","pos":["n","vs","vt"]}]},"sdata":[{"j":"これらは↑３↑↓みっ↓つのタイプに↑大別↑↓|たいべつ|↓される。","e":"These can be classified roughly into three types."}]}

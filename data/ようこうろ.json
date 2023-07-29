@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"溶鉱炉","p":true},{"e":"熔鉱炉"},{"e":"鎔鉱炉"}],"r_ele":[{"r":"ようこうろ","p":true}],"sense":[{"gloss":"smelting furnace, blast furnace","pos":["n"]}]},"sdata":[]}

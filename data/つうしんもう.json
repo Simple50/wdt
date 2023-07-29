@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通信網","p":true}],"r_ele":[{"r":"つうしんもう","p":true}],"sense":[{"gloss":"communications network","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"役柄","p":true}],"r_ele":[{"r":"やくがら","p":true}],"sense":[{"gloss":"role","pos":["n"]}]},"sdata":[]}

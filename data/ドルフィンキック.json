@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドルフィンキック","p":true},{"r":"ドルフィン・キック"}],"sense":[{"gloss":"dolphin kick (swimming)","pos":["n"],"f":["sports"]}]},"sdata":[]}

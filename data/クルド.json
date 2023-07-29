@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クルド","p":true}],"sense":[{"gloss":"Kurd","pos":["n"],"x":["クルド人"]}]},"sdata":[{"j":"|クルド|↑人↑↓じん↓には↑自分↑↓じぶん↓の↑国家↑↓こっか↓がない。","e":"The Kurds do not have their own nation."},{"j":"|クルド|↑人↑↓じん↓は↑独自↑↓どくじ↓の↑国家↑↓こっか↓を↑持↑↓も↓っていない。","e":"The Kurds do not have their own nation."}]}

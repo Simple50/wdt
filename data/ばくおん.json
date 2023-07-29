@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"爆音","p":true}],"r_ele":[{"r":"ばくおん","p":true}],"sense":[{"gloss":"(sound of an) explosion or detonation, roar (of a machine)","pos":["n"]}]},"sdata":[]}

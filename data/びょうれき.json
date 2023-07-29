@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病歴","p":true}],"r_ele":[{"r":"びょうれき","p":true}],"sense":[{"gloss":"clinical (case) history","pos":["n","adj-no"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑肝臓↑↓かんぞう↓の↑病歴↑↓|びょうれき|↓がある。","e":"I have a history of liver trouble."}]}

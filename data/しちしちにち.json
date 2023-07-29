@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"七七日","p":true},{"e":"七々日"}],"r_ele":[{"r":"しちしちにち","p":true},{"r":"なななぬか"},{"r":"なななのか"}],"sense":[{"gloss":"49th day after death","pos":["n"]}]},"sdata":[]}

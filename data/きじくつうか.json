@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"基軸通貨","p":true}],"r_ele":[{"r":"きじくつうか","p":true}],"sense":[{"gloss":"key currency","pos":["n"]}]},"sdata":[]}

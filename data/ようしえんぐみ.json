@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"養子縁組","p":true},{"e":"養子縁組み"}],"r_ele":[{"r":"ようしえんぐみ","p":true}],"sense":[{"gloss":"adoption (of a person)","pos":["n"],"f":["law"]}]},"sdata":[]}

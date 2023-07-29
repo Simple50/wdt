@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砲声","p":true}],"r_ele":[{"r":"ほうせい","p":true}],"sense":[{"gloss":"sound of a gun, roar of cannon","pos":["n"]}]},"kdata":{"砲":{"on":["ホウ"],"jlpt":1,"meanings":["cannon","gun"],"freq":1268,"comp":[["包","石"]],"t":1131},"声":{"on":["セイ","ショウ"],"kun":["こえ","こわ-"],"jlpt":3,"meanings":["voice"],"freq":388,"comp":[["𠃜","士"]],"d":["殸"],"t":473}},"sdata":[]}

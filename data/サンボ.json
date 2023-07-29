@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サンボ","p":true}],"sense":[{"gloss":"self-defence (defense) (type of wrestling)","pos":["n"],"l":"rus: sambo"}],"m":["abbr"]},"sdata":[]}

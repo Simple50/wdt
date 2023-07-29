@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売れ筋","p":true}],"r_ele":[{"r":"うれすじ","p":true}],"sense":[{"gloss":"popular line (of products), best-selling line, hot sellers","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国民体育大会","p":true}],"r_ele":[{"r":"こくみんたいいくたいかい","p":true}],"sense":[{"gloss":"National Athletic Meet","pos":["n"],"x":["国体・2"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブルジョア","p":true},{"r":"ブルジョワ"},{"r":"ブルヂヨア","i":["sk"]}],"sense":[{"gloss":"bourgeois","pos":["n","adj-f"],"l":"fre"}]},"sdata":[]}

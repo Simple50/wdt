@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"標準語","p":true}],"r_ele":[{"r":"ひょうじゅんご","p":true}],"sense":[{"gloss":"standard language (used in government, education, etc.)","pos":["n"]},{"gloss":"standard Japanese","pos":["n"]}]},"sdata":[]}

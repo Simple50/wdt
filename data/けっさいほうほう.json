@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"決済方法","p":true}],"r_ele":[{"r":"けっさいほうほう","p":true}],"sense":[{"gloss":"payment method","pos":["n"]}]},"sdata":[]}

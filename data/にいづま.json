@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新妻","p":true}],"r_ele":[{"r":"にいづま","p":true}],"sense":[{"gloss":"new wife","pos":["n"]}]},"sdata":[]}

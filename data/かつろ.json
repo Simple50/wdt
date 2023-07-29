@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"活路","p":true}],"r_ele":[{"r":"かつろ","p":true}],"sense":[{"gloss":"means of survival, means of escape, way out of a difficulty","pos":["n"]}]},"sdata":[]}

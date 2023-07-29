@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歌会始","p":true},{"e":"歌会始め"}],"r_ele":[{"r":"うたかいはじめ","p":true}],"sense":[{"gloss":"Imperial New Year's Poetry Reading, annual New Year's tanka-reading party held at the Imperial Palace","pos":["n"]}]},"sdata":[]}

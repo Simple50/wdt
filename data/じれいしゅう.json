@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事例集","p":true}],"r_ele":[{"r":"じれいしゅう","p":true}],"sense":[{"gloss":"collection of cases, collection of instances","pos":["n"]}]},"sdata":[]}

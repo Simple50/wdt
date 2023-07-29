@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行き過ぎる","p":true},{"e":"行きすぎる"},{"e":"行過ぎる"}],"r_ele":[{"r":"いきすぎる","p":true},{"r":"ゆきすぎる"}],"sense":[{"gloss":"to go too far, to go past","pos":["v1","vi"]},{"gloss":"to go to extremes, to overdo it","pos":["v1","vi"]}]},"sdata":[]}

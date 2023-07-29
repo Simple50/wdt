@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"動じる","p":true}],"r_ele":[{"r":"どうじる","p":true}],"sense":[{"gloss":"to be perturbed, to be agitated","pos":["v1","vi"]}]},"kdata":{"動":{"on":["ドウ"],"kun":["うご.く","うご.かす"],"jlpt":4,"meanings":["move","motion","change","confusion","shift","shake"],"freq":73,"comp":[["重","力"]],"d":["働","勲","慟"],"t":1240}},"sdata":[]}

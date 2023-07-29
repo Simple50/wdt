@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"切り込み","p":true},{"e":"斬り込み"},{"e":"切込み"}],"r_ele":[{"r":"きりこみ","p":true}],"sense":[{"gloss":"cut, notch","pos":["n"]},{"gloss":"raid, attack","pos":["n"]}]},"sdata":[]}

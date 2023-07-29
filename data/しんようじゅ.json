@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"針葉樹","p":true}],"r_ele":[{"r":"しんようじゅ","p":true}],"sense":[{"gloss":"conifer, needle-leaved tree","pos":["n"]}]},"sdata":[]}

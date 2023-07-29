@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"在職","p":true}],"r_ele":[{"r":"ざいしょく","p":true}],"sense":[{"gloss":"being in office","pos":["n","vs","vi","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑大統領↑↓だいとうりょう↓↑在職↑↓|ざいしょく|↓↑中↑↓ちゅう↓↑日本↑↓にっぽん↓を↑訪↑↓おとず↓れた。","e":"He visited Japan while he was President."}]}

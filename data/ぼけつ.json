@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"墓穴","p":true}],"r_ele":[{"r":"ぼけつ","p":true},{"r":"はかあな"}],"sense":[{"gloss":"grave (pit)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑自↑↓みずか↓ら↑墓穴↑↓|ぼけつ|↓を↑掘↑↓ほ↓ってるね。","e":"He is digging his own grave."},{"j":"↑彼女↑↓かのじょ↓は↑墓穴↑↓|ぼけつ|↓を↑掘↑↓ほ↓っている。","e":"She's digging her own grave."}]}

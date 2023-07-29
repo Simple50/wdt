@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タイアップ","p":true}],"sense":[{"gloss":"collaboration, cooperation, partnership, tie-in","pos":["n","vs","vi"],"l":"eng: tie-up"}]},"sdata":[]}

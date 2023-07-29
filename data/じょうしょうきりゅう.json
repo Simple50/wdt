@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上昇気流","p":true}],"r_ele":[{"r":"じょうしょうきりゅう","p":true}],"sense":[{"gloss":"ascending air current, updraft","pos":["n"]},{"gloss":"upward trend, rise in popularity, influence, etc.","pos":["n"]}]},"sdata":[]}

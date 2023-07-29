@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"建築学","p":true}],"r_ele":[{"r":"けんちくがく","p":true}],"sense":[{"gloss":"architecture","pos":["n"]}]},"sdata":[{"j":"↑大学↑↓だいがく↓では↑建築↑↓|けんちく↓↑学↑↓がく|↓を↑専攻↑↓せんこう↓してたよ。","e":"I majored in architecture in college."}]}

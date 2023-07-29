@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"密航","p":true}],"r_ele":[{"r":"みっこう","p":true}],"sense":[{"gloss":"smuggling (people), stowing away","pos":["n","vs","vi"]}]},"sdata":[]}

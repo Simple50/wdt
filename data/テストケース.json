@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テストケース","p":true},{"r":"テスト・ケース"}],"sense":[{"gloss":"test case","pos":["n"]}]},"sdata":[]}

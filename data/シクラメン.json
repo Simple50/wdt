@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シクラメン","p":true}],"sense":[{"gloss":"cyclamen (esp. species Cyclamen persicum)","pos":["n"],"l":"lat"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アウトサイダー","p":true}],"sense":[{"gloss":"outsider","pos":["n"]}]},"sdata":[{"j":"スコット・ホールは|アウトサイダー|スに↑所属↑↓しょぞく↓しています。","e":"Scott Hall belongs to the Outsiders."}]}

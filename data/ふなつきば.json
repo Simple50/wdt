@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"船着き場","p":true},{"e":"船着場"},{"e":"舟着場"},{"e":"船つき場"},{"e":"舟着き場"},{"e":"舟つき場"}],"r_ele":[{"r":"ふなつきば","p":true}],"sense":[{"gloss":"harbour, harbor, landing place, wharf, anchorage","pos":["n"]}]},"sdata":[]}

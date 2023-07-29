@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"緑豆","p":true}],"r_ele":[{"r":"りょくとう","p":true},{"r":"リョクトウ"}],"sense":[{"gloss":"mung bean (Vigna radiata), green gram","pos":["n"]}]},"sdata":[]}

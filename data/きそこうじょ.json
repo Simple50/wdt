@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"基礎控除","p":true}],"r_ele":[{"r":"きそこうじょ","p":true}],"sense":[{"gloss":"basic or standard deduction","pos":["n"]}]},"sdata":[{"j":"５０↑万↑↓まん↓↑円↑↓えん↓の↑個人↑↓こじん↓↑基礎↑↓|きそ↓↑控除↑↓こうじょ|↓がある。","e":"You have a personal tax exemption of 500,000 yen."}]}

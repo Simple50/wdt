@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"労連","p":true}],"r_ele":[{"r":"ろうれん","p":true}],"sense":[{"gloss":"labour union, labor union","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はその↑仕事↑↓しごと↓にかけては↑老練↑↓|ろうれん|↓な↑人↑↓ひと↓だ。","e":"He is an old hand at that work."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自己批判","p":true}],"r_ele":[{"r":"じこひはん","p":true}],"sense":[{"gloss":"self-criticism","pos":["n","vs","vt","adj-no"]}]},"sdata":[]}

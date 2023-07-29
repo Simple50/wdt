@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カンツォーネ","p":true},{"r":"カンツォーナ"}],"sense":[{"gloss":"canzone","pos":["n"],"f":["music"],"l":"ita"}]},"sdata":[]}

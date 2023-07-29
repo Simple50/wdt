@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"荘園","p":true},{"e":"庄園"}],"r_ele":[{"r":"しょうえん","p":true},{"r":"そうえん"}],"sense":[{"gloss":"manor, demesne","pos":["n"]}]},"sdata":[{"j":"↑腱鞘炎↑↓けん|しょうえん|↓ではないかと↑思↑↓おも↓うのです。","e":"I think I have tendonitis."},{"j":"↑腱鞘炎↑↓けん|しょうえん|↓ではないかと↑思↑↓おも↓うのです。","e":"I think I have tendinitis."}]}

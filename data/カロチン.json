@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カロチン","p":true},{"r":"カロテン"}],"sense":[{"gloss":"carotene","pos":["n"]}]},"sdata":[]}

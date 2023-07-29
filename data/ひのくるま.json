@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"火の車","p":true}],"r_ele":[{"r":"ひのくるま","p":true}],"sense":[{"gloss":"fiery chariot (that carries the souls of sinners into hell)","pos":["exp","n"],"f":["Buddh"],"x":["火車・1"]},{"gloss":"desperate financial situation, dire straits","pos":["exp","n"],"m":["id"]}]},"sdata":[]}

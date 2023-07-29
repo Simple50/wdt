@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スレーブ"},{"r":"スレイブ","p":true},{"r":"スレーヴ"},{"r":"スレイヴ"}],"sense":[{"gloss":"slave (device)","pos":["n"],"x":["マスター・6"]},{"gloss":"slave (person)","pos":["n"],"x":["奴隷・1"]}]},"sdata":[]}

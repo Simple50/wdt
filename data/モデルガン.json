@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モデルガン","p":true}],"sense":[{"gloss":"realistic toy gun with no firing mechanism, replica firearm","pos":["n"],"l":"eng: model gun"}]},"sdata":[{"j":"|モデルガン|っぽいね。","e":"That sounds like a model gun."},{"j":"|モデルガン|っぽいね。","e":"It looks like a model gun."},{"j":"|モデルガン|っぽいね。","e":"That looks like a model gun."}]}

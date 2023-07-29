@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"放送劇","p":true}],"r_ele":[{"r":"ほうそうげき","p":true}],"sense":[{"gloss":"radio drama","pos":["n"]}]},"sdata":[]}

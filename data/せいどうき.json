@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"青銅器","p":true}],"r_ele":[{"r":"せいどうき","p":true}],"sense":[{"gloss":"bronze ware","pos":["n"]}]},"sdata":[{"j":"↑青銅器↑↓|せいどうき|↓は↑主↑↓しゅ↓として↑銅↑↓どう↓と↑錫↑↓すず↓の↑合金↑↓ごうきん↓で↑出来↑↓でき↓ている。","e":"Bronze-ware is largely made from alloys of brass and tin."}]}

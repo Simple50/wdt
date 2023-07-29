@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"葬る","p":true}],"r_ele":[{"r":"ほうむる","p":true},{"r":"ほうぶる"}],"sense":[{"gloss":"to bury, to inter, to entomb","pos":["v5r","vt"]},{"gloss":"to cover up, to hush up, to shelve","pos":["v5r","vt"]}]},"kdata":{"葬":{"on":["ソウ"],"kun":["ほうむ.る"],"jlpt":1,"meanings":["interment","bury","shelve"],"freq":754,"comp":[["艹","死","廾"]],"d":["髒"],"t":1594}},"sdata":[]}

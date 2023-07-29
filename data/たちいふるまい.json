@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立ち居振る舞い","p":true},{"e":"立ち居振舞い"},{"e":"立居振舞"},{"e":"立居振舞い"},{"e":"立居振る舞い"},{"e":"立ち居振舞"},{"e":"立ち居振る舞"},{"e":"起ち居振る舞い"},{"e":"起ち居振舞い"},{"e":"起居振舞"}],"r_ele":[{"r":"たちいふるまい","p":true}],"sense":[{"gloss":"movements, behavior, behaviour, bearing, deportment, manners, demeanor","pos":["n"]}]},"sdata":[]}

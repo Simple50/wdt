@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脳出血","p":true}],"r_ele":[{"r":"のうしゅっけつ","p":true}],"sense":[{"gloss":"cerebral hemorrhage, cerebral haemorrhage","pos":["n"]}]},"sdata":[]}

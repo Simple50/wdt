@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海兵隊","p":true}],"r_ele":[{"r":"かいへいたい","p":true}],"sense":[{"gloss":"Marine Corps, Royal Marines","pos":["n"]}]},"sdata":[{"j":"スミスさんが「↑海兵↑↓|かいへい↓↑隊↑↓たい|↓は↑必要↑↓ひつよう↓ない」と↑言↑↓い↓いました。","e":"Mr Smith said, \"There's no need for the Marines.\""}]}

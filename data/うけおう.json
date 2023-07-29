@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"請け負う","p":true},{"e":"請負う"}],"r_ele":[{"r":"うけおう","p":true}],"sense":[{"gloss":"to contract, to undertake","pos":["v5u","vt"]},{"gloss":"to take over, to take responsibility for","pos":["v5u","vt"]}]},"sdata":[]}

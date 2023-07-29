@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"祝杯","p":true},{"e":"祝盃"}],"r_ele":[{"r":"しゅくはい","p":true}],"sense":[{"gloss":"toast, congratulatory cup","pos":["n"]}]},"sdata":[{"j":"これまでがんばったことに↑対↑↓たい↓して、↑新↑↓あたら↓しい↑家↑↓いえ↓での↑最初↑↓さいしょ↓の↑祝杯↑↓|しゅくはい|↓をあげた。","e":"In honor of all the hard work we raised a toast to our first day in our new home!"}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マザリング","p":true},{"r":"マザーリング"}],"sense":[{"gloss":"mothering","pos":["n"]}]},"sdata":[]}

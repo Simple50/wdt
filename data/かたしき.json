@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"型式","p":true}],"r_ele":[{"r":"かたしき","p":true},{"r":"けいしき"}],"sense":[{"gloss":"model (e.g. of a vehicle), type","pos":["n"]}]},"sdata":[]}

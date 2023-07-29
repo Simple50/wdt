@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"空輸","p":true}],"r_ele":[{"r":"くうゆ","p":true}],"sense":[{"gloss":"air transport, air lift, airlift","pos":["n","vs","vt","adj-no"]}]},"sdata":[{"j":"↑空輸↑↓|くうゆ|↓のおかげで↑食↑↓た↓べ↑物↑↓もの↓に↑季節↑↓きせつ↓↑感↑↓かん↓を↑感↑↓かん↓じなくなったというお↑話↑↓はなし↓です。","e":"It's talking about how, thanks to air transport, we've lost the sense of 'season' for foodstuffs."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オペレーション","p":true}],"sense":[{"gloss":"operation","pos":["n"]}]},"sdata":[{"j":"↑救援↑↓きゅうえん↓↑作戦↑↓さくせん↓は|オペレーション|・トモダチと↑名付↑↓なづ↓けられた。","e":"The rescue operation was called \"Operation Tomodachi\"."}]}

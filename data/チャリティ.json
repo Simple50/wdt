@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チャリティー"},{"r":"チャリティ","p":true},{"r":"チャリテイ"}],"sense":[{"gloss":"charity","pos":["n"]}]},"sdata":[{"j":"オペラ↑歌手↑↓かしゅ↓は↑自発↑↓じはつ↓↑的↑↓てき↓に|チャリティ|ーコンサートを↑開↑↓ひら↓いた。","e":"The opera singer held a charity concert of his own accord."}]}

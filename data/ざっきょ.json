@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雑居","p":true}],"r_ele":[{"r":"ざっきょ","p":true}],"sense":[{"gloss":"living together, mixed residence, sharing living quarters","pos":["n","vs","vi"]},{"gloss":"multi-tenant, community","pos":["adj-f"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き出す","p":true},{"e":"突出す"},{"e":"つき出す"},{"e":"突きだす"},{"e":"つん出す"},{"e":"突ん出す"}],"r_ele":[{"r":"つきだす","p":true},{"r":"つんだす"}],"sense":[{"gloss":"to push out, to project, to stick out","pos":["v5s","vt"]},{"gloss":"to hand over (e.g. to the police)","pos":["v5s","vt"]}]},"sdata":[]}

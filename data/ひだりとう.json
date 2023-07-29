@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"左党","p":true}],"r_ele":[{"r":"さとう"},{"r":"ひだりとう","p":true}],"sense":[{"gloss":"drinker, person who is fond of alcohol","pos":["n"],"x":["右党・2"]},{"gloss":"left-wing party","pos":["n"],"x":["右党・1"]}]},"sdata":[]}

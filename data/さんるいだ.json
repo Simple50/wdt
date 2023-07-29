@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三塁打","p":true}],"r_ele":[{"r":"さんるいだ","p":true}],"sense":[{"gloss":"three-base hit, triple","pos":["n"],"f":["baseb"]}]},"sdata":[{"j":"トムは↑三塁打↑↓|さんるいだ|↓を↑打↑↓う↓った。","e":"Tom hit a triple."},{"j":"トムは↑３↑↓|さん↓↑塁打↑↓るいだ|↓を↑打↑↓う↓った。","e":"Tom hit a triple."}]}

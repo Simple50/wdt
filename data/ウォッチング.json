@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウォッチング","p":true},{"r":"ウオッチング","p":true}],"sense":[{"gloss":"watching","pos":["n"]}]},"sdata":[{"j":"どうか↑私↑↓わたし↓にバード|ウォッチング|の↑話↑↓はなし↓をしてくれませんか。","e":"Would you please tell me the story about bird watching?"},{"j":"バード|ウォッチング|は↑素敵↑↓すてき↓な↑趣味↑↓しゅみ↓ですよ。","e":"Bird watching is a nice hobby."}]}

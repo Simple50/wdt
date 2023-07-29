@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"係数","p":true}],"r_ele":[{"r":"けいすう","p":true}],"sense":[{"gloss":"coefficient, factor, proportional constant","pos":["n"],"f":["math"]}]},"sdata":[{"j":"↑私↑↓わたし↓はこれらの↑統計↑↓とう|けい↓↑数値↑↓すう|ち↓を↑政府↑↓せいふ↓の↑教育↑↓きょういく↓↑白書↑↓はくしょ↓から↑借↑↓か↓りた。","e":"I took these statistics from a government white paper on education."}]}

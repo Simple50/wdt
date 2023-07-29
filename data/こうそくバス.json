@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高速バス","p":true}],"r_ele":[{"r":"こうそくバス","p":true}],"sense":[{"gloss":"express intercity bus","pos":["n"]}]},"sdata":[]}

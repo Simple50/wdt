@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押しボタン","p":true},{"e":"押ボタン"},{"e":"押し釦"},{"e":"押釦"}],"r_ele":[{"r":"おしボタン","p":true},{"r":"おしぼたん"}],"sense":[{"gloss":"push button, push-button","pos":["n"]}]},"sdata":[{"j":"↑押↑↓|お↓しボタン|を↑押↑↓お↓して↑下↑↓くだ↓さい。","e":"Push the button, please."}]}

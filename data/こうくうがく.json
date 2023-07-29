@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"航空学","p":true}],"r_ele":[{"r":"こうくうがく","p":true}],"sense":[{"gloss":"aeronautics","pos":["n"]}]},"sdata":[]}

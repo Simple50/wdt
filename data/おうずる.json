@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"応ずる","p":true}],"r_ele":[{"r":"おうずる","p":true}],"sense":[{"gloss":"to answer, to respond, to meet","pos":["vz","vi"],"x":["応じる"]},{"gloss":"to satisfy, to accept","pos":["vz","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スペシャル","p":true}],"sense":[{"gloss":"special","pos":["adj-na"]},{"gloss":"TV special","pos":["n"]}]},"sdata":[{"j":"|スペシャル|というのはどんな↑味↑↓あじ↓ですか。","e":"What does the special taste like?"},{"j":"↑今日↑↓きょう↓は↑私↑↓わたし↓↑達↑↓たち↓の↑記念↑↓きねん↓↑日↑↓び↓なので、↑夕御飯↑↓ゆうごはん↓も|スペシャル|でいこう。","e":"Today is our anniversary so let's make this a special dinner."}]}

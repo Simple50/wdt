@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"付け入る","p":true},{"e":"つけ入る"},{"e":"付入る"}],"r_ele":[{"r":"つけいる","p":true}],"sense":[{"gloss":"to take advantage (of someone's weaknesses, carelessness, etc.), to impose on","pos":["v5r","vi"]}]},"sdata":[]}

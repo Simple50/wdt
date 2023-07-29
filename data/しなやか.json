@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"しなやか","p":true}],"sense":[{"gloss":"supple, flexible, elastic","pos":["adj-na"]},{"gloss":"graceful, elegant, refined","pos":["adj-na"]}]},"sdata":[]}

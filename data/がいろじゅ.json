@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"街路樹","p":true}],"r_ele":[{"r":"がいろじゅ","p":true}],"sense":[{"gloss":"roadside trees","pos":["n"]}]},"sdata":[{"j":"↑街路樹↑↓|がいろじゅ|↓のある↑通↑↓とお↓りの↑向↑↓む↓こうに↑海↑↓うみ↓が↑見↑↓み↓えた。","e":"The street, lined with trees, provided a vista of the sea."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"両名","p":true}],"r_ele":[{"r":"りょうめい","p":true}],"sense":[{"gloss":"both persons","pos":["n"]}]},"sdata":[]}

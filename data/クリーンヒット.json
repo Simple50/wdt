@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クリーンヒット","p":true},{"r":"クリーン・ヒット"}],"sense":[{"gloss":"clean hit","pos":["n"]}]},"sdata":[]}

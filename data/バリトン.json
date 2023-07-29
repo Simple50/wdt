@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バリトン","p":true}],"sense":[{"gloss":"baritone","pos":["n"],"f":["music"]}]},"sdata":[]}

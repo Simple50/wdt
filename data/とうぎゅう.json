@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"闘牛","p":true}],"r_ele":[{"r":"とうぎゅう","p":true}],"sense":[{"gloss":"bullfighting, bullfight","pos":["n"]},{"gloss":"fighting bull","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑闘牛↑↓|とうぎゅう|↓を↑見↑↓み↓たかったが、↑父↑↓ちち↓はどうしても↑彼↑↓かれ↓を↑行↑↓い↓かせようとはしなかった。","e":"He wanted to see a bullfight, but his father wouldn't let him go."}]}

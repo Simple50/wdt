@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電気炉","p":true}],"r_ele":[{"r":"でんきろ","p":true}],"sense":[{"gloss":"electric furnace","pos":["n"]}]},"sdata":[]}

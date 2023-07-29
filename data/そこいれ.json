@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"底入れ","p":true}],"r_ele":[{"r":"そこいれ","p":true}],"sense":[{"gloss":"bottoming out (of prices)","pos":["n","vs","vi"]}]},"sdata":[]}

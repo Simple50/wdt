@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベルファスト","p":true}],"sense":[{"gloss":"Belfast (Northern Ireland, UK)","pos":["n"]}]},"sdata":[]}

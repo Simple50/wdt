@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縮む","p":true}],"r_ele":[{"r":"ちぢむ","p":true},{"r":"ちじむ"}],"sense":[{"gloss":"to shrink, to contract, to diminish (in size)","pos":["v5m","vi"]}]},"sdata":[{"j":"↑命↑↓いのち↓が↑縮↑↓|ちぢ↓む|↑思↑↓おも↓いをした。","e":"I felt as if my life had been shortened."}]}

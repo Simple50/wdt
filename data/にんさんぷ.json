@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"妊産婦","p":true}],"r_ele":[{"r":"にんさんぷ","p":true}],"sense":[{"gloss":"expectant and nursing mothers","pos":["n"]}]},"sdata":[]}

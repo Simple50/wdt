@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"門扉","p":true}],"r_ele":[{"r":"もんぴ","p":true}],"sense":[{"gloss":"door(s) of a gate","pos":["n"]}]},"sdata":[]}

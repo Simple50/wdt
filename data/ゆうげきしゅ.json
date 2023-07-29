@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遊撃手","p":true}],"r_ele":[{"r":"ゆうげきしゅ","p":true}],"sense":[{"gloss":"shortstop, short","pos":["n"],"f":["baseb"]}]},"sdata":[]}

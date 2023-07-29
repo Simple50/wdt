@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"門前","p":true}],"r_ele":[{"r":"もんぜん","p":true}],"sense":[{"gloss":"before the gate, in front of the gate","pos":["n"]}]},"sdata":[{"j":"↑門前↑↓|もんぜん|↓の↑小僧↑↓こぞう↓↑習↑↓なら↓わぬ↑経↑↓きょう↓を↑読↑↓よ↓む。","e":"A saint's maid quotes Latin."}]}

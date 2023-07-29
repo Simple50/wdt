@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"曲線","p":true}],"r_ele":[{"r":"きょくせん","p":true}],"sense":[{"gloss":"curve","pos":["n"]}]},"sdata":[{"j":"↑本当↑↓ほんとう↓の↑女性↑↓じょせい↓には↑曲線↑↓|きょくせん|↓がある。","e":"Real women have curves."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通達","p":true}],"r_ele":[{"r":"つうたつ","p":true},{"r":"つうだつ"}],"sense":[{"gloss":"notification, official notice, directive (e.g. from higher to lower levels of the administration)","pos":["n","vs","vt"]},{"gloss":"being well versed (in), being proficient (in)","pos":["n","vs","vi"]}]},"sdata":[]}

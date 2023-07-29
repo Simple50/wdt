@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アンペア","p":true}],"sense":[{"gloss":"ampere","pos":["n"]}]},"sdata":[]}

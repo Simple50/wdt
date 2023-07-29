@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"数万","p":true}],"r_ele":[{"r":"すうまん","p":true}],"sense":[{"gloss":"tens of thousands","pos":["n","adj-no"]}]},"sdata":[{"j":"↑熱帯↑↓ねったい↓↑雨林↑↓うりん↓は↑一↑↓いち↓↑日↑↓にち↓↑数↑↓|すう↓↑万↑↓まん|↓ヘクタールの↑割合↑↓わりあい↓でなくなっている。","e":"The rainforests are disappearing at the rate of tens of thousands of hectares a day."}]}

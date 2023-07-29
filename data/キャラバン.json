@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャラバン","p":true}],"sense":[{"gloss":"caravan","pos":["n"]},{"gloss":"group of people touring to sell, investigate, etc.","pos":["n"]}]},"sdata":[]}

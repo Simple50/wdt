@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"録音テープ","p":true}],"r_ele":[{"r":"ろくおんテープ","p":true}],"sense":[{"gloss":"audio tape, magnetic tape","pos":["n"]}]},"sdata":[]}

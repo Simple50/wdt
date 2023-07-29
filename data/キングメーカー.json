@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キングメーカー","p":true}],"sense":[{"gloss":"kingmaker","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行者","p":true}],"r_ele":[{"r":"ぎょうじゃ","p":true}],"sense":[{"gloss":"ascetic, pilgrim, devotee","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓はあなたの↑人形↑↓にん|ぎょう↓じゃ|ない。","e":"I'm not your doll."}]}

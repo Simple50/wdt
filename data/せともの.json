@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瀬戸物","p":true},{"e":"瀬戸もの"}],"r_ele":[{"r":"せともの","p":true},{"r":"セトモノ"}],"sense":[{"gloss":"earthenware, porcelain, china, pottery, crockery","pos":["n"]}]},"sdata":[{"j":"その↑店↑↓みせ↓は↑瀬戸物↑↓|せともの|↓を↑使↑↓つか↓っている。","e":"The store carries earthenware."},{"j":"この↑店↑↓みせ↓は↑瀬戸物↑↓|せともの|↓を↑売↑↓う↓っている。","e":"This store sells pottery."}]}

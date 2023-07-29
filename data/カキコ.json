@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カキコ","p":true},{"r":"かきこ"}],"sense":[{"gloss":"post (to a BBS), comment (on a blog)","pos":["n"],"x":["書き込み"]}],"m":["abbr","sl"]},"sdata":[{"j":"|カキコ|↑苦手↑↓にがて↓なんです。","e":"I'm not good at posting stuff online."}]}

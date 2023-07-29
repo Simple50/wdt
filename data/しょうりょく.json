@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"省力","p":true}],"r_ele":[{"r":"しょうりょく","p":true}],"sense":[{"gloss":"labor saving, reduction of labor","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は、↑芸術↑↓げいじゅつ↓に↑対↑↓たい↓する↑鑑賞↑↓かん|しょう↓↑力↑↓りょく|↓がある。","e":"He has an eye for art."},{"j":"↑文章↑↓ぶん|しょう↓↑力↑↓りょく|↓を↑上↑↓あ↓げたいです。","e":"I want to be stronger at writing."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バルブ","p":true},{"r":"ヴァルヴ"}],"sense":[{"gloss":"valve","pos":["n"]}]},"sdata":[{"j":"トムは|バルブ|を↑回↑↓まわ↓しました。","e":"Tom turned the valve."}]}

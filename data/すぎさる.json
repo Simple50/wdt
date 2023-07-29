@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"過ぎ去る","p":true},{"e":"過去る"}],"r_ele":[{"r":"すぎさる","p":true}],"sense":[{"gloss":"to pass, to pass by","pos":["v5r","vi"]}]},"sdata":[{"j":"↑楽↑↓たの↓しい↑学生↑↓がくせい↓↑時代↑↓じだい↓もやがて↑過↑↓|す↓ぎ↑去↑↓さ↓る|でしょう。","e":"My happy schooldays will soon be behind me."}]}

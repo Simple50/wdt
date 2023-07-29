@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キーポイント","p":true},{"r":"キー・ポイント"}],"sense":[{"gloss":"key point, the key","pos":["n"]}]},"sdata":[]}

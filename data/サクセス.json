@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サクセス","p":true}],"sense":[{"gloss":"success","pos":["n"]}]},"sdata":[]}

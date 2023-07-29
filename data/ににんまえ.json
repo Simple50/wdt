@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二人前","p":true}],"r_ele":[{"r":"ににんまえ","p":true}],"sense":[{"gloss":"for two people, (work) of two, (meals) for two","pos":["adj-no"]}]},"sdata":[]}

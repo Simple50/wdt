@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘブライズム","p":true}],"sense":[{"gloss":"Hebraism","pos":["n"]}]},"sdata":[]}

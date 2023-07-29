@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横糸","p":true},{"e":"緯糸"},{"e":"緯"},{"e":"よこ糸"}],"r_ele":[{"r":"よこいと","p":true},{"r":"ぬきいと"},{"r":"ぬき"},{"r":"い"}],"sense":[{"gloss":"weft, woof (crosswise threads on a loom)","pos":["n"]}]},"sdata":[]}

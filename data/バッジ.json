@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バッジ","p":true},{"r":"バッチ","i":["ik"]}],"sense":[{"gloss":"badge","pos":["n"]}]},"sdata":[{"j":"↑男子↑↓だんし↓↑生徒↑↓せいと↓のめいめいが↑帽子↑↓ぼうし↓に↑学校↑↓がっこう↓の|バッジ|をつけています。","e":"Each boy student has a school badge on his cap."},{"j":"↑誰↑↓だれ↓か↑僕↑↓ぼく↓の|バッジ|↑見↑↓み↓なかった？","e":"Has anyone seen my badge?"}]}

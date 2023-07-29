@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビーナス","p":true},{"r":"ヴィーナス","p":true},{"r":"ウェヌス"}],"sense":[{"gloss":"Venus (Roman goddess)","pos":["n"],"x":["アプロディーテー"]},{"gloss":"Venus (planet)","pos":["n"],"f":["astron"],"x":["金星・きんせい"]}]},"sdata":[{"j":"ミロの|ビーナス|が↑完全↑↓かんぜん↓であったときには、↑像↑↓ぞう↓には↑腕↑↓うで↓もついていた。","e":"When the Venus de Milo was entire, there were arms on the statue."}]}

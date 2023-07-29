@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"亡骸","p":true},{"e":"亡き骸"},{"e":"亡きがら","i":["sK"]},{"e":"亡がら","i":["sK"]}],"r_ele":[{"r":"なきがら","p":true}],"sense":[{"gloss":"remains, corpse, (dead) body","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑父親↑↓ちちおや↓の|なきがら|を↑見↑↓み↓て↑泣↑↓な↓いた。","e":"She cried at the sight of her father's dead body."}]}

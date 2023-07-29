@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪弊","p":true}],"r_ele":[{"r":"あくへい","p":true}],"sense":[{"gloss":"corrupt practice, evil practice, bad custom, abuse, evil ways","pos":["n"]}]},"sdata":[{"j":"↑社会↑↓しゃかい↓の↑悪弊↑↓|あくへい|↓を↑糾↑↓ただ↓すべきだ。","e":"We must investigate social abuses."}]}

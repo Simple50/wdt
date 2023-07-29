@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"瀬踏み","p":true}],"r_ele":[{"r":"せぶみ","p":true}],"sense":[{"gloss":"sounding out, measuring the depths (of a river)","pos":["n","vs","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分かれ目","p":true},{"e":"分れ目"},{"e":"別れ目"}],"r_ele":[{"r":"わかれめ","p":true}],"sense":[{"gloss":"fork, junction, parting of the ways","pos":["n"]},{"gloss":"turning point","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"新鋭","p":true}],"r_ele":[{"r":"しんえい","p":true}],"sense":[{"gloss":"young and energetic, up-and-coming, new and excellent, newly produced, up-and-comer","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"ロケットは↑通信↑↓つう|しん↓↑衛星↑↓えい|せい↓を↑軌道↑↓きどう↓に↑乗↑↓の↓せた。","e":"The rocket put a communications satellite into orbit."}]}

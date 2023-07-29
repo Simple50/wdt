@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鑑別","p":true}],"r_ele":[{"r":"かんべつ","p":true}],"sense":[{"gloss":"discrimination, judgement, judgment, separation, sorting","pos":["n","vs","vt","adj-no"]}]},"sdata":[]}

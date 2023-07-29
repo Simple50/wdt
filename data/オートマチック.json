@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オートマチック","p":true},{"r":"オートマティック"}],"sense":[{"gloss":"automatic","pos":["adj-no","adj-na"]},{"gloss":"automatic firearm","pos":["n"]},{"gloss":"automatic transmission","pos":["n"],"m":["abbr"],"x":["オートマチックトランスミッション"]}]},"sdata":[]}

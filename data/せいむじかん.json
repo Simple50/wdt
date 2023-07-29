@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"政務次官","p":true}],"r_ele":[{"r":"せいむじかん","p":true}],"sense":[{"gloss":"deputy minister, assistant minister","pos":["n"]}]},"sdata":[]}

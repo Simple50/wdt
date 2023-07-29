@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プロモート","p":true},{"r":"プロモウト","i":["ik"]}],"sense":[{"gloss":"promote, promotion","pos":["n","vs"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"涙声","p":true}],"r_ele":[{"r":"なみだごえ","p":true}],"sense":[{"gloss":"tearful voice","pos":["n"]}]},"kdata":{"涙":{"on":["ルイ","レイ"],"kun":["なみだ"],"jlpt":2,"meanings":["tears","sympathy"],"freq":1381,"comp":[["戻","氵"]],"t":1115},"声":{"on":["セイ","ショウ"],"kun":["こえ","こわ-"],"jlpt":3,"meanings":["voice"],"freq":388,"comp":[["𠃜","士"]],"d":["殸"],"t":473}},"sdata":[]}

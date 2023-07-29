@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"答弁","p":true},{"e":"答辯","i":["rK"]}],"r_ele":[{"r":"とうべん","p":true}],"sense":[{"gloss":"response, reply, answer, defence, defense","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑首相↑↓しゅしょう↓の↑答弁↑↓|とうべん|↓は↑玉虫色↑↓たまむしいろ↓だった。","e":"The prime minister's answer was equivocal."}]}

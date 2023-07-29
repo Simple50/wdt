@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベイルート","p":true}],"sense":[{"gloss":"Beirut (Lebanon)","pos":["n"]}]},"sdata":[]}

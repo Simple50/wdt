@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ホープ","p":true}],"sense":[{"gloss":"hope","pos":["n"]},{"gloss":"white hope, person of promise","pos":["n"]}]},"sdata":[]}

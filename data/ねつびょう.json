@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熱病","p":true}],"r_ele":[{"r":"ねつびょう","p":true}],"sense":[{"gloss":"fever, febrile disease","pos":["n","adj-no"]}]},"sdata":[]}

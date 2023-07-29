@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トータル","p":true}],"sense":[{"gloss":"total","pos":["adj-na","n","vt"]}]},"sdata":[{"j":"↑行↑↓い↓って↑帰↑↓かえ↓って、|トータル|１↑週間↑↓しゅうかん↓ぐらいの↑予定↑↓よてい↓になりそうだね。","e":"There and back, in total, it looks like being a schedule of about one week."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"教務","p":true}],"r_ele":[{"r":"きょうむ","p":true}],"sense":[{"gloss":"school affairs, religious affairs","pos":["n"]}]},"sdata":[]}

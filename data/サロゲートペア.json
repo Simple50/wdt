@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サロゲートペア","p":true}],"sense":[{"gloss":"surrogate pair (of characters)","pos":["n"]}]},"sdata":[]}

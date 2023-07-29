@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"獅子舞","p":true},{"e":"獅子舞い"}],"r_ele":[{"r":"ししまい","p":true}],"sense":[{"gloss":"lion dance, traditional dance performed by one or more dancers wearing a guardian lion costume","pos":["n"]}]},"sdata":[]}

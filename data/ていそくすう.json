@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"定足数","p":true}],"r_ele":[{"r":"ていそくすう","p":true}],"sense":[{"gloss":"quorum","pos":["n"]}]},"sdata":[]}

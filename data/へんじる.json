@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"変じる","p":true}],"r_ele":[{"r":"へんじる","p":true}],"sense":[{"gloss":"to change into, to be transformed, to be transfigured, to transform, to alter, to convert","pos":["v1","vi"]}]},"sdata":[]}

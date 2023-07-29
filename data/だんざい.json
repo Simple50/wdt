@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"断罪","p":true}],"r_ele":[{"r":"だんざい","p":true}],"sense":[{"gloss":"judgment (of a crime), conviction, condemnation","pos":["n","vs","vi"]},{"gloss":"beheading, decapitation","pos":["n"],"m":["dated"]}]},"sdata":[{"j":"トムさんは↑断罪↑↓|だんざい|↓されて、↑死刑↑↓しけい↓↑判決↑↓はんけつ↓を↑受↑↓う↓けました。","e":"Tom was convicted and sentenced to death."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ディベート","p":true}],"sense":[{"gloss":"debate","pos":["n"]}]},"sdata":[{"j":"|ディベート|にかけては↑彼↑↓かれ↓は↑誰↑↓だれ↓にもひけをとらない。","e":"He is second to none when it comes to debating."},{"j":"|ディベート|とは↑肯定↑↓こうてい↓↑側↑↓がわ↓と↑否定↑↓ひてい↓↑側↑↓がわ↓で↑交↑↓か↓わされる↑知的↑↓ちてき↓ゲームである。","e":"Debate is an academic game between the affirmative and the negative."}]}

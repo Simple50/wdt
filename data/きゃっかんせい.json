@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"客観性","p":true}],"r_ele":[{"r":"きゃっかんせい","p":true}],"sense":[{"gloss":"objectivity","pos":["n"]}]},"sdata":[]}

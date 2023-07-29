@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"公共職業安定所","p":true}],"r_ele":[{"r":"こうきょうしょくぎょうあんていじょ","p":true}],"sense":[{"gloss":"Public Employment Security Office, PESO","pos":["n"],"x":["ハローワーク"]}]},"sdata":[]}

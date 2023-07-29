@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"数式","p":true}],"r_ele":[{"r":"すうしき","p":true}],"sense":[{"gloss":"numerical formula","pos":["n"]}]},"sdata":[{"j":"これは↑理論↑↓りろん↓の↑根幹↑↓こんかん↓となる↑数式↑↓|すうしき|↓である。","e":"This formula is the basis of the theory."}]}

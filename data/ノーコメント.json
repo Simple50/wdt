@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノーコメント","p":true},{"r":"ノー・コメント"}],"sense":[{"gloss":"no comment","pos":["exp","n"]}]},"sdata":[{"j":"|ノーコメント|です。","e":"No comment."},{"j":"トムは|ノーコメント|だった。","e":"Tom made no comment."}]}

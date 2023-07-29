@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サード","p":true}],"sense":[{"gloss":"third (base, baseman, gear)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑正↑↓せい↓↑位置↑↓いち↓は|サード|だ。","e":"His normal position is third baseman."}]}

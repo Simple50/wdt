@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流刑","p":true}],"r_ele":[{"r":"りゅうけい","p":true},{"r":"るけい"}],"sense":[{"gloss":"exile, banishment, deportation","pos":["n","vs"]}]},"sdata":[]}

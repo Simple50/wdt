@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自己管理","p":true}],"r_ele":[{"r":"じこかんり","p":true}],"sense":[{"gloss":"taking care of something by oneself, self-management","pos":["n","vs"]}]},"sdata":[{"j":"こたつで↑寝↑↓ね↓ちゃったら↑風邪↑↓かぜ↓↑引↑↓ひ↓くのはあたりまえ。↑自己↑↓|じこ↓↑管理↑↓かんり|↓がなっていない。","e":"Of course you'll catch a cold if you fall asleep under the kotatsu. You have to learn to take care of yourself."}]}

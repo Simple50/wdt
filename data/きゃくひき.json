@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"客引き","p":true}],"r_ele":[{"r":"きゃくひき","p":true}],"sense":[{"gloss":"touting, soliciting, luring","pos":["n","vs","vi"]},{"gloss":"tout, barker, pander","pos":["n"]}]},"sdata":[{"j":"↑空港↑↓くうこう↓には↑数↑↓すう↓↑百↑↓ひゃく↓↑台↑↓だい↓のタクシーがいて、↑皆↑↓みな↓↑客引↑↓|きゃくひ↓き|していた。","e":"There were hundreds of taxis at the airport, all touting for business."}]}

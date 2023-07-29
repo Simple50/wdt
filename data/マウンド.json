@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マウンド","p":true}],"sense":[{"gloss":"(pitcher's) mound","pos":["n"],"f":["baseb"]},{"gloss":"mound (small hill on a golf course)","pos":["n"],"f":["sports"]}]},"sdata":[]}

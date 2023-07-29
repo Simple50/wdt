@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"短距離","p":true}],"r_ele":[{"r":"たんきょり","p":true}],"sense":[{"gloss":"short distance, short range, short-haul","pos":["n"]}]},"sdata":[{"j":"↑使節↑↓しせつ↓↑団↑↓だん↓は↑空路↑↓くうろ↓を↑利用↑↓りよう↓して↑国境↑↓こっきょう↓までの↑最↑↓さい↓↑短距離↑↓|たんきょり|↓を↑行↑↓おこな↓った。","e":"The mission took the direct route by air to the boundary."}]}

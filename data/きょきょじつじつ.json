@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虚々実々","p":true},{"e":"虚虚実実"}],"r_ele":[{"r":"きょきょじつじつ","p":true}],"sense":[{"gloss":"full of wiles and tricks, match between persons equal in shrewdness mobilizing all the tricks each can muster, shrewdly avoiding the opponent's strong points and attacking its weaknesses","pos":["n","adj-no"]}],"m":["yoji"]},"sdata":[]}

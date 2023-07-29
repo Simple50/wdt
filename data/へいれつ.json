@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"並列","p":true}],"r_ele":[{"r":"へいれつ","p":true}],"sense":[{"gloss":"arranging in a line, standing in a row","pos":["n","vs","vt","vi"]},{"gloss":"parallel (electronics, computing, etc.)","pos":["n","adj-no"],"x":["並列回路・へいれつかいろ","直列・ちょくれつ・1"]}]},"sdata":[]}

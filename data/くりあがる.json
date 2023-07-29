@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"繰り上がる","p":true},{"e":"繰上がる"},{"e":"繰り上る"},{"e":"繰上る"}],"r_ele":[{"r":"くりあがる","p":true}],"sense":[{"gloss":"to move up (e.g. date, rank, order), to be advanced","pos":["v5r","vi"],"ant":["繰り下がる・1"]},{"gloss":"to be carried (of a number in addition)","pos":["v5r","vi"],"f":["math"],"x":["繰り下がる・2"]}]},"sdata":[]}

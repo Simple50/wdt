@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し流す","p":true},{"e":"押流す"},{"e":"押しながす","i":["sK"]},{"e":"おし流す","i":["sK"]}],"r_ele":[{"r":"おしながす","p":true}],"sense":[{"gloss":"to wash away, to sweep away, to carry away","pos":["v5s","vt"]}]},"sdata":[]}

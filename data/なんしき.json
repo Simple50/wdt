@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軟式","p":true}],"r_ele":[{"r":"なんしき","p":true}],"sense":[{"gloss":"soft (esp. of softball, tennis, etc.)","pos":["n","adj-no"],"x":["硬式"]}]},"sdata":[]}

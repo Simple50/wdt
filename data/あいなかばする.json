@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相半ばする","p":true}],"r_ele":[{"r":"あいなかばする","p":true}],"sense":[{"gloss":"to be equal in number, degree, etc. (of two things in opposition), to balance, to cancel out","pos":["vs-s","vi"]}]},"sdata":[]}

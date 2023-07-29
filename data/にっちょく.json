@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日直","p":true}],"r_ele":[{"r":"にっちょく","p":true}],"sense":[{"gloss":"day duty, day shift, class duty (students)","pos":["n"]}]},"sdata":[{"j":"↑先月↑↓せんげつ↓の↑日直↑↓|にっちょく|↓↑当番↑↓とうばん↓↑全部↑↓ぜんぶ↓↑私↑↓わたし↓に↑押↑↓お↓し↑付↑↓つ↓けた↑形↑↓かたち↓でエスケープした↑野郎↑↓やろう↓だ。","e":"He's the pest that, on last month's class-help day, escaped leaving me with all the work."}]}

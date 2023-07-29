@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原告","p":true}],"r_ele":[{"r":"げんこく","p":true}],"sense":[{"gloss":"plaintiff, accuser, prosecutor","pos":["n"],"f":["law"],"x":["被告"]}]},"sdata":[{"j":"↑裁判官↑↓さいばんかん↓は↑原告↑↓|げんこく|↓に↑不利↑↓ふり↓な↑判決↑↓はんけつ↓を↑下↑↓くだ↓した。","e":"The judge decided against the plaintiff."}]}

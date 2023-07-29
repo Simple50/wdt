@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"活魚","p":true},{"e":"活け魚"},{"e":"生け魚"}],"r_ele":[{"r":"かつぎょ","p":true},{"r":"いけうお"}],"sense":[{"gloss":"live fish and shellfish (kept in a tank in a restaurant)","pos":["n"]}]},"sdata":[]}

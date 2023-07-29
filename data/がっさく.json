@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合作","p":true}],"r_ele":[{"r":"がっさく","p":true}],"sense":[{"gloss":"collaboration, joint work","pos":["n","vs","vt"]}]},"sdata":[]}

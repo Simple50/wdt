@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"船体","p":true}],"r_ele":[{"r":"せんたい","p":true}],"sense":[{"gloss":"hull","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"建設省","p":true}],"r_ele":[{"r":"けんせつしょう","p":true}],"sense":[{"gloss":"Ministry of Construction","pos":["n"]}]},"sdata":[]}

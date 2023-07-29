@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マクラメ","p":true}],"sense":[{"gloss":"macramé","pos":["n"],"l":"fre"}]},"sdata":[]}

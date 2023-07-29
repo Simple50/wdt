@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"物産","p":true}],"r_ele":[{"r":"ぶっさん","p":true}],"sense":[{"gloss":"product","pos":["n"]}]},"sdata":[{"j":"↑共立↑↓きょうりつ↓↑物産↑↓|ぶっさん|↓に、↑貴社↑↓きしゃ↓にご↑助力↑↓じょりょく↓をお↑願↑↓ねが↓いするよう↑提案↑↓ていあん↓しました。","e":"We suggested Kyoritsu Bussan approach you for assistance."}]}

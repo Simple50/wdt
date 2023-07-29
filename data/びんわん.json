@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敏腕","p":true}],"r_ele":[{"r":"びんわん","p":true}],"sense":[{"gloss":"ability, capability, competence, skill","pos":["n","adj-na","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑若↑↓わか↓かったが、↑敏腕↑↓|びんわん|↓だった。","e":"Young as he was, he was a man of ability."}]}

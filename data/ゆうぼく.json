@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遊牧","p":true}],"r_ele":[{"r":"ゆうぼく","p":true}],"sense":[{"gloss":"nomadism","pos":["n","vs","vi","adj-no"]}]},"sdata":[]}

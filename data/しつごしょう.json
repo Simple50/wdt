@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"失語症","p":true}],"r_ele":[{"r":"しつごしょう","p":true}],"sense":[{"gloss":"aphasia, dysphasia","pos":["n"],"f":["med"]}]},"sdata":[]}

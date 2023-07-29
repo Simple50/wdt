@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コインロッカー","p":true},{"r":"コイン・ロッカー"}],"sense":[{"gloss":"coin-operated locker","pos":["n"],"l":"eng: coin locker"}]},"sdata":[{"j":"すみません、|コインロッカー|はどこですか？","e":"Pardon me. Where are the coin-operated lockers?"}]}

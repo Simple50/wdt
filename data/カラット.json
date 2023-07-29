@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カラット","p":true}],"sense":[{"gloss":"carat (unit of weight for gemstones and pearls)","pos":["n"]},{"gloss":"karat (measure of purity of gold), carat","pos":["n"]}]},"sdata":[]}

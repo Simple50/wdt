@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枯れ枝","p":true},{"e":"枯枝"}],"r_ele":[{"r":"かれえだ","p":true}],"sense":[{"gloss":"dead branch (or twig, etc.), withered branch","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はその↑木↑↓き↓から↑枯↑↓|か↓れ↑枝↑↓えだ|↓を↑切↑↓き↓り↑取↑↓と↓った。","e":"He cut away the dead branches from the tree."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国税庁","p":true}],"r_ele":[{"r":"こくぜいちょう","p":true}],"sense":[{"gloss":"National Tax Agency (Japan)","pos":["n"]},{"gloss":"national taxation agency (e.g. IRS)","pos":["n"]}]},"sdata":[]}

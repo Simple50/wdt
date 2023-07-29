@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"賄い","p":true}],"r_ele":[{"r":"まかない","p":true}],"sense":[{"gloss":"boarding, board, meals, catering, cook","pos":["n"],"x":["賄う・まかなう・2"]}]},"sdata":[{"j":"↑私↑↓わたし↓は|まかない|つきで↑週↑↓しゅう↓５０ポンド↑家賃↑↓やちん↓を↑払↑↓はら↓っている。","e":"I pay fifty pounds a week for board and lodging."}]}

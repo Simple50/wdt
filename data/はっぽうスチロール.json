@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発泡スチロール","p":true},{"e":"発砲スチロール","i":["iK"]}],"r_ele":[{"r":"はっぽうスチロール","p":true}],"sense":[{"gloss":"styrofoam, styrene foam, expanded polystyrene","pos":["n"]}]},"sdata":[]}

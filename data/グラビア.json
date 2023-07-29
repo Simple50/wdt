@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グラビア","p":true},{"r":"グラビュール"},{"r":"グラビール"}],"sense":[{"gloss":"gravure, photogravure, rotogravure, gravure picture","pos":["n"]}]},"sdata":[]}

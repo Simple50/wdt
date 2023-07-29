@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"アルカリ性","p":true}],"r_ele":[{"r":"アルカリせい","p":true}],"sense":[{"gloss":"alkalinity","pos":["n","adj-no"],"f":["chem"]}]},"sdata":[{"j":"↑小学校↑↓しょうがっこう↓のときから、↑酸性↑↓さんせい↓・|アルカリ↑性↑↓せい|↓という↑性質↑↓せいしつ↓をリトマス↑紙↑↓し↓で↑調↑↓しら↓べたりしてきていますね。","e":"Since primary school we've been checking for the qualities known as acidity and alkalinity with litmus paper."}]}

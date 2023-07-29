@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無辺","p":true}],"r_ele":[{"r":"むへん","p":true}],"sense":[{"gloss":"infinite, boundless","pos":["adj-na","n"]}]},"sdata":[{"j":"↑会社↑↓かいしゃ↓の↑債務↑↓さい|む↓↑返済↑↓へん|さい↓↑能力↑↓のうりょく↓を↑維持↑↓いじ↓するのが↑私↑↓わたし↓の↑責任↑↓せきにん↓だ。","e":"My responsibility is to keep the company solvent."}]}

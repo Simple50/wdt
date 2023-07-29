@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブランチ","p":true}],"sense":[{"gloss":"branch","pos":["n"]}]},"sdata":[]}

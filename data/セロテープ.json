@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セロテープ","p":true}],"sense":[{"gloss":"Sellotape, adhesive tape, cellophane tape","pos":["n"],"f":["tradem"],"l":"eng: cellotape"}]},"sdata":[{"j":"|セロテープ|↑持↑↓も↓ってきてくれる？","e":"Can you bring me the Scotch Tape?"}]}

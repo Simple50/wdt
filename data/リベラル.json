@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リベラル","p":true}],"sense":[{"gloss":"liberal","pos":["adj-na","n"]}]},"sdata":[{"j":"メアリーはすごく|リベラル|だよね？","e":"Mary is very liberal, isn't she?"}]}

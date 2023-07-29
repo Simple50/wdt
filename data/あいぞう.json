@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"愛憎","p":true}],"r_ele":[{"r":"あいぞう","p":true}],"sense":[{"gloss":"love and hate","pos":["n"]}]},"sdata":[{"j":"フロイトは、↑親子↑↓おやこ↓↑間↑↓かん↓の↑愛憎↑↓|あいぞう|↓↑関係↑↓かんけい↓をエディプス・コンプレックスとして↑展開↑↓てんかい↓しました。","e":"Freud developed the love-hate relationship between parents and child as the Oedipus complex."}]}

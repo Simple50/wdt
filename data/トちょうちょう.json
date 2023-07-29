@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ト長調","p":true}],"r_ele":[{"r":"トちょうちょう","p":true}],"sense":[{"gloss":"G major","pos":["n"],"f":["music"]}]},"sdata":[]}

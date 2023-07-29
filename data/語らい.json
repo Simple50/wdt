@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"語らい","p":true}],"r_ele":[{"r":"かたらい","p":true}],"sense":[{"gloss":"talk, chat","pos":["n"]},{"gloss":"troth, lovers' vow","pos":["n"]}]},"kdata":{"語":{"on":["ゴ"],"kun":["かた.る","かた.らう"],"jlpt":5,"meanings":["word","speech","language"],"freq":301,"comp":[["言","吾"]],"t":1926}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再生産","p":true}],"r_ele":[{"r":"さいせいさん","p":true}],"sense":[{"gloss":"reproduction","pos":["n","vs","vt"]}]},"sdata":[]}

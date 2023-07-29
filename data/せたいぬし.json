@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"世帯主","p":true}],"r_ele":[{"r":"せたいぬし","p":true}],"sense":[{"gloss":"head of the family (esp. as recorded in the resident register), head of the household, householder","pos":["n"],"x":["住民基本台帳"]}]},"sdata":[]}

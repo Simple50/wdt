@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キット","p":true}],"sense":[{"gloss":"kit","pos":["n"]}]},"sdata":[{"j":"↑配線↑↓はいせん↓を↑間違↑↓まちが↓えないように↑注意↑↓ちゅうい↓して|キット|を↑組↑↓く↓み↑立↑↓た↓てた。","e":"I built the kit taking care not to make mistakes in the wiring."}]}

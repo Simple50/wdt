@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セブン","p":true}],"sense":[{"gloss":"seven","pos":["n"]}]},"sdata":[{"j":"ヤニーは|セブン|イレブンの↑店員↑↓てんいん↓だった。","e":"Yanni was a 7-Eleven clerk."},{"j":"「↑907↑↓きゅうひゃくなな↓」って「キュウ・オー・|セブン|」って↑読↑↓よ↓むの？それとも「キュウヒャクナナ」？","e":"Do you read \"907\" as \"nine oh seven\" or \"nine hundred and seven\"?"}]}

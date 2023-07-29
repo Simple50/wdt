@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"道交法","p":true}],"r_ele":[{"r":"どうこうほう","p":true}],"sense":[{"gloss":"Road Traffic Act","pos":["n"],"f":["law"],"x":["道路交通法"]}],"m":["abbr"]},"sdata":[]}

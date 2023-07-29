@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"八千草","p":true}],"r_ele":[{"r":"やちぐさ","p":true},{"r":"やちくさ"}],"sense":[{"gloss":"variety of plants, various herbs","pos":["n"]}]},"sdata":[]}

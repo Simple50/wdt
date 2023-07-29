@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"用心棒","p":true}],"r_ele":[{"r":"ようじんぼう","p":true}],"sense":[{"gloss":"bodyguard, bouncer, guard","pos":["n"]},{"gloss":"bar (e.g. on a door), bolt","pos":["n"]},{"gloss":"stick or pole used for self-defence","pos":["n"]}]},"sdata":[]}

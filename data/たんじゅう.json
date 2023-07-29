@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"短銃","p":true}],"r_ele":[{"r":"たんじゅう","p":true}],"sense":[{"gloss":"pistol, revolver","pos":["n"]}]},"sdata":[]}

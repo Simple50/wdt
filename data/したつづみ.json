@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"舌鼓","p":true}],"r_ele":[{"r":"したつづみ","p":true},{"r":"したづつみ"}],"sense":[{"gloss":"smacking one's lips (over food)","pos":["n"],"x":["舌鼓を打つ"]}]},"sdata":[{"j":"その↑夜↑↓よる↓↑我々↑↓われわれ↓は↑大↑↓だい↓エビに↑舌鼓↑↓|したつづみ|↓を↑打↑↓う↓った。","e":"We banqueted on lobster that night."}]}

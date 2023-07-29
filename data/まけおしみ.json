@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"負け惜しみ","p":true},{"e":"負惜しみ","i":["sK"]}],"r_ele":[{"r":"まけおしみ","p":true}],"sense":[{"gloss":"being a poor loser, unwillingness to admit defeat, sour grapes","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓の↑市場↑↓しじょう↓が↑閉鎖↑↓へいさ↓↑的↑↓てき↓だという↑非難↑↓ひなん↓は、↑負↑↓|ま↓け↑惜↑↓お↓しみ|にすぎません。","e":"Criticisms that Japan's market is closed are just sour grapes."}]}

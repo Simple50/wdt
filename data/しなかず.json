@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"品数","p":true}],"r_ele":[{"r":"しなかず","p":true}],"sense":[{"gloss":"variety of goods, number of articles","pos":["n"]}]},"sdata":[]}

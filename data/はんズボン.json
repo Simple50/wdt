@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"半ズボン","p":true}],"r_ele":[{"r":"はんズボン","p":true}],"sense":[{"gloss":"short pants, shorts, breeches, knickerbockers","pos":["n"]}]},"sdata":[]}

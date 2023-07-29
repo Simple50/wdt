@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自治権","p":true}],"r_ele":[{"r":"じちけん","p":true}],"sense":[{"gloss":"autonomy, right of self-government","pos":["n"]}]},"sdata":[]}

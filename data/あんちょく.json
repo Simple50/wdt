@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"安直","p":true}],"r_ele":[{"r":"あんちょく","p":true}],"sense":[{"gloss":"simple, easy, simplistic","pos":["adj-na","n"]},{"gloss":"inexpensive, cheap","pos":["adj-na","n"],"m":["dated"]}]},"sdata":[{"j":"そんな↑安直↑↓|あんちょく|↓な↑方法↑↓ほうほう↓じゃ、うまくいかないぞ。","e":"Such a simplistic approach won't do."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電池切れ","p":true}],"r_ele":[{"r":"でんちぎれ","p":true}],"sense":[{"gloss":"running out of battery, battery depletion, going flat, going dead","pos":["n","adj-no"],"x":["切れ・ぎれ"]},{"gloss":"loss of energy, depletion of stamina","pos":["n","adj-no"]}]},"sdata":[]}

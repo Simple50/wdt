@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駆けつける","p":true},{"e":"駆け付ける"},{"e":"駆付ける"}],"r_ele":[{"r":"かけつける","p":true}],"sense":[{"gloss":"to run to, to come running, to rush (someplace), to hasten","pos":["v1","vi"]}]},"kdata":{"駆":{"on":["ク"],"kun":["か.ける","か.る"],"jlpt":1,"meanings":["drive","run","gallop","advance","inspire","impel"],"freq":1033,"comp":[["区","馬"]],"t":1956}},"sdata":[]}

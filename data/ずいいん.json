@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"随員","p":true}],"r_ele":[{"r":"ずいいん","p":true}],"sense":[{"gloss":"member of an entourage or retinue or party, attendant","pos":["n"]}]},"sdata":[]}

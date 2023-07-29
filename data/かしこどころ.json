@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"賢所","p":true}],"r_ele":[{"r":"かしこどころ","p":true},{"r":"けんしょ"}],"sense":[{"gloss":"a palace sanctuary","pos":["n"]}]},"sdata":[]}

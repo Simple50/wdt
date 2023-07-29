@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"燥ぐ","i":["rK"]}],"r_ele":[{"r":"はしゃぐ","p":true}],"sense":[{"gloss":"to make merry, to frolic, to be in high spirits","pos":["v5g","vi"]}],"m":["uk"]},"sdata":[]}

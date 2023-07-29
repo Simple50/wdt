@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"儒教","p":true}],"r_ele":[{"r":"じゅきょう","p":true}],"sense":[{"gloss":"Confucianism","pos":["n"]}]},"sdata":[{"j":"このグループに↑存在↑↓そんざい↓する↑儒教↑↓|じゅきょう|↓↑的↑↓てき↓↑価値↑↓かち↓↑観↑↓かん↓を↑強調↑↓きょうちょう↓したい。","e":"I would like to emphasize the Confucian values that exist within this group."}]}

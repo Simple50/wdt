@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"限りない","p":true},{"e":"限り無い"}],"r_ele":[{"r":"かぎりない","p":true}],"sense":[{"gloss":"eternal, unlimited, endless","pos":["adj-i"]}]},"kdata":{"限":{"on":["ゲン"],"kun":["かぎ.る","かぎ.り","-かぎ.り"],"jlpt":3,"meanings":["limit","restrict","to best of ability"],"freq":405,"comp":[["艮","阝"]],"s":"郎","t":973}},"sdata":[]}

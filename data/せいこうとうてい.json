@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"西高東低","p":true}],"r_ele":[{"r":"せいこうとうてい","p":true}],"sense":[{"gloss":"high barometric pressure to the west, low pressure to the east","pos":["n"]}]},"sdata":[]}

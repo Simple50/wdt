@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"短文","p":true}],"r_ele":[{"r":"たんぶん","p":true}],"sense":[{"gloss":"short sentence","pos":["n"]},{"gloss":"short piece of writing (e.g. passage, article, composition)","pos":["n","adj-no"]}]},"sdata":[]}

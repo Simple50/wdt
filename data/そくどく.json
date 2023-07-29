@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"速読","p":true}],"r_ele":[{"r":"そくどく","p":true}],"sense":[{"gloss":"speed reading","pos":["n","vs","vt"]}]},"sdata":[]}

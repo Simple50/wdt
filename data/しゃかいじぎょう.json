@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社会事業","p":true}],"r_ele":[{"r":"しゃかいじぎょう","p":true}],"sense":[{"gloss":"social work, social project, social enterprise, social welfare service","pos":["n"]}]},"sdata":[]}

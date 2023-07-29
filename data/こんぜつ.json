@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"根絶","p":true}],"r_ele":[{"r":"こんぜつ","p":true}],"sense":[{"gloss":"eradication, extermination, rooting out, stamping out, getting rid of","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑人間↑↓にんげん↓の↑野蛮↑↓やばん↓↑性↑↓せい↓は↑決↑↓けっ↓して↑根絶↑↓|こんぜつ|↓できない。","e":"The savage in man is never quite eradicated."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"消え入る","p":true}],"r_ele":[{"r":"きえいる","p":true}],"sense":[{"gloss":"to vanish gradually (e.g. of a voice), to trail off, to die away, to dwindle","pos":["v5r","vi"]},{"gloss":"to feel one's soul leaving one's body (from embarrassment, grief, etc.), to feel faint, to feel numb, to feel as though one is going to die","pos":["v5r","vi"]}]},"sdata":[]}

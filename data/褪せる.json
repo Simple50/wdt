@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"褪せる","p":true}],"r_ele":[{"r":"あせる","p":true}],"sense":[{"gloss":"to fade, to discolor, to discolour","pos":["v1","vi"]},{"gloss":"to diminish, to fade (e.g. of a memory)","pos":["v1","vi"]}]},"kdata":{"褪":{"on":["タイ","トン"],"kun":["あ.せる","ぬ.ぐ"],"meanings":["fade","discolour"],"comp":[["衤","退"]],"freq":3925}},"sdata":[]}

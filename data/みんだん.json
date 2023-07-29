@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民団","p":true}],"r_ele":[{"r":"みんだん","p":true}],"sense":[{"gloss":"foreign-settlement corporation","pos":["n"]}]},"sdata":[]}

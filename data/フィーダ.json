@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フィーダ","p":true},{"r":"フィーダー"}],"sense":[{"gloss":"feeder","pos":["n"]}]},"sdata":[]}

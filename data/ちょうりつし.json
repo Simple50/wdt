@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"調律師","p":true}],"r_ele":[{"r":"ちょうりつし","p":true}],"sense":[{"gloss":"piano tuner","pos":["n"]}]},"sdata":[{"j":"このピアノ↑何↑↓なん↓↑年↑↓ねん↓↑調律↑↓|ちょうりつ↓し|てないんだろうね。","e":"This piano has probably not been tuned for years."}]}

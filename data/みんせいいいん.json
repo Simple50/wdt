@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民生委員","p":true}],"r_ele":[{"r":"みんせいいいん","p":true}],"sense":[{"gloss":"district welfare officer","pos":["n"]}]},"sdata":[]}

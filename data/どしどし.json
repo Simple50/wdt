@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"どしどし","p":true}],"sense":[{"gloss":"rapidly, one after the other","pos":["adv","adv-to"]},{"gloss":"without hesitation, unreservedly, freely","pos":["adv","adv-to"]},{"gloss":"sound of tramping, stomping","pos":["adv","adv-to"]}],"m":["on-mim"]},"sdata":[{"j":"|どしどし|↑仕事↑↓しごと↓に↑取↑↓と↓りかかる。","e":"Roll up your sleeves and get to work."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"習熟","p":true},{"e":"修熟"}],"r_ele":[{"r":"しゅうじゅく","p":true}],"sense":[{"gloss":"proficiency, mastery, becoming proficient (in)","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はフランス↑語↑↓ご↓に↑習熟↑↓|しゅうじゅく|↓しようとした。","e":"He tried to master French."}]}

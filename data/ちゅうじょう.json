@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中将","p":true}],"r_ele":[{"r":"ちゅうじょう","p":true}],"sense":[{"gloss":"lieutenant general, vice-admiral","pos":["n"],"f":["mil"]}]},"sdata":[{"j":"あなたはしょっ|ちゅう↑上司↑↓じょう|し↓とけんかしている。","e":"You're always disagreeing with your boss."}]}

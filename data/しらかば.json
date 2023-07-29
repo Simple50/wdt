@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白樺","p":true}],"r_ele":[{"r":"しらかば","p":true},{"r":"しらかんば"},{"r":"シラカバ"},{"r":"シラカンバ"}],"sense":[{"gloss":"Japanese white birch (Betula platyphylla var. japonica)","pos":["n"]}]},"sdata":[]}

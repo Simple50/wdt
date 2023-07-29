@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社殿","p":true}],"r_ele":[{"r":"しゃでん","p":true}],"sense":[{"gloss":"(main building of a) Shinto shrine","pos":["n"]}]},"sdata":[]}

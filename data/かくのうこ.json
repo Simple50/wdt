@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"格納庫","p":true}],"r_ele":[{"r":"かくのうこ","p":true}],"sense":[{"gloss":"(aircraft) hangar","pos":["n"]}]},"sdata":[]}

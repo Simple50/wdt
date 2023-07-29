@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"改まった","p":true}],"r_ele":[{"r":"あらたまった","p":true}],"sense":[{"gloss":"ceremonious, formal","pos":["adj-f"],"x":["改まる・3"]}]},"sdata":[]}

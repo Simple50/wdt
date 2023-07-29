@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国家公安委員会","p":true}],"r_ele":[{"r":"こっかこうあんいいんかい","p":true}],"sense":[{"gloss":"National Public Safety Commission","pos":["n"]}]},"sdata":[]}

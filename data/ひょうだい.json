@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"表題","p":true},{"e":"標題","p":true}],"r_ele":[{"r":"ひょうだい","p":true}],"sense":[{"gloss":"title, index, heading, headline, caption","pos":["n"]}]},"sdata":[]}

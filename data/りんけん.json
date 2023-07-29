@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"臨検","p":true}],"r_ele":[{"r":"りんけん","p":true}],"sense":[{"gloss":"on-the-spot investigation or inspection, raid","pos":["n","vs","vt"]}]},"sdata":[{"j":"ツベルク|リン↑検査↑↓けん|さ↓は↑受↑↓う↓けました。","e":"He had a tuberculin test."}]}

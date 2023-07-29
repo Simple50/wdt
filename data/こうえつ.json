@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"校閲","p":true}],"r_ele":[{"r":"こうえつ","p":true}],"sense":[{"gloss":"revision, proofreading","pos":["n","vs","vt"]}]},"sdata":[{"j":"この↑校閲↑↓|こうえつ|↓↑力↑↓りょく↓の↑弱↑↓よわ↓さは↑人手↑↓ひとで↓が↑足↑↓た↓らないとしか↑考↑↓かんが↓えられませんね。","e":"I can only put this poor checking down to lack of people at work."}]}

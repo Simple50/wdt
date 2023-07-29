@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビエンナーレ","p":true}],"sense":[{"gloss":"biennale (biennial art exhibition)","pos":["n"],"x":["トリエンナーレ"],"l":"ita"}]},"sdata":[]}

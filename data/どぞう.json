@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土蔵","p":true}],"r_ele":[{"r":"どぞう","p":true}],"sense":[{"gloss":"storehouse with thick (earthen) walls, godown","pos":["n"]}]},"sdata":[]}

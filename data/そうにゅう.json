@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"挿入","p":true},{"e":"插入","i":["oK"]}],"r_ele":[{"r":"そうにゅう","p":true}],"sense":[{"gloss":"insertion, incorporation, infixing","pos":["n","vs","vt"]}]},"sdata":[{"j":"その↑作家↑↓さっか↓の↑文体↑↓ぶんたい↓は↑挿入↑↓|そうにゅう|↓↑語句↑↓ごく↓が↑多↑↓おお↓い。","e":"The writer has a parenthetic style."}]}

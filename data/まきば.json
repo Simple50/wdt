@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"牧場","p":true}],"r_ele":[{"r":"ぼくじょう","p":true},{"r":"まきば","p":true}],"sense":[{"gloss":"farm (livestock), stock farm, ranch, station","pos":["n"]},{"gloss":"pasture, meadow, grazing land","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本舞台","p":true}],"r_ele":[{"r":"ほんぶたい","p":true}],"sense":[{"gloss":"main stage, public place","pos":["n"]}]},"sdata":[]}

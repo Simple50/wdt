@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レクリエーション","p":true},{"r":"レクリェーション","p":true},{"r":"リクリエーション"},{"r":"リクリェーション"}],"sense":[{"gloss":"recreation","pos":["n"]},{"gloss":"re-creation","pos":["n"]}]},"sdata":[]}

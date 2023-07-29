@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"張り込み","p":true},{"e":"張込み"}],"r_ele":[{"r":"はりこみ","p":true}],"sense":[{"gloss":"stakeout, ambush, cordon","pos":["n"]},{"gloss":"lookout, watch","pos":["n"]},{"gloss":"paste-up, collage","pos":["n"],"x":["貼り込み・はりこみ"]}]},"sdata":[]}

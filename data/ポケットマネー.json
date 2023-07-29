@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポケットマネー","p":true},{"r":"ポケット・マネー"}],"sense":[{"gloss":"pocket money","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卵形","p":true},{"e":"卵型"}],"r_ele":[{"r":"らんけい","p":true},{"r":"たまごがた","p":true}],"sense":[{"gloss":"oval shape, egg shape","pos":["n","adj-no"]}]},"sdata":[]}

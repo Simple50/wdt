@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"張り込む","p":true}],"r_ele":[{"r":"はりこむ","p":true}],"sense":[{"gloss":"to be on the lookout, to lie in wait","pos":["v5m"]}]},"sdata":[]}

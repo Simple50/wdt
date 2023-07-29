@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"使い込む","p":true},{"e":"使いこむ"},{"e":"遣い込む","i":["oK"]}],"r_ele":[{"r":"つかいこむ","p":true}],"sense":[{"gloss":"to embezzle, to misappropriate, to peculate","pos":["v5m","vt"]},{"gloss":"to accustom oneself to using, to use for a long time","pos":["v5m","vt"]}]},"sdata":[]}

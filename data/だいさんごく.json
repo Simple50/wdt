@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"第三国","p":true}],"r_ele":[{"r":"だいさんごく","p":true}],"sense":[{"gloss":"a third country","pos":["n"]}]},"sdata":[]}

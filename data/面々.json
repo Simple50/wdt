@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"面々","p":true},{"e":"面面"}],"r_ele":[{"r":"めんめん","p":true}],"sense":[{"gloss":"every person, each one, everybody","pos":["n"]}]},"kdata":{"面":{"on":["メン","ベン"],"kun":["おも","おもて","つら"],"jlpt":3,"meanings":["face","mask","features","surface"],"freq":186,"comp":[["丆","囬"]],"d":["麺","緬","麵","勔","湎","靤","靦","靨","偭","愐","靧"],"s":"画","t":974}},"sdata":[]}

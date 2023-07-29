@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガスタービン","p":true},{"r":"ガス・タービン"}],"sense":[{"gloss":"gas turbine","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水かさ","p":true},{"e":"水嵩"}],"r_ele":[{"r":"みずかさ","p":true}],"sense":[{"gloss":"volume of water (in a river, pond, flood, etc.)","pos":["n"]}]},"sdata":[]}

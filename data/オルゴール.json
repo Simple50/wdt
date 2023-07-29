@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オルゴール","p":true}],"sense":[{"gloss":"music box, musical box","pos":["n"],"l":"dut: orgel"}]},"sdata":[{"j":"↑彼氏↑↓かれし↓が↑好↑↓す↓きなビートルズの↑曲↑↓きょく↓の|オルゴール|を↑見↑↓み↓つけた。プレゼントしたら↑凄↑↓すご↓く↑喜↑↓よろこ↓んでくれた。","e":"I found my boyfriend's favorite Beatles song playing from a music box. I'll be so happy to give it to him."}]}

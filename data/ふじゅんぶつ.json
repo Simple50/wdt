@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不純物","p":true}],"r_ele":[{"r":"ふじゅんぶつ","p":true}],"sense":[{"gloss":"foreign matter, impurities","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"待ち合わせる","p":true},{"e":"待ち合せる"},{"e":"待ちあわせる"}],"r_ele":[{"r":"まちあわせる","p":true}],"sense":[{"gloss":"to rendezvous, to meet at a prearranged place and time, to arrange to meet","pos":["v1"]}]},"sdata":[]}

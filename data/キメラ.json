@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キメラ","p":true},{"r":"キマイラ"}],"sense":[{"gloss":"chimera (mythological), chimaera","pos":["n"]},{"gloss":"chimera (biological), chimaera","pos":["n"]}]},"sdata":[]}

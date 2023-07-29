@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"成吉思汗","i":["ateji"]},{"e":"ジンギス汗","i":["rK"]}],"r_ele":[{"r":"ジンギスかん"},{"r":"ジンギスカン","p":true}],"sense":[{"gloss":"jingisukan, grilled mutton and vegetable dish","pos":["n"],"f":["food"]},{"gloss":"slotted dome cast iron grill (used for jingisukan)","pos":["n"],"f":["food"]}],"m":["uk"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"厚生年金","p":true}],"r_ele":[{"r":"こうせいねんきん","p":true}],"sense":[{"gloss":"welfare pension","pos":["n"]}]},"sdata":[]}

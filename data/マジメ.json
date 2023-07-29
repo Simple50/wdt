@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"真面目","p":true,"i":["ateji"]},{"e":"眞面目","i":["sK"]}],"r_ele":[{"r":"まじめ","p":true},{"r":"マジメ","p":true}],"sense":[{"gloss":"serious, earnest, sober, grave","pos":["adj-na","n"]},{"gloss":"honest, sincere","pos":["adj-na","n"]}]},"sdata":[]}

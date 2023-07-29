@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"明け渡す","p":true},{"e":"明渡す"},{"e":"開け渡す","i":["iK"]}],"r_ele":[{"r":"あけわたす","p":true}],"sense":[{"gloss":"to vacate, to surrender (e.g. a castle), to give up (e.g. a position), to hand over (e.g. power)","pos":["v5s","vt"]}]},"sdata":[]}

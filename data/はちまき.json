@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉢巻","p":true},{"e":"鉢巻き","p":true}],"r_ele":[{"r":"はちまき","p":true},{"r":"ハチマキ"}],"sense":[{"gloss":"headband","pos":["n","vs"]}],"m":["uk"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファルス","p":true},{"r":"ファース"}],"sense":[{"gloss":"farce (e.g. theatrical)","pos":["n"],"l":"fre"},{"gloss":"phallus","pos":["n"],"l":"lat"},{"gloss":"farce, stuffed food","pos":["n"],"f":["food"],"x":["ファルシ"],"l":"fre"}]},"sdata":[]}

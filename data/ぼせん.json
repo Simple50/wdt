@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"母船","p":true}],"r_ele":[{"r":"ぼせん","p":true}],"sense":[{"gloss":"depot ship, mother ship","pos":["n"]}]},"sdata":[]}

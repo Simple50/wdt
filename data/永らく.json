@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"長らく","p":true},{"e":"永らく","p":true}],"r_ele":[{"r":"ながらく","p":true}],"sense":[{"gloss":"long, (for a) long time","pos":["adv"]}]},"kdata":{"永":{"on":["エイ"],"kun":["なが.い"],"jlpt":2,"meanings":["eternity","long","lengthy"],"freq":846,"comp":[["水","丶"]],"d":["泳","詠","昶","樣","漾","咏","脉","栐","怺","昹"],"s":"水,氷","t":248}},"sdata":[]}

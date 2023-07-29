@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"犬猿の仲","p":true}],"r_ele":[{"r":"けんえんのなか","p":true}],"sense":[{"gloss":"like cats and dogs, (on) very bad terms, relationship of dogs and monkeys","pos":["exp","n"]}],"m":["id"]},"sdata":[]}

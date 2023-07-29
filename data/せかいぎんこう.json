@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"世界銀行","p":true}],"r_ele":[{"r":"せかいぎんこう","p":true}],"sense":[{"gloss":"World Bank","pos":["n"]}]},"sdata":[]}

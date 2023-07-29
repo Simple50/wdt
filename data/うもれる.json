@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"埋もれる","p":true}],"r_ele":[{"r":"うもれる","p":true},{"r":"うずもれる"},{"r":"うづもれる"}],"sense":[{"gloss":"to be buried, to be covered, to be hidden","pos":["v1","vi"]}]},"sdata":[]}

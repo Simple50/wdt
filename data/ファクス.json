@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＦＡＸ"}],"r_ele":[{"r":"ファックス","p":true},{"r":"ファクス","p":true}],"sense":[{"gloss":"fax, facsimile","pos":["n","vs","vt"],"x":["ファクシミリ・2"]},{"gloss":"fax machine","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"教職員","p":true}],"r_ele":[{"r":"きょうしょくいん","p":true}],"sense":[{"gloss":"teaching staff, faculty","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は、↑教職員↑↓|きょうしょくいん|↓の↑一↑↓いち↓↑人↑↓にん↓である。","e":"She is on the teaching staff."}]}

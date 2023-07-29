@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファンク","p":true}],"sense":[{"gloss":"funk","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はサイモンとガー|ファンク|ルのメドレーを↑歌↑↓うた↓った。","e":"He sang a medley of Simon and Garfunkel hits."}]}

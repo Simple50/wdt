@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突出","p":true}],"r_ele":[{"r":"とっしゅつ","p":true}],"sense":[{"gloss":"projection, protrusion","pos":["n","vs","vi"]}]},"sdata":[]}

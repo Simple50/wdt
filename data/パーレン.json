@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パーレン","p":true}],"sense":[{"gloss":"parentheses, round brackets","pos":["n"],"x":["丸括弧"]}]},"sdata":[]}

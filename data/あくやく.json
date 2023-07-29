@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪役","p":true}],"r_ele":[{"r":"あくやく","p":true}],"sense":[{"gloss":"villain, baddie, the villain's part","pos":["n","adj-no"]}]},"sdata":[]}

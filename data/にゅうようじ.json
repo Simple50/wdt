@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乳幼児","p":true}],"r_ele":[{"r":"にゅうようじ","p":true}],"sense":[{"gloss":"infants, babies and very young children","pos":["n"]}]},"sdata":[{"j":"↑乳幼児↑↓|にゅうようじ|↓に↑対↑↓たい↓する↑医療↑↓いりょう↓がもっと↑必要↑↓ひつよう↓である。","e":"We need more medical care for infants."}]}

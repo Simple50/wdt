@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"分室","p":true}],"r_ele":[{"r":"ぶんしつ","p":true}],"sense":[{"gloss":"detached office, annex","pos":["n"]}]},"sdata":[{"j":"↑随分↑↓ずい|ぶん↓↑失礼↑↓しつ|れい↓なんじゃない？","e":"Aren't you being very rude?"},{"j":"そんなこと↑言↑↓い↓うなんて、↑随分↑↓ずい|ぶん↓↑失礼↑↓しつ|れい↓ね。","e":"It's very rude of you to say a thing like that."},{"j":"↑随分↑↓ずい|ぶん↓↑失礼↑↓しつ|れい↓だな。","e":"You're very rude."}]}

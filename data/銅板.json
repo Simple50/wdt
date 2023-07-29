@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銅板","p":true}],"r_ele":[{"r":"どうばん","p":true}],"sense":[{"gloss":"sheet copper","pos":["n"]}]},"kdata":{"銅":{"on":["ドウ"],"kun":["あかがね"],"jlpt":2,"meanings":["copper"],"freq":1505,"comp":[["同","金"]],"s":"鍋","t":1940},"板":{"on":["ハン","バン"],"kun":["いた"],"jlpt":2,"meanings":["plank","board","plate","stage"],"freq":926,"comp":[["反","木"]],"t":701}},"sdata":[]}

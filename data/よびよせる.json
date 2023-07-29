@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"呼び寄せる","p":true},{"e":"呼びよせる"},{"e":"呼寄せる"}],"r_ele":[{"r":"よびよせる","p":true}],"sense":[{"gloss":"to call, to summon, to send for, to call together","pos":["v1","vt"]}]},"sdata":[]}

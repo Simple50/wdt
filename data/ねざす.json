@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"根ざす","p":true},{"e":"根差す","p":true}],"r_ele":[{"r":"ねざす","p":true}],"sense":[{"gloss":"to come from, to have roots in","pos":["v5s","vi"]}]},"sdata":[]}

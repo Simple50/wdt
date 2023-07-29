@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"年月","p":true}],"r_ele":[{"r":"としつき","p":true},{"r":"ねんげつ","p":true}],"sense":[{"gloss":"months and years","pos":["n"]}]},"sdata":[{"j":"↑親↑↓しん↓↑密度↑↓みつど↓は↑年月↑↓|ねんげつ|↓とともに↑増↑↓ま↓していった。","e":"Their intimacy grew with the years."}]}

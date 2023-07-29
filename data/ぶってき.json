@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"物的","p":true}],"r_ele":[{"r":"ぶってき","p":true}],"sense":[{"gloss":"material, physical","pos":["adj-na"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はセーターを↑頭↑↓あたま↓からか|ぶって↑着↑↓き|↓た。","e":"She pulled her sweater over her head."},{"j":"↑臭覚↑↓しゅうかく↓が↑鈍↑↓に|ぶ↓ってき|た。","e":"My sense of smell is weakening."}]}

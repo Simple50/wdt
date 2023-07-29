@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"逃げ込む","p":true}],"r_ele":[{"r":"にげこむ","p":true}],"sense":[{"gloss":"to take refuge in, to succeed in running away","pos":["v5m","vi"]}]},"sdata":[]}

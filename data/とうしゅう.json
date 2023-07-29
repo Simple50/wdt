@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"踏襲","p":true},{"e":"蹈襲"}],"r_ele":[{"r":"とうしゅう","p":true}],"sense":[{"gloss":"following (a precedent, former policy, etc.), continuing with, sticking to, observing","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑前任↑↓ぜんにん↓↑者↑↓しゃ↓の↑方針↑↓ほうしん↓を↑踏襲↑↓|とうしゅう|↓する↑考↑↓かんが↓えです。","e":"I intend to follow my predecessor's policy."}]}

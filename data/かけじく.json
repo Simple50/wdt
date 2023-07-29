@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"掛け軸","p":true},{"e":"掛軸","p":true}],"r_ele":[{"r":"かけじく","p":true}],"sense":[{"gloss":"hanging scroll","pos":["n"]}]},"sdata":[]}

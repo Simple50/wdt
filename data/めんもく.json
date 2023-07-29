@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"面目","p":true}],"r_ele":[{"r":"めんぼく","p":true},{"r":"めんもく","p":true},{"r":"めいぼく","i":["ok"]}],"sense":[{"gloss":"face, honour, honor, reputation, prestige, dignity, credit","pos":["n"]},{"gloss":"appearance, look","pos":["n"]}]},"sdata":[]}

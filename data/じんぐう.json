@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神宮","p":true}],"r_ele":[{"r":"じんぐう","p":true}],"sense":[{"gloss":"high-status Shinto shrine with connection to imperial family, imperial Shinto shrine","pos":["n","n-suf"]}]},"sdata":[]}

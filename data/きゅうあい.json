@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"求愛","p":true}],"r_ele":[{"r":"きゅうあい","p":true}],"sense":[{"gloss":"courting, wooing, making advances","pos":["n","vs","vi"]}]},"sdata":[]}

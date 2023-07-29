@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国道","p":true}],"r_ele":[{"r":"こくどう","p":true}],"sense":[{"gloss":"national road, national highway","pos":["n"]}]},"sdata":[{"j":"↑戦後↑↓せんご↓↑国道↑↓|こくどう|↓のほとんどが↑補修↑↓ほしゅう↓を↑緊急↑↓きんきゅう↓に↑必要↑↓ひつよう↓とされた。","e":"After the war most of the highways were in urgent need of repair."}]}

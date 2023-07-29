@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マカダム","p":true}],"sense":[{"gloss":"Macadam","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前夜祭","p":true}],"r_ele":[{"r":"ぜんやさい","p":true}],"sense":[{"gloss":"event held the night before another event, eve (of a festival) (e.g. Christmas Eve)","pos":["n"]}]},"sdata":[]}

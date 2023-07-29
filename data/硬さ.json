@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"硬さ","p":true},{"e":"固さ","p":true},{"e":"堅さ","p":true}],"r_ele":[{"r":"かたさ","p":true}],"sense":[{"gloss":"firmness, hardness, stiffness, honesty","pos":["n"]}]},"kdata":{"硬":{"on":["コウ"],"kun":["かた.い"],"jlpt":2,"meanings":["stiff","hard"],"freq":1101,"comp":[["更","石"]],"t":1572}},"sdata":[]}

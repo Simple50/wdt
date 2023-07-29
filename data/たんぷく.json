@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"単複","p":true}],"r_ele":[{"r":"たんぷく","p":true}],"sense":[{"gloss":"simplicity and complexity, singular and plural, single and double, singles and doubles (in tennis)","pos":["n"]}]},"sdata":[]}

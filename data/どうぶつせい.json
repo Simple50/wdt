@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"動物性","p":true}],"r_ele":[{"r":"どうぶつせい","p":true}],"sense":[{"gloss":"animal (in nature)","pos":["adj-no","n"]},{"gloss":"animal (in origin)","pos":["adj-no","n"]}]},"sdata":[{"j":"↑今日↑↓きょう↓は↑動物↑↓|どうぶつ↓↑性↑↓せい|↓タンパク↑質↑↓しつ↓を↑摂↑↓と↓りたくない↑気分↑↓きぶん↓だ。","e":"I don't feel like eating animal proteins today."}]}

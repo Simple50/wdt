@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文豪","p":true}],"r_ele":[{"r":"ぶんごう","p":true}],"sense":[{"gloss":"literary master","pos":["n"]}]},"sdata":[]}

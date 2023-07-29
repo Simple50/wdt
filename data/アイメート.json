@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アイメイト"},{"r":"アイメート","p":true}],"sense":[{"gloss":"guide dog, seeing-eye dog","pos":["n"],"l":"eng: eye mate"}]},"sdata":[]}

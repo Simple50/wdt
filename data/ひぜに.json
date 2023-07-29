@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日銭","p":true}],"r_ele":[{"r":"ひぜに","p":true}],"sense":[{"gloss":"daily income in cash, money paid by daily installments, money paid by daily instalments","pos":["n"]}]},"sdata":[]}

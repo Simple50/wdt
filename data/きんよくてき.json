@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"禁欲的","p":true}],"r_ele":[{"r":"きんよくてき","p":true}],"sense":[{"gloss":"abstemious, austere","pos":["adj-na"]}]},"sdata":[]}

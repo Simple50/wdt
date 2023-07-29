@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スラローム","p":true}],"sense":[{"gloss":"slalom","pos":["n"],"l":"nor: slalåm"}]},"sdata":[]}

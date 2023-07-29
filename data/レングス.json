@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レングス","p":true}],"sense":[{"gloss":"length","pos":["n"]}]},"sdata":[]}

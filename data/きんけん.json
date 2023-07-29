@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"金券","p":true}],"r_ele":[{"r":"きんけん","p":true}],"sense":[{"gloss":"gold certificate","pos":["n"]},{"gloss":"tradeable coupon redeemable for goods or services","pos":["n"]}]},"sdata":[]}

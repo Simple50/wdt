@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"酒好き","p":true}],"r_ele":[{"r":"さけずき","p":true}],"sense":[{"gloss":"love of drink, fondness for alcohol, person who likes to drink, drinker","pos":["n","adj-na","adj-no"]}]},"sdata":[]}

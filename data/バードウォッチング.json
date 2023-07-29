@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バードウォッチング","p":true},{"r":"バードウオッチング"},{"r":"バード・ウォッチング"},{"r":"バード・ウオッチング"}],"sense":[{"gloss":"birdwatching, bird watching","pos":["n"],"x":["野鳥観察"]}]},"sdata":[{"j":"どうか↑私↑↓わたし↓に|バードウォッチング|の↑話↑↓はなし↓をしてくれませんか。","e":"Would you please tell me the story about bird watching?"},{"j":"|バードウォッチング|は↑素敵↑↓すてき↓な↑趣味↑↓しゅみ↓ですよ。","e":"Bird watching is a nice hobby."}]}

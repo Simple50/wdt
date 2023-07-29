@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロジアナ","p":true}],"sense":[{"gloss":"logic analyzer","pos":["n"]}],"m":["abbr"]},"sdata":[]}

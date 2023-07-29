@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"触れ込み","p":true}],"r_ele":[{"r":"ふれこみ","p":true}],"sense":[{"gloss":"(exaggerated) professing to be, passing oneself off as","pos":["n"]}]},"sdata":[]}

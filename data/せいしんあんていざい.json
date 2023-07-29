@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"精神安定剤","p":true}],"r_ele":[{"r":"せいしんあんていざい","p":true}],"sense":[{"gloss":"tranquilizer, tranquiliser","pos":["n"]}]},"sdata":[]}

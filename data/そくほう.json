@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"速報","p":true}],"r_ele":[{"r":"そくほう","p":true}],"sense":[{"gloss":"news flash, prompt report, bulletin, quick announcement","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑速報↑↓|そくほう|↓です。","e":"Here's a news flash."},{"j":"↑速報↑↓|そくほう|↓です。","e":"This is breaking news."},{"j":"ニュース↑速報↑↓|そくほう|↓です。","e":"This is breaking news."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"県警","p":true}],"r_ele":[{"r":"けんけい","p":true}],"sense":[{"gloss":"prefectural police","pos":["n"],"x":["県警察・けんけいさつ"]}],"m":["abbr"]},"sdata":[{"j":"↑県↑↓|けん↓↑警察↑↓けい|さつ↓↑本部↑↓ほんぶ↓↑長↑↓ちょう↓は↑警察官↑↓けいさつかん↓の↑綱紀↑↓こうき↓を↑正↑↓ただ↓そうとした。","e":"The prefectural police chief tried to tighten his police officers' discipline."}]}

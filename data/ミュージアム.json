@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミュージアム","p":true}],"sense":[{"gloss":"museum","pos":["n"]}]},"sdata":[{"j":"|ミュージアム|は、↑修復↑↓しゅうふく↓↑作業↑↓さぎょう↓のため↑休館↑↓きゅうかん↓↑中↑↓ちゅう↓です。","e":"The museum is closing for restorations."}]}

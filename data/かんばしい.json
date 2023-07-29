@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"芳しい","p":true},{"e":"香しい"},{"e":"馨しい"}],"r_ele":[{"r":"かんばしい","p":true}],"sense":[{"gloss":"sweet-smelling, fragrant, aromatic","pos":["adj-i"]},{"gloss":"good (reputation, condition, results, etc.), favorable","pos":["adj-i"],"x":["芳しくない"]}]},"sdata":[]}

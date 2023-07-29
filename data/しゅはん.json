@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主犯","p":true}],"r_ele":[{"r":"しゅはん","p":true}],"sense":[{"gloss":"principal offence, principal offense, principal offender","pos":["n"],"f":["law"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑男↑↓おとこ↓が↑主犯↑↓|しゅはん|↓ではないかとさえ↑思↑↓おも↓った。","e":"He even suspected that the man was the principal offender."}]}

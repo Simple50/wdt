@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"走り幅跳び","p":true},{"e":"走幅跳"}],"r_ele":[{"r":"はしりはばとび","p":true}],"sense":[{"gloss":"running long jump","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑走↑↓|はし↓り↑幅跳↑↓はばと↓び|に↑専念↑↓せんねん↓するために↑競争↑↓きょうそう↓をやめた。","e":"He has given up running in order to focus on the long jump."}]}

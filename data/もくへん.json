@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"木片","p":true}],"r_ele":[{"r":"もくへん","p":true}],"sense":[{"gloss":"block (of wood), chip, splinter","pos":["n"]}]},"sdata":[{"j":"その↑彫像↑↓ちょうぞう↓はさくら↑材↑↓ざい↓の↑木片↑↓|もくへん|↓を↑刻↑↓きざ↓んで↑作↑↓つく↓らせた。","e":"The statue was carved from a block of cherry wood."},{"j":"↑木片↑↓|もくへん|↓は１↑本↑↓ほん↓の↑留↑↓と↓め↑木↑↓ぎ↓で↑留↑↓と↓めてある。","e":"The wooden pieces are fastened with a peg."}]}

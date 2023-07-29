@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手ぬぐい","p":true},{"e":"手拭い","p":true},{"e":"手拭"}],"r_ele":[{"r":"てぬぐい","p":true}],"sense":[{"gloss":"(hand) towel","pos":["n"],"x":["手拭き"]}]},"sdata":[]}

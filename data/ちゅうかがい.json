@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中華街","p":true}],"r_ele":[{"r":"ちゅうかがい","p":true}],"sense":[{"gloss":"Chinatown","pos":["n"]}]},"sdata":[{"j":"↑中華↑↓|ちゅうか↓↑街↑↓がい|↓は↑中↑↓ちゅう↓↑区↑↓く↓↑山下↑↓やました↓↑町↑↓まち↓にある。","e":"Chinatown is in Yamashitacho of Naka-ku."},{"j":"↑中華↑↓|ちゅうか↓↑街↑↓がい|↓には↑中華↑↓ちゅうか↓↑料理↑↓りょうり↓のお↑店↑↓みせ↓がたくさんあります。","e":"There are many Chinese restaurants in Chinatown."}]}

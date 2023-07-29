@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突っ走る","p":true}],"r_ele":[{"r":"つっぱしる","p":true}],"sense":[{"gloss":"to run swiftly, to dash, to rush, to race","pos":["v5r","vi"]}]},"sdata":[]}

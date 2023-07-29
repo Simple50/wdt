@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銅版画","p":true}],"r_ele":[{"r":"どうはんが","p":true},{"r":"どうばんが"}],"sense":[{"gloss":"copperplate engraving, etching","pos":["n"]}]},"sdata":[]}

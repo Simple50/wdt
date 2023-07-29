@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャッチャー","p":true}],"sense":[{"gloss":"catcher","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちは↑先日↑↓せんじつ↓、↑吉田↑↓よしだ↓↑君↑↓くん↓を↑我↑↓わ↓が↑野球↑↓やきゅう↓チームの|キャッチャー|に↑選↑↓えら↓んだ。","e":"The other day, we chose Yoshida to be the catcher on our school's baseball team."},{"j":"トムは|キャッチャー|です。","e":"Tom is the catcher."}]}

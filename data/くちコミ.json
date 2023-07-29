@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口コミ","p":true}],"r_ele":[{"r":"くちコミ","p":true},{"r":"クチコミ"}],"sense":[{"gloss":"word of mouth","pos":["n"],"x":["マスコミ"]},{"gloss":"comments written online (about a product, service, etc.), online reviews","pos":["n"]}]},"sdata":[{"j":"その↑情報↑↓じょうほう↓は↑口↑↓|くち↓コミ|で↑瞬↑↓またた↓く↑間↑↓ま↓に↑知↑↓し↓れ↑渡↑↓わた↓った。","e":"The news spread quickly by word of mouth."}]}

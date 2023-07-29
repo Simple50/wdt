@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高射特科","p":true}],"r_ele":[{"r":"こうしゃとっか","p":true}],"sense":[{"gloss":"anti-aircraft artillery","pos":["n"]}]},"sdata":[]}

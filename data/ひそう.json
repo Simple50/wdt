@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悲壮","p":true}],"r_ele":[{"r":"ひそう","p":true}],"sense":[{"gloss":"tragic but brave, heroic, grim","pos":["adj-na","n"]}]},"sdata":[{"j":"ぜ|ひそう|しよう。","e":"Why not?"},{"j":"↑是非↑↓ぜ|ひ↓そう|したいですね。","e":"I'd like that a lot."}]}

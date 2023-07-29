@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"聞き込み捜査","p":true},{"e":"聞込み捜査"}],"r_ele":[{"r":"ききこみそうさ","p":true}],"sense":[{"gloss":"(police) legwork, house-to-house inquiry, canvassing, investigation carried out by questioning neighbours, bystanders, etc.","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"重んずる","p":true}],"r_ele":[{"r":"おもんずる","p":true}],"sense":[{"gloss":"to honor, to honour, to respect, to esteem, to prize","pos":["vz","vt"],"x":["重んじる"]}]},"sdata":[]}

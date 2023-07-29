@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"零れる","p":true},{"e":"溢れる"}],"r_ele":[{"r":"こぼれる","p":true}],"sense":[{"gloss":"to spill, to fall out of, to overflow","pos":["v1","vi"],"m":["uk"]},{"gloss":"to peek through, to become visible (although normally not)","pos":["v1","vi"]},{"gloss":"to escape (of a smile, tear, etc.)","pos":["v1","vi"]}]},"sdata":[]}

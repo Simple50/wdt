@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"馴鹿","i":["rK"]}],"r_ele":[{"r":"となかい"},{"r":"トナカイ","p":true}],"sense":[{"gloss":"reindeer (Rangifer tarandus)","pos":["n"],"l":"ain: tunahkay"}],"m":["uk"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小結","p":true},{"e":"小結び","i":["io"]}],"r_ele":[{"r":"こむすび","p":true}],"sense":[{"gloss":"wrestler of the fourth highest rank","pos":["n"],"f":["sumo"]}]},"sdata":[]}

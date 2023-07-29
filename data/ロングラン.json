@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロングラン","p":true},{"r":"ロング・ラン"}],"sense":[{"gloss":"long run (of a film, play, product, etc.)","pos":["n"]}]},"sdata":[]}

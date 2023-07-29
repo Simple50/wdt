@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コロイド","p":true}],"sense":[{"gloss":"colloid","pos":["n"]}]},"sdata":[]}

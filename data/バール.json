@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バール","p":true}],"sense":[{"gloss":"bar","pos":["n"]},{"gloss":"crowbar","pos":["n"],"m":["abbr"]}]},"sdata":[]}

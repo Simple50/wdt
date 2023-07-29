@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"泣かされる","p":true}],"r_ele":[{"r":"なかされる","p":true}],"sense":[{"gloss":"to be moved to tears","pos":["v1","vi"]},{"gloss":"to suffer greatly (from)","pos":["v1","vi"]}]},"sdata":[]}

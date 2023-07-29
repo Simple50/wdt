@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"減殺","p":true}],"r_ele":[{"r":"げんさい","p":true},{"r":"げんさつ"}],"sense":[{"gloss":"lessening, diminishing, reducing","pos":["n","vs","vt"]}]},"sdata":[]}

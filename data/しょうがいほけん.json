@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"傷害保険","p":true}],"r_ele":[{"r":"しょうがいほけん","p":true}],"sense":[{"gloss":"accident insurance","pos":["n"]}]},"sdata":[{"j":"↑ＡＢＣ↑↓えいびーしー↓↑海外↑↓かいがい↓↑旅行↑↓りょこう↓↑障害↑↓|しょうがい↓↑保険↑↓ほけん|↓を↑持↑↓も↓っています。","e":"I'm a holder of ABC Travel Insurance."}]}

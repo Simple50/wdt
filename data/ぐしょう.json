@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"具象","p":true}],"r_ele":[{"r":"ぐしょう","p":true}],"sense":[{"gloss":"concreteness, embodiment, expressing concretely","pos":["n","vs","vt"],"ant":["抽象"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落盤","p":true},{"e":"落磐"}],"r_ele":[{"r":"らくばん","p":true}],"sense":[{"gloss":"cave-in","pos":["n","vs","vi"]}]},"sdata":[]}

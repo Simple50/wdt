@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パーカッション","p":true}],"sense":[{"gloss":"percussion","pos":["n"]}]},"sdata":[]}

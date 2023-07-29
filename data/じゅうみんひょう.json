@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"住民票","p":true}],"r_ele":[{"r":"じゅうみんひょう","p":true}],"sense":[{"gloss":"certificate of residence","pos":["n"]}]},"sdata":[]}

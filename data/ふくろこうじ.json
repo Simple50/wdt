@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"袋小路","p":true}],"r_ele":[{"r":"ふくろこうじ","p":true}],"sense":[{"gloss":"blind alley, cul-de-sac, dead end street","pos":["n"]},{"gloss":"deadlock, impasse, dead end","pos":["n"]}]},"sdata":[{"j":"↑迷↑↓まよ↓っている↑間↑↓ま↓にも、どんどん↑袋小路↑↓|ふくろこうじ|↓に↑追↑↓お↓いつめられていくみたい。","e":"Even while I was dithering it's like I was being backed further and further into a corner."}]}

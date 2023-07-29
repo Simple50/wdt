@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遍歴","p":true}],"r_ele":[{"r":"へんれき","p":true}],"sense":[{"gloss":"travels, pilgrimage, itinerancy","pos":["n","vs","vi"]},{"gloss":"(accumulated) experiences, (personal) history","pos":["n","vs","vi"],"x":["女性遍歴"]}]},"sdata":[]}

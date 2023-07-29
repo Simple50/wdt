@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"別院","p":true}],"r_ele":[{"r":"べついん","p":true}],"sense":[{"gloss":"branch temple","pos":["n"]}]},"sdata":[]}

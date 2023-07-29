@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"洗浄剤","p":true}],"r_ele":[{"r":"せんじょうざい","p":true}],"sense":[{"gloss":"detergent, cleanser, cleaning agent, washing material","pos":["n"]}]},"sdata":[]}

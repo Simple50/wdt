@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漢和辞典","p":true},{"e":"漢和字典"}],"r_ele":[{"r":"かんわじてん","p":true}],"sense":[{"gloss":"dictionary with Japanese definitions of kanji and kanji compounds, kanji dictionary","pos":["n"]}]},"sdata":[]}

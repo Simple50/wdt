@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アレイ","p":true},{"r":"アレー"}],"sense":[{"gloss":"array","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"当たり年","p":true},{"e":"当り年"}],"r_ele":[{"r":"あたりどし","p":true}],"sense":[{"gloss":"good year, lucky year, bumper year, banner year","pos":["n"]}]},"sdata":[{"j":"↑今年↑↓ことし↓は↑彼↑↓かれ↓にとって↑当↑↓|あ↓たり↑年↑↓どし|↓だった。","e":"This year has been a lucky one for him."}]}

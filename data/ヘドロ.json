@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヘドロ","p":true},{"r":"へどろ"}],"sense":[{"gloss":"sludge, slime, chemical ooze","pos":["n"]}]},"sdata":[]}

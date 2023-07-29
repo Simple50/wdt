@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リアリズム","p":true}],"sense":[{"gloss":"realism","pos":["n"]}]},"sdata":[]}

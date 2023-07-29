@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"密生","p":true}],"r_ele":[{"r":"みっせい","p":true}],"sense":[{"gloss":"growing thickly, growing densely","pos":["n","vs","vt","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落籍す"},{"e":"引かす","p":true}],"r_ele":[{"r":"ひかす","p":true}],"sense":[{"gloss":"to redeem debts (e.g. of a geisha)","pos":["v5s","vt"]}]},"sdata":[]}

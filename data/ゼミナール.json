@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セミナー","p":true},{"r":"ゼミナール","p":true},{"r":"セミナール"},{"r":"セミナ"}],"sense":[{"gloss":"seminar","pos":["n"]}]},"sdata":[]}

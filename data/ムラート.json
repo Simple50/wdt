@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ムラート","p":true}],"sense":[{"gloss":"mulatto","pos":["n","adj-no"],"l":"spa: mulato"}]},"sdata":[]}

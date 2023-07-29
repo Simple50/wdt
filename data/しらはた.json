@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白旗","p":true}],"r_ele":[{"r":"しらはた","p":true},{"r":"はっき"},{"r":"しろはた"}],"sense":[{"gloss":"white flag, truce flag, surrender flag","pos":["n"]}]},"sdata":[]}

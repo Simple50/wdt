@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シュミットカメラ","p":true}],"sense":[{"gloss":"Schmidt camera","pos":["n"]}]},"sdata":[]}

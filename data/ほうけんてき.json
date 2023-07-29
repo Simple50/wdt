@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"封建的","p":true}],"r_ele":[{"r":"ほうけんてき","p":true}],"sense":[{"gloss":"feudal, feudalistic","pos":["adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓を「サー」と↑呼↑↓よ↓ぶのは↑少↑↓すこ↓し↑封建↑↓|ほうけん↓↑的↑↓てき|↓に↑思↑↓おも↓える。","e":"It seems a bit feudal to call him \"sir\"."}]}

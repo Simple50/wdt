@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連戦","p":true}],"r_ele":[{"r":"れんせん","p":true}],"sense":[{"gloss":"series of battles, successive battles","pos":["n","vs","vi"]}]},"sdata":[]}

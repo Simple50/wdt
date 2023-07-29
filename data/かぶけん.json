@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"株券","p":true}],"r_ele":[{"r":"かぶけん","p":true}],"sense":[{"gloss":"stock certificate","pos":["n"]}]},"sdata":[{"j":"↑株券↑↓|かぶけん|↓を↑盗↑↓ぬす↓んだと↑言↑↓い↓ってジルを↑責↑↓せ↓める↑理由↑↓りゆう↓はあなたにはない。","e":"You have no grounds for accusing Jill of stealing the stock certificates."}]}

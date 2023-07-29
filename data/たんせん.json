@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"単線","p":true}],"r_ele":[{"r":"たんせん","p":true}],"sense":[{"gloss":"single track (railway), single line","pos":["n"]},{"gloss":"solid wire, solid-core wire, single-strand wire","pos":["n"]}]},"sdata":[]}

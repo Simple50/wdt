@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"月報","p":true}],"r_ele":[{"r":"げっぽう","p":true}],"sense":[{"gloss":"monthly report","pos":["n"]}]},"sdata":[]}

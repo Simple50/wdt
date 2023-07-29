@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バリア","p":true},{"r":"バリアー"},{"r":"バリヤ"},{"r":"バリヤー"}],"sense":[{"gloss":"barrier, protective wall, bulwark","pos":["n"]},{"gloss":"obstacle, hindrance","pos":["n"]},{"gloss":"imaginary shield that gives one invincibility or immunity","pos":["n","int"],"m":["chn"]}]},"sdata":[]}

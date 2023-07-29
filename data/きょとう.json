@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"挙党","p":true}],"r_ele":[{"r":"きょとう","p":true}],"sense":[{"gloss":"whole party, party as a whole","pos":["n"]}]},"sdata":[]}

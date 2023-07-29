@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄膜","p":true}],"r_ele":[{"r":"うすまく","p":true},{"r":"はくまく"}],"sense":[{"gloss":"thin film","pos":["n","adj-no"]}]},"sdata":[]}

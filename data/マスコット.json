@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マスコット","p":true}],"sense":[{"gloss":"mascot","pos":["n"]}]},"sdata":[{"j":"この↑犬↑↓いぬ↓は↑我↑↓わ↓が↑連隊↑↓れんたい↓の|マスコット|だ。","e":"This dog is our regimental mascot."}]}

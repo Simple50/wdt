@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紬","p":true},{"e":"紡ぎ"}],"r_ele":[{"r":"つむぎ","p":true}],"sense":[{"gloss":"pongee, soft thin cloth woven from raw silk","pos":["n"]}]},"kdata":{"紬":{"on":["チュウ"],"kun":["つむぎ","つむ.ぐ"],"meanings":["pongee (a knotted silk cloth)"],"comp":[["糸","由"]],"jlpt":0,"freq":3270}},"sdata":[]}

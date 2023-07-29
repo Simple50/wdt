@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詰まらせる","p":true}],"r_ele":[{"r":"つまらせる","p":true}],"sense":[{"gloss":"to clog, to block, to choke up, to jam, to obstruct","pos":["v1","vt"]}]},"kdata":{"詰":{"on":["キツ","キチ"],"kun":["つ.める","つ.め","-づ.め","つ.まる","つ.む"],"jlpt":2,"meanings":["packed","close","pressed","reprove","rebuke","blame"],"freq":1020,"comp":[["言","吉"]],"t":1784}},"sdata":[]}

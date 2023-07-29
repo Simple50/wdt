@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヒューマン","p":true}],"sense":[{"gloss":"human","pos":["adj-na","n"]}]},"sdata":[]}

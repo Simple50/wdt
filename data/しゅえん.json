@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"主演","p":true}],"r_ele":[{"r":"しゅえん","p":true}],"sense":[{"gloss":"starring (in a film, play, etc.), playing the leading part","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑昨日↑↓きのう↓チャーリーチャップリン↑主演↑↓|しゅえん|↓の↑古↑↓ふる↓い↑映画↑↓えいが↓を↑見↑↓み↓た。","e":"I saw an old film featuring Charlie Chaplin yesterday."},{"j":"↑主演↑↓|しゅえん|↓は↑誰↑↓だれ↓ですか。","e":"Who plays the lead?"}]}

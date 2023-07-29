@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポケットベル","p":true},{"r":"ポケット・ベル"}],"sense":[{"gloss":"beeper, pager","pos":["n"],"x":["ポケベル"],"l":"eng: pocket bell"}]},"sdata":[{"j":"この|ポケットベル|はあなたのものですか。","e":"Is this beeper yours?"}]}

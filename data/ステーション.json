@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ステーション","p":true}],"sense":[{"gloss":"station","pos":["n"]}]},"sdata":[{"j":"その↑子↑↓こ↓はプレイ|ステーション|の↑新↑↓あたら↓しいソフトが↑欲↑↓ほ↓しいとだだをこねた。","e":"When the kid wanted the latest PlayStation software, he acted like a spoiled child."},{"j":"そのスペースシャトルは、↑宇宙↑↓うちゅう↓|ステーション|に↑行↑↓い↓くために↑設計↑↓せっけい↓された。","e":"The space shuttles were designed to go to a space station."}]}

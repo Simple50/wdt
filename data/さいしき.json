@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"彩色","p":true}],"r_ele":[{"r":"さいしき","p":true},{"r":"さいしょく"}],"sense":[{"gloss":"colouring, coloring, colouration, coloration, painting","pos":["n","vs","vt","vi"]}]},"sdata":[]}

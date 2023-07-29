@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水先案内","p":true}],"r_ele":[{"r":"みずさきあんない","p":true}],"sense":[{"gloss":"pilotage, pilot","pos":["n"]}]},"sdata":[{"j":"↑水先案内↑↓|みずさきあんない|↓↑人↑↓じん↓は↑船↑↓ふね↓を↑港↑↓みなと↓に↑誘導↑↓ゆうどう↓する。","e":"A pilot guides the ship toward the port."}]}

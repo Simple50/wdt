@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"堰","p":true},{"e":"井堰"}],"r_ele":[{"r":"せき","p":true},{"r":"いせき"},{"r":"い","i":["ok"]}],"sense":[{"gloss":"dam, weir, barrier, sluice","pos":["n"]}]},"kdata":{"堰":{"on":["エン"],"kun":["せき","せ.く"],"meanings":["dam","prevent","stop up"],"freq":1913,"comp":[["匽","土"]],"jlpt":0}},"sdata":[]}

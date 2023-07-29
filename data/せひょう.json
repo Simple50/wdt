@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"世評","p":true}],"r_ele":[{"r":"せひょう","p":true}],"sense":[{"gloss":"reputation, public opinion","pos":["n"]}]},"sdata":[]}

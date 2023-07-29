@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お絞り","p":true},{"e":"御絞り"}],"r_ele":[{"r":"おしぼり","p":true}],"sense":[{"gloss":"wet towel (supplied at table), hot, moistened hand towel","pos":["n"]}],"m":["uk"]},"kdata":{"絞":{"on":["コウ"],"kun":["しぼ.る","し.める","し.まる"],"jlpt":1,"meanings":["strangle","constrict","wring"],"freq":1288,"comp":[["糸","交"]],"t":1584}},"sdata":[]}

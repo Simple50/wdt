@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ファラウェイ","p":true}],"sense":[{"gloss":"far away","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"密封","p":true}],"r_ele":[{"r":"みっぷう","p":true}],"sense":[{"gloss":"hermetically seal, sealing (e.g. envelope)","pos":["n","vs","vt"]}]},"sdata":[]}

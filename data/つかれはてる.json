@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"疲れ果てる","p":true}],"r_ele":[{"r":"つかれはてる","p":true}],"sense":[{"gloss":"to get tired out, to be exhausted","pos":["v1","vi"]}]},"sdata":[{"j":"↑私↑↓わたし↓↑達↑↓たち↓は↑疲↑↓|つか↓れ↑果↑↓は↓てる|まで↑何↑↓なに↓↑時間↑↓じかん↓も、その↑音楽↑↓おんがく↓に↑合↑↓あ↓わせて↑踊↑↓おど↓った。","e":"We danced to the music for hours until we were all exhausted."}]}

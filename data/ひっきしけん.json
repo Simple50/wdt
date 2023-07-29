@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"筆記試験","p":true}],"r_ele":[{"r":"ひっきしけん","p":true}],"sense":[{"gloss":"written examination","pos":["n"]}]},"sdata":[{"j":"↑学生↑↓がくせい↓たちはアンフェアな↑筆記↑↓|ひっき↓↑試験↑↓しけん|↓に↑抗議↑↓こうぎ↓した。","e":"The students protested against the unfair exam."}]}

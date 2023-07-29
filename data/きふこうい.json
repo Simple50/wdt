@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寄付行為","p":true},{"e":"寄附行為"}],"r_ele":[{"r":"きふこうい","p":true}],"sense":[{"gloss":"deed of endowment or donation","pos":["n"]}]},"sdata":[]}

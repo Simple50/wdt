@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"業界紙","p":true}],"r_ele":[{"r":"ぎょうかいし","p":true}],"sense":[{"gloss":"trade journal","pos":["n"]}]},"sdata":[]}

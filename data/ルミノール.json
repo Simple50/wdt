@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ルミノール","p":true}],"sense":[{"gloss":"luminol","pos":["n"]}]},"sdata":[]}

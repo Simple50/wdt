@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病虫害","p":true}],"r_ele":[{"r":"びょうちゅうがい","p":true}],"sense":[{"gloss":"(crop) damage from disease and harmful insects","pos":["n"]}]},"sdata":[]}

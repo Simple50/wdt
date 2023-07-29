@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"描き出す","p":true},{"e":"描きだす"}],"r_ele":[{"r":"えがきだす","p":true}],"sense":[{"gloss":"to delineate, to draw, to express, to imagine","pos":["v5s","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"似顔絵","p":true},{"e":"似顔画","i":["iK"]}],"r_ele":[{"r":"にがおえ","p":true}],"sense":[{"gloss":"portrait, likeness, sketch (of a face)","pos":["n"]}]},"sdata":[]}

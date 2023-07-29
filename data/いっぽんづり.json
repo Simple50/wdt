@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一本釣り","p":true},{"e":"一本釣"}],"r_ele":[{"r":"いっぽんづり","p":true},{"r":"いっぽんずり","i":["ik"]}],"sense":[{"gloss":"fishing with a pole","pos":["n","vs"]}]},"sdata":[]}

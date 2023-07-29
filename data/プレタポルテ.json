@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プレタポルテ","p":true}],"sense":[{"gloss":"ready-made clothing, ready-to-wear clothing","pos":["n"],"l":"fre: prêt-à-porter"}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"吹っ切れる","p":true},{"e":"吹っきれる"}],"r_ele":[{"r":"ふっきれる","p":true}],"sense":[{"gloss":"to break through (e.g. one's doubts), to become unbound by (e.g. the past), to allay (e.g. anger), to put behind one, to move on","pos":["v1","vi"]},{"gloss":"to burst (e.g. a boil)","pos":["v1","vi"]}]},"sdata":[]}

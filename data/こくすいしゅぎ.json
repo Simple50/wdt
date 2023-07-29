@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国粋主義","p":true}],"r_ele":[{"r":"こくすいしゅぎ","p":true}],"sense":[{"gloss":"nationalism, extreme patriotism","pos":["n","adj-no"]}]},"sdata":[]}

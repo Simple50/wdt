@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銅鐸","p":true}],"r_ele":[{"r":"どうたく","p":true}],"sense":[{"gloss":"bell-shaped bronze vessel of Yayoi period","pos":["n"]}]},"kdata":{"銅":{"on":["ドウ"],"kun":["あかがね"],"jlpt":2,"meanings":["copper"],"freq":1505,"comp":[["同","金"]],"s":"鍋","t":1940},"鐸":{"on":["タク"],"meanings":["large hand bell"],"comp":[["睪","金"]],"jlpt":-1,"freq":2909}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コテージ","p":true},{"r":"コッテージ"}],"sense":[{"gloss":"cottage","pos":["n"]}]},"sdata":[{"j":"その|コテージ|は、↑彼女↑↓かのじょ↓と↑過↑↓す↓ごした↑楽↑↓たの↓しかった↑頃↑↓ころ↓を↑私↑↓わたし↓に↑思↑↓おも↓い↑出↑↓だ↓させた。","e":"The cottage reminded me of the happy times I had spent with her."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"偶に","p":true},{"e":"適に"}],"r_ele":[{"r":"たまに","p":true}],"sense":[{"gloss":"occasionally, once in a while, now and then, rarely, seldom","pos":["adv"]}],"m":["uk"]},"kdata":{"偶":{"on":["グウ"],"kun":["たま"],"jlpt":3,"meanings":["couple","accidentally","even number","man & wife","same kind"],"freq":1602,"comp":[["禺","亻"]],"t":1236}},"sdata":[]}

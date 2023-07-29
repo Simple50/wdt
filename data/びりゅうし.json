@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"微粒子","p":true}],"r_ele":[{"r":"びりゅうし","p":true}],"sense":[{"gloss":"corpuscle, minute particle, particulate","pos":["n"]}]},"sdata":[{"j":"↑微粒子↑↓|びりゅうし|↓は↑肉眼↑↓にくがん↓ではほとんど↑見↑↓み↓えない。","e":"Minute particles are hardly visible to the naked eye."}]}

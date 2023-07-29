@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詰まらせる","p":true}],"r_ele":[{"r":"つまらせる","p":true}],"sense":[{"gloss":"to clog, to block, to choke up, to jam, to obstruct","pos":["v1","vt"]}]},"sdata":[]}

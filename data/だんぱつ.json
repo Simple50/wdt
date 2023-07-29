@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"断髪","p":true}],"r_ele":[{"r":"だんぱつ","p":true}],"sense":[{"gloss":"cutting of hair (to a short length), haircutting","pos":["n","vs"]},{"gloss":"bobbed hair, bob","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは↑断髪↑↓|だんぱつ|↓にしている。","e":"They wear their hair bobbed."}]}

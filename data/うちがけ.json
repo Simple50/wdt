@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内掛け","p":true},{"e":"内掛","i":["io"]}],"r_ele":[{"r":"うちがけ","p":true}],"sense":[{"gloss":"inside leg trip","pos":["n"],"f":["sumo"]}]},"sdata":[]}

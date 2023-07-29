@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"判官","p":true}],"r_ele":[{"r":"はんがん","p":true},{"r":"ほうがん"},{"r":"じょう"},{"r":"ぞう"}],"sense":[{"gloss":"judge, magistrate","pos":["n"]},{"gloss":"3rd grade official (ritsuryō system), assistant district officer, inspector","pos":["n"],"m":["arch"],"x":["四等官","尉・じょう・1"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仏門","p":true}],"r_ele":[{"r":"ぶつもん","p":true}],"sense":[{"gloss":"Buddhism, priesthood","pos":["n"]}]},"sdata":[{"j":"ぶつ|ぶつ↑文句↑↓もん|く↓ばかり↑言↑↓い↓ってないで、さっさと↑頼↑↓たの↓まれた↑仕事↑↓しごと↓を↑片↑↓かた↓づけろよ。","e":"Stop complaining and do the work you were asked to do."}]}

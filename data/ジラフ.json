@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジラフ","p":true}],"sense":[{"gloss":"giraffe","pos":["n"]}]},"sdata":[]}

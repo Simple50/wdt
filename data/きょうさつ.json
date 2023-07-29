@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"挟殺","p":true}],"r_ele":[{"r":"きょうさつ","p":true}],"sense":[{"gloss":"rundown","pos":["n","vs"],"f":["baseb"]}]},"sdata":[]}

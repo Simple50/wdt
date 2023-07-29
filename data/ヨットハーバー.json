@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヨットハーバー","p":true},{"r":"ヨット・ハーバー"}],"sense":[{"gloss":"yacht harbor, yacht harbour","pos":["n"]}]},"sdata":[]}

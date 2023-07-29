@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チェチェン","p":true}],"sense":[{"gloss":"Chechnya (Russia), Chechnia","pos":["n"]}]},"sdata":[]}

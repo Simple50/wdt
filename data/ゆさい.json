@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"油彩","p":true}],"r_ele":[{"r":"ゆさい","p":true}],"sense":[{"gloss":"oil painting","pos":["n"]}]},"sdata":[]}

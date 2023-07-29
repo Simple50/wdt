@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隊列","p":true}],"r_ele":[{"r":"たいれつ","p":true}],"sense":[{"gloss":"rank (of troops), file, column, formation","pos":["n"]}]},"sdata":[]}

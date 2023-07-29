@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"検事正","p":true}],"r_ele":[{"r":"けんじせい","p":true}],"sense":[{"gloss":"chief public prosecutor","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"年明け","p":true}],"r_ele":[{"r":"としあけ","p":true}],"sense":[{"gloss":"beginning of the year, early in the New Year","pos":["n"]}]},"sdata":[{"j":"↑年明↑↓|としあ↓け|に↑子供↑↓こども↓が↑産↑↓う↓まれる↑予定↑↓よてい↓です♪","e":"I'm expecting a baby in the new year!"}]}

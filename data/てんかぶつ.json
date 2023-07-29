@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"添加物","p":true}],"r_ele":[{"r":"てんかぶつ","p":true}],"sense":[{"gloss":"additive","pos":["n"]}]},"sdata":[{"j":"あのマヨネーズの↑中↑↓なか↓、↑添加↑↓|てんか↓↑物↑↓ぶつ|↓ばっかり！","e":"There are only chemicals in that mayo!"},{"j":"あのマヨネーズの↑中↑↓なか↓、↑添加↑↓|てんか↓↑物↑↓ぶつ|↓ばっかり！","e":"There are only food supplements in that mayonnaise!"}]}

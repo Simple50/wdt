@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"燃え広がる","p":true}],"r_ele":[{"r":"もえひろがる","p":true}],"sense":[{"gloss":"to spread (of flames)","pos":["v5r","vi"]}]},"sdata":[]}

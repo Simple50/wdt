@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"春闘","p":true}],"r_ele":[{"r":"しゅんとう","p":true}],"sense":[{"gloss":"spring labor offensive, annual spring wage bargaining round","pos":["n"]}]},"sdata":[]}

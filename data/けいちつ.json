@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"啓蟄","p":true}],"r_ele":[{"r":"けいちつ","p":true}],"sense":[{"gloss":"\"awakening of insects\" solar term (approx. March 6, the day on which hibernating insects are said to come out of the ground)","pos":["n"]}]},"sdata":[]}

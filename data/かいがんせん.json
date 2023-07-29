@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海岸線","p":true}],"r_ele":[{"r":"かいがんせん","p":true}],"sense":[{"gloss":"coastline, shoreline","pos":["n"]},{"gloss":"coastal railway","pos":["n"]}]},"sdata":[{"j":"↑海岸↑↓|かいがん↓↑線↑↓せん|↓に↑沿↑↓そ↓って↑航海↑↓こうかい↓せよ。","e":"Sail along the coast."}]}

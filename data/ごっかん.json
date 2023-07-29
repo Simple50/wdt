@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極寒","p":true}],"r_ele":[{"r":"ごっかん","p":true},{"r":"ごくかん"}],"sense":[{"gloss":"extreme cold, intense cold, coldest season, midwinter","pos":["n","adj-no"],"ant":["極暑"]}]},"sdata":[{"j":"↑極寒↑↓|ごっかん|↓だね。","e":"It's bitter cold."}]}

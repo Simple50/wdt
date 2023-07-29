@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ウインドブレーカー","p":true},{"r":"ウィンドブレーカー"}],"sense":[{"gloss":"windbreaker, jacket","pos":["n"]}]},"sdata":[]}

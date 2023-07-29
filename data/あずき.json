@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小豆","p":true}],"r_ele":[{"r":"あずき","p":true,"i":["gikun"]},{"r":"しょうず"},{"r":"アズキ"}],"sense":[{"gloss":"adzuki bean (Vigna angularis)","pos":["n"]}]},"sdata":[]}

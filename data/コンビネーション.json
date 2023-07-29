@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンビネーション","p":true},{"r":"コンビネイション"}],"sense":[{"gloss":"combination","pos":["n"]}]},"sdata":[]}

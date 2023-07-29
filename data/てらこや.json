@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寺子屋","p":true},{"e":"寺小屋"}],"r_ele":[{"r":"てらこや","p":true}],"sense":[{"gloss":"temple elementary school (during the Edo period)","pos":["n"]}]},"sdata":[{"j":"↑今↑↓いま↓でも↑寺子屋↑↓|てらこや|↓の↑芝居↑↓しばい↓をみると、↑何↑↓なん↓だか↑昔↑↓むかし↓がなつかしいように↑思↑↓おも↓われます。","e":"Even now when I see a terakoya play, I feel somewhat nostalgic."}]}

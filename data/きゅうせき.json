@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旧跡","p":true},{"e":"古跡"},{"e":"旧蹟"},{"e":"古蹟"}],"r_ele":[{"r":"ふるあと"},{"r":"きゅうせき","p":true},{"r":"こせき"}],"sense":[{"gloss":"historic spot, historic remains, ruins","pos":["n"]}]},"sdata":[{"j":"↑大勢↑↓おおぜい↓の↑人↑↓ひと↓がその↑旧跡↑↓|きゅうせき|↓を↑訪↑↓おとず↓れる。","e":"A large number of people visit the historic site."}]}

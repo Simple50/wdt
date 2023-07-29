@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"除幕式","p":true}],"r_ele":[{"r":"じょまくしき","p":true}],"sense":[{"gloss":"unveiling ceremony","pos":["n"]}]},"sdata":[]}

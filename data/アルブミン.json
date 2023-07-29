@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アルブミン","p":true}],"sense":[{"gloss":"albumin","pos":["n"]}]},"sdata":[]}

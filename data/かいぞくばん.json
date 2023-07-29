@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"海賊版","p":true}],"r_ele":[{"r":"かいぞくばん","p":true}],"sense":[{"gloss":"pirated edition, pirated version, bootleg copy","pos":["n"]}]},"sdata":[{"j":"↑海賊版↑↓|かいぞくばん|↓のソフトを↑使↑↓つか↓っちゃダメだってば。","e":"You really shouldn't use pirated software."}]}

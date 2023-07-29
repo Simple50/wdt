@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラテックス","p":true}],"sense":[{"gloss":"latex","pos":["n"]}]},"sdata":[]}

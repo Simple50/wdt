@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エオニズム","p":true}],"sense":[{"gloss":"eonism, transvestism","pos":["n"]}],"m":["rare"]},"sdata":[]}

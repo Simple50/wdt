@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"サービス業","p":true}],"r_ele":[{"r":"サービスぎょう","p":true}],"sense":[{"gloss":"service industry, service sector","pos":["n"]}]},"kdata":{"業":{"on":["ギョウ","ゴウ"],"kun":["わざ"],"jlpt":4,"meanings":["business","vocation","arts","performance"],"freq":43,"comp":[["业","䒑","未"]],"d":["鄴","嶫","㒒"],"s":"美","t":1538}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"学籍","p":true}],"r_ele":[{"r":"がくせき","p":true}],"sense":[{"gloss":"school register","pos":["n"]}]},"sdata":[{"j":"その↑名↑↓な↓の↑人↑↓ひと↓は↑学籍↑↓|がくせき|↓↑簿↑↓ぼ↓に↑載↑↓の↓ってません。","e":"No person by that name is listed in the register of the school."}]}

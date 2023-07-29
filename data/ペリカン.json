@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ペリカン","p":true}],"sense":[{"gloss":"pelican","pos":["n"]}]},"sdata":[{"j":"そこで↑大↑↓おお↓きな|ペリカン|を↑見↑↓み↓たよ。","e":"I saw a big pelican there."}]}

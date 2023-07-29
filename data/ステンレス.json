@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ステンレス","p":true}],"sense":[{"gloss":"stainless steel","pos":["n"],"x":["ステンレス鋼"]}],"m":["abbr"]},"sdata":[]}

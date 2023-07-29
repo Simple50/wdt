@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"釣り船","p":true},{"e":"釣船"},{"e":"釣り舟"},{"e":"釣舟"}],"r_ele":[{"r":"つりぶね","p":true},{"r":"つりふね"}],"sense":[{"gloss":"fishing boat","pos":["n"]},{"gloss":"boat-shaped hanging flower vase","pos":["n"],"x":["吊り花生け"]}]},"sdata":[]}

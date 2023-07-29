@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"花園","p":true}],"r_ele":[{"r":"はなぞの","p":true},{"r":"かえん"}],"sense":[{"gloss":"flower garden","pos":["n"]}]},"sdata":[]}

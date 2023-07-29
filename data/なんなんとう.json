@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"南南東","p":true},{"e":"南々東"}],"r_ele":[{"r":"なんなんとう","p":true}],"sense":[{"gloss":"south-southeast, south-south-east","pos":["n"]}]},"sdata":[]}

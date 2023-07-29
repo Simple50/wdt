@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンデンサ","p":true},{"r":"コンデンサー"}],"sense":[{"gloss":"capacitor, condenser","pos":["n"]}]},"sdata":[]}

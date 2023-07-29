@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"月謝","p":true}],"r_ele":[{"r":"げっしゃ","p":true}],"sense":[{"gloss":"monthly tuition fee","pos":["n"]}]},"sdata":[{"j":"ピアノの↑月謝↑↓|げっしゃ|↓ちょうだい。","e":"Could I have money for my piano lesson?"},{"j":"このスイミングスクールの↑毎月↑↓まいつき↓の↑月謝↑↓|げっしゃ|↓はいくらですか。","e":"How much is the monthly fee of this swimming school?"}]}

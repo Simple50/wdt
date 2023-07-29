@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"碑","p":true},{"e":"石文"}],"r_ele":[{"r":"いしぶみ","p":true},{"r":"ひ"}],"sense":[{"gloss":"stone monument bearing an inscription (esp. memorial for future generations), stele, stela","pos":["n"]}]},"sdata":[]}

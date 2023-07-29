@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"グレーゾーン","p":true},{"r":"グレー・ゾーン"}],"sense":[{"gloss":"gray zone, grey zone, gray area","pos":["n"]}]},"sdata":[]}

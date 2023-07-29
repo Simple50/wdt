@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鬘","p":true}],"r_ele":[{"r":"かつら","p":true},{"r":"かずら"},{"r":"カツラ"}],"sense":[{"gloss":"wig, hairpiece, toupee","pos":["n"]}],"m":["uk"]},"kdata":{"鬘":{"on":["バン","マン"],"kun":["かつら"],"meanings":["wig","hair piece"],"comp":[["髟","曼"]],"jlpt":-1,"freq":3372}},"sdata":[]}

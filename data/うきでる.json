@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浮き出る","p":true},{"e":"浮出る"}],"r_ele":[{"r":"うきでる","p":true}],"sense":[{"gloss":"to rise to the surface, to surface","pos":["v1","vi"]},{"gloss":"to stand out (e.g. against a background)","pos":["v1","vi"]}]},"sdata":[]}

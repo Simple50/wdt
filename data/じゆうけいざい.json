@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自由経済","p":true}],"r_ele":[{"r":"じゆうけいざい","p":true}],"sense":[{"gloss":"free economy","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"行政管理庁","p":true}],"r_ele":[{"r":"ぎょうせいかんりちょう","p":true}],"sense":[{"gloss":"Administrative Management Agency","pos":["n"]}]},"sdata":[]}

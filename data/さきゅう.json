@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砂丘","p":true},{"e":"沙丘","i":["iK"]}],"r_ele":[{"r":"さきゅう","p":true},{"r":"しゃきゅう"}],"sense":[{"gloss":"sand dune, sand hill","pos":["n"]}]},"sdata":[]}

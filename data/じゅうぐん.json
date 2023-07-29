@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"従軍","p":true}],"r_ele":[{"r":"じゅうぐん","p":true}],"sense":[{"gloss":"military service, serving in a war, taking part in a campaign","pos":["n","vs","vi"]}]},"sdata":[]}

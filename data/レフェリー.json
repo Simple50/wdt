@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レフェリー","p":true},{"r":"レフリー"}],"sense":[{"gloss":"referee","pos":["n"]}]},"sdata":[{"j":"↑規則↑↓きそく↓にうるさい|レフェリー|は↑試合↑↓しあい↓を↑台無↑↓だいな↓しにしかねない。","e":"A fussy referee can ruin a bout."}]}

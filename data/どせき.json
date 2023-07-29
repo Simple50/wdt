@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土石","p":true}],"r_ele":[{"r":"どせき","p":true}],"sense":[{"gloss":"earth and stones","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓にはほとん|ど↑石油↑↓せき|ゆ↓がありません。","e":"There is little oil in Japan."},{"j":"それは↑山↑↓やま↓↑火事↑↓かじ↓の↑後↑↓のち↓に「↑土石流↑↓|どせき|りゅう↓」が↑発生↑↓はっせい↓するということです。","e":"That's the fact that avalanches occur after mountain fires."}]}

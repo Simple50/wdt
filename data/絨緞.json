@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"絨毯","p":true},{"e":"絨緞","p":true},{"e":"絨氈","i":["iK"]}],"r_ele":[{"r":"じゅうたん","p":true},{"r":"ジュータン"},{"r":"ジュウタン"}],"sense":[{"gloss":"carpet, rug, runner","pos":["n"]}]},"kdata":{"絨":{"on":["ジュウ"],"meanings":["wool cloth"],"comp":[["戎","糸"]],"jlpt":-1,"freq":2953},"緞":{"on":["ドン","タン"],"meanings":["damask"],"comp":[["糸","段"]],"freq":4121}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"虚言","p":true}],"r_ele":[{"r":"きょげん","p":true},{"r":"きょごん"}],"sense":[{"gloss":"falsehood, lie","pos":["n"]}]},"sdata":[{"j":"あなたの↑虚言↑↓|きょげん|↓が、↑私↑↓わたし↓を↑苦↑↓くる↓しめるんです。","e":"Your lies pain me."},{"j":"↑虚言↑↓|きょげん|↓↑癖↑↓へき↓なんてなかったよ。","e":"I was never in the habit of lying."}]}

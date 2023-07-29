@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縦横無尽","p":true}],"r_ele":[{"r":"じゅうおうむじん","p":true}],"sense":[{"gloss":"freely, right and left, as one pleases","pos":["adj-na","n"]}],"m":["yoji"]},"sdata":[]}

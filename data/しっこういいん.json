@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"執行委員","p":true}],"r_ele":[{"r":"しっこういいん","p":true}],"sense":[{"gloss":"executive committee","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縦割り","p":true}],"r_ele":[{"r":"たてわり","p":true}],"sense":[{"gloss":"dividing vertically, vertical split, top-to-bottom sectioning, division into sections, splitting lengthwise","pos":["n"]}]},"sdata":[{"j":"トムって、↑卵↑↓たまご↓の↑片手↑↓か|たて↓↑割↑↓わ↓り|ができるんだよ。","e":"Tom can crack an egg with one hand."}]}

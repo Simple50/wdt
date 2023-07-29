@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事により","p":true}],"r_ele":[{"r":"ことにより","p":true}],"sense":[{"gloss":"by (means of), by doing, due to, via, through","pos":["exp"]}],"m":["uk"]},"kdata":{"事":{"on":["ジ","ズ"],"kun":["こと","つか.う","つか.える"],"jlpt":4,"meanings":["matter","thing","fact","business","reason","possibly"],"freq":18,"comp":[["𠮛","亅","彐"]],"d":["爭","倳","剚"],"t":592}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銅鑼","p":true},{"e":"銅羅"}],"r_ele":[{"r":"どら","p":true},{"r":"どうら"},{"r":"ドラ"}],"sense":[{"gloss":"gong, tam-tam","pos":["n"]}],"m":["uk"]},"kdata":{"銅":{"on":["ドウ"],"kun":["あかがね"],"jlpt":2,"meanings":["copper"],"freq":1505,"comp":[["同","金"]],"s":"鍋","t":1940},"鑼":{"on":["ラ"],"kun":["どら"],"meanings":["gong"],"comp":[["羅","金"]],"freq":4027}},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"杉林","p":true}],"r_ele":[{"r":"すぎばやし","p":true}],"sense":[{"gloss":"cryptomeria forest","pos":["n"]}]},"sdata":[]}

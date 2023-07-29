@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お邪魔します","p":true},{"e":"御邪魔します"}],"r_ele":[{"r":"おじゃまします","p":true}],"sense":[{"gloss":"please excuse the intrusion, I'm coming in","pos":["exp"]}]},"sdata":[]}

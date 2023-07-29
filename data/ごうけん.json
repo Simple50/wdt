@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合憲","p":true}],"r_ele":[{"r":"ごうけん","p":true}],"sense":[{"gloss":"constitutionality","pos":["n","adj-no"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は１０マイル↑競争↑↓きょうそう↓を↑走↑↓はし↓るほど↑剛健↑↓|ごうけん|↓だった。","e":"She was strong enough to run a 10-mile race."}]}

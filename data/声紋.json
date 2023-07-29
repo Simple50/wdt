@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"声紋","p":true}],"r_ele":[{"r":"せいもん","p":true}],"sense":[{"gloss":"voiceprint","pos":["n"]}]},"kdata":{"声":{"on":["セイ","ショウ"],"kun":["こえ","こわ-"],"jlpt":3,"meanings":["voice"],"freq":388,"comp":[["𠃜","士"]],"d":["殸"],"t":473},"紋":{"on":["モン"],"jlpt":1,"meanings":["crest","family crest","figures"],"freq":1519,"comp":[["文","糸"]],"t":1142}},"sdata":[]}

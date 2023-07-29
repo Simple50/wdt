@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"町奉行","p":true}],"r_ele":[{"r":"まちぶぎょう","p":true}],"sense":[{"gloss":"(Edo-period) town magistrate","pos":["n"]}]},"sdata":[]}

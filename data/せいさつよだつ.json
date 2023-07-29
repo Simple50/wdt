@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生殺与奪","p":true}],"r_ele":[{"r":"せいさつよだつ","p":true}],"sense":[{"gloss":"(having) life-and-death power (over)","pos":["n"]}],"m":["yoji"]},"sdata":[{"j":"あのボスに↑俺↑↓おれ↓たちの↑生殺与奪↑↓|せいさつよだつ|↓の↑権↑↓けん↓を↑握↑↓にぎ↓られているとはね。↑悲↑↓かな↓しくなっちゃうよ。","e":"I get depressed thinking that a guy like our boss can have ultimate power over us."}]}

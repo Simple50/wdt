@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"婉曲","p":true}],"r_ele":[{"r":"えんきょく","p":true}],"sense":[{"gloss":"euphemistic, circumlocutory, roundabout, indirect","pos":["adj-na","n"]}]},"sdata":[{"j":"「↑少女↑↓しょうじょ↓の↑部屋↑↓へや↓へ↑行↑↓い↓く」というのは「トイレへ↑行↑↓い↓く」ということの↑婉曲↑↓|えんきょく|↓↑表現↑↓ひょうげん↓です。","e":"Going to the little girl's room is an euphemistic expression for \"going to the toilet.\""}]}

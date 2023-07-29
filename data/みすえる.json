@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見据える","p":true},{"e":"見すえる"}],"r_ele":[{"r":"みすえる","p":true}],"sense":[{"gloss":"to stare fixedly at, to fix one's gaze on","pos":["v1","vt"]},{"gloss":"to make sure of, to set one's eyes on (e.g. the future), to focus on","pos":["v1","vt"]}]},"sdata":[]}

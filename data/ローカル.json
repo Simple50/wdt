@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ローカル","p":true}],"sense":[{"gloss":"local","pos":["adj-na","n"]}]},"sdata":[]}

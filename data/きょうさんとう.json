@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"共産党","p":true}],"r_ele":[{"r":"きょうさんとう","p":true}],"sense":[{"gloss":"Communist Party","pos":["n"]}]},"sdata":[{"j":"↑喜↑↓よろこ↓んで↑中国共産党↑↓ちゅうごく|きょうさんとう|↓に↑入↑↓はい↓ります。","e":"I willingly join the Chinese Communist Party."},{"j":"↑中国↑↓ちゅうごく↓では1949↑年↑↓ねん↓に↑共産党↑↓|きょうさんとう|↓が↑政権↑↓せいけん↓を↑取↑↓と↓った。","e":"Communists took power in China in 1949."}]}

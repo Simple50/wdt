@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冷徹","p":true}],"r_ele":[{"r":"れいてつ","p":true}],"sense":[{"gloss":"cool-headed, level-headed, hard-headed","pos":["adj-na","n"]}]},"sdata":[{"j":"↑冷徹↑↓|れいてつ|↓であれ！","e":"Be merciless."}]}

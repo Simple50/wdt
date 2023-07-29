@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大衆性","p":true}],"r_ele":[{"r":"たいしゅうせい","p":true}],"sense":[{"gloss":"popularity","pos":["n"]}]},"sdata":[]}

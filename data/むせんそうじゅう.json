@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無線操縦","p":true}],"r_ele":[{"r":"むせんそうじゅう","p":true}],"sense":[{"gloss":"radio-controlled (plane)","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天動説","p":true}],"r_ele":[{"r":"てんどうせつ","p":true}],"sense":[{"gloss":"Ptolemaic theory, geocentric model, geocentrism","pos":["n"],"x":["地動説"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中島","p":true}],"r_ele":[{"r":"なかじま","p":true}],"sense":[{"gloss":"island in a pond or river","pos":["n"]}]},"sdata":[{"j":"↑中島↑↓|なかじま|↓さんは↑英語↑↓えいご↓に↑加↑↓くわ↓えて、ドイツ↑語↑↓ご↓も↑流暢↑↓りゅうちょう↓に↑話↑↓はな↓せる。","e":"In addition to English, Mr. Nakajima can speak German fluently."}]}

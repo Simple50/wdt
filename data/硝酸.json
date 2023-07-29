@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"硝酸","p":true}],"r_ele":[{"r":"しょうさん","p":true}],"sense":[{"gloss":"nitric acid","pos":["n","adj-no"]}]},"kdata":{"硝":{"on":["ショウ"],"jlpt":1,"meanings":["nitrate","saltpeter"],"freq":2154,"comp":[["肖","石"]],"t":1570},"酸":{"on":["サン"],"kun":["す.い"],"jlpt":1,"meanings":["acid","bitterness","sour","tart"],"freq":1218,"comp":[["酉","夋"]],"t":1937}},"sdata":[]}

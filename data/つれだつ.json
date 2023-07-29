@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"連れ立つ","p":true},{"e":"連立つ"}],"r_ele":[{"r":"つれだつ","p":true}],"sense":[{"gloss":"to accompany, to go with, to go together","pos":["v5t","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紛らわしい","p":true}],"r_ele":[{"r":"まぎらわしい","p":true}],"sense":[{"gloss":"easily mixed up (e.g. similar words), easily mistaken, confusingly similar, misleading, equivocal, ambiguous","pos":["adj-i"]}]},"sdata":[{"j":"これはちょっと↑紛↑↓|まぎ↓らわしい|な。","e":"This is a bit confusing."}]}

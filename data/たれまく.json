@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"垂れ幕","p":true},{"e":"垂幕"}],"r_ele":[{"r":"たれまく","p":true}],"sense":[{"gloss":"hanging banner, hanging screen, curtain","pos":["n"]}]},"sdata":[]}

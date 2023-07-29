@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"気色ばむ","p":true}],"r_ele":[{"r":"けしきばむ","p":true}],"sense":[{"gloss":"to grow angry, to display one's anger","pos":["v5m","vi"]}]},"sdata":[]}

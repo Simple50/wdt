@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し売り","p":true},{"e":"押売"},{"e":"押売り"}],"r_ele":[{"r":"おしうり","p":true}],"sense":[{"gloss":"high-pressure selling, aggressive peddling, the hard sell, high-pressure salesman","pos":["n","vs","vt"]},{"gloss":"forcing on someone (e.g. kindness)","pos":["n","vs","vt"]}]},"sdata":[]}

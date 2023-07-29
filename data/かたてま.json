@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"片手間","p":true}],"r_ele":[{"r":"かたてま","p":true}],"sense":[{"gloss":"spare time, free time, leisure time","pos":["n"]}]},"sdata":[]}

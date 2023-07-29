@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"型破り","p":true}],"r_ele":[{"r":"かたやぶり","p":true}],"sense":[{"gloss":"unusual, unconventional, mold-breaking, outside the box","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

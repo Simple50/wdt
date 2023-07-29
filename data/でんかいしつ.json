@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電解質","p":true}],"r_ele":[{"r":"でんかいしつ","p":true}],"sense":[{"gloss":"electrolyte","pos":["n"],"f":["chem"]}]},"sdata":[]}

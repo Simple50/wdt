@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"Ω"},{"e":"ω"}],"r_ele":[{"r":"オメガ","p":true}],"sense":[{"gloss":"omega","pos":["n"]}]},"sdata":[]}

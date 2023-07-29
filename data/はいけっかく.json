@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肺結核","p":true}],"r_ele":[{"r":"はいけっかく","p":true}],"sense":[{"gloss":"pulmonary tuberculosis, consumption","pos":["n"]}]},"sdata":[{"j":"↑最近↑↓さいきん↓、↑肺結核↑↓|はいけっかく|↓を↑患↑↓わずら↓う↑人↑↓ひと↓はほとんどいない。","e":"These days few people suffer from tuberculosis."}]}

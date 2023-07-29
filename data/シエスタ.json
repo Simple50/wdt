@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シエスタ","p":true}],"sense":[{"gloss":"siesta","pos":["n"],"l":"spa"}]},"sdata":[]}

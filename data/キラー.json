@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キラー","p":true}],"sense":[{"gloss":"killer, destroyer, annihilator, defeater","pos":["n"]},{"gloss":"seducer, seductress, tempter, temptress","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"旅情","p":true}],"r_ele":[{"r":"りょじょう","p":true}],"sense":[{"gloss":"one's mood while traveling (travelling)","pos":["n"]}]},"sdata":[]}

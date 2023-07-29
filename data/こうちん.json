@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"工賃","p":true}],"r_ele":[{"r":"こうちん","p":true}],"sense":[{"gloss":"wages, pay","pos":["n"]}]},"sdata":[]}

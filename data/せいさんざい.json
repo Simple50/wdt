@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生産財","p":true}],"r_ele":[{"r":"せいさんざい","p":true}],"sense":[{"gloss":"producer goods, producer's goods","pos":["n"],"x":["消費財"]}]},"sdata":[]}

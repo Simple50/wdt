@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヌード","p":true}],"sense":[{"gloss":"nude","pos":["n"]}]},"sdata":[{"j":"この|ヌード|のポスターには↑若者↑↓わかもの↓の↑視覚↑↓しかく↓に↑訴↑↓うった↓えるものがある。","e":"This nude poster appeals visually to the young."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"洒落る","p":true,"i":["ateji"]}],"r_ele":[{"r":"しゃれる","p":true}],"sense":[{"gloss":"to dress stylishly","pos":["v1","vi"]},{"gloss":"to joke, to play on words","pos":["v1","vi"]}]},"sdata":[]}

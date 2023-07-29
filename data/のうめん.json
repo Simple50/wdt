@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"能面","p":true}],"r_ele":[{"r":"のうめん","p":true}],"sense":[{"gloss":"noh mask","pos":["n"]}]},"sdata":[{"j":"↑彼等↑↓かれら↓が↑昨日↑↓き|のう↓↑面接↑↓めん|せつ↓した↑女性↑↓じょせい↓はその↑職↑↓しょく↓を↑与↑↓あた↓えられた。","e":"The woman whom they interviewed yesterday has been given the job."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"列席","p":true}],"r_ele":[{"r":"れっせき","p":true}],"sense":[{"gloss":"attendance, presence","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はその↑式↑↓しき↓に↑列席↑↓|れっせき|↓していた。","e":"He was present at the ceremony."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バンカー","p":true},{"r":"バンカ"}],"sense":[{"gloss":"banker","pos":["n"]},{"gloss":"bunker","pos":["n"]}]},"sdata":[]}

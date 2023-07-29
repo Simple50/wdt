@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"権利金","p":true}],"r_ele":[{"r":"けんりきん","p":true}],"sense":[{"gloss":"key money (esp. on an apartment), premium (payment)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ハンドボール","p":true}],"sense":[{"gloss":"handball","pos":["n"]}]},"sdata":[{"j":"↑青年↑↓せいねん↓の↑一団↑↓いちだん↓が↑運動↑↓うんどう↓↑場↑↓じょう↓で|ハンドボール|をしている。","e":"A group of young men are playing handball in the playground."},{"j":"↑彼↑↓かれ↓は|ハンドボール|が↑上手↑↓じょうず↓だ。","e":"He is good at handball."},{"j":"|ハンドボール|は↑団体↑↓だんたい↓↑競技↑↓きょうぎ↓です。","e":"Handball is a team sport."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"台本","p":true}],"r_ele":[{"r":"だいほん","p":true}],"sense":[{"gloss":"script, libretto, scenario","pos":["n"]}]},"sdata":[{"j":"↑台本↑↓|だいほん|↓に↑目↑↓め↓を↑通↑↓とお↓しておいてください。","e":"Please go over the script."},{"j":"↑彼↑↓かれ↓は↑手当↑↓てあて↓たり↑次第↑↓し|だい↓↑本↑↓ほん|↓を↑買↑↓か↓った。","e":"He bought books at random."}]}

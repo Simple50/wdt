@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無勢","p":true}],"r_ele":[{"r":"ぶぜい","p":true},{"r":"むぜい"},{"r":"ぶせい","i":["ok"]}],"sense":[{"gloss":"numerical inferiority, being outnumbered","pos":["n"]}]},"sdata":[{"j":"↑多勢↑↓たぜい↓に↑無勢↑↓|ぶぜい|↓。↑私↑↓わたし↓の↑企画↑↓きかく↓は↑残念↑↓ざんねん↓ながら↑取↑↓と↓り↑下↑↓さ↓げますよ。","e":"It looks like I'm outnumbered here. I hate to do it but I'll withdraw my plan."}]}

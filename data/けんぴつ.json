@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"健筆","p":true}],"r_ele":[{"r":"けんぴつ","p":true}],"sense":[{"gloss":"powerful pen, facile pen","pos":["n"]}]},"sdata":[]}

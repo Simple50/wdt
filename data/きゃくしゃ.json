@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"客車","p":true}],"r_ele":[{"r":"きゃくしゃ","p":true},{"r":"かくしゃ"}],"sense":[{"gloss":"passenger car","pos":["n"]}]},"sdata":[{"j":"つばさの↑客車↑↓|きゃくしゃ|↓は↑何↑↓なん↓↑両↑↓りょう↓ですか。","e":"How many cars does the Tsubasa have?"},{"j":"↑私↑↓わたし↓は↑席↑↓せき↓を↑見↑↓み↓つけるために↑列車↑↓れっしゃ↓の↑客車↑↓|きゃくしゃ|↓の↑中↑↓なか↓を↑歩↑↓ある↓いた。","e":"I walked through the cars of the train to find a seat."}]}

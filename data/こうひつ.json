@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"硬筆","p":true}],"r_ele":[{"r":"こうひつ","p":true}],"sense":[{"gloss":"pen or pencil","pos":["n"]}]},"sdata":[]}

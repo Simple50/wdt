@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"哀切","p":true}],"r_ele":[{"r":"あいせつ","p":true}],"sense":[{"gloss":"pathetic, plaintive","pos":["adj-na","n"]}]},"sdata":[]}

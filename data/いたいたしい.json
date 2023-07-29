@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"痛々しい"},{"e":"痛痛しい"},{"e":"傷々しい","p":true,"i":["iK"]},{"e":"傷傷しい","i":["iK"]}],"r_ele":[{"r":"いたいたしい","p":true}],"sense":[{"gloss":"pitiful, pathetic, painful to look at","pos":["adj-i"]}]},"sdata":[{"j":"トムは↑痛々↑↓|いたいた↓しい|ほどに↑痩↑↓や↓せていた。","e":"Tom was painfully thin."}]}

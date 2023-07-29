@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アルカイスム"},{"r":"アルカイズム","p":true},{"r":"アーケイズム"}],"sense":[{"gloss":"archaism","pos":["n"],"l":"fre: archaïsme"}]},"sdata":[]}

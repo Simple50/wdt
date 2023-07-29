@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"再読","p":true}],"r_ele":[{"r":"さいどく","p":true}],"sense":[{"gloss":"rereading, reading again","pos":["n","vs"]},{"gloss":"reading a single kanji twice (with different pronunciations) in kanbun","pos":["n","vs"],"x":["再読文字"]}]},"sdata":[{"j":"この↑話↑↓はなし↓は↑再読↑↓|さいどく|↓の↑価値↑↓かち↓がある。","e":"This story is worth reading again."}]}

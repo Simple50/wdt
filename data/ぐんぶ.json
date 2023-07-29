@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"軍部","p":true}],"r_ele":[{"r":"ぐんぶ","p":true}],"sense":[{"gloss":"military authorities, army circles","pos":["n"]}]},"sdata":[{"j":"↑軍部↑↓|ぐんぶ|↓に↑不穏↑↓ふおん↓な↑動↑↓うご↓きが↑見↑↓み↓られる。","e":"There seem to be dangerous developments in the military."},{"j":"↑軍部↑↓|ぐんぶ|↓は↑全↑↓ぜん↓↑領土↑↓りょうど↓を↑占領↑↓せんりょう↓した。","e":"The armed forces occupied the entire territory."}]}

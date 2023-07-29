@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"五月雨","p":true}],"r_ele":[{"r":"さみだれ","p":true},{"r":"さつきあめ"}],"sense":[{"gloss":"early-summer rain","pos":["n"]}]},"sdata":[{"j":"↑五月雨↑↓|さみだれ|↓↑式↑↓しき↓に↑失礼↑↓しつれい↓いたします。","e":"Apologies for the continuous emails."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"土質","p":true}],"r_ele":[{"r":"どしつ","p":true}],"sense":[{"gloss":"soil, soil quality","pos":["n"]}]},"sdata":[]}

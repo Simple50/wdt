@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地方議会","p":true}],"r_ele":[{"r":"ちほうぎかい","p":true}],"sense":[{"gloss":"local assembly","pos":["n"]}]},"sdata":[]}

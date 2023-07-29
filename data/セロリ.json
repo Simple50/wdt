@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セロリ","p":true},{"r":"セルリー"}],"sense":[{"gloss":"celery","pos":["n"]}]},"sdata":[{"j":"ここでは、レタス・キャベツ・|セロリ|などの↑高原↑↓こうげん↓↑野菜↑↓やさい↓を↑栽培↑↓さいばい↓しています。","e":"Tableland vegetables are grown here, such as lettuce, cabbage, and celery."}]}

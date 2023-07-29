@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プライムタイム","p":true},{"r":"プライム・タイム"}],"sense":[{"gloss":"prime time","pos":["n"]}]},"sdata":[]}

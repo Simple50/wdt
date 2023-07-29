@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直流","p":true}],"r_ele":[{"r":"ちょくりゅう","p":true}],"sense":[{"gloss":"direct current, DC","pos":["n","adj-no"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"縮れる","p":true}],"r_ele":[{"r":"ちぢれる","p":true}],"sense":[{"gloss":"to be wavy, to be curled, to be frizzled","pos":["v1","vi"]}]},"sdata":[]}

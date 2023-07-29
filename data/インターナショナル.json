@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インターナショナル","p":true},{"r":"インタナショナル"}],"sense":[{"gloss":"international","pos":["adj-na","n"]}]},"sdata":[]}

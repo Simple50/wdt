@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"人間工学","p":true}],"r_ele":[{"r":"にんげんこうがく","p":true}],"sense":[{"gloss":"ergonomics, human factors, human engineering","pos":["n"]}]},"sdata":[]}

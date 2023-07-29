@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"メモ帳","p":true}],"r_ele":[{"r":"メモちょう","p":true}],"sense":[{"gloss":"memo book, memo pad, notebook, notepad, scratchpad, scratch pad, writing pad, jotter","pos":["n"]}]},"sdata":[]}

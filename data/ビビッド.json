@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビビッド","p":true},{"r":"ヴィヴィッド"},{"r":"ビビット","i":["ik"]}],"sense":[{"gloss":"vivid","pos":["adj-na"]}]},"sdata":[]}

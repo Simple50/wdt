@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"菅","p":true}],"r_ele":[{"r":"すげ","p":true},{"r":"すが","i":["ok"]},{"r":"スゲ","p":true}],"sense":[{"gloss":"sedge (Cyperaceae spp., esp. members of genus Carex)","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"バク|スゲ|ン↑社↑↓しゃ↓の↑研究所↑↓けんきゅうじょ↓で↑新薬↑↓しんやく↓の↑試験↑↓しけん↓が↑行↑↓おこな↓われた。","e":"The new drug will be tested in Vaxgen's laboratory."}]}

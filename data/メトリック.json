@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メトリック","p":true}],"sense":[{"gloss":"metric","pos":["n"],"l":"ger: Metrik"}]},"sdata":[]}

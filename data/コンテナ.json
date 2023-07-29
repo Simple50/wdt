@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"コンテナ","p":true},{"r":"コンテナー"}],"sense":[{"gloss":"container (e.g. shipping), skip","pos":["n"]}]},"sdata":[]}

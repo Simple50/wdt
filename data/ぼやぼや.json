@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ぼやぼや","p":true},{"r":"ボヤボヤ","p":true}],"sense":[{"gloss":"to be careless, to be inattentive, to be absentminded, to be slow","pos":["vs","adv","adv-to"]},{"gloss":"long and disheveled (e.g. hair) (dishevelled)","pos":["adj-na","vs","adv"]},{"gloss":"flaring up (fire), rising (e.g. steam)","pos":["adv","adv-to"],"m":["arch"]}],"m":["on-mim"]},"sdata":[]}

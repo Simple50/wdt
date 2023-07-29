@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"書写","p":true}],"r_ele":[{"r":"しょしゃ","p":true}],"sense":[{"gloss":"transcription, copying","pos":["n","vs","vt"]},{"gloss":"handwriting (as a school subject), penmanship","pos":["n"]}]},"sdata":[]}

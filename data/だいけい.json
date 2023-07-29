@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"台形","p":true}],"r_ele":[{"r":"だいけい","p":true}],"sense":[{"gloss":"trapezium, trapezoid","pos":["n","adj-no"]}]},"sdata":[{"j":"↑拡大↑↓かく|だい↓↑経済↑↓けい|ざい↓は↑老化↑↓ろうか↓している。","e":"The expansion is aging."}]}

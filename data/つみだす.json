@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"積み出す","p":true}],"r_ele":[{"r":"つみだす","p":true}],"sense":[{"gloss":"to send off","pos":["v5s","vt"]}]},"sdata":[]}

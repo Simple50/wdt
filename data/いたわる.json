@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"労る","p":true},{"e":"労わる","i":["io"]}],"r_ele":[{"r":"いたわる","p":true}],"sense":[{"gloss":"to pity, to sympathize with, to sympathise with, to treat with sympathy, to console, to be kind to, to appreciate","pos":["v5r","vt"]},{"gloss":"to tend to (e.g. an injury), to care for, to nurse, to soothe","pos":["v5r","vt"]}],"m":["uk"]},"sdata":[]}

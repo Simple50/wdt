@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地下水","p":true}],"r_ele":[{"r":"ちかすい","p":true}],"sense":[{"gloss":"underground water","pos":["n"]}]},"sdata":[{"j":"ワイン↑畑↑↓はたけ↓の↑中↑↓なか↓には、↑未↑↓いま↓だ↑地下↑↓|ちか↓↑水↑↓すい|↓を↑使用↑↓しよう↓した灌漑を↑選択↑↓せんたく↓するところもある。","e":"Some vineyards still choose to irrigate using underground water sources."}]}

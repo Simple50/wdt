@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き付ける"},{"e":"突きつける","p":true}],"r_ele":[{"r":"つきつける","p":true}],"sense":[{"gloss":"to thrust before, to thrust at","pos":["v1","vt"]}]},"sdata":[]}

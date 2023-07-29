@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立法権","p":true}],"r_ele":[{"r":"りっぽうけん","p":true}],"sense":[{"gloss":"legislative power","pos":["n"]}]},"sdata":[{"j":"↑政府↑↓せいふ↓は↑立法↑↓|りっぽう↓↑権↑↓けん|↓を↑持↑↓も↓っている。","e":"The government has the power of legislation."}]}

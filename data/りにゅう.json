@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"離乳","p":true}],"r_ele":[{"r":"りにゅう","p":true}],"sense":[{"gloss":"weaning","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑学生↑↓がくせい↓に↑限↑↓かぎ↓|り↑入場↑↓にゅう|じょう↓↑可↑↓か↓。","e":"Admission to students only."}]}

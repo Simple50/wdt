@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国際協力事業団","p":true}],"r_ele":[{"r":"こくさいきょうりょくじぎょうだん","p":true}],"sense":[{"gloss":"Japan International Cooperation Agency (1974), JICA","pos":["n"]}]},"sdata":[]}

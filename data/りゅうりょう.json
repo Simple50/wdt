@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"流量","p":true}],"r_ele":[{"r":"りゅうりょう","p":true}],"sense":[{"gloss":"flow rate (esp. water or electricity), quantity of flow, capacity (of output or throughput per unit time)","pos":["n"]}]},"sdata":[]}

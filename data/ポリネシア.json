@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ポリネシア","p":true}],"sense":[{"gloss":"Polynesia","pos":["n"]}]},"sdata":[]}

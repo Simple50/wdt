@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"税務署","p":true}],"r_ele":[{"r":"ぜいむしょ","p":true}],"sense":[{"gloss":"tax office","pos":["n"]}]},"sdata":[{"j":"↑税務署↑↓|ぜいむしょ|↓は↑控除↑↓こうじょ↓を↑認↑↓みと↓めた。","e":"The tax agent allowed the deduction."},{"j":"↑税務署↑↓|ぜいむしょ|↓は↑所得↑↓しょとく↓↑税↑↓ぜい↓の↑脱税↑↓だつぜい↓に↑目↑↓め↓をひからせています。","e":"Tax officials are zeroing in on income tax evasion."}]}

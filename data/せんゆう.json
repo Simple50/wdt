@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"占有","p":true}],"r_ele":[{"r":"せんゆう","p":true}],"sense":[{"gloss":"possession, occupation, occupancy","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑現実↑↓げんじつ↓の↑占有↑↓|せんゆう|↓は↑九↑↓きゅう↓↑分↑↓ぶん↓の↑勝↑↓か↓ち↑目↑↓め↓。","e":"Possession is nine-tenths of the law."}]}

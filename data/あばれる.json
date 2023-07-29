@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暴れる","p":true}],"r_ele":[{"r":"あばれる","p":true}],"sense":[{"gloss":"to act violently, to rage, to struggle, to be riotous","pos":["v1","vi"]}]},"sdata":[]}

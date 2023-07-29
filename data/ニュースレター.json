@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ニュースレター","p":true}],"sense":[{"gloss":"newsletter","pos":["n"]}]},"sdata":[]}

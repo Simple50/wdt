@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"造作","p":true},{"e":"雑作"}],"r_ele":[{"r":"ぞうさく","p":true}],"sense":[{"gloss":"building (esp. a house)","pos":["n","vs","vt"]},{"gloss":"house fixture, fitting","pos":["n"]},{"gloss":"facial features","pos":["n"],"m":["col"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑何↑↓なん↓の↑造作↑↓|ぞうさく|↓もなくその↑問題↑↓もんだい↓を↑解↑↓と↓くことができた。","e":"He found no difficulty in solving the problem."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"骨格","p":true},{"e":"骨骼"}],"r_ele":[{"r":"こっかく","p":true}],"sense":[{"gloss":"skeleton, skeletal structure, build, frame, physique","pos":["n","adj-no"]},{"gloss":"framework","pos":["n","adj-no"]}]},"sdata":[{"j":"↑骨格↑↓|こっかく|↓たくましい↑体格↑↓たいかく↓なので↑彼↑↓かれ↓は↑柔道↑↓じゅうどう↓↑家↑↓か↓でとおっている。","e":"With his muscular constitution he passes for a judoist."}]}

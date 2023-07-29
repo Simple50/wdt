@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗用車","p":true}],"r_ele":[{"r":"じょうようしゃ","p":true}],"sense":[{"gloss":"(passenger) car, automobile","pos":["n"]}]},"sdata":[{"j":"↑大↑↓おお↓きな↑乗用車↑↓|じょうようしゃ|↓が↑止↑↓と↓まり、↑背↑↓せ↓の↑高↑↓たか↓い↑女性↑↓じょせい↓が↑降↑↓お↓りた。","e":"A big car drew up and a tall lady got out."},{"j":"トラックが↑乗用車↑↓|じょうようしゃ|↓にぶつかりました。","e":"The truck hit a car."}]}

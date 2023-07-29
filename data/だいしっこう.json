@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"代執行","p":true}],"r_ele":[{"r":"だいしっこう","p":true}],"sense":[{"gloss":"execution by proxy, subrogation (of administrative acts)","pos":["n"]}]},"sdata":[]}

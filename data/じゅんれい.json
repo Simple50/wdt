@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"巡礼","p":true},{"e":"順礼","i":["rK"]}],"r_ele":[{"r":"じゅんれい","p":true}],"sense":[{"gloss":"pilgrimage, pilgrim","pos":["n","vs","vi"]}]},"sdata":[]}

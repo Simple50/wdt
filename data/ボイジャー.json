@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボイジャー","p":true},{"r":"ボイエジャ"}],"sense":[{"gloss":"voyager","pos":["n"]}]},"sdata":[]}

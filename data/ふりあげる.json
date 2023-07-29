@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"振り上げる","p":true},{"e":"振りあげる"}],"r_ele":[{"r":"ふりあげる","p":true}],"sense":[{"gloss":"to raise overhead","pos":["v1","vt"]}]},"sdata":[]}

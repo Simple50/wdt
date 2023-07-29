@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受け皿","p":true},{"e":"受皿"}],"r_ele":[{"r":"うけざら","p":true}],"sense":[{"gloss":"saucer","pos":["n"]},{"gloss":"person (group, institution, etc.) to take over a position or matter, receptacle (e.g. of funds), receiver","pos":["n"]}]},"sdata":[{"j":"カップを↑受↑↓|う↓け↑皿↑↓ざら|↓の↑上↑↓うえ↓に↑置↑↓お↓いてください。","e":"Please place the cup on the saucer."}]}

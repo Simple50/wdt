@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"超党派","p":true}],"r_ele":[{"r":"ちょうとうは","p":true}],"sense":[{"gloss":"suprapartisan, multiparty, bipartisan, nonpartisan","pos":["adj-no"]}]},"sdata":[]}

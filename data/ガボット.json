@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ガボット","p":true}],"sense":[{"gloss":"gavotte","pos":["n"],"l":"fre"}]},"sdata":[]}

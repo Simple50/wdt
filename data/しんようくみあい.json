@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"信用組合","p":true}],"r_ele":[{"r":"しんようくみあい","p":true}],"sense":[{"gloss":"credit association","pos":["n"]}]},"sdata":[]}

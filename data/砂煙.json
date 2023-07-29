@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"砂煙","p":true}],"r_ele":[{"r":"すなけむり","p":true}],"sense":[{"gloss":"cloud of sand (dust, etc.)","pos":["n"]}]},"kdata":{"砂":{"on":["サ","シャ"],"kun":["すな"],"jlpt":2,"meanings":["sand"],"freq":1146,"comp":[["少","石"]],"t":929},"煙":{"on":["エン"],"kun":["けむ.る","けむり","けむ.い"],"jlpt":3,"meanings":["smoke"],"freq":1290,"comp":[["垔","火"]],"t":1745}},"sdata":[]}

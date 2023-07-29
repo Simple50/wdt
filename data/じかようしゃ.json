@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自家用車","p":true}],"r_ele":[{"r":"じかようしゃ","p":true}],"sense":[{"gloss":"private car, private automobile","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑自家用車↑↓|じかようしゃ|↓を↑持↑↓も↓っている。","e":"He drives his own car."},{"j":"↑彼↑↓かれ↓は↑自家用車↑↓|じかようしゃ|↓を↑持↑↓も↓っている。","e":"He has a car."}]}

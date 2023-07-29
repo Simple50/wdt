@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"信用状","p":true}],"r_ele":[{"r":"しんようじょう","p":true}],"sense":[{"gloss":"letter of credit","pos":["n"]}]},"sdata":[]}

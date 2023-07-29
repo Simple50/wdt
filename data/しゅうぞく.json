@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"習俗","p":true}],"r_ele":[{"r":"しゅうぞく","p":true}],"sense":[{"gloss":"manners and customs, folkways, usage","pos":["n"]}]},"sdata":[]}

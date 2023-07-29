@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"甲冑","p":true},{"e":"甲胄","i":["iK"]}],"r_ele":[{"r":"かっちゅう","p":true}],"sense":[{"gloss":"armor and helmet (armour)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銃砲","p":true}],"r_ele":[{"r":"じゅうほう","p":true}],"sense":[{"gloss":"guns, firearms","pos":["n"]}]},"kdata":{"銃":{"on":["ジュウ"],"kun":["つつ"],"jlpt":1,"meanings":["gun","arms"],"freq":1013,"comp":[["充","金"]],"t":1939},"砲":{"on":["ホウ"],"jlpt":1,"meanings":["cannon","gun"],"freq":1268,"comp":[["包","石"]],"t":1131}},"sdata":[]}

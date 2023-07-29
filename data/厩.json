@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"厩","p":true},{"e":"廐"},{"e":"馬屋"},{"e":"廏"}],"r_ele":[{"r":"うまや"},{"r":"まや"}],"sense":[{"gloss":"stable, barn","pos":["n"]}]},"kdata":{"厩":{"on":["キュウ"],"kun":["うまや"],"meanings":["barn","stable"],"comp":[["既","厂"]],"jlpt":0,"freq":2547}},"sdata":[]}

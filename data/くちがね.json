@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口金","p":true}],"r_ele":[{"r":"くちがね","p":true}],"sense":[{"gloss":"(metal) cap","pos":["n"]},{"gloss":"clasp","pos":["n"]},{"gloss":"mouthpiece","pos":["n"]},{"gloss":"socket (for light, etc.)","pos":["n"]}]},"sdata":[]}

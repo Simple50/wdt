@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"厄年","p":true}],"r_ele":[{"r":"やくどし","p":true}],"sense":[{"gloss":"unlucky year, critical year, year (esp. age 25 and 42 for men, 19 and 33 for women) that is considered unlucky (orig. in Onmyōdō)","pos":["n"],"x":["陰陽道"]},{"gloss":"bad year, annus horribilis","pos":["n"]}]},"sdata":[]}

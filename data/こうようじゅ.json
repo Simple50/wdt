@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"広葉樹","p":true}],"r_ele":[{"r":"こうようじゅ","p":true}],"sense":[{"gloss":"broadleaf tree","pos":["n"]}]},"sdata":[]}

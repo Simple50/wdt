@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紳士協定","p":true}],"r_ele":[{"r":"しんしきょうてい","p":true}],"sense":[{"gloss":"gentlemen's agreement","pos":["n"]}]},"sdata":[]}

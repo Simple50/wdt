@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"石神","p":true}],"r_ele":[{"r":"しゃくじん","p":true},{"r":"いしがみ"}],"sense":[{"gloss":"stone which is worshipped, image of a god in stone","pos":["n"]}]},"sdata":[]}

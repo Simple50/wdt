@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天寿","p":true}],"r_ele":[{"r":"てんじゅ","p":true}],"sense":[{"gloss":"natural span of life","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑天寿↑↓|てんじゅ|↓を↑全↑↓まっと↓うした。","e":"He lived to a ripe old age."}]}

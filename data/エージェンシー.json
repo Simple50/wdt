@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エージェンシー","p":true},{"r":"エイジェンシー"}],"sense":[{"gloss":"agency","pos":["n"]}]},"sdata":[{"j":"↑渋谷↑↓しぶや↓を↑歩↑↓ある↓いていてモデル|エージェンシー|にスカウトされた。","e":"I was scouted by a model agency while walking around Shibuya."}]}

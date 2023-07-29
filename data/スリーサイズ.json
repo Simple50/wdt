@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スリーサイズ","p":true},{"r":"スリー・サイズ"}],"sense":[{"gloss":"bust-waist-hip measurements, vital statistics","pos":["n"],"l":"eng: three size"}]},"sdata":[{"j":"|スリーサイズ|は↑個人↑↓こじん↓↑差↑↓さ↓がある。","e":"Measurements are different from individual to individual."},{"j":"このワンピースは↑３↑↓|スリー↓サイズ|あります。","e":"This dress comes in three sizes."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敬礼","p":true}],"r_ele":[{"r":"けいれい","p":true}],"sense":[{"gloss":"salute, bow","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑一番↑↓いちばん↓↑下↑↓した↓の↑背景↑↓はい|けい↓レイ|ヤーを↑消去↑↓しょうきょ↓します。","e":"Remove the lower-most background layer."}]}

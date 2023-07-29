@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不可避","p":true}],"r_ele":[{"r":"ふかひ","p":true}],"sense":[{"gloss":"inevitable, inescapable, unavoidable","pos":["adj-na","n"]}]},"sdata":[]}

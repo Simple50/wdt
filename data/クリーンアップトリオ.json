@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クリーンアップトリオ","p":true},{"r":"クリーンナップトリオ"}],"sense":[{"gloss":"third, fourth, and fifth batters","pos":["n"],"f":["baseb"],"l":"eng: cleanup trio"}]},"sdata":[]}

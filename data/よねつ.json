@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"余熱","p":true}],"r_ele":[{"r":"よねつ","p":true}],"sense":[{"gloss":"waste heat, remaining heat, residual heat","pos":["n"]}]},"sdata":[]}

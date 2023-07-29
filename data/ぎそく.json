@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"義足","p":true}],"r_ele":[{"r":"ぎそく","p":true}],"sense":[{"gloss":"artificial leg","pos":["n"]}]},"sdata":[]}

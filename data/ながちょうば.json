@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"長丁場","p":true},{"e":"長町場","i":["rK"]}],"r_ele":[{"r":"ながちょうば","p":true}],"sense":[{"gloss":"long stretch, long haul, marathon, time-consuming work","pos":["n"]},{"gloss":"long scene (in a play), long act","pos":["n"]}]},"sdata":[]}

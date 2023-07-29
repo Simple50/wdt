@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"草取り","p":true}],"r_ele":[{"r":"くさとり","p":true}],"sense":[{"gloss":"weeding","pos":["n","vs"]},{"gloss":"weeder, weeding fork","pos":["n"]}]},"sdata":[{"j":"↑父↑↓ちち↓は↑私↑↓わたし↓に↑庭↑↓にわ↓の↑草取↑↓|くさと↓り|をやらせた。","e":"My father set me the task of weeding the garden."}]}

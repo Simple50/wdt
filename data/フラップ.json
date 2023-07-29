@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フラップ","p":true}],"sense":[{"gloss":"flap (of an aircraft wing)","pos":["n"],"f":["aviat"]},{"gloss":"seal flap (of an envelope)","pos":["n"]}]},"sdata":[]}

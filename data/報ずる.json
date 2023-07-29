@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"報ずる","p":true}],"r_ele":[{"r":"ほうずる","p":true}],"sense":[{"gloss":"to inform, to report","pos":["vz","vt"]}]},"kdata":{"報":{"on":["ホウ"],"kun":["むく.いる"],"jlpt":3,"meanings":["report","news","reward","retribution"],"freq":167,"comp":[["幸","𠬝"]],"t":1477}},"sdata":[]}

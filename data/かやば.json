@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"茅場","p":true}],"r_ele":[{"r":"かやば","p":true}],"sense":[{"gloss":"hayfield, field of miscanthus","pos":["n"]}]},"sdata":[]}

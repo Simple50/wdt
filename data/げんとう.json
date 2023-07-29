@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"厳冬","p":true}],"r_ele":[{"r":"げんとう","p":true}],"sense":[{"gloss":"severe winter","pos":["n"]}]},"sdata":[]}

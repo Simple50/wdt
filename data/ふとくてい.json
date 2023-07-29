@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不特定","p":true}],"r_ele":[{"r":"ふとくてい","p":true}],"sense":[{"gloss":"unspecified, random, indefinite","pos":["adj-no","adj-na","n"]}]},"sdata":[]}

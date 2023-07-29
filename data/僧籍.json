@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"僧籍","p":true}],"r_ele":[{"r":"そうせき","p":true}],"sense":[{"gloss":"priesthood","pos":["n"],"f":["Buddh"]}]},"kdata":{"僧":{"on":["ソウ"],"jlpt":1,"meanings":["monk","Buddhist priest"],"freq":1724,"comp":[["曾","亻"]],"t":1689},"籍":{"on":["セキ"],"jlpt":2,"meanings":["enroll","domiciliary register","membership"],"freq":907,"comp":[["𥫗","耤"]],"t":2290}},"sdata":[]}

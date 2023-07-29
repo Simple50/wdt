@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腎不全","p":true}],"r_ele":[{"r":"じんふぜん","p":true}],"sense":[{"gloss":"kidney failure, renal failure","pos":["n"]}]},"sdata":[]}

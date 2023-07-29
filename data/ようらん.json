@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"要覧","p":true}],"r_ele":[{"r":"ようらん","p":true}],"sense":[{"gloss":"outline, summary, survey, handbook","pos":["n"]}]},"sdata":[{"j":"ギリシャは↑西洋↑↓せいよう↓↑文明↑↓ぶんめい↓の↑揺籃↑↓|ようらん|↓の↑地↑↓ち↓であった。","e":"Greece was the cradle of western civilization."}]}

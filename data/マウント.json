@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マウント","p":true}],"sense":[{"gloss":"mount, stand, fixture","pos":["n"]},{"gloss":"lens mount","pos":["n"]},{"gloss":"mounting (e.g. a drive)","pos":["n","vs"],"f":["comp"],"ant":["アンマウント"]},{"gloss":"mounting (animal behaviour)","pos":["n"]},{"gloss":"asserting dominance","pos":["n"],"x":["マウンティング・2"]}]},"sdata":[]}

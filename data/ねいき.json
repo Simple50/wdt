@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寝息","p":true}],"r_ele":[{"r":"ねいき","p":true}],"sense":[{"gloss":"breathing of a sleeping person","pos":["n"]}]},"sdata":[{"j":"↑起↑↓お↓きているときはあれだけにぎやかだった↑子↑↓こ↓どもたちも、↑今↑↓いま↓はすやすやと↑静↑↓しず↓かな↑寝息↑↓|ねいき|↓を↑立↑↓た↓てている。","e":"The kids that had been so lively when they were awake are now silently sleeping soundly."}]}

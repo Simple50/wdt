@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スパイラル","p":true}],"sense":[{"gloss":"spiral","pos":["n"]}]},"sdata":[]}

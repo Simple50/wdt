@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"液状化","p":true}],"r_ele":[{"r":"えきじょうか","p":true}],"sense":[{"gloss":"liquefaction, liquefy","pos":["n","vs","vi"]}]},"sdata":[]}

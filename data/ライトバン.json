@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ライトバン","p":true},{"r":"ライト・バン"}],"sense":[{"gloss":"light van","pos":["n"]}]},"sdata":[]}

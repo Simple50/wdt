@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遊覧","p":true}],"r_ele":[{"r":"ゆうらん","p":true}],"sense":[{"gloss":"sightseeing","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑遊覧↑↓|ゆうらん|↓↑船↑↓せん↓が↑出↑↓で↓てるらしいよ。","e":"It looks like there's a pleasure boat."}]}

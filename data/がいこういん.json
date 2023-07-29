@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外交員","p":true}],"r_ele":[{"r":"がいこういん","p":true}],"sense":[{"gloss":"canvasser, door-to-door salesman","pos":["n"]}]},"sdata":[]}

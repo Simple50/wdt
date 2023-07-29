@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ボギー","p":true}],"sense":[{"gloss":"bogey","pos":["n"],"f":["golf"]}]},"sdata":[]}

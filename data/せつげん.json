@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"節減","p":true}],"r_ele":[{"r":"せつげん","p":true}],"sense":[{"gloss":"retrenchment, curtailment, economy","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑彼↑↓かれ↓らは↑経費↑↓けいひ↓を↑節減↑↓|せつげん|↓するだろう。","e":"They will cut down on their expenses."},{"j":"スペイン↑語↑↓ご↓は↑開↑↓ひらけ↓↑音節↑↓おん|せつ↓↑言語↑↓げん|ご↓なんだ。","e":"Spanish is an open syllable language."}]}

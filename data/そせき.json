@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"礎石","p":true}],"r_ele":[{"r":"そせき","p":true}],"sense":[{"gloss":"foundation stone, cornerstone","pos":["n"]}]},"sdata":[]}

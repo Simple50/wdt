@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"著述","p":true}],"r_ele":[{"r":"ちょじゅつ","p":true}],"sense":[{"gloss":"writing, book, (literary) work","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑著述↑↓|ちょじゅつ|↓から↑収入↑↓しゅうにゅう↓を↑受↑↓う↓けている。","e":"He derives his income from writing books."},{"j":"↑彼↑↓かれ↓は↑著述↑↓|ちょじゅつ|↓に↑励↑↓はげ↓んでいた。","e":"He was closely occupied with his writing."}]}

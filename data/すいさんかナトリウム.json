@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水酸化ナトリウム","p":true}],"r_ele":[{"r":"すいさんかナトリウム","p":true}],"sense":[{"gloss":"sodium hydroxide","pos":["n"]}]},"sdata":[]}

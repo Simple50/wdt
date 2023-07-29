@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"両岸","p":true}],"r_ele":[{"r":"りょうがん","p":true},{"r":"りょうぎし"}],"sense":[{"gloss":"both banks (of a river)","pos":["n"]}]},"sdata":[]}

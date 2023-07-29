@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大本営","p":true}],"r_ele":[{"r":"だいほんえい","p":true}],"sense":[{"gloss":"Imperial General Headquarters (Japan)","pos":["n"]}]},"sdata":[]}

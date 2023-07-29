@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"神経学","p":true}],"r_ele":[{"r":"しんけいがく","p":true}],"sense":[{"gloss":"neurology","pos":["n"]}]},"sdata":[]}

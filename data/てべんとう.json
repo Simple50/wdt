@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"手弁当","p":true}],"r_ele":[{"r":"てべんとう","p":true}],"sense":[{"gloss":"preparing one's own lunch, bringing one's own lunch, paying for one's own lunch","pos":["n"]},{"gloss":"working without pay, volunteer work","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マンネリ","p":true}],"sense":[{"gloss":"becoming stereotyped, getting stuck in a rut, humdrum, mannerism (art, etc.)","pos":["n","adj-no"],"x":["マンネリズム"]}],"m":["abbr"]},"sdata":[{"j":"この↑番組↑↓ばんぐみ↓は|マンネリ|になっている。","e":"This program has become stereotyped."},{"j":"↑私↑↓わたし↓たちのオフィスには|マンネリ|の↑仕事↑↓しごと↓はほとんどない。","e":"There are few routines in our office."}]}

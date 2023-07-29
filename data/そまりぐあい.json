@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"染まり具合","p":true},{"e":"染まり工合","i":["iK"]}],"r_ele":[{"r":"そまりぐあい","p":true}],"sense":[{"gloss":"effect of dyeing","pos":["n"]}]},"sdata":[]}

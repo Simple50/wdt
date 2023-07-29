@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フェラチオ","p":true}],"sense":[{"gloss":"fellatio, blow job","pos":["n"]}]},"sdata":[]}

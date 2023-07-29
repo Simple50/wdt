@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不整脈","p":true}],"r_ele":[{"r":"ふせいみゃく","p":true}],"sense":[{"gloss":"irregular pulse, arrhythmia","pos":["n"],"f":["med"]}]},"sdata":[{"j":"↑不整脈↑↓|ふせいみゃく|↓があります。","e":"I have an irregular pulse."}]}

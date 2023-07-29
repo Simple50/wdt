@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"楕円形","p":true},{"e":"だ円形"}],"r_ele":[{"r":"だえんけい","p":true}],"sense":[{"gloss":"elliptical shape","pos":["n","adj-no"]}]},"sdata":[]}

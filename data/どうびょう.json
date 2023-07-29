@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"同病","p":true}],"r_ele":[{"r":"どうびょう","p":true}],"sense":[{"gloss":"the same sickness","pos":["n"]}]},"sdata":[{"j":"↑同病↑↓|どうびょう|↓↑相↑↓しょう↓↑憐↑↓あわ↓れむ。","e":"Misery loves company."}]}

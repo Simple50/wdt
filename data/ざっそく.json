@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雑則","p":true}],"r_ele":[{"r":"ざっそく","p":true}],"sense":[{"gloss":"miscellaneous rules, miscellaneous provisions","pos":["n"]}]},"sdata":[]}

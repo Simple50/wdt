@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"名馬","p":true}],"r_ele":[{"r":"めいば","p":true}],"sense":[{"gloss":"fine horse, famous horse","pos":["n"]}]},"sdata":[]}

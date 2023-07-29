@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"厳罰","p":true}],"r_ele":[{"r":"げんばつ","p":true}],"sense":[{"gloss":"severe punishment, rigorous measures","pos":["n"]}]},"sdata":[{"j":"あ、みんなには↑内緒↑↓ないしょ↓だよ？↑寮↑↓りょう↓を↑夜中↑↓よなか↓に↑抜↑↓ぬ↓け↑出↑↓だ↓すのは↑厳罰↑↓|げんばつ|↓だからね？","e":"Oh, that's a secret, OK? Because slipping out of the dorm in the night is severely punished."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"朝駆け","p":true}],"r_ele":[{"r":"あさがけ","p":true}],"sense":[{"gloss":"early-morning attack","pos":["n","vs"]}]},"sdata":[]}

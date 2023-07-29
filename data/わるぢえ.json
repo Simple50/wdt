@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪知恵","p":true}],"r_ele":[{"r":"わるぢえ","p":true},{"r":"わるじえ","i":["ik"]}],"sense":[{"gloss":"craft, cunning, guile, serpentine wisdom","pos":["n"]}]},"sdata":[]}

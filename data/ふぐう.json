@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不遇","p":true}],"r_ele":[{"r":"ふぐう","p":true}],"sense":[{"gloss":"misfortune, ill fate, bad luck, obscurity","pos":["n","adj-na"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はわが↑身↑↓み↓の↑不遇↑↓|ふぐう|↓にじっと↑耐↑↓た↓えねばならなかった。","e":"She had to smile at her misfortune."}]}

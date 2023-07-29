@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"散文詩","p":true}],"r_ele":[{"r":"さんぶんし","p":true}],"sense":[{"gloss":"prose poem","pos":["n"]}]},"sdata":[]}

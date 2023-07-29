@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"女帝","p":true}],"r_ele":[{"r":"じょてい","p":true},{"r":"にょてい"}],"sense":[{"gloss":"empress","pos":["n"]}]},"sdata":[{"j":"↑全員↑↓ぜんいん↓が↑無事↑↓ぶじ↓で↑救助↑↓きゅう|じょ↓↑艇↑↓てい|↓にいると↑聞↑↓き↓いて、↑私↑↓わたし↓は↑非常↑↓ひじょう↓にうれしい。","e":"I am only too glad to hear that all of them are safe and sound in the rescue boat."}]}

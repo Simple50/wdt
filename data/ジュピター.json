@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ジュピター","p":true},{"r":"ユピテル"}],"sense":[{"gloss":"Jupiter (Roman god)","pos":["n"],"x":["ゼウス"]},{"gloss":"Jupiter (planet)","pos":["n"],"f":["astron"],"x":["木星・もくせい"]},{"gloss":"Jupiter Symphony, Symphony No. 41 by Mozart","pos":["n"],"m":["abbr"]}]},"sdata":[{"j":"この↑社↑↓しゃ↓は|ジュピター|にささげられたものだ。","e":"This shrine is sacred to Jupiter."}]}

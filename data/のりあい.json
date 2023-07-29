@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乗合"},{"e":"乗り合い","p":true}],"r_ele":[{"r":"のりあい","p":true}],"sense":[{"gloss":"riding together, fellow passenger","pos":["n","adj-no"]},{"gloss":"joint partnership","pos":["n","adj-no"]}]},"sdata":[]}

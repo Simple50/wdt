@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事務当局","p":true}],"r_ele":[{"r":"じむとうきょく","p":true}],"sense":[{"gloss":"officials in charge","pos":["n"]}]},"sdata":[]}

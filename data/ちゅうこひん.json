@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"中古品","p":true}],"r_ele":[{"r":"ちゅうこひん","p":true}],"sense":[{"gloss":"secondhand article, secondhand goods, used item","pos":["n"]}]},"sdata":[]}

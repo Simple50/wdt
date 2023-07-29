@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い上がる","p":true},{"e":"思いあがる"}],"r_ele":[{"r":"おもいあがる","p":true}],"sense":[{"gloss":"to be conceited","pos":["v5r","vi"]}]},"sdata":[{"j":"あんまり↑思↑↓|おも↓い↑上↑↓あ↓がる|なよ。","e":"Don't blow your own horn too much."}]}

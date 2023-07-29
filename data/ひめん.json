@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"罷免","p":true}],"r_ele":[{"r":"ひめん","p":true}],"sense":[{"gloss":"dismissal (from a position), discharge","pos":["n","vs","vt"]}]},"sdata":[{"j":"このスキャンダルで↑一部↑↓いちぶ↓の↑高官↑↓こうかん↓が↑罷免↑↓|ひめん|↓される↑可能↑↓かのう↓↑性↑↓せい↓がある。","e":"The scandal could lead to the firing of some senior officials."}]}

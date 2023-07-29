@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンペラー","p":true}],"sense":[{"gloss":"emperor","pos":["n"]}]},"sdata":[]}

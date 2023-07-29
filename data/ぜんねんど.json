@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"前年度","p":true}],"r_ele":[{"r":"ぜんねんど","p":true}],"sense":[{"gloss":"preceding fiscal year","pos":["adv","n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口裏","p":true},{"e":"口占"},{"e":"口うら"}],"r_ele":[{"r":"くちうら","p":true}],"sense":[{"gloss":"determining a speaker's true or hidden meaning, determining a speaker's intentions from his manner of speech","pos":["n"]},{"gloss":"divining good or bad luck from listening to someone","pos":["n"],"m":["arch"]}]},"sdata":[]}

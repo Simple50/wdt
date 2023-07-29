@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ナイキハーキュリーズ","p":true},{"r":"ナイキ・ハーキュリーズ"}],"sense":[{"gloss":"Nike Hercules (missile)","pos":["n"]}]},"sdata":[]}

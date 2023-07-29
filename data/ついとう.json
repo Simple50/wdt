@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"追悼","p":true}],"r_ele":[{"r":"ついとう","p":true}],"sense":[{"gloss":"mourning","pos":["n","vs","vt"]}]},"sdata":[]}

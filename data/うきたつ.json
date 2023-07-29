@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浮き立つ","p":true}],"r_ele":[{"r":"うきたつ","p":true}],"sense":[{"gloss":"to be enlivened, to be exhilarated, to be excited, to be cheered up, to be in high spirits","pos":["v5t","vi"]},{"gloss":"to stand out, to contrast","pos":["v5t","vi"]}]},"sdata":[]}

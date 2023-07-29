@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"終着駅","p":true}],"r_ele":[{"r":"しゅうちゃくえき","p":true}],"sense":[{"gloss":"terminal station","pos":["n"]}]},"sdata":[]}

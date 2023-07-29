@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"執行猶予","p":true}],"r_ele":[{"r":"しっこうゆうよ","p":true}],"sense":[{"gloss":"stay of execution, suspended sentence","pos":["n"]}],"m":["yoji"]},"sdata":[]}

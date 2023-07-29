@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ルーチン","p":true},{"r":"ルーティン","p":true},{"r":"ルーティーン"}],"sense":[{"gloss":"routine","pos":["n","adj-no"]}]},"sdata":[]}

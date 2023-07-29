@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"局長","p":true}],"r_ele":[{"r":"きょくちょう","p":true}],"sense":[{"gloss":"bureau director, office chief","pos":["n"]}]},"sdata":[{"j":"↑局長↑↓|きょくちょう|↓は、↑現地↑↓げんち↓の↑朝日↑↓あさひ↓の↑記者↑↓きしゃ↓を↑現場↑↓げんば↓に↑行↑↓い↓かせようとしていた。","e":"The director wanted the local Asahi reporter to go to the scene of the crime."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"目抜き","p":true}],"r_ele":[{"r":"めぬき","p":true}],"sense":[{"gloss":"principal, main, important, fashionable","pos":["n","adj-no"]}]},"sdata":[]}

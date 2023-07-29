@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生き別れ","p":true}],"r_ele":[{"r":"いきわかれ","p":true}],"sense":[{"gloss":"lifelong separation","pos":["n"]}]},"sdata":[]}

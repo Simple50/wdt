@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"遊興","p":true}],"r_ele":[{"r":"ゆうきょう","p":true}],"sense":[{"gloss":"merrymaking (esp. wine and women), pleasures","pos":["n","vs"]}]},"sdata":[]}

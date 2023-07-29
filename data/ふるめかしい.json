@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"古めかしい","p":true}],"r_ele":[{"r":"ふるめかしい","p":true}],"sense":[{"gloss":"old-fashioned, ancient-looking, time-worn","pos":["adj-i"]}]},"sdata":[]}

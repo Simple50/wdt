@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"第三者","p":true}],"r_ele":[{"r":"だいさんしゃ","p":true}],"sense":[{"gloss":"third party, third person, outsider, disinterested person","pos":["n"]}]},"sdata":[{"j":"↑第三者↑↓|だいさんしゃ|↓が↑解読↑↓かいどく↓を↑試↑↓こころ↓みても、この↑暗号↑↓あんごう↓を↑解読↑↓かいどく↓することはできない。","e":"A potential third party would not be able to crack the code."}]}

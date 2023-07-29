@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大奥","p":true}],"r_ele":[{"r":"おおおく","p":true}],"sense":[{"gloss":"inner palace (in Edo Castle), palace's ladies chambers, shogun's harem","pos":["n"],"x":["江戸城"]}]},"sdata":[]}

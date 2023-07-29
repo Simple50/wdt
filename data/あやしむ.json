@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"怪しむ","p":true}],"r_ele":[{"r":"あやしむ","p":true}],"sense":[{"gloss":"to suspect","pos":["v5m","vt"]}]},"sdata":[]}

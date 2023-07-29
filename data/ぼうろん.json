@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"暴論","p":true}],"r_ele":[{"r":"ぼうろん","p":true}],"sense":[{"gloss":"irrational (line of) argument","pos":["n"]}]},"sdata":[]}

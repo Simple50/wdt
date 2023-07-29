@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"カードゲーム","p":true},{"r":"カード・ゲーム"}],"sense":[{"gloss":"card game","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は|カードゲーム|がしたい。","e":"I want to play cards."}]}

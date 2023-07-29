@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熟慮","p":true}],"r_ele":[{"r":"じゅくりょ","p":true}],"sense":[{"gloss":"deliberation, (thoughtful) consideration","pos":["n"]},{"gloss":"to consider a matter carefully","pos":["vs"]}]},"sdata":[{"j":"↑決↑↓き↓まり↑文句↑↓もんく↓は↑便利↑↓べんり↓だ、↑熟慮↑↓|じゅくりょ|↓の↑必要↑↓ひつよう↓がないのだから。","e":"A formula is very convenient, because you need not think about it."}]}

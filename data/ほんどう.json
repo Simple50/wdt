@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"本堂","p":true}],"r_ele":[{"r":"ほんどう","p":true}],"sense":[{"gloss":"main temple building, nave","pos":["n"]}]},"sdata":[{"j":"「これは・・・」「↑軍手↑↓ぐんて↓とスコップ。↑園芸↑↓えんげい↓↑部↑↓ぶ↓↑基本↑↓き|ほん↓↑道具↑↓どう|ぐ↓のひとつだよ」","e":"This is ... \"Working glove and trowel. One of a gardening club's basic tools\""}]}

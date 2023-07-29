@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ヌーベル","p":true},{"r":"ヌーヴェル"}],"sense":[{"gloss":"mid-length novel","pos":["n"],"l":"fre: nouvelle"},{"gloss":"new","pos":["adj-f"]}]},"sdata":[]}

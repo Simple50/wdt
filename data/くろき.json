@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"黒木","p":true}],"r_ele":[{"r":"くろき","p":true}],"sense":[{"gloss":"unbarked lumber","pos":["n"]}]},"sdata":[]}

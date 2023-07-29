@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラジウム","p":true}],"sense":[{"gloss":"radium (Ra)","pos":["n"]}]},"sdata":[{"j":"|ラジウム|を↑発見↑↓はっけん↓したのはマリー・キュリーであった。","e":"It was Marie Curie who discovered radium."},{"j":"↑誰↑↓だれ↓が|ラジウム|を↑発見↑↓はっけん↓したのですか。","e":"Who discovered radium?"},{"j":"↑誰↑↓だれ↓によって|ラジウム|は↑発見↑↓はっけん↓されましたか。","e":"Who was radium discovered by?"}]}

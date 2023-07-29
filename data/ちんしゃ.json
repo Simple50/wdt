@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"陳謝","p":true}],"r_ele":[{"r":"ちんしゃ","p":true}],"sense":[{"gloss":"apology","pos":["n","vs","vt"]}]},"sdata":[]}

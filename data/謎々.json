@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"謎々","p":true},{"e":"謎謎"}],"r_ele":[{"r":"なぞなぞ","p":true}],"sense":[{"gloss":"riddle, puzzle, enigma","pos":["n"]}],"m":["uk"]},"kdata":{"謎":{"on":["メイ","ベイ"],"kun":["なぞ"],"meanings":["riddle","puzzle","enigma","hint","tip"],"freq":2021,"comp":[["言","迷"]],"jlpt":1,"t":2214}},"sdata":[]}

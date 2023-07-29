@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"図録","p":true}],"r_ele":[{"r":"ずろく","p":true}],"sense":[{"gloss":"illustrated book, picture book","pos":["n"]}]},"sdata":[]}

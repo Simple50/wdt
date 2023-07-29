@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合同","p":true}],"r_ele":[{"r":"ごうどう","p":true}],"sense":[{"gloss":"combination, union, incorporation, amalgamation, fusion","pos":["n","vs","vt","vi","adj-no","adj-na"]},{"gloss":"congruence","pos":["n","adj-no","adj-na"],"f":["math"]}]},"sdata":[]}

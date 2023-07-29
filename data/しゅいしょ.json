@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"趣意書","p":true}],"r_ele":[{"r":"しゅいしょ","p":true}],"sense":[{"gloss":"prospectus","pos":["n"]}]},"sdata":[]}

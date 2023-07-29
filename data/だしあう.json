@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"出し合う","p":true}],"r_ele":[{"r":"だしあう","p":true}],"sense":[{"gloss":"to contribute jointly","pos":["v5u","vt"]}]},"sdata":[]}

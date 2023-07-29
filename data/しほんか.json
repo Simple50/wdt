@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"資本家","p":true}],"r_ele":[{"r":"しほんか","p":true}],"sense":[{"gloss":"capitalist, financier","pos":["n"]}]},"sdata":[{"j":"↑外国↑↓がいこく↓↑資本↑↓|しほん↓↑家↑↓か|↓は↑現地↑↓げんち↓の↑政情↑↓せいじょう↓↑不安↑↓ふあん↓が↑理由↑↓りゆう↓で↑手↑↓て↓を↑引↑↓ひ↓きました。","e":"Foreign investors backed off because of regional political unrest."}]}

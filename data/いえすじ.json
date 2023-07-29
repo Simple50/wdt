@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"家筋","p":true}],"r_ele":[{"r":"いえすじ","p":true}],"sense":[{"gloss":"lineage, pedigree, family line","pos":["n"]}]},"sdata":[]}

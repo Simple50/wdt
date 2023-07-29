@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脊髄","p":true}],"r_ele":[{"r":"せきずい","p":true}],"sense":[{"gloss":"spinal cord","pos":["n","adj-no"]}]},"sdata":[]}

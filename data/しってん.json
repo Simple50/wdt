@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"失点","p":true}],"r_ele":[{"r":"しってん","p":true}],"sense":[{"gloss":"lost point (in a game), point given away, conceded goal","pos":["n"],"ant":["得点"]},{"gloss":"run charged to the pitcher","pos":["n"],"f":["baseb"]},{"gloss":"blunder, mistake, error","pos":["n"]}]},"sdata":[]}

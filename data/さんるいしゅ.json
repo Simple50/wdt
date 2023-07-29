@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"三塁手","p":true}],"r_ele":[{"r":"さんるいしゅ","p":true}],"sense":[{"gloss":"third baseman","pos":["n"],"f":["baseb"]}]},"sdata":[]}

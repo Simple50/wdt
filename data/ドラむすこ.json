@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ドラ息子","p":true},{"e":"どら息子"}],"r_ele":[{"r":"ドラむすこ","p":true},{"r":"どらむすこ"}],"sense":[{"gloss":"lazy son, profligate son","pos":["n"]}]},"sdata":[]}

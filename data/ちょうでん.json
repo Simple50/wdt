@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"弔電","p":true}],"r_ele":[{"r":"ちょうでん","p":true}],"sense":[{"gloss":"telegram of condolence","pos":["n"]}]},"sdata":[]}

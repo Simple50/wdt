@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"通院","p":true}],"r_ele":[{"r":"つういん","p":true}],"sense":[{"gloss":"going to the hospital for regular treatment, going to the hospital regularly","pos":["n","vs","vi"]}]},"sdata":[{"j":"しばらくあなたは↑通院↑↓|つういん|↓する↑必要↑↓ひつよう↓があります。","e":"You'll have to visit me regularly for a while."}]}

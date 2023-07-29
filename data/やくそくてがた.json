@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"約束手形","p":true}],"r_ele":[{"r":"やくそくてがた","p":true}],"sense":[{"gloss":"promissory note","pos":["n"]}]},"sdata":[]}

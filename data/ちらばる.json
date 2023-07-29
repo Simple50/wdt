@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"散らばる","p":true}],"r_ele":[{"r":"ちらばる","p":true}],"sense":[{"gloss":"to be scattered about, to disperse, to be littered (with)","pos":["v5r","vi"]}]},"sdata":[]}

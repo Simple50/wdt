@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"税額","p":true}],"r_ele":[{"r":"ぜいがく","p":true}],"sense":[{"gloss":"amount of tax","pos":["n"]}]},"sdata":[]}

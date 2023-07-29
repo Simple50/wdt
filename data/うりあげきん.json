@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売上金","p":true},{"e":"売り上げ金"}],"r_ele":[{"r":"うりあげきん","p":true}],"sense":[{"gloss":"proceeds (from a sale), takings","pos":["n"]}]},"sdata":[]}

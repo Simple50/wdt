@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メーンバンク","p":true},{"r":"メインバンク"},{"r":"メーン・バンク"},{"r":"メイン・バンク"}],"sense":[{"gloss":"(company's) main financing bank, principal bank","pos":["n"],"f":["finc"],"l":"eng: main bank"}]},"sdata":[]}

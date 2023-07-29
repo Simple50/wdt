@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オペレッタ","p":true}],"sense":[{"gloss":"operetta","pos":["n"],"f":["music"],"l":"ita"}]},"sdata":[{"j":"だからぁ、ミュージカルじゃなくて|オペレッタ|なの！","e":"Again, it's not a musical, it's an operetta!"}]}

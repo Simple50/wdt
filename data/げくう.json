@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"外宮","p":true}],"r_ele":[{"r":"げくう","p":true},{"r":"げぐう"}],"sense":[{"gloss":"outer shrine of the Ise Grand Shrine","pos":["n"],"x":["豊受大神宮"]}]},"sdata":[]}

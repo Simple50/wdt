@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪賢い","p":true},{"e":"悪がしこい"}],"r_ele":[{"r":"わるがしこい","p":true}],"sense":[{"gloss":"cunning, crafty, wily, sly","pos":["adj-i"]}]},"sdata":[{"j":"あの↑政治↑↓せいじ↓↑家↑↓か↓は↑悪賢↑↓|わるがしこ↓い|。","e":"That politician is an old fox."}]}

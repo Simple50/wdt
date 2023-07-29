@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"介添え","p":true},{"e":"介添","i":["io"]},{"e":"介副","i":["oK"]}],"r_ele":[{"r":"かいぞえ","p":true}],"sense":[{"gloss":"helper, assistant, second","pos":["n","vs","vi"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大集合","p":true}],"r_ele":[{"r":"だいしゅうごう","p":true}],"sense":[{"gloss":"great gathering","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"飼料","p":true}],"r_ele":[{"r":"しりょう","p":true}],"sense":[{"gloss":"fodder, feed","pos":["n"]}]},"kdata":{"飼":{"on":["シ"],"kun":["か.う"],"jlpt":1,"meanings":["domesticate","raise","keep","feed"],"freq":1392,"comp":[["飠","司"]],"t":1821},"料":{"on":["リョウ"],"jlpt":4,"meanings":["fee","materials"],"freq":295,"comp":[["米","斗"]],"s":"科","t":1083}},"sdata":[]}

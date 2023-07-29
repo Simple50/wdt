@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リバイバル","p":true}],"sense":[{"gloss":"revival","pos":["n","vs","vi"]}]},"sdata":[]}

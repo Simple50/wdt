@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アセス","p":true}],"sense":[{"gloss":"assessment","pos":["n"],"x":["アセスメント"]}],"m":["abbr"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モサド","p":true}],"sense":[{"gloss":"Mossad (Israeli secret service)","pos":["n"]}]},"sdata":[]}

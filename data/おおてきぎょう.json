@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大手企業","p":true}],"r_ele":[{"r":"おおてきぎょう","p":true}],"sense":[{"gloss":"big corporation, major firm, leading company","pos":["n"]}]},"sdata":[]}

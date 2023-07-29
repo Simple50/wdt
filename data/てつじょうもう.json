@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄条網","p":true}],"r_ele":[{"r":"てつじょうもう","p":true}],"sense":[{"gloss":"(barbed) wire entanglements","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"そんなこんな","p":true}],"sense":[{"gloss":"this and that, various things","pos":["exp"]}]},"sdata":[]}

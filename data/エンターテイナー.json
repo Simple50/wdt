@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンターテイナー","p":true}],"sense":[{"gloss":"entertainer","pos":["n"]}]},"sdata":[{"j":"ショーに↑来↑↓く↓る↑人々↑↓ひとびと↓を↑楽↑↓たの↓しませるのが|エンターテイナー|だ。","e":"The man whose work it is to amuse people who attend a show is an entertainer."}]}

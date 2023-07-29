@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゆうパック","p":true}],"sense":[{"gloss":"Yu-Pack, domestic parcel delivery service by Japan Post","pos":["n"],"f":["tradem"]}]},"sdata":[]}

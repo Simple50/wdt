@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テーピング","p":true}],"sense":[{"gloss":"taping (e.g. an injured joint)","pos":["n","vs"]}]},"sdata":[{"j":"↑赤木↑↓あかぎ↓キャプテンは↑練習↑↓れんしゅう↓↑中↑↓ちゅう↓に↑足↑↓あし↓を↑捻挫↑↓ねんざ↓したので、↑試合↑↓しあい↓↑前↑↓まえ↓に|テーピング|でガチガチに↑固↑↓かた↓めた。","e":"Akagi sprained an ankle during practice so before the game he taped it up until it was stiff as a board."}]}

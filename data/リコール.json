@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リコール","p":true}],"sense":[{"gloss":"recall","pos":["n","vs","vt"]}]},"sdata":[]}

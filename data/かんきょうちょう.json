@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"環境庁","p":true}],"r_ele":[{"r":"かんきょうちょう","p":true}],"sense":[{"gloss":"Environment Agency","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓の↑公式↑↓こうしき↓の↑肩書↑↓かたが↓きは↑環境庁↑↓|かんきょうちょう|↓↑長官↑↓ちょうかん↓です。","e":"His official title is Director-General of the Environment Agency."}]}

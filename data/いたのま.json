@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"板の間","p":true}],"r_ele":[{"r":"いたのま","p":true}],"sense":[{"gloss":"wooden floor, room with a wooden floor","pos":["exp","n"]},{"gloss":"changing room (at a public bath)","pos":["exp","n"]}]},"sdata":[]}

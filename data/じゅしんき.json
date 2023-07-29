@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受信機","p":true},{"e":"受信器"}],"r_ele":[{"r":"じゅしんき","p":true}],"sense":[{"gloss":"(television, radio, etc.) receiver","pos":["n"]}]},"sdata":[]}

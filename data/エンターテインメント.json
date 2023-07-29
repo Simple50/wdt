@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エンターテインメント","p":true},{"r":"エンタテイメント","p":true},{"r":"エンターテイメント"},{"r":"エンタテインメント"}],"sense":[{"gloss":"entertainment","pos":["n"]}]},"sdata":[{"j":"|エンターテインメント|は、↑日本↑↓にほん↓でもやっぱり↑若者↑↓わかもの↓に↑人気↑↓にんき↓がある。","e":"Entertainment is still popular with young people in Japan."}]}

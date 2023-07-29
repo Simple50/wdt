@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"産品","p":true}],"r_ele":[{"r":"さんぴん","p":true}],"sense":[{"gloss":"products","pos":["n"]}]},"sdata":[{"j":"↑日本↑↓にっぽん↓の↑競争↑↓きょうそう↓↑力↑↓りょく↓は↑工業↑↓こうぎょう↓↑製品↑↓せいひん↓では↑非常↑↓ひじょう↓に↑強↑↓つよ↓いが、↑農業↑↓のうぎょう↓↑産品↑↓|さんぴん|↓では↑弱↑↓よわ↓い。","e":"Japan's competitiveness is very strong in industrial products, but weak in agricultural products."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薄口","p":true},{"e":"うす口"},{"e":"淡口"}],"r_ele":[{"r":"うすくち","p":true}],"sense":[{"gloss":"light (flavor), lightly-seasoned","pos":["adj-no","n"]},{"gloss":"thin (porcelain, paper, etc.), thinly made, fine, delicate","pos":["adj-no","n"]},{"gloss":"thin soy sauce, light soy sauce","pos":["n"],"m":["abbr"],"x":["薄口醤油"]}]},"sdata":[]}

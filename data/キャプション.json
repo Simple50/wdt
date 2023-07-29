@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャプション","p":true}],"sense":[{"gloss":"caption, headline, legend, cutline","pos":["n"]},{"gloss":"subtitles (on a film or TV show)","pos":["n"]}]},"sdata":[]}

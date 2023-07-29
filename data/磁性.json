@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"磁性","p":true}],"r_ele":[{"r":"じせい","p":true}],"sense":[{"gloss":"magnetism","pos":["n"]}]},"kdata":{"磁":{"on":["ジ"],"jlpt":1,"meanings":["magnet","porcelain"],"freq":1686,"comp":[["兹","石"]],"t":1898},"性":{"on":["セイ","ショウ"],"kun":["さが"],"jlpt":3,"meanings":["sex","gender","nature"],"freq":104,"comp":[["忄","生"]],"t":669}},"sdata":[]}

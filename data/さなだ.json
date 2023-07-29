@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"真田","p":true}],"r_ele":[{"r":"さなだ","p":true}],"sense":[{"gloss":"plait, braid","pos":["n"]}]},"sdata":[{"j":"「↑亜↑↓あ↓↑佐美↑↓さび↓↑先輩↑↓せんぱい↓が、ヒロシくんが↑真田↑↓|さなだ|↓↑先輩↑↓せんぱい↓とキスした～って↑泣↑↓な↓き↑喚↑↓わめ↓いていたので」「な、↑泣↑↓な↓き↑喚↑↓わめ↓いてないよ～」","e":"Asami was bawling that you had kissed Sanada so \"I didn't bawl!\""}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"特捜","p":true}],"r_ele":[{"r":"とくそう","p":true}],"sense":[{"gloss":"special investigation","pos":["n"]}]},"kdata":{"特":{"on":["トク"],"jlpt":4,"meanings":["special"],"freq":234,"comp":[["寺","牛"]],"t":1117},"捜":{"on":["ソウ","シュ","シュウ"],"kun":["さが.す"],"jlpt":2,"meanings":["search","look for","locate"],"freq":592,"comp":[["扌","申","又"]],"t":1081}},"sdata":[]}

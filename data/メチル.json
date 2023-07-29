@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"メチル","p":true},{"r":"メチール","p":true}],"sense":[{"gloss":"methyl-","pos":["n"],"l":"ger"}]},"sdata":[]}

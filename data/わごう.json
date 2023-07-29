@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"和合","p":true}],"r_ele":[{"r":"わごう","p":true}],"sense":[{"gloss":"harmony, concord, agreement, unity, union","pos":["n","vs","vi"]}]},"sdata":[]}

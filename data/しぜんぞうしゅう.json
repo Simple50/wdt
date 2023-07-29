@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"自然増収","p":true}],"r_ele":[{"r":"しぜんぞうしゅう","p":true}],"sense":[{"gloss":"natural or automatic increase in revenue","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"水生植物","p":true}],"r_ele":[{"r":"すいせいしょくぶつ","p":true}],"sense":[{"gloss":"aquatic plant","pos":["n"]}]},"sdata":[{"j":"↑蓮↑↓はす↓は、↑水生↑↓|すいせい↓↑植物↑↓しょくぶつ|↓でとても↑大↑↓おお↓きな↑葉↑↓は↓と↑花↑↓はな↓をつけます。","e":"The lotus is an aquatic plant with very large leaves and flowers."}]}

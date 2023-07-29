@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"柴犬","p":true},{"e":"しば犬"}],"r_ele":[{"r":"しばいぬ","p":true},{"r":"しばけん"}],"sense":[{"gloss":"shiba inu (dog breed), shiba, brushwood dog","pos":["n"]}]},"sdata":[]}

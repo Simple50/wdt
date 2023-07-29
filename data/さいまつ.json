@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歳末","p":true}],"r_ele":[{"r":"さいまつ","p":true}],"sense":[{"gloss":"year end","pos":["n"]}]},"sdata":[]}

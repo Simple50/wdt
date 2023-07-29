@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノンバンク","p":true}],"sense":[{"gloss":"nonbank banking","pos":["n"]}]},"sdata":[]}

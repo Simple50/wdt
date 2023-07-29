@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アチーブ","p":true},{"r":"アチーヴ","i":["ik"]}],"sense":[{"gloss":"achieve","pos":["n"]},{"gloss":"achievement test","pos":["n"],"m":["abbr"],"x":["アチーブメントテスト"]}]},"sdata":[]}

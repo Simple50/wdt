@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"消え去る","p":true}],"r_ele":[{"r":"きえさる","p":true}],"sense":[{"gloss":"to disappear, to vanish","pos":["v5r"]}]},"sdata":[{"j":"↑人生↑↓じんせい↓はあきらめが↑肝心↑↓かんじん↓。↑設↑↓もう↓けた↑財産↑↓ざいさん↓も↑消↑↓|き↓えさる|ことがありうるのだから。","e":"We should try to be philosophical about life; wealth gained could also vanish."}]}

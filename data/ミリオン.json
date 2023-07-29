@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミリオン","p":true}],"sense":[{"gloss":"million","pos":["n"]},{"gloss":"million seller","pos":["n"],"m":["abbr"],"x":["ミリオンセラー"]}]},"sdata":[]}

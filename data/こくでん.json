@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国電","p":true}],"r_ele":[{"r":"こくでん","p":true}],"sense":[{"gloss":"city electric train service operated by (former) Japanese National Railways","pos":["n"]}]},"sdata":[]}

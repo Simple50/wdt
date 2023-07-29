@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鉄腕","p":true}],"r_ele":[{"r":"てつわん","p":true}],"sense":[{"gloss":"strong arm","pos":["n"]}]},"sdata":[{"j":"↑鉄腕↑↓|てつわん|↓アトムが↑国↑↓くに↓を↑危険↑↓きけん↓から↑守↑↓まも↓った。","e":"Astro Boy protected the country from danger."},{"j":"↑鉄腕↑↓|てつわん|↓アトムが↑国↑↓くに↓を↑危険↑↓きけん↓から↑守↑↓まも↓った。","e":"Iron Arm Atom protected the country from danger."}]}

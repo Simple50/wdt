@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生業","p":true}],"r_ele":[{"r":"なりわい","p":true},{"r":"せいぎょう"},{"r":"すぎわい","i":["ok"]},{"r":"すぎあい","i":["ok"]}],"sense":[{"gloss":"occupation, calling","pos":["n"]},{"gloss":"livelihood","pos":["n"]}]},"sdata":[{"j":"↑庶民↑↓しょみん↓の|なりわい|は、↑米↑↓べい↓をつくることだった。","e":"The ordinary people had their livelihood in farming rice."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夜回り","p":true}],"r_ele":[{"r":"よまわり","p":true}],"sense":[{"gloss":"night watch, night watchman","pos":["n","vs","vi"]}]},"sdata":[]}

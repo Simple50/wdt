@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"売り方","p":true},{"e":"売方"}],"r_ele":[{"r":"うりかた","p":true}],"sense":[{"gloss":"seller, selling side","pos":["n"],"x":["買い方・1"]},{"gloss":"method of selling, art of selling","pos":["n"],"x":["買い方・2"]}]},"sdata":[]}

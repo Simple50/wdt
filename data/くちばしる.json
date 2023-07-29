@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"口走る","p":true}],"r_ele":[{"r":"くちばしる","p":true}],"sense":[{"gloss":"to blurt out, to let slip, to say inadvertently, to come out with (e.g. nonsense)","pos":["v5r","vt"]}]},"sdata":[]}

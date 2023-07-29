@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"に依ると","p":true}],"r_ele":[{"r":"によると","p":true}],"sense":[{"gloss":"according to (someone)","pos":["exp"],"x":["に拠れば"]}],"m":["uk"]},"kdata":{"依":{"on":["イ","エ"],"kun":["よ.る"],"jlpt":2,"meanings":["reliant","depend on","consequently","therefore","due to"],"freq":906,"comp":[["亻","衣"]],"t":601}},"sdata":[]}

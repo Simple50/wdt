@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"産別","p":true}],"r_ele":[{"r":"さんべつ","p":true}],"sense":[{"gloss":"industrial union","pos":["n"],"x":["産業別組合"]}],"m":["abbr"]},"sdata":[]}

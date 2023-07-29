@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"刺さる","p":true}],"r_ele":[{"r":"ささる","p":true}],"sense":[{"gloss":"to stick into (of something with a sharp point), to prick, to pierce, to get stuck (in), to lodge (in)","pos":["v5r","vi"]},{"gloss":"to resonate emotionally, to move","pos":["v5r","vi"]}]},"sdata":[]}

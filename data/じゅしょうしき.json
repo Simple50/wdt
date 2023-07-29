@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"授賞式","p":true},{"e":"受賞式","i":["iK"]}],"r_ele":[{"r":"じゅしょうしき","p":true}],"sense":[{"gloss":"award ceremony","pos":["n"]}]},"sdata":[{"j":"アカデミー↑授賞↑↓|じゅしょう↓↑式↑↓しき|↓は、ハリウッド↑最大↑↓さいだい↓の↑華↑↓はな↓やかな↑催↑↓もよお↓しだ。","e":"The Oscar ceremonies are Hollywood's biggest extravaganza."}]}

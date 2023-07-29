@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引き抜く","p":true},{"e":"引抜く","p":true},{"e":"引きぬく"}],"r_ele":[{"r":"ひきぬく","p":true}],"sense":[{"gloss":"to extract, to pull out, to draw out, to uproot","pos":["v5k","vt"]},{"gloss":"to headhunt, to lure away, to poach, to entice","pos":["v5k","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ブザー","p":true}],"sense":[{"gloss":"buzzer, personal alarm (loud buzzer to attract attention in case of attack)","pos":["n"]}]},"sdata":[{"j":"|ブザー|を↑押↑↓お↓して↑下↑↓くだ↓さい。","e":"Please push the buzzer."},{"j":"|ブザー|がなった。","e":"The buzzer sounded."},{"j":"↑社長↑↓しゃちょう↓は|ブザー|で↑秘書↑↓ひしょ↓を↑呼↑↓よ↓んだ。","e":"The boss buzzed his secretary."}]}

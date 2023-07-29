@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"例会","p":true}],"r_ele":[{"r":"れいかい","p":true}],"sense":[{"gloss":"regular meeting","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちのクラブは↑次↑↓つぎ↓の↑水曜日↑↓すいようび↓に↑月例↑↓げつ|れい↓↑会↑↓かい|↓を↑開↑↓ひら↓きます。","e":"Our club will hold its monthly meeting next Wednesday."}]}

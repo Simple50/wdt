@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"唐揚げ","p":true},{"e":"から揚げ"},{"e":"唐揚"},{"e":"空揚げ"},{"e":"カラ揚げ"},{"e":"空揚"}],"r_ele":[{"r":"からあげ","p":true},{"r":"カラあげ"},{"r":"カラアゲ"}],"sense":[{"gloss":"deep-fried food (esp. chicken)","pos":["n","vs"],"f":["food"]}]},"sdata":[]}

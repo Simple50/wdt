@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"望月","p":true}],"r_ele":[{"r":"もちづき","p":true},{"r":"ぼうげつ"}],"sense":[{"gloss":"full moon, moon on the 15th day of the month (by the lunar calendar)","pos":["n"]},{"gloss":"full moon of the eighth lunar month","pos":["n"]}]},"sdata":[]}

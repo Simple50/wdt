@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"据え置き","p":true},{"e":"据置き"}],"r_ele":[{"r":"すえおき","p":true}],"sense":[{"gloss":"deferment (e.g. of savings), leaving (a thing) as it stands","pos":["n"]},{"gloss":"unredeemed, unredeemable, irredeemable, deferred, stationary","pos":["adj-no"]}]},"sdata":[]}

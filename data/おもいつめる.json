@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"思い詰める","p":true},{"e":"思いつめる"}],"r_ele":[{"r":"おもいつめる","p":true}],"sense":[{"gloss":"to think hard, to brood over, to worry too much (about), to torment oneself (with the thought of)","pos":["v1","vt"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"室内楽","p":true}],"r_ele":[{"r":"しつないがく","p":true}],"sense":[{"gloss":"chamber music","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"相互作用","p":true}],"r_ele":[{"r":"そうごさよう","p":true}],"sense":[{"gloss":"interaction","pos":["n"]}]},"sdata":[{"j":"そこで↑他人↑↓たにん↓との↑相互↑↓|そうご↓↑作用↑↓さよう|↓が↑大切↑↓たいせつ↓になる。","e":"Then interaction with others becomes important."}]}

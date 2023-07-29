@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"西洋式","p":true}],"r_ele":[{"r":"せいようしき","p":true}],"sense":[{"gloss":"western style or fashion","pos":["n"]}]},"sdata":[]}

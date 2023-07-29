@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"滝口","p":true}],"r_ele":[{"r":"たきぐち","p":true}],"sense":[{"gloss":"top of a waterfall","pos":["n"]}]},"sdata":[]}

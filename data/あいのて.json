@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"合いの手","p":true},{"e":"合の手"},{"e":"間の手"},{"e":"相の手"},{"e":"あいの手"}],"r_ele":[{"r":"あいのて","p":true}],"sense":[{"gloss":"interlude (in traditional Japanese music)","pos":["n"]},{"gloss":"chanting or clapping along (during a song or dance)","pos":["n"]},{"gloss":"interjection","pos":["n"]}]},"sdata":[]}

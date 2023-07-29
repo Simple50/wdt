@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寂然","p":true}],"r_ele":[{"r":"せきぜん","p":true},{"r":"じゃくねん"}],"sense":[{"gloss":"lonely, desolate","pos":["n","adj-t","adv-to"]},{"gloss":"forlornness, desolation","pos":["n","adj-t","adv-to"]}]},"sdata":[]}

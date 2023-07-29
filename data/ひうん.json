@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悲運","p":true}],"r_ele":[{"r":"ひうん","p":true}],"sense":[{"gloss":"sad fate, tragic doom, ill fate","pos":["n"]}]},"sdata":[]}

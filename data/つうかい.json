@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"痛快","p":true}],"r_ele":[{"r":"つうかい","p":true}],"sense":[{"gloss":"exhilarating, thrilling, intensely pleasurable","pos":["adj-na","n"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑寝↑↓ね↓る↑前↑↓まえ↓に↑手紙↑↓てがみ↓を↑５↑↓ご↓↑通↑↓|つう↓↑書↑↓か↓い|た。","e":"I wrote five letters before I went to bed."},{"j":"↑彼↑↓かれ↓は↑私↑↓わたし↓に↑手紙↑↓てがみ↓を４↑通↑↓|つう↓↑書↑↓か↓い|た。","e":"He wrote me four letters."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"経験者","p":true}],"r_ele":[{"r":"けいけんしゃ","p":true}],"sense":[{"gloss":"experienced person, person who has had a particular experience","pos":["n"]}]},"sdata":[{"j":"↑現在↑↓げんざい↓↑私↑↓わたし↓どもは、カスタマーサービスの↑経験↑↓|けいけん↓↑者↑↓しゃ|↓を↑探↑↓さが↓しています。","e":"We are currently looking for individuals who have experience in customer service."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"極刑","p":true}],"r_ele":[{"r":"きょっけい","p":true}],"sense":[{"gloss":"capital punishment, death penalty, maximum penalty, ultimate punishment","pos":["n"]}]},"sdata":[]}

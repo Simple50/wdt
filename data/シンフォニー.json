@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シンフォニー","p":true}],"sense":[{"gloss":"symphony","pos":["n"],"f":["music"]}]},"sdata":[{"j":"↑彼↑↓かれ↓のすぐれた|シンフォニー|が↑演奏↑↓えんそう↓された。","e":"His great symphony was performed."}]}

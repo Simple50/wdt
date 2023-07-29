@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寄生虫","p":true}],"r_ele":[{"r":"きせいちゅう","p":true}],"sense":[{"gloss":"parasite","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑休暇↑↓きゅうか↓で↑帰省↑↓|きせい↓↑中↑↓ちゅう|↓です。","e":"He is home on leave."}]}

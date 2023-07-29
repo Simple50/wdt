@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ラジカセ","p":true}],"sense":[{"gloss":"radio-cassette player","pos":["n"],"x":["ラジオカセット"]}],"m":["abbr"]},"sdata":[{"j":"↑確↑↓たし↓かに↑今↑↓いま↓の↑日本↑↓にっぽん↓では、「|ラジカセ|」はもう↑古↑↓ふる↓い↑言葉↑↓ことば↓なのかもしれない。","e":"The word \"raji-kase\", meaning radio cassette in Japan, is probably more of an antiquated term by now."}]}

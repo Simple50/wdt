@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビッグイベント","p":true},{"r":"ビッグ・イベント"}],"sense":[{"gloss":"big event","pos":["n"]}]},"sdata":[]}

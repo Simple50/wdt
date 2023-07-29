@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リリーフ","p":true},{"r":"レリーフ","p":true}],"sense":[{"gloss":"relief (e.g. pitcher)","pos":["n","vs"]},{"gloss":"relief (e.g. bas relief)","pos":["n"]}]},"sdata":[]}

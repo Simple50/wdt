@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"画期的","p":true},{"e":"劃期的","i":["rK"]}],"r_ele":[{"r":"かっきてき","p":true}],"sense":[{"gloss":"ground-breaking, revolutionary, unprecedented, epoch-making","pos":["adj-na"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薬効","p":true},{"e":"薬效","i":["sK"]}],"r_ele":[{"r":"やっこう","p":true}],"sense":[{"gloss":"medical efficacy, effect of a medicine","pos":["n"]}]},"sdata":[{"j":"↑薬効↑↓|やっこう|↓の↑程↑↓ほど↓は↑定↑↓さだ↓かでない。","e":"Whether the medicine will work or not is uncertain."}]}

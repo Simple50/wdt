@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見向く","p":true}],"r_ele":[{"r":"みむく","p":true}],"sense":[{"gloss":"to look around, to look towards (us)","pos":["v5k","vi"]}]},"sdata":[]}

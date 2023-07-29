@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シリアス","p":true}],"sense":[{"gloss":"serious","pos":["adj-na","n"]}]},"sdata":[{"j":"こんな|シリアス|な↑芝居↑↓しばい↓を↑見↑↓み↓るのは↑初↑↓はじ↓めてで↑貴重↑↓きちょう↓な↑経験↑↓けいけん↓ができました。","e":"That was the first time I had seen such a serious play so it was a valuable experience."}]}

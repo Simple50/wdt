@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小粒","p":true}],"r_ele":[{"r":"こつぶ","p":true}],"sense":[{"gloss":"small grain, small stature or ability","pos":["adj-na","adj-no","n"]}]},"sdata":[{"j":"レッドカラントは↑苺↑↓いちご↓より↑小粒↑↓|こつぶ|↓です。","e":"Red currants are smaller than strawberries."}]}

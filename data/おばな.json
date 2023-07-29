@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"雄花","p":true}],"r_ele":[{"r":"おばな","p":true},{"r":"ゆうか"}],"sense":[{"gloss":"male flower, staminate flower","pos":["n"],"f":["bot"],"x":["雌花"]}]},"sdata":[]}

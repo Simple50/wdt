@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"版元","p":true},{"e":"板元","i":["rK"]}],"r_ele":[{"r":"はんもと","p":true}],"sense":[{"gloss":"publisher","pos":["n"]}]},"sdata":[]}

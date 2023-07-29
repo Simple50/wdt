@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キュート","p":true}],"sense":[{"gloss":"cute","pos":["adj-na"]}]},"sdata":[{"j":"↑恥↑↓は↓ずかしがってる↑立花↑↓りっか↓はとっても|キュート|だ。","e":"You, Rikka, are very cute when you're embarrassed."}]}

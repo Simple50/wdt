@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"腐葉土","p":true}],"r_ele":[{"r":"ふようど","p":true}],"sense":[{"gloss":"humus, leaf mold, leaf mould, mulch","pos":["n"]}]},"sdata":[]}

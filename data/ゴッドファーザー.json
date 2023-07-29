@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ゴッドファーザー","p":true}],"sense":[{"gloss":"godfather","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パッキング","p":true},{"r":"パッキン"}],"sense":[{"gloss":"packing","pos":["n"]},{"gloss":"non-metallic seal, washer, gasket","pos":["n"]}]},"sdata":[]}

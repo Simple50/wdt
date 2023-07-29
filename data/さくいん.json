@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"索引","p":true}],"r_ele":[{"r":"さくいん","p":true}],"sense":[{"gloss":"index (in a book)","pos":["n"]}]},"sdata":[{"j":"その↑本↑↓ほん↓には↑索引↑↓|さくいん|↓がついていますか。","e":"Is there an index to the book?"}]}

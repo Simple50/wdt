@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"蜃気楼","p":true}],"r_ele":[{"r":"しんきろう","p":true}],"sense":[{"gloss":"mirage","pos":["n"]}]},"sdata":[{"j":"↑富山↑↓とやま↓↑湾↑↓わん↓にはときどき↑蜃気楼↑↓|しんきろう|↓が↑現↑↓あら↓われます。","e":"A mirage sometimes shows up in Toyama Bay."},{"j":"↑蜃気楼↑↓|しんきろう|↓は↑幻影↑↓げんえい↓だと↑言↑↓い↓われている。","e":"A mirage is said to be an illusion."}]}

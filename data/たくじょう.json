@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"卓上","p":true}],"r_ele":[{"r":"たくじょう","p":true}],"sense":[{"gloss":"desktop, desk-top, tabletop","pos":["n","adj-no"]},{"gloss":"after-dinner speech","pos":["n"],"m":["abbr"],"x":["卓上演説・たくじょうえんぜつ"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑全↑↓まっ|た↓く↑情愛↑↓じょう|あい↓に↑欠↑↓か↓けているようだ。","e":"He seems to be bankrupt of all tender feeling."}]}

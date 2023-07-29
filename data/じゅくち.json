@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"熟知","p":true}],"r_ele":[{"r":"じゅくち","p":true}],"sense":[{"gloss":"being familiar with, having a thorough knowledge of, being well-informed about","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓はそのエリアに↑熟知↑↓|じゅくち|↓している。","e":"I'm familiar with the area."},{"j":"↑金↑↓かね↓を↑稼↑↓かせ↓ぐ↑方法↑↓ほうほう↓をトムは↑熟知↑↓|じゅくち|↓している。","e":"Tom certainly knows how to make money."}]}

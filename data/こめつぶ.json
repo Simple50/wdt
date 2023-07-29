@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"米粒","p":true}],"r_ele":[{"r":"こめつぶ","p":true}],"sense":[{"gloss":"grain of rice","pos":["n"]}]},"sdata":[{"j":"↑米↑↓|こめ↓↑粒↑↓つぶ|↓↑一↑↓ひと↓つだって↑無駄↑↓むだ↓にしちゃ↑駄目↑↓だめ↓なんだよ。","e":"We shouldn't waste even one grain of rice."}]}

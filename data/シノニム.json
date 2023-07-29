@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シノニム","p":true}],"sense":[{"gloss":"synonym","pos":["n"],"f":["ling"],"x":["同義語"]}]},"sdata":[]}

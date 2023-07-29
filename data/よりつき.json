@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"寄り付き","p":true}],"r_ele":[{"r":"よりつき","p":true}],"sense":[{"gloss":"opening session, anteroom","pos":["n"]}]},"sdata":[]}

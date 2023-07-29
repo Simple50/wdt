@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"来歴","p":true}],"r_ele":[{"r":"らいれき","p":true}],"sense":[{"gloss":"history, career","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はやたらに↑故事来歴↑↓こじ|らいれき|↓に↑詳↑↓くわ↓しいけれど、それが↑人生↑↓じんせい↓の↑役↑↓やく↓に↑立↑↓た↓っているのかはなはだ↑疑問↑↓ぎもん↓だね。","e":"He has a great storehouse of knowledge about historical details but I seriously doubt that's of any use in life."}]}

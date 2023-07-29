@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立憲","p":true}],"r_ele":[{"r":"りっけん","p":true}],"sense":[{"gloss":"constitutionalism","pos":["n"]},{"gloss":"Constitutional Democratic Party of Japan","pos":["n"],"m":["abbr"],"x":["立憲民主党・1"]}]},"sdata":[{"j":"↑警察↑↓けいさつ↓が↑医療↑↓いりょう↓↑事故↑↓じこ↓の↑立件↑↓|りっけん|↓に↑消極↑↓しょうきょく↓↑的↑↓てき↓だ。","e":"The police are reluctant to pursue criminal charges in medical cases."}]}

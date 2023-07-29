@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"催涙","p":true}],"r_ele":[{"r":"さいるい","p":true}],"sense":[{"gloss":"tear-inducing","pos":["adj-f","n"],"x":["催涙ガス"]}]},"sdata":[{"j":"↑警官↑↓けいかん↓↑隊↑↓たい↓がデモ↑隊↑↓たい↓に↑多数↑↓たすう↓の↑催涙↑↓|さいるい|↓↑弾↑↓だん↓を↑投↑↓な↓げた。","e":"The police threw many tear-gas grenades at the protesters."}]}

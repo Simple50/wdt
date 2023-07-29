@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"緑青","p":true}],"r_ele":[{"r":"ろくしょう","p":true},{"r":"りょくしょう"}],"sense":[{"gloss":"verdigris, green rust, copper rust","pos":["n"]}]},"sdata":[{"j":"その↑理論↑↓りろん↓は↑広↑↓ひ|ろ↓く↑承認↑↓しょう|にん↓されている。","e":"The theory is generally accepted."},{"j":"その↑理論↑↓りろん↓は↑広↑↓ひ|ろ↓く↑承認↑↓しょう|にん↓されている。","e":"That theory is generally accepted."}]}

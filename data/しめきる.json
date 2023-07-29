@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"締め切る","p":true},{"e":"閉め切る"},{"e":"〆切る"},{"e":"閉切る"},{"e":"締切る"}],"r_ele":[{"r":"しめきる","p":true}],"sense":[{"gloss":"to close up, to shut up (e.g. behind doors)","pos":["v5r","vt"]},{"gloss":"to cut off (e.g. because a deadline has expired), to close off (e.g. subscription list)","pos":["v5r","vt"]}]},"sdata":[]}

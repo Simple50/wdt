@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スタンガン","p":true}],"sense":[{"gloss":"stun gun","pos":["n"]}]},"sdata":[]}

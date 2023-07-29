@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"大々的","p":true},{"e":"大大的"}],"r_ele":[{"r":"だいだいてき","p":true}],"sense":[{"gloss":"great, grand, extensive, large-scale","pos":["adj-na"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑大々的↑↓|だいだいてき|↓にパーティーを↑催↑↓もよお↓した。","e":"He gave a party on a large scale."}]}

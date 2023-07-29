@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"枢機卿","p":true}],"r_ele":[{"r":"すうききょう","p":true},{"r":"すうきけい"}],"sense":[{"gloss":"cardinal (Catholic church)","pos":["n"]}]},"sdata":[]}

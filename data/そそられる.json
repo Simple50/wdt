@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"そそられる","p":true}],"sense":[{"gloss":"to be interesting, to be fascinating, to be tantalizing, to be intriguing","pos":["v1","vt"],"x":["唆る・そそる"]}]},"sdata":[{"j":"↑評判↑↓ひょうばん↓だから↑行↑↓い↓ったのに、|そそられる|ものがない。","e":"Because of its reputation, I went there, but there was nothing interesting."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一局","p":true},{"e":"１局"}],"r_ele":[{"r":"いっきょく","p":true}],"sense":[{"gloss":"one game (of go, shogi, etc.)","pos":["n"]},{"gloss":"one board (go, shogi, etc.)","pos":["n"]},{"gloss":"one office (of a broadcasting station, post office, etc.)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"薩長","p":true}],"r_ele":[{"r":"さっちょう","p":true}],"sense":[{"gloss":"Satsuma and Chōshū (clan alliance)","pos":["n"]}],"m":["hist"]},"sdata":[]}

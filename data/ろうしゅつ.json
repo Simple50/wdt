@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漏出","p":true}],"r_ele":[{"r":"ろうしゅつ","p":true}],"sense":[{"gloss":"leaking out, leak","pos":["n","vs","vt","vi"]}]},"sdata":[{"j":"ガスが↑漏出↑↓|ろうしゅつ|↓した。","e":"Gas has leaked."}]}

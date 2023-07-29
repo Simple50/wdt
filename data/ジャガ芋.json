@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"じゃが芋","p":true},{"e":"ジャガ芋","p":true}],"r_ele":[{"r":"じゃがいも","p":true},{"r":"ジャガいも","p":true},{"r":"ジャガイモ"}],"sense":[{"gloss":"potato (Solanum tuberosum)","pos":["n"],"x":["ジャガタラ芋"]}],"m":["uk"]},"kdata":{"芋":{"on":["ウ"],"kun":["いも"],"jlpt":1,"meanings":["potato"],"freq":2418,"comp":[["于","艹"]],"t":394}},"sdata":[]}

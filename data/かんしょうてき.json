@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"感傷的","p":true}],"r_ele":[{"r":"かんしょうてき","p":true}],"sense":[{"gloss":"sentimental, emotional, maudlin, mawkish","pos":["adj-na"]}]},"sdata":[{"j":"↑子供↑↓こども↓が↑泣↑↓な↓いてるのを↑見↑↓み↓ると、いつも↑感傷↑↓|かんしょう↓↑的↑↓てき|↓になってしまうんだ。","e":"I get emotional every time I see a child cry."}]}

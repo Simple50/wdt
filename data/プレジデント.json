@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"プレジデント","p":true},{"r":"プレズィデント","i":["ik"]}],"sense":[{"gloss":"president","pos":["n"]}]},"sdata":[]}

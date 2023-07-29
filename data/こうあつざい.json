@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"降圧剤","p":true}],"r_ele":[{"r":"こうあつざい","p":true}],"sense":[{"gloss":"drug to lower blood pressure, antihypertensive","pos":["n"]}]},"sdata":[]}

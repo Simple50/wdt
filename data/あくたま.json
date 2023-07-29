@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"悪玉","p":true}],"r_ele":[{"r":"あくだま"},{"r":"あくたま","p":true}],"sense":[{"gloss":"bad character, bad person, villain, baddie","pos":["n"]}]},"sdata":[]}

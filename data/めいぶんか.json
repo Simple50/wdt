@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"明文化","p":true}],"r_ele":[{"r":"めいぶんか","p":true}],"sense":[{"gloss":"stipulation, stating clearly, documenting in writing, stating explicitly","pos":["n","vs","vt"]}]},"sdata":[]}

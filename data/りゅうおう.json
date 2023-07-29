@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"竜王","p":true},{"e":"龍王"}],"r_ele":[{"r":"りゅうおう","p":true}],"sense":[{"gloss":"Dragon King","pos":["n"]},{"gloss":"promoted rook","pos":["n"],"f":["shogi"],"x":["飛車・ひしゃ"]}]},"sdata":[]}

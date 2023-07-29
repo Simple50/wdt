@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"一抹","p":true}],"r_ele":[{"r":"いちまつ","p":true}],"sense":[{"gloss":"(a) touch of, tinge of, wreath (e.g. of smoke)","pos":["n"]},{"gloss":"one stroke, one brush","pos":["n"]}]},"sdata":[{"j":"↑人生↑↓じんせい↓とは、↑一抹↑↓|いちまつ|↓の↑泡↑↓あわ↓みたいなものだ。","e":"Man's but a bubble."},{"j":"↑彼女↑↓かのじょ↓には↑一抹↑↓|いちまつ|↓の↑罪悪↑↓ざいあく↓↑感↑↓かん↓があった。","e":"She had a vague feeling of guilt."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社内報","p":true}],"r_ele":[{"r":"しゃないほう","p":true}],"sense":[{"gloss":"company newsletter","pos":["n"]}]},"sdata":[]}

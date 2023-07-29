@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"運動費","p":true}],"r_ele":[{"r":"うんどうひ","p":true}],"sense":[{"gloss":"campaign fund","pos":["n"]}]},"sdata":[]}

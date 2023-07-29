@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"シーズニング","p":true}],"sense":[{"gloss":"seasoning","pos":["n"]}]},"sdata":[]}

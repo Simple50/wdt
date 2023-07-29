@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"僧院","p":true}],"r_ele":[{"r":"そういん","p":true}],"sense":[{"gloss":"monastery, temple","pos":["n"]}]},"kdata":{"僧":{"on":["ソウ"],"jlpt":1,"meanings":["monk","Buddhist priest"],"freq":1724,"comp":[["曾","亻"]],"t":1689},"院":{"on":["イン"],"jlpt":4,"meanings":["institution","Inst.","temple","mansion","school"],"freq":150,"comp":[["完","阝"]],"t":1194}},"sdata":[]}

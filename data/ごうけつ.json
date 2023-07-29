@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"豪傑","p":true}],"r_ele":[{"r":"ごうけつ","p":true}],"sense":[{"gloss":"hero, great man","pos":["n"]}]},"sdata":[]}

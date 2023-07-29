@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"風圧","p":true}],"r_ele":[{"r":"ふうあつ","p":true}],"sense":[{"gloss":"wind pressure","pos":["n"]}]},"sdata":[]}

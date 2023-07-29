@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"防弾","p":true}],"r_ele":[{"r":"ぼうだん","p":true}],"sense":[{"gloss":"bulletproof, bombproof","pos":["n","adj-no"]}]},"sdata":[]}

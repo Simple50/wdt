@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"勇断","p":true}],"r_ele":[{"r":"ゆうだん","p":true}],"sense":[{"gloss":"resolute decision","pos":["n","vs","vt"]}]},"sdata":[]}

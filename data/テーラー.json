@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"テーラー","p":true},{"r":"テイラー"}],"sense":[{"gloss":"tailor","pos":["n"]}]},"sdata":[{"j":"|テーラー|さんはパーティーに↑来↑↓こ↓なければよかったと↑思↑↓おも↓っている。","e":"Mr Taylor wishes he had not come to the party."},{"j":"|テーラー|さんはパーティーに↑来↑↓こ↓なければよかったと↑思↑↓おも↓っている。","e":"Mr. Taylor wishes he hadn't come to the party."}]}

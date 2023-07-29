@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"肉弾","p":true}],"r_ele":[{"r":"にくだん","p":true}],"sense":[{"gloss":"suicide attacker","pos":["n"],"x":["肉弾戦"]}]},"sdata":[{"j":"トムは↑肉↑↓|にく↓↑団子↑↓だん|ご↓が↑好↑↓す↓きなんだ。","e":"Tom likes meatballs."}]}

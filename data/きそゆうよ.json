@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"起訴猶予","p":true}],"r_ele":[{"r":"きそゆうよ","p":true}],"sense":[{"gloss":"suspension of indictment, leaving charge on the file","pos":["n"]}]},"sdata":[]}

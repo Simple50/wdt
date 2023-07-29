@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"儀典","p":true}],"r_ele":[{"r":"ぎてん","p":true}],"sense":[{"gloss":"ceremony, rite, ritual, service","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ストイック","p":true}],"sense":[{"gloss":"stoic, stoical","pos":["adj-na"]},{"gloss":"self-disciplined, abstemious, austere, strict (with oneself)","pos":["adj-na"]},{"gloss":"Stoic (philosopher)","pos":["n"]}]},"sdata":[{"j":"トムは|ストイック|だ。","e":"Tom is stoic."}]}

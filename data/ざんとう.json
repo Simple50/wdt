@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"残党","p":true}],"r_ele":[{"r":"ざんとう","p":true}],"sense":[{"gloss":"remnants, survivors, refugees, pocket (of resistance)","pos":["n"]}]},"sdata":[]}

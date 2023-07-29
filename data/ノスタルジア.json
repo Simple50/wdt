@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノスタルジア","p":true}],"sense":[{"gloss":"nostalgia","pos":["n"]}]},"sdata":[]}

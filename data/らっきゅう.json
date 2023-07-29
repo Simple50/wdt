@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"落球","p":true}],"r_ele":[{"r":"らっきゅう","p":true}],"sense":[{"gloss":"failing to catch a ball, dropping a ball, flubbing a catch","pos":["n","vs","vi"],"f":["sports"]}]},"sdata":[]}

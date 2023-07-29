@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"フェイク","p":true},{"r":"フェーク"}],"sense":[{"gloss":"fake","pos":["n","vs"]}]},"sdata":[]}

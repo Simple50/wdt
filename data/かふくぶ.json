@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"下腹部","p":true}],"r_ele":[{"r":"かふくぶ","p":true}],"sense":[{"gloss":"abdomen","pos":["n"]}]},"sdata":[{"j":"↑下腹部↑↓|かふくぶ|↓が↑張↑↓は↓ります。","e":"My lower abdomen feels bloated."}]}

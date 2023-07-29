@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"早業","p":true},{"e":"早技"},{"e":"早わざ"},{"e":"速業"}],"r_ele":[{"r":"はやわざ","p":true}],"sense":[{"gloss":"quick work, (clever) feat","pos":["n"]}]},"sdata":[]}

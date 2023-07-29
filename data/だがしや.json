@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"駄菓子屋","p":true}],"r_ele":[{"r":"だがしや","p":true}],"sense":[{"gloss":"small-time candy store, penny candy store","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"レジデンス","p":true}],"sense":[{"gloss":"residence","pos":["n"]}]},"sdata":[]}

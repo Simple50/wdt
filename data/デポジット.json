@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デポジット","p":true}],"sense":[{"gloss":"deposit","pos":["n"]}]},"sdata":[]}

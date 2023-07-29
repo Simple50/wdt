@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ムスタング","p":true},{"r":"マスタング"}],"sense":[{"gloss":"mustang","pos":["n"]}]},"sdata":[{"j":"マックは↑新型↑↓しんがた↓|ムスタング|が↑買↑↓か↓いたいので、お↑金↑↓かね↓を↑貯↑↓た↓めている。","e":"Since Mac wants to buy a new Mustang, he is saving money."},{"j":"↑私↑↓わたし↓の↑新↑↓あたら↓しい|ムスタング|を↑見↑↓み↓せてなかったっけ？","e":"Didn't I show you my new Mustang?"}]}

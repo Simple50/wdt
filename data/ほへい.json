@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"歩兵","p":true}],"r_ele":[{"r":"ほへい","p":true}],"sense":[{"gloss":"infantry, infantryman, foot soldier","pos":["n"]}]},"sdata":[{"j":"↑戦争↑↓せんそう↓のさいには↑歩兵↑↓|ほへい|↓はとるに↑足↑↓た↓らないものだ。","e":"The infantry soldier is only a pawn in the game of war."}]}

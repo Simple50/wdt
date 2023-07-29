@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"偶発","p":true}],"r_ele":[{"r":"ぐうはつ","p":true}],"sense":[{"gloss":"sudden outbreak, accidental, incidental","pos":["n","vs","vi","adj-no"]}]},"sdata":[{"j":"↑彼↑↓かれ↓が↑不作法↑↓ぶさほう↓なのは↑意識↑↓いしき↓↑的↑↓てき↓であって、↑偶発↑↓|ぐうはつ|↓↑的↑↓てき↓ではなかった。","e":"His rudeness was conscious, not accidental."}]}

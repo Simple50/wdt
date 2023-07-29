@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不定期","p":true}],"r_ele":[{"r":"ふていき","p":true}],"sense":[{"gloss":"irregular, indeterminate, tramp (steamer)","pos":["adj-na","adj-no","n"]}]},"sdata":[]}

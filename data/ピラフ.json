@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ピラフ","p":true}],"sense":[{"gloss":"pilaf","pos":["n"],"f":["food"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き崩す","p":true},{"e":"突崩す"}],"r_ele":[{"r":"つきくずす","p":true}],"sense":[{"gloss":"to knock down, to tear down, to level, to raze","pos":["v5s","vt"]},{"gloss":"to crush (e.g. enemy), to throw into confusion","pos":["v5s","vt"]},{"gloss":"to refute, to pick apart, to undermine","pos":["v5s","vt"]}]},"sdata":[]}

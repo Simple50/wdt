@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"事変","p":true}],"r_ele":[{"r":"じへん","p":true}],"sense":[{"gloss":"accident, disaster, incident, uprising, emergency","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑前↑↓まえ↓と↑同↑↓おな↓|じ↑返事↑↓へん|じ↓をした。","e":"He gave the same answer as before."}]}

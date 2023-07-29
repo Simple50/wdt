@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ノンフィクション","p":true}],"sense":[{"gloss":"nonfiction","pos":["n"]}]},"sdata":[{"j":"あなたは↑創作↑↓そうさく↓と|ノンフィクション|のどちらが↑好↑↓す↓きですか。","e":"Which do you like better, fiction or non-fiction?"}]}

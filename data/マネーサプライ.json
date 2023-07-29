@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"マネーサプライ","p":true},{"r":"マネー・サプライ"}],"sense":[{"gloss":"money supply","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"借り切る","p":true},{"e":"借切る"}],"r_ele":[{"r":"かりきる","p":true}],"sense":[{"gloss":"to hire for exclusive use, to reserve, to charter","pos":["v5r","vt"]}]},"sdata":[]}

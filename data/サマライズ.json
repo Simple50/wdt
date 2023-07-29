@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"サマライズ","p":true}],"sense":[{"gloss":"summarize, summarise","pos":["n"]}]},"sdata":[]}

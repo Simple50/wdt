@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"漢籍","p":true}],"r_ele":[{"r":"かんせき","p":true}],"sense":[{"gloss":"Chinese book, Chinese classics","pos":["n"]}]},"sdata":[]}

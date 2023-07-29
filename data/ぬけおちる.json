@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"抜け落ちる","p":true}],"r_ele":[{"r":"ぬけおちる","p":true}],"sense":[{"gloss":"to come out (e.g. hair), to fall out, to collapse (e.g. building, floor)","pos":["v1","vi"]},{"gloss":"to be left out, to be omitted","pos":["v1","vi"]}]},"sdata":[]}

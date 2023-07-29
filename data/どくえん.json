@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"独演","p":true}],"r_ele":[{"r":"どくえん","p":true}],"sense":[{"gloss":"solo, solo performance","pos":["n","vs","vt"]}]},"sdata":[]}

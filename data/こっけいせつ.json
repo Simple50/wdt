@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国慶節","p":true}],"r_ele":[{"r":"こっけいせつ","p":true}],"sense":[{"gloss":"anniversary of founding (of PRC), national celebration time","pos":["n"]}]},"sdata":[]}

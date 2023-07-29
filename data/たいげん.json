@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"体現","p":true}],"r_ele":[{"r":"たいげん","p":true}],"sense":[{"gloss":"personification, impersonation, embodiment","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑日本語↑↓にほんご↓はSOV↑言語↑↓げんご↓の↑一↑↓いち↓↑大言↑↓|たいげん|↓↑語↑↓ご↓です。","e":"Japanese is a major SOV language."}]}

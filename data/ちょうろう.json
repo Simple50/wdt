@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"長老","p":true}],"r_ele":[{"r":"ちょうろう","p":true}],"sense":[{"gloss":"elder, senior","pos":["n","adj-no"]},{"gloss":"senior monk","pos":["n"],"f":["Buddh"]},{"gloss":"dean, presbyter, patriarch","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はもちろん↑村↑↓むら↓の↑最↑↓さい↓↑長老↑↓|ちょうろう|↓だ。","e":"He is unquestionably the oldest man in the village."}]}

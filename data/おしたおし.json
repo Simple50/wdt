@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し倒し","p":true}],"r_ele":[{"r":"おしたおし","p":true}],"sense":[{"gloss":"oshitaoshi, (frontal) push-down, (win by) knocking down opponent by pushing him with hand(s) rested on his body","pos":["n"]}]},"sdata":[]}

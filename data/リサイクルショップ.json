@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リサイクルショップ","p":true},{"r":"リサイクル・ショップ"}],"sense":[{"gloss":"second-hand shop, recycle shop","pos":["n"]}]},"sdata":[{"j":"フリーマーケットで↑古着↑↓ふるぎ↓が↑高↑↓たか↓く↑売↑↓う↓れたことに↑味↑↓あじ↓をしめ、↑彼女↑↓かのじょ↓はとうとう|リサイクルショップ|を↑始↑↓はじ↓めた。","e":"After getting a taste of selling old clothes at a high price on the flea market, she finally set up her recycling shop."}]}

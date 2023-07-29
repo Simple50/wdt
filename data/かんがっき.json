@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"管楽器","p":true}],"r_ele":[{"r":"かんがっき","p":true}],"sense":[{"gloss":"wind instrument","pos":["n"]}]},"sdata":[{"j":"インフルエンザの↑欠席↑↓けっせき↓↑者↑↓しゃ↓が↑多↑↓おお↓いから、↑明日↑↓あした↓から↑三日↑↓みっか↓↑間↑↓|かん↓↑学級↑↓がっき|ゅう↓↑閉鎖↑↓へいさ↓だって。","e":"As there are many absentees because of the flu, we were told that from tomorrow the classes will be temporary closed for 3 days."}]}

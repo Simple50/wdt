@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"好敵手","p":true}],"r_ele":[{"r":"こうてきしゅ","p":true}],"sense":[{"gloss":"worthy opponent, worthy rival, good match","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓はついに↑好敵手↑↓|こうてきしゅ|↓に↑出会↑↓であ↓ったと↑思↑↓おも↓った。","e":"He thought he met his match at last."}]}

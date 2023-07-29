@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"履き古し","p":true}],"r_ele":[{"r":"はきふるし","p":true}],"sense":[{"gloss":"worn-out shoes, worn-out socks","pos":["n"]}]},"sdata":[]}

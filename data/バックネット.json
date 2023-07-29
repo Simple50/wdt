@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"バックネット","p":true},{"r":"バック・ネット"}],"sense":[{"gloss":"back screen, backstop","pos":["n"],"f":["baseb"],"l":"eng: back net"}]},"sdata":[]}

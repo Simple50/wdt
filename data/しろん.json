@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"詩論","p":true}],"r_ele":[{"r":"しろん","p":true}],"sense":[{"gloss":"essay on poetry, theory of poetry","pos":["n"]}]},"sdata":[{"j":"も|し↑論文↑↓ろん|ぶん↓の↑量↑↓りょう↓が↑不足↑↓ふそく↓したら、↑引用↑↓いんよう↓↑文↑↓ぶん↓で↑水増↑↓みずま↓ししておけばいい。","e":"If your essay is on the short side, you can always pad it out with a few quotations."}]}

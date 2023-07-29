@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＡＩＤＳ","p":true}],"r_ele":[{"r":"エイズ","p":true}],"sense":[{"gloss":"acquired immune deficiency syndrome, AIDS","pos":["n"]}],"m":["uk"]},"sdata":[]}

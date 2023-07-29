@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"浮き上がる","p":true},{"e":"浮き上る"},{"e":"浮上がる"},{"e":"浮上る"}],"r_ele":[{"r":"うきあがる","p":true}],"sense":[{"gloss":"to float, to rise to the surface","pos":["v5r","vi"]},{"gloss":"to stand out, to be visible","pos":["v5r","vi"]},{"gloss":"to be alienated","pos":["v5r","vi"]}]},"sdata":[]}

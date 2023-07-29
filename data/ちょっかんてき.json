@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"直感的"},{"e":"直観的","p":true}],"r_ele":[{"r":"ちょっかんてき","p":true}],"sense":[{"gloss":"intuitive","pos":["adj-na"]}]},"sdata":[{"j":"↑直感↑↓|ちょっかん↓↑的↑↓てき|↓には、↑基本↑↓きほん↓↑的↑↓てき↓な↑意味↑↓いみ↓の↑最小↑↓さいしょう↓↑単位↑↓たんい↓は↑単語↑↓たんご↓です。","e":"Intuitively, the basic atomic unit of meaning is a word."}]}

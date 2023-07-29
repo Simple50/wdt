@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白菊","p":true}],"r_ele":[{"r":"しらぎく","p":true}],"sense":[{"gloss":"white chrysanthemum","pos":["n"]}]},"sdata":[]}

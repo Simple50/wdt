@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"転居","p":true}],"r_ele":[{"r":"てんきょ","p":true}],"sense":[{"gloss":"moving, changing residence, change of address","pos":["n","vs","vi"]}]},"sdata":[{"j":"ご↑両親↑↓りょうしん↓は↑転居↑↓|てんきょ|↓されたんですか？","e":"Are your parents relocating?"}]}

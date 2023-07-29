@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"不鮮明","p":true}],"r_ele":[{"r":"ふせんめい","p":true}],"sense":[{"gloss":"blur","pos":["n"]},{"gloss":"blurred, indistinct","pos":["adj-na"]}]},"sdata":[]}

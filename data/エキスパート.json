@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"エキスパート","p":true},{"r":"エクスパート"}],"sense":[{"gloss":"expert","pos":["n"]}]},"sdata":[{"j":"↑過去↑↓かこ↓において↑高齢↑↓こうれい↓↑者↑↓しゃ↓たちは↑人生↑↓じんせい↓の↑様々↑↓さまざま↓な↑問題↑↓もんだい↓を↑解決↑↓かいけつ↓するときの|エキスパート|と↑考↑↓かんが↓えられていた。","e":"In the past, the old used to be looked upon as experts in solving various problems of life."}]}

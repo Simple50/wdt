@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"五人組","p":true}],"r_ele":[{"r":"ごにんぐみ","p":true}],"sense":[{"gloss":"five-family unit, five-man group, quintet","pos":["n"]}]},"sdata":[]}

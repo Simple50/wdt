@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"スカラシップ","p":true},{"r":"スカラーシップ"}],"sense":[{"gloss":"scholarship","pos":["n"]}]},"sdata":[]}

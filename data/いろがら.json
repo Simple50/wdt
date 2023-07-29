@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"色柄","p":true}],"r_ele":[{"r":"いろがら","p":true}],"sense":[{"gloss":"colored pattern, coloured pattern","pos":["n"]}]},"sdata":[{"j":"↑白↑↓しろ↓いガラスに、↑幾↑↓いく↓↑色↑↓しょく↓かの↑色↑↓|いろ↓ガラ|スが↑入↑↓はい↓り、かわいらしい↑印象↑↓いんしょう↓に↑仕上↑↓しあ↓がりました。","e":"To the white glass, I added glass of various colours, producing a pretty feel."}]}

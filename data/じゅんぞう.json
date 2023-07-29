@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"純増","p":true}],"r_ele":[{"r":"じゅんぞう","p":true}],"sense":[{"gloss":"net increase","pos":["n"]}]},"sdata":[]}

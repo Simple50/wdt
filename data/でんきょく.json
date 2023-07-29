@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"電極","p":true}],"r_ele":[{"r":"でんきょく","p":true}],"sense":[{"gloss":"electrode","pos":["n"]}]},"sdata":[]}

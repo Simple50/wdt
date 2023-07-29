@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"インフラストラクチャー","p":true},{"r":"インフラストラクチャ"}],"sense":[{"gloss":"infrastructure","pos":["n"]}]},"sdata":[]}

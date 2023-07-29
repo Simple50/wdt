@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"横向き","p":true}],"r_ele":[{"r":"よこむき","p":true}],"sense":[{"gloss":"turning sideways, landscape orientation","pos":["n"]}]},"sdata":[{"j":"↑横向↑↓|よこむ↓き|に↑寝↑↓ね↓る。","e":"I sleep on my side."},{"j":"↑横向↑↓|よこむ↓き|に↑寝↑↓ね↓ると「いびき」をかきにくい？","e":"Is snoring less likely if you sleep on your side?"}]}

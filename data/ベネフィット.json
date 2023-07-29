@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ベネフィット","p":true}],"sense":[{"gloss":"benefit","pos":["n"]}]},"sdata":[]}

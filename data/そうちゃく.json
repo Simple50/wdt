@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"装着","p":true}],"r_ele":[{"r":"そうちゃく","p":true}],"sense":[{"gloss":"equipping, installing, fitting, mounting, putting on","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑正装↑↓せい|そう↓↑着用↑↓ちゃく|よう↓です。","e":"Formal dress must be worn."}]}

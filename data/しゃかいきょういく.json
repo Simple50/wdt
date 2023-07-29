@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"社会教育","p":true}],"r_ele":[{"r":"しゃかいきょういく","p":true}],"sense":[{"gloss":"social education","pos":["n"]}]},"sdata":[]}

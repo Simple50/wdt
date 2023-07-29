@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＧＩ","p":true}],"r_ele":[{"r":"ジーアイ","p":true}],"sense":[{"gloss":"GI (soldier in the US Army), G.I.","pos":["n"]}],"m":["col"]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ドロップ","p":true}],"sense":[{"gloss":"drop","pos":["n","vs"]}]},"sdata":[{"j":"せき↑止↑↓と↓めの|ドロップ|はありますか。","e":"Do you have cough drops?"}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"二律背反","p":true}],"r_ele":[{"r":"にりつはいはん","p":true}],"sense":[{"gloss":"antinomy, self-contradiction, either-or situation, choice between mutually exclusive alternatives","pos":["n"]}],"m":["yoji"]},"sdata":[]}

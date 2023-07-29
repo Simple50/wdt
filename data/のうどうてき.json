@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"能動的","p":true}],"r_ele":[{"r":"のうどうてき","p":true}],"sense":[{"gloss":"active","pos":["adj-na"]}]},"sdata":[]}

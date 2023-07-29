@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"アドベンチャー","p":true},{"r":"アドヴェンチャー"}],"sense":[{"gloss":"adventure","pos":["n"]}]},"sdata":[{"j":"↑今度↑↓こんど↓のマリオは↑海底↑↓かいてい↓に↑沈↑↓しず↓んだ↑古代↑↓こだい↓↑王国↑↓おうこく↓の↑謎↑↓なぞ↓を↑解↑↓と↓き↑明↑↓あ↓かす↑海洋↑↓かいよう↓|アドベンチャー|だ。","e":"The new Mario game is an underwater adventure where he solves the mystery of an ancient kingdom sunk to the bottom of the sea."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"高射砲","p":true}],"r_ele":[{"r":"こうしゃほう","p":true}],"sense":[{"gloss":"antiaircraft gun","pos":["n"]}]},"sdata":[]}

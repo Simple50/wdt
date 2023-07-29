@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"忘れ去る","p":true}],"r_ele":[{"r":"わすれさる","p":true}],"sense":[{"gloss":"to forget completely, to leave behind","pos":["v5r","vt"]}]},"sdata":[{"j":"↑自分↑↓じぶん↓の↑母国↑↓ぼこく↓↑語↑↓ご↓を↑忘↑↓|わす↓れ↑去↑↓さ↓る|ことは↑可能↑↓かのう↓なのでしょうか？","e":"Is it possible to forget your native language?"}]}

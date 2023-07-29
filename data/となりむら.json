@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"隣村","p":true}],"r_ele":[{"r":"りんそん"},{"r":"となりむら","p":true}],"sense":[{"gloss":"neighboring village, neighbouring village","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレープ","p":true}],"sense":[{"gloss":"crêpe","pos":["n"],"f":["food"],"l":"fre"}]},"sdata":[]}

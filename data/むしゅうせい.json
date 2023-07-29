@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"無修正","p":true}],"r_ele":[{"r":"むしゅうせい","p":true}],"sense":[{"gloss":"unaltered, unedited, unamended, uncensored, unexpurgated","pos":["adj-no","n"]}]},"sdata":[]}

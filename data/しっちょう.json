@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"失調","p":true}],"r_ele":[{"r":"しっちょう","p":true}],"sense":[{"gloss":"lack of harmony, lack of balance, lack of coordination, malfunction","pos":["n"]},{"gloss":"ataxia","pos":["n"],"f":["med"]}]},"sdata":[{"j":"ニジェールでは50↑万↑↓まん↓↑人↑↓にん↓もの↑子供↑↓こども↓たちが↑未↑↓いま↓だ↑栄養失調↑↓えいよう|しっちょう|↓に↑直面↑↓ちょくめん↓している。","e":"Half a million children still face malnutrition in Niger."}]}

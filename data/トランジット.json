@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"トランジット","p":true}],"sense":[{"gloss":"transit","pos":["n"]}]},"sdata":[]}

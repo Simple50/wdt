@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突き詰める","p":true},{"e":"突きつめる"},{"e":"突詰める"}],"r_ele":[{"r":"つきつめる","p":true}],"sense":[{"gloss":"to investigate thoroughly, to examine closely, to probe into, to get to the bottom of","pos":["v1","vt"]},{"gloss":"to be obsessed with a thought, to brood over, to worry about","pos":["v1","vt"]}]},"sdata":[]}

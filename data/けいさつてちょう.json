@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"警察手帳","p":true}],"r_ele":[{"r":"けいさつてちょう","p":true}],"sense":[{"gloss":"police identification card","pos":["n"]}]},"sdata":[]}

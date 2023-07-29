@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上り調子","p":true}],"r_ele":[{"r":"のぼりちょうし","p":true},{"r":"のぼりぢょうし"}],"sense":[{"gloss":"rise, improvement, uptrend","pos":["n"]}]},"sdata":[]}

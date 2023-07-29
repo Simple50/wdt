@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"リターンマッチ","p":true},{"r":"リターン・マッチ"}],"sense":[{"gloss":"return match (esp. boxing), rematch","pos":["n"],"f":["sports"]}]},"sdata":[]}

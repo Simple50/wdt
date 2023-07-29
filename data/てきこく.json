@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"敵国","p":true}],"r_ele":[{"r":"てきこく","p":true},{"r":"てっこく"}],"sense":[{"gloss":"enemy nation","pos":["n","adj-no"]}]},"sdata":[{"j":"↑我↑↓わ↓がチームは↑大↑↓だい↓↑勝利↑↓しょうり↓を↑収↑↓おさ↓め|て↑帰国↑↓きこく|↓した。","e":"Our team came home in triumph."},{"j":"↑我↑↓わ↓がチームは↑大↑↓だい↓↑勝利↑↓しょうり↓を↑収↑↓おさ↓め|て↑帰国↑↓きこく|↓した。","e":"Our team returned home after a huge victory."}]}

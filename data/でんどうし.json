@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"伝道師","p":true}],"r_ele":[{"r":"でんどうし","p":true}],"sense":[{"gloss":"evangelist","pos":["n"]}]},"sdata":[]}

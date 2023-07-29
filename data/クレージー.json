@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"クレージー","p":true},{"r":"クレイジー"}],"sense":[{"gloss":"crazy","pos":["adj-na"]}]},"sdata":[{"j":"↑忙↑↓いそが↓しくって、|クレージー|だ。","e":"Staying busy and crazy!!"}]}

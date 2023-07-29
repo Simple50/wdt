@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"受け付ける","p":true},{"e":"受けつける"},{"e":"受付ける"}],"r_ele":[{"r":"うけつける","p":true}],"sense":[{"gloss":"to accept, to receive (an application), to take up","pos":["v1","vt"]},{"gloss":"to (be able to) take (food, medicine, etc.), to bear, to tolerate, to endure","pos":["v1","vt"]},{"gloss":"to be affected by, to take damage from","pos":["v1","vt"]}]},"sdata":[]}

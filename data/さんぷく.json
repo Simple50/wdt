@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山腹","p":true}],"r_ele":[{"r":"さんぷく","p":true}],"sense":[{"gloss":"hillside, mountainside","pos":["n"]}]},"sdata":[{"j":"↑僕↑↓ぼく↓らの↑大学↑↓だいがく↓の↑校舎↑↓こうしゃ↓は、↑今↑↓こん↓↑福岡↑↓ふくおか↓↑市↑↓し↓の↑北部↑↓ほくぶ↓の↑山腹↑↓|さんぷく|↓に↑建築↑↓けんちく↓↑中↑↓ちゅう↓です。","e":"Our university building is now under construction on a hillside in the north of Fukuoka."}]}

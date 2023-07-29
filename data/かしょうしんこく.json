@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"過少申告","p":true}],"r_ele":[{"r":"かしょうしんこく","p":true}],"sense":[{"gloss":"under-reporting (e.g. income on a tax return)","pos":["n"]}]},"sdata":[]}

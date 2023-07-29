@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"私生児","p":true}],"r_ele":[{"r":"しせいじ","p":true}],"sense":[{"gloss":"illegitimate child, bastard, love child","pos":["n"]}]},"sdata":[{"j":"まず↑彼↑↓かれ↓は↑未婚↑↓みこん↓の↑母↑↓はは↓から↑生↑↓う↓まれた↑私生児↑↓|しせいじ|↓である。","e":"For a start, he was the illegitimate son of an unmarried mother."}]}

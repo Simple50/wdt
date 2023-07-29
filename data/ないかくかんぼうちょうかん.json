@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"内閣官房長官","p":true}],"r_ele":[{"r":"ないかくかんぼうちょうかん","p":true}],"sense":[{"gloss":"Chief Cabinet Secretary","pos":["n"]}]},"sdata":[]}

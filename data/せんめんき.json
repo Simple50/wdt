@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"洗面器","p":true}],"r_ele":[{"r":"せんめんき","p":true}],"sense":[{"gloss":"wash basin, wash bowl (incl. portable bowl in a public bath)","pos":["n"]}]},"sdata":[{"j":"↑洗面↑↓|せんめん↓↑器↑↓き|↓の↑水↑↓みず↓がかちかちに↑凍↑↓こお↓った。","e":"The water in the basin has frozen solid."},{"j":"↑彼女↑↓かのじょ↓は↑洗面↑↓|せんめん↓↑器↑↓き|↓に↑水↑↓みず↓を↑注↑↓そそ↓いだ。","e":"She poured water into the basin."}]}

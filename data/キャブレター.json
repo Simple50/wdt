@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャブレター","p":true}],"sense":[{"gloss":"carburetor, carburettor, carburator, carburetter","pos":["n"]}]},"sdata":[{"j":"↑２↑↓ふた↓つの|キャブレター|を↑装備↑↓そうび↓したことで、そのレーシング↑狂↑↓きょう↓はエンジンをすこぶる↑強力↑↓きょうりょく↓にした。","e":"By installing two carburetors that racing-car enthusiast souped up his motor considerably."}]}

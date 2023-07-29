@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"モアレ","p":true},{"r":"モワレ"}],"sense":[{"gloss":"moire (fabric), moiré","pos":["n"],"f":["cloth"],"l":"fre"},{"gloss":"moire pattern, moiré effect","pos":["n"],"f":["print"]}]},"sdata":[]}

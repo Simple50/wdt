@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"剥ける","p":true},{"e":"剝ける"}],"r_ele":[{"r":"むける","p":true}],"sense":[{"gloss":"to peel off, to come off, to be taken off","pos":["v1","vi"]}]},"kdata":{"剥":{"on":["ハク","ホク"],"kun":["へ.ぐ","へず.る","む.く","む.ける","は.がれる","は.ぐ","は.げる","は.がす"],"meanings":["come off","peel","fade","discolor"],"freq":2383,"comp":[["录","刂"]],"jlpt":1,"t":1220}},"sdata":[]}

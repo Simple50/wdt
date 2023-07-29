@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"パーセプトロン","p":true}],"sense":[{"gloss":"perceptron","pos":["n"]}]},"sdata":[]}

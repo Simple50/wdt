@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"セゾン","p":true}],"sense":[{"gloss":"season","pos":["n"],"l":"fre: saison"}]},"sdata":[]}

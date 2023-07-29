@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャッシュカード","p":true},{"r":"キャッシュ・カード"}],"sense":[{"gloss":"cash card, ATM card","pos":["n"]}]},"sdata":[{"j":"↑口座↑↓こうざ↓↑番号↑↓ばんごう↓などを↑記憶↑↓きおく↓したプラスチック↑製↑↓せい↓の↑磁気↑↓じき↓カードは|キャッシュカード|と↑言↑↓い↓いますか？","e":"Is the magnetic card made of plastic which stores your bank account called a cash card?"}]}

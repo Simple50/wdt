@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"病苦","p":true}],"r_ele":[{"r":"びょうく","p":true}],"sense":[{"gloss":"pain of sickness","pos":["n"]}]},"sdata":[]}

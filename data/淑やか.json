@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"淑やか","p":true}],"r_ele":[{"r":"しとやか","p":true}],"sense":[{"gloss":"graceful, ladylike, modest, gentle, polite, quiet, well-mannered, refined (behavior)","pos":["adj-na"]}],"m":["uk"]},"kdata":{"淑":{"on":["シュク"],"kun":["しと.やか"],"jlpt":1,"meanings":["graceful","gentle","pure"],"freq":1922,"comp":[["氵","叔"]],"t":1316}},"sdata":[]}

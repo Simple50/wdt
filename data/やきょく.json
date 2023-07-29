@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夜曲","p":true}],"r_ele":[{"r":"やきょく","p":true}],"sense":[{"gloss":"nocturne","pos":["n"]}]},"sdata":[{"j":"こういうわけでハト|やキョク|アジサシのような↑鳥↑↓とり↓は↑地球↑↓ちきゅう↓の↑自分↑↓じぶん↓の↑道↑↓みち↓を↑見↑↓み↓つけることができる。","e":"This is why birds like the pigeon or the Arctic tern can find their way around the world."}]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ロードショー","p":true},{"r":"ロードショウ"}],"sense":[{"gloss":"roadshow (theatrical release)","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"キャンピング","p":true}],"sense":[{"gloss":"camping","pos":["n"]}]},"sdata":[{"j":"↑丘↑↓おか↓の↑斜面↑↓しゃめん↓には|キャンピング|カーがいっぱいあった。","e":"Lots of campers were parked all over the hill-side."},{"j":"トムは|キャンピング|の↑好↑↓す↓きな↑友達↑↓ともだち↓がいない。","e":"Tom doesn't have any friends who like camping."}]}

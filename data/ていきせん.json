@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"定期船","p":true}],"r_ele":[{"r":"ていきせん","p":true}],"sense":[{"gloss":"liner, regularly scheduled ship","pos":["n"]}]},"sdata":[{"j":"↑定期↑↓|ていき↓↑船↑↓せん|↓は、↑火曜日↑↓かようび↓に↑神戸↑↓こうべ↓↑港↑↓こう↓に↑寄港↑↓きこう↓するでしょう。","e":"The liner will call at Kobe on Tuesday."}]}

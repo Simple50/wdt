@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"ＦＭ"}],"r_ele":[{"r":"エフエム","p":true}],"sense":[{"gloss":"FM, frequency modulation","pos":["n"]}]},"sdata":[]}

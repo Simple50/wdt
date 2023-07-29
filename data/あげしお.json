@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"上げ潮","p":true},{"e":"上潮"}],"r_ele":[{"r":"あげしお","p":true}],"sense":[{"gloss":"rising tide, incoming tide, flood tide","pos":["n"]},{"gloss":"surge (in popularity, power, etc.), upswing","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"承服","p":true},{"e":"承伏"}],"r_ele":[{"r":"しょうふく","p":true}],"sense":[{"gloss":"accepting, consenting, agreeing, submission, compliance, agreement, consent","pos":["n","vs","vt"]}]},"sdata":[]}

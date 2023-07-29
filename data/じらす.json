@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焦らす","p":true}],"r_ele":[{"r":"じらす","p":true}],"sense":[{"gloss":"to tease, to irritate, to tantalize, to keep (someone) in suspense","pos":["v5s","vt"]}],"m":["uk"]},"sdata":[]}

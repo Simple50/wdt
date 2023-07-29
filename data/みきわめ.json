@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見極め","p":true}],"r_ele":[{"r":"みきわめ","p":true}],"sense":[{"gloss":"ascertainment","pos":["n"]}]},"sdata":[{"j":"↑眼↑↓め↓は↑手↑↓て↓を↑見極↑↓|みきわ↓め|↑得↑↓え↓るが、↑心↑↓こころ↓までは↑見極↑↓|みきわ↓め|↑得↑↓え↓ない。","e":"The eye may see for the hand, but not for the mind."},{"j":"↑善悪↑↓ぜんあく↓を↑見極↑↓|みきわ↓め|ることは↑難↑↓むずか↓しい。","e":"To distinguish right from wrong is difficult."}]}

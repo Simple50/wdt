@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"押し上げる","p":true},{"e":"押上げる"},{"e":"押しあげる"}],"r_ele":[{"r":"おしあげる","p":true}],"sense":[{"gloss":"to boost, to force up, to push up","pos":["v1","vt"]}]},"sdata":[{"j":"↑物価↑↓ぶっか↓を↑押↑↓|お↓し↑上↑↓あ↓げる|のにいくつかの↑要因↑↓よういん↓が↑作用↑↓さよう↓した。","e":"Several factors operated to help prices go up."}]}

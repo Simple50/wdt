@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鈍らす","p":true}],"r_ele":[{"r":"にぶらす","p":true}],"sense":[{"gloss":"to blunt, to dull, to weaken","pos":["v5s","vt"]}]},"sdata":[]}

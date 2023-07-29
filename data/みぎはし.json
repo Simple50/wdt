@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"右端","p":true},{"e":"右はし"}],"r_ele":[{"r":"みぎはし","p":true},{"r":"うたん"}],"sense":[{"gloss":"right end, right edge","pos":["n","adj-no"]}]},"sdata":[{"j":"↑五輪↑↓ごりん↓↑旗↑↓き↓の↑右端↑↓|みぎはし|↓の↑輪↑↓わ↓っかって↑何↑↓なん↓↑色↑↓しょく↓だったっけか？","e":"What color is the far right ring on the Olympic flag?"}]}

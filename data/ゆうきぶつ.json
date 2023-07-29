@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"有機物","p":true}],"r_ele":[{"r":"ゆうきぶつ","p":true}],"sense":[{"gloss":"organic matter","pos":["n"]}]},"sdata":[{"j":"↑有機物↑↓|ゆうきぶつ|↓というのは↑大↑↓おお↓きな↑分子↑↓ぶんし↓から↑形成↑↓けいせい↓されている。","e":"Organic matter is formed by large molecules."}]}

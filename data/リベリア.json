@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"利比利亜","i":["ateji","rK"]}],"r_ele":[{"r":"リベリア","p":true}],"sense":[{"gloss":"Liberia","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"↑彼↑↓かれ↓らは↑自分↑↓じぶん↓たちの↑新↑↓あたら↓しい↑国↑↓くに↓を|リベリア|↑共和↑↓きょうわ↓↑国↑↓こく↓と↑呼↑↓よ↓んだ。","e":"They called their new country the Republic of Liberia."}]}

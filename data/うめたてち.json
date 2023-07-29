@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"埋め立て地","p":true},{"e":"埋立地"},{"e":"埋立て地","i":["sK"]}],"r_ele":[{"r":"うめたてち","p":true}],"sense":[{"gloss":"reclaimed land","pos":["n"]}]},"sdata":[]}

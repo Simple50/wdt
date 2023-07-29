@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"幕下","p":true}],"r_ele":[{"r":"まくした","p":true}],"sense":[{"gloss":"third highest division, wrestlers of the third highest division","pos":["n"],"f":["sumo"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑早口↑↓はやくち↓で|まくした|てて、↑人↑↓ひと↓をまるめこみます。","e":"She talks a very fast game."}]}

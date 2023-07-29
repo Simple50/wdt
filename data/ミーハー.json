@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ミーハー","p":true},{"r":"みいはあ"}],"sense":[{"gloss":"faddist, follow-the-crowd type, poser, trend junkie, sheep","pos":["n","adj-na"],"x":["みいちゃんはあちゃん"]}],"m":["derog","abbr"]},"sdata":[]}

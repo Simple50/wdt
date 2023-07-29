@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"補い","p":true}],"r_ele":[{"r":"おぎない","p":true}],"sense":[{"gloss":"replenishment, supplement, reparation","pos":["n"]}]},"kdata":{"補":{"on":["ホ"],"kun":["おぎな.う"],"jlpt":2,"meanings":["supply","supplement","make good","offset","compensate","assistant","learner"],"freq":332,"comp":[["衤","甫"]],"s":"捕","t":1601}},"sdata":[]}

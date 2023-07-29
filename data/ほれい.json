@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"保冷","p":true}],"r_ele":[{"r":"ほれい","p":true}],"sense":[{"gloss":"keeping (something) cool","pos":["n"]}]},"sdata":[]}

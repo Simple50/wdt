@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"論功行賞","p":true}],"r_ele":[{"r":"ろんこうこうしょう","p":true}],"sense":[{"gloss":"conferral of honors (honours), according to merits","pos":["n"]}],"m":["yoji"]},"sdata":[]}

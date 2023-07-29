@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天満宮","p":true}],"r_ele":[{"r":"てんまんぐう","p":true}],"sense":[{"gloss":"Tenmangu shrine (shrine dedicated to Sugawara no Michizane's spirit)","pos":["n"]}]},"sdata":[]}

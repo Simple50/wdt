@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小刻み","p":true}],"r_ele":[{"r":"こきざみ","p":true}],"sense":[{"gloss":"mincing, chopping finely","pos":["n","adj-na"]},{"gloss":"short and repeated (movements; e.g. trembling, quick steps)","pos":["adj-na","n"]},{"gloss":"gradual, bit by bit, little by little","pos":["adj-na","n"]}]},"sdata":[]}

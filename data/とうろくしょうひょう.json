@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"登録商標","p":true}],"r_ele":[{"r":"とうろくしょうひょう","p":true}],"sense":[{"gloss":"registered trademark","pos":["n"]}]},"sdata":[]}

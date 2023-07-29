@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"静穏","p":true}],"r_ele":[{"r":"せいおん","p":true}],"sense":[{"gloss":"tranquility, tranquillity, calmness, serenity, quietness","pos":["n","adj-na"]}]},"sdata":[{"j":"↑静穏↑↓|せいおん|↓は↑大↑↓おお↓きな↑宝物↑↓ほうもつ↓である。","e":"Quietness is a great treasure."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"油性","p":true}],"r_ele":[{"r":"ゆせい","p":true}],"sense":[{"gloss":"oil-based","pos":["n","adj-no"]}]},"sdata":[{"j":"その↑油井↑↓|ゆせい|↓はたくさんの↑原油↑↓げんゆ↓を↑産出↑↓さんしゅつ↓する。","e":"The well delivers a great deal of oil."},{"j":"↑石油↑↓せき|ゆ↓↑製品↑↓せい|ひん↓は↑現代↑↓げんだい↓↑社会↑↓しゃかい↓には↑欠↑↓か↓かすことができない。","e":"Products made from petroleum are vital to modern societies."}]}

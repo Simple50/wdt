@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"払い下げる","p":true}],"r_ele":[{"r":"はらいさげる","p":true}],"sense":[{"gloss":"to make a sale of government property","pos":["v1","vt"]}]},"sdata":[]}

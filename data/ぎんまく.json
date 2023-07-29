@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"銀幕","p":true}],"r_ele":[{"r":"ぎんまく","p":true}],"sense":[{"gloss":"(projection) screen","pos":["n"],"x":["映写幕"]},{"gloss":"the silver screen, the film world, movies","pos":["n"]}]},"sdata":[]}

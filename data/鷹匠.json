@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鷹匠","p":true}],"r_ele":[{"r":"たかじょう","p":true}],"sense":[{"gloss":"falconer, hawker","pos":["n"]}]},"kdata":{"鷹":{"on":["ヨウ","オウ"],"kun":["たか"],"meanings":["hawk"],"freq":1676,"comp":[["䧹","鳥"]],"jlpt":0,"t":2308},"匠":{"on":["ショウ"],"kun":["たくみ"],"jlpt":1,"meanings":["artisan","workman","carpenter"],"freq":1718,"comp":[["斤","匚"]],"t":318}},"sdata":[]}

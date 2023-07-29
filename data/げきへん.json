@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"激変","p":true},{"e":"劇変","i":["rK"]}],"r_ele":[{"r":"げきへん","p":true}],"sense":[{"gloss":"sudden change, upheaval","pos":["n","vs","vi"]}]},"sdata":[]}

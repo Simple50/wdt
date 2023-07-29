@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"揮発油","p":true}],"r_ele":[{"r":"きはつゆ","p":true}],"sense":[{"gloss":"gasoline, petrol, petroleum, benzine, volatile oil","pos":["n"]}]},"sdata":[]}

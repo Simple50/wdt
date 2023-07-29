@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"垣間見る","p":true},{"e":"かいま見る"}],"r_ele":[{"r":"かいまみる","p":true}],"sense":[{"gloss":"to take a peep at, to catch a glimpse of","pos":["v1","vt"]}]},"sdata":[]}

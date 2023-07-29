@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"仏頂面","p":true}],"r_ele":[{"r":"ぶっちょうづら","p":true}],"sense":[{"gloss":"sour look, surly face, pout","pos":["n"]}]},"sdata":[]}

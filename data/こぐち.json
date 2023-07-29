@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小口","p":true}],"r_ele":[{"r":"こぐち","p":true}],"sense":[{"gloss":"cut end, edge (of a page, etc.)","pos":["n"]},{"gloss":"small amount, small quantity, small sum","pos":["n","adj-no"],"ant":["大口・おおぐち・3"]},{"gloss":"beginning, clue","pos":["n"]},{"gloss":"tiger's den, jaws of death, dangerous place","pos":["n"],"x":["虎口"]}]},"sdata":[]}

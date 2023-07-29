@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"タスク","p":true}],"sense":[{"gloss":"task","pos":["n"]}]},"sdata":[{"j":"↑僕達↑↓ぼくたち↓の|タスク|は↑壁↑↓かべ↓を↑治↑↓なお↓す。","e":"Our task is to repair a wall."}]}
