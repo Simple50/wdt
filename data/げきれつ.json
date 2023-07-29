@@ -1,0 +1,36 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "分",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "ふん",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "minute (unit of time)",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "fun (one tenth of a monme, 5.787 grains)",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑我々↑↓われわれ↓の↑会社↑↓かいしゃ↓は↑激烈↑↓|げきれつ|↓な↑競争↑↓きょうそう↓に↑耐↑↓た↓えきれなかった。",
+      "e": "Our company failed to survive against cutthroat competition."
+    }
+  ]
+}

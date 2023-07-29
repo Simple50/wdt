@@ -1,0 +1,90 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "人",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "ひと",
+        "p": true
+      },
+      {
+        "r": "ヒト"
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "person, someone, somebody",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "human beings, mankind, man, people, humans",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "human (Homo sapiens)",
+        "pos": [
+          "n"
+        ],
+        "m": [
+          "uk"
+        ]
+      },
+      {
+        "gloss": "(other) people, others",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "character, personality, nature",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "capable person, competent person, suitable person, right person",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "adult, grown-up",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "I, me, one",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "その↑干↑↓かん↓ばつの↑間↑↓ま↓に↑多勢↑↓|たぜい|↓の↑農民↑↓のうみん↓が↑死↑↓し↓んだ。",
+      "e": "Many peasants died during the drought."
+    },
+    {
+      "j": "アメリカ↑人↑↓じん↓が↑貿易↑↓ぼうえき↓↑赤字↑↓あかじ↓を↑累積↑↓るいせき↓したのは、↑限度↑↓げんど↓を↑超↑↓こ↓え|たぜい|たくをしたからですよ。",
+      "e": "Americans accumulated their trade deficits by living far beyond their means."
+    },
+    {
+      "j": "↑多勢↑↓|たぜい|↓に↑無勢↑↓ぶぜい↓。↑私↑↓わたし↓の↑企画↑↓きかく↓は↑残念↑↓ざんねん↓ながら↑取↑↓と↓り↑下↑↓さ↓げますよ。",
+      "e": "It looks like I'm outnumbered here. I hate to do it but I'll withdraw my plan."
+    },
+    {
+      "j": "↑彼↑↓かれ↓らのささやかな↑収入↑↓しゅうにゅう↓では、↑大↑↓たい↓し|た↑贅沢↑↓ぜい|たく↓はできない。",
+      "e": "Their modest income doesn't allow for many luxuries."
+    }
+  ]
+}

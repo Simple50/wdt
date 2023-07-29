@@ -1,0 +1,33 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "者",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "もの",
+        "p": true
+      },
+      {
+        "r": "もん"
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "person",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑空↑↓そら↓と↑山↑↓やま↓の↑対比↑↓たいひ↓が↑鮮烈↑↓|せんれつ|↓だ。",
+      "e": "The contrast between the sky and the mountain is striking."
+    }
+  ]
+}

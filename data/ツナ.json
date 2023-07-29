@@ -1,0 +1,38 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "です",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "be, is",
+        "pos": [
+          "cop"
+        ],
+        "x": [
+          "だ・1"
+        ]
+      }
+    ],
+    "m": [
+      "pol"
+    ]
+  },
+  "sdata": [
+    {
+      "j": "トムはカウンター↑席↑↓せき↓に↑座↑↓すわ↓り、|ツナ|サンドを↑食↑↓た↓べた。",
+      "e": "Tom sat down at the counter and ate a tuna fish sandwich."
+    },
+    {
+      "j": "トムは|ツナ|サンドを↑食↑↓た↓べたんだ。",
+      "e": "Tom ate a tuna sandwich."
+    },
+    {
+      "j": "↑最近↑↓さいきん↓は|ツナ|マヨおにぎり。",
+      "e": "I've been having tuna and mayo onigiri recently."
+    }
+  ]
+}

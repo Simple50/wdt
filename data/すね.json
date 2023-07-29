@@ -1,0 +1,100 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "方",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "かた",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "direction, way",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "person, lady, gentleman",
+        "pos": [
+          "n"
+        ],
+        "m": [
+          "hon"
+        ]
+      },
+      {
+        "gloss": "method of, manner of, way of",
+        "pos": [
+          "n",
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "care of ...",
+        "pos": [
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "person in charge of ...",
+        "pos": [
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "side (e.g. \"on my mother's side\")",
+        "pos": [
+          "n-suf"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "いい↑考↑↓かんが↓えで|すね|。",
+      "e": "That's a good idea!"
+    },
+    {
+      "j": "↑君↑↓きみ↓は↑疲↑↓つか↓れていま|すね|。",
+      "e": "You are tired, aren't you?"
+    },
+    {
+      "j": "↑熱↑↓ねつ↓はないで|すね|。",
+      "e": "You don't have a temperature."
+    },
+    {
+      "j": "↑今日↑↓きょう↓は↑楽↑↓たの↓しそうで|すね|。",
+      "e": "You look happy today."
+    },
+    {
+      "j": "↑君↑↓きみ↓は↑今日↑↓きょう↓は↑熱↑↓ねつ↓が↑少↑↓すこ↓しありま|すね|。",
+      "e": "You have a little fever today, don't you?"
+    },
+    {
+      "j": "↑君↑↓きみ↓は↑英語↑↓えいご↓がうまく↑話↑↓はな↓せま|すね|？",
+      "e": "You can speak English well, can you not?"
+    },
+    {
+      "j": "↑君↑↓きみ↓は↑泳↑↓およ↓げないので|すね|。",
+      "e": "You can't swim, can you?"
+    },
+    {
+      "j": "↑君↑↓きみ↓はフランス↑語↑↓ご↓が↑話↑↓はな↓せないので|すね|？",
+      "e": "You can't speak French, can you?"
+    },
+    {
+      "j": "↑君↑↓きみ↓はドイツ↑語↑↓ご↓を↑知↑↓し↓らないんで|すね|。",
+      "e": "You don't know German, do you?"
+    },
+    {
+      "j": "↑君↑↓きみ↓の↑時計↑↓とけい↓は↑高↑↓たか↓いそうで|すね|。",
+      "e": "Your watch seems to be very valuable."
+    }
+  ]
+}

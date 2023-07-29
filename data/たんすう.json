@@ -1,0 +1,60 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "思い",
+        "p": true
+      },
+      {
+        "e": "想い"
+      },
+      {
+        "e": "念い"
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "おもい",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "thought",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "imagination, mind, heart",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "desire, wish, hope, expectation",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "love, affection",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "feelings, emotion, sentiment, experience",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "everyは↑単数↑↓|たんすう|↓↑扱↑↓あつか↓いになります。",
+      "e": "The word \"every\" is treated as singular."
+    }
+  ]
+}

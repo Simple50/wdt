@@ -1,0 +1,80 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "出",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "で",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "coming out, going out, outflow, efflux, rising (of the Sun or the Moon)",
+        "pos": [
+          "n",
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "attending (work), appearing (on stage), one's turn to go on",
+        "pos": [
+          "n",
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "start, beginning",
+        "pos": [
+          "n",
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "origins, background, person (or item) originating from ..., graduate of ..., native of ..., member of ... (lineage)",
+        "pos": [
+          "n",
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "architectural member that projects outward",
+        "pos": [
+          "n",
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "highest point of the stern of a ship",
+        "pos": [
+          "n",
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "amount (comprising something), amount of time or effort required to do something",
+        "pos": [
+          "n",
+          "n-suf"
+        ],
+        "m": [
+          "uk"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑漏↑↓ろう↓えいはすぐに↑食↑↓|く↓いとめる|↑必要↑↓ひつよう↓がある。",
+      "e": "The leak needs to be stopped immediately."
+    },
+    {
+      "j": "↑人類↑↓じんるい↓は↑生態↑↓せいたい↓↑系↑↓けい↓の↑衰退↑↓すいたい↓を↑食↑↓|く↓い↑止↑↓と↓める|ことができるのでしょうか？",
+      "e": "Will humanity be able to prevent the degradation of ecosystems?"
+    }
+  ]
+}

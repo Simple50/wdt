@@ -1,0 +1,115 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "話",
+        "p": true
+      },
+      {
+        "e": "話し",
+        "i": [
+          "io"
+        ]
+      },
+      {
+        "e": "咄",
+        "i": [
+          "rK"
+        ]
+      },
+      {
+        "e": "噺",
+        "i": [
+          "rK"
+        ]
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "はなし",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "talk, speech, chat, conversation",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "topic, subject",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "discussions, negotiation, argument",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "rumor, talk, hearsay",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "tale, story, fable",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "circumstances, particulars",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "紡": {
+      "on": [
+        "ボウ"
+      ],
+      "kun": [
+        "つむ.ぐ"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "spinning"
+      ],
+      "freq": 1876,
+      "comp": [
+        [
+          "糸",
+          "方"
+        ]
+      ],
+      "t": 1149
+    },
+    "績": {
+      "on": [
+        "セキ"
+      ],
+      "jlpt": 2,
+      "meanings": [
+        "exploits",
+        "achievements",
+        "unreeling cocoons"
+      ],
+      "freq": 820,
+      "comp": [
+        [
+          "糸",
+          "責"
+        ]
+      ],
+      "s": "精",
+      "t": 2190
+    }
+  },
+  "sdata": []
+}

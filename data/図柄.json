@@ -1,0 +1,102 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "なり",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "or something, for instance ... (though there are other suitable options)",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "... or ...",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "as soon as, right after",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "while still, with previous state still in effect",
+        "pos": [
+          "prt"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "図": {
+      "on": [
+        "ズ",
+        "ト"
+      ],
+      "kun": [
+        "え",
+        "はか.る"
+      ],
+      "jlpt": 4,
+      "meanings": [
+        "map",
+        "drawing",
+        "plan",
+        "extraordinary",
+        "audacious"
+      ],
+      "freq": 539,
+      "comp": [
+        [
+          "囗",
+          "丶",
+          "乂"
+        ]
+      ],
+      "t": 468
+    },
+    "柄": {
+      "on": [
+        "ヘイ"
+      ],
+      "kun": [
+        "がら",
+        "え",
+        "つか"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "design",
+        "pattern",
+        "build",
+        "nature",
+        "character",
+        "handle",
+        "crank",
+        "grip",
+        "knob",
+        "shaft"
+      ],
+      "freq": 1140,
+      "comp": [
+        [
+          "丙",
+          "木"
+        ]
+      ],
+      "t": 888
+    }
+  },
+  "sdata": [
+    {
+      "j": "その|↑図柄|↑↓ずがら↓はまったくよく↑似↑↓に↓ている。",
+      "e": "The figures are exactly alike."
+    }
+  ]
+}

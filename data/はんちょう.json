@@ -1,0 +1,72 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "十",
+        "p": true
+      },
+      {
+        "e": "１０"
+      },
+      {
+        "e": "拾"
+      },
+      {
+        "e": "什"
+      },
+      {
+        "e": "一〇"
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "じゅう",
+        "p": true
+      },
+      {
+        "r": "とお",
+        "p": true
+      },
+      {
+        "r": "と"
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "ten, 10",
+        "pos": [
+          "num"
+        ]
+      },
+      {
+        "gloss": "ten years of age",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "book containing a collection of poems",
+        "pos": [
+          "n"
+        ],
+        "m": [
+          "arch"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑８↑↓はち↓↑時半↑↓じ|はん↓ちょう|どですか。",
+      "e": "Is it just eight-thirty?"
+    },
+    {
+      "j": "ジャスティン↑班長↑↓|はんちょう|↓、↑亜↑↓あ↓↑空間↑↓くうかん↓レーダーに↑反応↑↓はんのう↓↑出↑↓で↓ました！",
+      "e": "Squad Leader Justin, a blip's appeared on the hyperspace radar!"
+    },
+    {
+      "j": "↑８↑↓はち↓↑時半↑↓じ|はん↓ちょう|どです。",
+      "e": "It's exactly half-past eight."
+    }
+  ]
+}

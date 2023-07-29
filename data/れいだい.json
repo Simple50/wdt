@@ -1,0 +1,46 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "年",
+        "p": true
+      },
+      {
+        "e": "歳"
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "とし",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "year",
+        "pos": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": "age, years",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "past one's prime, old age",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑君↑↓きみ↓のワークブックの↑最初↑↓さいしょ↓の↑例題↑↓|れいだい|↓をしなさい。",
+      "e": "Do the first example in your workbook."
+    }
+  ]
+}

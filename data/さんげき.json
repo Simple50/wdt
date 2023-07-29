@@ -1,0 +1,38 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "たい",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "want to ... do something, would like to ...",
+        "pos": [
+          "aux-adj"
+        ]
+      },
+      {
+        "gloss": "indicates emphasis",
+        "pos": [
+          "prt"
+        ],
+        "dial": [
+          "kyu"
+        ]
+      },
+      {
+        "gloss": "very ...",
+        "pos": [
+          "suf",
+          "adj-i"
+        ],
+        "x": [
+          "めでたい"
+        ]
+      }
+    ]
+  },
+  "sdata": []
+}

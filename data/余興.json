@@ -1,0 +1,142 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "いい",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "good, excellent, fine, nice, pleasant, agreeable",
+        "pos": [
+          "adj-ix"
+        ],
+        "x": [
+          "良い・よい・1"
+        ]
+      },
+      {
+        "gloss": "sufficient, enough, ready, prepared",
+        "pos": [
+          "adj-ix"
+        ],
+        "x": [
+          "良い・よい・2"
+        ]
+      },
+      {
+        "gloss": "profitable (deal, business offer, etc.), beneficial",
+        "pos": [
+          "adj-ix"
+        ],
+        "x": [
+          "良い・よい・3"
+        ]
+      },
+      {
+        "gloss": "OK, all right, fine, no problem",
+        "pos": [
+          "adj-ix"
+        ],
+        "x": [
+          "良い・よい・4"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "余": {
+      "on": [
+        "ヨ"
+      ],
+      "kun": [
+        "あま.る",
+        "あま.り",
+        "あま.す",
+        "あんま.り"
+      ],
+      "jlpt": 3,
+      "meanings": [
+        "too much",
+        "myself",
+        "surplus",
+        "other",
+        "remainder"
+      ],
+      "freq": 680,
+      "comp": [
+        [
+          "亼",
+          "ホ"
+        ]
+      ],
+      "d": [
+        "除",
+        "途",
+        "徐",
+        "斜",
+        "叙",
+        "荼",
+        "餘",
+        "涂",
+        "敍",
+        "蜍",
+        "悆",
+        "駼",
+        "狳",
+        "稌",
+        "畬",
+        "敘",
+        "畭",
+        "俆",
+        "艅",
+        "賖",
+        "酴",
+        "凃"
+      ],
+      "s": "金",
+      "t": 439
+    },
+    "興": {
+      "on": [
+        "コウ",
+        "キョウ"
+      ],
+      "kun": [
+        "おこ.る",
+        "おこ.す"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "entertain",
+        "revive",
+        "retrieve",
+        "interest",
+        "pleasure"
+      ],
+      "freq": 734,
+      "comp": [
+        [
+          "同",
+          "舁"
+        ]
+      ],
+      "d": [
+        "與",
+        "臖"
+      ],
+      "t": 2134
+    }
+  },
+  "sdata": [
+    {
+      "j": "↑忘年会↑↓ぼうねんかい↓の|↑余興|↑↓よきょう↓で↑大喜↑↓おおぎ↓↑利↑↓り↓をやることになった。",
+      "e": "It's been decided that the entertainment for our year-end party will be a question-with-comical-improvised-answer session."
+    },
+    {
+      "j": "↑忘年会↑↓ぼうねんかい↓の|↑余興|↑↓よきょう↓で↑大喜↑↓おおぎ↓↑利↑↓り↓をやることになった。",
+      "e": "We decided to have a last piece on the programme at the year-end party."
+    }
+  ]
+}

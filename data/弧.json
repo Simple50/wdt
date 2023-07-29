@@ -1,0 +1,87 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "本",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "ほん",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "book, volume, script",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "this, present, current, ... in question, ... at issue",
+        "pos": [
+          "pref"
+        ]
+      },
+      {
+        "gloss": "main, head, principal",
+        "pos": [
+          "pref"
+        ]
+      },
+      {
+        "gloss": "real, genuine, regular, proper",
+        "pos": [
+          "pref"
+        ]
+      },
+      {
+        "gloss": "counter for long, cylindrical things, counter for films, TV shows, etc., counter for goals, home runs, etc., counter for telephone calls",
+        "pos": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "弧": {
+      "on": [
+        "コ"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "arc",
+        "arch",
+        "bow"
+      ],
+      "freq": 2371,
+      "comp": [
+        [
+          "瓜",
+          "弓"
+        ]
+      ],
+      "t": 858
+    }
+  },
+  "sdata": [
+    {
+      "j": "↑要素↑↓ようそ↓↑Ｃ↑↓しー↓と↑Ｄ↑↓でぃー↓は|↑弧|↑↓こ↓の↑生成↑↓せいせい↓には↑無関係↑↓むかんけい↓なので↑排除↑↓はいじょ↓することができる。",
+      "e": "We can eliminate C and D since they are irrelevant to the generation of the arcs."
+    },
+    {
+      "j": "↑花火↑↓はなび↓のフィナーレを↑飾↑↓かざ↓った「しだれ↑柳↑↓やなぎ↓」は、↑夜空↑↓よぞら↓に↑華↑↓はな↓やかに↑舞↑↓ま↓い↑上↑↓あ↓がり、↑緩↑↓ゆる↓やかな|↑弧|↑↓こ↓を↑描↑↓えが↓きながらゆっくりと↑垂↑↓た↓れ↑下↑↓さ↓がって、やがてその↑可憐↑↓かれん↓な↑姿↑↓すがた↓を↑消↑↓け↓していった。",
+      "e": "The Firework's displays final \"Weeping Willow\" display brilliantly launched into the night sky, slowly dripping down as it drew a gentle slope until finally its blossoming figure gradually vanished."
+    },
+    {
+      "j": "この↑語句↑↓ごく↓は、↑括|弧|↑↓かっこ↓で↑囲↑↓かこ↓んだ↑方↑↓ほう↓がいいよ。",
+      "e": "You should put this phrase in parentheses."
+    },
+    {
+      "j": "この↑語句↑↓ごく↓は、↑括|弧|↑↓かっこ↓で↑囲↑↓かこ↓んだ↑方↑↓ほう↓がいいよ。",
+      "e": "You should put parentheses around this phrase."
+    }
+  ]
+}

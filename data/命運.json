@@ -1,0 +1,97 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "あっ",
+        "p": true
+      },
+      {
+        "r": "アッ",
+        "p": true
+      },
+      {
+        "r": "アっ"
+      },
+      {
+        "r": "あ"
+      },
+      {
+        "r": "ア"
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "ah, oh",
+        "pos": [
+          "int"
+        ]
+      },
+      {
+        "gloss": "hey!",
+        "pos": [
+          "int"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "命": {
+      "on": [
+        "メイ",
+        "ミョウ"
+      ],
+      "kun": [
+        "いのち"
+      ],
+      "jlpt": 3,
+      "meanings": [
+        "fate",
+        "command",
+        "decree",
+        "destiny",
+        "life",
+        "appoint"
+      ],
+      "freq": 465,
+      "comp": [
+        [
+          "亼",
+          "叩"
+        ]
+      ],
+      "d": [
+        "掵"
+      ],
+      "t": 624
+    },
+    "運": {
+      "on": [
+        "ウン"
+      ],
+      "kun": [
+        "はこ.ぶ"
+      ],
+      "jlpt": 4,
+      "meanings": [
+        "carry",
+        "luck",
+        "destiny",
+        "fate",
+        "lot",
+        "transport",
+        "progress",
+        "advance"
+      ],
+      "freq": 255,
+      "comp": [
+        [
+          "辶",
+          "軍"
+        ]
+      ],
+      "s": "連,蓮",
+      "t": 1628
+    }
+  },
+  "sdata": []
+}

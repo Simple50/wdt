@@ -1,0 +1,55 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "今",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "いま",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "now, the present time, just now, soon, immediately",
+        "pos": [
+          "n",
+          "adj-no",
+          "adv"
+        ]
+      },
+      {
+        "gloss": "another, more",
+        "pos": [
+          "adv"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "梓": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "あずさ"
+      ],
+      "meanings": [
+        "catalpa tree",
+        "woodblock printing"
+      ],
+      "freq": 2301,
+      "comp": [
+        [
+          "辛",
+          "木"
+        ]
+      ],
+      "jlpt": 0
+    }
+  },
+  "sdata": []
+}

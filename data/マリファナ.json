@@ -1,0 +1,54 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "考え",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "かんがえ",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "thinking, thought, view, opinion, concept",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "idea, notion, imagination",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "intention, plan, design",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "consideration, judgement, deliberation, reflection",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "wish, hope, expectation",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "|マリファナ|についてトムと↑議論↑↓ぎろん↓した。",
+      "e": "I had an argument with Tom about the use of marijuana."
+    }
+  ]
+}

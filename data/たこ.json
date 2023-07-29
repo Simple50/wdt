@@ -1,0 +1,66 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "人",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "にん",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "counter for people",
+        "pos": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "こんな↑馬鹿↑↓ばか↓なことは↑言↑↓い↓っ|たこ|とが↑無↑↓な↓い。",
+      "e": "That's the stupidest thing I've ever said."
+    },
+    {
+      "j": "その↑後↑↓ご↓↑私↑↓わたし↓はそこを↑出↑↓で↓るんだけど、↑鞄↑↓かばん↓を↑忘↑↓わす↓れてき|たこ|とに↑気付↑↓きづ↓くんだ。",
+      "e": "After that, I left, but then I realized that I forgot my backpack at their house."
+    },
+    {
+      "j": "「↑以前↑↓いぜん↓にどこかで↑会↑↓あ↓っ|たこ|とがありませんか」とその↑学生↑↓がくせい↓はたずねた。",
+      "e": "Haven't we met somewhere before? asked the student."
+    },
+    {
+      "j": "バナナパイを↑食↑↓た↓べ|たこ|とがありますか。",
+      "e": "Have you ever eaten a banana pie?"
+    },
+    {
+      "j": "カーチャは↑無政府↑↓むせいふ↓↑主義↑↓しゅぎ↓↑者↑↓しゃ↓であっ|たこ|とを↑否認↑↓ひにん↓し、↑政治↑↓せいじ↓↑体制↑↓たいせい↓に↑変革↑↓へんかく↓をもたらすことを↑望↑↓のぞ↓んだだけで、↑破壊↑↓はかい↓しようとしたわけではない、と↑主張↑↓しゅちょう↓し↑続↑↓つづ↓けた。",
+      "e": "Denying she was an anarchist, Katja maintained she wished only to make changes in our government, not to destroy it."
+    },
+    {
+      "j": "↑彼↑↓かれ↓の↑評論↑↓ひょうろん↓は↑問題↑↓もんだい↓の↑表面↑↓ひょうめん↓↑的↑↓てき↓な↑分析↑↓ぶんせき↓↑結果↑↓けっか↓を↑取↑↓と↓り↑上↑↓あ↓げていただけだったのでクラスで↑最↑↓さい↓↑上位↑↓じょうい↓の↑成績↑↓せいせき↓を↑得↑↓え↓|たこ|とにとても↑驚↑↓おどろ↓いた。",
+      "e": "His essay gave only a superficial analysis of the problem, so it was a real surprise to him when he got the highest grade in the class."
+    },
+    {
+      "j": "↑大↑↓たい↓し|たこ|とじゃないんだから。",
+      "e": "It's not important."
+    },
+    {
+      "j": "それは↑随分↑↓ずいぶん↓↑昔↑↓むかし↓に↑起↑↓お↓き|たこ|とです。",
+      "e": "It happened a long time ago."
+    },
+    {
+      "j": "↑君↑↓きみ↓は↑僕↑↓ぼく↓が↑言↑↓い↓っ|たこ|とに↑腹↑↓はら↓を↑立↑↓た↓てているのか。",
+      "e": "Are you angry at what I said?"
+    },
+    {
+      "j": "↑富士山↑↓ふじさん↓に↑登↑↓のぼ↓っ|たこ|とがありますか。",
+      "e": "Have you ever climbed Mt. Fuji?"
+    }
+  ]
+}

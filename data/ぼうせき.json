@@ -1,0 +1,73 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "話",
+        "p": true
+      },
+      {
+        "e": "話し",
+        "i": [
+          "io"
+        ]
+      },
+      {
+        "e": "咄",
+        "i": [
+          "rK"
+        ]
+      },
+      {
+        "e": "噺",
+        "i": [
+          "rK"
+        ]
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "はなし",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "talk, speech, chat, conversation",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "topic, subject",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "discussions, negotiation, argument",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "rumor, talk, hearsay",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "tale, story, fable",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "circumstances, particulars",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "sdata": []
+}

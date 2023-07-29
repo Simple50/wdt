@@ -1,0 +1,135 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "たり",
+        "p": true
+      },
+      {
+        "r": "だり"
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "-ing and -ing (e.g. \"coming and going\")",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "doing such things as...",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "expresses a command",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "to be",
+        "pos": [
+          "aux-v",
+          "vr"
+        ],
+        "m": [
+          "arch"
+        ],
+        "x": [
+          "たる"
+        ]
+      },
+      {
+        "gloss": "indicates completion or continuation of an action",
+        "pos": [
+          "aux-v",
+          "vr"
+        ],
+        "m": [
+          "arch"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "支": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "ささ.える",
+        "つか.える",
+        "か.う"
+      ],
+      "jlpt": 3,
+      "meanings": [
+        "branch",
+        "support",
+        "sustain",
+        "branch radical (no. 65)"
+      ],
+      "freq": 159,
+      "comp": [
+        [
+          "十",
+          "又"
+        ]
+      ],
+      "d": [
+        "技",
+        "枝",
+        "岐",
+        "鼓",
+        "肢",
+        "伎",
+        "翅",
+        "妓",
+        "屐",
+        "歧",
+        "豉",
+        "頍",
+        "跂",
+        "吱",
+        "庋",
+        "忮",
+        "攱",
+        "芰",
+        "蚑",
+        "鈘",
+        "鳷",
+        "攲"
+      ],
+      "t": 137
+    },
+    "所": {
+      "on": [
+        "ショ"
+      ],
+      "kun": [
+        "ところ",
+        "-ところ",
+        "どころ",
+        "とこ"
+      ],
+      "jlpt": 3,
+      "meanings": [
+        "place",
+        "extent"
+      ],
+      "freq": 221,
+      "comp": [
+        [
+          "戶",
+          "斤"
+        ]
+      ],
+      "d": [
+        "齭"
+      ],
+      "t": 672
+    }
+  },
+  "sdata": []
+}

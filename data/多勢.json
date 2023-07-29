@@ -1,0 +1,149 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "人",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "ひと",
+        "p": true
+      },
+      {
+        "r": "ヒト"
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "person, someone, somebody",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "human beings, mankind, man, people, humans",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "human (Homo sapiens)",
+        "pos": [
+          "n"
+        ],
+        "m": [
+          "uk"
+        ]
+      },
+      {
+        "gloss": "(other) people, others",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "character, personality, nature",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "capable person, competent person, suitable person, right person",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "adult, grown-up",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "I, me, one",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "多": {
+      "on": [
+        "タ"
+      ],
+      "kun": [
+        "おお.い",
+        "まさ.に",
+        "まさ.る"
+      ],
+      "jlpt": 4,
+      "meanings": [
+        "many",
+        "frequent",
+        "much"
+      ],
+      "freq": 139,
+      "comp": [
+        [
+          "夕"
+        ]
+      ],
+      "d": [
+        "移",
+        "侈",
+        "夥",
+        "黟",
+        "哆",
+        "爹",
+        "夡",
+        "奓",
+        "恀",
+        "眵",
+        "蛥",
+        "誃",
+        "趍",
+        "迻",
+        "鉹",
+        "栘"
+      ],
+      "t": 337
+    },
+    "勢": {
+      "on": [
+        "セイ",
+        "ゼイ"
+      ],
+      "kun": [
+        "いきお.い",
+        "はずみ"
+      ],
+      "jlpt": 2,
+      "meanings": [
+        "forces",
+        "energy",
+        "military strength"
+      ],
+      "freq": 260,
+      "comp": [
+        [
+          "埶",
+          "力"
+        ]
+      ],
+      "t": 1690
+    }
+  },
+  "sdata": [
+    {
+      "j": "その↑干↑↓かん↓ばつの↑間↑↓ま↓に|↑多勢|↑↓たぜい↓の↑農民↑↓のうみん↓が↑死↑↓し↓んだ。",
+      "e": "Many peasants died during the drought."
+    },
+    {
+      "j": "|↑多勢|↑↓たぜい↓に↑無勢↑↓ぶぜい↓。↑私↑↓わたし↓の↑企画↑↓きかく↓は↑残念↑↓ざんねん↓ながら↑取↑↓と↓り↑下↑↓さ↓げますよ。",
+      "e": "It looks like I'm outnumbered here. I hate to do it but I'll withdraw my plan."
+    }
+  ]
+}

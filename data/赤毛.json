@@ -1,0 +1,157 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "年",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "ねん",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "year",
+        "pos": [
+          "n"
+        ],
+        "x": [
+          "年に一度"
+        ]
+      },
+      {
+        "gloss": "counter for years (e.g. of an era), grades (e.g. school)",
+        "pos": [
+          "ctr"
+        ]
+      },
+      {
+        "gloss": "period of an apprentice's contract (usu. ten years)",
+        "pos": [
+          "n"
+        ],
+        "m": [
+          "abbr"
+        ],
+        "x": [
+          "年季・1"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "赤": {
+      "on": [
+        "セキ",
+        "シャク"
+      ],
+      "kun": [
+        "あか",
+        "あか-",
+        "あか.い",
+        "あか.らむ",
+        "あか.らめる"
+      ],
+      "jlpt": 4,
+      "meanings": [
+        "red",
+        "naked"
+      ],
+      "freq": 584,
+      "comp": [
+        [
+          "丿",
+          "小",
+          "土"
+        ]
+      ],
+      "d": [
+        "赦",
+        "嚇",
+        "赫",
+        "郝",
+        "赭",
+        "赧",
+        "焃",
+        "赥",
+        "赩",
+        "赬",
+        "赮",
+        "頳"
+      ],
+      "t": 556
+    },
+    "毛": {
+      "on": [
+        "モウ"
+      ],
+      "kun": [
+        "け"
+      ],
+      "jlpt": 2,
+      "meanings": [
+        "fur",
+        "hair",
+        "feather",
+        "down"
+      ],
+      "freq": 1179,
+      "d": [
+        "尾",
+        "耗",
+        "毫",
+        "毯",
+        "麾",
+        "粍",
+        "氈",
+        "魹",
+        "髦",
+        "毟",
+        "毳",
+        "耄",
+        "毣",
+        "旄",
+        "氊",
+        "瓱",
+        "竓",
+        "毡",
+        "毦",
+        "毧",
+        "毱",
+        "毷",
+        "毹",
+        "毿",
+        "氂",
+        "氄",
+        "氅",
+        "氉",
+        "氍",
+        "氎",
+        "眊",
+        "秏",
+        "笔",
+        "芼",
+        "蚝"
+      ],
+      "s": "手",
+      "t": 148
+    }
+  },
+  "sdata": [
+    {
+      "j": "メアリーはそばかすがあって、↑髪↑↓かみ↓は|↑赤毛|↑↓あかげ↓です。",
+      "e": "Mary has freckles and red hair."
+    },
+    {
+      "j": "↑私↑↓わたし↓の↑好↑↓す↓きな↑物語↑↓ものがたり↓は、『|↑赤毛|↑↓あかげ↓のアン』『トム・ソーヤーの↑冒険↑↓ぼうけん↓』『アルプスの↑少女↑↓しょうじょ↓ハイジ』なんだ。",
+      "e": "My favorite stories are \"Anne of Green Gables\", \"The Adventures of Tom Sawyer\" and \"Heidi, Girl of the Alps\"."
+    },
+    {
+      "j": "『|↑赤毛|↑↓あかげ↓のアン』の↑本↑↓ほん↓を↑読↑↓よ↓んだ↑感想↑↓かんそう↓を↑聞↑↓き↓かせてください。",
+      "e": "I want to hear your opinions on the book \"Anne of Green Gables\", which you have read."
+    }
+  ]
+}

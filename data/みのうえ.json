@@ -1,0 +1,75 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "さ",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "-ness",
+        "pos": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": "indicates assertion",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "come, come now",
+        "pos": [
+          "int"
+        ],
+        "x": [
+          "さあ・1"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "もう↑畳↑↓たた|み↓の↑上↑↓うえ|↓に↑座↑↓すわ↓るのには↑慣↑↓な↓れました。",
+      "e": "I am already accustomed to sitting on tatami."
+    },
+    {
+      "j": "その↑不幸↑↓ふこう↓な↑女性↑↓じょせい↓は↑涙↑↓なみだ↓にかきくれて↑身↑↓|み↓の↑上↑↓うえ|↓↑話↑↓ばなし↓をした。",
+      "e": "The unhappy woman, drowned in tears, told her story."
+    },
+    {
+      "j": "↑湖↑↓みずう|み↓の↑上↑↓うえ|↓に↑幾↑↓いく↓↑艘↑↓そう↓かのボートがあった。",
+      "e": "There were some boats on the lake."
+    },
+    {
+      "j": "↑私↑↓わたし↓の↑身↑↓|み↓の↑上↑↓うえ|↓↑話↑↓ばなし↓をしましょう。",
+      "e": "I'll tell you my story."
+    },
+    {
+      "j": "↑彼↑↓かれ↓の↑身↑↓|み↓の↑上↑↓うえ|↓に↑何↑↓なに↓があったか↑誰↑↓だれ↓も↑知↑↓し↓らない。",
+      "e": "No one knows what has happened to him."
+    },
+    {
+      "j": "↑彼↑↓かれ↓は↑紙↑↓か|み↓のうえ|に↑垂直↑↓すいちょく↓な↑線↑↓せん↓を↑何↑↓なん↓↑本↑↓ほん↓か↑引↑↓ひ↓いた。",
+      "e": "He drew some vertical lines on the paper."
+    },
+    {
+      "j": "↑彼女↑↓かのじょ↓は↑会↑↓あ↓う↑人↑↓ひと↓すべてに↑自分↑↓じぶん↓の↑不幸↑↓ふこう↓な↑身↑↓|み↓の↑上↑↓うえ|↓↑話↑↓ばなし↓をする。",
+      "e": "She tells her tale of misery to everyone she meets."
+    },
+    {
+      "j": "↑彼女↑↓かのじょ↓は↑深呼吸↑↓しんこきゅう↓してから、↑身↑↓|み↓の↑上↑↓うえ|↓を↑語↑↓かた↓り↑始↑↓はじ↓めた。",
+      "e": "She took a deep breath and then started to talk about herself."
+    },
+    {
+      "j": "コンピューターのマニュアルを↑読↑↓よ↓むだけでは↑所詮↑↓しょせん↓↑畳↑↓たた|み↓の↑上↑↓うえ|↓の↑水練↑↓すいれん↓だ。",
+      "e": "Just reading a computer manual is like practicing swimming on dry land."
+    },
+    {
+      "j": "↑陰陽↑↓いんよう↓↑師↑↓し↓↑身↑↓|み↓の↑上↑↓うえ|↓↑知↑↓し↓らず。",
+      "e": "The Ying Yang diviner may not predict his own fate."
+    }
+  ]
+}

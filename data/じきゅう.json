@@ -1,0 +1,81 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "一",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "ひと",
+        "p": true
+      },
+      {
+        "r": "ひ"
+      },
+      {
+        "r": "ひい"
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "one",
+        "pos": [
+          "pref"
+        ],
+        "x": [
+          "一・いち・1"
+        ]
+      },
+      {
+        "gloss": "one",
+        "pos": [
+          "num"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑育児↑↓いく|じ↓↑休暇↑↓きゅう|か↓や↑老人↑↓ろうじん↓↑介護↑↓かいご↓のための↑休↑↓やす↓みも、↑現在↑↓げんざい↓↑日本↑↓にっぽん↓で↑起↑↓お↓きている↑人口↑↓じんこう↓↑構成↑↓こうせい↓の↑変動↑↓へんどう↓に↑対応↑↓たいおう↓するために↑必要↑↓ひつよう↓となっているのである。",
+      "e": "Child-care leave and time off to care for the aged are needed in order to respond to demographic changes now taking place in Japan."
+    },
+    {
+      "j": "ほんの↑一↑↓いち↓↑握↑↓にぎ↓りの↑男性↑↓だんせい↓しか↑育児↑↓いく|じ↓↑休暇↑↓きゅう|か↓を↑取↑↓と↓りたがらない。",
+      "e": "Only a handful of men want to take childcare leave."
+    },
+    {
+      "j": "トムは↑勤務↑↓きんむ↓↑終了↑↓しゅうりょう↓↑時間↑↓じかん↓を↑超↑↓こ↓えて↑働↑↓はたら↓くと、５↑割↑↓わり↓アップの↑時給↑↓|じきゅう|↓をもらっていた。",
+      "e": "Tom got time and a half when he worked beyond his usual quitting time."
+    },
+    {
+      "j": "あの↑修理工↑↓しゅうりこう↓たちは↑時給↑↓|じきゅう|↓↑一↑↓いち↓↑万↑↓まん↓↑円↑↓えん↓ももらっている。",
+      "e": "Those mechanics are paid as much as ten thousand yen per hour."
+    },
+    {
+      "j": "↑今頃↑↓いまごろ↓↑彼↑↓かれ↓は↑万事休↑↓ばん|じきゅう|↓すだ。",
+      "e": "It is all up with him by this time."
+    },
+    {
+      "j": "↑支配人↑↓しはいにん↓は↑臨時↑↓りん|じ↓↑休業↑↓きゅう|ぎょう↓の↑掲示↑↓けいじ↓を↑貼↑↓は↓り↑出↑↓だ↓した。",
+      "e": "The manager put up a notice about the extra holiday."
+    },
+    {
+      "j": "ウルスルさんは↑昨日↑↓きのう↓、↑時給↑↓|じきゅう|↓↑５↑↓ご↓ドル↑６５↑↓ろくじゅうご↓セントの↑昇給↑↓しょうきゅう↓を↑要求↑↓ようきゅう↓しました。",
+      "e": "Ursule asked for a pay raise of 5 dollars and 65 cents an hour yesterday."
+    },
+    {
+      "j": "↑時給↑↓|じきゅう|↓はいくら？",
+      "e": "How much is your hourly pay?"
+    },
+    {
+      "j": "↑彼↑↓かれ↓らには↑臨時↑↓りん|じ↓↑救助↑↓きゅう|じょ↓が↑必要↑↓ひつよう↓だ。",
+      "e": "They require extra help."
+    },
+    {
+      "j": "↑毎年↑↓まいとし↓↑同↑↓おな↓|じ↑旧型↑↓きゅう|がた↓の↑製品↑↓せいひん↓を↑作↑↓つく↓っても↑始↑↓はじ↓まらない。",
+      "e": "It's no good making the same old products year after year."
+    }
+  ]
+}

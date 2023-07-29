@@ -1,0 +1,46 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "だ",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "be, is",
+        "pos": [
+          "cop"
+        ],
+        "x": [
+          "である",
+          "です"
+        ]
+      },
+      {
+        "gloss": "did, (have) done",
+        "pos": [
+          "aux-v"
+        ],
+        "x": [
+          "た・1"
+        ]
+      },
+      {
+        "gloss": "please, do",
+        "pos": [
+          "aux-v"
+        ],
+        "x": [
+          "た・2"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "|オラクル|マスターって↑言↑↓い↓うからスピリチュアル↑関係↑↓かんけい↓かと↑思↑↓おも↓ったらコンピューター↑関係↑↓かんけい↓じゃん。つまらん。",
+      "e": "It said \"Oracle Master,\" so I thought it was something related to spirits, but no, it was only about computers. Boring."
+    }
+  ]
+}

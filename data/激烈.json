@@ -1,0 +1,87 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "分",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "ふん",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "minute (unit of time)",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "fun (one tenth of a monme, 5.787 grains)",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "激": {
+      "on": [
+        "ゲキ"
+      ],
+      "kun": [
+        "はげ.しい"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "violent",
+        "get excited",
+        "enraged",
+        "chafe",
+        "incite"
+      ],
+      "freq": 560,
+      "comp": [
+        [
+          "氵",
+          "敫"
+        ]
+      ],
+      "t": 2115
+    },
+    "烈": {
+      "on": [
+        "レツ"
+      ],
+      "kun": [
+        "はげ.しい"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "violent",
+        "ardent",
+        "vehement",
+        "furious",
+        "severe",
+        "extreme"
+      ],
+      "freq": 1397,
+      "comp": [
+        [
+          "列",
+          "灬"
+        ]
+      ],
+      "t": 1116
+    }
+  },
+  "sdata": [
+    {
+      "j": "↑我々↑↓われわれ↓の↑会社↑↓かいしゃ↓は|↑激烈|↑↓げきれつ↓な↑競争↑↓きょうそう↓に↑耐↑↓た↓えきれなかった。",
+      "e": "Our company failed to survive against cutthroat competition."
+    }
+  ]
+}

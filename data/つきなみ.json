@@ -1,0 +1,63 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "私",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "わたくし",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "I, me",
+        "pos": [
+          "pn"
+        ],
+        "x": [
+          "私・わたし"
+        ]
+      },
+      {
+        "gloss": "personal (affairs, etc.), private",
+        "pos": [
+          "adj-no",
+          "n"
+        ],
+        "ant": [
+          "公・おおやけ・2"
+        ]
+      },
+      {
+        "gloss": "selfishness, partiality",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "secrecy, confidentiality",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑月並↑↓|つきな↓み|のパーティーだったよ。",
+      "e": "That was just another party."
+    },
+    {
+      "j": "↑彼↑↓かれ↓は↑月並↑↓|つきな↓み|な↑家↑↓いえ↓の↑広告↑↓こうこく↓にまんまとだまされた。",
+      "e": "He fell for that old ad for a house like a ton of bricks."
+    },
+    {
+      "j": "↑彼↑↓かれ↓らの↑判断↑↓はんだん↓は↑月並↑↓|つきな↓み|だ。",
+      "e": "They are conventional in their judgement."
+    }
+  ]
+}

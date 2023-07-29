@@ -1,0 +1,85 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "たい",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "want to ... do something, would like to ...",
+        "pos": [
+          "aux-adj"
+        ]
+      },
+      {
+        "gloss": "indicates emphasis",
+        "pos": [
+          "prt"
+        ],
+        "dial": [
+          "kyu"
+        ]
+      },
+      {
+        "gloss": "very ...",
+        "pos": [
+          "suf",
+          "adj-i"
+        ],
+        "x": [
+          "めでたい"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "惨": {
+      "on": [
+        "サン",
+        "ザン"
+      ],
+      "kun": [
+        "みじ.め",
+        "いた.む",
+        "むご.い"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "cruel",
+        "wretched",
+        "disaster",
+        "cruelty",
+        "harsh"
+      ],
+      "freq": 1463,
+      "comp": [
+        [
+          "忄",
+          "参"
+        ]
+      ],
+      "t": 1284
+    },
+    "劇": {
+      "on": [
+        "ゲキ"
+      ],
+      "jlpt": 2,
+      "meanings": [
+        "drama",
+        "play"
+      ],
+      "freq": 662,
+      "comp": [
+        [
+          "豦",
+          "刂"
+        ]
+      ],
+      "t": 1979
+    }
+  },
+  "sdata": []
+}

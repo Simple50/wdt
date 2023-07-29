@@ -1,0 +1,58 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "いい",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "good, excellent, fine, nice, pleasant, agreeable",
+        "pos": [
+          "adj-ix"
+        ],
+        "x": [
+          "良い・よい・1"
+        ]
+      },
+      {
+        "gloss": "sufficient, enough, ready, prepared",
+        "pos": [
+          "adj-ix"
+        ],
+        "x": [
+          "良い・よい・2"
+        ]
+      },
+      {
+        "gloss": "profitable (deal, business offer, etc.), beneficial",
+        "pos": [
+          "adj-ix"
+        ],
+        "x": [
+          "良い・よい・3"
+        ]
+      },
+      {
+        "gloss": "OK, all right, fine, no problem",
+        "pos": [
+          "adj-ix"
+        ],
+        "x": [
+          "良い・よい・4"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑忘年会↑↓ぼうねんかい↓の↑余興↑↓|よきょう|↓で↑大喜↑↓おおぎ↓↑利↑↓り↓をやることになった。",
+      "e": "It's been decided that the entertainment for our year-end party will be a question-with-comical-improvised-answer session."
+    },
+    {
+      "j": "↑忘年会↑↓ぼうねんかい↓の↑余興↑↓|よきょう|↓で↑大喜↑↓おおぎ↓↑利↑↓り↓をやることになった。",
+      "e": "We decided to have a last piece on the programme at the year-end party."
+    }
+  ]
+}

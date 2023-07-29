@@ -1,0 +1,81 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "自分",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "じぶん",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "myself, yourself, oneself, himself, herself",
+        "pos": [
+          "pn"
+        ]
+      },
+      {
+        "gloss": "I, me",
+        "pos": [
+          "pn"
+        ]
+      },
+      {
+        "gloss": "you",
+        "pos": [
+          "pn"
+        ],
+        "dial": [
+          "ksb"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑自転車↑↓じてんしゃ↓は↑都会↑↓とかい↓の↑環境↑↓かんきょう↓を↑破壊↑↓は|かい↓する|ことなく↑資源↑↓しげん↓↑利用↑↓りよう↓を↑持続↑↓じぞく↓することのできる↑道具↑↓どうぐ↓である。",
+      "e": "Bicycles are tools for urban sustainability."
+    },
+    {
+      "j": "↑高校↑↓こうこう↓↑時代↑↓じだい↓について↑最↑↓もっと↓も↑後悔↑↓こう|かい↓する|ことを↑人々↑↓ひとびと↓に↑尋↑↓たず↓ねると↑大抵↑↓たいてい↓の↑人↑↓ひと↓は↑決↑↓き↓まってこう↑言↑↓い↓う。↑時間↑↓じかん↓を↑無駄↑↓むだ↓にしすぎていた、と。",
+      "e": "When I ask people what they regret most about high school, they nearly all say the same thing: that they wasted so much time."
+    },
+    {
+      "j": "↑賢明↑↓けんめい↓さを↑理解↑↓り|かい↓する|には↑賢明↑↓けんめい↓でなければならない。↑音楽↑↓おんがく↓は↑聴衆↑↓ちょうしゅう↓がろう↑者↑↓しゃ↓では↑意味↑↓いみ↓がないのと↑同様↑↓どうよう↓に。",
+      "e": "It requires wisdom to understand wisdom: the music is nothing if the audience is deaf."
+    },
+    {
+      "j": "もうすぐ↑授業↑↓じゅぎょう↓が↑再開↑↓さい|かい↓する|。",
+      "e": "Classes are starting again soon."
+    },
+    {
+      "j": "↑君↑↓きみ↓は↑遅↑↓おそ↓かれ↑早↑↓はや↓かれ↑怠↑↓なま↓けていたことを↑後悔↑↓こう|かい↓する|よ。",
+      "e": "Sooner or later, you will regret your idleness."
+    },
+    {
+      "j": "↑君↑↓きみ↓はじきに↑無分別↑↓むふんべつ↓な↑行為↑↓こうい↓を↑後悔↑↓こう|かい↓する|だろう。",
+      "e": "You will soon regret your rash conduct."
+    },
+    {
+      "j": "↑君↑↓きみ↓の↑言↑↓い↓うことは↑全↑↓まった↓く↑理解↑↓り|かい↓する|ことができない。",
+      "e": "I can not make out at all what you say."
+    },
+    {
+      "j": "↑君↑↓きみ↓が↑自分↑↓じぶん↓の↑行為↑↓こうい↓を↑後悔↑↓こう|かい↓する|ときがくるだろう。",
+      "e": "A time will come when you will regret your action."
+    },
+    {
+      "j": "↑君↑↓きみ↓がそれを↑後悔↑↓こう|かい↓する|↑時↑↓とき↓が↑来↑↓く↓るだろう。",
+      "e": "The time will come when you'll regret it."
+    },
+    {
+      "j": "↑君↑↓きみ↓がそのことを↑後悔↑↓こう|かい↓する|ときがくるよ。",
+      "e": "The time will come when you will be sorry for it."
+    }
+  ]
+}

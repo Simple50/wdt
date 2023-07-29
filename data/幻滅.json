@@ -1,0 +1,160 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "思う",
+        "p": true
+      },
+      {
+        "e": "想う"
+      },
+      {
+        "e": "念う"
+      },
+      {
+        "e": "憶う"
+      },
+      {
+        "e": "懐う"
+      },
+      {
+        "e": "惟う"
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "おもう",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "to think, to consider, to believe, to reckon",
+        "pos": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": "to think (of doing), to plan (to do)",
+        "pos": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": "to judge, to assess, to regard",
+        "pos": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": "to imagine, to suppose, to dream",
+        "pos": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": "to expect, to look forward to",
+        "pos": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": "to feel, to be (in a state of mind), to desire, to want",
+        "pos": [
+          "v5u",
+          "vt"
+        ]
+      },
+      {
+        "gloss": "to recall, to remember",
+        "pos": [
+          "v5u",
+          "vt"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "幻": {
+      "on": [
+        "ゲン"
+      ],
+      "kun": [
+        "まぼろし"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "phantasm",
+        "vision",
+        "dream",
+        "illusion",
+        "apparition"
+      ],
+      "freq": 1564,
+      "comp": [
+        [
+          "幺",
+          "𠃌"
+        ]
+      ],
+      "s": "幼",
+      "t": 132
+    },
+    "滅": {
+      "on": [
+        "メツ"
+      ],
+      "kun": [
+        "ほろ.びる",
+        "ほろ.ぶ",
+        "ほろ.ぼす"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "destroy",
+        "ruin",
+        "overthrow",
+        "perish"
+      ],
+      "freq": 1222,
+      "comp": [
+        [
+          "烕",
+          "氵"
+        ]
+      ],
+      "t": 1739
+    }
+  },
+  "sdata": [
+    {
+      "j": "その↑限↑↓かぎ↓られた↑性能↑↓せいのう↓のために↑私↑↓わたし↓はコンピューターに|↑幻滅|↑↓げんめつ↓を↑感↑↓かん↓じている。",
+      "e": "I feel disenchanted by the limited capacity of the computer."
+    },
+    {
+      "j": "↑私↑↓わたし↓たちはその↑結果↑↓けっか↓に|↑幻滅|↑↓げんめつ↓した。",
+      "e": "We were disillusioned with the result."
+    },
+    {
+      "j": "↑彼↑↓かれ↓の↑結婚↑↓けっこん↓↑生活↑↓せいかつ↓を↑見↑↓み↓て|↑幻滅|↑↓げんめつ↓を↑感↑↓かん↓じた。",
+      "e": "I was disillusioned at his married life."
+    },
+    {
+      "j": "↑彼女↑↓かのじょ↓の↑私生活↑↓しせいかつ↓を↑知↑↓し↓って|↑幻滅|↑↓げんめつ↓した。",
+      "e": "I was disillusioned at her private life."
+    },
+    {
+      "j": "↑君↑↓きみ↓には|↑幻滅|↑↓げんめつ↓した。",
+      "e": "You disappointed me."
+    },
+    {
+      "j": "↑君↑↓きみ↓には|↑幻滅|↑↓げんめつ↓した。",
+      "e": "I am disillusioned with you."
+    }
+  ]
+}

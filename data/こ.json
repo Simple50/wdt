@@ -1,0 +1,90 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "本",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "ほん",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "book, volume, script",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "this, present, current, ... in question, ... at issue",
+        "pos": [
+          "pref"
+        ]
+      },
+      {
+        "gloss": "main, head, principal",
+        "pos": [
+          "pref"
+        ]
+      },
+      {
+        "gloss": "real, genuine, regular, proper",
+        "pos": [
+          "pref"
+        ]
+      },
+      {
+        "gloss": "counter for long, cylindrical things, counter for films, TV shows, etc., counter for goals, home runs, etc., counter for telephone calls",
+        "pos": [
+          "ctr"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑私↑↓わたし↓は↑言葉↑↓|こ|とば↓に↑詰↑↓つ↓まった。",
+      "e": "I'm at a loss for words."
+    },
+    {
+      "j": "↑私↑↓わたし↓は↑言葉↑↓|こ|とば↓を↑失↑↓うしな↓った。",
+      "e": "I'm at a loss for words."
+    },
+    {
+      "j": "|こ|いつは↑悪↑↓わる↓いウサギだった。",
+      "e": "That was an evil bunny."
+    },
+    {
+      "j": "|こ|の↑世界↑↓せかい↓の↑教育↑↓きょういく↓にはがっかりしてしまう。",
+      "e": "Education in this world disappoints me."
+    },
+    {
+      "j": "そんな|こ|とは↑起↑↓お↓きないでしょう。",
+      "e": "That won't happen."
+    },
+    {
+      "j": "みんなもそうなのかな、と↑思↑↓おも↓う|こ|とくらいしかできない。",
+      "e": "I can only wonder if this is the same for everyone else."
+    },
+    {
+      "j": "それは|こ|っちの↑台詞↑↓せりふ↓だよ。",
+      "e": "That's MY line!"
+    },
+    {
+      "j": "↑驚↑↓おどろ↓く|こ|とではないね。",
+      "e": "It doesn't surprise me."
+    },
+    {
+      "j": "|こ|んな↑馬鹿↑↓ばか↓な|こ|とは↑言↑↓い↓った|こ|とが↑無↑↓な↓い。",
+      "e": "That's the stupidest thing I've ever said."
+    },
+    {
+      "j": "ダサい↑奴↑↓やつ↓には、なりたくない。かっ|こ|よくなりたい！",
+      "e": "I don't want to be lame; I want to be cool!!"
+    }
+  ]
+}

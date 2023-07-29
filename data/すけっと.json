@@ -1,0 +1,69 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "会",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "え",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "gathering (esp. Buddhist, festive, etc.)",
+        "pos": [
+          "n"
+        ]
+      }
+    ],
+    "m": [
+      "arch"
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑近↑↓ちか↓くでバ|スケット|が↑作↑↓つく↓られている。",
+      "e": "Baskets are being made nearby."
+    },
+    {
+      "j": "↑義男↑↓よしお↓は↑新↑↓あたら↓しいバ|スケット|シューズに１↑万↑↓まん↓５↑千↑↓せん↓↑円↑↓えん↓も↑払↑↓はら↓うといったが、↑私↑↓わたし↓はそれは↑高↑↓たか↓すぎると↑思↑↓おも↓いました。",
+      "e": "Yoshio said he would pay as much as 15,000 yen for a new pair of basketball shoes, but I thought that was quite expensive."
+    },
+    {
+      "j": "マイクは↑月曜日↑↓げつようび↓にはバ|スケット|ボールの↑練習↑↓れんしゅう↓をしない。",
+      "e": "Mike doesn't practice basketball on Monday."
+    },
+    {
+      "j": "マイクはバ|スケット|ボールをすることが↑好↑↓す↓きです。",
+      "e": "Mike likes to play basketball."
+    },
+    {
+      "j": "フットボールとバ|スケット|ボールでセンターをしています。",
+      "e": "I play center in football and basketball."
+    },
+    {
+      "j": "バ|スケット|ボールをするのはおもしろい。",
+      "e": "It is interesting to play basketball."
+    },
+    {
+      "j": "バ|スケット|ボールはとても↑面白↑↓おもしろ↓い。",
+      "e": "Basketball is a lot of fun."
+    },
+    {
+      "j": "バ|スケット|ボールのチームは５↑人↑↓にん↓のメンバーで↑構成↑↓こうせい↓されている。",
+      "e": "A basketball team consists of five players."
+    },
+    {
+      "j": "バ|スケット|ボールでは↑背↑↓せ↓が↑高↑↓たか↓い↑選手↑↓せんしゅ↓は↑有利↑↓ゆうり↓だ。",
+      "e": "In basketball, tall players have an advantage."
+    },
+    {
+      "j": "バ|スケット|の↑中↑↓なか↓にはかなりたくさんの↑腐↑↓くさ↓ったリンゴがあった。",
+      "e": "Quite a lot of rotten apples were in the basket."
+    }
+  ]
+}

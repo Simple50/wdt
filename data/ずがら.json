@@ -1,0 +1,42 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "なり",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "or something, for instance ... (though there are other suitable options)",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "... or ...",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "as soon as, right after",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "while still, with previous state still in effect",
+        "pos": [
+          "prt"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "その↑図柄↑↓|ずがら|↓はまったくよく↑似↑↓に↓ている。",
+      "e": "The figures are exactly alike."
+    }
+  ]
+}

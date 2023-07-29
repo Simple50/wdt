@@ -1,0 +1,82 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "そう",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "appearing that, seeming that, looking like, having the appearance of",
+        "pos": [
+          "aux",
+          "adj-na"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "両": {
+      "on": [
+        "リョウ"
+      ],
+      "kun": [
+        "てる",
+        "ふたつ"
+      ],
+      "jlpt": 3,
+      "meanings": [
+        "both",
+        "old Japanese coin",
+        "counter for carriages (e.g., in a train)",
+        "two"
+      ],
+      "freq": 247,
+      "comp": [
+        [
+          "一",
+          "冂",
+          "山"
+        ]
+      ],
+      "d": [
+        "満",
+        "輌"
+      ],
+      "t": 294
+    },
+    "輪": {
+      "on": [
+        "リン"
+      ],
+      "kun": [
+        "わ"
+      ],
+      "jlpt": 2,
+      "meanings": [
+        "wheel",
+        "ring",
+        "circle",
+        "link",
+        "loop",
+        "counter for wheels and flowers"
+      ],
+      "freq": 693,
+      "comp": [
+        [
+          "侖",
+          "車"
+        ]
+      ],
+      "s": "輸",
+      "t": 2065
+    }
+  },
+  "sdata": [
+    {
+      "j": "お↑前↑↓まえ↓と↑俺↑↓おれ↓は、↑今回↑↓こんかい↓のプロジェクトでは↑車↑↓くるま↓の|↑両輪|↑↓りょうりん↓ということだろう。↑仲良↑↓なかよ↓くしないことにはうまくいかないよ。",
+      "e": "It seems you and I are essential to this project. We'd better get along or it'll go badly."
+    }
+  ]
+}

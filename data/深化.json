@@ -1,0 +1,124 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "何",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "なん",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "what",
+        "pos": [
+          "pn"
+        ],
+        "x": [
+          "何・1"
+        ]
+      },
+      {
+        "gloss": "how many",
+        "pos": [
+          "pref"
+        ],
+        "x": [
+          "何か月"
+        ]
+      },
+      {
+        "gloss": "many, a lot of",
+        "pos": [
+          "pref"
+        ],
+        "x": [
+          "何度も",
+          "何日も"
+        ]
+      },
+      {
+        "gloss": "several, a few, some",
+        "pos": [
+          "pref"
+        ],
+        "x": [
+          "何日か"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "深": {
+      "on": [
+        "シン"
+      ],
+      "kun": [
+        "ふか.い",
+        "-ぶか.い",
+        "ふか.まる",
+        "ふか.める",
+        "み-"
+      ],
+      "jlpt": 3,
+      "meanings": [
+        "deep",
+        "heighten",
+        "intensify",
+        "strengthen"
+      ],
+      "freq": 484,
+      "comp": [
+        [
+          "氵",
+          "罙"
+        ]
+      ],
+      "s": "探",
+      "t": 1318
+    },
+    "化": {
+      "on": [
+        "カ",
+        "ケ"
+      ],
+      "kun": [
+        "ば.ける",
+        "ば.かす",
+        "ふ.ける",
+        "け.する"
+      ],
+      "jlpt": 3,
+      "meanings": [
+        "change",
+        "take the form of",
+        "influence",
+        "enchant",
+        "delude",
+        "-ization"
+      ],
+      "freq": 89,
+      "comp": [
+        [
+          "亻",
+          "𠤎"
+        ]
+      ],
+      "d": [
+        "花",
+        "貨",
+        "靴",
+        "訛",
+        "囮",
+        "吪",
+        "炛"
+      ],
+      "t": 114
+    }
+  },
+  "sdata": []
+}

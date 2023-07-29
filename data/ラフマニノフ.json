@@ -1,0 +1,55 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "日",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "ひ",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "day, days",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "sun, sunshine, sunlight",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "(the) day, daytime, daylight",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "date, deadline",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "(past) days, time (e.g. of one's childhood)",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "case (esp. unfortunate), event",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "sdata": []
+}

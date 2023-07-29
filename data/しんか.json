@@ -1,0 +1,97 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "何",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "なん",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "what",
+        "pos": [
+          "pn"
+        ],
+        "x": [
+          "何・1"
+        ]
+      },
+      {
+        "gloss": "how many",
+        "pos": [
+          "pref"
+        ],
+        "x": [
+          "何か月"
+        ]
+      },
+      {
+        "gloss": "many, a lot of",
+        "pos": [
+          "pref"
+        ],
+        "x": [
+          "何度も",
+          "何日も"
+        ]
+      },
+      {
+        "gloss": "several, a few, some",
+        "pos": [
+          "pref"
+        ],
+        "x": [
+          "何日か"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑金髪↑↓きんぱつ↓↑女性↑↓じょせい↓が↑精神↑↓せい|しん↓↑科↑↓か|↓↑医↑↓い↓と↑会話↑↓かいわ↓をしている。",
+      "e": "A blonde is speaking to her psychiatrist."
+    },
+    {
+      "j": "↑教授↑↓きょうじゅ↓は↑新↑↓|しん↓↑刊本↑↓か|んぽん↓を↑何↑↓なん↓↑冊↑↓さつ↓かニューヨークに↑注文↑↓ちゅうもん↓した。",
+      "e": "The professor ordered some new books from New York."
+    },
+    {
+      "j": "↑確↑↓たし↓かに↑彼↑↓かれ↓は↑両親↑↓りょう|しん↓か|ら↑独立↑↓どくりつ↓している。",
+      "e": "Certainly he is independent of him."
+    },
+    {
+      "j": "↑我々↑↓われわれ↓はダーウィンといえば↑進化↑↓|しんか|↓↑論↑↓ろん↓を↑想像↑↓そうぞう↓する。",
+      "e": "We associate Darwin with the theory of evolution."
+    },
+    {
+      "j": "ダーウィンと↑言↑↓い↓えば↑進化↑↓|しんか|↓↑論↑↓ろん↓が↑連想↑↓れんそう↓される。",
+      "e": "We associate Darwin with the theory of evolution."
+    },
+    {
+      "j": "↑何↑↓なん↓↑冊↑↓さつ↓かの↑新刊↑↓|しんか|ん↓↑書↑↓しょ↓をアメリカに↑注文↑↓ちゅうもん↓した。",
+      "e": "I ordered some new books from America."
+    },
+    {
+      "j": "もう↑両親↑↓りょう|しん↓か|ら↑独立↑↓どくりつ↓してもいいころだよ。",
+      "e": "It's about time you were independent of your parents."
+    },
+    {
+      "j": "ビルと↑私↑↓わたし↓は↑長↑↓なが↓い↑間↑↓ま↓↑心↑↓|しん↓か|らの↑友達↑↓ともだち↓だ。",
+      "e": "Bill and I have been sincere friends for a long time."
+    },
+    {
+      "j": "なぜ↑類人猿↑↓るいじんえん↓は↑他↑↓た↓の↑動物↑↓どうぶつ↓よりも↑進化↑↓|しんか|↓したのか。",
+      "e": "Why have the apes evolved more than other animals?"
+    },
+    {
+      "j": "ダーウィンの↑進化↑↓|しんか|↓↑論↑↓ろん↓は↑学↑↓まな↓びましたか。",
+      "e": "Have you studied Darwin's theory of evolution?"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "r_ele": [
+      {
+        "r": "や",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "such things as ..., and ... and",
+        "pos": [
+          "prt"
+        ]
+      },
+      {
+        "gloss": "the minute (that) ..., no sooner than ..., as soon as",
+        "pos": [
+          "prt"
+        ],
+        "x": [
+          "や否や・1"
+        ]
+      },
+      {
+        "gloss": "be, is",
+        "pos": [
+          "cop"
+        ],
+        "x": [
+          "だ・1"
+        ],
+        "dial": [
+          "ksb"
+        ]
+      },
+      {
+        "gloss": "o, oh",
+        "pos": [
+          "int"
+        ]
+      },
+      {
+        "gloss": "huh, what",
+        "pos": [
+          "int"
+        ]
+      },
+      {
+        "gloss": "hi",
+        "pos": [
+          "int"
+        ],
+        "m": [
+          "male"
+        ]
+      },
+      {
+        "gloss": "yes, what?",
+        "pos": [
+          "int"
+        ],
+        "m": [
+          "arch"
+        ]
+      },
+      {
+        "gloss": "yes?, no?, is it?, isn't it?",
+        "pos": [
+          "prt"
+        ],
+        "m": [
+          "arch"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "始": {
+      "on": [
+        "シ"
+      ],
+      "kun": [
+        "はじ.める",
+        "-はじ.める",
+        "はじ.まる"
+      ],
+      "jlpt": 4,
+      "meanings": [
+        "begin",
+        "commence"
+      ],
+      "freq": 244,
+      "comp": [
+        [
+          "女",
+          "台"
+        ]
+      ],
+      "t": 637
+    },
+    "業": {
+      "on": [
+        "ギョウ",
+        "ゴウ"
+      ],
+      "kun": [
+        "わざ"
+      ],
+      "jlpt": 4,
+      "meanings": [
+        "business",
+        "vocation",
+        "arts",
+        "performance"
+      ],
+      "freq": 43,
+      "comp": [
+        [
+          "业",
+          "䒑",
+          "未"
+        ]
+      ],
+      "d": [
+        "鄴",
+        "嶫",
+        "㒒"
+      ],
+      "s": "美",
+      "t": 1538
+    }
+  },
+  "sdata": [
+    {
+      "j": "↑教室↑↓きょうしつ↓に↑入↑↓はい↓って↑席↑↓せき↓に↑着↑↓つ↓くのとほぼ↑同時↑↓どうじ↓に、|↑始業|↑↓しぎょう↓を↑知↑↓し↓らせるチャイムの↑音↑↓おと↓が↑鳴↑↓な↓り↑響↑↓ひび↓く。",
+      "e": "About the same time as he entered the classroom and arrived at his seat, the chime to announce class rings across the school."
+    },
+    {
+      "j": "その↑学生↑↓がくせい↓が３↑年生↑↓ねんせい↓になって↑学校↑↓がっこう↓に↑来↑↓き↓たのは|↑始業|↑↓しぎょう↓↑式↑↓しき↓の↑日↑↓ひ↓だけです。",
+      "e": "Since he became a third year student, the only day he came to school was the day of the opening ceremony."
+    }
+  ]
+}

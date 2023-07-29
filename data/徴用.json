@@ -1,0 +1,122 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "時",
+        "p": true
+      },
+      {
+        "e": "刻"
+      },
+      {
+        "e": "秋"
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "とき",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "time, hour, moment",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "occasion, case",
+        "pos": [
+          "n",
+          "adv"
+        ]
+      },
+      {
+        "gloss": "chance, opportunity, season",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "the times, the age, the day",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "tense",
+        "pos": [
+          "n"
+        ],
+        "f": [
+          "gramm"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "徴": {
+      "on": [
+        "チョウ",
+        "チ"
+      ],
+      "kun": [
+        "しるし"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "indications",
+        "sign",
+        "omen",
+        "symptom",
+        "collect",
+        "seek",
+        "refer to",
+        "question"
+      ],
+      "freq": 850,
+      "comp": [
+        [
+          "微",
+          "王"
+        ]
+      ],
+      "d": [
+        "懲"
+      ],
+      "s": "微",
+      "t": 1871
+    },
+    "用": {
+      "on": [
+        "ヨウ"
+      ],
+      "kun": [
+        "もち.いる"
+      ],
+      "jlpt": 4,
+      "meanings": [
+        "use",
+        "utilize",
+        "business",
+        "service",
+        "employ"
+      ],
+      "freq": 107,
+      "d": [
+        "角",
+        "庸",
+        "甯",
+        "甬",
+        "甪",
+        "佣",
+        "僃",
+        "苚",
+        "𤰇"
+      ],
+      "t": 255
+    }
+  },
+  "sdata": []
+}

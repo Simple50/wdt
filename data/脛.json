@@ -1,0 +1,87 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "方",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "かた",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "direction, way",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "person, lady, gentleman",
+        "pos": [
+          "n"
+        ],
+        "m": [
+          "hon"
+        ]
+      },
+      {
+        "gloss": "method of, manner of, way of",
+        "pos": [
+          "n",
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "care of ...",
+        "pos": [
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "person in charge of ...",
+        "pos": [
+          "n-suf"
+        ]
+      },
+      {
+        "gloss": "side (e.g. \"on my mother's side\")",
+        "pos": [
+          "n-suf"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "脛": {
+      "on": [
+        "ケイ"
+      ],
+      "kun": [
+        "すね",
+        "はぎ"
+      ],
+      "meanings": [
+        "leg",
+        "shin"
+      ],
+      "comp": [
+        [
+          "巠",
+          "月"
+        ]
+      ],
+      "jlpt": -1,
+      "freq": 3019
+    }
+  },
+  "sdata": [
+    {
+      "j": "↑昨日↑↓きのう↓から|↑脛|↑↓すね↓が↑痛↑↓いた↓い。",
+      "e": "My calf has been hurting since yesterday."
+    }
+  ]
+}

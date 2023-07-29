@@ -1,0 +1,72 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "時",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "じ",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "hour, o'clock",
+        "pos": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": "(specified) time, when ..., during ...",
+        "pos": [
+          "suf",
+          "adj-no"
+        ],
+        "x": [
+          "緊急時"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑何↑↓なに↓とかしてできる|だけ↑捕↑↓つ|か↓まえろ。",
+      "e": "Catch as catch can."
+    },
+    {
+      "j": "↑委員↑↓いいん↓↑会↑↓かい↓はま|だ↑決議↑↓けつ|ぎ↓に↑至↑↓いた↓らない。",
+      "e": "The committee has not yet arrived at a decision."
+    },
+    {
+      "j": "ま|だ↑決断↑↓けつ|だん↓はついてなかった。",
+      "e": "The decision was still in the air."
+    },
+    {
+      "j": "テイトさんにヘレンが↑会↑↓あ↓いにきていると|だけ↑伝↑↓つ|た↓えて↑下↑↓くだ↓さい。",
+      "e": "Just tell Mr Tate that Helen Cartwright is here to see him."
+    },
+    {
+      "j": "いつものよりがんばった↑分↑↓ぶん↓|だけ↑疲↑↓つ|か↓れました。",
+      "e": "I tried harder than usual, so I'm all the more exhausted."
+    },
+    {
+      "j": "↑上↑↓うえ↓へ↑昇↑↓のぼ↓れば↑昇↑↓のぼ↓るほど、それ|だけ↑墜落↑↓つ|いらく↓の↑程度↑↓ていど↓は↑大↑↓おお↓きくなる。",
+      "e": "The higher you climb, the greater the fall."
+    },
+    {
+      "j": "↑10↑↓じゅっ↓↑分↑↓ぷん↓|だけ↑付↑↓つ|↓き↑合↑↓あ↓おう。",
+      "e": "I can spare you just 10 minutes."
+    },
+    {
+      "j": "トムはお↑金↑↓かね↓をどれ|だけ↑使↑↓つ|か↓ったんだ？",
+      "e": "How much money did Tom spend?"
+    },
+    {
+      "j": "あの↑子↑↓こ↓、↑稼↑↓かせ↓いだら↑稼↑↓かせ↓いだ|だけ↑使↑↓つ|か↓っちゃうのよ。",
+      "e": "She spends as much money as she earns."
+    }
+  ]
+}

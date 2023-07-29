@@ -1,0 +1,136 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "時間",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "じかん",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "time",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "hour",
+        "pos": [
+          "n"
+        ]
+      },
+      {
+        "gloss": "period, class, lesson",
+        "pos": [
+          "n"
+        ]
+      }
+    ]
+  },
+  "kdata": {
+    "万": {
+      "on": [
+        "マン",
+        "バン"
+      ],
+      "kun": [
+        "よろず"
+      ],
+      "jlpt": 5,
+      "meanings": [
+        "10 000",
+        "ten thousand",
+        "10,000"
+      ],
+      "freq": 375,
+      "comp": [
+        [
+          "丆",
+          "𠃌"
+        ]
+      ],
+      "d": [
+        "方",
+        "栃",
+        "杤",
+        "厉"
+      ],
+      "s": "方",
+      "t": 37
+    },
+    "端": {
+      "on": [
+        "タン"
+      ],
+      "kun": [
+        "はし",
+        "は",
+        "はた",
+        "-ばた",
+        "はな"
+      ],
+      "jlpt": 1,
+      "meanings": [
+        "edge",
+        "origin",
+        "end",
+        "point",
+        "border",
+        "verge",
+        "cape"
+      ],
+      "freq": 960,
+      "comp": [
+        [
+          "耑",
+          "立"
+        ]
+      ],
+      "t": 1904
+    }
+  },
+  "sdata": [
+    {
+      "j": "↑準備↑↓じゅんび↓は|↑万端|↑↓ばんたん↓です。",
+      "e": "Everything is ready."
+    },
+    {
+      "j": "↑準備|↑↓じゅんび↓↑万端|↑↓ばんたん↓↑整↑↓ととの↓えてから、↑彼↑↓かれ↓は↑東京↑↓とうきょう↓に↑出発↑↓しゅっぱつ↓した。",
+      "e": "Having made all the preparations, he set out for Tokyo."
+    },
+    {
+      "j": "↑準備|↑↓じゅんび↓↑万端|↑↓ばんたん↓↑整↑↓ととの↓っています。",
+      "e": "Everything is all arranged."
+    },
+    {
+      "j": "↑旅行↑↓りょこう↓の↑準備↑↓じゅんび↓は|↑万端|↑↓ばんたん↓ですか。",
+      "e": "Are you all set for the trip?"
+    },
+    {
+      "j": "↑準備|↑↓じゅんび↓↑万端|↑↓ばんたん↓？",
+      "e": "Is everything ready?"
+    },
+    {
+      "j": "↑旅行↑↓りょこう↓の↑準備↑↓じゅんび↓は|↑万端|↑↓ばんたん↓ですか。",
+      "e": "Have you finished your preparations for the trip?"
+    },
+    {
+      "j": "いつでも↑被災↑↓ひさい↓↑地↑↓ち↓に↑送↑↓おく↓れるよう↑準備|↑↓じゅんび↓↑万端|↑↓ばんたん↓、↑古着↑↓ふるぎ↓が↑詰↑↓つ↓まったダンボール↑箱↑↓ばこ↓が300↑個↑↓こ↓あった。",
+      "e": "There were three hundred cardboard boxes filled with old clothes ready to be sent to the disaster area."
+    },
+    {
+      "j": "↑準備↑↓じゅんび↓は|↑万端|↑↓ばんたん↓です。",
+      "e": "Everything's ready."
+    },
+    {
+      "j": "↑準備↑↓じゅんび↓は|↑万端|↑↓ばんたん↓です。",
+      "e": "Everything is ready!"
+    }
+  ]
+}

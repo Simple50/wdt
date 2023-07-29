@@ -1,0 +1,59 @@
+{
+  "data": {
+    "k_ele": [
+      {
+        "e": "上",
+        "p": true
+      }
+    ],
+    "r_ele": [
+      {
+        "r": "じょう",
+        "p": true
+      }
+    ],
+    "sense": [
+      {
+        "gloss": "from the standpoint of, from the viewpoint of, with respect to, in terms of, as a matter of, in view of, so far as ... is concerned",
+        "pos": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": "on, above, on top of, aboard (a ship or vehicle)",
+        "pos": [
+          "suf"
+        ]
+      },
+      {
+        "gloss": "the best, top, first class, first grade",
+        "pos": [
+          "n",
+          "adj-no"
+        ]
+      },
+      {
+        "gloss": "first volume (of a two or three-volume set), first book",
+        "pos": [
+          "n"
+        ],
+        "x": [
+          "下・2",
+          "中・6"
+        ]
+      },
+      {
+        "gloss": "with my compliments",
+        "pos": [
+          "exp"
+        ]
+      }
+    ]
+  },
+  "sdata": [
+    {
+      "j": "↑政府↑↓せいふ↓での↑私↑↓わたし↓の↑職歴↑↓|しょくれき|↓は↑数↑↓すう↓↑多↑↓おお↓くの↑海外↑↓かいがい↓↑勤務↑↓きんむ↓を↑含↑↓ふく↓む。",
+      "e": "My career in the government includes many overseas assignments."
+    }
+  ]
+}
